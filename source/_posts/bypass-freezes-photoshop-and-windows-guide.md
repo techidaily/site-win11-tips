@@ -1,7 +1,7 @@
 ---
 title: "Bypass Freezes: Photoshop & Windows Guide"
-date: 2024-07-29T08:14:52.124Z
-updated: 2024-07-30T08:14:52.124Z
+date: 2025-01-13T17:42:56.562Z
+updated: 2025-01-18T16:33:00.551Z
 tags:
   - windows10
   - windows11
@@ -45,17 +45,9 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
  Consider trying more specific solutions if these general fixes don't solve your Photoshop problems.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Delete All Third-Party Plugins
 
  Third-party plugins provide you with some advanced Photoshop features. Worldwide developers develop them to improve your overall photo editing experience. However, some poorly coded plugins can sometimes interfere with Photoshop.
@@ -72,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
  Once you get Adobe Photoshop running, we have some [free Adobe Photoshop plugins for your creative suite](https://www.makeuseof.com/tag/free-adobe-photoshop-plugins/).
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Update Your Adobe Photoshop Program
 
  Adobe often releases incremental updates throughout the year to address bugs and compatibility issues in Adobe Photoshop. So, if you last updated the app long ago, you're missing out on some bug-fix patches.
@@ -82,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 
 1. Launch Adobe Photoshop on your system.
 2. Once open, navigate to the **Help** tab at the top of the interface.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Photoshop Update Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-update-option.jpg)
 3. From the drop-down list, select the **Updates** option.
 4. If an update is available, it'll prompt you to update. Follow the prompts on the update wizard to replace the outdated Adobe Photoshop version.
@@ -105,11 +95,12 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 3. Select all the preset folders that you've recently installed and delete them. This action will remove the presets from Adobe Photoshop.  
 ![Adobe Photoshop Presets Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-presets-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. If Photoshop operates normally with presets removed, it indicates that a corrupted preset is at fault.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Use the Adobe Creative Cloud Cleaner Tool
 
  The Adobe Creative Cloud Cleaner tool is mainly for the apps that Adobe offers to its customers. For instance, you can use this tool for Adobe Photoshop, Illustrator, and Acrobat DC, to name a few.
@@ -120,19 +111,22 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 
 1. Navigate to the [Adobe Help Center website](https://helpx.adobe.com/in/creative-cloud/kb/cc-cleaner-tool-installation-problems.html) and scroll down.
 2. Access the drop-down menu next to **Filter by** text and select **Windows**. Click on the **Download** button now.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Help Website Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-website-screenshot.jpg)
 3. Close Adobe Photoshop now and run the **AdobeCreativeCloudCleanerTool.exe** file as an **Administrator**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. A Command Prompt window will appear now. Type the alphabet "**e**" there and press **Enter**.  
 ![AdobeCreativeCloudCleaner Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobecreativecloudcleaner-tool.jpg)
 
  Similarly, follow the on-screen instructions to clean up the installation records of Adobe Photoshop.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reset the Adobe Photoshop Settings
 
  Adobe Photoshop offers many settings to tweak the app for better performance and usability. So, If the software is crashing or [Photoshop files aren't opening](https://www.makeuseof.com/how-to-fix-photoshop-program-error-when-opening-files/), you may have tweaked the wrong setting.
@@ -145,16 +139,14 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 ![Windows Run Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-run-dialog-box.jpg)
 2. Press **Enter** to execute the command via Run. This will open the Windows File Explorer.
 3. Double-click on the folder that shows your current Adobe Photoshop version. We're using the **2023** version for this guide.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Folder In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-folder-in-file-explorer.jpg)
 4. Again, double-click on the folder that says **Adobe Photoshop \[version\] Settings**.
 5. Press **Ctrl + A** to select and delete all the files inside the settings folder. This will reset your Adobe Photoshop settings to their default state.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Photoshop Settings Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-settings-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're using the beta version, please remove it altogether. Beta versions offer some features in development, but this sometimes introduces new bugs and glitches!
 
@@ -166,9 +158,6 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 
 1. [Open the Windows Services app](https://www.makeuseof.com/windows-11-open-services-app/).
 2. Right-click on the **Windows Image Acquisition (WIA)** service. A context menu will appear; select **Restart** in that.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows Image Acquisition Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-image-acquisition-service.jpg)
 3. Repeat the same step with the following services to restart them: **Windows Font Cache Service**, **Application Information**, and **Program Compatibility Assistant Service**.
 4. Once done, restart Adobe Photoshop and check whether it's working correctly.
@@ -181,11 +170,27 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 
  Often, it's not Adobe Photoshop but your Windows system causing such issues. So, let's explore some effective methods to solve Adobe Photoshop-related problems on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ive-stream-audience-analysis-solutions/"><u>[New] Live Stream Audience Analysis Solutions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-prime-pioneering-1980s-techniques-in-film-making/"><u>[Updated] In 2024, Prime Pioneering 1980S Techniques in Film Making</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-savespace-pros-review-summary/"><u>2024 Approved SaveSpace Pros Review Summary</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enable-portable-internet-connectivity-with-windows-11-pc/"><u>Enable Portable Internet Connectivity with Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-full-screen-screenshot-success-in-windows-snip-and-sketch-tool/"><u>Enhance Full-Screen Screenshot Success in Windows' Snip & Sketch Tool</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-easily-reset-your-lenovo-g50-laptop-a-guide-for-beginners/"><u>How to Easily Reset Your Lenovo G50 Laptop - A Guide for Beginners</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-opening-win-11s-call-interface/"><u>Master the Art of Opening Win 11'S Call Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11-proactive-disk-management/"><u>Optimizing Windows 11: Proactive Disk Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-methods-to-reactivate-the-dormant-wsreset-service/"><u>Proven Methods to Reactivate the Dormant WSReset Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-the-ai-windows-copilot-mean-for-windows-11-users/"><u>What Does the AI Windows Copilot Mean for Windows 11 Users?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-is-my-mouse-right-click-not-working-in-windows-10-solutions-inside/"><u>Why Is My Mouse Right Click Not Working in Windows 10? Solutions Inside!</u></a></li>
+</ul></div>
+

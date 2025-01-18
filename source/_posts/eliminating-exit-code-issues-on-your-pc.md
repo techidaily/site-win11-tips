@@ -1,7 +1,7 @@
 ---
 title: Eliminating Exit Code Issues on Your PC
-date: 2025-01-08T01:54:23.539Z
-updated: 2025-01-12T20:47:31.363Z
+date: 2025-01-11T16:30:02.830Z
+updated: 2025-01-18T16:16:25.324Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Delete or Disable Outdated Mods
 
  The "exit code: 1" error can occur due to outdated mods. To resolve the error, check the Minecraft mods folder and delete it. Removing mods can break your worlds. So make sure to create a backup before attempting to remove any mods. Here’s how to do it.
@@ -35,19 +39,19 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 ![appdata run dialog windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/appdata-run-dialog-windows-11.jpg)
 3. Next, open the**.minecraft** folder.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![minecraft mods folder windows file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-mods-folder-windows-file-explorer.jpg)
 4. Open the**mods** folder inside the**.minecraft** folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Select and right-click on all the**mods** one by one and select**Delete** .
 
  Once all the mods are removed, close File Explorer and relaunch Minecraft to see if the error is resolved. On the flip side, you may find some Minecraft levels (worlds) broken upon launch. You may also want to re-download mods to make further modifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Repair Minecraft Launcher
@@ -62,10 +66,6 @@ To repair Minecraft Launcher:
 ![minecrafft launcher advanced options windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecrafft-launcher-advanced-options-windows-11.jpg)
 4. Next, click the**three-dots menu** beside the app name and select**Advanced Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![repair minecraft launcher windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-minecraft-launcher-windows-11.jpg)
 5. Scroll down to the**Reset** section and click**Repair** . Windows will perform a quick repair and show a checkmark once the repair is complete.
 6. Relaunch Minecraft Launcher and check for any improvements.
@@ -75,10 +75,6 @@ To repair Minecraft Launcher:
 ## 3\. Modify the Minecraft Launcher File Path
 
 ![modify minecraft launcher file path working directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/modify-minecraft-launcher-file-path-working-directory.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Issues with the Minecraft Launcher file path can cause the "exit code: 1" on Windows. If your user name has a special character, the Minecraft Launcher file path may not respond to a user account with a special character.
 
@@ -119,7 +115,7 @@ To change the Java executable for Minecraft:
 5. Click**Save** to apply the changes and relaunch Minecraft Launcher.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. The caveat here is you’ll need to update the Java version number or re-add the Java executable every time you update Java.
@@ -137,10 +133,6 @@ To backup Minecraft saves and uninstall the game:
 ![delete minecraft data folder uninstall windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-minecraft-data-folder-uninstall-windows.jpg)
 4. Right-click on the saves folder and select**Copy (Ctrl +C)** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Paste the**saves** folder outside the**.minecraft** folder.  
 ![minecraft saves folder windows file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-savess-folder-windows-file-explorer.jpg)
 6. Next, return to the**Roaming** folder and delete the**.minecraft** folder to uninstall the game.
@@ -155,6 +147,10 @@ C:\Users\[Username]\AppData\Roaming\.minecraft
 
  If Minecraft is still plagued by the "exit code: 1" error, here are some more general fixes you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update the Graphics Drivers
 
  Incompatible or outdated graphics drivers can cause games on Windows computers to malfunction. For a dedicated GPU, you can use AMD Radeon Software or Nvidia GeForce Experience to[install the latest graphics drivers updates on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) .
@@ -162,7 +158,7 @@ C:\Users\[Username]\AppData\Roaming\.minecraft
  Intel users can download newer updates from the Windows update page. To do this, press Win + I to open Settings. Open Windows Updates and install any update available for your Intel graphics. Alternatively, check Intel’s website for newer display drivers for Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reinstall Java
@@ -177,6 +173,10 @@ To reinstall Java Runtime Environment:
 2. Select the correct version for your Windows computer. You can opt for the Windows Online or Offline version. Also, download the 64-bit version if applicable.
 3. Run the installer and follow the on-screen instructions to complete installations.
 4. Once installed, restart your computer and check for any improvements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the Minecraft Exit Code: 1 Error
 
@@ -199,18 +199,18 @@ To reinstall Java Runtime Environment:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlock-facebook-potential-with-effective-engagement-strategies/"><u>[New] 2024 Approved Unlock Facebook Potential with Effective Engagement Strategies</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-navigating-youtube-networking-creating-powerful-channel-backlinks/"><u>[Updated] 2024 Approved Navigating YouTube Networking Creating Powerful Channel Backlinks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-cross-platform-movie-capture/"><u>[Updated] 2024 Approved The Ultimate Guide to Cross-Platform Movie Capture</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tips-for-crafting-top-notch-video-hashtags-for-2024/"><u>[Updated] Expert Tips for Crafting Top-Notch Video Hashtags for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-crucial-strategies-to-salvage-a-frozen-windows-service-panel/"><u>7 Crucial Strategies to Salvage a Frozen Windows Service Panel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/access-display-settings-right-click-on-the-desktop-and-select-display-settings/"><u>Access Display Settings: Right-Click on the Desktop and Select Display Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-timeout-issue-windows-1110-semaphore-error-0x80070079/"><u>Addressing Timeout Issue - Windows 11/10 Semaphore Error 0X80070079</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/assessing-your-windows-11-activation-status/"><u>Assessing Your Windows 11 Activation Status</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beginners-trick-swiftly-access-sticky-notes-post-boot-windows/"><u>Beginner's Trick: Swiftly Access Sticky Notes Post-Boot Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202188947-error-4000-on-twitch-heres-the-definitive-solution-you-need/"><u>Error 4000 on Twitch? Here's the Definitive Solution You Need</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-s23-ultra-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy S23 Ultra to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-6s-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From Apple iPhone 6s If Youve Tried Everything</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719258042287-reclaiming-chrome-in-w11-easy-to-follow-remediation-tips/"><u>Reclaiming Chrome in W11 - Easy-to-Follow Remediation Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-perfecting-your-podcasts-naming-strategy-guide-and-top-ideas-list/"><u>[New] In 2024, Perfecting Your Podcast's Naming Strategy Guide and Top Ideas List</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-is-it-legal-to-record-youtube-for-2024/"><u>[Updated] Is It Legal to Record YouTube for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-gopro-karma-quest-for-altitude-dominance/"><u>In 2024, The GoPro Karma Quest for Altitude Dominance</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/initial-steps-in-french-phonology-and-rhythm/"><u>Initial Steps in French Phonology and Rhythm</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-stubborn-windows-previous-credentials-error/"><u>Overcoming Stubborn Windows Previous Credentials Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unresponsive-gpsvc-delay-in-windows/"><u>Overcoming Unresponsive GPSVC Delay in Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/planting-prowess-in-valheim-uncovering-premium-saplings-for-2024/"><u>Planting Prowess in Valheim Uncovering Premium Saplings for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-and-easy-fixes-to-boost-your-slow-chromium-browsers-speed/"><u>Quick and Easy Fixes to Boost Your Slow Chromium Browser's Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-3d-art-process-with-indispensable-keyboard-shortcuts/"><u>Streamline Your 3D Art Process with Indispensable Keyboard Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-cmd-connoisseurs-guide-to-five-fun-hacks/"><u>The Cmd Connoisseur's Guide to Five Fun Hacks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-overcoming-fifa-19-stability-problems-on-windows-machines/"><u>Troubleshooting Guide: Overcoming FIFA 19 Stability Problems on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-edge-written-by-anonymous/"><u>Unleashing Edge' Written by Anonymous</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-ethernet-fix-guide-for-disconnection/"><u>Windows Ethernet Fix Guide for Disconnection</u></a></li>
 </ul></div>
 

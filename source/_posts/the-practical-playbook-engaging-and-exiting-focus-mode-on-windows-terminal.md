@@ -1,7 +1,7 @@
 ---
 title: "The Practical Playbook: Engaging & Exiting Focus Mode on Windows Terminal"
-date: 2025-01-12T00:14:20.349Z
-updated: 2025-01-12T19:05:25.988Z
+date: 2025-01-13T18:41:45.893Z
+updated: 2025-01-18T16:44:35.604Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use Windows Terminal Settings
@@ -40,16 +40,12 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 4. Go to**Launch mode** and click on the drop-down menu, then select**Focus** from the list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Next, click on the**Save** button to apply the changes.
 
  After saving your changes, the Windows Terminal will automatically enter Focus Mode and hide the tabs and title bar every time you launch it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Use the Run Command
 
@@ -61,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
  This will open the Windows Terminal with Focus Mode enabled. To turn off Focus Mode, press**Ctrl + Shift + P** on your keyboard. Then search for**Toggle focus mode** and click on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use the Command Palette
@@ -77,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 
  If you need to access the tabs and title bar, you can press the same shortcut again. It will switch back to the normal mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Create a Shortcut Key
 
  Creating a shortcut key to enter Focus Mode in Windows Terminal is highly recommended as it makes switching between modes much faster and easier. Here's how:
@@ -86,14 +86,14 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 ![Create a Shortcut Key to enable Focus Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-a-shortcut-key-to-enable-focus-mode.jpg)
 3. Next, scroll down and select**Toggle focus mode** from the option list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Now, assign your preferred shortcut (e.g.,**Ctrl + Alt + F**) to the Toggle focus mode command.
 5. Finally, click**Save** to apply the changes and close the Settings window.
 
  Once you create the shortcut key, you can press it to switch between Focus Mode and normal mode in Windows Terminal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use Windows File Explorer
 
@@ -124,19 +124,16 @@ wt.exe /focus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-zoom-camera-not-working-2024-guide/"><u>[Fixed] Zoom Camera Not Working 2024 Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-champion-avc-player-for-seamless-viewing/"><u>[New] Champion AVC Player for Seamless Viewing</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-trilltones-techniques-how-to-cut-and-download-tamil-songs/"><u>[Updated] In 2024, TrillTones Techniques How to Cut and Download Tamil Songs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tips-to-improve-zooms-facebook-live-functionality/"><u>2024 Approved Tips to Improve Zoom's Facebook Live Functionality</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-itel-p55-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Itel P55 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/free-online-swf-to-mkv-converter-movavi-video-editor/"><u>Free Online Swf to Mkv Converter - Movavi Video Editor</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-gt-5-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme GT 5 Pro via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-notebook-display-adjusting-windows-11s-themes-and-fonts/"><u>Optimizing Notebook Display: Adjusting Windows 11'S Themes & Fonts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/qbittorrent-migration-a-practical-guide-to-preserve-settings/"><u>QBittorrent Migration: A Practical Guide to Preserve Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-non-startup-of-netflix-in-windows/"><u>Reversing Non-Startup of Netflix in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-virtual-machines-on-windows-6-performance-tweaks/"><u>Streamline Virtual Machines on Windows: 6 Performance Tweaks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-the-future-of-mobile-photography-iphone-16s-revolutionary-spatial-video-and-slimmer-design-insights/"><u>Unlock the Future of Mobile Photography: IPhone 16'S Revolutionary Spatial Video & Slimmer Design - Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-secret-of-smooth-typing-in-powertoys/"><u>Unlock the Secret of Smooth Typing in PowerToys</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-secure-browsing-with-less-cost-exploring-the-features-of-private-internet-access-as-an-elite-open-source-vpn-by-zdnet/"><u>Unlocking Secure Browsing with Less Cost: Exploring the Features of Private Internet Access as an Elite, Open-Source VPN by ZDNET</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-essentials-of-hosting-a-zoom-event-via-android-for-2024/"><u>[New] The Essentials of Hosting a Zoom Event via Android for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-on-editing-away-backgrounds/"><u>2024 Approved Expert Advice on Editing Away Backgrounds</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensively-understanding-azure-speech-to-text-for-2024/"><u>Comprehensively Understanding Azure Speech to Text for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-down-waiting-time-editing-boot-sequence-timer-win11/"><u>Cutting Down Waiting Time: Editing Boot Sequence Timer Win11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-15-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 15 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/interactive-tips-youtube-to-facebook-shareability/"><u>Interactive Tips YouTube to Facebook Shareability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4-file-merging-techniques-with-movavi-a-comprehensive-guide/"><u>MP4 File Merging Techniques with Movavi - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-security-single-antivirus-on-windows-pcs/"><u>Streamline Security: Single Antivirus on Windows PCs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-screenshot-save-spaces/"><u>Windows Screenshot Save Spaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aac-ogg-movavi/"><u>무료 솔루션: AAC OGG 데이터를 바꾸기, 인터넷에서 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Extended Support for Windows 11 Version 22H2 Announced
-date: 2025-01-08T16:43:35.846Z
-updated: 2025-01-12T16:54:46.137Z
+date: 2025-01-13T17:34:53.059Z
+updated: 2025-01-18T17:12:00.121Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft has extended support for Windows 11 version 22H2, providing extra time for optional updates.
@@ -30,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
  When Microsoft declares an end-of-support date, it usually sticks to it. However, in rare instances, Microsoft will change this date. Such is the case with Windows 11 version 22H2, which has been given a time extension for optional updates. But what does that mean, both in terms of Windows 11 generally and for your own computer?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's Happening to Windows 11 22H2's End of Support Date?
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
  According to Microsoft, this change occurred due to user feedback.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Defining an "Optional Update" in Windows
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
  Check out our guide to [what Windows optional updates are](https://www.makeuseof.com/windows-optional-updates-guide/) for more information about them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does This Mean for Windows 11 22H2 Users?
@@ -66,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 ![ASUS Zenbook 14 OLED Display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/asus-zenbook-14-oled-display.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
@@ -78,10 +82,6 @@ Zarif Ali / MakeUseOf
  Still, if you can't make the jump right away, it's not the end of the world. An operating system isn't truly deemed "dead" until the company stops supplying security patches. Once this happens, any exploits hackers find won't be patched by the company, and you'll be on your own. It's one of the plenty of [reasons why you shouldn't use an old version of Windows](https://www.makeuseof.com/why-you-shouldnt-use-old-windows/).
 
  As per [Microsoft Learn](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro), Windows Home and Pro will continue getting security updates until October 4, 2024, while the business editions get until October 14, 2025\. You can count this as the "hard deadline," after which you should either upgrade or change the operating system. However, it's always good to be proactive and make the jump as soon as possible (once any initial issues have been patched up).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should You Upgrade to the Current Version of Windows 11?
 
@@ -103,22 +103,18 @@ Zarif Ali / MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-your-ultimate-selfie-validation-handbook/"><u>[New] 2024 Approved Your Ultimate Selfie Validation Handbook</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-bring-pics-into-action-blur-technique/"><u>[New] Bring Pics Into Action Blur Technique</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-craft-precise-notes-using-mematic-software-for-2024/"><u>[Updated] Craft Precise Notes Using Mematic Software for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/audience-allure-powerful-hashtags-that-transform-youtube-shorts-for-2024/"><u>Audience Allure Powerful Hashtags That Transform YouTube Shorts for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/core-applications-of-visual-cplusplus-redistributables/"><u>Core Applications of Visual C++ Redistributables</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/focused-file-exploring-unleash-windowed-space-potential/"><u>Focused File Exploring: Unleash Windowed Space Potential</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-tackle-windows-11s-0x800f0922-update-error/"><u>Guide to Tackle Windows 11'S 0X800F0922 Update Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-file-or-directory-is-corrupted-error-0x80070570-on-windows-10-and-11/"><u>How to Fix the “File or Directory Is Corrupted” Error 0X80070570 on Windows 10 & 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-12-mini-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone 12 mini iCloud Bypass</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-access-to-reliable-easycap-software-drivers-download-today/"><u>Instant Access to Reliable EasyCAP Software Drivers - Download Today!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-the-basics-of-window-aids-with-ease/"><u>Navigate the Basics of Window Aids with Ease</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-virtualdub-competitors-a-review-of-the-best-video-editing-tools-for-2024/"><u>New VirtualDub Competitors A Review of the Best Video Editing Tools for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-the-irritating-steam-error-code-e84/"><u>Quick Fixes for the Irritating Steam Error Code E84</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-case-for-pc-top-9-arguments-against-macs/"><u>The Case for PC: Top 9 Arguments Against Macs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-price-metas-latest-512gb-oculus-quest-3-is-dominating-todays-virtual-reality-market-insights-from-zdnet/"><u>Unbeatable Price: Meta's Latest 512GB Oculus Quest 3 Is Dominating Today’s Virtual Reality Market - Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-pro-key-grab-the-best-offers-and-save-money/"><u>Windows 11 Pro Key: Grab the Best Offers and Save Money</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-fades-in-adobe-audition-basics-for-2024/"><u>[New] Mastering Fades in Adobe Audition Basics for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-mastering-youtube-captions-3-effective-methods-to-download-srt-files/"><u>[Updated] 2024 Approved Mastering YouTube Captions 3 Effective Methods to Download SRT Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726226721576-cr2-jpeg-movavi/"><u>免費在網站上 CR2 變更成 JPEG - Movavi 編譯器</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-audio-file-converter-m4a-to-aiff-by-movavi/"><u>Free Online Audio File Converter: M4A to AIFF by Movavi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-canon-mf8500c-printer-driver-downloads-compatible-with-win7-10-and-81-instructions/"><u>Get Canon MF8500C Printer Driver Downloads: Compatible with Win7, 10 & 8.1 Instructions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-mp3-to-wmv-converter-en-ligne-avec-movavi-guide-complet/"><u>Gratuit MP3-to-WMV Converter en Ligne Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-golivebeam-simplified-method-to-broadcast-a-podcast-live/"><u>In 2024, GoLiveBeam Simplified Method to Broadcast a Podcast Live</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-screencapturepro-review-expert-insights-and-comparisons/"><u>In 2024, ScreenCapturePro Review Expert Insights and Comparisons</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-tecno-camon-20-premier-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Tecno Camon 20 Premier 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mkamp4/"><u>MKAファイルをMP4に自動変換: 免責の多いウェブサイト</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-guide-the-12-premier-screen-capture-applications-ideal-for-enhancing-your-google-meet-experience-by-movavi/"><u>Ultimate Guide: The 12 Premier Screen Capture Applications Ideal for Enhancing Your Google Meet Experience by Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-and-convert-stream-the-avengers-movie-from-protected-dvds-on-your-apple-gadgets/"><u>Unlock & Convert: Stream 'The Avengers' Movie From Protected DVDs on Your Apple Gadgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vob-online-vob/"><u>VOB 메이크핍 모킹을 원했는가요? Online VOB 편집 무료 온라인 자리에서</u></a></li>
 </ul></div>
 

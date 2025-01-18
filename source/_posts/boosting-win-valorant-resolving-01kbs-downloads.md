@@ -1,7 +1,7 @@
 ---
 title: "Boosting Win-Valorant: Resolving 0.1KB/S Downloads"
-date: 2024-07-29T08:15:05.154Z
-updated: 2024-07-30T08:15:05.154Z
+date: 2025-01-11T17:26:58.893Z
+updated: 2025-01-18T17:28:18.994Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/b1e13c65cf79c8bfe0a90a1ea55d4cf4b25b6f465
  If you also encounter the same problem, consider trying the below solutions to resolve the issue for good.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Does Valorant's Download Get Stuck on 0.1KB/s?
 
  A weak internet connection is one of the primary reasons why Valorant downloading gets stuck on 0.1KB/s. However, it's not the only potential cause. There are many more culprits that can be responsible for the problem:
@@ -37,15 +38,16 @@ thumbnail: https://thmb.techidaily.com/b1e13c65cf79c8bfe0a90a1ea55d4cf4b25b6f465
 
  Let's start with the basic but most effective solution—restarting the download. As it turns out, the problem can result from a temporary glitch in the Riot Client. In this situation, just give the download a restart and check if it solves the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Internet Connection
 
  The Riot Client will fail to download or update Valorant if you are connected to a weak and unstable internet connection. You can check internet stability and speed by visiting an[internet speed checking website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) . If you notice that you are getting a comparatively lower speed, try rebooting the router.
 
  If power cycling the router didn't improve your download speeds, contact your ISP and ask that they resolve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Close All the Discord Services From the Background
 
  Valorant's download speed may reduce to a crawl if Discord or any of its related services is running in the background. As it turns out, Discord is known for consuming a major part of available bandwidth and adversely affecting other applications' downloads.
@@ -54,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/b1e13c65cf79c8bfe0a90a1ea55d4cf4b25b6f465
 
 1. [Open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) using the**Ctrl + Shift + Esc** hotkey.
 2. Right-click on Discord and choose**End Task** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![End task option to close Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-task-option.jpg)
 
  Along with Discord, you can also consider closing all other network-consuming applications like Chrome and Spotify from the background.
@@ -64,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/b1e13c65cf79c8bfe0a90a1ea55d4cf4b25b6f465
  Next, launch the Riot Client, start the downloading process, and check if the problem continues.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Switch to Google's DNS Server
 
  The Riot Client will struggle to initiate the downloading process if your current[DNS server](https://www.makeuseof.com/what-is-dns/) is unstable. You can try switching to a different DNS server to eliminate the problem.
@@ -93,20 +93,11 @@ Check if you are still facing the problem.
 1. Open the**Start Menu** , type**Firewall and Network protection** , and press Enter.
 2. Click on**Allow an app through the firewall** .
 3. Checkmark both**Private** and**Public** boxes next to**Riot Client** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![Allow app to communicate through the Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Riot-Client.jpg)
 4. Click on OK to save the changes.
 
  Try to download Valorant and check if the problem continues. If yes, try the next solution on the list.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## 6\. Uninstall Avast Antivirus
 
  For many users, Valorant started downloading at normal speed after uninstalling the Avast antivirus. So, you can try this on your computer as well and check if it makes any difference. Here's how to uninstall Avast on your computer:
@@ -117,9 +108,6 @@ The ultimate burning program for all your needs!</a>
 
  After that, follow the on-screen instruction to complete the uninstallation process.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Flush the DNS Cache
 
  The DNS cache stores data of all your computer's DNS queries for future use. However, if the DNS cache gets corrupt for some reason, it can cause connection issues.
@@ -128,12 +116,13 @@ The ultimate burning program for all your needs!</a>
 
 1. Open**Command Prompt** .
 2. Type**ipconfig /flushdns** and press Enter.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The flush DNS command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/flushdns-command.jpg)
 
  Wait until you see the message "Successfully flushed the DNS Resolver Cache." After that, reboot the system and check for the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Update Your Network Drivers
 
@@ -147,6 +136,10 @@ Here are the steps for downloading the latest network drivers:
 ![The network adapters section in Windows Device Manager.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/update-network-drivers-win-11.jpg)
 4. Click on**Search automatically for drivers** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will now look for and install the best available network driver for the system. Once the update process is complete, reboot the system and check if the problem is fixed or not.
 
 ## 9\. Change Riot Client Priority
@@ -158,12 +151,13 @@ Here are the steps you need to follow.
 1. Open the Task Manager.
 2. Switch to the**Details** tab.
 3. Right-click on**RiotClientServices.exe** , hover the cursor to**Set priority** , and choose**High** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Task Manager Detail tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Set-Priority-.jpg)
 
  Relaunch the client, and you will notice that you are no longer facing the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Reset the Network Settings
 
@@ -177,8 +171,9 @@ Here's how to reset the network settings:
 3. Click**Yes** to the UAC that crops up.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Valorant Downloading Issue Fixed
 
  It's a very straightforward process to download or update Valorant using the Riot Client. But the client can run into issues from time to time as well.
@@ -191,8 +186,6 @@ Here's how to reset the network settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +193,26 @@ Here's how to reset the network settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-go-full-screen-with-ease-masterful-mac-scaling-methods-for-insta-posts/"><u>[New] Go Full Screen with Ease Masterful Mac Scaling Methods for Insta Posts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-getting-started-on-youtube-broadcasts-using-obs/"><u>[New] In 2024, Getting Started on YouTube Broadcasts Using OBS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-pro-tips-and-hidden-tricks-revolutionize-your-whatsapp-experience/"><u>[New] Pro Tips and Hidden Tricks Revolutionize Your WhatsApp Experience</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-boost-video-influence-techniques-for-exceptional-client-spotlights-for-2024/"><u>[Updated] Boost Video Influence Techniques for Exceptional Client Spotlights for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/amplify-and-illuminate-online-videos-with-these-5-aids/"><u>Amplify and Illuminate Online Videos with These 5 Aids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-phone-to-windows-audio-streaming-tips/"><u>Effortless Phone-to-Windows Audio Streaming Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/fixing-curved-video-gopros-fisheye-issue-for-2024/"><u>Fixing Curved Video GoPro's Fisheye Issue for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-oneplus-nord-n30-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your OnePlus Nord N30 5G Is Unlocked</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-success-snap-up-your-ideal-video-size-for-2024/"><u>Instagram Success Snap Up Your Ideal Video Size for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/judging-the-adequacy-of-windows-11s-visual-extras/"><u>Judging the Adequacy of Windows 11'S Visual Extras</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-samsungs-dex-the-ultimate-users-blueprint/"><u>Navigating Samsung’s DeX: The Ultimate User’s Blueprint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-lost-entry-point-of-mcuicnt-in-windows-os/"><u>Reinstating Lost Entry Point of McUICnt in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-world-of-warcrafts-unresponsive-crash-132/"><u>Remedying World of Warcraft's Unresponsive Crash #132</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slow-down-windows-10-shutdown-during-running-tasks-with-these-tips/"><u>Slow Down Windows 10 Shutdown During Running Tasks with These Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tcp-port-identification-on-windows-devices/"><u>TCP Port Identification on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-0x803f700f-in-windows-activation/"><u>Troubleshooting Error 0X803F700F in Windows Activation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-narrative-engagement-startup/"><u>Windows 11 Narrative Engagement Startup</u></a></li>
+</ul></div>
 

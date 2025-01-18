@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off High Contrast Mode on Windows
-date: 2024-08-08T11:03:27.721Z
-updated: 2024-08-09T11:03:27.721Z
+date: 2025-01-11T16:23:13.546Z
+updated: 2025-01-18T16:32:14.607Z
 tags:
   - windows10
   - windows11
@@ -28,16 +28,21 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
  High contrast themes offer customizability to tweak different screen elements, like text, links, background, button text, and more. It's a lot more helpful than dark mode, which just adds a dark or black-grayish background with a white color.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Disable High Contrast Mode on Windows
 
  If High Contrast Mode has been turned on and you'd like to change that, there are multiple ways to get the job done.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Using the High Contrast Mode Shortcut keys
 
  To disable high contrast mode on Windows using keyboard shortcuts, press the**Left Alt + Left Shift + Print Screen** keys at once. You won’t see any pop-up window to confirm the action, but you will hear a “beep” sound before the system reverts to the default theme. You can use this shortcut again if you need to re-enable High Contrast mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Using the Settings app
 
@@ -51,9 +56,9 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 5. Then, click on the**Apply** option. Windows will change back to the previous theme.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Using the Sign-in screen
 
  You can even disable the high contrast mode on Windows 11 and 10 before you sign in. Here’s how to do it:
@@ -64,9 +69,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Disable High Contrast Mode Using Sign In Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-sign-in-screen.jpg)
 4. Windows will revert to the default theme. Enter your PIN or password and log in.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Using the Control Panel
 
  To disable the high contrast mode in Windows 11 and 10, do as follows:
@@ -75,9 +77,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. The Control Panel will launch. Click on the**Appearance and Personalization** option.
 3. Select the Ease of Access option and click on the**Set Up high contrast** option.
 4. Now, select the**Choose a high contrast theme** option.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable High Contrast Mode Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-control-panel.jpg)
 5. Navigate to**Themes > Contrast Themes** .
 6. Click on the drop-down menu in the Contrast Themes option and select the**None** option.
@@ -91,18 +90,15 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 4. Windows 7 will switch from the high contrast theme to a normal theme.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Using the Run Dialog Box
 
  Repeat the following steps to disable high contrast mode using the run command box:
 
 1. Press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type “**shell:::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921}** ” in the text input area and press the Enter key.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Disable High Contrast Mode Using Run Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-run-box.jpg)
 3. The old personalization settings control panel window will launch.
 4. Click on any system theme. It will deactivate the current high-contrast theme and apply the selected theme.
@@ -114,11 +110,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Press**Win + I** to launch the Settings app.
 2. Navigate to**Personalization > Themes** .
 3. Move to the**Current theme** section and click on any default system theme or a downloaded theme.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable High Contrast Mode Using A Different Theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-a-different-theme.jpg)
 4. Windows will apply the selected theme.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to re-enable the high-contrast theme, you have to visit the "high contrast theme" section here and choose a compatible theme.
 
@@ -132,13 +129,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Now, press**Ctrl + S** to save the file. Type the name “**disablehc.bat** ” and click on the**save** button.  
 ![Disable High Contrast Mode Using a script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-a-script.jpg)
 4. Go to the desktop again and right-click on the newly created .bat file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**Run as administrator** option in the context menu.
 6. UAC will pop up. Click on the**Yes** button to grant administrator privileges to the .bat file. Otherwise, it won’t be able to make changes to the system theme.
 7. The command prompt will pop up for a few seconds, run the script, and then close automatically. Your Windows system will disable the high contrast mode and switch to the aero theme.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## The Windows High Contrast Theme Won’t Bother You Anymore
 
  These were the seven methods using which you can disable the high contrast theme on Windows. The quickest way is to use the hotkeys for contrast themes or use a BAT script. If you want to save your eyes from the harsh white light but cannot stand high-contrast themes, use a dark theme on Windows 11.
@@ -149,8 +148,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +155,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-best-7-multimedia-cameras-for-quality-live-streams-and-video-blogs/"><u>[New] 2024 Approved Best 7 Multimedia Cameras For Quality Live Streams & Video Blogs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-youtubers-overture-orchestrating-video-triumphs/"><u>[Updated] The YouTuber’s Overture Orchestrating Video Triumphs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-the-gap-7-ai-insights-for-professionals/"><u>Bridging the Gap: 7 AI Insights for Professionals</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-find-x6-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo Find X6 Pro Through Google Earth?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-github-desktops-potential-on-windows-devices/"><u>Leveraging GitHub Desktop's Potential on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-basics-starting-microsoft-paint-in-windows-11/"><u>Mastering the Basics: Starting Microsoft Paint in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-invisible-displays-at-os-ignition/"><u>Overcoming Invisible Displays at OS Ignition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-repair-non-responsive-installation-of-ccleaner-on-win1011/"><u>Strategies to Repair Non-Responsive Installation of CCleaner on Win10/11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-resolve-wow-3-reforged-pc-game-crashing-issues/"><u>Ultimate Guide to Resolve WoW 3 Re:Forged PC Game Crashing Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-and-resolving-entry-not-found-error/"><u>Unveiling and Resolving 'Entry Not Found' Error</u></a></li>
+</ul></div>
 

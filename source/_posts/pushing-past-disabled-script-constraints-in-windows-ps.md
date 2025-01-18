@@ -1,7 +1,7 @@
 ---
 title: Pushing Past Disabled Script Constraints in Windows PS
-date: 2025-01-11T20:59:06.753Z
-updated: 2025-01-13T00:28:52.112Z
+date: 2025-01-12T16:07:20.428Z
+updated: 2025-01-18T16:51:45.242Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run PowerShell in Administrator Mode
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  Now that everything is clear, let’s explore how you can execute the relevant policies to tackle the "PowerShell cannot load" issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Change the Execution Policy to "Unrestricted"
 
  The best way to tackle the issue at hand is to change the execution policy to "unrestricted." But before that, you need to check how each execution policy is configured.
@@ -90,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![Displaying the list of execution policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/displaying-the-list-of-execution-policies.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This should show you how the execution policies are configured for different users and systems.
 
  To can change the execution policy to “Unrestricted” for the current active user, type the following command and press **Enter**:
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 ![Setting the execution policy on PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-the-execution-policy-on-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To change the execution policy to “Unrestricted” for all users, type the following command and press **Enter**:
@@ -143,7 +143,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 ![Clicking the Turn on Script Execution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-turn-on-script-execution-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check the **Enabled** box. From there, click the **Execution Policy** drop-down menu and select **Allow local scripts and remote signed scripts**. This option is similar to the "RemoteSigned" option that we discovered earlier.
@@ -152,13 +152,13 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  From there, click **Apply** and then click **OK** to save these changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Change the Execution Policy Using the Registry Editor
 
 ![A lady using her Windows PC while sitting on bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-her-Windows-PC-while-sitting-on-bed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the other methods didn’t help, then try changing the execution policy using the Registry Editor. However, you need to be careful when editing Registry keys. If you tweak the wrong keys, then you might end up damaging your PC.
 
@@ -206,24 +206,21 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-apples-ios-a-treasure-trove-of-vr-game-hits/"><u>[Updated] Apple's iOS A Treasure Trove of VR Game Hits</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-laughter-loop-a-pocketful-of-humorous-short-film-ideas/"><u>[Updated] Laughter Loop A Pocketful of Humorous Short Film Ideas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-strategies-for-enabling-uninstalled-features-in-win10win11/"><u>7 Strategies for Enabling Uninstalled Features in Win10/Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-window-frame-blackout-restore-taskbar/"><u>Addressing Window Frame Blackout: Restore Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719367958537-adjust-brightness-slider-look-for-the-brightness-slider-under-system-or-personalization-tabs-in-settings/"><u>Adjust Brightness Slider: Look for the Brightness Slider Under 'System' Or 'Personalization' Tabs in Settings.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-buffer-rates-to-minimize-lag-with-vlc/"><u>Adjusting Buffer Rates to Minimize Lag with VLC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-reset-counter-after-failed-logins-on-windows-1011/"><u>Adjusting Reset Counter After Failed Logins on Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-software-sizes-with-keyboard-shortcuts-in-win11/"><u>Adjusting Software Sizes with Keyboard Shortcuts in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/alleviating-resource-drain-by-ntoskrnlexe/"><u>Alleviating Resource Drain by Ntoskrnl.exe</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-soon-will-expire-warning-on-microsoft-os/"><u>Avoiding Soon Will Expire Warning on Microsoft OS</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/come-risolvere-i-problemi-di-sincronizzazione-outlook-gmail-una-guida-dettagliata/"><u>Come Risolvere I Problemi Di Sincronizzazione Outlook-Gmail: Una Guida Dettagliata</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/infinix-data-retrieval-tool-restore-lost-data-from-infinix-smart-8-pro-by-fonelab-android-recover-data/"><u>Infinix Data Retrieval tool – restore lost data from Infinix Smart 8 Pro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide/"><u>Mobile Cinema Apple's No.1, 8-Pack Free & Paid Film App Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719350537828-navigating-troubled-waters-help-for-your-windows-woes/"><u>Navigating Troubled Waters: Help for Your Windows Woes!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-gotrax-gxl-v2-your-ideal-high-speed-urban-e-scooter-choice/"><u>The Ultimate Review of Gotrax GXL V2: Your Ideal High-Speed Urban E-Scooter Choice</u></a></li>
-<li><a href="https://discover-great.techidaily.com/top-3-ottimi-software-di-conversione-video-in-4k-pc-e-mac-da-4k-a-1080p/"><u>Top 3 Ottimi Software Di Conversione Video in 4K (PC E Mac) - Da 4K a 1080P</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-xiaomi-redmi-13c-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Xiaomi Redmi 13C 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/understanding-vp9-vs-hevc-essential-distinctions-of-top-4k-video-coding-formats/"><u>Understanding VP9 vs HEVC: Essential Distinctions of Top 4K Video Coding Formats</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-dial-down-the-velocity-of-your-snapchat-videos-for-2024/"><u>[New] How to Dial Down the Velocity of Your Snapchat Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-the-lens-focus-techniques-for-storify-success/"><u>[New] In 2024, Mastering the Lens Focus Techniques for Storify Success</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-music-management-for-social-media-iphone-and-android-basics-for-2024/"><u>[New] Music Management for Social Media IPhone & Android Basics for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-longevity-in-the-clouds-top-10-drone-selections-for-2024/"><u>[Updated] Longevity in the Clouds Top 10 Drone Selections for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-under-the-lens-hero-4-meets-hero-5/"><u>2024 Approved Under the Lens Hero 4 Meets Hero 5</u></a></li>
+<li><a href="https://article-tips.techidaily.com/differentiating-between-metaverse-and-multiplemetaverse-worlds/"><u>Differentiating Between Metaverse & MultipleMetaverse Worlds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-disconnected-application-problems-in-win10/"><u>Eliminating Disconnected Application Problems in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-repairing-your-computer-or-device-a-comprehensive-guide/"><u>Essential Steps to Repairing Your Computer or Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hero9-review-the-epitome-of-gopro-quality/"><u>HERO9 Review: The Epitome of GoPro Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-your-deactivated-key-on-win11/"><u>How to Reactivate Your Deactivated Key on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-filter-keys-a-comprehensive-windows-guide/"><u>Mastering Filter Keys: A Comprehensive Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11-load-with-smart-media-management/"><u>Optimizing Windows 11 Load with Smart Media Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-game-changing-functionality-that-sways-me-away-from-new-m4-mac-minis-this-fall-exploring-apples-latest-offerings-zdnet/"><u>The Game-Changing Functionality That Sways Me Away From New M4 Mac Minis This Fall: Exploring Apple's Latest Offerings | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-fixing-windows-alpha-key-problems-61-characters/"><u>Tips for Fixing Windows Alpha Key Problems (61 Characters)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-ffmpeg-competitors-the-ultimate-guide-to-converting-videos-seamlessly/"><u>Top FFmpeg Competitors: The Ultimate Guide to Converting Videos Seamlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-audit-examining-active-connections/"><u>Windows Audit: Examining Active Connections</u></a></li>
 </ul></div>
 

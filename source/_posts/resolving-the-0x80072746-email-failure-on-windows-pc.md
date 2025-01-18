@@ -1,7 +1,7 @@
 ---
 title: Resolving the 0X80072746 Email Failure on Windows PC
-date: 2024-08-08T11:00:07.751Z
-updated: 2024-08-09T11:00:07.751Z
+date: 2025-01-15T16:21:59.456Z
+updated: 2025-01-18T18:19:47.116Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,11 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
  To address this issue, you can check your firewall settings and whitelist svchost.exe. Alternatively, you can [temporarily disable the security program](https://www.makeuseof.com/windows-features-error-0x80071a90/)and check if that fixes the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![Disable antivirus in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-antivirus-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It's worth noting that the exact steps of performing this action can vary depending on the specific program you are using. Typically, this information is available in the application settings of the app.
 
@@ -51,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
 1. Press the **Win** \+ **I** keys together to open the Settings app.
 2. Choose **Network & Internet** \> **VPN**.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![VPN settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/vpn-settings-windows.jpg)
 3. Enable the **Allow VPN over metered network** option.  
 ![Allow VPN over metered network in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/vpn-over-metered-network.jpg)
@@ -62,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 6. Select **Internet Protocol Version 6 (TCP/PV6)** and click **OK** to save the changes.
 
  You can now close the Settings app and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Set Up Your Account Manually
 
@@ -77,31 +79,28 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 2. Choose **Manage Accounts**.  
 ![Manage accounts option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-accounts.jpg)
 3. Select the problematic email and choose **Delete account from this device** from the options available.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete the account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-mail-app.jpg)
 4. Confirm your action in the next window.
 5. Once the email account is removed, launch the official website of your email provider and copy the manual settings for IMAP. If these settings are not available, choose POP3\.
 
 1. Now, head back to the Mail client and launch the settings.
 2. Head over to the Manage Account section and choose **Add account**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-account.jpg)
 3. Scroll down and choose **Advanced Setup**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choose Advanced setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/advanced-setup-option.jpg)
 4. Click on **Internet email** and enter the manual settings you copied earlier.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click Internet email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/internet-email-option.jpg)
 5. Finally, click on **Sign in** and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update the Mail App
 
  Your Mail app might also be outdated, which is preventing it from being fully compatible with the latest email server configurations and security protocols, leading to the error at hand.
@@ -118,14 +117,15 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
  While you are at it, we also recommend installing any system updates that might be available in the Settings app.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Fix Corruption Issues Within the Mail App
 
  If updating the application did not help, there are also some other fixes that can help you resolve any corruption issues within the Mail app that might be leading to the problem. This involves [repairing and resetting the Mail application](https://www.makeuseof.com/mail-app-cant-get-mail-windows/).
 
  The Repair option attempts to fix any damaged or missing files that might be contributing to the error, while the Reset option will restore the default, error-free state of the application. It is important to note, however, that while these solutions are effective at fixing the underlying problem, you are likely to lose your settings and preferences within the Mail app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Multiple Ways to Fix the Windows Mail App
 
@@ -135,11 +135,26 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
  Below, we take a look at the different troubleshooting methods that can help fix this issue for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-intensify-your-videoleap-images-through-precision-zooming/"><u>[New] 2024 Approved Intensify Your Videoleap Images Through Precision Zooming</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-ultrawide-vs-uhd-4k-monitors-the-experts-advice/"><u>[New] 2024 Approved UltraWide VS UHD 4K Monitors The Expert's Advice</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-hps-affordable-amd-powered-notebook-does-it-meet-your-needs/"><u>Comprehensive Analysis of HP's Affordable AMD-Powered Notebook - Does It Meet Your Needs?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-microsoft-office-spell-checker-to-overlook-web-addresses-effortlessly/"><u>Configuring Microsoft Office Spell Checker to Overlook Web Addresses Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-modernized-interface-of-microsoft-excels-revamped-formula-bar/"><u>Discover the Modernized Interface of Microsoft Excel's Revamped Formula Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-guide-unlocking-cell-type-ahead-with-slidebar-in-microsoft-excel/"><u>Easy Guide: Unlocking Cell Type-Ahead with Slidebar in Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-guide-turning-off-microsoft-offices-security-warnings/"><u>Effective Guide: Turning Off Microsoft Office's Security Warnings</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-carry-over-your-previous-iphones-voicemail-setup-when-switching-to-the-latest-iphone-models-iphone-14-and-15/"><u>How to Carry Over Your Previous iPhone's Voicemail Setup When Switching to the Latest iPhone Models (iPhone 14 and 15)</u></a></li>
+<li><a href="https://win-able.techidaily.com/login-limbo-no-more-the-unavailable-online-login-glitch-corrected/"><u>Login Limbo No More: The 'Unavailable Online Login' Glitch Corrected</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-honor-x50-gt-by-fonelab-android-recover-data/"><u>Recover lost data from Honor X50 GT</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-rangige-losung-fur-die-sicherheit-ihrer-daten-ultimative-wd-my-cloud-ex2-ultra-backup-software-die-perfekte-option/"><u>Top-Rangige Lösung Für Die Sicherheit Ihrer Daten: Ultimative WD My Cloud EX2 Ultra Backup Software - Die Perfekte Option</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Infinix Smart 7? | Dr.fone</u></a></li>
+</ul></div>
+

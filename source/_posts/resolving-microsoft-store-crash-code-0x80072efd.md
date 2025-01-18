@@ -1,7 +1,7 @@
 ---
 title: Resolving Microsoft Store Crash Code 0X80072EFD
-date: 2025-01-09T22:54:23.941Z
-updated: 2025-01-13T01:03:02.945Z
+date: 2025-01-14T16:57:17.830Z
+updated: 2025-01-18T18:39:08.285Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,14 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-list-in-windows-11.jpg)
 5. Go through and apply any suggestions the troubleshooter offers.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-store-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Internet Connections** is another troubleshooter that may be useful for fixing the Microsoft Store's 0x80072EFD error. So, consider running that troubleshooter if the Windows Store Apps option doesn't help.
@@ -47,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
  Note that the troubleshooting tools are accessible in the**Update & Security** category in the Settings app if you use Windows 10\. Click the**Troubleshoot** tab and**Additional troubleshooters** option to access them from there. Then press the**Run this troubleshooter** buttons for Windows Store Apps or Internet Connections.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Refresh the SoftwareDistribution Folder
@@ -78,7 +82,7 @@ net start msiserver`
 8. Then bring up your Start menu to select**Restart** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reset the Microsoft Store's Cache
@@ -88,7 +92,7 @@ net start msiserver`
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Proxy Server
@@ -114,20 +118,12 @@ net start msiserver`
 ![The Date & time navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/date-time-tab.jpg)
 3. Select to turn off the**Set time zone** option there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Make sure the correct time zone for your location is selected in the**Time Zone** drop-down menu.  
 ![The Set the time zone automatically option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-the-time-automatically-option.jpg)
 5. Then press the**Sync now** button.  
 ![The Sync now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sync-now-button.jpg)
 
  Alternatively, you can manually set the time by disabling the Set the time automatically option. Press the**Change** button for the**Set the date and time manually** option. Check the date and exact time for your location via online sources, and then enter it inside the**Change date & time** box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Enable TLS Protocols
 
@@ -140,11 +136,11 @@ net start msiserver`
 ![The Advanced tab in Internet Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-advanced-tab.jpg)
 5. Click**Apply** to set the protocol options.
 
-6. Select**OK** to exit the Internet Options window.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Select**OK** to exit the Internet Options window.
 
 ## 7\. Reregister Microsoft Store
 
@@ -158,17 +154,21 @@ net start msiserver`
 ![The reregister MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reregister-ms-store-command.jpg)
 5. Wait until you're sure the command has finished.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Then exit PowerShell, and select the**Restart** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reset Your Network
 
  Resetting network settings in Windows is another 0x80072EFD error fix that's worked for some users. Note that this measure will erase Wi-Fi and Ethernet connection details, so you'll need to re-establish your connection after applying it. You can apply this potential fix as covered in our[how-to reset networks in Windows 11](https://www.makeuseof.com/reset-network-settings-windows-11/) guide.
 
 ![The Reset now button for networks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-now-network-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Shopping in Microsoft Store Again
 
@@ -189,20 +189,19 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-building-blocks-to-brilliance-crafting-circles-and-spheres-in-mc/"><u>[New] In 2024, Building Blocks to Brilliance Crafting Circles and Spheres in MC</u></a></li>
-<li><a href="https://facebook.techidaily.com/avoid-privacy-changes-no-effect-on-whatsapps-full-access/"><u>Avoid Privacy Changes: No Effect on WhatsApp's Full Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-addressing-non-installed-hdd-in-windows-11/"><u>Comprehensive Guide to Addressing Non-Installed HDD in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-windows-11-taskbar-end-task-ability/"><u>Configuring Windows 11 Taskbar: End Task Ability</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-a-signature-look-starting-with-self-reflection/"><u>Crafting a Signature Look Starting with Self-Reflection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-fix-for-windows-11s-erroneous-update-code-0x80246007/"><u>Mastering Fix for Windows 11'S Erroneous Update Code 0X80246007</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigate-malwares-memory-footprint-in-your-system/"><u>Mitigate Malware's Memory Footprint in Your System</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1094678-9781742757902-poems-of-love-and-life-for-scorpio/"><u>Poems of Love and Life for Scorpio | Free Book</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/quick-guide-two-simple-methods-to-perform-a-factory-reset-on-your-windows-11-laptop/"><u>Quick Guide: Two Simple Methods to Perform a Factory Reset on Your Windows 11 Laptop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-your-digital-footprint-windows-login-guide/"><u>Removing Your Digital Footprint: Windows Login Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/set-thumbnail-dimensions-on-desktop-pics-w11/"><u>Set Thumbnail Dimensions on Desktop Pics W11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722965231690-step-by-step-installation-for-the-intel-wireless-ac-3160-card-get-ready-fast/"><u>Step-by-Step Installation for the Intel Wireless AC 3160 Card - Get Ready Fast!</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-overcome-display-drivers-not-launching-on-pcs/"><u>Steps to Overcome Display Drivers Not Launching on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-remedy-dealing-with-roblox-error-code-262/"><u>Swift Remedy: Dealing with Roblox Error Code 262</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-color-correction-mastery-a-tutorial-on-matching-video-clips-in-final-cut-pro-for-2024/"><u>Updated Color Correction Mastery A Tutorial on Matching Video Clips in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-leading-three-cameras-for-ultra-detailed-videography/"><u>[New] Leading Three Cameras for Ultra-Detailed Videography</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-screen-sharing-showdown-obs-vs-twitch-studio-face-off-for-2024/"><u>[New] Screen Sharing Showdown OBS vs Twitch Studio Face-Off for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-crafting-dynamic-fb-video-covers-a-step-by-step-guide/"><u>[Updated] In 2024, Crafting Dynamic FB Video Covers A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-scriptwriting-secrets-for-a-captivating-and-authentic-storyline/"><u>[Updated] Scriptwriting Secrets for a Captivating and Authentic Storyline</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-youtubes-shorts-investment-plan/"><u>[Updated] Unveiling YouTube's Shorts Investment Plan</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-ultimate-unlimited-fb-photomovie-builder/"><u>2024 Approved Ultimate Unlimited FB Photo/Movie Builder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/2024teki-zengin-uygulamalar-farkli-cesitli-video-vize-yayincilik-prodikti/"><u>2024'Teki Zengin Uygulamalar: Farklı Çeşitli Video Vize Yayıncılık Prodikti</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/converting-tiff-images-to-jpeg-format-free-easy-guide-with-movavi/"><u>Converting TIFF Images to JPEG Format Free - Easy Guide with Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722205360116-create-stunning-visuals-in-minutes-top-7-ai-driven-presentation-tools-revealed/"><u>Create Stunning Visuals in Minutes: Top 7 AI-Driven Presentation Tools Revealed!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-de-descarga-gratuita-para-convertir-archivos-avi-a-formato-m4a-con-convertidor-on-line-de-movavi/"><u>Guía De Descarga Gratuita Para Convertir Archivos AVI a Formato M4A Con Convertidor On-Line De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/imovie-windows-pc-imovie/"><u>IMovie ใน Windows: เซ็ก컬 ไส้กระแท่ก ข้อสง่�ใน PC iMovie - ทักษะลึกซาก</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-lowering-the-quality-of-obs-streaming/"><u>In 2024, Lowering the Quality of OBS Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-ranked-photography-slide-show-apps-windows-mac-and-web-options/"><u>Top-Ranked Photography Slide Show Apps : Windows, Mac & Web Options</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-platforms-your-pc-and-galaxy-phone-via-flow/"><u>Uniting Platforms – Your PC and Galaxy Phone Via Flow</u></a></li>
 </ul></div>
 

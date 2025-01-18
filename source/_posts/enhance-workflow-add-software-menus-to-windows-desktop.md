@@ -1,7 +1,7 @@
 ---
 title: "Enhance Workflow: Add Software Menus to Windows Desktop"
-date: 2024-08-08T11:01:55.532Z
-updated: 2024-08-09T11:01:55.532Z
+date: 2025-01-12T16:13:46.171Z
+updated: 2025-01-18T16:45:55.835Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 
  However, you can create a portable app menu for accessing programs on a USB stick (flash drive) with SyMenu and LiberKey. Those are freeware software packages designed to assist users with managing and accessing portable apps on USB drives. This is how you can set up a menu for portable software with SyMenu and LiberKey.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add a Portable Software Menu With SyMenu
 
  SyMenu is a portable app menu to which you can add software, document file, website URL, folder, and command shortcuts. It adds a menu for portable software you can access on the desktop or by clicking its system tray icon in Windows. You can add a portable software menu to Windows 11 and 10 with SyMenu like this:
@@ -47,14 +44,19 @@ Now it's time to get SyMenu up and running:
 5. Finally, select an**Advanced** menu structure option and click**Next** .  
 ![The menu structure options for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use SyMenu on Windows
 
  Now you should see a floating "Sy drive" icon on the desktop area. Click that drive icon to view the portable software menu. That menu will include**Search items** ,**My Computer** , and**Tools** submenus.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The SyMenu desktop icon and menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-symenu-icon.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To add portable software to the menu, click the**Tools** submenu >**Configuration** ; click the**Item Manager** tab and select**Add Program** from there. Click the ellipses button for the**Path** box, choose a portable app on your USB stick, and select**Open** . Press the**Save** button to apply.
 
@@ -62,10 +64,11 @@ Now it's time to get SyMenu up and running:
 
  Then you can launch the added software from the app menu. To view more options for an app, right-click its entry on the menu. You can select**Run elevated** ,**Open folder** , and**Delete item** options from a program’s submenu.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![An app submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/program-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or you can add new apps to the menu from the**SyMenu** program suite. To do so, select the**Get new apps** option on the menu. Choose portable software in the**SyMenu Suite** tab, and select the**Download** option.
 
@@ -73,9 +76,6 @@ Now it's time to get SyMenu up and running:
 
  You can customize colors for the menu from the SyMenu options. Select**Tools** \>**Options** to bring up that window. Click**Theme** to view the options shown below. You can change the menu’s colors by clicking the palette boxes and choosing alternatives.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Theme tab for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-theme-tab.jpg)
 
  The SyMenu options window also includes a**Structure** tab. You can restructure the menu by dragging items up and down the**Menu structure** box. To add more separators, drag**<Separator>** from available elements onto a menu position. Select**Apply** to save all changes made in the SyMenu options window.
@@ -83,8 +83,9 @@ Now it's time to get SyMenu up and running:
  If you're looking for apps to add to your repertoire, why not check out[the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) ?
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add a Portable Software Menu With LiberKey
 
  LiberKey adds a bigger portable software menu to Windows that includes animation effects, tabs, and larger icons. Its tabbed layout enables you to create alternative menu tabs for opening portable apps. These are the steps for adding a portable software menu to Windows with LiberKey:
@@ -92,9 +93,6 @@ Now it's time to get SyMenu up and running:
 1. Plug a flash drive into a USB slot on your PC.
 2. Bring up the[LiberKeys website](https://www.liberkey.com/) in browser software.
 3. Select the**Download LiberKey 5.8** option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Download LiberKey option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-liberkay-option.jpg)
 4. Double-click**LiberKey\_5.8.1129.exe** to open a setup wizard for the software.
 5. Click**Next** to select the**I accept software license agreement** option.
@@ -103,15 +101,20 @@ Now it's time to get SyMenu up and running:
 2. Click**Browse** , select a folder on your USB stick, and press the**OK** button.
 3. Select**Next** \>**Yes** when prompted to create a new LiberKey folder.
 4. Then select**Install** to add LiberKey to your USB stick.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![The Install button for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-install-option2.jpg)
 5. Click**Finish** with the Launch LiberKey checkbox selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you’ll see a LiberKey icon in the Windows system tray area. Click that system tray icon to view the menu. That menu has**Most used** and**Recent** which will fill up when you start using LiberKey a bit more. It also includes a pie chart icon that shows the amount of free and used drive storage when you hover the cursor over it.
 
 ![The LiberKey menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  LiberKeys has a smaller floating menu. You can access it by pressing the**Shift** +**Windows** key hotkey. That keyboard shortcut opens a small menu that includes the apps added to LiberKey.
 
@@ -119,9 +122,6 @@ Now it's time to get SyMenu up and running:
 
  First, you’ll need to add a new menu tab for your portable software. Click the small**User menus** arrow button to select**Create new menu** . Input a title for the tab in the Menu name box and select**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Create new menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-current-item-option.jpg)
 
  Then you can add software to the new menu tab. Right-click anywhere in the tab and select**New shortcut** \>**Application/file** . Choose a portable app to include on the menu and click**Open** .
@@ -138,24 +138,16 @@ Now it's time to get SyMenu up and running:
 
 ![The Color tab for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-color-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can reconfigure LiberKey’s effects from the**User Interface** tab on the Configuration window. Select the disable options there to turn off the menu’s animation effects. To add an analog clock to the menu’s LiberKey logo, select the**Displayclock** checkbox. You can also adjust the menu open delay by selecting**Custom** and entering an alternative millisecond value.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![The User interface settings for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-interface-settings.jpg)
 
  If you're a student on the go, be sure to check out the[best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Make Your Portable Apps More Accessible on Windows
 
  A SyMenu or LiberKey software menu gives you an entirely new way to manage and launch portable apps on Windows PCs. You can make all your portable software more directly accessible from the system tray area with LiberKey and SyMenu. That menu will also be truly portable since you can utilize it from a USB stick on different PCs.
@@ -166,8 +158,6 @@ Now it's time to get SyMenu up and running:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +165,21 @@ Now it's time to get SyMenu up and running:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-unlock-creative-expression-master-device-based-filters-and-effects/"><u>[New] 2024 Approved Unlock Creative Expression Master Device-Based Filters and Effects</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-professional-post-processing-how-to-erase-image-borders-easily/"><u>[Updated] Professional Post-Processing How to Erase Image Borders Easily</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-text-mastery-cutting-edge-effects-guide/"><u>2024 Approved Text Mastery Cutting-Edge Effects Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-and-confident-windows-viewing-top-6-fixes-now/"><u>Clear and Confident Windows Viewing: Top 6 Fixes Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/devhomes-blueprint-for-cutting-edge-w11-living/"><u>DevHome's Blueprint for Cutting-Edge W11 Living</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-1603-decoded-expert-strategies-for-a-seamless-and-successful-software-setup/"><u>Error 1603 Decoded: Expert Strategies for a Seamless and Successful Software Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-ensure-your-surfaces-software-stays-current/"><u>Expert Tips to Ensure Your Surface's Software Stays Current</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-uncover-hidden-5ghz-networks-in-windows-11-using-7-tips/"><u>How to Uncover Hidden 5GHz Networks in Windows 11 Using 7 Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-artistic-advancements-top-smartphone-innovations/"><u>In 2024, Artistic Advancements Top Smartphone Innovations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-windows-update-error-0x80073712/"><u>Quick Fix for Windows Update: Error 0X80073712</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-integration-of-files-in-win-11-os/"><u>Seamless Integration of Files in Win 11 OS</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013301796-troubleshooting-guide-fixing-windows-spotlight-issues-in-windows-11/"><u>Troubleshooting Guide: Fixing 'Windows Spotlight' Issues in Windows 11</u></a></li>
+</ul></div>
 

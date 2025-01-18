@@ -1,7 +1,7 @@
 ---
 title: "Bypass the Brick Wall: Top Fixes for Windows Install Verification Pause"
-date: 2024-07-29T08:15:18.018Z
-updated: 2024-07-30T08:15:18.018Z
+date: 2025-01-13T17:02:45.107Z
+updated: 2025-01-18T18:18:10.505Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,6 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
  However, if Steam takes an unusually long time to verify the files, it's a sign that something is amiss. This can happen due to corrupt Steam files, weak internet connection, or lack of administrative permissions. As such, if Steam gets stuck in the "verifying installation" process, use the following solutions to get it fixed
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Restart the Steam Client
 
  Whenever Steam gets stuck on the "verifying installation" process, your first port of call should be to restart the Steam client. Restarting the client will clear any temporary files, cached data, or other resources that might be triggering the problem.
@@ -40,10 +28,11 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
 ## 2\. Check Your Internet Connection
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![Internet router with cable on white surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/internet-router-with-cable-on-white-surface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Steam requires a strong internet connection to verify the game files. However, if your connection is weak or unstable, Steam might get stuck in the verification process.
 
@@ -55,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
  However, if none of the above solutions work, you'll have to contact your ISP.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch Steam With Administrative Rights
 
  Another quick way to fix the problem is to launch the Steam client with administrative privileges. Granting elevated rights will ensure that Steam has the required permissions to access and verify the game files.
@@ -64,17 +57,19 @@ To launch Steam as an administrator, follow the below instructions:
 1. Right-click on the Steam client and choose**Properties** from the context menu.
 2. Switch to the**Compatibility** tab.
 3. Check the**Run this program as an administrator** box.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![Run this program as an administrator option for Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-this-program-as-an-administrator.jpg)
 4. Click**Apply** \>**OK** to save the settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, open the Steam client and check if the problem is fixed. If this does the trick, you can configure it to[always launch as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Temporarily Disable the Security Application
 
  The security application of your computer keeps you protected against malware, viruses, and other cyber threats. However, it can sometimes interfere with the functioning of trusted applications like Steam and cause issues like the one in question.
@@ -83,9 +78,6 @@ To launch Steam as an administrator, follow the below instructions:
 
  If you're using Windows Security as the default security app, check our guide on[disabling Windows Security on Windows 11](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![Disabling Real time protection in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disabling-real-time-protection.jpg)
 
  After disabling the security app, launch the Steam client and check if it still gets stuck on the verifying installation screen. If yes, re-enable the security app, as corruption in the Steam client might be causing the problem.
@@ -99,11 +91,12 @@ To launch Steam as an administrator, follow the below instructions:
 1. Launch the Steam client, click**Steam** at the top-left corner, and choose**Settings** from the context menu.
 2. In the Settings window, choose**Downloads** from the left sidebar.
 3. Click the**Clear Download Cache** option.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clear Download Cache option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clear-download-cache-option.jpg)
 4. Click**OK** to confirm your selection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Library folder can also corrupt and cause problems. To repair any potential corruption, click the**Steam Library Folders** option in the Download section.
 
@@ -113,14 +106,15 @@ To launch Steam as an administrator, follow the below instructions:
 
  Updating the Steam client is another quick way to eliminate any corruption that might be causing the issue. To update, click the Steam option at the top-left corner and choose the**Check for Steam Client Updates** option.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Check for Steam Client Updates option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-steam-client-updates-option.jpg)
 
  After downloading the update, click the**Restart Steam** option to install the update.
 
 ![Restart Steam option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-steam-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Change the Download Region in the Steam Client
 
@@ -130,11 +124,12 @@ To launch Steam as an administrator, follow the below instructions:
 
 1. Launch the Steam client, then go to**Steam > Settings > Downloads** .
 2. Click the drop-down icon under**Download Region** and choose a different download region.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Download Region option in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/download-region.jpg)
 3. Click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Clear the Steam Content Folder
 
@@ -144,9 +139,6 @@ To launch Steam as an administrator, follow the below instructions:
 
 1. Navigate to the Steam installation directory.
 2. Open the**appcache** folder and delete everything inside. Similarly, open the**Depotcache** folder and clear its content.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Deleting folders in the Steam installation directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deleting-folders.jpg)
 
 ## 8\. Change Steam Services Priority
@@ -158,9 +150,6 @@ To launch Steam as an administrator, follow the below instructions:
 3. Right-click on**steamservice.exe,** hover the cursor to**Set priority,** and choose**High** from the context menu.  
 ![Set priority option in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-priority.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Reinstall the Steam Client
 
  Are you still struggling with the verifying installation prompt? If yes, then you're left with no option other than to reinstall the Steam client.
@@ -171,14 +160,11 @@ To launch Steam as an administrator, follow the below instructions:
 
  If Steam has issues verifying your game files, hopefully one of the fixes we covered can get it fixed again. Once done, Steam can get back to checking if your game's files are working as they should.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -187,4 +173,20 @@ To launch Steam as an administrator, follow the below instructions:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-action-cams-for-aspiring-filmmakers-2023-edition/"><u>[New] In 2024, Action Cams for Aspiring Filmmakers - 2023 Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-launching-a-dominant-biz-channel-key-tips-and-hacks/"><u>[New] In 2024, Launching a Dominant Biz Channel Key Tips & Hacks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-combining-forces-sharing-tweets-on-facebook-networks/"><u>[Updated] Combining Forces Sharing Tweets on Facebook Networks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elevating-engagement-professional-tips-for-youtube-video-tweaks-for-2024/"><u>[Updated] Elevating Engagement Professional Tips for YouTube Video Tweaks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-transformation-tutorial-sdr-to-high-dynamic-range-video-upgrading/"><u>[Updated] The Ultimate Transformation Tutorial SDR to High-Dynamic Range Video Upgrading</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/beyond-the-hype-decoding-10-instagram-reels-truths-for-2024/"><u>Beyond the Hype Decoding 10 Instagram Reels Truths for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-truthgpt-the-next-gen-ai-that-could-change-everything-as-envisioned-by-elon-musk/"><u>Decoding TruthGPT: The Next-Gen AI That Could Change Everything, as Envisioned by Elon Musk</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/download-and-save-your-cortana-activity-log/"><u>Download and Save Your Cortana Activity Log</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-update-error-a-step-by-step-guide/"><u>Fixing Windows Update Error: A Step-By-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-past-the-roadblock-solutions-for-unpreviewable-files-in-email-apps/"><u>Getting Past the Roadblock: Solutions for Unpreviewable Files in Email Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-broken-proximity-sensor-on-your-iphone/"><u>How to Fix a Broken Proximity Sensor on Your iPhone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/launching-a-successful-vlog-a-guide-to-profitability-for-2024/"><u>Launching a Successful Vlog A Guide to Profitability for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-1011-error-0x0000004e-quick-guide/"><u>Tackling Windows 10/11 Error 0X0000004E Quick Guide</u></a></li>
+</ul></div>
 

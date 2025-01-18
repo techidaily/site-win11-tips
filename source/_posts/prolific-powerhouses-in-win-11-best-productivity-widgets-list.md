@@ -1,7 +1,7 @@
 ---
 title: "Prolific Powerhouses in Win 11: Best Productivity Widgets List"
-date: 2025-01-07T20:09:10.142Z
-updated: 2025-01-13T02:29:05.941Z
+date: 2025-01-14T17:02:37.210Z
+updated: 2025-01-18T18:24:52.590Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 
 ![Widgets settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/widgets-settings-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Before installing widgets, it’s important to know how to access them and where to find widgets. With the help of keyboard shortcuts, accessing widgets in Windows 11 is easy.
 
  To open the widgets board, use the shortcut **Windows + W**. From here, you can view all installed widgets and add new ones. To add a new widget, hit the **plus** icon (**+**) at the top of the widgets board. Here, you can view all widgets created by Microsoft and access the Microsoft Store to explore further widgets. You can also [pin widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) using a third-party app.
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 ![Outlook Calendar productivity widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/outlook-calendar-productivity-widget-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Outlook Calendar is the perfect widget if you need a quick glance at your schedule. The widget displays an upcoming outline of today’s events alongside a flexible weekly view.
@@ -55,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 
 ![Microsoft To Do widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-to-do-widget-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Microsoft To Do is a powerful daily productivity planner, packed with tools to help you be more efficient and build a better to-do list. If you’re new to the app, check out our [beginner’s guide to Microsoft To Do](https://www.makeuseof.com/a-beginners-guide-to-microsoft-to-do-how-to-organize-your-personal-and-work-life/).
 
  The To Do widget puts all the app’s essentials into one condensed space. Using the dropdown at the top of the widget, you can easily switch between different lists. For an overview of all your to-do items, click on **Tasks**. The **My Day** tab is another useful tool for viewing urgent tasks. To Do syncs with your mobile app, so you can keep up-to-date with your schedule. Best of all, you can add new tasks directly from the widget.
@@ -66,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 ## 3\. Focus Session
 
 ![Focus session widget expanded view Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/focus-session-widget-expanded-view-windows-11-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Staying focused while working from home can be challenging. Focus Session is a great tool that utilizes the [Pomodoro method](https://www.makeuseof.com/what-is-pomodoro-method-how-increase-productivity/) to help you be more efficient.
 
@@ -77,13 +73,25 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 
 ![Phone Link widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/phone-link-widget-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Phone Link is one of Microsoft’s newer features, allowing you to connect your Android or iOS device to your PC. Using the tool, you can view mobile notifications and updates directly from your Windows machine.
 
  To get started, simply select your mobile’s operating system from the widget, then scan the QR code to link your mobile to your PC. You can also send text messages and make calls using Phone Link. The widget features some useful information about your device’s status, including its battery, Wi-Fi connectivity, and signal strength. You can open the Phone Link app in full by clicking the phone icon from the widget.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Tips
 
 ![Tips Windows 11 widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tips-windows-11-widget.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re new to using Windows 11 widgets, this next tool can help you learn the basics. Microsoft’s Tips widget provides hints on using widgets alongside tips to help you get around Windows 11\.
 
@@ -99,16 +107,12 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 
 **Download**: [Memory Check](https://apps.microsoft.com/detail/9PKWVP7N1QS9) ($1.99)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Memodown
 
 ![Memodown widget note taking Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memodown-widget-note-taking-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Memodown is another third-party widget built with many note-taking tools to boost your productivity. The app allows you to create sticky notes and pin them as Windows 11 widgets.
@@ -116,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
  There’s plenty of customization available in Memodown. For each sticky note, you can choose from a range of colors, change the note size, and rotate notes. Memodown also supports [Markdown](https://www.makeuseof.com/tag/learning-markdown-write-web-faster/), so you can quickly format notes in a desired style. If you rely on writing things down to stay on top of your schedule, Memodown is a perfect note-taking solution to keep your reminders visible.
 
 **Download**: [Memodown](https://apps.microsoft.com/detail/9NKNC4KWP66N) ($2.99, free trial available)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Be More Productive With the Help of Windows 11 Widgets
 
@@ -137,20 +137,24 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-transform-your-color-grading-skills-with-photoshops-luts-for-2024/"><u>[New] Transform Your Color Grading Skills with Photoshop's LUTs for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quick-recording-tips-mastering-screen-captures-on-hp-systems/"><u>[Updated] 2024 Approved Quick Recording Tips Mastering Screen Captures on HP Systems</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-hangout-history-top-4-strategies-for-2024/"><u>[Updated] Hangout History Top 4 Strategies for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-unlocking-hidden-details-roblox-closeup-secrets/"><u>2024 Approved Unlocking Hidden Details Roblox Closeup Secrets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-pin-change-procedures/"><u>Breaking Down Windows PIN Change Procedures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-the-stick-reviving-your-mouses-menu-action/"><u>Breaking the Stick: Reviving Your Mouse's Menu Action</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/brightening-up-the-boot-prompts-appearance/"><u>Brightening Up the BOOT Prompt's Appearance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypass-error-22-and-restore-device-functionality-in-windows-11/"><u>Bypass Error 22 and Restore Device Functionality in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-windows-interface-limitations-top-solutions/"><u>Bypassing Windows Interface Limitations: Top Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cease-sudden-shuts-in-windows-11-systems/"><u>Cease Sudden Shuts in Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/checking-if-windows-11-is-fully-operational/"><u>Checking If Windows 11 Is Fully Operational</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-advanced-tactics-for-seamless-subtitles-on-vimeo-videos/"><u>In 2024, Advanced Tactics for Seamless Subtitles on Vimeo Videos</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/motion-capture-apps-android-and-ios-essentials-for-2024/"><u>Motion Capture Apps Android and iOS Essentials for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-change-gif-speed-with-ease-best-online-and-mobile-tools/"><u>New 2024 Approved Change GIF Speed with Ease Best Online and Mobile Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fix-device-cannot-start-on-windows-11-due-to-registry-error-code-19-for-dvds-and-cds/"><u>Step-by-Step Guide to Fix 'Device Cannot Start' On Windows 11 Due to Registry Error Code 19 for DVDs and CDs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-navigating-the-best-10-vector-stock-pools/"><u>[New] 2024 Approved Navigating the Best 10 Vector Stock Pools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-revealing-graphic-excellence-our-top-10-design-tool-list/"><u>[Updated] 2024 Approved Revealing Graphic Excellence Our Top 10 Design Tool List</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-troubleshooting-frozen-footage-in-photo-booths-for-2024/"><u>[Updated] Troubleshooting Frozen Footage in Photo Booths for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-photo-perfection-in-a-pinch-with-top-apps/"><u>2024 Approved Photo Perfection in a Pinch with Top Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/c67-5g-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>C67 5G support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-infinix-hot-40-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Infinix Hot 40.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-wma-en-aac-facile-et-gratuite-sur-internet-audioconverterpro/"><u>Conversion WMA en AAC Facile Et Gratuite Sur Internet - AudioConverterPro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easily-convert-your-asf-media-formats-into-anything-you-need-using-the-movavi-video-converter/"><u>Easily Convert Your ASF Media Formats Into Anything You Need - Using the Movavi Video Converter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/en-lukkelse-til-at-snite-din-forhor-med-fjerntrimmning-af-de-uonskede-avlejningsdeler-i-filmen/"><u>En Lukkelse Til At Snite Din Forhør Med Fjerntrimmning Af De Uønskede Avlejningsdeler I Filmen</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enhancing-social-reach-joining-instagram-and-facebook-for-2024/"><u>Enhancing Social Reach Joining Instagram & Facebook for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/intensive-assessment-the-ultimate-guide-to-bublcam-360/"><u>Intensive Assessment The Ultimate Guide to Bublcam 360</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726224147954-movavijpeg/"><u>Movaviで簡単な無料ウェブJPEGからダークネス画像の変換方法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-watching-the-2024-olympiad-in-real-time/"><u>Step-by-Step Tutorial on Watching the 2024 Olympiad in Real Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-simples-pour-envoi-de-films-via-courriel/"><u>Techniques Simples Pour Envoi De Films via Courriel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transferer-un-fichier-ogg-vers-aac-gratuitement-online-conversion-avec-movavi/"><u>Transférer Un Fichier Ogg Vers Aac Gratuitement - Online Conversion Avec Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-images-into-webp-format-instantly-and-free-with-movavis-online-tool/"><u>Transform Images Into WebP Format Instantly and Free with Movavi's Online Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-success-with-seamless-collaborations-on-tiktok-duet-feature/"><u>Unlocking Success with Seamless Collaborations on TikTok Duet Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/asf-mp4/"><u>자이로나스터: 무료 ASF 영상 데이터를 MP4로 구성하기</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726227055668-wavmkv-movavi/"><u>シェア機能付きWAVからMKVへのオンライン無償変換 - Movavi</u></a></li>
 </ul></div>
 

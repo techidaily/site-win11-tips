@@ -1,7 +1,7 @@
 ---
 title: Steps for Ending Others' Session in Windows 11
-date: 2025-01-06T23:51:27.551Z
-updated: 2025-01-12T16:37:29.005Z
+date: 2025-01-16T18:10:58.872Z
+updated: 2025-01-18T18:13:34.679Z
 tags:
   - windows10
   - windows11
@@ -21,16 +21,16 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Sign Out Other Users Using the Task Manager](#sign-out-other-users-using-the-task-manager)
 * [Sign Out Other Users Using the Command Prompt](#sign-out-other-users-using-the-command-prompt)
 * [Log Off Other Users Using Process Explorer](#log-off-other-users-using-process-explorer)
 * [Ask Other Users Before You Sign Them Out](#ask-other-users-before-you-sign-them-out)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 5. Type the following command to sign out the specified user. Replace **2** below with the user account ID you want to sign out:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `Logoff 3`
@@ -80,11 +80,7 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 7. Once done, type **exit** and press Enter to close the Command Prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Log Off Other Users Using Process Explorer
@@ -97,12 +93,12 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 ![Download Process Explorer Web Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/download-process-explorer-web-page.jpg)
 2. Right-click on the **ProcessExplorer.zip** archive, and select **Extract All**. Select a location and extract the folder.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Process Explorer Exe File Run as Administrator Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-exe-file-run-as-administrator-option-in-windows-11.jpg)
 3. Open the **ProcessExplorer** folder, right-click on **procexp64.exe**, and select **Run as administrator**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Process Explorer App User Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-option-selected-in-windows-11.jpg)
 4. In the **Process Explorer** window, click **Users** to view all the active user sessions.  
@@ -111,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 5. Hover your cursor over the user account name and select **Logoff**.
 
  Process Explorer will sign out the selected user account from your computer. If you get an [access denied error](https://www.makeuseof.com/windows-11-fix-access-denied-error/), run the procexp64.exe executable with administrator privileges and try again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Ask Other Users Before You Sign Them Out
 
@@ -126,16 +126,18 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/2024-approved-unlocking-google-docs-transcription-your-complete-manual/"><u>2024 Approved Unlocking Google Docs Transcription Your Complete Manual</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-routes-to-reviving-the-elusive-windows-terminal/"><u>5 Routes to Reviving the Elusive Windows Terminal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-windows-pop-up-non-adobe-issue/"><u>Avoiding Windows Pop-Up: Non-Adobe Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-writing-with-these-top-pc-apps/"><u>Boost Your Writing with These Top PC Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-access-to-nvidia-drivers-download-options-for-windows-1078-users/"><u>Easy Access to Nvidia Drivers: Download Options for Windows 10/7/8 Users</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-creative-components-free-youtube-visual-resources/"><u>In 2024, Creative Components FREE YouTube Visual Resources</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-11-pro-max-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 11 Pro Max Without Previous Owner?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-mastering-screen-capture-expert-take-on-showmore-software/"><u>In 2024, Mastering Screen Capture Expert Take on ShowMore Software</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-quick-guide-to-youtube-trailer-making-with-filmora/"><u>In 2024, Quick Guide to YouTube Trailer Making with Filmora</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-windows-store-problems-with-x00000000/"><u>Mending Windows Store Problems with X00000000</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719335028418-stop-early-window-11-edge-tabs-now/"><u>Stop Early Window 11 Edge Tabs Now</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-sharpen-your-streams-top-5-video-enhancers/"><u>[New] 2024 Approved Sharpen Your Streams Top 5 Video Enhancers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-raw-footage-to-youtube-a-step-by-step-process-unveiled/"><u>[New] From Raw Footage to YouTube A Step-by-Step Process Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elite-presenter-tagline-generator-20-for-2024/"><u>[Updated] Elite Presenter Tagline Generator 2.0 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-explore-the-finest-ios-solutions-for-psp-emulation/"><u>[Updated] In 2024, Explore the Finest iOS Solutions for PSP Emulation</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1726029933477-usb/"><u>表面を使った簡単ガイド：USB接続による映像録画手段</u></a></li>
+<li><a href="https://fox-links.techidaily.com/asus-mg28uq-elevating-your-visual-experience-to-new-heights-for-2024/"><u>ASUS MG28UQ Elevating Your Visual Experience to New Heights for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diminish-windows-aural-amplification-feature/"><u>Diminish Windows Aural Amplification Feature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/faq-why-isnt-winx-dvd-ripper-extracting-the-full-film-solutions-inside/"><u>FAQ: Why Isn't WinX DVD Ripper Extracting the Full Film? Solutions Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-install-microsofts-pc-manager/"><u>Steps to Install Microsoft's PC Manager</u></a></li>
+<li><a href="https://article-helps.techidaily.com/strategic-brand-integrations-within-youtube-realms-for-2024/"><u>Strategic Brand Integrations Within YouTube Realms for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/traverse-times-tapestry-with-public-domain-art/"><u>Traverse Time's Tapestry with Public Domain Art</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-fixing-win11-camera-issue-with-error-a00f4289/"><u>Unraveling the Mystery: Fixing Win11 Camera Issue with Error A00F4289</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win10-repairing-directionally-inconsistent-headphone-output/"><u>Win10: Repairing Directionally Inconsistent Headphone Output</u></a></li>
 </ul></div>
 

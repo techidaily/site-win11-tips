@@ -1,7 +1,7 @@
 ---
 title: Bypassing Unlaunched Lunar Client Issue in Windows Environment
-date: 2024-07-29T08:15:32.929Z
-updated: 2024-07-30T08:15:32.929Z
+date: 2025-01-17T18:25:16.944Z
+updated: 2025-01-18T18:21:08.039Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,10 @@ Follow these steps to run Lunar Client as an administrator:
 
  If launching Lunar Client as an administrator fixes the problem, this indicates that operating system restrictions are causing this error. So, you should[configure the application to always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Delete Lunar Client's Cache Folders
 
  Like most gaming launchers, lunar Client caches some game data in its cache folders. This helps the client to fetch the required information faster from these locations, which ultimately improves the client's performance.
@@ -54,9 +58,6 @@ C:\Users\<username>\AppData\Roaming
 2. Find the**lunarclient** folder and open it.
 3. Here, you have to delete three folders:**Cache** ,**Code Cache** , and**GPUCache** .
 4. Select the folders, right-click on them, and hit**Delete** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Delete Lunar Client's Cache Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-delete-lunar-client-s-cache-folders.jpg)
 
  Run Lunar Client again after deleting the cache folders. If you encounter the same error again, proceed to the next step.
@@ -72,16 +73,10 @@ To change Lunar Client's memory allocation, follow these steps:
 1. Launch Lunar Client.
 2. Click on the**Settings** menu at the top.
 3. To change the memory allocation, drag the slider under**Allocated Memory** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Change the Allocated Memory in the Lunar Client Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-change-the-allocated-memory-in-the-lunar-client-settings.jpg)
 
  How much memory you should allocate depends entirely on the amount of memory you have on your computer. If you have 16GB of RAM installed, allocating 5GB would be a better decision. If the overall memory is less than that, you can allocate it accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Delete the Old Renderer Log File
 
  Besides stating that the Java launch has failed, the error message says that a report was unable to be submitted. Lunar Client might fail to submit the error report due to an issue with the old renderer log file, which contains data about previously reported errors and game settings.
@@ -95,17 +90,19 @@ To change Lunar Client's memory allocation, follow these steps:
 ![Delete the Old Renderer Log File in Lunar Client's Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-delete-the-old-renderer-log-file-in-lunar-client-s-installation-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Whitelist Lunar Client in Windows Defender and Your Antivirus
 
  Lunar Client is a third-party software application. So, Windows Defender and other antivirus programs installed on your device can interfere with the client's processing. To prevent this, whitelisting the lunar client from security software is necessary.
 
  Our guide on[how to allow apps through Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) describes the steps to whitelist apps from Windows' built-in security suite. If you use a third-party antivirus as an extra layer of protection, you can find instructions about whitelisting apps through it on its official website.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Reinstall Java Runtime Environment
 
  Lunar Client requires Java Runtime Environment to function correctly. When it's not installed properly, some of its files get corrupted, or one of its files goes missing, you could encounter Java-related errors like the one discussed in this article. To ensure that's not the case, you should reinstall it.
@@ -115,45 +112,41 @@ To change Lunar Client's memory allocation, follow these steps:
 1. Go to the[Java website](https://www.java.com/en/) .
 2. Click on**Download Java** .
 3. Click on**Download Java** once more on the next page.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Download Java Runtime Environment From the Java Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-download-java-runtime-environment-from-the-java-website.jpg)
 4. Run the file once it has been downloaded and click**Yes** in the**UAC** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Then click on the**Install** button.  
 ![Install Java Runtime Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-install-java-runtime-environment.jpg)
 
  If you encounter any problems during installation, uninstall the existing installation. To do that, open the**Settings** app and go to the**Apps** tab on the left. Then, find the**Java**  package from the list of installed programs, click on the**three horizontal dots** next to it, and click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Uninstall the Existing Java Package From Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-uninstall-the-existing-java-package-from-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the installation window automatically detects an old Java version, uninstall it by clicking**Uninstall** .
 
 ![Uninstalling the Older Java Version From Java Setup Wizard on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstalling-the-older-java-version-from-java-setup-wizard-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Play Minecraft Smoothly Again on Windows
 
  Launching Lunar Client and encountering unexpected errors can be frustrating. Hopefully, the above fixes will help you pinpoint the root cause of the "Failed to launch Lunar Client: Java launch failed" error and resolve it. If none of the fixes resolve the issue, you may have to uninstall Lunar Client and reinstall it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,4 +155,22 @@ To change Lunar Client's memory allocation, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-elite-5-digital-media-screenshots/"><u>[New] Elite 5 Digital Media Screenshots</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-eliminate-blackout-issues-with-game-capture-apps/"><u>[New] In 2024, Eliminate Blackout Issues with Game Capture Apps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treamlining-ad-revenue-for-youtube-channels-post-monetization/"><u>[New] Streamlining Ad Revenue for YouTube Channels Post-Monetization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-ways-to-command-chatgpt-voice-based-control-methods/"><u>5 Ways to Command ChatGPT: Voice-Based Control Methods</u></a></li>
+<li><a href="https://blog-min.techidaily.com/cambiar-imagenes-de-dng-a-png-online-sin-coste-guia-eficiente-con-movavi/"><u>Cambiar Imágenes De DNG a PNG Online Sin Coste: Guía Eficiente Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-silence-windows-11-notifications/"><u>Efficiently Silence Windows 11 Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hasty-help-for-defining-windows-vocabulary/"><u>Hasty Help for Defining Windows Vocabulary</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-keep-screen-distractions-at-bay-folders/"><u>How to Keep Screen Distractions at Bay: Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-rectify-unknown-obs-record-error-on-win-11-pc/"><u>How to Swiftly Rectify Unknown OBS Record Error on Win 11 PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-yuva-3-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Yuva 3 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modifying-reset-counter-for-locked-out-users-post-incorrect-logins/"><u>Modifying Reset Counter for Locked Out Users Post Incorrect Logins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-routing-failed-files-download-on-windows-11-and-11-pcs/"><u>Re-Routing Failed Files Download on Windows 11 & 11 PCs</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/setting-up-network-connections-with-windows-control-panel-expert-advice-from-yl-software/"><u>Setting Up Network Connections with Windows Control Panel: Expert Advice From YL Software</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/sing-your-heart-out-on-the-sml38ebtbk-karaoke-machine-user-friendly-interface-and-stunning-visuals-await/"><u>Sing Your Heart Out on the SML38ebtBK Karaoke Machine: User-Friendly Interface and Stunning Visuals Await</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/usb-wi-fi-woes-heres-a-quick-guide-to-reclaiming-connection-on-windows/"><u>USB Wi-Fi Woes? Here's a Quick Guide to Reclaiming Connection on Windows</u></a></li>
+</ul></div>
 

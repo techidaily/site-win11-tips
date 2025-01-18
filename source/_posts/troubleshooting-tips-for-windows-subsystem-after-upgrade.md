@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Windows Subsystem After Upgrade
-date: 2025-01-09T02:14:55.965Z
-updated: 2025-01-12T17:39:25.746Z
+date: 2025-01-14T18:31:56.877Z
+updated: 2025-01-18T17:49:38.240Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check That WSL Is Enabled
 
  It isn't unusual that upgrading to a newer version of the OS will break some apps and features. So although it might sound obvious, checking WSL hasn't simply been disabled during the upgrade process should be your first step. Here's how to check:
@@ -50,20 +54,12 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 
 ![Error message in the command line interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsl-feature-missing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If a command line interface opens, telling you a required feature is not installed, when you try to run your Linux distribution, this is likely what it refers to.
 
 1. Search for**Turn Windows features on or off** and click the search result.
 2. In Windows Features, scroll down to find**Virtual Machine Platform** and**Windows Hypervisor Platform** .
 3. Check the boxes next to each of these features and then click**Ok** .
 4. You will need to restart your computer to complete the installation of these tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Repair the Linux Distribution App
 
@@ -75,17 +71,13 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 ![Advanced app options in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-wsl.jpg)
 4. Click the**Repair** button and follow the on-screen instructions if repairs are necessary.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![repairing an app in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-wsl-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check if WSL is working. If not, try uninstalling and reinstalling the Linux distribution app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Force WSL to Open Using the Microsoft Store
 
@@ -96,9 +88,17 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 ![opening the WSL app in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/force-open-store.jpg)
 3. Click the**Open** button, and the default Linux distro app should launch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If a command line interface window opens instead, it will probably tell you a required feature is missing. See**Enable Hyper-V and Virtual Machine Platform** above.
 
  If forcing WSL to open doesn't work, try the same with the Linux distro app you are using. Open the Store, search for your distro, and click the**Open** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Uninstall Recent Updates to Fix WSL
 
@@ -108,15 +108,15 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 
  If, after uninstalling the update, WSL still does not work, it is a good idea to reinstall it. Updates can often include security and performance tweaks, so it is generally recommended to keep Windows updated.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Check That Malware Isn't Blocking WSL
 
  The final thing to try to get WSL working is scanning for malware. The potential for malware to prevent Windows Subsystem for Linux from working is low but not unheard of.
 
  Run a[full scan in Microsoft Defender](https://www.makeuseof.com/easy-ways-boost-security-microsoft-defender-and-windows-10/) or whichever third-party antivirus software you use. Quarantine or remove any malware your antivirus scan finds. Then restart your computer and try using WSL to see if that was the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing WSL After Upgrading to Windows 11
 
@@ -137,16 +137,19 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-future-of-presentations-capturing-via-webcam/"><u>[Updated] 2024 Approved The Future of Presentations Capturing via Webcam</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-customizing-terminal-color-schemes/"><u>A Guide to Customizing Terminal Color Schemes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-recovering-cortana-insights-on-pcs/"><u>A Guide to Recovering Cortana Insights on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-improve-photo-scaling-in-windows-11/"><u>A Step-by-Step Guide to Improve Photo Scaling in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blackout-brilliance-using-dark-settings-in-microsoft-paint/"><u>Blackout Brilliance: Using Dark Settings in Microsoft Paint</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-system-insight-with-elevated-task-manager-access-on-win11/"><u>Boosting System Insight with Elevated Task Manager Access on Win11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722895052667-code-28-error-woes-heres-your-ultimate-windows-hack-for-a-smooth-fix/"><u>Code 28 Error Woes? Here's Your Ultimate Windows Hack for a Smooth Fix!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-techniques-for-effortless-facebook-video-posting-pcandroid/"><u>In 2024, Techniques for Effortless Facebook Video Posting, PC/Android</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revealing-insights-on-the-acer-predator-triton-300-se-smart-slim-and-steeped-in-value/"><u>Revealing Insights on the Acer Predator Triton 300 SE - Smart, Slim & Steeped in Value!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-navigating-editor-options-filmora-or-democreator/"><u>[New] In 2024, Navigating Editor Options Filmora or Democreator?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-screen-capture-bandicam-vs-camtasia-battle/"><u>[Updated] 2024 Approved Mastering Screen Capture Bandicam Vs. Camtasia Battle</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-achieve-smooth-aquatic-vids-with-these-seven-steps/"><u>[Updated] Achieve Smooth Aquatic Vids with These Seven Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fashion-memes-for-social-sharing-via-adobe/"><u>[Updated] Fashion Memes for Social Sharing via Adobe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-isdonedll-failures-instantly/"><u>Eliminating Windows ISDone.dll Failures Instantly</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/enhance-audio-quality-get-high-quality-fx-in-2024/"><u>Enhance Audio Quality, Get High-Quality FX, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-disparity-to-consistency-unifying-windows-pcs-with-aoemi/"><u>From Disparity to Consistency: Unifying Windows PCs With AOEMi</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-resolve-windows-11s-post-login-black-display-issue-a-step-by-step-guide/"><u>How to Resolve Windows 11'S Post-Login Black Display Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-square-windows-11-edges/"><u>How to Square Windows 11 Edges</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-13c-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 13C 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-integrating-background-footage-for-enhanced-narratives/"><u>In 2024, Integrating Background Footage for Enhanced Narratives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-taskbar-date-and-time-settings-for-windows-11/"><u>Mastering Taskbar Date & Time Settings for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-sound-output-on-non-responsive-windows/"><u>Restoring Sound Output on Non-Responsive Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-enhance-saving-capabilities-in-nvidia-control-center/"><u>Tips to Enhance Saving Capabilities in Nvidia Control Center</u></a></li>
 </ul></div>
 

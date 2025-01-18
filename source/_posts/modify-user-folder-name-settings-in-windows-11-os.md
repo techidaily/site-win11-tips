@@ -1,7 +1,7 @@
 ---
 title: Modify User Folder Name Settings in Windows 11 OS
-date: 2025-01-08T22:30:00.199Z
-updated: 2025-01-12T18:37:58.899Z
+date: 2025-01-12T17:35:56.085Z
+updated: 2025-01-18T16:12:27.497Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
  Windows, by default, will use the first five characters of your user account name as the profile folder name. If you don’t like the user profile folder name, you can change it using a registry hack. Here, we show you how to change the name of the user profile folder in Windows 11\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But First, Some Potential Issues That May Arise From These Steps
@@ -60,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 ![Add other user account in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-other-user-account-windows-11.png)
 5. Next, click on **I don’t have this person’s sign-in information.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Creating a local user account without a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/create-local-user-account-without-Microsoft-account.png)
 
 1. Click on **Add a user** **without a Microsoft account.**
@@ -69,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 5. Click **OK** to save the changes.
 
  Now, you can log in with your new administrator account. To do this, click **Start**, then click on the user profile name, and select **Sign out.** Next, sign in with the new administrator account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change the User Profile Folder Name Using the Registry Editor
 
@@ -85,13 +93,13 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 ![User accounts properties.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-accounts-properties.jpg)
 5. In the **User Properties** dialog, you’ll see your **User name** and **Full name.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Type a name for your user name, click **OK** and **Apply**.  
 ![user account user name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-acount-user-name.jpg)
 2. Close the **User Account** dialog and perform a restart.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Next, open the Command Prompt. To do this, press **Win + R,** type **cmd,** and click **OK**.  
 ![SID command prompt user account.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/SID-command-prompt-user-account.png)
@@ -109,23 +117,15 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 ![Modify profile image path in the registry editor.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/modify-profile-image-path-registry-editor.png)
 5. Enter a name you want for the profile folder and click **OK**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![add new name profile image path registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-new-name-profile-image-path-registry-editor.png)
 6. Close the Registry Editor and Command Prompt window if open.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Next, press **Win + E** to open File Explorer and navigate to **C:\\Users\\.**  
 ![Rename user profile folder name.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/rename-user-profile-folder-name.png)
 8. Select your **user profile** and press **F2** to rename it. Enter a new name for your user profile (it must match the user name entered in the Registry Editor).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Click away and then click **Continue** to save the changes.
@@ -148,17 +148,18 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-free-extension-software-leaders-in-chromebook-video-recording/"><u>[Updated] 2024 Approved Free Extension Software Leaders in Chromebook Video Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-tutorial-how-to-create-facebook-account/"><u>[Updated] Facebook Tutorial How to Create Facebook Account</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/11-solutions-for-a-fully-operational-windows-search-bar/"><u>11 Solutions for a Fully Operational Windows Search Bar</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blockchain-against-breaches-7-windows-strategies/"><u>Blockchain Against Breaches: 7 Windows Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boldly-hiding-extra-commands-within-window-contexts-win-10/"><u>Boldly Hiding Extra Commands Within Window Contexts (Win 10)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-taskbar-performance-on-win11/"><u>Boosting Taskbar Performance on Win11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-11-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 11 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-winning-the-game-of-tv-recording-on-a-budget-pc/"><u>In 2024, Winning the Game of TV Recording on a Budget PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-pc-issues-fixes-for-hyper-scape-crashes/"><u>Resolving PC Issues: Fixes for Hyper Scape Crashes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/restoring-access-to-your-deactivated-instagram-presence/"><u>Restoring Access to Your Deactivated Instagram Presence</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-10-gratis-otimizadores-de-video-com-ia-melhores-escolhas-para-pc-e-mac/"><u>Top 10 Gratis Otimizadores De Vídeo Com IA: Melhores Escolhas Para PC E Mac</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nlock-the-power-of-cutting-for-beginner-editors-for-2024/"><u>[New] Unlock the Power of Cutting for Beginner Editors for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-streamlabs-rival-in-the-eye-of-a-streamer/"><u>[Updated] In 2024, Streamlabs' Rival in the Eye of a Streamer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-characters-with-windows-11-map-tool/"><u>Explore Characters with Windows 11 Map Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-completely-uninstall-wsl-on-windows-11-and-11/"><u>How to Completely Uninstall WSL on Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-get-into-and-out-of-the-windows-terminals-focus-mode/"><u>How to Get Into and Out of the Windows Terminal’s Focus Mode</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-streamlining-multimedia-experiences-through-youtube-music-links/"><u>In 2024, Streamlining Multimedia Experiences Through YouTube Music Links</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/organizing-and-naming-pro-level-windows-approach-max-156/"><u>Organizing & Naming: Pro-Level Windows Approach (Max 156)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-vpn-connection-woes-on-your-iphone-with-7-powerful-strategies/"><u>Overcome VPN Connection Woes on Your iPhone with 7 Powerful Strategies</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-strategy-for-detecting-deleting-and-defending-your-phone-from-android-ransomware-threats/"><u>Step-by-Step Strategy for Detecting, Deleting, and Defending Your Phone From Android Ransomware Threats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-tips-for-maximizing-wsl-2-in-windows/"><u>Top 5 Tips for Maximizing WSL 2 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-purpose-of-an-x-symbol-for-your-drives/"><u>Understanding the Purpose of an X Symbol for Your Drives</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-innovations-in-audio-production-adding-subtle-fading-techniques-to-your-toolkit/"><u>Updated 2024 Approved Innovations in Audio Production Adding Subtle Fading Techniques to Your Toolkit</u></a></li>
 </ul></div>
 

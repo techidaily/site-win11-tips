@@ -1,7 +1,7 @@
 ---
 title: Breathe Life Back Into the Escape Function in Windows OS
-date: 2024-07-29T08:15:22.273Z
-updated: 2024-07-30T08:15:22.273Z
+date: 2025-01-17T18:25:11.654Z
+updated: 2025-01-18T17:28:27.521Z
 tags:
   - windows10
   - windows11
@@ -24,18 +24,12 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
  Over time, dirt and other particles can accumulate under the Esc key on your keyboard and prevent it from working properly. Hence, the first thing you should do is clean the Esc key gently with a brush and use a can of compressed air to blow out any dirt particles that might be trapped beneath it.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Esc key on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/esc-key-on-a-keyboard.jpg)
 
  If you are using an external keyboard, you can try disconnecting and reconnecting it. While you're at it, try a different USB port this time to determine[if there’s an issue with the USB port on your computer](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) .
 
  Another thing you can do is connect your keyboard to a different computer and test the Esc key. This will help you rule out any potential hardware-related issues.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Restart Your Computer
 
  Restarting your computer is an age-old troubleshooting tip that can help you with a variety of issues, including this one. Doing so will give Windows and its services a fresh start, resolving any temporary glitches.
@@ -45,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 ![Restart Windows Computer From Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Restart-Windows-Computer-From-Start-Menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Windows Troubleshooters
 
  Your Windows computer includes a set of troubleshooters for dealing with system-related issues. In this case, you can run the keyboard troubleshooter to see if it gets the Esc key to work again.
@@ -64,10 +59,11 @@ To run the keyboard troubleshooter on Windows:
 1. Press**Win + R** to open the Run dialog box.
 2. Type**msdt.exe -id DeviceDiagnostic** in the Open field and press**Enter** .
 3. In the Hardware and Devices window, click**Next** to run the troubleshooter.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Filter Keys
 
@@ -79,8 +75,9 @@ To run the keyboard troubleshooter on Windows:
 ![Disable Sticky Keys in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-sticky-keys-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Uninstall Any Key Mapping Software
 
  Are you using any key mapping software on your PC? If so, you need to ensure that the Esc key isn’t disabled or mapped to a different function. If it is, you can either restore the key mapping to its default or remove the key remapping software entirely. In case you need help with the latter, check our guide on[different ways to uninstall software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
@@ -97,26 +94,25 @@ To run the keyboard troubleshooter on Windows:
 2. Double-click on**Keyboards** to expand it.
 3. Right-click on your keyboard and select**Update driver** .
 4. Select**Search automatically for driver** and allow Windows to update the driver.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![Update Keyboard Driver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-keyboard-driver-in-windows.jpg)
 
  If the Esc key does not work even after this, the keyboard driver may be corrupt. In that case, uninstall the problematic driver using Device Manager.
 
  Once removed, restart your PC and allow Windows to automatically reinstall the missing driver during boot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 8\. Install Windows Updates
 
  Aside from updating the keyboard drivers, you should also check your system for pending Windows updates. To do so, press**Win + I** to open the Settings app and navigate to the**Windows Update** tab. Click the**Check for updates** button to download and install pending updates.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Check for Malware
 
@@ -124,14 +120,15 @@ To run the keyboard troubleshooter on Windows:
 
  Make sure you take[the necessary steps if you discover malware on your computer](https://www.makeuseof.com/tag/10-steps-to-take-when-you-discover-malware-on-your-computer/) .
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Troubleshoot in Clean Boot State
 
  At times, background apps and services running on your computer can also conflict with Windows and prevent it from registering your keystrokes. If you suspect that to be the case, you can try using the Esc key in a clean boot state. For more information on this, check our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) .
 
  If the Esc key works fine during a clean boot, it means one of the apps or programs is responsible for the issue. Apps and programs that you have installed fairly recently are more likely to have caused the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Perform a System Restore
 
@@ -145,23 +142,21 @@ To perform a system restore on Windows, use these steps:
 4. Click**Next** .
 5. Select a restore point before the issue first appeared and hit**Next** .
 6. Click**Finish** to continue.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-dialog-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Start Using the Esc Key Again on Windows
 
  Depending on your situation, fixing the Esc key can be as easy as cleaning it or as demanding as restoring your PC to its previous state. However, if none of the above fixes work, it’s likely that the Esc key on your keyboard is damaged and requires repair.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +165,26 @@ To perform a system restore on Windows, use these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discover-world-wonders-with-these-top-10-videos/"><u>[New] 2024 Approved Discover World Wonders with These Top 10 Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unveiling-the-secrets-of-creative-commons-licensing/"><u>[New] 2024 Approved Unveiling the Secrets of Creative Commons Licensing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capture-flawless-underwater-images-easily-in-7-steps/"><u>[New] Capture Flawless Underwater Images Easily in 7 Steps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-step-by-step-augmenting-youtube-video-space/"><u>[Updated] In 2024, Step-by-Step Augmenting YouTube Video Space</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-cursor-visibility-win10-and-11-techniques/"><u>Clearing Up Cursor Visibility: Win10 & 11 Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/corsair-mouse-driver-download-install-and-setup-instructions/"><u>Corsair Mouse Driver Download - Install & Setup Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-apples-home-automation-bot-predicted-price-points-and-expected-market-date-unveiled/"><u>Discover Apple's Home Automation Bot: Predicted Price Points and Expected Market Date Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/double-the-ease-of-double-clicking-windows-mouse/"><u>Double the Ease of Double-Clicking Windows Mouse</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-organization-essential-productivity-software-for-windows/"><u>Effortless Organization: Essential Productivity Software for Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-20-unprotected-open-access-pubg-montages/"><u>Elite 20 Unprotected, Open-Access PUBG Montages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-elusive-recordings-errors-on-windows-11-os/"><u>How to Eradicate Elusive Recordings Errors on Windows 11 OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-as-a-detailed-and-interactive-text-based-rpg/"><u>How to Use ChatGPT as a Detailed and Interactive Text-Based RPG</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-your-startup-clearing-and-regenerating-windows-icons/"><u>Improve Your Startup: Clearing and Regenerating Windows Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-silenced-volume-backup-procedure/"><u>Reactivating Silenced Volume Backup Procedure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-fixing-unsuccessful-connection-with-nvidia-experience/"><u>Step-by-Step Guide: Fixing Unsuccessful Connection with Nvidia Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-correcting-projector-connection-issues-in-windows/"><u>Steps for Correcting Projector Connection Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-selection-activating-selective-filters-in-win11/"><u>Streamline Selection: Activating Selective Filters in Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-new-possibilities-combining-chatgpt-and-siri-features-on-iphones/"><u>Unlocking New Possibilities: Combining ChatGPT and Siri Features on iPhones</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows Memory Mapping: Uncovering RAM Types Easily"
-date: 2024-08-08T10:59:17.223Z
-updated: 2024-08-09T10:59:17.223Z
+date: 2025-01-15T18:10:44.798Z
+updated: 2025-01-18T16:13:10.135Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  This guide will walk you through some easy methods for identifying the type of RAM housed within your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 1\. How to Check the RAM Type With Command Prompt
 
  The most straightforward to check the RAM type on your Windows PC is via Command Prompt. You can use this method even [if you're a beginner with the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/), as it only requires you to run a single command.
@@ -37,13 +33,14 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 4. Note down the code number under the **MemoryType** column.  
 ![Check Memory Type Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-memory-type-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Compare the numerical value from the **MemoryType** column with the following table to identify the RAM type. For instance, if the code number is **24**, it means your computer has **DDR3** RAM.
 
 ![A Table Showing RAM Type and Numeric Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-table-showing-ram-type-and-numeric-value.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 2\. How to Check the RAM Type With PowerShell
 
  Like Command Prompt, you can use PowerShell to find out the type of RAM installed on your Windows computer. Here are the steps for the same.
@@ -54,17 +51,23 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 4. When the User Account Control (UAC) prompt appears, select **Yes** to continue.
 5. Type the following command in the PowerShell window and hit **Enter**.  
 `Get-CimInstance -ClassName Win32_PhysicalMemory | Format-Table SMBIOSMemoryType`  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check RAM Type Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-ram-type-using-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Under the **SMBIOSMemoryType** column, note down the code number and compare it with the following table to determine the RAM type.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![A Table Showing RAM Type and Numeric Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-table-showing-ram-type-and-numeric-value.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Check the RAM Type Using the Task Manager App
 
@@ -85,22 +88,17 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  Download and open the [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) app on your PC. Click on the **Memory** tab to get a detailed breakdown of the installed RAM. Under the **General** section, look for the value in the **Type** field to know the type of RAM installed on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Check Memory Type Using CPU-Z App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-memory-type-using-cpu-z-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Know the Type of RAM Installed on Your Windows PC
 
  The performance of your computer is affected not only by the amount of RAM installed but also by the type of RAM. Fortunately, identifying the RAM type on your Windows PC is a quick and painless process with the methods mentioned above.
 
  This guide will walk you through some easy methods for identifying the type of RAM housed within your computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -108,3 +106,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-pushing-the-limits-advanced-strategies-for-google-podcasting/"><u>[Updated] 2024 Approved Pushing the Limits Advanced Strategies for Google Podcasting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-streamlining-your-youtube-views-a-guide-to-blocking-advertisements/"><u>[Updated] 2024 Approved Streamlining Your YouTube Views A Guide to Blocking Advertisements</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-room-arrangement-for-immersive-vr-experience-for-2024/"><u>[Updated] Room Arrangement for Immersive VR Experience for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-key-techniques-for-storing-lol-matches/"><u>2024 Approved Key Techniques for Storing LOL Matches</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-panoramic-portals-cutting-edge-filmscapes/"><u>2024 Approved Panoramic Portals Cutting-Edge Filmscapes</u></a></li>
+<li><a href="https://windows11.techidaily.com/halt-auto-restarts-windows-11-troubleshooting/"><u>Halt Auto Restarts: Windows 11 Troubleshooting</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-jitters-to-silk-stabilizing-your-footage-in-fcpx/"><u>In 2024, From Jitters to Silk Stabilizing Your Footage in FCPX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-iomap64sys-fault-management-in-windows-pcs/"><u>Mastering IOMap64.sys Fault Management in Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-refreshing-desktop-icons-in-windows/"><u>Quick Fix: Refreshing Desktop Icons in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-sleep-windows-1011-turns-off-by-itsself/"><u>Quick Sleep: Windows 10/11 Turns Off By Itsself</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivate-steam-graphics-in-windows-environment/"><u>Reactivate Steam Graphics in Windows Environment</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-serenity-seekers-guide-to-relaxed-youtube-viewing-52-chars-for-2024/"><u>The Serenity Seeker's Guide to Relaxed YouTube Viewing (52 Chars) for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Failed Cloud Operations (OneDrive)
-date: 2025-01-10T19:48:58.399Z
-updated: 2025-01-13T01:26:00.454Z
+date: 2025-01-12T18:11:51.870Z
+updated: 2025-01-18T18:41:44.735Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Log Out and Back Into OneDrive
 
  First, try logging out and back into your OneDrive account. To do so, you’ll need to unlink your PC with your OneDrive account. This is how you can log out and sign back into OneDrive:
@@ -39,12 +35,12 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![The Settings option in OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-option.jpg)
 4. Click the**Unlink this PC** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Unlink this PC option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unlink-this-pc.jpg)
 5. Select**Unlink account** to sign out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. If a sign-in window doesn’t automatically open, input OneDrive in the Windows search box and select to open it there.
 2. Input your OneDrive email address (for your Microsoft account), and click the**Sign in** option.  
@@ -62,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
 ![The Local Disk storage icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-disk-storage-icon.jpg)
 
- If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about[how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about[how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
 
 ## 3\. Reset the OneDrive App
 
@@ -93,13 +89,13 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![The Change location option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-location-option.jpg)
 5. Select an alternative drive partition on your PC to link OneDrive with.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**Select Folder** to confirm the chosen location.
 7. Keep clicking**Next** a few times, and select the**Open my OneDrive folder** option.  
 ![The Open my OneDrive folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-my-onedrive-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enable the "Always Keep on Device" and "Free Up Space" Options
 
@@ -113,15 +109,7 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![The Always keep on this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/always-keep-on-this-device-option.jpg)
 4. Then right-click the same file again to select**Free up** **space** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Repeat these steps for all files you can’t access because of error 0x80070185.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Turn Off Any Active Firewalls
 
@@ -137,13 +125,13 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-windows-defender-firewall-option.jpg)
 6. Return to OneDrive to see if the 0x80070185 error persists with the firewall off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It’s also recommended to turn off any third-party firewalls installed. Some antivirus utilities also have firewalls. If you’ve installed any additional security software, select the option to disable its firewall if it has one.
 
  Should this potential solution resolve error 0x80070185, set up a firewall exception for OneDrive. You can do that for the Windows firewall as instructed in our[how to allow apps through Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) piece. Users with third-party firewalls can allow OneDrive through them with the exclusion settings in their security apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall OneDrive
 
@@ -155,11 +143,23 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-uninstall-option.jpg)
 4. Select**Uninstall** for confirmation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Open the[OneDrive page on the Microsoft Store](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb) .
 6. Click OneDrive’s**Get in Store** button.
 7. Select**Open Microsoft Store** to view the OneDrive page in that app.  
 ![The Get button for OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-button-for-onedrive.jpg)
 8. Click**Get** to reinstall OneDrive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Access your OneDrive Files again
 
@@ -180,24 +180,21 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-orchestrating-visuals-and-vo-in-powerpoint-for-2024/"><u>[New] Orchestrating Visuals & VO in Powerpoint for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-subtle-sound-decline-using-logic-pro-for-fading-effects/"><u>[New] Subtle Sound Decline Using Logic Pro for Fading Effects</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-concealed-crusaders-conflict-with-clarion-champion/"><u>[Updated] 2024 Approved Concealed Crusader's Conflict with Clarion Champion</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-from-raw-to-refined-youtube-thumbnail-creation-for-mobile-users/"><u>[Updated] From Raw to Refined YouTube Thumbnail Creation for Mobile Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-streamline-your-online-presence-using-wirecast-and-facebook-live-for-2024/"><u>[Updated] Streamline Your Online Presence Using Wirecast and Facebook Live for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/color-dynamics-bringing-artistic-vision-to-life/"><u>Color Dynamics Bringing Artistic Vision to Life</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crack-the-code-of-missing-control-options-in-win11/"><u>Crack the Code of Missing Control Options in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-skies-top-ranked-windows-11-weather-tools/"><u>Decoding the Skies: Top-Ranked Windows 11 Weather Tools</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-hp-deskjet-ink-advantage-2540-printer-drivers-step-by-step-guide/"><u>Download and Update HP Deskjet Ink Advantage 2540 Printer Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/elevate-your-singing-experience-with-the-thrilling-updates-of-karaoke-cloud-pro-by-pcdj-discover-whats-new/"><u>Elevate Your Singing Experience with the Thrilling Updates of Karaoke Cloud Pro by PCDJ – Discover What's New!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-memory-errors-from-windows-tools/"><u>Eliminating Memory Errors From Windows Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-reading-efficiency-obsidian-canvas-styles/"><u>Enhancing Reading Efficiency: Obsidian Canvas Styles</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-edge-40-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola Edge 40 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-honor-x9b-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Honor X9b without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-group-policy-objects-on-single-user-accounts-in-windows-11/"><u>Leveraging Group Policy Objects on Single-User Accounts in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-the-most-of-microsoft-project-keys/"><u>Making the Most of Microsoft Project Keys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/power-draw-breakdown-for-windows-computing-systems/"><u>Power Draw Breakdown for Windows Computing Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-access-to-the-system32-folder-win11/"><u>Seamless Access to the System32 Folder (Win11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uninstalling-internal-pc-graphics-with-ease/"><u>Uninstalling Internal PC Graphics with Ease</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-transform-your-media-a-curated-list-of-the-best-free-video-editing-software-top-9/"><u>[New] 2024 Approved Transform Your Media A Curated List of the Best Free Video Editing Software (Top 9)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-pricing-guide-youtube-marketing-expenses/"><u>[New] In 2024, Pricing Guide YouTube Marketing Expenses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-vector-image-basics-unveiled-categories-types-and-tools-guide/"><u>[New] Vector Image Basics Unveiled Categories, Types & Tools Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-4-ways-to-record-internal-android-audio-no-rooting/"><u>[Updated] 4 Ways to Record Internal Android Audio (No Rooting)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aiffogg-movavi/"><u>無料でオンライン上のAIFF音楽ファイルをOGGに直接変換: Movaviの詳しい手順</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-enhances-iphone-16-with-simplified-fixes-learn-about-the-improvements-over-previous-models-znet-analysis/"><u>Apple Enhances iPhone 16 with Simplified Fixes - Learn About the Improvements Over Previous Models | Znet Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/como-convertir-archivos-flv-a-formato-asf-online-de-manera-gratuita-con-el-asistente-web-de-conversion/"><u>Cómo Convertir Archivos FLV a Formato ASF Online De Manera Gratuita Con El Asistente Web De Conversión</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/converti-file-nef-in-formato-png-online-e-gratuito-con-movavi/"><u>Converti File Nef in Formato PNG Online E Gratuito Con Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-paso-a-paso-para-anadir-audio-en-su-video-con-movavi/"><u>Guía Paso a Paso Para Añadir Audio en Su Video Con Movavi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installation-manual-how-to-get-your-hp-officejet-3830-up-and-running-in-windows/"><u>Installation Manual: How to Get Your HP OfficeJet 3830 Up and Running in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-filmbeolvaso-onlinevedes-szelsosegessegek-a-vasarlasban/"><u>Movavi Filmbeolvasó Onlinevédés: Szélsőségességek a Vásárlásban</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-mp3-m4r/"><u>Movaviの魔法: MP3, M4Rファイルを変換し、ダウンロードする自由 - お試し無料でご利用いただけます</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/opcoes-de-resgate-fiaveis-para-servidores-windows-em-grandes-corporacoes-e-provedores-de-servicos-gerenciados/"><u>Opções De Resgate Fiáveis Para Servidores Windows Em Grandes Corporações E Provedores De Serviços Gerenciados</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-realme-gt-5-240w-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Realme GT 5 (240W) Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trier-gratuitement-un-fichier-ogg-vers-mp4-en-ligne-movavi/"><u>Trier Gratuitement Un Fichier OGG Vers MP4 en Ligne - Movavi</u></a></li>
 </ul></div>
 

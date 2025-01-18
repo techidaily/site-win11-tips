@@ -1,7 +1,7 @@
 ---
 title: Ceasing High Contrast Display Mode on PC
-date: 2024-07-29T08:15:26.898Z
-updated: 2024-07-30T08:15:26.898Z
+date: 2025-01-11T18:22:12.796Z
+updated: 2025-01-18T17:28:07.613Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
  High contrast mode makes the screen elements darker to increase clarity, but the result may not look inviting for every user. As such, we will explore multiple methods to turn off the high contrast mode on Windows 11 or older operating systems.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is High Contrast Mode?
 
  High Contrast Mode is an accessibility feature that comes free with Windows. It makes certain screen elements darker and more distinguishable so that users with low vision can see everything. High contrast mode isn’t limited to Windows only; you can also find it in Android, iOS, macOS, Linux, and more.
@@ -31,13 +32,18 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 
  High contrast themes offer customizability to tweak different screen elements, like text, links, background, button text, and more. It's a lot more helpful than dark mode, which just adds a dark or black-grayish background with a white color.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Disable High Contrast Mode on Windows
 
  If High Contrast Mode has been turned on and you'd like to change that, there are multiple ways to get the job done.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Using the High Contrast Mode Shortcut keys
 
  To disable high contrast mode on Windows using keyboard shortcuts, press the**Left Alt + Left Shift + Print Screen** keys at once. You won’t see any pop-up window to confirm the action, but you will hear a “beep” sound before the system reverts to the default theme. You can use this shortcut again if you need to re-enable High Contrast mode.
@@ -50,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 2. Navigate to the left-hand side menu and click on**Personalization** .
 3. Click on the**Themes** option under Personalization. Scroll down and click on the**Contrast Themes** option.
 4. Click on the drop-down menu in the Contrast Themes option and select the**None** option.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable High Contrast Mode Using Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-settings-app.jpg)
 5. Then, click on the**Apply** option. Windows will change back to the previous theme.
 
@@ -67,8 +70,13 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 4. Windows will revert to the default theme. Enter your PIN or password and log in.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Using the Control Panel
 
  To disable the high contrast mode in Windows 11 and 10, do as follows:
@@ -77,11 +85,13 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 2. The Control Panel will launch. Click on the**Appearance and Personalization** option.
 3. Select the Ease of Access option and click on the**Set Up high contrast** option.
 4. Now, select the**Choose a high contrast theme** option.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable High Contrast Mode Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-control-panel.jpg)
 5. Navigate to**Themes > Contrast Themes** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click on the drop-down menu in the Contrast Themes option and select the**None** option.
 7. Then, click on the**Apply** button.
 
@@ -98,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 
 1. Press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type “**shell:::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921}** ” in the text input area and press the Enter key.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![Disable High Contrast Mode Using Run Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-run-box.jpg)
 3. The old personalization settings control panel window will launch.
 4. Click on any system theme. It will deactivate the current high-contrast theme and apply the selected theme.
@@ -113,17 +119,11 @@ The ultimate burning program for all your needs!</a>
 1. Press**Win + I** to launch the Settings app.
 2. Navigate to**Personalization > Themes** .
 3. Move to the**Current theme** section and click on any default system theme or a downloaded theme.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable High Contrast Mode Using A Different Theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-a-different-theme.jpg)
 4. Windows will apply the selected theme.
 
  If you want to re-enable the high-contrast theme, you have to visit the "high contrast theme" section here and choose a compatible theme.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 7\. Using a Script
 
  It is also possible to revert to a system theme using a script file on Windows. It will take less time as opposed to navigating the settings app to disable the high contrast mode. Here’s how to do it:
@@ -148,8 +148,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +155,24 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-connecting-a-deep-dive-into-instagram-live/"><u>[New] In 2024, The Art of Connecting A Deep Dive Into Instagram Live</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-integrating-video-conferencing-mastering-skypes-screen-sharing-functionality/"><u>[Updated] In 2024, Integrating Video Conferencing Mastering Skype's Screen Sharing Functionality</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-master-list-of-best-mp4-players/"><u>[Updated] In 2024, Master List of Best MP4 Players</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-drone-experience-yuneec-q500/"><u>[Updated] The Ultimate Drone Experience Yuneec Q500</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-devices-for-jiggle-free-filming-experience/"><u>In 2024, Optimal Devices for Jiggle-Free Filming Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/joyous-jingles-tickling-tech-with-windows-software/"><u>Joyous Jingles: Tickling Tech with Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-filters-for-safe-browsing/"><u>Mastering Windows Filters for Safe Browsing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-unreliable-keys-on-the-windows-snipper/"><u>Quick Fixes for Unreliable Keys on the Window's Snipper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-address-windows-task-sequence-fails-0x8007000f/"><u>Quick Fixes to Address Windows Task Sequence Fails 0X8007000F</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-game-freezes-in-psychonauts-2-how-to-prevent-your-pc-from-crashing/"><u>Resolving Game Freezes in Psychonauts 2 - How to Prevent Your PC From Crashing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-printing-experience-free-downloads-of-epson-stylus-nx420-drivers-for-windows-systems-7810/"><u>Seamless Printing Experience - Free Downloads of Epson Stylus NX420 Drivers for Windows Systems (7/8/10)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-non-respectful-windows-11-sticky-notes-sync/"><u>Solving Non-Respectful Windows 11 Sticky Notes Sync</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-implement-spatial-sound-on-windows-11/"><u>Strategies to Implement Spatial Sound on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-system-for-optimal-performance-with-new-windows-and-linux-blend/"><u>Tailoring Your System for Optimal Performance With New Windows and Linux Blend</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-to-manipulate-windows-11-search-highlights/"><u>Tricks to Manipulate Windows 11 Search Highlights</u></a></li>
+</ul></div>
 

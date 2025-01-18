@@ -1,7 +1,7 @@
 ---
 title: Capturing Sound with Snipping Tool's Screen Recorder Feature (Max 156)
-date: 2024-07-29T08:15:00.565Z
-updated: 2024-07-30T08:15:00.565Z
+date: 2025-01-16T17:11:23.935Z
+updated: 2025-01-18T18:08:06.169Z
 tags:
   - windows10
   - windows11
@@ -18,12 +18,13 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
 
  The Snipping Tool is the native screen capture and video recording tool in Windows 11\. And now, Microsoft is testing an audio capture feature along with video in the Windows Insider channel. We will discuss this feature in detail and how to enable it on your Windows 11 PC. Let’s begin.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The Snipping Tool Gets an Audio Recording Feature
 
  The Sniping Tool got a major facelift after getting video capture support in Windows 11\. After that came the [Text Actions feature](https://www.makeuseof.com/text-actions-snipping-tool-windows-11/) that can read text from screenshots, which is another useful add-on. You can already annotate the captured screenshots in the tool, so adding audio capture support makes it a complete package for users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable and Use the Audio Recording Feature in the Snipping Tool
 
@@ -40,11 +41,13 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
 4. Click and drag the selection tool to highlight the area you want to record. You will notice two new icons in the top bar alongside the timer and Start button; these enable you to control the system audio recording and microphone audio recording.
 5. Click on the **microphone** icon. You will have to allow the app to use your PC's microphone for audio recordings.
 6. Then, click on the **Open Microphone privacy settings** option. Click on the **Yes** button to continue.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adjust mic settings in Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/adjust-mic-settings-in-snipping-tool.jpg)
 7. Navigate to the **Let apps and access your microphone** section. Scroll down and find the **Snipping Tool** app in the list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click on the toggle to allow the Snipping Tool to access the system’s microphone.  
 ![Grant mic access to Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/grant-mic-access-to-snipping-tool.jpg)
 9. Close the Settings app.
@@ -55,23 +58,22 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
 2. Click on the **video record** icon and then click on the **New** icon.
 3. Click and drag with your mouse to select the screen area you want to capture.
 4. Click on the **microphone** icon to open the drop-down menu. Select the audio recording device that you want to use from the list (internal or external mic).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select mic input in Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/select-mic-input-in-snipping-tool.jpg)
 5. Click on the **microphone** icon again. Since it is muted by default, click on the **Mute** option to deselect it.
 6. Click on **Mute System Audio** if you want to mute the system sounds while recording the audio.
 7. Hit the **Start** button to proceed to record the screen and your audio.
 8. Once done, click on the **s** **top recording** icon.
 9. Play the clip to check the recorded session. Press **Ctrl + S** to open the Save window. Enter a name for your video clip and save it to a preferred location on your PC.  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![saving recorded video from snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/saving-recorded-video-from-snipping-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change the Audio Capture Settings in the Snipping Tool
 
  Follow the steps below to tweak the audio capture settings:
@@ -91,22 +93,12 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
  The Snipping Tool saves the video recording with the audio capture in MP4 format; it doesn’t create a separate file for the audio recording. But you can [use editing apps like Clipchamp](https://www.makeuseof.com/windows-clipchamp-record-screen-camera/) to separate the audio recording from the video and then tweak it.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Capture Audio Along With Your Screen
 
  The Snipping Tool is getting more love from Microsoft and the new audio recording feature makes it a decent app for recording video with audio. You don’t need to use third-party apps like OBS Studio anymore. However, it will take some time for the feature to become available to everyone.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -114,3 +106,20 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-innovative-daily-vlog-themes/"><u>[New] 2024 Approved Innovative Daily Vlog Themes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-constructing-visually-captivating-photo-collections/"><u>[New] Constructing Visually Captivating Photo Collections</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/advanced-gadget-analysis-with-toms-hardware-specialists/"><u>Advanced Gadget Analysis with Tom's Hardware Specialists</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convenient-options-boot-into-safe-mode-with-6-steps-in-windows-11/"><u>Convenient Options: Boot Into Safe Mode with 6 Steps in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-fixes-to-overcome-common-windows-app-errors/"><u>Efficient Fixes to Overcome Common Windows App Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-silent-speech-problems-for-gamers-playing-on-pc/"><u>Fixing Silent Speech Problems for Gamers Playing on PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-securely-extract-and-convert-youtube-audios-as-mp3-for-2024/"><u>How To Securely Extract and Convert YouTube Audios as MP3 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-device-latency-zerodxgierror-in-win11-pcs/"><u>How to Tackle Device Latency ZeroDXGIError in Win11 PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unmatched-performance-and-price-select-top-asmr-microphone-picks-for-2024/"><u>Unmatched Performance & Price - Select Top ASMR Microphone Picks for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/wonderfox-office-suite-organizer-master-manage-your-work-with-words-sheets-docs-and-presentations-in-one-place/"><u>WonderFox Office Suite Organizer - Master Manage Your Work with Words, Sheets, Docs & Presentations in One Place</u></a></li>
+</ul></div>
+

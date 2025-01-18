@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Addressing Non-Installed HDD in Windows 11
-date: 2024-08-08T11:00:36.975Z
-updated: 2024-08-09T11:00:36.975Z
+date: 2025-01-15T18:21:25.659Z
+updated: 2025-01-18T18:06:13.205Z
 tags:
   - windows10
   - windows11
@@ -23,9 +23,9 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
  Fortunately, you can quickly fix this problem and continue using your device using the solutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check the Hard Drive for Any Loose Connections or Physical Damage
 
  The first course of action whenever you encounter the "Hard drive not installed" issue is to ensure that the hard drive is properly connected to your computer. To do this, shut down your computer (check out [different ways to shut down a Windows PC](https://www.makeuseof.com/windows-11-how-to-shut-down/)) and unplug it from the power outlet.
@@ -35,15 +35,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  After that, carefully inspect the hard drive for any physical damage. Check for cracks, dents, or any other signs of wear. Additionally, check for any indications of liquid damage or unusual noises emanating from the hard drive. If you detect any of these issues, unfortunately, the only option is to replace your hard drive.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Perform a Hard PC Reset
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Laptop Bottom Cover Removed Exposing Internal Fans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Laptop-Bottom-Cover-Removed-Exposing-Internal-Fans.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: Tina Sieber
 
@@ -73,11 +74,12 @@ Image Credit: Tina Sieber
 1. Restart your computer and press the **BIOS key** (usually Delete, F2, or ESC) repeatedly as soon as you see the manufacturer's logo.
 2. Click **Boot Sequence** in the left sidebar.
 3. If **UEFI** is selected and then select **Legacy External Devices**. Or, if **Legacy External Devices** is selected and then select **UEFI**.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Boot_Sequence option in BIOS menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/boot_sequence.jpg)
 4. Click **Apply**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, restart your computer and check for the issue.
 
@@ -86,19 +88,15 @@ Image Credit: Tina Sieber
  An [incorrect date and time](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) can impact how your computer boots up or prevent it from booting at all. So, make sure your computer is showing the current date and time. You can change the date and time by following the instructions below.
 
 1. Open the BIOS menu and choose **Date /Time** from the left sidebar.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Date_and_Time option in BIOS menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/date_and_time.jpg)
 2. Set the correct Date and Time. Then, click **Apply**.
 
  After that, restart your computer and check if the issue is resolved. If the problem is gone, but you need to set the date and time every time you boot your computer, it is likely that your computer's CMOS battery is failing. The only way to fix this is to [replace the CMOS battery](https://www.makeuseof.com/computer-battery-dead-how-fix-replace-cmos/).
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the Hard Drive Not Installed Issue on Windows 11
 
  It's frustrating when you can't use your computer because of a hardware problem. Most of the time, you can fix these problems by restarting your device. But if restarting doesn't help and you see the "Hard drive not installed" error, then try the above solutions to troubleshoot the issue.
@@ -107,11 +105,27 @@ The powerful video editing program for your Windows PC</a>
 
  Fortunately, you can quickly fix this problem and continue using your device using the solutions below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-navigating-virtual-conversations-a-google-meet-handbook/"><u>[New] Navigating Virtual Conversations A Google Meet Handbook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfect-precision-the-best-39-video-trimming-tools-from-google-play/"><u>[New] Perfect Precision The Best 39 Video-Trimming Tools From Google Play</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-time-lapse-titans-choosing-the-creme-de-la-camera-for-2024/"><u>[New] Time-Lapse Titans Choosing the Crème De La Camera for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-freedom-in-focus-top-20-prisoner-wit-punchlines-on-social-media/"><u>[Updated] 2024 Approved Freedom in Focus Top 20 Prisoner-Wit Punchlines on Social Media</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-13-mini-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 13 mini</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decrypting-secure-connections-windows-11s-hidden-tricks/"><u>Decrypting Secure Connections: Windows 11'S Hidden Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-too-little-memory-warning-for-virtual-machines/"><u>Fixing Too Little Memory Warning for Virtual Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guides-to-overcome-camera-error-on-win11-system/"><u>Guides to Overcome Camera Error on Win11 System</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-solutions-for-enthusiasts-discover-what-toms-hardware-offers/"><u>Innovative Solutions for Enthusiasts – Discover What Tom's Hardware Offers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-windows-11-task-manager-filter-wizard-and-aesthetic-tweaks-guide/"><u>Master the Windows 11 Task Manager: Filter Wizard & Aesthetic Tweaks Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-your-hardware-space-w10-and-w11-insights/"><u>Navigating Your Hardware Space: W10 & W11 Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/step-by-step-guide-to-seamlessly-downloading-and-modifying-tamil-ringtones-for-2024/"><u>Step-by-Step Guide to Seamlessly Downloading and Modifying Tamil Ringtones for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-s-mode-functionality-and-purpose/"><u>Windows 11 S Mode: Functionality and Purpose?</u></a></li>
+</ul></div>
+

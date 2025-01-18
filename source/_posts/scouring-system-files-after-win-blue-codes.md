@@ -1,7 +1,7 @@
 ---
 title: Scouring System Files After Win-Blue Codes
-date: 2025-01-08T18:27:04.804Z
-updated: 2025-01-13T01:04:01.565Z
+date: 2025-01-16T16:31:16.843Z
+updated: 2025-01-18T17:55:24.311Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where Are the BSOD Log Files Located in Windows?
@@ -46,24 +46,16 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 2. Head over to the **Action** menu located at the top, and choose **Create Custom View** from the context menu.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Create a custom view in the Event viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/create-custom-view.jpg)
 3. In the following dialog, expand the dropdown for **Logged** and choose the time when you encountered the issue.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Check the logged section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/custom-time.jpg)
 4. Now, move to the Event Level section and choose **Error**.  
 ![Event level of the error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/error-event-level.jpg)
 5. Expand the dropdown for **Event Logs** and checkmark the box for **Windows Logs**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Choose Windows logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-logs.jpg)
 
@@ -73,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 3. Once the view is created, you will be presented with a list of errors that occurred during the time frame you selected earlier. You can sort this information further in the Date and time section.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Check the Event Viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/event-viewer-11.jpg)
@@ -106,7 +98,15 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 ![Change the Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/value-data-1.jpg)
 9. Once done, restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Upon reboot, you should be able to view the log files without any problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Find and Read the BSOD Log Files in the Control Panel
 
@@ -124,12 +124,12 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 ![Check the reliability history of the system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/view-realability-history.jpg)
 4. You should now see a graph showing the reliability data. Look for red cross icons and blue (i) icons in the graph, as they show problematic events.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Reliability graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/realability-graph.jpg)
 5. Click on each of the icons to view its details. Keep repeating the process to locate the event you are looking for.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You will be presented with information like the faulting application path, its name, fault module timestamp, exception code, etc. If this app caused a BSOD crash, then you can try ending its process via the Task Manager or uninstalling the app if it is not necessary.
 
@@ -153,16 +153,20 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-efficient-methods-for-android-screen-recordings-for-2024/"><u>[New] Efficient Methods for Android Screen Recordings for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-tiktok-and-snapchat-face-off-a-users-perspective-guide/"><u>[New] TikTok & Snapchat Face-Off A User's Perspective Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-pioneering-sites-for-downloading-text-aesthetics/"><u>[Updated] 2024 Approved Pioneering Sites for Downloading Text Aesthetics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-network-errors-a-guide-for-windows-11-users/"><u>Eliminating Network Errors: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-control-over-group-policy-in-windows-11/"><u>Enhance Control over Group Policy in Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-not-found-rockalldll-on-windows-pc/"><u>How to Fix 'Not Found' Rockalldll on Windows PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-itel-p55plus-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Itel P55+</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-unresponsive-video-driver-in-windows-1110/"><u>Solutions for Unresponsive Video Driver in Windows 11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-expert-guide-to-opening-credential-vaults/"><u>The Expert Guide to Opening Credential Vaults</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unearthing-the-best-free-mac-apps-for-speech-to-text/"><u>Unearthing the Best Free Mac Apps for Speech to Text</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-captivate-with-time-lapse-artistry-on-samsung-phones/"><u>[New] In 2024, Captivate with Time-Lapse Artistry on Samsung Phones</u></a></li>
+<li><a href="https://facebook.techidaily.com/examining-whats-stirring-up-debate-in-facebook-documents/"><u>Examining What's Stirring Up Debate in Facebook Documents</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/expert-analysis-on-overheating-cpus-by-yl-software-professionals/"><u>Expert Analysis on Overheating CPUs by YL Software Professionals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-royalty-free-graphics-a-compreeved-guide/"><u>Harnessing Royalty-Free Graphics A Compreeved Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-edge-advanced-photo-editing-strategies/"><u>Instagram Edge Advanced Photo Editing Strategies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/leading-choices-no-fee-versatile-live-streaming-tools-for-every-device/"><u>Leading Choices No-Fee, Versatile Live Streaming Tools for Every Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-javascript-failure-resolution-in-windows-11s-discord/"><u>Mastering JavaScript Failure Resolution in Windows 11'S Discord</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mastering-snapchat-sharing-with-twitter-videos/"><u>Mastering Snapchat Sharing with Twitter Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-troubled-waters-help-for-your-windows-woes/"><u>Navigating Troubled Waters: Help for Your Windows Woes</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-to-rdr2-memory-errors-boost-your-page-file-size-now/"><u>Quick Solutions to RDR2 Memory Errors: Boost Your Page File Size Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-malfunctioning-windows-rules-for-outlook-emails/"><u>Realigning Malfunctioning Windows Rules for Outlook Emails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setup-a-new-baseline-for-touch-input-on-your-win-11-pc/"><u>Setup a New Baseline for Touch Input on Your Win 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-7-best-free-volume-boosters-for-windows/"><u>The 7 Best Free Volume Boosters for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-windows-gaming-with-yuzus-speeds/"><u>Turbocharge Windows Gaming with Yuzu's Speeds</u></a></li>
 </ul></div>
 

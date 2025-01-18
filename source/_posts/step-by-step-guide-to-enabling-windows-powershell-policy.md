@@ -1,7 +1,7 @@
 ---
 title: Step-By-Step Guide to Enabling Windows PowerShell Policy
-date: 2024-08-08T11:03:43.500Z
-updated: 2024-08-09T11:03:43.500Z
+date: 2025-01-17T16:03:21.485Z
+updated: 2025-01-18T16:00:14.242Z
 tags:
   - windows10
   - windows11
@@ -21,13 +21,11 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
  However, if it’s your first time executing a script via PowerShell, you’ll encounter the "running script is disabled" error. By default, script execution on PowerShell is disabled as a security measure to prevent malicious scripts from running on your system. Here we show you the two ways to enable the scrip execution policy on Windows PowerShell.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check Your Existing Execution Policy
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Powershell set execution policy undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-undefined.jpg)
 
  You can use a PowerShell cmdlet to get your current execution policy. Knowing your current execution policy is necessary to know if you need a policy change or not.
@@ -44,8 +42,9 @@ To get your current execution policy for the current user:
  You’ll need to change the execution policy to RemoteSigned to run local scripts without the error. You can change the execution policy from the Settings app and PowerShell.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable PowerShell Execution Policy Using the Settings App
 
  You can change and set the PowerShell execution policy to RemoteSigned using the Settings app. All you have to do is tweak the PowerShell settings in the developers' section to change the execution policy to enable PowerShell script execution.
@@ -55,18 +54,16 @@ To change execution policy using Settings:
 1. Press**Win + I** to open Se**t** tings.
 2. Open the**Privacy & Security** tab in the left pane.
 3. Next, click on**For developers.**  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows 11 for developers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-for-developers.jpg)
 4. Click to expand the**PowerShell** section.
 5. Toggle the switch to **change the execution policy to allow local PowerShell scripts to run without signing - Require signing for remote scripts** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![enable powershell script execution windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-script-execution-windows-11-settings.jpg)
 6. Once done, open PowerShell, type get**executionpolicy,** and press**Enter** . The execution policy for the current user is now set to**RemoteSigned.**
 7. If you need to disable the execution policy, toggle the PowerShell switch and set it to**Off** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Allow Scripts to Run in PowerShell using PowerShell
 
@@ -86,12 +83,13 @@ To change the execution policy using PowerShell:
 `Set-ExecutionPolicy RemoteSgined -Scope CurrentUser`
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## How to Remove Script Execution Policy Using PowerShell
 
 ![set-execution-policy-undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-execution-polify-undefined.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to disable script execution, set the execution policy to**Undefined** using th**e Set\_ExecutionPolicy** cmdlet. This is a default state and prevents PowerShell from executing any scripts.
 
@@ -134,20 +132,21 @@ The below table briefly explains all the execution policy scopes:
 | LocalMachine           | Configured for all users and stored in HKEY\_CURRENT\_MACHINE registry subkey.           |
 | Process                | Affects current PowerShell session and automatically deleted when the session is closed. |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Add or Remove PowerShell Script Execution Policy on Windows
 
  Script execution on PowerShell is disabled by default for Windows clients and set to RemoteSigned for Windows server. Power users, however, can change execution policies to run local, signed, and unsigned PowerShell scripts.
 
  Alternatively, you can bypass the PowerShell execution policy by pasting the script into a PowerShell console or ECHO your script into PowerShell standard input. This is useful if you want to execute scripts without changing the execution policy.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,4 +155,20 @@ The below table briefly explains all the execution policy scopes:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-add-srt-to-mp4-like-a-pro-2024s-ultimate-manual/"><u>[New] Add SRT to MP4 Like a Pro 2024’S Ultimate Manual</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-zip-archive-handling-for-srt-output-generation-for-2024/"><u>[New] Zip Archive Handling for SRT Output Generation for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-exposing-concealed-viewers-feedback-on-videos/"><u>[Updated] Exposing Concealed Viewers' Feedback on Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-key-techniques-for-assessing-youtube-engagement-and-profitability/"><u>[Updated] In 2024, Key Techniques for Assessing YouTube Engagement and Profitability</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-efficient-remote-streaming-via-vlc-media-player/"><u>[Updated] Unlock Efficient Remote Streaming via VLC Media Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-your-ethernet-speed-capped-at-100mbps-on-windows/"><u>How to Fix Your Ethernet Speed Capped at 100Mbps on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lightning-fast-virtual-machines-on-windows-heres-how/"><u>Lightning-Fast Virtual Machines on Windows - Here's How</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-gaps-between-explore-elements/"><u>Mending Gaps Between Explore Elements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-defective-battery-life-meter-on-windows-11-machines/"><u>Realigning Defective Battery Life Meter on Windows 11 Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safe-haven-10-secure-sites-for-windows-free-apps/"><u>Safe Haven: 10 Secure Sites for Windows FREE Apps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210970169-9781088232453-solo-dios-lo-sabe/"><u>Solo Dios lo Sabe | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-converting-and-importing-ebooks-from-kindle-to-kobo-devices/"><u>Step-by-Step Guide: Converting and Importing eBooks From Kindle to Kobo Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-windows-11-photos-experience-with-slide-shows-and-image-spot-repair/"><u>Streamline Your Windows 11 Photos Experience with Slide Shows & Image Spot Repair</u></a></li>
+</ul></div>
 

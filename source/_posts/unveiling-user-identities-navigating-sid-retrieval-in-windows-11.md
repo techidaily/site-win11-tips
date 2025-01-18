@@ -1,7 +1,7 @@
 ---
 title: "Unveiling User Identities: Navigating SID Retrieval in Windows 11"
-date: 2024-08-08T11:01:36.079Z
-updated: 2024-08-09T11:01:36.079Z
+date: 2025-01-15T17:44:07.475Z
+updated: 2025-01-18T17:50:29.559Z
 tags:
   - windows10
   - windows11
@@ -30,18 +30,21 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 2. The User Account Control window will pop up. Click on the **Yes** button to open the app with admin rights if prompted.
 3. Now, type the following command to view the SID of the currently logged-in user account:  
 whoami /user  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![Check SID Using the Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-command-prompt-1.jpg)
 4. You will see the currently logged-in user’s name and the corresponding SID. You can directly select and copy the text from the Command Prompt window. But if you want to export the details to a text file for future use, you can do so by entering the following command:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 whoami /user > C:\SID.txt
 5. The above command will create a text file named **SID** in the **C** drive. You can open it with Notepad or any other text editor app.
 6. Close the Command Prompt window.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Using WMIC
 
  You can easily view the SID of all the users or a single user on your PC using the WMIC command-line tool. You don’t need to [open an elevated Command Prompt window](https://www.makeuseof.com/windows-run-command-prompt-admin/) for using WMIC to view the SIDs.
@@ -59,15 +62,6 @@ wmic useraccount get name,sid > D:\SID.txt
 wmic useraccount where name="USER" get sid
 6. Replace the **USER** part of the command with an actual username. In our case, the command becomes:  
 wmic useraccount where name="a" get sid  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![Check SID Using the WMIC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-2-1.jpg)
 7. Close the Command Prompt window.
 
@@ -83,6 +77,11 @@ wmic useraccount where name="a" get sid
 Get-WmiObject win32_useraccount | Select name,sid  
 ![Check SID Using the Powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-powershell-1.jpg)
 4. The above command will display all the user accounts and their respective SIDs. To export the results in a text file, execute the following command:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Get-WmiObject win32_useraccount | Select name,sid > C:\SID.txt
 5. The command will save the file in the **C** drive. Visit the location using File Explorer and open the file in a text editor app.
 6. Close the PowerShell window.
@@ -103,9 +102,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
 6. Similarly, you can check the other SID keys and open their **ProfileImagePath** value to find their corresponding user name.
 7. Close the Registry Editor app afterward.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Using a Batch File
 
  If you find the Terminal route cumbersome, you can create a batch file to display the SID of all the users at once. Repeat the following steps to create a batch file:
@@ -118,16 +114,19 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
  cmd.exe /k wmic useraccount get name,sid  
  pause`
 5. Press **Ctrl + Shift + S** to open the **Save as** window. Keep the file name as **SID.bat** and the **Save as Type** field as **All Files**.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check SID Using the Batch FIle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-batch-file-1.jpg)
 6. Navigate to the folder location where you saved the batch file. Double-click on it to run it.
-7. A Terminal window will launch and display all the users on your PC and their respective SIDs.  
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. A Terminal window will launch and display all the users on your PC and their respective SIDs.  
 ![Check SID Using the Batch FIle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-batch-file-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Check SIDs in a Jiffy
 
@@ -137,11 +136,29 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
 
  The most common means to find a SID on Windows is using the "whoami"command. But there are several other ways to view the SID of one or all users on your Windows PC. Let’s discuss them in detail.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-snap-a-story-sharing-photos-and-videos-without-retweet-for-2024/"><u>[New] Snap a Story Sharing Photos & Videos Without Retweet for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-how-to-use-snapchat-to-send-a-snap-with-cartoon-face-lens/"><u>[Updated] How to Use Snapchat to Send a Snap with Cartoon Face Lens</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-secrets-of-phantoms-time-reversal-mode/"><u>2024 Approved The Ultimate Secrets of Phantom's Time Reversal Mode</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/w-without-cost-images-from-leading-youtubers-archives-for-2024/"><u>Borrow Without Cost Images From Leading YouTubers' Archives for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-windows-identity-user-name-transformation/"><u>Customizing Your Windows Identity: User Name Transformation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dominion-in-the-classical-world-mastering-strategy-with-imperator-rome/"><u>Dominion in the Classical World: Mastering Strategy with Imperator: Rome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-windows-ipmac-using-powershell-techniques/"><u>Easy Windows IP/MAC: Using PowerShell Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-disk-space-on-win11-safely-keep-files-intact-max-156-chars/"><u>Enhancing Disk Space on Win11 Safely (Keep Files Intact, Max 156 Chars)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-among-us-stability-expert-solutions-to-persistent-crashes/"><u>Mastering Among Us Stability: Expert Solutions to Persistent Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-firewall-controls-five-techniques/"><u>Mastering Firewall Controls: Five Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/new-marketing-avenues-for-brands-on-fb-and-insta-reels/"><u>New Marketing Avenues for Brands on FB & Insta Reels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-workflow-essential-wins11-god-mode-tips/"><u>Transforming Workflow: Essential Wins11 God Mode Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-nvidia-cp-unresponsiveness-on-win-11/"><u>Troubleshooting Nvidia CP Unresponsiveness on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-password-reset-lockout-period-change/"><u>Windows 10/11 Password Reset Lockout Period Change</u></a></li>
+</ul></div>
+

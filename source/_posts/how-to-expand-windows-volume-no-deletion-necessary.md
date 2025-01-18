@@ -1,7 +1,7 @@
 ---
 title: How to Expand Windows Volume, No Deletion Necessary
-date: 2025-01-05T21:43:05.256Z
-updated: 2025-01-12T21:31:01.856Z
+date: 2025-01-13T16:55:10.274Z
+updated: 2025-01-18T16:28:27.954Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is the Extend Volume Option Grayed Out?
 
  There are many reasons why the "Extend Volume" option in Disk Management is grayed out, but the common ones include:
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
  However, if your partition uses a supported file system, let's discuss how you can bring back the option to extend volumes on Windows without erasing your data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Shrink a Volume to Create Unallocated Space
 
  If you don't have unallocated space on any of your drives to extend a volume, you can simply shrink one of the existing volumes to create it. This can also help if the unallocated space on one drive is not large enough for volume extension since it will shrink the other volumes to create more unallocated space.
@@ -48,12 +56,16 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
 ![Opening the Computer Management Tool using the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Computer-Management-Tool-using-the-Run-command-dialog-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the **Storage** section of the left panel, select **Disk Management**.
 
 ![the Disk Management section of Computer Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-disk-management-section-of-computer-management-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the right panel, right-click the volume you want to shrink and select **Shrink Volume**.
@@ -64,15 +76,7 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
 ![the dialog box to shrink a volume on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/dialog-box-shrink-volume-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It will take a few seconds to shrink the volume, but when it's done, you should have some unallocated space. Now, check to see if the option is available when you right-click the volume you want to extend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Delete the Recovery Partition
 
@@ -93,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
  From here, you can select the disk you want using the numbers in the **Disk ###** column.
 
 ![selecting a disk in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/selecting-a-disk-in-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So, if you want to select disk drive #1, you'd run the below command:
 
@@ -120,17 +128,9 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
 ![resizing a volume in Magic Partition Resizer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/resize-volume-in-magic-partition-resizer-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the **Volume size** text box, enter how much you want to shrink the volume by and then click on **OK**.
 
 ![choosing how much of the volume to resize in Magic Partition Resizer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choosing-how-much-of-the-volume-to-resize-in-magic-partition-resizer-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It should take a few seconds to resize the volume, and when it finishes, you should be able to see some unallocated space, allowing you to extend the volume you want to in the first place.
 
@@ -150,17 +150,19 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-and-understanding-windows-component-services-interface/"><u>Accessing & Understanding Windows Component Services Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-windows-11-safe-mode-6-routes-covered/"><u>Accessing Windows 11 Safe Mode: 6 Routes Covered</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-gpu-thermal-spikes-during-play/"><u>Addressing GPU Thermal Spikes During Play</u></a></li>
-<li><a href="https://extra-information.techidaily.com/apex-palette-adjuster/"><u>Apex Palette Adjuster</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/arranging-your-own-james-bond-film-series-journey-for-maximum-thrills/"><u>Arranging Your Own James Bond Film Series Journey for Maximum Thrills</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-printer-frustration-in-the-latest-os-win11-guide/"><u>Avoid Printer Frustration in the Latest OS: Win11 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-organization-in-windows-discover-5-key-folder-insights/"><u>Boost Organization in Windows - Discover 5 Key Folder Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-these-featherlight-computers-blew-my-mind-and-outshined-the-iconic-macbook-air-zdnet-review/"><u>How These Featherlight Computers Blew My Mind and Outshined the Iconic MacBook Air | ZDNet Review</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-zte-nubia-z60-ultra-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on ZTE Nubia Z60 Ultra without backup.</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-secrets-to-gaining-traction-for-your-fb-page/"><u>[New] 2024 Approved Secrets to Gaining Traction for Your FB Page</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-channel-profits-soar-the-secrets-to-successful-youtube-monetization/"><u>[Updated] Channel Profits Soar The Secrets to Successful YouTube Monetization</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigating-through-youtubes-minis-for-2024/"><u>[Updated] Navigating Through YouTube's Minis for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-stop-obs-from-skipping-audio/"><u>2024 Approved Stop OBS From Skipping Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-reset-account-lockout-counter-after-failed-logon-attempts-in-windows-10-and-11/"><u>How to Change the Reset Account Lockout Counter After Failed Logon Attempts in Windows 10 and 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-efficient-data-management-techniques/"><u>Implementing Efficient Data Management Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-camera-app-glitch-a00f425d/"><u>Overcoming Windows Camera App Glitch: A00F425D</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pivot-point-shifting-your-onedrive-save-destination-on-pc/"><u>Pivot Point: Shifting Your OneDrive Save Destination on PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/playlist-extraction-made-simple-download-steps-revealed-for-2024/"><u>Playlist Extraction Made Simple Download Steps Revealed for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strengthen-your-gpu-ranked-1-6-tools-for-windows-users/"><u>Strengthen Your GPU: Ranked #1-#6 Tools for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-halting-automatic-bios-entry-after-reboot/"><u>Techniques for Halting Automatic BIOS Entry After Reboot</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-lava-blaze-pro-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Lava Blaze Pro 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshoot-windows-10-solutions-when-your-search-function-fails/"><u>Troubleshoot Windows 10: Solutions When Your Search Function Fails</u></a></li>
 </ul></div>
 

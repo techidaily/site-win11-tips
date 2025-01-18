@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Failed to Attach the USB Device Error in VirtualBox on Windows
-date: 2024-08-08T11:03:12.388Z
-updated: 2024-08-09T11:03:12.388Z
+date: 2025-01-17T17:55:13.407Z
+updated: 2025-01-18T18:11:28.779Z
 tags:
   - windows10
   - windows11
@@ -35,12 +35,13 @@ Here are some possible reasons for the VirtualBox USB devices error.
 
  Now that we know what's potentially causing the issue, let's explore the fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### 1\. Restart VirtualBox
 
  Before you move on to other advanced fixes, restart the VirtualBox application. If restarting the app doesn’t work, restart Windows. It will restart all the processes and services including the ones VirtualBox needs to function properly. Now, connect a USB device and try to attach it to a virtual machine in VirtualBox. If it still doesn’t show up, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Check the USB Device on the Host System
 
@@ -49,13 +50,15 @@ Here are some possible reasons for the VirtualBox USB devices error.
 1. First, open Device Manager. There are many[different ways to open the Device Manager](https://www.makeuseof.com/windows-open-device-manager/) , but a quick way is to press**Win + R** to launch the Run command box. Type**devmgmt.msc** and press the**Enter** key to launch the Device Manager.  
 ![Check the USB Device on the Host System](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-the-USB-Device-on-the-Host-System.jpg)
 2. Navigate to the**Disk Drives** option and click the**arrow** icon to expand the section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Find the USB drive you connected to the host system. If it is not present in the list, pull it out and reconnect it to another USB port on your system.
 
  If the USB port on your system malfunctions, the USB drive won’t show up in Device Manager or File Explorer. But if the USB drive doesn’t appear in the device manager even after changing the port, it could have a hardware malfunction. In that case, try connecting another USB drive to VirtualBox virtual machine.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### 3\. Install the VirtualBox Extension Pack
 
  VirtualBox can only attach USB 1.0 devices to a virtual machine. You need to install the extension pack to add USB 2.0 or 3.0 devices. Here’s how to do it.
@@ -70,9 +73,6 @@ Here are some possible reasons for the VirtualBox USB devices error.
 7. Wait for the extension pack to install.
 8. Run the virtual machine and try to connect the USB device to it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Update VirtualBox
 
  An outdated version of VirtualBox can encounter errors. So, you need to update VirtualBox to fix the underlying bugs and get access to new features offered by the developers. Here’s how to update VirtualBox on Windows.
@@ -85,8 +85,9 @@ Here are some possible reasons for the VirtualBox USB devices error.
 6. Now, try to connect the USB device to the virtual machine using the settings menu.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Configure the USB Controller in Virtual Machine Settings
 
  A mismatch in the USB controller settings can also produce the VirtualBox error. If you want to add a USB device to the VirtualBox virtual machine, you must select the correct USB controller option in the USB settings.
@@ -97,11 +98,13 @@ Here are some possible reasons for the VirtualBox USB devices error.
 4. Then, select the USB 2.0 or 3.0 controller option located below the**Enable USB controller** option.  
 ![Configure the USB Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Configure-the-USB-Controller.jpg)
 5. Now, click on the**Add new USB filter** and pick the USB device you want to connect to the virtual machine.
-6. Click on the**OK** button and close the settings window. Start the virtual machine and check if the error pops up now.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Click on the**OK** button and close the settings window. Start the virtual machine and check if the error pops up now.
+
 ### 6\. Reinstall the VBox USB drivers
 
  Corrupt or missing VBox USB drivers on your system could cause the Virtual Box error code. Reinstalling the USB drivers can fix the driver issue and allow USB devices to connect with the virtual machine.
@@ -114,8 +117,9 @@ Here are some possible reasons for the VirtualBox USB devices error.
 6. Close Virtual Box and restart your system. Connect the USB device to the virtual machine and check whether the error code pops up.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. Reinstall VirtualBox
 
  If all the above methods don’t solve the ‘Failed to Attach the USB Device’ Error code, consider reinstalling the VirtualBox app on your system. Here’s how to do it.
@@ -129,21 +133,15 @@ Here are some possible reasons for the VirtualBox USB devices error.
 6. Open the download location and run the setup file. Follow the on-screen prompts to install and then install the extension pack as described in method 3.
 7. Now, attach a USB device and start the virtual machine to check if the error code occurs or not.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Easily Connect USB Devices to Your Virtual Machine Once More
 
  VirtualBox needs the extension pack to enable connectivity for USB 2.0 and 3.0 devices. Check your USB devices for errors and verify that they mount properly on the host system. Reinstall USB drivers if you face the error again. Lastly, remove VirtualBox from the system and do a fresh installation.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +150,20 @@ Here are some possible reasons for the VirtualBox USB devices error.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quickcapture-stop-and-save-screenshot-command/"><u>[Updated] 2024 Approved QuickCapture Stop & Save Screenshot Command</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-tricking-out-genuine-from-fraudulent-instagram-pals/"><u>[Updated] 2024 Approved Tricking Out Genuine From Fraudulent Instagram Pals</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-achieve-excellence-in-google-meet-hostparticipant-at-no-cost-for-2024/"><u>[Updated] Achieve Excellence in Google Meet (Host/Participant) at No Cost for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-fresh-footage-first-episode-insight-for-2024/"><u>[Updated] Fresh Footage First-Episode Insight for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-transforming-video-files-to-mp3-a-focused-guide-for-pinterest-users/"><u>[Updated] In 2024, Transforming Video Files to MP3 A Focused Guide for Pinterest Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-rectify-error-0x887a0006-on-graphics-issues/"><u>Guide to Rectify Error 0X887A0006 on Graphics Issues</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-reno-8t-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Reno 8T 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intel-driver-boost-for-win-10781/"><u>Intel Driver Boost for WIN 10/7/8.1</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-winservicesexe-a-comprehensive-guide/"><u>Mastering Winservices.exe: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-cures-9-ways-to-stop-windows-setup-from-hanging-at-verify/"><u>Quick Cures: 9 Ways To Stop Windows Setup From Hanging at Verify</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-and-modernizing-clipboard-memory-usage-in-windows-11/"><u>Streamlining and Modernizing Clipboard Memory Usage in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-data-exchange-between-dual-windows-using-aoemi/"><u>Streamlining Data Exchange Between Dual Windows Using AOEMi</u></a></li>
+</ul></div>
 

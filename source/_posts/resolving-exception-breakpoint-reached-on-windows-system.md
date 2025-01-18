@@ -1,7 +1,7 @@
 ---
 title: Resolving Exception Breakpoint Reached on Windows System
-date: 2025-01-10T22:04:26.575Z
-updated: 2025-01-13T01:02:08.063Z
+date: 2025-01-16T18:13:31.235Z
+updated: 2025-01-18T16:45:41.759Z
 tags:
   - windows10
   - windows11
@@ -55,7 +55,7 @@ Follow these steps to run the DISM and System File Checker tools:
  Next, type the following command and press**Enter** to scan your PC's health:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `Dism /Online /Cleanup-Image /ScanHealth`
@@ -66,6 +66,10 @@ Follow these steps to run the DISM and System File Checker tools:
 `sfc /scannow`
 7. This process can take some time to complete. Once the verification reaches 100%, it will display the result and any actions taken.
 8. Type**exit** and press**Enter** to close Command Prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check Your Hard Drive for Errors With CHKDSK
 
@@ -102,19 +106,19 @@ To run the CHKDSK tool:
 ![Windows memory diagnostic tool restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tool-restart.jpg)
 5. Your computer will restart and boot into the Windows Memory Diagnostic Tool menu, and the system will start a test automatically.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows memory diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tooljpg.jpg)
 6. You can also perform**Basic, Standard, or Extended** test manually. To do this, press**F1** to access the**Options** menu and select from the**Basic, Standard, and Extended** option under the**Test Mix** section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
 8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Create a New Windows Local Account
 
@@ -134,15 +138,11 @@ To uninstall an application on Windows:
 ![windows 11 settings installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-installed-apps.jpg)
 4. Type the name of your app in the search bar.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
 5. Next, click**the three-dots menu** next to the app name and**Uninstall** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click on**Uninstall** again to confirm the action.
@@ -169,22 +169,24 @@ To uninstall an application on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-capture-and-share-your-screens-bandicam-vs-camtasia/"><u>[New] Capture and Share Your Screens Bandicam vs Camtasia</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-sharpen-your-videography-skills-converting-standard-definition-to-hdr-excellence-for-2024/"><u>[New] Sharpen Your Videography Skills Converting Standard Definition to HDR Excellence for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-adapt-images-to-any-size-on-your-iphone-instantly-for-2024/"><u>[Updated] Adapt Images to Any Size on Your iPhone Instantly for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-achieve-professionalism-in-sims-4-videography/"><u>[Updated] In 2024, Achieve Professionalism in Sims 4 Videography</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-essential-guide-unraveling-ios-screen-capture-magic/"><u>[Updated] In 2024, Essential Guide Unraveling IO's Screen Capture Magic</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-plan-reviving-the-dormant-wsreset-on-windows/"><u>A Step-by-Step Plan: Reviving the Dormant WSReset on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerated-workflow-customizing-windows-clipboard/"><u>Accelerated Workflow: Customizing Windows Clipboard</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accurate-atmospheres-expert-picks-of-windows-11s-weather-apps/"><u>Accurate Atmospheres: Expert Picks of Windows 11'S Weather Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-ram-problems-in-windows-systems-using-vmware/"><u>Addressing RAM Problems in Windows Systems Using VMware</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/amplifying-the-importance-of-your-cursor-in-windows/"><u>Amplifying the Importance of Your Cursor in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-defender-in-windows-11-how-to-turn-it-off/"><u>Avoiding Defender in Windows 11: How to Turn It Off</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beneath-the-facade-programs-pause-your-pcs-prowess/"><u>Beneath the Facade, Programs Pause Your PC's Prowess</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-internet-safety-add-trusted-domains-to-windows-11/"><u>Boost Internet Safety: Add Trusted Domains to Windows 11</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-ultimate-guide-to-low-budget-film-editing-software/"><u>In 2024, The Ultimate Guide to Low-Budget Film Editing Software</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/simplified-guide-to-recording-pc-screens-for-hp-users-for-2024/"><u>Simplified Guide to Recording PC Screens for HP Users for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/taming-the-beast-mastering-fps-stability-and-eliminating-lags-in-cod-black-ops-4/"><u>Taming the Beast: Mastering FPS Stability and Eliminating Lags in COD Black Ops 4</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-meta-vs-omni-navigating-digital-realms/"><u>[New] In 2024, Meta Vs. Omni Navigating Digital Realms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-silent-blades-and-righteous-honor-your-next-game-adventure-awaits/"><u>[New] Silent Blades & Righteous Honor Your Next Game Adventure Awaits</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/6-effective-strategies-to-resolve-terraria-disconnection-issues/"><u>6 Effective Strategies to Resolve Terraria Disconnection Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-tips-on-resolving-in-game-lag-and-connection-errors-in-new-world/"><u>Effective Tips on Resolving In-Game Lag and Connection Errors in New World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-memory-safety-seven-tips-to-overcome-win11-grayouts/"><u>Elevating Memory Safety: Seven Tips to Overcome Win11 Grayouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-fixing-brightness-controls-via-keyboard-shortcuts-on-windows-11/"><u>Guide to Fixing Brightness Controls via Keyboard Shortcuts on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-continuous-crashing-issues-in-the-discord-platform/"><u>How to Fix Continuous Crashing Issues in the Discord Platform</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-itel-a70-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Itel A70 Phone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-top-ranked-graphics-cards-for-optimal-online-streaming-quality/"><u>In 2024, Top-Ranked Graphics Cards for Optimal Online Streaming Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-cortana-data-backup-on-pc/"><u>Mastering Cortana Data Backup on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-closed-down-calendar-and-mail-on-w11/"><u>Navigating Closed-Down Calendar and Mail on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-troubleshooting-stop-youtube-lagging-on-chrome/"><u>Quick Troubleshooting: Stop YouTube Lagging on Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-why-you-shouldnt-turn-off-windows-11s-alerts/"><u>Revealing Why You Shouldn’t Turn Off Windows 11'S Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-steam-cloud-sync-setbacks/"><u>Reversing Steam Cloud Sync Setbacks</u></a></li>
+<li><a href="https://facebook.techidaily.com/safeguard-your-facebook-experience-avoid-these-14-schemes/"><u>Safeguard Your Facebook Experience: Avoid These 14 Schemes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/social-simulacrum-sketches-designing-distorted-digital-selves/"><u>Social Simulacrum Sketches Designing Distorted Digital Selves</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-guide-to-ascending-taskmanager-above-all/"><u>The Guide to Ascending TaskManager Above All</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-strategies-to-defeat-the-closed-terminal-conundrum/"><u>Top Strategies to Defeat the Closed Terminal Conundrum</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unite-video-files-into-playlist-assembly-for-2024/"><u>Unite Video Files Into Playlist Assembly for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Your PC: 6 Methods for Discovering Its Identity"
-date: 2024-08-08T11:01:39.929Z
-updated: 2024-08-09T11:01:39.929Z
+date: 2025-01-11T18:10:36.272Z
+updated: 2025-01-18T17:25:39.159Z
 tags:
   - windows10
   - windows11
@@ -18,22 +18,15 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 
  Whether you want to find the correct hardware upgrade for your computer or want to fix an issue, knowing about your computer model name can come in handy in various situations. Here are 6 quick ways to check your computer model name on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 1\. Using the Settings App
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Checking System Name in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-name.jpg)
 
  The quickest way to check your computer model name and number is through the Settings app. Simply, launch the**Settings app** (see[how to open the Settings app on Windows](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose**System** from the left sidebar. You'll see your computer model name at the top of the System window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Using the System Information App
 
@@ -48,6 +41,14 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 4. Check the**System Model** row in the right pane to know about your computer model name.  
 ![Checking System Model in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-model.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Using the DirectX Diagnostic Tool
 
  The DirectX Diagnostic Tool contains information about the DirectX components and drivers installed on your computer. You can also use this tool to get information like System model, BIOS, Processor, Memory, Page file, and more.
@@ -58,24 +59,8 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 2. In the text field, type**dxdiag** and click**OK.**
 3. Click the**System** tab in the DirectX Diagnostic Tool.
 4. Under the System Information section, you can check your computer model name next to the**System Model** option.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![System Model option in the DirectX Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-model-option.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Using the Command-Line Tools
 
  If you're an advanced Windows user, you can use the command-line tools, Windows PowerShell and Command Prompt, to know everything about your computer. Here's how to use the Command Prompt to check your computer model name:
@@ -96,20 +81,19 @@ You'll see the model name on the console screen.
 
 `Get-CimInstance -ClassName Win32_bios`
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Command to Check System Serial number in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-check-system-serial-number.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Using the Manufacturer's Assistant App
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![Checking System name using HP Support Assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hp-support-assistant.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Most manufacturers nowadays offer an assistant app using which you can check your computer model name and number. For instance, if you're using an HP laptop, you can download the[HP Support Assistant app](https://support.hp.com/us-en/help/hp-support-assistant) to know everything about your computer.
 
@@ -127,18 +111,16 @@ You'll see the model name on the console screen.
 4. Click the**Restart now** button next to**Advanced startup.** Your computer will not boot into Recovery mode.  
 ![Restart now button next to Advanced startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-now-button.jpg)
 5. Navigate to**Troubleshoot** \>**Advanced options** \>**UEFI Firmware Settings** \>**Restart.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Usually, your computer will now boot straight into UEFI BIOS. But in some manufacturers like HP, you'll be welcomed with a**Startup** **Menu.** Choose**System Information** from the menu.  
 ![Choosing System Information from the Startup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-system-information.JPG)
 7. You can check your computer name in the System Information section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Checking Product name in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-product-name.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get to Know Your Computer's Model on Windows
 
  These were all the working ways using which you can know your computer model name. However there are many other methods to check the name, but the ones mentioned above are among the quickest and easiest.
@@ -149,8 +131,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +138,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevating-your-instagram-post-visibility-and-interaction/"><u>[New] 2024 Approved Elevating Your Instagram Post Visibility and Interaction</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-navigating-virtual-conversations-a-google-meet-handbook-for-2024/"><u>[New] Navigating Virtual Conversations A Google Meet Handbook for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhance-online-presence-master-facebook-video-autoplay/"><u>[Updated] 2024 Approved Enhance Online Presence Master Facebook Video Autoplay</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-tecno-camon-20-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Tecno Camon 20 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-auditory-experience-iphone-and-the-world-of-podcasting/"><u>Elevate Your Auditory Experience - iPhone and the World of Podcasting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhanced-workflow-smartly-add-app-buttons-in-win11-interface/"><u>Enhanced Workflow: Smartly Add App Buttons in Win11 Interface</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gigabyte-upgrade-for-ps3s-default-hdd/"><u>Gigabyte Upgrade for PS3's Default HDD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/giving-windows-its-own-unique-style-custom-images/"><u>Giving Windows Its Own Unique Style: Custom Images</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-pro-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze Pro 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-14-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 14? How to Fix it?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-motorola-g24-power-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Motorola G24 Power to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installing-official-windows-os-on-steam-deck/"><u>Installing Official Windows OS on Steam Deck</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/invisible-footprints-tech-review-for-2024/"><u>Invisible Footprints Tech Review for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-efficiency-edgedownloads-and-process-management/"><u>Mastering Efficiency: Edgedownloads & Process Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-image-size-on-windows-11-explore-the-best-techniques/"><u>Optimize Image Size on Windows 11: Explore the Best Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixed-systemsettingsexe-on-windows-11/"><u>Strategies for Fixed SystemSettings.exe on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-best-nintendo-switch-emulators-for-windows/"><u>The Best Nintendo Switch Emulators for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-android-device-into-a-functional-webcam-on-windows-11/"><u>Transform Your Android Device Into a Functional Webcam on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-info-a-direct-approach/"><u>Unveiling Windows Info: A Direct Approach</u></a></li>
+</ul></div>
 

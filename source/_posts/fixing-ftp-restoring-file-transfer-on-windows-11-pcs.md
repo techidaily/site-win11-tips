@@ -1,7 +1,7 @@
 ---
 title: "Fixing FTP: Restoring File Transfer on Windows 11 PCs"
-date: 2025-01-09T19:17:48.982Z
-updated: 2025-01-13T02:02:31.276Z
+date: 2025-01-15T16:31:28.630Z
+updated: 2025-01-18T18:17:01.217Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,14 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run the SFC and DISM Command-Line Tools
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
@@ -41,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 
  The SFC tool patches up corrupted files and DISM addresses system image issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Select a Different Download Location in Your Browser
 
  Most Windows browsers download files to the Downloads user folder by default. There could be an issue with that folder. In this case, selecting a different download location with browser settings might work for some users.
@@ -52,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
  Our article about [changing the default download location in browsers](https://www.makeuseof.com/change-default-download-location-popular-browsers/) tells you how to apply this potential resolution with Firefox, Chrome, Edge, Opera, and Vivaldi.
 
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Change the Current Location in the Website Data Settings
 
@@ -67,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 4. Next, click **Settings** on the **General** tab.  
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/general-tab.jpg)
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
 
  Third-party antivirus apps shouldn't stop you from downloading any files. However, they can interfere with downloads when set to the highest protection settings. To check if a third-party security app is causing this issue, right-click on its antivirus system tray icon and select an option for temporarily disabling its shield. Then try to download a file in your browser again.
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
@@ -111,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 ![The Turn off Windows Defender Firewall (not recommended) radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-firewall-options.jpg)
 
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Reset Your Browser Software
 
@@ -130,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 3. Press the **Restore settings** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click **Reset** inside the confirmation prompt.
@@ -144,7 +140,11 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download Files Again on Your Windows PC
@@ -165,15 +165,21 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/7-lightweight-windows-browsers-tested-for-ram-usage-which-is-the-best/"><u>7 Lightweight Windows Browsers Tested for RAM Usage: Which Is the Best?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/assessing-the-role-and-safety-profile-of-aggregatorhostexe-in-windows/"><u>Assessing the Role and Safety Profile of AggregatorHost.exe in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-productivity-with-wordpad-embedding-commands-into-context-menus/"><u>Boosting Productivity with WordPad: Embedding Commands Into Context Menus</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-monochrome-to-masterpiece-pro-photo-hue-harmony/"><u>From Monochrome to Masterpiece Pro Photo Hue Harmony</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-motorola-g54-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Motorola G54 5G</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-achieving-professional-quality-with-instagrams-virtual-screens/"><u>In 2024, Achieving Professional Quality with Instagram's Virtual Screens</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-applications-for-viewing-and-analyzing-your-iphones-backup-data/"><u>Top Rated Applications for Viewing and Analyzing Your iPhone's Backup Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719381461685-unlock-hidden-features-in-windows-snipping-tool-for-flawless-screen-shots/"><u>Unlock Hidden Features in Windows Snipping Tool for Flawless Screen Shots</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-superior-communication-optimal-use-of-zoom-in-skype-sessions-for-2024/"><u>Unlocking Superior Communication Optimal Use of ZOOM in Skype Sessions for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-keep-your-spotify-experience-recommendation-free/"><u>[New] 2024 Approved Keep Your Spotify Experience Recommendation-Free</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-laying-the-groundwork-for-av1-understanding/"><u>[New] Laying The Groundwork for AV1 Understanding</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-rotation-revelations-maximizing-media-experience-with-vlc/"><u>2024 Approved Rotation Revelations Maximizing Media Experience with VLC</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-trimming-tactics-for-time-strapped-youtubers/"><u>2024 Approved Trimming Tactics for Time-Strapped YouTubers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-codes-of-user-identities-in-win11/"><u>Deciphering the Codes of User Identities in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-discords-auto-start-and-update-check-on-windows/"><u>Disabling Discord's Auto-Start and Update Check on Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ted-viewership-status-symbolized-by-buttons-for-2024/"><u>Elevated Viewership Status Symbolized by Buttons for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhanced-efficiency-embrace-windows-11-tiny/"><u>Enhanced Efficiency: Embrace Windows 11 Tiny</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/get-your-imessage-history-from-iphone-onto-windows-11-easily/"><u>Get Your iMessage History From iPhone Onto Windows 11 Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-acquainted-with-bluescreenview-a-quick-primer/"><u>Getting Acquainted with BlueScreenView: A Quick Primer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-a1x-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo A1x 5G Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-webp-conversion-to-jpeg-for-2024/"><u>Mastering the Art of WebP Conversion to JPEG for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/next-gen-escapades-upcoming-best-playstation-vr-games-to-try-for-2024/"><u>Next-Gen Escapades Upcoming Best PlayStation VR Games to Try for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-visuals-in-application-guard-for-edge-os/"><u>Optimizing Visuals in Application Guard for Edge OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-process-for-running-sfc-on-windows-pcs/"><u>Step-by-Step Process for Running SFC on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-updater-0x8024a205-malfunction-on-pcs/"><u>Tackling Updater 0X8024a205 Malfunction on PCs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Spot Files: Windows 11'S Minimalist Approach"
-date: 2025-01-09T18:18:33.607Z
-updated: 2025-01-13T00:59:01.249Z
+date: 2025-01-17T17:22:07.921Z
+updated: 2025-01-18T17:46:21.426Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Compact View in File Explorer Using the Command Bar
 
  The easiest way to enable or disable the compact view in File Explorer is to use the command bar. Here's what you need to do:
@@ -33,15 +37,7 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 2. Choose the **Compact view** option to enable it.  
 ![Compact view option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/comapct-view-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's it. You might need to restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable Compact View in File Explorer Using Folder Options
 
@@ -57,22 +53,26 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
 
- With that, you should have less space between your files in File Explorer.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ With that, you should have less space between your files in File Explorer.
 
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
@@ -88,7 +88,7 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Change the File Explorer Look Anytime
@@ -112,24 +112,24 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-effortless-image-blur-for-iphones-top-4-methods-revealed-for-2024/"><u>[Updated] Effortless Image Blur for iPhones Top 4 Methods Revealed for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-navigating-facebook-to-play-youtube-videos-without-interruption/"><u>[Updated] Navigating Facebook to Play YouTube Videos Without Interruption</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-quick-tips-to-create-dynamic-gifs-using-youtube-media/"><u>[Updated] Quick Tips to Create Dynamic GIFs Using YouTube Media</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-claude-what-can-you-accomplish-with-it/"><u>Demystifying CLAUDE ([What Can You Accomplish With It?])</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/digital-universe-awaits-essential-key-collectors-612lifetime-windows-11-sale/"><u>Digital Universe Awaits: Essential Key Collector's $6.12/Lifetime Windows 11 Sale</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-new-versions-of-your-creative-webcams-drivers-instantly-on-windows-machines/"><u>Get New Versions of Your Creative Webcam's Drivers Instantly on Windows Machines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-your-way-through-uptime-verification-in-windows-11-with-these-tips/"><u>Guide Your Way Through Uptime Verification in Windows 11 with These Tips</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Oppo Reno 9A? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-woes-with-simple-fixes/"><u>Navigate Through Windows Woes with Simple Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-shared-device-conflicts-in-win11/"><u>Navigating Shared Device Conflicts in Win11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-ai-integration-auto-gpt-way/"><u>Seamless AI Integration: Auto-GPT Way</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-reactivate-frozen-resource-monitors-in-windows-11/"><u>Strategies to Reactivate Frozen Resource Monitors in Windows 11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-ios-psp-games-and-emulators-revealed/"><u>Top iOS PSP Games & Emulators Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-list-best-windows-photo-organizers/"><u>Ultimate List: Best Windows Photo Organizers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncloaking-stealthy-storage-issues-on-windows/"><u>Uncloaking Stealthy Storage Issues on WINDOWS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-power-down-on-windows-machines/"><u>Understanding Power Down on Windows Machines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uninterrupted-viewing-9-methods-to-sharpen-video-playback-on-windows/"><u>Uninterrupted Viewing: 9 Methods to Sharpen Video Playback on Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-s21-fe-5g-2023-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy S21 FE 5G (2023) Phone Network-Ready</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-laughlineart-memogallery/"><u>[New] In 2024, LaughLineArt MemoGallery</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhancing-viewer-experience-with-immersive-360-video-content-for-youtube/"><u>[Updated] In 2024, Enhancing Viewer Experience with Immersive 360 Video Content for YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-notch-free-editors-to-enhance-your-youtube-content-efficiency-for-2024/"><u>8 Top-Notch Free Editors to Enhance Your YouTube Content Efficiency for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/dvdmp3/"><u>音声コンバーターでDVDからMP3へ：簡単な変換ガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-m4b-aac/"><u>最新の無料方法で：オンラインMovavi M4B AAC ビデオコンバートガイド</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazon-deploys-advanced-ai-sleuth-technology-for-early-detection-of-damaged-goods-in-transit/"><u>Amazon Deploys Advanced AI Sleuth Technology for Early Detection of Damaged Goods in Transit</u></a></li>
+<li><a href="https://win11.techidaily.com/beyond-defaults-20-ways-to-personalize-windows-11/"><u>Beyond Defaults: 20 Ways to Personalize Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bezplatny-prevoze-wmv-v-soucasti-mov-onlineskypni-a-nesmirny-latky-konverter/"><u>Bezplatný Prevoze Wmv V Součásti MOV - Onlineskypní A Nesmírný Látky Konverter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertir-video-webm-directamente-a-mp4-sin-costo-alguno-usando-el-servicio-gratuitode-conversion-de-videos-en-linea/"><u>Convertir Video WebM Directamente a MP4 Sin Costo Alguno Usando El Servicio Gratuitode Conversión De Videos en Línea</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ives-making-marvel-virtual-worlds-vivid/"><u>Creatives Making Marvel Virtual Worlds Vivid</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-crop-tool-edit-your-videos-with-ease/"><u>Free Online Crop Tool: Edit Your Videos with Ease</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-su-herramienta-perfecta-para-convertir-archivos-mp3-en-flac-sin-costo-alguno-online-facil-de-usar-conversor-on-line-gratis/"><u>Móvavi: Su Herramienta Perfecta Para Convertir Archivos MP3 en FLAC Sin Costo Alguno, Online Fácil De Usar - Conversor On-Line Gratis</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-remove-tiktok-watermarks-with-ease-best-online-solutions/"><u>New In 2024, Remove TikTok Watermarks with Ease Best Online Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swf-webm/"><u>SWF WebM 전환기 - 웹에서 자원공유 용이: 실시간 코어 리소스를 모바일에 가장 적합한 형식으로 쉽게 전환</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/tiktoks-anime-revolution-innovative-ideas-countdown-for-2024/"><u>TikTok's Anime Revolution Innovative Ideas Countdown for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-11-convertisseurs-mov-gratuits-pour-mac-windows-et-en-ligne-comparatif-complet/"><u>Top 11 Convertisseurs MOV Gratuits Pour Mac, Windows Et en Ligne : Comparatif Complet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-video-wma-in-formato-3gp-senza-costi-utilizzando-il-servizio-di-movavi-online/"><u>Trasforma I Tuoi Video WMA in Formato #3GP Senza Costi Utilizzando Il Servizio Di Movavi Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-standard-image-dimensions-expert-tips-from-movavi/"><u>Ultimate Guide to Standard Image Dimensions - Expert Tips From Movavi</u></a></li>
 </ul></div>
 

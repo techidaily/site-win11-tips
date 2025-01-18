@@ -1,7 +1,7 @@
 ---
 title: "Uncover the Hidden in Win11: Finding Missing Controls"
-date: 2025-01-06T22:43:11.410Z
-updated: 2025-01-12T18:59:28.385Z
+date: 2025-01-17T17:03:47.359Z
+updated: 2025-01-18T18:03:34.469Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Control Panel Is Likely Going Away
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
  While Microsoft hasn’t said that it plans to do away with the Control Panel app, and plenty of [old apps remain in Windows 11](https://www.makeuseof.com/ancient-windows-features-still-in-windows-11/). Still, the rate at which the company is moving settings says that Microsoft is at least considering it. Of course, this isn’t necessarily a bad thing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft's New Home For Settings
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 ![The Windows 11 Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/the-windows-11-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Eventually, this decision will likely make even more sense. For the moment, however, it can be tough to find the settings you’re looking for, especially if they’re no longer located where they had been for years.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Finding a Setting's New Home
@@ -75,19 +75,22 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-foremost-venues-expanding-youtube-visibility/"><u>[New] Foremost Venues Expanding YouTube Visibility</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unparalleled-video-quality-the-ultimate-18-list/"><u>[Updated] In 2024, Unparalleled Video Quality - The Ultimate #18 List</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-self-portraits-iphones-burst-capability/"><u>[Updated] Perfecting Self-Portraits IPhone's Burst Capability</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-unviewable-documents-error-in-microsoft-office-mail/"><u>Addressing 'Unviewable' Documents Error in Microsoft Office Mail</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-network-disconnect-in-windows-11-a-step-by-step-guide/"><u>Addressing Network Disconnect in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/amplify-graphics-memory-a-comprehensive-guide-to-supercharging-win1011/"><u>Amplify Graphics Memory - A Comprehensive Guide to Supercharging Win10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/balancing-directional-audio-with-windows-earbuds/"><u>Balancing Directional Audio with Windows Earbuds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-windows-single-board-gadgets/"><u>Best Windows Single-Board Gadgets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-efficiency-utilizing-box-for-file-selections-in-win11/"><u>Boost Efficiency: Utilizing Box for File Selections in Win11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-itel-a60s-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Itel A60s Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-ultimate-guide-to-top-12-html5-video-engines/"><u>In 2024, The Ultimate Guide to Top 12 HTML5 Video Engines</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-best-video-to-dvd-burners-get-video-to-dvd-on-windows-mac-maveric/"><u>New In 2024, Best Video to DVD Burners - Get Video to DVD on Windows / Mac (Maveric)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-loilo-game-recorder-complete-review-for-2024/"><u>The LoiLo Game Recorder [Complete Review] for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tale-bearers-school-distinguished-dothee/"><u>[New] Tale Bearers School - Distinguished Dothee</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovation-in-action-top-video-editing-strategies/"><u>[Updated] Innovation in Action Top Video Editing Strategies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-step-by-step-strategy-crafting-video-ads-without-spending-a-dime/"><u>[Updated] Step-by-Step Strategy Crafting Video Ads without Spending a Dime</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-transform-your-iphone-footage-filming-and-slowing-down-videos/"><u>[Updated] Transform Your iPhone Footage Filming and Slowing Down Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-free-art-online-a-guide-and-top-sites/"><u>2024 Approved Navigating Free Art Online A Guide & Top Sites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-cc-errors-on-the-latest-windows-os/"><u>Demystifying CC Errors on the Latest Windows OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-itel-p55-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Itel P55 Pattern Lock Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-you-through-fixed-windows-character-mapping-glitches/"><u>Guiding You Through Fixed Windows Character Mapping Glitches</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-trick-to-elevate-your-account-type/"><u>Quick Trick to Elevate Your Account Type</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-leads-with-galaxy-ai-growth-amidst-googles-antitrust-setback-in-tech-innovations-ranking/"><u>Samsung Leads with Galaxy AI Growth Amidst Google's Antitrust Setback in Tech Innovations Ranking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shortcut-to-resolving-lengthy-gpsvc-loops/"><u>Shortcut to Resolving Lengthy GPSVC Loops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-nvidia-disp-not-showed-problems/"><u>Strategies for Resolving Nvidia Disp Not Showed Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-screen-separation-problems/"><u>Unblocking Screen Separation Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-winrm-the-essential-recovery-routes/"><u>Unlocking WinRM: The Essential Recovery Routes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-creative-ways-to-add-green-screen-effects-in-photoshop/"><u>Updated Creative Ways to Add Green Screen Effects In Photoshop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-your-visual-display-ideal-5-apps-for-personalized-time-themed-windows-screensavers/"><u>Upgrade Your Visual Display: Ideal 5 Apps for Personalized Time-Themed Windows Screensavers</u></a></li>
 </ul></div>
 

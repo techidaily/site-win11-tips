@@ -1,7 +1,7 @@
 ---
 title: Transform Your Windows 11 Photos – The Top 6 Rescaling Methods
-date: 2024-08-08T11:02:28.470Z
-updated: 2024-08-09T11:02:28.470Z
+date: 2025-01-14T17:31:40.869Z
+updated: 2025-01-18T18:02:33.357Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
  Here are some ways to resize images in Windows 11 with its pre-installed Microsoft apps and some third-party software alternatives.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Resize Images With Photos
 
  Photos is primarily a default image viewer app that comes with Windows 11, but it does include some basic editing options. You can use that app to resize your images in pixels and percentage terms. These are the steps for resizing pictures with Photos:
@@ -39,33 +40,26 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 ![Image resize options in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/resize-image-options.jpg)
 8. Click**Save** to apply the resize.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Users who select the alternative**Percentage** option need to enter percentage values in the**Width** and**Height** boxes. Entering values like 80 and 90 will reduce the size of the image by 20 and 10 percent. Inputting higher numbers like 110 and 120 will increase the image’s size by 10 and 20 percent. Thus, the percentage size change amounts to how much the values are above or below 100.
 
  The**Resize** box in Photos also includes a**Quality** bar setting. However, you can only use that setting for JPG output. Select the .**jpg** option in the**File extensio** n drop-down menu. Then drag the bar’s slider left or right to set the picture quality in the resized image.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. How to Resize Images With Paint
 
  Microsoft Paint is the raster graphics app bundled with Windows 11\. It’s a relatively basic drawing and image-editing software compared with the likes of PhotoShop. However, utilizing Paint is fine for basic stuff like resizing and cropping images. Our[Paint guide to resizing and cropping images](https://www.makeuseof.com/how-to-resize-crop-image-microsoft-paint/) includes full instructions for how you can change your images’ dimensions with that app.
 
 ![paint's-resize-image-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-s-resize-image-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The resize image options in Paint
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Resize Images With Paint 3D
 
  Paint 3D is an advanced version of the aforementioned Paint with options for adding and modifying three-dimensional objects. That Microsoft app also incorporates a tool for resizing images with your mouse and inputting values. This is how you can resize your images within Paint 3D in Windows 11:
@@ -79,17 +73,10 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 
 1. Scroll down and select Paint 3D.
 2. Then click**Open** and**Browse** **files** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Browse files button in Paint 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-files-button.jpg)
 3. Select an image to resize, and click the**Open** option.
 4. Click the**View more** options (three-dot) menu button.
 5. Select**Canvas options** to access options for resizing the image’s dimensions.  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![The resize image options in Paint 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-3d-s-canvas-options.jpg)
 6. Click the**Resize image** with canvas checkbox to select that option.
 7. Now left-click a corner of the image, hold the mouse button, and drag the mouse cursor left/right to reduce or expand the picture. The values in the**Height** and**Width** boxes change as you drag the mouse.
@@ -105,11 +92,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Open the[Image Magic](https://microsoftedge.microsoft.com/addons/detail/image-magic/cdfgcnhbkmkkdoigocijijlkclbadmhg) page in Microsoft Edge.
 2. Click**Get** to add Image Magic to Edge.
 3. Then press the**Extensions** (jigsaw piece) button in Edge.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Extensions menu in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-image-magic-option.jpg)
 4. Click**Image Magic** to bring up that extension’s window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. You’ll need to drag and drop a picture file onto the Image Magic window to resize it. Open a folder containing some images and drag one onto the Image Magic window.
 6. Select the**Resize** checkbox.
 7. Click**Fill with image dimensions** for the**Resize** option to see the current values for the selected picture in the**Width** and**Height** boxes.  
@@ -117,14 +106,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 8. Input alternative pixel values in the two**Width** and**Height** boxes.
 9. Press the**Convert** button to download the resized image. You’ll find that image in whatever folder you’ve set Edge to download files in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. How to Resize Images via Windows 11’s Context Menu
 
  Some third-party editing apps for images integrate with File Explorer’s context menu. CoolTweak and Image Resizer are two such apps that add options for resizing images to the context menu. Those options enable you to resize images by right-clicking their files in Explorer. Check out our guide about[adding resize image options to the context menu](https://www.makeuseof.com/windows-11-resize-image-context-menu/) for further details about CoolTweak and Image Resizer.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 6\. How to Batch Resize Images With FastStone Photo Resizer
 
  FastStone Photo Resizer is a freeware app designed for applying basic image editing to multiple files. You can utilize that software to batch resize, crop, rename, and convert image files. It also includes options for adding watermarks and text to pictures. You can batch-resize images with FastStone Photo Resizer as follows:
@@ -138,16 +127,15 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Select images to resize in the**Batch Convert** tab by clicking their files and pressing the**Add** button.
 2. Then select the**Use Advanced Options** checkbox.
 3. Press the**Advanced Options** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The FastStone Photo Resizer 4.4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/faststone-image-viewer2.jpg)
 4. Click the**Resize** checkbox if it’s not already selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**In Pixels** radio button.
 6. Input values in the**New Width** and**New Height** boxes. Or select an option on the**Pick a Standard Size** drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The resize settings in the Advanced Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/faststone-image-viewer-resize-options.jpg)
 7. Click**OK** to exit Advanced Options.
 8. Select**Browse** for the**Output Folder** option. Choose a folder to include the resized files, and click the**OK** button.
@@ -165,8 +153,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +160,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-disconnect-wisely-guidelines-for-exiting-discords/"><u>[New] Disconnect Wisely Guidelines for Exiting Discords</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-full-screen-feature-on-facebook-what-you-need-to-know/"><u>[New] In 2024, Full-Screen Feature on Facebook What You Need to Know</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-screen-recorders-face-off-determining-superiority-of-bandicam-and-camtasia/"><u>[New] Screen Recorders Face-Off Determining Superiority of Bandicam & Camtasia</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-beneath-the-surface-instagrams-hidden-reality-for-viewers/"><u>[Updated] Beneath the Surface Instagram’s Hidden Reality for Viewers</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-momentum-media-10-hot-tweets-to-watch-for-2024/"><u>[Updated] Momentum Media 10 Hot Tweets to Watch for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cleansing-local-disks-in-win11-preserving-your-files-max-156-chars/"><u>Cleansing Local Disks in Win11: Preserving Your Files (Max 156 Chars)</u></a></li>
+<li><a href="https://discover-data.techidaily.com/come-eseguire-il-backup-del-tuo-sistema-windows-7-su-hard-disk-esterno/"><u>Come Eseguire Il Backup Del Tuo Sistema Windows 7 Su Hard Disk Esterno</u></a></li>
+<li><a href="https://techtrends.techidaily.com/compatible-alternatives-for-reading-mac-pages-documents-on-pc/"><u>Compatible Alternatives for Reading Mac Pages Documents on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-unable-to-connect-to-ea-servers-error-on-windows/"><u>How to Fix the “Unable to Connect to EA Servers” Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-unresponsive-keys-in-windows-computer-setup/"><u>Repairing Unresponsive Keys in Windows Computer Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revise-your-context-menu-get-rid-of-show-more-entry/"><u>Revise Your Context Menu: Get Rid of Show More Entry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rotate-like-a-pro-6-easy-steps-for-windows-photos/"><u>Rotate Like a Pro: 6 Easy Steps for Windows Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-geforce-experience-from-failing-windows-guide/"><u>Stop GeForce Experience From Failing: Windows Guide</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/unlocking-success-essential-skills-for-social-media-entrepreneurs-from-2010-present-with-massmail-tools/"><u>Unlocking Success: Essential Skills for Social Media Entrepreneurs From 2010-Present with MassMail Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-power-to-change-file-formats/"><u>Unlocking Windows' Power to Change File Formats</u></a></li>
+</ul></div>
 

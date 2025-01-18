@@ -1,7 +1,7 @@
 ---
 title: Detailed Walkthrough of Locating and Using Component Services
-date: 2024-08-08T11:02:32.340Z
-updated: 2024-08-09T11:02:32.340Z
+date: 2025-01-12T16:37:08.643Z
+updated: 2025-01-18T17:46:17.363Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 
 ![Opening the Component Services Tool Using the Start Menu Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-start-menu-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Open the Component Services Tool Using the Run Command Dialog Box
 
  Having trouble using the Start menu search bar? Try accessing the Component Services tool using the Run command dialog box.
@@ -42,14 +46,12 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 1. Press**Win + R** to open the Run command dialog box.
 2. Type**comexp.msc** and press**Enter** to access the Component Services tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Opening the Component Services Tool Using the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-run-command-dialog-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Open the Component Services Tool Using the File Explorer Address Bar
 
  The File Explorer address bar can help you locate your file and folder paths with ease. In addition to that, you can use File Explorer’s address bar to open various apps.
@@ -61,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 
 ![Opening the Component Services Tool Using the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-file-explorer-address-bar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Open the Component Services Tool Using the Start Menu
 
  Most of your apps and tools are located on the Windows Start menu. So, let’s check out how you can access the Component Services tool from this menu:
@@ -72,14 +71,8 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 2. Scroll down on the menu items and select the**Windows Administrative Tools** folder.
 3. Select the**Component Services** option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Opening the Component Services tool using the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-start-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Open the Component Services Tool Using the Control Panel
 
  In most cases, the Control Panel is used for[troubleshooting a faulty Windows PC](https://www.makeuseof.com/how-to-troubleshoot-faulty-windows-pc/) or configuring PC settings. Well, the good news is that you can also use this tool to open various apps on your Windows device.
@@ -92,10 +85,11 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 4. Select**Administrative Tools** from the menu items.
 5. Double-click on the**Component Services** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Opening the Component Services tool using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Open the Component Services Tool Using the Task Manager
 
@@ -109,10 +103,11 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 4. Click the**Run new task** option.
 5. Type**comexp.msc** in the search box and press**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![Opening the Component Services Tool Using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Open the Component Services Tool From the Windows System32 Directory
 
@@ -123,16 +118,14 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 3. Open the**Windows** folder and then access the**System32** folder.
 4. Double-click on the**comexp** option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Selecting the comexp option in the System32 directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/selecting-the-comexp-option-in-the-system32-directory.jpg)
 
  If you want to make the Component Services tool easily accessible, you should consider pinning it to the taskbar. To do that, right-click on the**comexp** option in the System32 folder and select**Pin to taskbar** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Open the Component Services Tool Using PowerShell or the Command Prompt
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
@@ -155,12 +148,17 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 
 `comexp.msc`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Open the Component Services Tool Using a Desktop Shortcut
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can easily access your apps by clicking on the relevant desktop shortcuts. But bear in mind that you first need to create desktop shortcuts before you can use them.
 
@@ -183,14 +181,11 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 
  And if you want to explore other incredible apps, you can check out some of the best IDE (integrated development environment) tools for programming on Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -199,4 +194,20 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unlock-youtube-collaboration-a-guide-to-partnering-and-producing-together/"><u>[New] In 2024, Unlock YouTube Collaboration A Guide to Partnering and Producing Together</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-screen-recording-mastery-with-vsdc-reviewed-for-2024/"><u>[Updated] Screen Recording Mastery with VSDC Reviewed for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-key-differences-between-exe-software-packages-and-msi/"><u>Deciphering Key Differences Between Exe Software Packages & Msi</u></a></li>
+<li><a href="https://article-tips.techidaily.com/from-novice-to-maestro-professional-photography-and-cinematography-techniques-for-2024/"><u>From Novice to Maestro Professional Photography & Cinematography Techniques for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/june-2024s-unbeatable-electronics-deals-discover-best-buy-steals/"><u>June 2024'S Unbeatable Electronics Deals - Discover Best Buy Steals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-cable-modem-routers-for-optimal-home-networking-2024-edition/"><u>Leading Cable Modem-Routers for Optimal Home Networking - 2024 Edition</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-elevate-your-video-game-best-mac-video-editing-apps/"><u>New 2024 Approved Elevate Your Video Game Best Mac Video Editing Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x00000001-in-xbox-game-pass-with-windows-11/"><u>Overcoming Error 0X00000001 in Xbox Game Pass with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-removing-windows-bt-directories-effectively/"><u>Understanding and Removing Windows ~BT Directories Effectively</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-reset-reclaim-default-user-access-rights/"><u>Windows 11 Reset: Reclaim Default User Access Rights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725288204398-winxvideo-ai/"><u>WinxVideo AI技術仿真標準:嚴密解釋</u></a></li>
+</ul></div>
 

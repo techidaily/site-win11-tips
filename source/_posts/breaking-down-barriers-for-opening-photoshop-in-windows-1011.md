@@ -1,7 +1,7 @@
 ---
 title: Breaking Down Barriers for Opening Photoshop in Windows 10/11
-date: 2024-07-29T08:15:08.615Z
-updated: 2024-07-30T08:15:08.615Z
+date: 2025-01-15T18:33:00.278Z
+updated: 2025-01-18T16:23:47.872Z
 tags:
   - windows10
   - windows11
@@ -26,14 +26,23 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
  You can permanently set admin rights for your Adobe Photoshop shortcut as instructed within our guide to [always running apps as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-this-program-as-administrator3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Start Photoshop Without Plugins
 
  Third-party plugins can generate Photoshop startup issues. If you utilize Photoshop with plugins, try disabling them. To do so, hold the **Shift** when you click to run Photoshop. Then select **Yes** to skip the loading of optional plugins.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Terminate Background Adobe Processes
 
@@ -41,16 +50,14 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 1. Right-click a space on the Windows taskbar and select the **Task Manager** menu option.
 2. If Adobe Photoshop is within the **Apps** section of the **Processes** tab, right-click on it and select **End task**.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/end-task-context-menu-option.png)
 3. Then scroll down through the **Background processes** section to see if there are any Adobe Photoshop processes there.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Photoshop processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-processes.jpg)
 4. Select Adobe Photoshop background processes and click **End task** to terminate them. Disable all Photoshop processes you can find.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Controlled Folder Access
 
@@ -60,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 ![The Windows Security icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-security-icon.jpg)
 2. Select the **Virus & threat** (shield) tab on Windows Security’s sidebar.
 3. Next, click **Manage ransomware protection** to reach Windows Security’s Controlled folder access setting.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Manage ransomware protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-ransomware-option.jpg)
 4. Click the switch for the **Controlled folder access** option to disable that setting if it’s turned on.  
 ![The Controlled Folder Access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/controlled-folder-access-option.jpg)
@@ -83,38 +87,25 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
  You can always re-enable the graphics adapter when you’re not utilizing Photoshop. To do so, right-click your graphics card in Device Manager and select Enable device.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Clear Photoshop’s Font Cache
 
  A corrupted font cache is another potential cause for Adobe Photoshop not starting on your PC. Deleting the CT Font Cache folder will remedy that by clearing corrupted cache data. This is how you can clear Photoshop’s font cache like this:
 
 1. To [start the Run app](https://www.makeuseof.com/windows-open-run-command-dialog-box/), press **Win + R**.
 2. Then type **%AppData%** into Run and press **Enter** to open a Roaming directory.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Roaming subfolder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-roaming-subfolder.jpg)
 3. Open the Adobe > Photoshop subfolders from the Roaming directory.
 4. Right-click the CT Font Cache subfolder and select **Delete** (the trash can on Windows 11's context menu).  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-delete-option4.jpg)
 5. Double-click the Recycle Bin desktop shortcut and select **Empty Recycle Bin**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall Photoshop
 
  Uninstalling and reinstalling Photoshop will replace that software’s files with fresh ones. So, this resolution could be the one you need if others here don’t work for you. You can remove Adobe Photoshop via Settings or the Control Panel, as covered within our guide for [uninstalling software packages on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
@@ -123,17 +114,11 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
  When you’ve uninstalled Photoshop, restart your PC. Then open the Adobe Creative Cloud app. Install Adobe Photoshop from the Creative Cloud app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Edit Your Images in Adobe Photoshop Again
 
  The potential resolutions covered in this guide are widely confirmed to fix Adobe Photoshop not opening on Windows 11/10\. That doesn’t mean they will fix all cases of Photoshop not opening, but one of them will probably kick-start that image editor on your PC. Then you can get back to editing your photographs with the best image editor in the world.
 
  Either way, users can’t utilize Photoshop when it doesn’t open in Windows 10 or 110\. Are you among those users who need to kick-start Photoshop? If you are, try applying these potential fixes for Adobe Photoshop 2021-2023 not launching on Windows 10 and 11 PCs.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -141,3 +126,22 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-castwatch-inspection/"><u>[New] 2024 Approved CastWatch Inspection</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-effortless-guide-never-see-youtube-shorts-again/"><u>[New] Effortless Guide Never See YouTube Shorts Again</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-premier-mobile-platforms-for-enhanced-dji-cinematography-for-2024/"><u>[New] Premier Mobile Platforms for Enhanced DJi Cinematography for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-revel-in-the-best-virtual-playgrounds/"><u>[Updated] Revel in the Best Virtual Playgrounds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-iphone-screen-sharing-made-simple/"><u>2024 Approved IPhone Screen Sharing Made Simple</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-seamless-multi-screen-browsing-in-chrome-using-pip/"><u>2024 Approved Seamless Multi-Screen Browsing in Chrome Using PIP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-opengl-issue-3-with-nvidia-on-windows-11-os/"><u>Fixing OpenGL Issue #3 with NVIDIA on Windows 11 OS</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-mini-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 mini without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/protecting-privacy-the-ultimate-windows-encryption-list-152-chars/"><u>Protecting Privacy: The Ultimate Window's Encryption List (152 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-online-status-for-wow-gamers/"><u>Restoring Online Status for WoW Gamers</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-win11-terminals-original-design/"><u>Restoring Win11 Terminal's Original Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-security-for-browsers-trustable-sites-in-windows-11/"><u>Tailored Security for Browsers: Trustable Sites in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-bar-icon-failures/"><u>Troubleshooting Windows Bar Icon Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tweaking-your-pcs-touchpad-response-speed/"><u>Tweaking Your PC's Touchpad Response Speed</u></a></li>
+</ul></div>
+

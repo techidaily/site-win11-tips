@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Sluggishness: Boost Your WIndows Printer"
-date: 2025-01-07T02:11:05.814Z
-updated: 2025-01-12T19:15:19.477Z
+date: 2025-01-16T17:14:49.915Z
+updated: 2025-01-18T18:07:07.888Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834
 
  Turn off your printer by pressing the power button. Once it is off, remove the power cable and wait for at least 30 seconds or so before reconnecting it. After that, power on your printer and try printing something to see if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Adjust the Print Quality
 
  The printing speed of your printer is often affected by the quality settings you choose. Printing at higher quality settings usually takes longer, as it requires the printer to produce more detailed output.
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834
 
  You will see a variety of options for setting the print quality. You can experiment with them and choose the one that provides the best balance between print quality and speed for you. Keep in mind that the lower the print quality, the faster the output will be.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Select the Correct Paper Type
 
  Another reason why your printer may print slowly is if your PC is printing using the wrong paper settings. To prevent any issues, you need to ensure that the selected paper type matches the actual paper loaded into the printer. Here's how to check.
@@ -65,19 +65,11 @@ thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834
 6. Hit **Apply** followed by **OK**.  
 ![Select Printer Paper in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-printer-paper-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Disable Quiet Mode
 
  Several modern-day printers offer a Quiet Mode feature that reduces operational noise during printing. To achieve this, the printer usually decreases its printing speed. If performance is a priority, you should consider disabling Quiet Mode on your printer.
 
  The process of disabling Quiet Mode on a printer may differ depending on its make and model. Usually, you can turn off this setting through the printer software or app. If not, refer to your printer manual for instructions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Run the Relevant Windows Troubleshooters
 
@@ -90,14 +82,10 @@ thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834
 ![Run Printer Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-printer-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the troubleshooter to find and fix any issues, and then check if your printer is still slow. Additionally, if you are using a network printer, consider running the **Network adapter** troubleshooter from the same menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Clear the Print Queue and Restart the Printer Spooler Service
 
@@ -112,13 +100,17 @@ thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834
 4. Press **Win + E** to open File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Type **%systemroot%\\System32\\spool\\printers\\** in File Explorer’s address bar and press **Enter**.
 6. Press **Ctrl + A** to select all the files within the Printers folder and delete them.
 7. Return to the Services window, right-click on the **Print Spooler** service again, and select **Start**.  
 ![Clear Print Queue on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clear-print-queue-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Update the Printer's Drivers
 
@@ -136,7 +128,15 @@ thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834
 4. Click **Add a printer** button at the top and setup the printer using its IP address or hostname.  
 ![Remove Printer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/remove-printer-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you run into any errors while removing your printer, check our guide on [how to force delete or uninstall a printer on Windows](https://www.makeuseof.com/windows-remove-printer/) for more methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Try Some Generic Windows Fixes
 
@@ -144,10 +144,6 @@ thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834
 
 * **Run an SFC scan:**[Running an SFC scan on Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) will allow you to scan your PC’s system files. This should help fix any issues caused by damaged or missing system files.
 * **Install the latest Windows updates:** Using an outdated or buggy Windows build could also result in such problems. Hence, it’s a good idea to [install pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) if you haven’t already.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Speed Up Your Printing on Windows
 
@@ -162,6 +158,10 @@ thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834
 ### Q: Can You Change Printer Speed?
 
  Some printers allow you to change the rate your files are printed. You'll find the option to change the printing speed in your printer's print utility. In most apps, you can launch this utility by pressing Ctrl + P.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: Does Wi-Fi Affect Printer Speed?
 
@@ -179,22 +179,24 @@ thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-retrace-footsteps-android-film-inversion/"><u>[New] 2024 Approved Retrace Footsteps Android Film Inversion</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-masterclass-in-timelapse-capture-via-gopro-studio/"><u>[New] Masterclass in Timelapse Capture via GoPro Studio</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-revolutionize-your-feed-with-these-10-insta-tools-for-2024/"><u>[Updated] Revolutionize Your Feed with These 10 Insta-Tools for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-androidiphone-mastery-discover-the-ultimate-top-8-app-set/"><u>2024 Approved Android/iPhone Mastery Discover the Ultimate Top 8 App Set</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-sevenfold-approach-to-fix-sync-errors-with-google-drive/"><u>A Sevenfold Approach to Fix Sync Errors with Google Drive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-power-management-hiding-dim-display/"><u>Accessing Power Management: Hiding 'Dim Display'</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-the-device-latency-error-x887a0006win11/"><u>Addressing the Device Latency Error X887A0006:Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-windows-11s-temptations-top-8-cautions/"><u>Avoiding Windows 11'S Temptations: Top 8 Cautions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/back-to-basics-quick-fixes-in-13-essential-steps-for-systems/"><u>Back-to-Basics: Quick Fixes in 13 Essential Steps for Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-windows-11-protection-with-new-firewall-add-ons-in-the-context-menu/"><u>Boost Windows 11 Protection with New Firewall Add-Ons in the Context Menu</u></a></li>
-<li><a href="https://article-helps.techidaily.com/comprehensive-analysis-bublcams-360-vision/"><u>Comprehensive Analysis Bublcam's 360 Vision</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-to-fix-your-macbook-air-when-it-wont-respond-anymore/"><u>Easy Steps to Fix Your MacBook Air When It Won't Respond Anymore</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-s17t-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo S17t to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719373458449-learn-how-to-resurrect-the-non-functional-win-plus-p-feature-in-windows/"><u>Learn How to Resurrect the Non-Functional Win + P Feature in Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/major-enhancements-for-your-smart-home-with-the-latest-ios-update/"><u>Major Enhancements for Your Smart Home with the Latest iOS Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719271756856-stop-worrying-fix-the-non-working-esc-key-today/"><u>Stop Worrying, Fix the Non-Working Esc Key Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-ranking-ipad-models-featured-and-evaluated-by-tech-experts-zdnets-guide/"><u>Top-Ranking iPad Models Featured & Evaluated by Tech Experts - ZDNet's Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-perfect-for-broadcasters-top-360-cameras-listed/"><u>[New] 2024 Approved Perfect for Broadcasters Top 360° Cameras Listed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-seamlessly-navigate-to-youtube-video-comments/"><u>[New] In 2024, Seamlessly Navigate to YouTube Video Comments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-title-tag-and-description-mastery-for-youtube-success/"><u>[New] Title, Tag & Description Mastery for YouTube Success</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-secrets-to-verified-instagram-images/"><u>[Updated] Unveiling the Secrets to Verified Instagram Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-complex-policies-gpresult-techniques-explored/"><u>Conquering Complex Policies: GPResult Techniques Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-concept-maps-in-obsidian-note-taking/"><u>Crafting Concept Maps in Obsidian Note-Taking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-device-recognition-failure-during-installation/"><u>Fixing Windows Device Recognition Failure During Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-glowing-cursors-on-your-computer-screen/"><u>Guidelines for Glowing Cursors on Your Computer Screen</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-htc-u23-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset HTC U23 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-0x80049dd3-voice-typing-error-in-windows-11/"><u>How to Fix the 0X80049dd3 Voice Typing Error in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-x-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone X to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-winstall-to-batch-install-apps-in-windows-11/"><u>How to Use Winstall to Batch Install Apps in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/onoff-switch-windows-11s-auto-hdr-feature/"><u>On/Off Switch Windows 11'S Auto-HDR Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-win11-printer-headaches-with-simple-steps/"><u>Stop Win11 Printer Headaches with Simple Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-wintoys-unleashing-the-full-potential-of-a-powerful-windows-app/"><u>The Complete Guide to WinToys: Unleashing the Full Potential of a Powerful Windows App</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-places-to-secure-your-new-ipad-pro-ipad-air-and-pro-grade-apple-pencil-today-exclusive-offers/"><u>Top Places to Secure Your New iPad Pro, iPad Air & Pro-Grade Apple Pencil Today: Exclusive Offers!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-steams-unsyncable-files-issue-on-pc/"><u>Troubleshooting Steam's Unsyncable Files Issue on PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/win11s-1-5-pick-for-budget-friendly-screen-capture-apps/"><u>Win11's #1-5 Pick for Budget-Friendly Screen Capture Apps</u></a></li>
 </ul></div>
 

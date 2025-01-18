@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows License Expiry Warning in Windows 10/11
-date: 2025-01-08T21:32:24.213Z
-updated: 2025-01-12T23:31:27.267Z
+date: 2025-01-16T18:17:32.322Z
+updated: 2025-01-18T16:22:29.588Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
  Now that you are aware of the common causes of this error, let's now focus on the potential solutions to resolve it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apply Some Preliminary Fixes
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 * **Restart Windows Explorer:** Temporary issues with the Windows Explorer process can sometimes trigger the “Your Windows license will expire soon” error on your PC. If it’s nothing major, you should be able to fix it by simply [restarting the Windows Explorer process](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/).
 * **Run the SFC Scan:** It’s possible that Microsoft is having trouble authenticating your Windows license due to corrupt or damaged system files. To repair these files, you can try [running the System File Checker (SFC) scan on your PC](https://www.makeuseof.com/system-file-checker-sfc-windows/).
 * **Scan for Malware:** Another potential factor contributing to Windows activation issues is malware infection. To address this, you can try [scanning your PC for malware using PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) or Microsoft Defender.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the Activation Troubleshooter
 
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
  Wait for the troubleshooter to do its thing, and then check if it resolves the error.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Find Your Product Key and Activate Windows
@@ -81,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 4. Press **Win + I** to open the Settings app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. In the **System** tab, click on **Activation**.
@@ -89,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 7. Enter the **OEM key** noted earlier and click **Next**.
 8. Click the **Activate** button to confirm.  
 ![Update Product Key on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-product-key-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Activate Windows Using Command Prompt
 
@@ -101,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 ![Activate Windows via Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/activate-windows-via-command-prompt.jpg)
 
  Wait for Command Prompt to validate your product key. You will see a message confirming the outcome of the activation process, whether it was successful or not. If the activation is successful, you should not see the “Your Windows license will expire soon” error after this.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Rebuild the Tokens.dat File
 
@@ -132,6 +128,10 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
 3. Restart your PC after running the command.  
 ![Reset the Activation Timer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-the-activation-timer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It's worth noting that you can only utilize the above command a few times. Eventually, you will have to obtain a genuine Windows license to eliminate the error message permanently.
 
 ## Fixing the “Your Windows License Will Expire Soon” Error on Windows
@@ -152,22 +152,20 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-streamlined-methods-for-iphone-screen-capture/"><u>[New] 2024 Approved Streamlined Methods for iPhone Screen Capture</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-demystifying-facebooks-blue-image-symbol/"><u>[New] Demystifying Facebook's Blue Image Symbol</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tep-by-step-creation-of-gamers-channel-graphics/"><u>[New] Step-By-Step Creation of Gamers' Channel Graphics</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-beauty-blogging-beginnings-crafting-a-captivating-youtube-channel/"><u>[Updated] Beauty Blogging Beginnings Crafting a Captivating YouTube Channel</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/advanced-strategies-for-no-sound-recording-for-2024/"><u>Advanced Strategies for No-Sound Recording for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bikes-viewing-experience-5050-of-the-ultimate-helmet-cam-tech-for-2024/"><u>Bike's Viewing Experience - 50/50 of the Ultimate Helmet Cam Tech for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/desk-dilemmas-taming-the-pink-and-purple-on-your-screen/"><u>Desk Dilemmas: Taming the Pink & Purple on Your Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/epic-color-crisis-8-ways-to-retool-your-pink-desktop/"><u>Epic Color Crisis: 8 Ways to Retool Your Pink Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-responsive-volume-control-on-win-1011-pc/"><u>Fixing Responsive Volume Control on Win 10/11 PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-x9b-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor X9b Phones with/without a PC</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/innovative-scripting-for-advanced-typography-in-after-effects-for-2024/"><u>Innovative Scripting for Advanced Typography in After Effects for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/panorama-pixels-cutting-edge-photo-assembler/"><u>Panorama Pixels Cutting-Edge Photo Assembler</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/selecting-and-styling-terminal-image/"><u>Selecting and Styling Terminal Image</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/synergizing-macos-and-windows-software/"><u>Synergizing macOS and Windows Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-aesthetic-enhancement-implementing-themes-from-the-microsoft-store/"><u>The Art of Aesthetic Enhancement: Implementing Themes From the Microsoft Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/time-saving-windows-keyboard-tricks-for-swift-tasks/"><u>Time-Saving Windows: Keyboard Tricks for Swift Tasks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-seven-pocket-friendly-tools-to-increase-windows-volume/"><u>Top Seven Pocket-Friendly Tools to Increase Windows Volume</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-3-ways-to-record-lectures-on-mac/"><u>[New] 3 Ways to Record Lectures on Mac</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-filmmakers-choice-for-steady-videos/"><u>[New] Filmmaker's Choice for Steady Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smartphones-superior-topping-video-capture-lists/"><u>[New] Smartphones Superior Topping Video Capture Lists</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-snap-with-precision-essential-camera-angles-for-images/"><u>[New] Snap with Precision Essential Camera Angles for Images</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-complete-guide-to-saving-live-periscope-broadcasts-for-2024/"><u>[New] The Complete Guide to Saving Live Periscope Broadcasts for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-visual-revolution-integrating-3d-effects-into-your-photoshop-layouts/"><u>[Updated] A Visual Revolution Integrating 3D Effects Into Your Photoshop Layouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/como-montar-seu-primeiro-video-usando-o-criador-do-mac-tutoriais-movavi-simplificados/"><u>Como Montar Seu Primeiro Vídeo Usando O Criador Do Mac - Tutoriais Movavi Simplificados</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decouvrez-la-fabrique-dimages-de-storyboard-methode-et-procedes-pour-creer-un-effet-visuel-persuasif/"><u>Découvrez La Fabrique D'Images De Storyboard: Méthode Et Procédés Pour Créer Un Effet Visuel Persuasif!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-aac-to-m4a-converter-web-service-by-movavi-quick-and-easy-file-transformation/"><u>Free AAC to M4A Converter Web Service by Movavi - Quick and Easy File Transformation</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-find-x6-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo Find X6 Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-exact-video-editing-a-step-by-step-guide/"><u>Mastering the Art of Exact Video Editing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/seven-superior-cameras-defy-the-elements-waterproof-for-2024/"><u>Seven Superior Cameras Defy the Elements (Waterproof) for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-note-12r-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi Note 12R Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasformare-i-file-mp3-in-formato-webm-senza-costi-con-il-servizio-di-movavi/"><u>Trasformare I File MP3 in Formato WEBM Senza Costi Con Il Servizio Di Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/m2p-mpeg-movavi/"><u>오피스용 무세금 M2P MPEG 데이터를 자동으로 변환하는 Movavi - 단순한 방법</u></a></li>
 </ul></div>
 

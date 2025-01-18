@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Recurring Image Importer Errors with iOS Devices on W11
-date: 2024-08-08T11:02:35.171Z
-updated: 2024-08-09T11:02:35.171Z
+date: 2025-01-16T16:32:10.857Z
+updated: 2025-01-18T17:08:15.897Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
 
  Users can’t transfer images from their iPhones to PCs because of this image import issue. Does the same issue arise when you try to import images from an Apple mobile with Windows Photos? If it does, you can fix the “Something went wrong” error with these potential resolutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Don’t Try to Import All the Images at Once
 
  Transferring a large number (hundreds or more) of photos at once from an iPhone to Windows can cause issues with the import process, resulting in the “Something went wrong” error. For instance, this issue could occur because of a small minority of corrupted images within a large batch. Thus, the error is less likely to happen if you reduce the number of images.
 
  So, don’t try to import all images on your iPhone. Try selecting to transfer a smaller number of photos you most want to view on your Windows PC. Then you can more easily identify problematic image files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Select the Import Pictures Context Menu Option
 
@@ -35,15 +43,12 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
 3. Then right-click your iPhone in Explorer’s left sidebar to select an**Import pictures and videos** option.  
 ![The Import pictures and videos option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/import-pictures-and-videos-option.jpg)
 4. Click the**Review** radio button in the Import Pictures window that opens.
-5. Select**Next** to review images.  
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Select**Next** to review images.  
 ![The Review option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/review-option.jpg)
 6. Choose some images to transfer and click the**Import** option.  
 ![The Import option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/import-option.jpg)
@@ -54,23 +59,13 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
 
 1. Open Services on Windows. See[how to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) if you need help.
 2. Then double-click**Apple Mobile Device Service** to bring up its properties window.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-window.jpg)
 3. Select**Automatic** if a different**Startup type** setting is set.
 4. Click**Stop** to halt the service.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Apple Mobile Device Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-mobile-device-properties-window.jpg)
 5. Select**Apply** to save settings and**OK** to exit.
 6. Click**Apple Mobile Device Service** with your right mouse button and select**Start** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable Hardware Acceleration in Photos
 
  The Windows 10 Photos app’s hardware acceleration feature can generate issues with importing images from an iPhone. This is how you can disable hardware acceleration in Windows 10’s legacy Photos app:
@@ -78,12 +73,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Open Photos from the Start menu.
 2. Click the**See more** (three-dot) menu button at the top right of Photos.
 3. Select the**Settings** menu option.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Settings menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/settings-option.jpg)
 4. Scroll down to and turn off the**Use hardware acceleration video encoding** when available setting.  
 ![Use hardware-accelerated video encoding option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/use-hardware-acceleration-setting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Select the "Keep Originals" Option on Your iPhone
 
@@ -96,16 +92,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If this resolution works, images will be imported in an original HEIC format, which isn’t universally compatible with Windows software. So, it’s recommended to convert the imported pictures to PNG or JPG. You can do so with the web apps included in our[how to convert HEIC files with online tools](https://www.makeuseof.com/convert-heic-files-tools/) guide.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## 6\. Repair and/or Reset the Photos App
 
  Photos is a UWP (Universal Windows Platform) app with**Repair** and**Reset** troubleshooting options you can select when it’s not working right. In this case, Photos isn’t working right because you can’t import iPhone images with it. So, selecting its**Repair** /**Reset** options could feasibly resolve that Photos issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![The Reset and Repair options for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-option.jpg)
 
  You can access both those Photos troubleshooting options as outlined in our[guide to resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) . The**Repair** button is directly above the**Reset** option. First, select**Repair** to see if that makes a difference. Click**Reset** to eradicate the app’s data if the**Repair** option doesn’t resolve the “Something went wrong” image import error.
@@ -117,46 +107,36 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Right-click the OneDrive icon in the system tray.
 2. Then click the**Help & Settings** button.
 3. Select**Quit OneDrive** to close the app.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![The Quit OneDrive option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/quit-onedrive-option.jpg)
 4. Open the Photos app and click the user account picture in it.
 5. Select the**Sign out** option.  
 ![The Sign out option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sign-out-option.jpg)
 6. Click**Sign out** again to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Try importing images with Photos again.
 
  Note that the instructions above are for the legacy Windows 10 Photos app. You can’t select to sign out of a user account in Windows 11’s default Photos app. In Windows 11’s Photos app, click**Settings** and turn off the**OneDrive – Personal** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Disable Microsoft Defender (or Other Antivirus Utility)
 
  Sometimes antivirus (security) tools can interfere with file importing from other devices. To ensure that doesn’t happen, temporarily disable antivirus utilities on your PC before attempting to import images. If you haven’t installed any security software,[disable Microsoft Defender Antivirus in Windows Security](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) by turning off that app’s real-time protection.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-option.jpg)
 
  If you have installed third-party security software, disable its antivirus shield. Avast, Kaspersky, Bit Defender, McAfee, Norton, and Avira all have system tray icons you can right-click to select settings that disable their shields. So, look for and select an option that disables your antivirus software on its context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Import Images From Your iPhone on Windows Again
 
  Many users have resolved the “Something went wrong” Photos error by applying some of the confirmed resolutions above. So, it’s most likely at least one of the above potential solutions will enable you to transfer images from your iPhone to Windows 10 or 11 PC again.
@@ -169,8 +149,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +156,18 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-smart-pricing-a-comprehensive-cloud-storage-analysis-for-2024/"><u>[New] Smart Pricing A Comprehensive Cloud Storage Analysis for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-off-facebook-activity-analysis-and-secure-browsing-practices-for-2024/"><u>[Updated] Off-Facebook Activity Analysis & Secure Browsing Practices for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-motion-tracking-apps-on-android-and-iphoneipad-for-2024/"><u>Best Motion Tracking Apps on Android and iPhone/iPad for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/erase-with-excellence-stellars-top-tier-mobile-erasing-for-mac-users/"><u>Erase with Excellence: Stellar's Top-Tier Mobile Erasing for Mac Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-methods-to-wi-fi-erase-on-windows-11/"><u>Essential Methods to Wi-Fi Erase on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-no-supported-device-for-windows-hello-login/"><u>Fixing 'No Supported Device' For Windows Hello Login</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-win11-like-a-pro-with-powerful-command-shortcuts/"><u>Navigate Win11 Like a Pro with Powerful Command Shortcuts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-honor-90-lite-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Honor 90 Lite.</u></a></li>
+<li><a href="https://article-posts.techidaily.com/remarkable-appraisal-and-other-recommendations-for-2024/"><u>Remarkable Appraisal & Other Recommendations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-debugging-made-easy-locating-and-resolving-error-codes-via-the-power-of-command-prompt/"><u>System Debugging Made Easy: Locating and Resolving Error Codes via the Power of Command Prompt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-non-viewable-files-in-outlook-2019-on-a-pc/"><u>Tackling Non-Viewable Files in Outlook 2019 on a PC</u></a></li>
+</ul></div>
 

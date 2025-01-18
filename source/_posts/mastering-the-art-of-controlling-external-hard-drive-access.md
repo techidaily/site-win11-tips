@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Controlling External Hard Drive Access
-date: 2024-08-08T11:04:00.579Z
-updated: 2024-08-09T11:04:00.579Z
+date: 2025-01-11T16:07:28.687Z
+updated: 2025-01-18T17:22:59.288Z
 tags:
   - windows10
   - windows11
@@ -21,21 +21,24 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  In this article, we’ll explore how you can prevent others from installing removable storage devices on Windows. That way, your device won't read any removable storage devices without your permission. Lastly, we’ll also show you how to allow others to install specific removable storage devices.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Prevent Others From Installing Any Removable Storage Devices
 
  Let's start by checking out how you can prevent others from installing any removable storage device into your PC. You can do this using either the Local Group Policy Editor or the Registry Editor.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Using the Local Group Policy Editor
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Local Group Policy Editor (LGPE) is a reliable tool for troubleshooting system errors. Interestingly, you can also use it for other tasks such as [preventing others from changing your Windows desktop background](https://www.makeuseof.com/stop-others-change-windows-desktop-background/).
 
@@ -46,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 3. Navigate to **Computer Configuration > Administrative Templates > System > Device Installation > Device Installation Restrictions**.
 4. Double-click on the **Prevent installation of removable devices** option on the right-hand side.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Clicking the prevent installation of removable devices option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-prevent-installation-of-removable-devices-option.jpg)
 
  Select **Enabled** on the next screen to prevent others from installing removable storage devices into your PC. Alternatively, select **Disabled** or **Not Configured** to restore the default settings.
@@ -57,11 +57,12 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  Struggling to access the LGPE on Windows Home? There are a few tricks you can apply to [access the LGPE on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/). But if that sounds complicated to you, then skip to the Registry Editor method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Using the Registry Editor
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
  The Registry Editor is another reliable tool you can use for tweaking system settings and troubleshooting PC issues.
@@ -82,9 +83,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 2. Right-click on the **DeviceInstall** key and select **New > Key**. Next, name the key as **Restrictions** and press **Enter**.
 3. Click the **Restrictions** folder, right-click on a blank space on the right, and then select **New > DWORD (32-bit) Value**. From there, name the value as **DenyRemovableDevices** and press **Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clicking the DenyRemovableDevices value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-DenyRemovableDevices-value.jpg)
 
  Now, follow these steps:
@@ -93,18 +91,19 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 2. Set the **Value data** as **1** and then press **OK** to prevent others from installing storage devices into your PC. Alternatively, set the **Value data** as **0** and press **OK** to allow others to install removable storage devices on your PC.
 3. Close the Registry Editor and restart your device to save these changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Prevent Others From Installing Specific Removable Storage Devices
 
  In some instances, you might want to prevent others from installing specific removable storage devices. So, let’s show you how you can do that using either the LGPE or the Registry Editor.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,4 +112,21 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-smoothshot-stabilizing-technology-on-the-move/"><u>[New] In 2024, SmoothShot Stabilizing Technology on the Move</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unlock-your-live-feed-free-cam-recording-and-top-picks/"><u>[New] In 2024, Unlock Your Live Feed Free Cam Recording & Top Picks</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-elevate-your-virtual-presence-choose-from-these-7-devices-for-2024/"><u>[Updated] Elevate Your Virtual Presence Choose From These 7 Devices for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-step-by-step-approach-to-capturing-and-editing-in-adobe-connect/"><u>[Updated] Step-by-Step Approach to Capturing and Editing in Adobe Connect</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/audio-modification-methods-for-youtube-stars-for-2024/"><u>Best Audio Modification Methods for YouTube Stars for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/elevate-your-visuals-with-yl-softwares-exclusive-shield-knight-series-background-images/"><u>Elevate Your Visuals with YL Software's Exclusive Shield Knight Series Background Images!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-make-your-steam-library-auto-synchronize-properly/"><u>How to Make Your Steam Library Auto-Synchronize Properly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-to-your-stuck-or-dead-shift-key-fail-proof-methods/"><u>How to Restore Functionality to Your Stuck or Dead Shift Key (FAIL-PROOF Methods)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-screen-times-best-and-worst-app-reviews/"><u>In 2024, Screen Time's Best and Worst App Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-windows-calculator-app-less-bright/"><u>Make Windows Calculator App Less Bright</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-interface-woes-top-5-windows-correction-tips/"><u>Mastering Interface Woes: Top 5 Windows Correction Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-laptop-compatibility-hurdles-get-your-usb-mouse-working-now/"><u>Overcoming Laptop Compatibility Hurdles – Get Your USB Mouse Working Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-qbittorrent-status-in-windows-woes/"><u>Reviving Your qBittorrent Status in Windows Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyline-beyond-100mbps-cap-elevating-windows-networks/"><u>Skyline Beyond 100Mbps Cap: Elevating Windows Networks</u></a></li>
+</ul></div>
 

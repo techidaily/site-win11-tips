@@ -1,7 +1,7 @@
 ---
 title: "Maximizing PIN Security: Windows 11 Pin Length Enhancement"
-date: 2025-01-08T23:55:36.693Z
-updated: 2025-01-12T22:15:12.726Z
+date: 2025-01-17T16:35:55.816Z
+updated: 2025-01-18T18:14:47.029Z
 tags:
   - windows10
   - windows11
@@ -37,16 +37,16 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-key-options3.jpg)
 5. Type **PassportForWork** in the new key’s text box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Next, right-click on the **PassportForWork** key to select the **New** and **Key** options on Registry Editor’s context menu.
 2. Enter **PINComplexity** inside the key’s text box to set that name.
 3. Right-click the **PINComplexity** key to select **New** \> **DWORD (32-bit) Value**.
 4. Enter **MinimumPINLength** in the DWORD text box.  
 ![The MinimumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-dword.jpg)
 5. Double-click the new **MinimumPINLength** DWORD you’ve created.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Select the **Decimal** option.
 2. Then input a number higher than four in the **Value data** box and click **OK**. The value you enter there will be the new minimum character length for the Windows Hello PIN.  
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 5. Double-click **MaximumPINLength** to view the **Value box** for that DWORD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click on the **Decimal** radio button.
@@ -66,15 +66,19 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 ![The Edit DWORD window for the MaximumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window-for-maximum-pin-length.jpg)
 8. Finally, exit the Registry Editor window and restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you’ll see an “organization requires that you change your PIN message” when you try to sign in with the PIN usually entered. Click **OK** to view some options for setting a new PIN. Then input a longer identification number with the minimum number of characters required inside the **New** and **Confirm** PIN boxes.
 
 ![The change your PIN message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sign-in-message.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Extend the PIN Length With Group Policy Editor
 
@@ -87,17 +91,9 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Then input a higher value in the **Minimum PIN Length** box.  
 ![The Minimum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg)
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Extend Your Windows PIN to Make It More Secure
 
@@ -124,16 +124,15 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/r-beasts-wealth-estimated-net-worth-for-2024/"><u>[New] Mr. Beast's Wealth Estimated Net Worth for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/android-linking-to-windows-shared-drives/"><u>Android Linking to Windows Shared Drives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banishing-yellow-shade-from-laptop-panels/"><u>Banishing Yellow Shade From Laptop Panels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boltgun-playtime-maximized-overcoming-computer-delays-in-warhammer-40k/"><u>Boltgun Playtime Maximized: Overcoming Computer Delays in Warhammer 40K</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-productivity-by-mastering-task-management-on-a-windows-11-pc/"><u>Boost Productivity by Mastering Task Management on a Windows 11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-typing-copy-pasting-expertise/"><u>Boost Your Typing, Copy-Pasting Expertise</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/comment-contourner-les-restrictions-de-fichier-dans-le-systeme-dexploitation-windows-11-guide-complet/"><u>Comment Contourner Les Restrictions De Fichier Dans Le Système D'Exploitation Windows 11: Guide Complet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-review-high-performance-fugetek-ft-568-selfie-stick-for-social-media-enthusiasts/"><u>In-Depth Review: High-Performance Fugetek FT-568 Selfie Stick for Social Media Enthusiasts</u></a></li>
-<li><a href="https://techidaily.com/1723808210693-maintenance-therapy-typically-involves-lower-doses-of-steroids-with-azathioprine-or-continued-use-of-mycophenolate-mofetil-to-prevent-relapses/"><u>Maintenance Therapy Typically Involves Lower Doses of Steroids with Azathioprine or Continued Use of Mycophenolate Mofetil to Prevent Relapses.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mcdonalds-unveils-exclusive-perks-delighting-select-patrons-insights-from-zdnet/"><u>McDonald's Unveils Exclusive Perks, Delighting Select Patrons - Insights From ZDNet</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/sicheres-kopieren-ihrer-1tb-festplatte-auf-eine-schnellere-500gb-solid-state-drive-bootvorgange-erklart/"><u>Sicheres Kopieren Ihrer 1TB Festplatte Auf Eine Schnellere 500GB Solid State Drive - Bootvorgänge Erklärt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-the-windows-fatal-blue-screen-error-0x8007007e/"><u>Clearing Up the Windows Fatal Blue Screen Error: 0X8007007E</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-amazon-kindle-paperwhite-review-your-ultimate-reading-companion/"><u>Comprehensive Amazon Kindle Paperwhite Review - Your Ultimate Reading Companion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deconstructing-mmc-glitches-resolving-snap-in-crashes/"><u>Deconstructing MMC Glitches: Resolving Snap-In Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-routes-to-activate-windows-11s-calculator/"><u>Efficient Routes to Activate Windows 11'S Calculator</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x100-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo X100 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-poco-c50-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Poco C50 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/lenovo-thinkpad-x1-titanium-yoga-review-a-2-in-1-for-thinkpad-superfans/"><u>Lenovo ThinkPad X1 Titanium Yoga Review: A 2-in-1 For ThinkPad Superfans</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/masterclass-review-the-mavix-m9-your-key-to-effortless-hours-of-gaming-comfort/"><u>Masterclass Review: The Mavix M9 - Your Key to Effortless Hours of Gaming Comfort</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-based-thx-audio-glitches/"><u>Overcoming Windows-Based THX Audio Glitches</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-3gp-video-editing-rotate-flip-and-more-with-these-top-tools-for-2024/"><u>Updated Free 3GP Video Editing Rotate, Flip, and More with These Top Tools for 2024</u></a></li>
 </ul></div>
 

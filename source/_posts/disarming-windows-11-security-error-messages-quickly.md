@@ -1,7 +1,7 @@
 ---
 title: Disarming Windows 11 Security Error Messages Quickly
-date: 2025-01-08T00:24:27.363Z
-updated: 2025-01-12T18:54:07.914Z
+date: 2025-01-11T17:26:04.611Z
+updated: 2025-01-18T16:20:25.131Z
 tags:
   - windows10
   - windows11
@@ -38,22 +38,22 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-sfc-scannow-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s also recommended to run a Deployment Image Servicing and Management scan, which can resolve Windows system image issues. The System File Checker tool doesn’t work when there are issues with the system image. So, try executing this command before the SFC scan as well:
 
 `Dism /Online /Cleanup-Image /RestoreHealth`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Remove Third-Party Antivirus Software
 
  Do you have an alternative third-party antivirus tool installed on your PC? If so, then there’s a possibility that antivirus software is causing the issue by conflicting with Microsoft Defender. At least try turning off the third-party AV utility by right-clicking the system tray icon for the app and selecting a disable context menu setting.
 
  If disabling the third-party antivirus software works, you have two options. You can re-enable that antivirus software and utilize the alternative antivirus scanner it provides. Or you can completely uninstall the third-party antivirus software if you prefer Microsoft Defender. Our guide to removing Windows software includes numerous methods for uninstalling programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Modify the Windows Defender Registry Key
 
@@ -71,11 +71,7 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
 7. Select**OK** to confirm the value for the DWORD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Security App
@@ -83,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
  Resetting Windows Security is worth trying whenever that app isn’t working right. In this case, something is up with the antivirus component of that app. You can reset that app within Settings or by executing a PowerShell command. Our article about[resetting Windows Security](https://www.makeuseof.com/windows-11-reset-windows-security/) tells you how to apply this potential resolution in three different ways.
 
 ![The Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Run a Malwarebytes Scan
 
@@ -97,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-button-for-malwarebytes.jpg)
 7. Select**Me or my family** (for personal use) at the production selection step and click**Next** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Click**Skip this for now** if you prefer not to install the additional Malwarebytes Browser Guard software.  
 ![The Skip this for now option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/skip-this-for-now-option.jpg)
 9. Select**Done** to finish.
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
 12. Select Malwarebytes’**Scan** option.  
 ![The Scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-option.jpg)
 13. Press the**Quarantine** button after the scan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this potential resolution works, you can keep Malwarebytes installed for manual scanning. It’s a 14-day trial of the Premium version, and the real-time protection will only last a couple of weeks. However, you can disable the Malwarebytes protection to ensure it doesn’t conflict with Microsoft Defender by right-clicking the utility’s system tray icon and deselecting the**Malware** ,**Ransomware** ,**Exploit** , and**Web Protection** options.
 
@@ -130,11 +130,11 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
 5. Select the policy’s**Apply** and**OK** options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Windows or Perform an In-Place Upgrade
@@ -168,19 +168,24 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-building-bonds-youtube-and-brands-in-unity-for-2024/"><u>[Updated] Building Bonds YouTube and Brands in Unity for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-snapseed-starters-handbook-for-photo-editing/"><u>[Updated] The Snapseed Starter's Handbook for Photo Editing</u></a></li>
-<li><a href="https://facebook.techidaily.com/behind-the-screen-unveiling-five-pivotal-user-disappointments-in-facebook/"><u>Behind the Screen: Unveiling Five Pivotal User Disappointments in Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-through-loading-barriers-on-league-of-legends/"><u>Breaking Through Loading Barriers on League of Legends</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-through-the-grayed-out-memory-barrier-in-win11/"><u>Breaking Through the Grayed-Out Memory Barrier in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breakthrough-techniques-for-selecting-text-in-windows-pdfs/"><u>Breakthrough Techniques for Selecting Text in Windows PDFs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breathe-new-life-into-your-windows-audio-system-with-updates/"><u>Breathe New Life Into Your Windows Audio System with Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-xbox-games-access-issue-code-0x800700e9-in-windows/"><u>Bypassing Xbox Games Access Issue Code 0X800700E9 in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/capture-your-thoughts-no-additional-software-needed/"><u>Capture Your Thoughts, No Additional Software Needed</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-upgrades-tips-and-tricks-from-the-experts-at-toms-hardware/"><u>Master Your PC Upgrades: Tips & Tricks From the Experts at Tom's Hardware</u></a></li>
-<li><a href="https://discover-able.techidaily.com/preventing-malware-and-speed-issues-expert-advice-for-keeping-your-computer-fast-yl-software-solutions/"><u>Preventing Malware and Speed Issues: Expert Advice for Keeping Your Computer Fast - YL Software Solutions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/scripting-an-emotionally-charged-trailer-draft/"><u>Scripting an Emotionally Charged Trailer Draft</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-many-are-regretting-the-switch-to-iphone-on-ios-18-insights-and-discussions-zdnet/"><u>Why Many Are Regretting the Switch to iPhone on iOS 18 - Insights and Discussions | ZDNet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-pitch-perfect-techniques-for-integrating-tunes-into-vimeo-videos/"><u>[New] Pitch Perfect Techniques for Integrating Tunes Into Vimeo Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-of-mov-files-to-vob-format-move-itcom/"><u>Free Online Conversion of MOV Files to VOB Format - Move-it.com</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-transform-files-effortlessly-upload-convert-aiff-to-wmv-with-movavi-for-free/"><u>How to Transform Files Effortlessly: Upload, Convert AIFF to WMV with Movavi for FREE!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-asus-rog-phone-7-ultimate-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-nokia-c300-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nokia C300 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-gt-3-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme GT 3 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-a58-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo A58 4G Location | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/les-12-maitres-du-montage-video-en-haute-volee-en-2024-decouvrez-avec-movavi/"><u>Les 12 Maîtres Du Montage Vidéo en Haute Volée en 2024 - Découvrez Avec Movavi</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mastering-fast-video-filming-on-tiktok/"><u>Mastering Fast Video Filming on TikTok</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-video-flip-tutorial-quick-and-easy-methods/"><u>New In 2024, The Ultimate Video Flip Tutorial Quick and Easy Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-cost-web-based-aiffaac-audio-format-changeover-movavi-converter/"><u>No-Cost Web-Based Aiff/Aac Audio Format Changeover - Movavi Converter</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamlessly-convert-your-dvds-and-videos-discover-the-ideal-output-settings-and-compatible-playback-devices/"><u>Seamlessly Convert Your DVDs and Videos: Discover the Ideal Output Settings & Compatible Playback Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforma-su-contenido-flash-al-formato-mp4-por-internet-sin-gastos-guia-paso-a-paso-solucion-gratuita-de-movavi/"><u>Transforma Su Contenido Flash Al Formato MP4 Por Internet Sin Gastos, Guía Paso a Paso - Solución Gratuita De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformation-gratuit-du-format-audio-fichier-opus-a-mp3-sur-movavi/"><u>Transformation Gratuit Du Format Audio : Fichier OPUS À MP3 Sur Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wav-mp3ogg-movavi/"><u>WAV 파일을 쉽게 MP3/OGG로 전환하세요: Movavi의 공식 오픈소스</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726221843560-3g2-mp4-movavi/"><u>구독 없이 3G2 파일을 무료 MP4 형식으로 전환하는 - Movavi 소프트웨어</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/iuycroynhcdtjrjsp5eg7zse66gc7is47iqkoidrsjjsnzhtmjug67cw6rk97j2eioycroyaqe2vncdsojxqtzdtlzwg66as66plus47yq4iouwqeuylsi/"><u>사진 편집 프로세스: 반응형 배경을 사용한 정교한 리미트 방법</u></a></li>
 </ul></div>
 

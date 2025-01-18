@@ -1,7 +1,7 @@
 ---
 title: "Questioning Reality: My Odyssey to Disable App Guard's Limitations"
-date: 2025-01-11T19:23:43.379Z
-updated: 2025-01-12T21:12:26.063Z
+date: 2025-01-17T18:24:27.744Z
+updated: 2025-01-18T16:24:18.472Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Enable the Camera and Microphone via Windows Settings
@@ -43,16 +43,12 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 7. If the UAC prompt appears, click**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you perform the above action, restart your computer for the changes to take effect. Upon restarting, all your camera and microphone settings should now be applied to the Application Guard for Edge.
 
  In case you need to turn off the feature again, just follow the same steps and toggle the Camera and microphone option to Off. That’s all there is to it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Enable the Camera and Microphone Using Registry Editor
 
@@ -73,7 +69,7 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 6. Right-click on Hvsi, choose**New > DWORD (32-bit) Value** , then name it**EnableCameraMicrophoneRedirection** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Now double-click on the newly created DWORD key, and you will see a pop-up window appear.
@@ -81,12 +77,16 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 ![Enable Camera and Microphone in Application Guard Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-camera-and-microphone-in-application-guard-using-registry-editor.jpg)
 9. Then click**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you've done editing the registry, restart your computer to apply the changes. After restarting, Edge's Application Guard will be able to access your camera and microphone hardware for websites that require it.
 
  If you want to revert the changes, simply set the EnableCameraMicrophoneRedirection key’s value back to**0** and restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Your Camera and Mic Is Now Supported in Edge Application Guard
@@ -108,16 +108,19 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-leading-terraria-adjustments-and-tweaks-for-2024/"><u>[New] Leading Terraria Adjustments and Tweaks for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pinning-down-content-5-superior-free-video-downloader-tools/"><u>[Updated] Pinning Down Content 5 Superior Free Video Downloader Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-secrets-the-fastest-ways-to-uncover-windows-11s-credential-manager/"><u>Accessing Secrets: The Fastest Ways to Uncover Windows 11'S Credential Manager</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-windows-10-and-11s-phishing-protection-settings/"><u>Adjusting Windows 10 & 11'S Phishing Protection Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/artificial-intelligence-windows-future-trailblazer/"><u>Artificial Intelligence: Windows' Future Trailblazer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-practices-unveiled-supercharge-wsl-2-with-windows-dev-tools/"><u>Best Practices Unveiled: Supercharge WSL 2 with Windows Dev Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beyond-boundaries-artificinas-intelligence-in-windows-11/"><u>Beyond Boundaries: Artificinas Intelligence in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/say-hello-say-goodbye-w-chatgpt/"><u>Say Hello, Say Goodbye W/ ChatGPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-stabilizing-age-of-wonders-planetfall-resolving-pc-crash-issues/"><u>Ultimate Guide to Stabilizing Age of Wonders: Planetfall - Resolving PC Crash Issues</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/upgrade-your-videos-best-free-online-quality-improvers/"><u>Upgrade Your Videos Best Free Online Quality Improvers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unlocking-youtube-on-facebook-feeds-for-2024/"><u>[New] Unlocking YouTube on Facebook Feeds for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-free-visual-treasury-select-10-sites-included/"><u>[Updated] 2024 Approved Free Visual Treasury – Select 10 Sites Included</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-4k-gaming-laptops-unleash-game-potential/"><u>[Updated] Best 4K Gaming Laptops - Unleash Game Potential</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-elite-list-of-best-videocall-services-without-cost/"><u>2024 Approved Elite List of Best Videocall Services Without Cost</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-loading-endlessly-problem-tips-to-get-cold-war-running-smoothly-on-console-and-pc/"><u>Beat the 'Loading Endlessly' Problem - Tips to Get Cold War Running Smoothly on Console & PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-flying-toys-for-kids-and-family-fun/"><u>Best Flying Toys for Kids & Family Fun</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/como-clonar-rapida-y-sencillamente-tu-disco-duro-hdd-en-una-nueva-unidad-ssd-tutorial-en-video/"><u>Cómo Clonar Rápida Y Sencillamente Tu Disco Duro HDD en Una Nueva Unidad SSD - Tutorial en Vídeo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-workspace-aesthetics-animated-backdrops-for-windows-11/"><u>Elevate Workspace Aesthetics: Animated Backdrops for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-domain-users-through-windows-11-biometrics/"><u>Guiding Domain Users Through Windows 11 Biometrics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-common-print-problems-related-to-ad-ds-on-windows-oses/"><u>Handling Common Print Problems Related to AD DS on Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-current-windows-password-error-in-win11win11/"><u>How to Fix 'Current Windows Password' Error in Win11/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-pc-security-by-tackling-pin-troubles-in-win10win11/"><u>Streamline Your PC Security by Tackling Pin Troubles in Win10/Win11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-method-to-integrate-flv-content-on-youtube/"><u>The Ultimate Method to Integrate FLV Content on YouTube</u></a></li>
 </ul></div>
 

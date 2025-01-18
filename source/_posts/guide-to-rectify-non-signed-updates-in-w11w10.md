@@ -1,7 +1,7 @@
 ---
 title: Guide to Rectify Non-Signed Updates in W11/W10
-date: 2024-08-08T11:02:31.369Z
-updated: 2024-08-09T11:02:31.369Z
+date: 2025-01-16T17:02:01.943Z
+updated: 2025-01-18T18:17:22.023Z
 tags:
   - windows10
   - windows11
@@ -46,11 +46,13 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 2. Enter the search phrase "services" to find the app with a matching title.
 3. Click on **Services** inside the search results.
 4. Double-click **Windows Update** to access settings for that service.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/services-window.jpg)
 5. Set the **Startup type** setting to the **Automatic** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/startup-type-drop-down-menu.jpg)
 6. Click **Start** (inside the properties windows) to run the Windows Update service.
 7. Save the settings by pressing the **Apply** and **OK** buttons.
@@ -61,33 +63,28 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 
  If you find both services to be already enabled and running, try restarting them. You can do so by right-clicking the BITS and Windows Update service names and selecting a **Restart** option on their context menus.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reset Components for Windows Updates
 
  Resetting components for Windows updates will completely refresh the catroot2 and SoftwareDistribution folders, which store update data. This troubleshooting method also reregisters all DLL files for important update services. Applying such a potential resolution can fix corrupted components causing error 0x800b0109\.
 
  To apply this possible error 0x800b0109 resolution, check out our article on [resetting Windows update components](https://www.makeuseof.com/reset-windows-update-components/). That guide includes a command-line and batch file method. Creating and running a batch file is the quicker and more straightforward way to reset Windows update components.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Deactivate Third-Party Security Software
 
  A third-party security (antivirus) app can potentially conflict with Windows update processes. This can happen when the antivirus protection of a security app locks files needed by Windows Update. It’s not something that happens often, but temporarily disable any third-party antivirus protection on your PC just in case.
 
  Security apps typically include options for disabling antivirus protection on their system tray context menus. Right-click your security app’s icon in Windows 11’s system tray area to find and select its option for temporarily disabling the antivirus shield. Then, return to the Settings app to see if error 0x800b0109 still happens with the antivirus shield disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Erase the Windows Update Key
 
  Deleting the Windows Update registry key is a potential resolution some users confirm to fix error 0x800b0109\. However, we always recommend [backing up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) or saving a system restoration point before deleting registry keys.
@@ -103,11 +100,12 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 5. Click **Yes** when prompted for confirmation to delete the key.  
 ![The Confirm Key Delete prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-key-confirmation-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Thereafter, it’s also recommended to restart the Windows Update and BITS services. To do so, open Services as covered in the first three steps of resolution three. Then, select the **Restart** context menu options for Windows Update and BITS.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Try Downloading the Failed Update From Microsoft Update Catalog
 
  If error 0x800b0109 still isn’t fixed after applying the potential resolutions above, try going around it by manually downloading the affected update from [Microsoft Update Catalog](https://www.catalog.update.microsoft.com/Home.aspx). Then, you can install the update with an MSU file downloaded from there.
@@ -117,13 +115,14 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 1. Simultaneously press your keyboard’s **Windows** logo + **I** keys to access Settings.
 2. Click **Windows Update** (or **Update & Security**) in Settings.
 3. Select **Update history** to view installed and failed updates.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The update history in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-history4.jpg)
 4. Note down the KB code for your recently failed Windows update.
 
  Then, you can find and download that failed update on the Microsoft Update Catalog website. This article about [updating Windows manually](https://www.makeuseof.com/update-windows-manually/) includes instructions for utilizing the Microsoft Update Catalog.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Apply an In-Place Windows Upgrade
 
@@ -131,14 +130,12 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 
  The good thing about an in-place upgrade is that it won’t eradicate your installed software or user files. This [how-to perform an in-place upgrade](https://www.makeuseof.com/in-place-upgrade-windows-11/) guide tells you how to apply this potential solution for Windows 11\. The steps are quite similar for Windows 10, but you’ll need to download its ISO with the Media Creation Tool available on this [Microsoft page](https://www.microsoft.com/en-gb/software-download/windows10).
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Windows 10 Media Creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-10-setup-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Windows Updated Again
 
  There isn’t a surefire way to fix error 0x800b0109 since there are varied possible reasons for that Windows 11/10 issue occurring. However, it’s likely at least one of the eight potential resolutions in this guide will fix that update issue on your PC.
@@ -147,11 +144,27 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 
  Windows updates fail to install when this issue occurs. This error usually includes either a 0x800b0109 or 0x800b0100 code after its message. This is how you can resolve the “Some update files aren’t signed” error 0x800b0109 on a Windows 11/10 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-step-into-the-world-of-high-quality-lenovo-screen-recordings/"><u>[New] 2024 Approved Step Into the World of High-Quality Lenovo Screen Recordings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-pixizs-tools-for-photo-video-craftsmanship/"><u>2024 Approved Navigating Pixiz's Tools for Photo-Video Craftsmanship</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-z-flip-5-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy Z Flip 5 without App | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-google-lock-screen-password-by-drfone-android/"><u>How to Reset your Google Lock Screen Password</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/leading-jpeg-picture-restoration-programs-compatible-with-windows-10-systems/"><u>Leading JPEG Picture Restoration Programs Compatible with Windows 10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/linguistic-harmony-installing-fonts-for-all-windows-users/"><u>Linguistic Harmony: Installing Fonts for All Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstructed-operations-by-windows-security/"><u>Overcoming Obstructed Operations by Windows Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-upgrade-rejected-error-messages/"><u>Overcoming Windows Upgrade Rejected Error Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-low-performance-pcs-overcoming-intel-hd-graphics-issues/"><u>Resolving Low-Performance PCs: Overcoming Intel HD Graphics Issues</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/step-by-step-guide-watching-dvds-on-mac-windows-and-ios-devices/"><u>Step-by-Step Guide: Watching DVDs on Mac, Windows & iOS Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-windows-11-in-place-update-mastery/"><u>Step-by-Step Windows 11, In-Place Update Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-device-functions-in-windows-11s-edge-guards/"><u>Unlocking Device Functions in Windows 11'S Edge Guards</u></a></li>
+</ul></div>
+

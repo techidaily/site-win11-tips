@@ -1,7 +1,7 @@
 ---
 title: "Desk Dilemmas: Taming the Pink & Purple on Your Screen"
-date: 2024-08-08T10:59:48.265Z
-updated: 2024-08-09T10:59:48.265Z
+date: 2025-01-17T17:51:42.656Z
+updated: 2025-01-18T16:21:52.363Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 
  In some cases, restarting your Windows device could help. Perform any one of the many[ways to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) and see if that fixes this.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## 2\. Restart File Explorer
 
  The issue at hand might be caused by a faulty app on your device. Now, a quick solution here would be to close a few active programs and restart the File Explorer.
@@ -46,9 +43,9 @@ Let’s take a look at the steps for restarting File Explorer:
 ![Restarting the Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Restarting-the-Windows-File-Explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disable the Color Filters
 
  The "desktop color" issue might also be caused by the way you’ve configured the color filters on your device.
@@ -77,6 +74,10 @@ To get rid of the problem, follow these steps:
 
 ![Turning off the Night light button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Night-light-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, follow these steps if you want to tweak some additional night light settings:
 
 1. Navigate to the**Display settings** window as per the previous steps.
@@ -87,8 +88,9 @@ To get rid of the problem, follow these steps:
 ![Adjusting the Night light colors strength](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Adjusting-the-Night-light-colors-strength.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Update or Reinstall the Windows Display Drivers
 
  In some instances, the “desktop color” issue might be caused by corrupted or incompatible display drivers. Now, an easy way out in this case is to either update or reinstall these drivers.
@@ -112,13 +114,11 @@ Let’s first check out how you can update the display drivers:
 5. Restart your PC to apply these changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Use the Built-In Windows Troubleshooters
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![A person using a Windows computer on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-computer-on-a-brown-desk.jpg)
 
  Still struggling to resolve the "desktop color" issue? The Windows built-in troubleshooters could help! However, you should pick a relevant troubleshooter depending on the nature of the problem.
@@ -134,10 +134,11 @@ Let’s first check out how you can update the display drivers:
 5. Click the**Hardware and Devices troubleshooter** and then press the**Run the troubleshooter** button.
 6. Follow the on-screen instructions and then restart your PC to save these changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Running the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-Hardware-and-Devices-Troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the issue persists, run the System Maintenance troubleshooter through these steps:
 
@@ -161,14 +162,12 @@ Here are the steps you need to follow:
 5. Select**Scan options** on the next screen.
 6. Choose your preferred scan option and then press the**Scan now** button.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scanning a PC with the Windows Security tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/Scanning-a-PC-with-the-Windows-Security-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Use a System Restore Point
 
  Did you start experiencing the “desktop color” issue recently? If so, then you could tackle the problem by using a system restore point.
@@ -184,28 +183,23 @@ Here are the steps you need to follow:
 3. Select**Show more restore points** and then pick your preferred restore point.
 4. Click**Next** , click**Finish** , and then wait for the process to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Using a Restore Point on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Using-a-Restore-Point-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Say Goodbye to Strange Windows Desktop Colors
 
  It’s really irritating when your Windows desktop suddenly turns pink or purple. But lucky for you, we’ve covered all the solutions that can help you tackle this problem.
 
  Want to quickly access the Windows desktop? There are a lot of different methods you can try to quickly bring up all your shortcuts, no matter how many windows you have open.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -214,4 +208,24 @@ Here are the steps you need to follow:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-elevate-your-channels-visibility-through-proven-methods/"><u>[Updated] 2024 Approved Elevate Your Channels Visibility Through Proven Methods</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-screensavers-supreme-mastering-the-art-of-twitvid-archiving/"><u>[Updated] 2024 Approved ScreenSavers Supreme Mastering the Art of TwitVid Archiving</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-study-aids-top-10-educational-history-channels/"><u>[Updated] 2024 Approved Study Aids Top 10 Educational History Channels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-affordable-asmr-capturing-selecting-premium-gear-for-budget-conscious-users/"><u>[Updated] Affordable ASMR Capturing Selecting Premium Gear for Budget-Conscious Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-infinix-hot-30i-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-creative-power-for-youtube-intros-in-imovie/"><u>2024 Approved Unlocking Creative Power for YouTube Intros in iMovie</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-balancing-video-quality-and-adsense-revenue/"><u>In 2024, The Art of Balancing Video Quality & AdSense Revenue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keysfan-annual-lowest-price-on-black-friday-lifetime-windows-10-starts-from-612/"><u>Keysfan Annual Lowest Price on Black Friday! Lifetime Windows 10 Starts From $6.12</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-sfc-verification-for-windows-files/"><u>Launching SFC Verification for Windows Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-wsl2-android-resources-efficiently/"><u>Maximizing WSL2 Android Resources Efficiently</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-poco-x6-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Poco X6 and Browser | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-repetitive-microsoft-edge-symbols/"><u>Removing Repetitive Microsoft Edge Symbols</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-microphone-controls-and-shortcuts-for-win-11/"><u>The Ultimate Guide to Microphone Controls & Shortcuts for Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-pc-interface-embrace-smart-wmlayouts/"><u>Transform PC Interface: Embrace Smart WMLayouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-pcs-linking-retro-games-with-windows-photos/"><u>Upgrading PCs: Linking Retro Games with Windows Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-uac-snapshot-tutorial/"><u>Windows UAC Snapshot Tutorial</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tailoring Sound on Win11 via Created Keyboard Actions
-date: 2025-01-10T16:19:56.026Z
-updated: 2025-01-12T18:05:12.580Z
+date: 2025-01-12T18:33:22.069Z
+updated: 2025-01-18T16:38:13.456Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Download and Extract NirCmd
@@ -42,16 +42,12 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 ![The Extract all button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/extract-all-button2.png)
 5. Select the **Browse** option to choose an extraction path.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click the **Show extracted files when complete** checkbox to select it.  
 ![The Extract compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/extract-compressed-window.png)
 7. Press the **Extract** button to [extract the ZIP archive in Windows](https://www.makeuseof.com/how-to-extract-zip-files-windows-11/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up a Mute Hotkey
@@ -68,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 6. Then press **Space** key once after the NirCmd path, and enter **mutesysvolume 2** in the location box as shown directly below. The location box should then include: **“NirCmd folder path\\nircmd.exe” mutesysvolume 2**.  
 ![The mutesysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/mutesysvolume-command.png)
 7. Click **Next** to continue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Enter **Mute** in the shortcut name box, and select the **Finish** option.
 
@@ -92,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 ![The Change icon window and Mute desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/change-icon-window.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up a Hotkey for Maximizing Volume
@@ -100,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
  Aside from a mute hotkey, you can [set up a keyboard shortcut](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) for maximizing volume. If you want a hotkey to max out volume (just don’t disturb the neighbors), you can create one with NirCmd’s **setsysvolume 65535** command. You can establish a max volume desktop shortcut much the same as a mute one with the Create Shortcut tool. The only difference is that you’ll need to input this command in the location box instead: **“NirCmd folder path\\nircmd.exe” setsysvolume 65535**.
 
 ![The setsysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/setsysvolcommand.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The 65,535 in that command is NirCmd’s maximum decibel value. Clicking your new maximum audio desktop shortcut will max out playback volume. Thereafter, you can apply a hotkey to the max volume desktop shortcut just the same as for the mute one.
 
@@ -116,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
  Note that you can change the unit values in those commands. To configure a shortcut to increase volume more, for example, you could input **changesysvolume 5000** in the location box instead. Or enter **changesysvolume -10000** to decrease the decibel level by twice as much. However, all values must be below the maximum of 65,535\.
 
  When you’ve set up some desktop shortcuts for increasing and reducing volume, right-click them and select **Properties**. You can add new hotkeys to them with their **Shortcut key** boxes as outlined for the mute command. Then press the NirCmd volume up and down hotkeys to your heart’s content to increase and lower the decibel level.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up Custom Volume Control Hotkeys for a Specific App
 
@@ -134,6 +134,10 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 ![The Hotkeys tab in Volume Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hotkeys-tab.jpg)
 5. Select the **Volume** **up** checkbox and repeat the previous step to set a hotkey for raising the volume.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Then select **Toggle Mute** and repeat step nine to set a keyboard shortcut for muting the volume.
 2. Now open a program to assign the hotkeys to. A web browser or media player from which you can play music and videos would be ideal.
 3. Click the **Mixer** tab to view a list of open apps.  
@@ -145,10 +149,6 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
  Try out the custom volume hotkeys you’ve set for the software. Play a video within your software if you can. Press the keyboard shortcuts you’ve assigned to the app to raise, lower, and mute its volume. Those hotkeys will only affect the app’s volume level and won’t change the general system sound beyond it. The Volume bar within the **Mixer** tab shows you the audio level for the software.
 
 ![A YouTube video in the Opera browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-youtube-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also create new volume control hotkeys from scratch with Volume Control. To do so, select the **Advanced Hotkeys** checkbox on the **Settings** tab. Then you’ll see a **Create New Hotkey** button on the **Hotkeys** tab you can press to set up new keyboard shortcuts. You can select options on an **Action** drop-down menu with advanced hotkeys enabled.
 
@@ -170,19 +170,24 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/rom-free-to-focused-financial-goals-the-journey-of-ajays-youtube-success/"><u>[New] From Free to Focused Financial Goals The Journey of Ajay’s Youtube Success</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-how-to-utilize-legal-free-clip-art-resources/"><u>[New] In 2024, How to Utilize Legal, Free Clip-Art Resources</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-lightning-windows-image-inspector/"><u>[Updated] 2024 Approved Lightning Windows Image Inspector</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-browsing-navigating-multi-screen-views-in-chrome/"><u>2024 Approved Streamlined Browsing Navigating Multi-Screen Views in Chrome</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breached-bitlocker-hold-firm-on-current-security/"><u>Breached BitLocker: Hold Firm on Current Security</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridge-the-gap-addressing-continuous-ps4-controller-disconnection/"><u>Bridge the Gap: Addressing Continuous PS4 Controller Disconnection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-tasks-and-power-in-win11-shortcut-setup/"><u>Bridging Tasks & Power in Win11 Shortcut Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bringing-back-original-settings-to-windows-11-touch-panel/"><u>Bringing Back Original Settings to Windows 11 Touch Panel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-server-slips-resolving-ms-store-failures-in-1011/"><u>Bypassing Server Slips: Resolving MS Store Failures in 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-win-11s-inbuilt-mobility-control/"><u>Bypassing Win 11'S Inbuilt Mobility Control</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014828616-clear-audio-happy-ears-troubleshoot-your-crackling-headphones-with-these-quick-fixes/"><u>Clear Audio, Happy Ears: Troubleshoot Your Crackling Headphones with These Quick Fixes!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-crucial-steps-in-archiving-lol-matchups/"><u>In 2024, Crucial Steps in Archiving LOL Matchups</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ubisoft-fan-guide-how-to-get-assassins-creed-unity-running-smoothly/"><u>Ubisoft Fan Guide: How to Get Assassin's Creed Unity Running Smoothly</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-asus-rog-phone-8-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Asus ROG Phone 8 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-top-10-premium-android-and-pc-compatible-video-editors-for-2024/"><u>[New] Top 10 Premium Android & PC-Compatible Video Editors for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-tomorrows-examination-innovative-approaches/"><u>[Updated] 2024 Approved Tomorrow’s Examination Innovative Approaches</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-mastering-board-functionality-a-comprehensive-approach-to-using-whiteboards-in-zoom-meetings/"><u>2024 Approved Mastering Board Functionality A Comprehensive Approach to Using Whiteboards in Zoom Meetings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-non-profit-gaming-soundtrack-sources/"><u>2024 Approved Non-Profit Gaming Soundtrack Sources</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-review-unveiling-the-potential-of-vidma-capture-tech/"><u>2024 Approved Review Unveiling the Potential of Vidma Capture Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp3aacm4a-movavi/"><u>無料MP3/AACからM4Aへのオンライン変換 - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-gratuite-de-fichiers-mp3-vers-mkv-en-ligne-avec-movavi-guide-complet/"><u>Conversion Gratuite De Fichiers MP3 Vers MKV en Ligne Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversor-aberto-ppm-para-imagens-jpeg-ferramenta-on-line-gratuita-pelo-movavi/"><u>Conversor Aberto PPM Para Imagens JPEG - Ferramenta On-Line Gratuita Pelo Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertissez-vos-fichiers-mov-en-format-m4v-pour-le-web-gratuitement-avec-movavi/"><u>Convertissez Vos Fichiers MOV en Format M4V Pour Le Web Gratuitement Avec Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-ideal-mac-compatible-skype-voice-recorders-our-top-12-picks-from-movavi/"><u>Discover the Ideal Mac-Compatible Skype Voice Recorders: Our Top 12 Picks From Movavi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/effortless-screen-changes-made-simple/"><u>Effortless Screen Changes Made Simple</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-nokia-c12-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nokia C12 Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-apple-iphone-11-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 11 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-efficiently-balancing-professional-commitments-and-creativity/"><u>In 2024, Efficiently Balancing Professional Commitments & Creativity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726219698839-movavi/"><u>Movaviの返品ポリシー:お客様向けガイド</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-tecno-spark-10-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Spark 10 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-video-edit-suite-accelerate-your-edits-using-fastclip-master-edition/"><u>Rapid Video Edit Suite - Accelerate Your Edits Using FastClip Master Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-best-11-software-solutions-for-editing-mp4-files-on-windows-and-mac-systems/"><u>The Best 11 Software Solutions for Editing MP4 Files on Windows & Mac Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-le-tue-immagini-in-gif-o-png-con-due-clic-usando-il-convertitore-multimediali-rapido-di-movavi/"><u>Trasforma Le Tue Immagini in GIF O PNG Con Due Clic Usando Il Convertitore Multimediali Rapido Di Movavi</u></a></li>
 </ul></div>
 

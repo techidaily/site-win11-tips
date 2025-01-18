@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Web Safety: Windows 11 Controls Overview"
-date: 2025-01-06T22:19:51.042Z
-updated: 2025-01-12T16:21:05.836Z
+date: 2025-01-17T17:52:45.307Z
+updated: 2025-01-18T16:15:55.408Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create an Account for Your Child on Windows 11
 
  The first step of setting up parental control in Windows 11 is to create a child account. If you haven’t done it already, here’s how you can do it:
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 ![Create child account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/child-account-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Since you will not use this account too often, you should learn[how to start using a password manager](https://www.makeuseof.com/how-to-start-using-password-manager/) to remember its credentials.
@@ -52,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 ![Parental control settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/parental-control-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will bring up the Microsoft Family Safety website. Click the**Sign in to Family Safety** and enter your Microsoft account credentials. There you’ll see every account connected to your Microsoft account, including your child’s account.
@@ -69,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
  If you don’t have the time to constantly check the account, scroll down to**Activity settings** . There, turn on the toggle below**Activity reporting** , so you can monitor your child’s activity on all of their devices. Also, you can turn on the toggle below**Send a weekly email to me** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Use Parental Control to Limit Screen Time
 
  If you want to reduce the amount of time your kids are spending in front of a screen, you can set a daily schedule.
@@ -83,11 +83,11 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
 ![How to limit screen time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/edit-time-limit-1.jpg)
 
- There, use the slider to set how long they can use their device. Also, you can decide between which hours they can access the device. To save the schedule, click**Finished** .
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ There, use the slider to set how long they can use their device. Also, you can decide between which hours they can access the device. To save the schedule, click**Finished** .
 
 ### How to Use Parental Control to Filter Content
 
@@ -99,13 +99,13 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
  The filters and activity reporting work only if your kid is using Microsoft Edge. However, you can add the other internet browsers to the list of blocked apps in the**Overview** menu, or you can[use a parental control app for Windows](https://www.makeuseof.com/tag/best-parental-control-apps-windows/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Use Parental Control to Overview Spending
 
  In the**Spending** category, you can add money or a credit card to the account. You can also set that every purchase needs to be approved by you. Additionally, you can get a notification for every purchase.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Keep Your Kids Safe on Windows 11
 
@@ -126,21 +126,21 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-leading-the-pack-in-multi-media-posting-on-instagram/"><u>[Updated] 2024 Approved Leading the Pack in Multi-Media Posting on Instagram</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-reconnaissance-from-above-deciphering-gopro-karmas-offering-for-2024/"><u>[Updated] Reconnaissance From Above Deciphering GoPro Karma's Offering for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22/"><u>2024 Approved Unlocking Visual Potential A Step-by-Step Guide to Video Enhancer 2.2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-newcomers-path-in-the-world-of-original-diablo/"><u>A Newcomer's Path in the World of Original Diablo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-tasks-with-efficient-cmd-commands-top-20/"><u>Accelerate Tasks with Efficient CMD Commands (Top 20)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-system-best-practices-for-dns-setup-in-windows-11/"><u>Accelerate Your System: Best Practices for DNS Setup in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/action-plan-conquering-error-0x800700e1-in-windows-11-systems/"><u>Action Plan: Conquering Error 0X800700E1 in Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-incompatibility-with-windows-11-at-home/"><u>Addressing Incompatibility with Windows 11 at Home</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoidance-avenue-windows-11-disabling-tactics/"><u>Avoidance Avenue: Windows 11 Disabling Tactics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-performance-essential-wsl-2-approaches-for-win-users/"><u>Boost Performance: Essential WSL 2 Approaches for Win Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-ink-advantage-3755-printer-software-update-download-drivers-for-windows-1187/"><u>HP Deskjet Ink Advantage 3755 Printer Software Update: Download Drivers for Windows 11/8/7</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-tiktok-to-instagram-stardom-replicating-popular-reel-techniques/"><u>In 2024, From TikTok to Instagram Stardom Replicating Popular Reel Techniques</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solve-your-pcs-among-us-audio-problem-a-step-by-step-guide/"><u>Solve Your PC's 'Among Us' Audio Problem: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-puzzle-how-to-fix-a-sluggish-loading-league-of-legends-game/"><u>Solving the Puzzle: How to Fix a Sluggish Loading League of Legends Game</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-a-deeper-dive-into-hardware/"><u>Tom's Tech Insights: A Deeper Dive Into Hardware</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-hand-tracker-potential-guide/"><u>Unlock Hand Tracker Potential Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rom-script-to-screen-methods-of-inserting-dialogue-into-online-videos-for-2024/"><u>[New] From Script to Screen Methods of Inserting Dialogue Into Online Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-wanderlust-chronicles-setting-up-for-success-as-a-travel-vlogger/"><u>[New] In 2024, The Wanderlust Chronicles Setting Up for Success as a Travel Vlogger</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-convert-talk-to-text-the-costless-alternative/"><u>[Updated] Convert Talk to Text The Costless Alternative</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1-mastering-icon-hiding-on-video-three-effective-methods-to-keep-your-brand-intact/"><u>1. Mastering Icon Hiding on Video: Three Effective Methods to Keep Your Brand Intact</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-begin-a-new-era-of-editing-with-xps-video-suite/"><u>2024 Approved Begin a New Era of Editing with Xp's Video Suite</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-from-zero-to-youtube-creating-a-stellar-new-chanel/"><u>2024 Approved From Zero to YouTube Creating a Stellar New Chanel</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-methods-for-effective-image-pairing/"><u>2024 Approved Innovative Methods for Effective Image Pairing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726225811433-mp2-mp4-movavi/"><u>線上自由MP2 MP4轉換服務 - 利用Movavi便捷格式修改</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/akvariat-modulokonverter-szinte-ot-rendbe-nyujto-kifejezesei-a-windowsmac-kovetszett-mxf-mp4-ararozasnal/"><u>Akváriát Módulokonverter: Szinte Öt Rendbe Nyújtó Kifejezései A Windows/Mac Követszett MXF MP4-Árarozásnál</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-videos-from-mp4-to-wmv-or-vice-versa-quick-and-reliable-online-tool/"><u>Convert Videos From MP4 to WMV or Vice Versa - Quick & Reliable Online Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/copiar-e-colar-em-videos-no-formato-f4v-ferramenta-on-line-gratuitaria-do-movavi/"><u>Cópiar E Colar Em Vídeos No Formato F4V - Ferramenta On-Line Gratuitária Do Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/demonstration-faltbare-bremse-fur-geschutzte-dvds-mit-rippenkonstruktion-schritt-fur-schritt-anleitungen-und-bilder/"><u>Demonstration: Faltbare Bremse Für Geschützte DVDs Mit Rippenkonstruktion - Schritt-Für-Schritt Anleitungen Und Bilder</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-vivo-t2-pro-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Vivo T2 Pro 5G.</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-headerfooter-settings-in-pre-conversion-for-optimal-flipbook-outputs/"><u>Mastering Header/Footer Settings in Pre-Conversion for Optimal FlipBook Outputs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/png-or-jpg-a-detailed-comparison-for-optimal-image-resolution-and-quality/"><u>PNG or JPG: A Detailed Comparison for Optimal Image Resolution and Quality.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/webppngmovavimobile/"><u>WebP画像からPNGへの高効率変換手順【Movavi・Mobile】</u></a></li>
 </ul></div>
 

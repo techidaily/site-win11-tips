@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows Storage Estimation Using PowerShell
-date: 2024-08-08T11:00:50.301Z
-updated: 2024-08-09T11:00:50.301Z
+date: 2025-01-17T17:47:52.843Z
+updated: 2025-01-18T16:52:11.893Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
  File Explorer, however, can be slow to determine the size of a large folder. And not ideal if you want to manage files and folders on multiple computers in an organization. To remedy this, you can use PowerShell to quickly calculate folder sizes on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Calculate a Folder's Size Using PowerShell on Windows
 
 ![powershell cmdlet to view folder size bytes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-size-bytes.jpg)
@@ -47,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
 ![powershell cmdlet to view folder size megabytes gigabytes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-size-megabytes-gigabytes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For example, if you want to know the value in gigabytes (MBs), type the following command and press **Enter**:
 
 `(gci E:\Download | measure Length -s).sum / 1Mb`
@@ -59,25 +60,18 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
  For example, to find how much space is taken by the images in a folder, use the following command:
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![powershell cmdlet to view folder by file type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-by-file-type.jpg)
 
 `(gci E:\download *.jpg | measure Length -s).sum / 1Mb`
 
  Adding a wildcard character lets you determine if a specific file type takes the most space in the folder. You can then filter the contents based on the file extension and delete or move them if necessary.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Get the Subfolder Size Using PowerShell
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![powershell cmdlet to view folder subfolder size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-subfolder-size.jpg)
 
  The above command will only calculate the size of your primary directory or folder. To calculate the total size of files in the specified directory and its subdirectories, you'll need to add the **\-Recurse** parameter to the above command. In addition, we'll use the -force parameter to access hidden and system files.
@@ -89,23 +83,22 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
  The output in this instance shows 54 GB approx. as the total size of the c:\\users folder. In the above command, the -ErrorAction SilentlyContinue parameter is used to suppress any error messages that may occur during the process.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Get the Subfolder Size in a Table Format Using PowerShell
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows powershell ISE script folder size view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-powershell-ise-script-folder-size-view.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to know the size of all the subfolders individually, you can run a PowerShell script to get a graphical view of all the subfolders and their sizes. A script is usually helpful if you have a large directory with multiple subfolders and need to work on them frequently.
 
  To run this script, you can use PowerShell ISE. Here's how to do it:
 
 1. Press the **Win key** and type **PowerShell ISE**. Click on **Windows PowerShell ISE** from the search result.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![powershell ise start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-ise-start-menu.jpg)
 2. Next, copy and paste the following command into the PowerShell ISE console. Make sure to change the directory from c:\\ to your preferred directory.  
 `$targetfolder = 'C:\'  
@@ -127,6 +120,10 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
 
  In the above command, **"?"** is an alias for the **Where-Object** cmdlet, **\-gt, -AND, -It** are comparison operators, and **CreationTime** is a condition. The command checks if the CreationTime of files in the subdirectory falls within the specified date range and shows output only if the condition is satisfied. If you get an error, ensure your date and time format in the command matches the system's format and try again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get the Folder and Subfolder Size Using PowerShell
 
  File Explorer on Windows can help you calculate the size of any folder and file. However, if you work with multiple large folders or in an organization with hundreds of computers to manage, using PowerShell can help you get things done faster.
@@ -135,11 +132,33 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
 
  File Explorer, however, can be slow to determine the size of a large folder. And not ideal if you want to manage files and folders on multiple computers in an organization. To remedy this, you can use PowerShell to quickly calculate folder sizes on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-auroras-role-in-enhancing-image-contrast/"><u>[New] In 2024, Aurora's Role in Enhancing Image Contrast</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-quantum-hdr-everything-you-may-want-to-know-about-quantum-hdr/"><u>[New] In 2024, Quantum HDR Everything You May Want to Know About Quantum HDR</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-metaverse-persona-design-a-beginners-compreraniary-guide/"><u>[Updated] Metaverse Persona Design A Beginner's Compreraniary Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-differences-unveiling-the-separate-paths-of-local-and-microsoft-windows-login/"><u>Dissecting Differences: Unveiling The Separate Paths of Local & Microsoft Windows Login</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-resolving-steam-timeout-error-with-rustwindows/"><u>Expert Tips: Resolving Steam Timeout Error with Rust/Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expertise-unlocked-comprehensively-scan-qr-codes-on-windows/"><u>Expertise Unlocked: Comprehensively Scan QR Codes on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-halt-gaming-lists-on-windows-11-ui/"><u>How to Halt Gaming Lists on Windows 11 UI</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-use-emojis-on-windows-10-and-windows-11/"><u>How to Use Emojis on Windows 10 and Windows 11?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-poco-x6-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Poco X6 Pattern Lock Screen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-launches-openquest-operating-system-supporting-external-devices-from-brands-like-asus-and-lenovo-insights-by-zdnet/"><u>Meta Launches OpenQuest Operating System Supporting External Devices From Brands Like Asus & Lenovo - Insights by ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pixelprodigy-smart-ai-driven-photo-edits/"><u>PixelProdigy Smart AI-Driven Photo Edits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/poetic-warriors-and-gpt-ewes-bards-ballad-battle-with-woolly-allies/"><u>Poetic Warriors & GPT Ewes - Bard's Ballad Battle with Woolly Allies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-failed-voice-narration-in-word-for-windows/"><u>Resetting Failed Voice Narration in Word for Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-to-persistent-semaphore-delay-addressing-timed-out-process-error-identifier-0x80070079/"><u>Solution to Persistent Semaphore Delay - Addressing Timed Out Process (Error Identifier 0X80070079)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surface-laptop-studio-2-the-ultimate-creative-device/"><u>Surface Laptop Studio 2 - The Ultimate Creative Device?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-rectifying-roblox-error-262/"><u>The Ultimate Guide to Rectifying Roblox Error 262</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-master-file-synergy-on-windows-11/"><u>Tips to Master File Synergy on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-unveiled-generating-and-interpreting-essential-insights/"><u>Windows Unveiled: Generating & Interpreting Essential Insights</u></a></li>
+</ul></div>
+

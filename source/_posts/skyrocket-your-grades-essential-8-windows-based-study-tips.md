@@ -1,7 +1,7 @@
 ---
 title: "Skyrocket Your Grades: Essential 8 Windows-Based Study Tips"
-date: 2025-01-08T19:55:53.466Z
-updated: 2025-01-13T01:21:24.836Z
+date: 2025-01-13T16:29:28.764Z
+updated: 2025-01-18T17:44:11.458Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Create an Organized Folder Structure
 
  Like any workstation, keeping your files nicely organized helps enhance your productivity. However, things may quickly get disorganized with Downloads, Documents, Pictures, and other folders. Your notes may be scattered across multiple folders, making it difficult to remember where files are located.
@@ -47,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
  Now that you have the structure, you can logically group related files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set Up Google Drive for Cloud Sync
@@ -80,7 +84,11 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 ![Focus Session Option On Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/focus-session-option-on-windows11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Install Useful Browser Extensions
@@ -97,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
  For non-Chromium based browsers, you can visit the official websites of the respective extensions to download supported add-ons.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Annotate Your PDFs With Drawboard PDF
 
  Wouldn't it be great if you could annotate and take notes directly on PDFs, just like you would on paper? There's a helpful app called Drawboard PDF that makes this possible.
@@ -110,15 +122,15 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 ![Drawboard PDF Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-option.jpg)
 3. Click on **Always** to set Drawboard as your default PDF viewer app.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![App Picker In Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/app-picker-in-windows11.jpg)
 4. The app will ask you to create a new Drawboard account or sign in with your already existing one.
 
 5. The PDF file should open in Drawboard now. If you've not used Drawboard before, we suggest clicking on the (**+**) plus button on the left side of the ribbon. Set up or configure the annotation tools to add highlights, text, or shapes at your convenience.  
 ![Drawboard PDF Advanced Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-advanced-tools.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Take Digital Notes With Obsidian and OneNote
 
@@ -138,15 +150,7 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 ![Notion Page Example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/notion-page-example.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We already have a [beginner's guide to get started with Notion](https://www.makeuseof.com/beginners-guide-to-notion/). Besides, you can also browse [Notion templates for students](http://www.notion.so/templates/category/school) to start with an attractive setup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Install ChatGPT on Your PC
 
@@ -156,14 +160,10 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 ![ChatGPT Website Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-website-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Besides, if you don't know how to use ChatGPT for note-taking, you can refer to our guide on [how to use ChatGPT to take notes](https://www.makeuseof.com/use-chatgpt-to-take-notes/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Your Windows Productivity Hub Is Now Ready
@@ -184,19 +184,18 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-understanding-the-income-framework-that-supports-tseries-youtube-success/"><u>[New] 2024 Approved Understanding the Income Framework that Supports TSeries' Youtube Success</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-gaining-entry-into-windows-11s-application-repository/"><u>A Guide to Gaining Entry Into Windows 11'S Application Repository</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-gameplay-9-tricks-to-end-wwe-2k23-freezes-in-windows/"><u>Accelerate Gameplay: 9 Tricks to End WWE 2K23 Freezes in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-system-id-inaccuracy-in-windows-11/"><u>Addressing System ID Inaccuracy in Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-trusted-sites-for-youtube-tones/"><u>Comprehensive Guide to Trusted Sites for Youtube Tones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dual-virus-defense-think-again-windows-users/"><u>Dual Virus Defense? Think Again, Windows Users!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ensuring-proper-hardware-and-driver-setup-for-playing-rainbow-six-extraction/"><u>Ensuring Proper Hardware and Driver Setup for Playing Rainbow Six Extraction</u></a></li>
-<li><a href="https://fox-http.techidaily.com/harmonizing-audio-with-visuals-in-the-webspace/"><u>Harmonizing Audio with Visuals in the Webspace</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-itel-p55-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Itel P55?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-instructions-setting-up-wm6/"><u>In 2024, Expert Instructions Setting Up WM6</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-background-removal-in-photo-editing-tools/"><u>Mastering Background Removal in Photo Editing Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-fixing-non-detectable-wi-fi-in-win11/"><u>The Ultimate Guide to Fixing Non-Detectable Wi-Fi in Win11</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-ultimate-guide-to-samsungs-picture-editing-app/"><u>The Ultimate Guide to Samsung's Picture Editing App</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reating-a-prime-business-channel-top-picks-and-simple-steps/"><u>[New] Creating a Prime Business Channel Top Picks & Simple Steps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-comparing-videography-power-in-prohero-and-keymission/"><u>[Updated] Comparing Videography Power in ProHero and Keymission</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterclass-in-visual-enhancement-from-muted-sdr-to-stunning-hdri/"><u>[Updated] Masterclass in Visual Enhancement From Muted SDR to Stunning HDRI</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevate-your-social-media-presence-h-videos-reimagined-for-igtv/"><u>2024 Approved Elevate Your Social Media Presence H-Videos Reimagined for IGTV</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-halt-recommendations-no-more-suggests/"><u>2024 Approved How to Halt Recommendations No More Suggests</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-invisible-web-seo-secrets-for-podcasters/"><u>2024 Approved The Invisible Web SEO Secrets for Podcasters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-smudges-quick-windows-11-remedies-for-distorted-displays/"><u>Decoding Smudges: Quick Windows 11 Remedies for Distorted Displays</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-networks-configure-win11s-dns-client-service/"><u>Mastering Networks: Configure Win11's DNS Client Service</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-facebook-post-death-memories-and-termination/"><u>Navigating Facebook Post-Death: Memories and Termination</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventive-tactics-against-ms-store-on-windows-10/"><u>Preventive Tactics Against MS Store on Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-secure-the-best-encryption-applications-of-the-year-153-chars/"><u>Win Secure: The Best Encryption Applications of the Year (153 Chars)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Proactive Approaches to Linux in Windows: Mastering WSL 2 Techniques"
-date: 2024-08-08T11:01:34.171Z
-updated: 2024-08-09T11:01:34.171Z
+date: 2025-01-16T16:48:42.546Z
+updated: 2025-01-18T16:29:01.179Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d8
 
  Read on as we discuss some of the best practices for using the Windows Subsystem for Linux 2.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is Windows Subsystem for Linux 2?
 
  The Windows Subsystem for Linux 2 (WSL 2) is a Linux kernel built into Windows 10 and 11\. One of today's most valuable features is the Windows Subsystem for Linux (WSL). It lets Windows users run Linux distributions such as Ubuntu and Kali on Windows without having to dual-boot or[configure a specialized virtual machine](https://www.makeuseof.com/linux-virtual-machine-or-wsl/) .
@@ -31,12 +28,13 @@ thumbnail: https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d8
 
  In addition to being able to operate the Linux terminal, Windows users can even[run Linux GUI applications with WSL 2 on Windows](https://www.makeuseof.com/how-to-run-linux-gui-apps-with-wsl2/) with improved support for file I/O performance and OS functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Does the Windows Subsystem for Linux Benefit Developers?
 
 ![A laptop sitting on a desk with code open on the screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-with-code-on-the-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As a developer, you can benefit from WSL by developing cross-platform applications without worrying about dedicated VM setup or leaving the Windows ecosystem. It also provides developers with a powerful Linux kernel that is directly integrated within Windows 10/11.
 
@@ -52,29 +50,31 @@ Here are some of the other important WSL 2 benefits for developers:
 
  For users new to WSL 2, following the best practices to establish an efficient workflow is essential. On the other hand, if you’re already familiar with WSL 2, these tips will help ensure you’re being as productive as possible.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## 1\. Use the Windows Terminal
 
  The all-new Windows Terminal is a powerful open-source terminal from the Microsoft Store. Microsoft has designed the Windows Terminal to integrate the WSL 2 directly and automatically configure any Linux distributions as soon as they’re installed. This means you can easily switch between Windows and Linux without having to set up a different environment.
 
 ![The Open a new tab menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-shell-options-in-windows-terminal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Windows Terminal can support multiple shells, such as PowerShell, WSL 2, and Command Prompt. It also offers several productivity features, including multiple tabs, a search bar, and split panes; you can even customize the terminal’s appearance to your liking.
 
  Since the Windows Terminal is an open-source project, you can rest assured that the community will continuously improve it for enhanced user experience. And if you fall in love with it, check out the[best Windows terminal tips, tricks, and shortcuts](https://www.makeuseof.com/windows-terminal-tips-tricks-shortcuts/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Integrate Visual Studio Code
 
 ![Code in VSCode on laptop sitting on the ground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Code-on-Laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Many developers rely on VS Code, an incredibly versatile IDE (code editor). It offers an integrated terminal, extension support, and has an intuitive interface that is super–customizable. If you’re using WSL 2 for development, you want to integrate WSL 2 with Visual Studio Code for a smooth workflow.
 
@@ -94,15 +94,13 @@ No advertising on the website.
 
 `sudo apt-get upgrade`
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Run Containers With Docker
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ubuntu running as a docker container](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/running-_ubunut_in_docker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Docker is an open-source platform that allows developers to efficiently build, deploy and run their applications within a container. All dependencies are bundled up so your project can easily be deployed in any environment.
 
@@ -118,8 +116,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +123,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-democratize-music-distribution-via-social-media/"><u>[New] In 2024, Democratize Music Distribution via Social Media</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earning-in-the-limelight-without-ads-a-comprehensive-guide-to-youtube-income/"><u>[New] In 2024, Earning in the Limelight without Ads A Comprehensive Guide to YouTube Income</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-end-screen-and-cards-strategies-for-yt/"><u>[Updated] Perfect End Screen & Cards Strategies for YT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-downloading-the-right-samsung-adb-driver/"><u>Easy Steps to Downloading the Right Samsung ADB Driver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-managing-app-packages-using-wingetui-in-windows-11/"><u>Essential Guide to Managing App Packages Using WingetUI in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expediting-the-epic-games-universe-download-process/"><u>Expediting the Epic Games Universe Download Process</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-amd-radeon-drivers-complete-guide/"><u>How to Update Your AMD Radeon Drivers - Complete Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-error-microsoft-store-0x80073cf3/"><u>Overcoming Windows 11 Error: Microsoft Store 0X80073cf3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-deploy-powertoys-in-win11-environments/"><u>Securely Deploy PowerToys in Win11 Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-microsoft-store-crash-resolve-error-code-x800704cf/"><u>Tackling Microsoft Store Crash: Resolve Error Code X800704CF</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722451017501-top-recommended-external-optical-discs-readers-find-your-perfect-match/"><u>Top Recommended External Optical Discs Readers – Find Your Perfect Match!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/turboupload-the-ultimate-guide-to-fast-youtube-video-rendering-for-2024/"><u>TurboUpload The Ultimate Guide to Fast YouTube Video Rendering for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-hidden-potential-via-shortcut-combinations/"><u>Unveiling Windows' Hidden Potential via Shortcut Combinations</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/wie-man-bilder-in-einem-verteilungsnetzwerk-auf-mehrere-computer-verteilt/"><u>Wie Man Bilder in Einem Verteilungsnetzwerk Auf Mehrere Computer Verteilt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-bestowed-powers-via-command-line/"><u>Windows 11: Bestowed Powers via Command Line</u></a></li>
+</ul></div>
 

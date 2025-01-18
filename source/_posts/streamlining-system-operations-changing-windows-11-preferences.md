@@ -1,7 +1,7 @@
 ---
 title: "Streamlining System Operations: Changing Windows 11 Preferences"
-date: 2025-01-08T18:44:49.180Z
-updated: 2025-01-12T21:16:55.843Z
+date: 2025-01-15T16:05:15.747Z
+updated: 2025-01-18T17:11:34.589Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Device Usage Options on Windows?
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
  If you're [unable to open the System Settings window or if it isn't working](https://www.makeuseof.com/fixes-unable-to-open-windows-settings/), use a reg file instead. A reg file is a registry key file that helps you tweak Windows settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Gaming Device Usage Options
@@ -79,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
 ![Change Gaming Device Usage Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-gaming-device-usage-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To apply the settings, double-click the reg file. This will turn on the Device usage options for Gaming.
 
  If you want to turn off this option, create a new reg file and paste the following:
@@ -91,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
  Now save it with the **.reg** extension as above and double-click to apply.
 
  To turn on Device usage options for other categories, create separate reg files with the corresponding code then apply them in the same way. Here's a list of each .reg file's contents:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Family Device Usage Options
 
@@ -106,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 "accepted"=dword:00000001`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Creativity Device Usage Options
@@ -148,10 +156,6 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CloudExperienceHost\Intent\OffDeviceConsent]  
 "accepted"=dword:00000001`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Business Device Usage Options
 
  And finally, for the Business side of things:
@@ -166,10 +170,6 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 "accepted"=dword:00000001`
 
  Once you have created the reg file for the Device Usage Option, double-click to apply. Now when you open System **Settings** \> **Personalisation** \> **Device Usage**, you should see the option turned on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Configure Your Device’s Usage Options in a Flash
 
@@ -187,21 +187,20 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-video-storing-capabilities-and-limitations-insights-into-64128gb-drives/"><u>[Updated] Video Storing Capabilities & Limitations - Insights Into 64/128GB Drives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-command-routes-for-fast-diagnostic-center-entry/"><u>10 Command Routes for Fast Diagnostic Center Entry</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-the-full-unpacked-experience-of-the-logitech-4k-webcam/"><u>2024 Approved The Full Unpacked Experience of the Logitech 4K Webcam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-ways-to-fix-there-are-no-startup-items-to-display-in-the-task-manager-error-on-windows/"><u>8 Ways to Fix There Are No Startup Items to Display in the Task Manager Error on Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-analysis-whatsapps-vocal-communication-for-2024/"><u>A Comprehensive Analysis WhatsApp’s Vocal Communication for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-beginners-guide-to-using-windows-canary/"><u>A Step-by-Step Beginner’s Guide to Using Windows' Canary</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-pcs-boot-up-with-these-3-ways-in-windows-11/"><u>Accelerate Your PC's Boot-Up with These 3 Ways in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessibility-enhanced-with-shortcuts-for-microsoft-store-uwp/"><u>Accessibility Enhanced with Shortcuts for Microsoft Store UWP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjustments-for-a-seamless-integration-of-wsl-in-win-11/"><u>Adjustments for a Seamless Integration of WSL in Win 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/all-about-lightroom-a-comprehensive-android-study/"><u>All About Lightroom A Comprehensive Android Study</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719258280599-jump-over-the-endless-update-hurdle-quick-fixes-now/"><u>Jump Over The Endless Update Hurdle: Quick Fixes Now!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/leading-lightweight-jump-starters-2024/"><u>Leading Lightweight Jump Starters 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/leveraging-the-capabilities-of-cookiebot-to-optimize-your-online-presence/"><u>Leveraging the Capabilities of Cookiebot to Optimize Your Online Presence</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/maximizing-gaming-efficiency-via-working-freesync/"><u>Maximizing Gaming Efficiency via Working FreeSync</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimize-your-win11-display-settings/"><u>Optimize Your Win11 Display Settings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ultimate-guide-exploring-master-recorders-features/"><u>Ultimate Guide Exploring Master Recorder's Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-engaging-visuals-that-speak-volumes-podcast-cover-guide/"><u>[New] In 2024, Engaging Visuals That Speak Volumes - Podcast Cover Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-art-of-patience-slowing-down-videos-on-youtube-51-chars/"><u>[New] The Art of Patience Slowing Down Videos on YouTube (51 Chars)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-passion-into-a-fulfilling-design-career/"><u>[New] Transforming Passion Into a Fulfilling Design Career</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/10-premier-moba-experiences-on-android-devices/"><u>10 Premier MOBA Experiences on Android Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dial-back-to-digital-delight-playing-vintage-pc-games/"><u>Dial Back to Digital Delight: Playing Vintage PC Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diving-deep-into-bsod-memory-information/"><u>Diving Deep Into BSOD Memory Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-itel-p40-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Itel P40 Phone Screen?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-redmi-12-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Redmi 12 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-infinix-smart-8-hd-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Infinix Smart 8 HD on Mac?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-amplify-your-audio-presence-learn-to-modify-voices-for-free/"><u>In 2024, Amplify Your Audio Presence Learn to Modify Voices for FREE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconciling-with-a-non-responsive-printer-in-os/"><u>Reconciling With a Non-Responsive Printer in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-steams-unavailability-issue-with-game-server-links-in-windows/"><u>Rectifying Steam's Unavailability Issue with Game Server Links in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-data-merge-tactics-for-windows-users/"><u>Streamlining Data: Merge Tactics for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-top-7-techniques-to-master-windows-11/"><u>The Ultimate Guide: Top 7 Techniques to Master Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-magsafe-battery-solutions-for-your-iphone-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated MagSafe Battery Solutions for Your iPhone - Comprehensive Reviews by Tech Gurus</u></a></li>
 </ul></div>
 

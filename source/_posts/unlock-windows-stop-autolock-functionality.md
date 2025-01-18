@@ -1,7 +1,7 @@
 ---
 title: "Unlock Windows: Stop Autolock Functionality"
-date: 2025-01-07T22:08:41.670Z
-updated: 2025-01-12T22:27:39.178Z
+date: 2025-01-14T17:05:58.957Z
+updated: 2025-01-18T16:46:49.173Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Is Windows 10 Automatically Locking Itself?
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
  Imagine a scenario where you have to leave your computer unattended for an extended period. If there is no auto-lock on Windows, anyone can use your PC for any reason without any repercussions.
 
  By locking itself automatically once your PC goes into sleep mode, Windows ensures that your data stays private and nobody except you has access to your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Stop Windows From Automatically Locking Itself
 
@@ -51,6 +47,10 @@ You can stop Windows from automatically locking itself by:
 
 Now that we know how to do it, let's dive into the steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Disabling Windows Sign-In
 
  Outright disabling Windows’ sign-in requirement is the most serious step that you can take to disable auto-locking on Windows. To disable the sign-in requirement:
@@ -61,10 +61,14 @@ Now that we know how to do it, let's dive into the steps.
 
 ![Disable Windows sign-in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-sign-in-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Dynamic lock automatically locks your PC if a Bluetooth-connected device, for instance, your smartphone, goes out of range. So, disabling this option will ensure that your PC doesn’t lock up when you walk away from it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Disabling Sleep Mode and Screen Saver
@@ -75,16 +79,16 @@ Now that we know how to do it, let's dive into the steps.
 * In the Power & sleep section, set disable mode by choosing**Never** from both dropdowns under**Sleep** .  
 ![Disable sleep mode on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-sleep-mode.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’ve set a screen saver active on your PC, we also recommend turning it off, as it can, sometimes, cause Windows to automatically lock itself. To disable the screen saver:
 
 * Hit the Windows key again, type “screen saver”, and click**Turn screen saver on or off** to open**Screen Saver Settings** .
 * In the Screen Saver Settings, set**Screen saver** to**None** and uncheck**On resume, display the logon screen** .
 
 ![Disable screen saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-screen-saver.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Editing Windows Registry to Disable Auto-Locking
 
@@ -99,10 +103,6 @@ So, edit Windows Registry only when nothing else works.
 * Open**NoLockScreen** and set the Value data to 1\. Press ok to finish the process.
 
 ![Disable auto-lock from Windows Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-auto-lock-registry.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Finally, restart your computer to see if a lock screen appears.
 
@@ -127,19 +127,20 @@ Finally, restart your computer to see if a lock screen appears.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-best-writers-workshop-online/"><u>[New] Best Writer’s Workshop Online</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-superior-hd-gameplay-through-top-captures-for-2024/"><u>[New] Superior HD Gameplay Through Top Captures for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-from-analog-to-digital-srt-conversion-into-modern-audio-standards/"><u>[Updated] 2024 Approved From Analog to Digital SRT Conversion Into Modern Audio Standards</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-streamlining-your-youtube-vids-for-igtv-adoption/"><u>[Updated] 2024 Approved Streamlining Your YouTube Vids for IGTV Adoption</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-showcasing-contributions-and-thought-leadership/"><u>[Updated] Showcasing Contributions & Thought Leadership</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-into-windows-11-appsfolder-a-step-by-step-walkthrough/"><u>Breaking Into Windows 11 AppsFolder: A Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypass-error-code-2e-restore-windows-update/"><u>Bypass Error Code 2E, Restore Windows Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cant-download-or-install-icloud-on-windows-try-these-fixes/"><u>Can’t Download or Install iCloud on Windows? Try These Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/charting-a-new-course-overcoming-xbox-errors-in-win11/"><u>Charting a New Course: Overcoming Xbox Errors in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/choosing-wisely-critical-considerations-in-procuring-a-laptop/"><u>Choosing Wisely: Critical Considerations in Procuring a Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-steelseries-arctis-elite-mic-not-working-problems/"><u>Expert Tips for Resolving SteelSeries Arctis Elite Mic Not Working Problems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-evaluation-of-the-affordable-amazonbasics-6-sheet-document-shredder/"><u>In-Depth Evaluation of the Affordable AmazonBasics 6-Sheet Document Shredder</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-top-6-animated-emoji-video-effects-for-2024/"><u>Updated Top 6 Animated Emoji Video Effects for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-expert-picks-for-drone-pilots-vr-eyewear-for-2024/"><u>[Updated] Expert Picks for Drone Pilots’ VR Eyewear for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlocking-instagrams-hidden-revenue-opportunities/"><u>[Updated] In 2024, Unlocking Instagram's Hidden Revenue Opportunities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/2024-srt-srt/"><u>2024 上市的綜合字幕設計工具：我最愛的 SRT 編輯器【SRT編輯器推荐列表】</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-professional-tips-sharpen-and-brighten-your-iphones-hdri-in-adobe-premiere-pro/"><u>2024 Approved [Professional Tips] Sharpen and Brighten Your iPhone's HDRI in Adobe Premiere Pro</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-decoding-revenue-how-much-do-creators-earn-on-youtube/"><u>2024 Approved Decoding Revenue How Much Do Creators Earn on Youtube?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-enhance-your-content-creating-engaging-loop-videos-for-ig/"><u>2024 Approved Enhance Your Content Creating Engaging Loop Videos for IG</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726222225320-2024/"><u>2024的热门照片编辑工具：亲自推选，用户友好型和功能丰富的滤镜软件</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-free-tools-for-video-editing-top-10-video-croppers/"><u>Best Free Tools for Video Editing: Top 10 Video Croppers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/como-transformar-m1v-en-archivo-mp4-sin-coste-mediante-herramientas-web-libres/"><u>Cómo Transformar M1V en Archivo MP4 Sin Coste Mediante Herramientas Web Libres</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquering-wsappx-a-step-by-score-approach-to-lowering-your-computers-resource-demands/"><u>Conquering WSAPPX: A Step-by-Score Approach to Lowering Your Computer's Resource Demands</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-gpt-35-to-gpt-4-exploring-five-major-evolutions-in-ai-language-models/"><u>From GPT-3.5 to GPT-4: Exploring Five Major Evolutions in AI Language Models</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movogv-movavi/"><u>MOV到OGV無料線上轉換 - 利用Movavi轉換工具</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-poco-x5-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Poco X5 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-creating-free-youtube-banners-top-10-best-designers-reviewed/"><u>The Ultimate Guide to Creating Free YouTube Banners: Top 10 Best Designers Reviewed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-repair-steps-for-iphone-with-fluid-in-charging-jack-what-you-need-to-know/"><u>Troubleshooting and Repair Steps for iPhone with Fluid in Charging Jack - What You Need to Know!</u></a></li>
 </ul></div>
 

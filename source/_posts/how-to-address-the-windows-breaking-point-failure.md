@@ -1,7 +1,7 @@
 ---
 title: How to Address the Windows Breaking Point Failure
-date: 2025-01-11T19:09:59.519Z
-updated: 2025-01-12T18:33:56.060Z
+date: 2025-01-15T18:24:56.143Z
+updated: 2025-01-18T18:07:27.313Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a4224fc73a6465f58bae54c290236f5e5e4311745
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disable Any Automatic Startup Apps
 
  Apart from the essential Windows services, third-party apps enabled to run during startup can cause conflicts and cause problems. To determine the cause, disable all the automatic startup apps and restart your PC.
@@ -44,10 +40,6 @@ To disable startup apps on Windows:
 
  Once done, restart your PC and check if the error persists. If not, enable the apps again one by one until you find the problematic application. Depending on the use, you can update, uninstall or find an alternative for the app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Run the System File Checker and the DISM Tools
 
  The Deployment Image Service Management (DISM) tool is a command-line utility that can find and fix issues with your Windows image. If your error is triggered by a corrupt system image, the DISM command can help you fix the error.
@@ -62,10 +54,6 @@ Follow these steps to run the DISM and System File Checker tools:
 3. ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dism-scan-health-restore-health-command-prompt-1.jpg)  
  Next, type the following command and press**Enter** to scan your PC's health:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Dism /Online /Cleanup-Image /ScanHealth`
 4. Once done, type the following command to repair the system image:  
 `Dism /Online /Cleanup-Image /RestoreHealth`
@@ -74,6 +62,10 @@ Follow these steps to run the DISM and System File Checker tools:
 `sfc /scannow`
 7. This process can take some time to complete. Once the verification reaches 100%, it will display the result and any actions taken.
 8. Type**exit** and press**Enter** to close Command Prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check Your Hard Drive for Errors With CHKDSK
 
@@ -99,10 +91,6 @@ To run the CHKDSK tool:
 
  If you need help with overclocking, check out[the best GPU overclocking tools](https://www.makeuseof.com/best-gpu-overclocking-tools/) to get the best results.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Check for Memory Leaks
 
  The "the exception breakpoint has been reached" 0x80000003 can occur if your system fails to efficiently utilize the available memory resulting in a memory leak. Fortunately, Window comes with a built-in Memory Diagnostic Tool to check your computer for memory problems. Here's how to do it.
@@ -113,12 +101,13 @@ To run the CHKDSK tool:
 4. In the**Windows Memory Diagnostic** dialog, click**Restart now and check for problems (recommended)** .  
 ![Windows memory diagnostic tool restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tool-restart.jpg)
 5. Your computer will restart and boot into the Windows Memory Diagnostic Tool menu, and the system will start a test automatically.  
-![Windows memory diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tooljpg.jpg)
-6. You can also perform**Basic, Standard, or Extended** test manually. To do this, press**F1** to access the**Options** menu and select from the**Basic, Standard, and Extended** option under the**Test Mix** section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Windows memory diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tooljpg.jpg)
+6. You can also perform**Basic, Standard, or Extended** test manually. To do this, press**F1** to access the**Options** menu and select from the**Basic, Standard, and Extended** option under the**Test Mix** section.
 
 7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
 8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
@@ -126,6 +115,10 @@ To run the CHKDSK tool:
 ## 6\. Create a New Windows Local Account
 
  A corrupted user profile may cause the "the exception breakpoint has been reached" error. To fix the error, you can[create a new user local user profile on Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) and give it administrator privilege. Sign into your new user profile and launch the app to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Update or Uninstall the Problematic App
 
@@ -141,6 +134,10 @@ To uninstall an application on Windows:
 ![windows 11 settings installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-installed-apps.jpg)
 4. Type the name of your app in the search bar.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
 5. Next, click**the three-dots menu** next to the app name and**Uninstall** .
 
@@ -148,6 +145,10 @@ To uninstall an application on Windows:
 7. Once uninstalled, download the app installer and install the app. Restart your PC and check for any improvements.
 
  Note that, at times, the issue can be with a specific version of the app. To fix this, try to install an older version of the app to see if that works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the "The Exception Breakpoint Has Been Reached" Error on Windows
 
@@ -168,24 +169,20 @@ To uninstall an application on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-skyrocket-mobile-images-flawlessly-free/"><u>[New] Skyrocket Mobile Images Flawlessly, Free</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-use-of-analytics-for-2024/"><u>[New] Use of Analytics for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-free-yourself-from-cash-for-sound-the-best-18-audio-crackers-on-youtube/"><u>[Updated] Free Yourself From Cash for Sound The Best 18 Audio Crackers on YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-windows-solid-state-drive-power-of-fresh/"><u>Accelerate Your Windows' Solid State Drive - Power of Fresh</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-elevation-failure-overcoming-error-740-in-windows/"><u>Addressing Elevation Failure: Overcoming Error 740 in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-failed-shadow-copy-procedures/"><u>Addressing Failed Shadow Copy Procedures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-techniques-for-picture-adjustment-on-windows-11-unveiled/"><u>Advanced Techniques for Picture Adjustment on Windows 11 Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-could-not-create-window-mmc-snapshot-issues/"><u>Avoiding 'Could Not Create' Window MMC Snapshot Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beginners-guide-to-component-services-on-windows-11/"><u>Beginner’s Guide to Component Services on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-efficiency-upgrades-to-windows-11s-clipboard-history/"><u>Boosting Efficiency: Upgrades to Windows 11'S Clipboard History</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-success-boost-your-traffic-with-smart-cpm/"><u>Cookiebot-Driven Success: Boost Your Traffic with Smart CPM</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-quick-tips-for-easy-youtube-thumbnail-acquisition-zero-price/"><u>In 2024, Quick Tips for Easy YouTube Thumbnail Acquisition – Zero Price</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-infinix-note-30-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Infinix Note 30 Location | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolve-apex-legends-failure-to-load-issue-in-minutes/"><u>Resolve Apex Legends Failure to Load Issue in Minutes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/speaker-crackling-in-windows-117-solved/"><u>Speaker Crackling in Windows 11/7 [SOLVED]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719372954607-swift-rescue-solving-windows-problems-with-expertise/"><u>Swift Rescue: Solving Windows Problems with Expertise</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/the-rise-of-mao-zedong-unraveling-the-path-to-dominance-explored-by-yl-computing/"><u>The Rise of Mao Zedong: Unraveling the Path to Dominance - Explored by YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-9-essential-ai-toolsets-for-newbies-start-your-journey-today/"><u>Top 9 Essential AI Toolsets for Newbies: Start Your Journey Today!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719347202341-unveiling-the-full-potential-of-windows-snip-and-sketch-capabilities/"><u>Unveiling the Full Potential of Windows' Snip and Sketch Capabilities</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-manual-for-creating-an-inclusive-and-productive-skype-chat-room-accessible-by-both-windows-and-mac-users-for-2024/"><u>[New] How-To Manual for Creating an Inclusive and Productive Skype Chat Room Accessible by Both Windows & Mac Users for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mastering-light-and-shadow-in-hdr-portraiture-for-2024/"><u>[New] Mastering Light and Shadow in HDR Portraiture for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-the-seas-of-success-utilizing-social-blade-for-youtube-data/"><u>[New] Navigating the Seas of Success Utilizing Social Blade for YouTube Data</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hear-divine-voices-downloading-and-altering-ringtone-audio/"><u>[Updated] Hear Divine Voices Downloading & Altering Ringtone Audio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-metaverse-reflections-a-pioneering-collection-of-thoughts/"><u>[Updated] Metaverse Reflections A Pioneering Collection of Thoughts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-pinnaclepix-z7-pro-elevate-your-photos-dimensions-for-2024/"><u>[Updated] PinnaclePix Z7 Pro Elevate Your Photo's Dimensions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1-free-online-converter-transform-wma-to-mp3-with-movavi/"><u>1. Free Online Converter: Transform WMA to MP3 with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cortical-remapping-occurs-as-the-brain-adapts-to-changes-in-sensory-input-or-motor-function-following-nerve-damage/"><u>Cortical Remapping Occurs as the Brain Adapts to Changes in Sensory Input or Motor Function Following Nerve Damage.</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-your-iphone-shots-free-swift-red-eye-elimination-techniques/"><u>In 2024, Revolutionize Your iPhone Shots Free, Swift Red-Eye Elimination Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/istruzioni-semplici-per-ottenere-foto-trasparenti-sfondo-senza-problemi/"><u>Istruzioni Semplici per Ottenere Foto Trasparenti Sfondo Senza Problemi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-download-graca-conversor-de-formatos-em-massa-para-3gp-e-3g2-online-gratuito/"><u>Movavi: Download Graça - Conversor De Formatos Em Massa Para 3GP E 3G2 (Online Gratuito)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/qt-mp4-online-movavi/"><u>QT 프로필을 MP4로 바꾸는 방법: Online 무료 송금제 - Movavi</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-complete-guide-to-earnings-via-video-ads-on-youtube-for-2024/"><u>The Complete Guide to Earnings via Video Ads on YouTube for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/toutes-les-etapes-pour-convertir-un-fichier-vob-en-mp4-gratuitement-guide-detaille-avec-movavi/"><u>Toutes Les Étapes Pour Convertir Un Fichier VOB en MP4 Gratuitement - Guide Détaillé Avec Movavi</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/ultimate-replacement-for-tubechop-optimized-for-mac-and-windows-systems/"><u>Ultimate Replacement for TubeChop: Optimized for MAC & WINDOWS Systems</u></a></li>
 </ul></div>
 

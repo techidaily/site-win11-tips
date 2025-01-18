@@ -1,7 +1,7 @@
 ---
 title: Bypassing the Window's Time-Limited Lock
-date: 2024-07-29T08:15:06.001Z
-updated: 2024-07-30T08:15:06.001Z
+date: 2025-01-12T16:41:04.706Z
+updated: 2025-01-18T16:44:37.512Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
  Fortunately, you can keep Windows from automatically locking itself. Here’s how.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is Windows 10 Automatically Locking Itself?
 
  Windows automatically locks itself for one simple reason: to protect your privacy.
@@ -30,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
  Imagine a scenario where you have to leave your computer unattended for an extended period. If there is no auto-lock on Windows, anyone can use your PC for any reason without any repercussions.
 
  By locking itself automatically once your PC goes into sleep mode, Windows ensures that your data stays private and nobody except you has access to your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Stop Windows From Automatically Locking Itself
 
@@ -49,9 +54,6 @@ Now that we know how to do it, let's dive into the steps.
 * In the**Require sign-in** section, select**Never** from the dropdown menu.
 * While you are in Sign-in options, make sure to disable Dynamic lock by unchecking the option in the**Dynamic lock** section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Disable Windows sign-in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-sign-in-2.JPG)
 
  Dynamic lock automatically locks your PC if a Bluetooth-connected device, for instance, your smartphone, goes out of range. So, disabling this option will ensure that your PC doesn’t lock up when you walk away from it.
@@ -62,24 +64,23 @@ Now that we know how to do it, let's dive into the steps.
 
 * Hit the Windows key, type “power and sleep”, and choose**Power & sleep settings** .
 * In the Power & sleep section, set disable mode by choosing**Never** from both dropdowns under**Sleep** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![Disable sleep mode on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-sleep-mode.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’ve set a screen saver active on your PC, we also recommend turning it off, as it can, sometimes, cause Windows to automatically lock itself. To disable the screen saver:
 
 * Hit the Windows key again, type “screen saver”, and click**Turn screen saver on or off** to open**Screen Saver Settings** .
 * In the Screen Saver Settings, set**Screen saver** to**None** and uncheck**On resume, display the logon screen** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![Disable screen saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-screen-saver.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Editing Windows Registry to Disable Auto-Locking
 
  Finally, you can also edit Windows Registry to stop Windows from automatically locking itself. Before we show you how to do this, make sure you understand that editing Windows Registry can make your system unstable requiring you to restart or even[perform a fresh Windows install](https://www.makeuseof.com/windows-11-set-up-without-internet-connection/) for your PC to work properly again.
@@ -92,12 +93,13 @@ So, edit Windows Registry only when nothing else works.
 * Now, right-click on the folder you just created, place the mouse cursor over**New** , and select**DWORD (32-bit) Value** . Change the name of this new element to “NoLockScreen”.
 * Open**NoLockScreen** and set the Value data to 1\. Press ok to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable auto-lock from Windows Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-auto-lock-registry.JPG)
 
 Finally, restart your computer to see if a lock screen appears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Windows Hello to Make Windows’ Auto-Locking Bearable
 
@@ -105,14 +107,11 @@ Finally, restart your computer to see if a lock screen appears.
 
  On supported computers, Windows Hello can instantly recognize your face/fingerprint to log you in, taking the hassle out of typing a password in case of Windows auto-locking itself.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,4 +120,24 @@ Finally, restart your computer to see if a lock screen appears.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-tips-how-to-quickly-enjoy-instagram-videos/"><u>[New] 2024 Approved Tips How to Quickly Enjoy Instagram Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-ranked-4k-screen-recorders-summarized/"><u>[New] 2024 Approved Top-Ranked 4K Screen Recorders Summarized</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-master-fast-sharing-youtube-playlists-made-simple/"><u>[New] In 2024, Master Fast Sharing YouTube Playlists Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-hidden-patterns-in-data-usage-through-windows-diskusage-command/"><u>Discovering Hidden Patterns in Data Usage Through Windows' DiskUsage Command</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-user-experience-reactivating-silent-notifications/"><u>Enhancing User Experience: Reactivating Silent Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-non-windows-apps-for-modern-computing/"><u>Essential Non-Windows Apps For Modern Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-stream-apple-music-on-your-windows-pc-a-guide-with-lyric-display/"><u>How to Stream Apple Music on Your Windows PC: A Guide with Lyric Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-desktop-art-windows-1011-tutorials/"><u>Mastering Desktop Art: Windows 10/11 Tutorials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-fix-loaded-lol-screens/"><u>Mastering Windows: Fix Loaded LOL Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-windows-inbuilt-pdf-renderer/"><u>Personalizing Windows' Inbuilt PDF Renderer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/refund-policy-explained-understanding-movavis-terms-of-return/"><u>Refund Policy Explained: Understanding Movavi's Terms of Return</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-mobility-center-stay-in-full-screen/"><u>Sidestep Mobility Center, Stay In Full Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-dealing-with-immutable-energy-states-in-windows-11/"><u>Solutions for Dealing with Immutable Energy States in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-unblock-overloaded-gpt-windows-errors/"><u>Tips to Unblock Overloaded GPT Windows Errors</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-google-pixel-7a-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Google Pixel 7a Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-are-mmo-games-and-how-have-they-changed/"><u>What Are MMO Games, and How Have They Changed?</u></a></li>
+</ul></div>
 

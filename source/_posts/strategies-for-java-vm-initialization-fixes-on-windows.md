@@ -1,7 +1,7 @@
 ---
 title: Strategies for Java VM Initialization Fixes on Windows
-date: 2025-01-07T19:01:00.610Z
-updated: 2025-01-13T02:11:32.085Z
+date: 2025-01-11T17:22:18.819Z
+updated: 2025-01-18T18:16:29.352Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/0cc7e321d1f451639d7bc59d3e2137f7bee3ef2e1
 
 ![verify java installation command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/verify-java-intallation-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Verifying your Java installation can help you determine issues with the release itself. You can use the**java -version** command in Command Prompt to check the current version of Java installed along with the date of installation.
 
 To check the Java version installed on Windows:
@@ -50,6 +46,10 @@ To check the Java version installed on Windows:
 
 ![end java process task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-java-process-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the error is triggered when installing Java, check if a Java process is running in the background. You can use Task Manager to find and end background processes that may prevent you from installing the Java Runtime Environment or the development kit.
 
 1. Press**Win + X** to open the**WinX menu** and select**Task Manager** .
@@ -57,7 +57,7 @@ To check the Java version installed on Windows:
 3. Select and click**End Task** to close the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run Java as an Administrator
@@ -66,15 +66,15 @@ To check the Java version installed on Windows:
 
  Alternatively, you can set the Java.exe to always run as administrator. This way, you don’t need to run Java with administrative privileges each time you want to launch it. Check out[how to always run a program as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for more information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Increase the System Memory for Java
 
  A common reason for the Could not create the Java virtual machine error is insufficient memory allocation, also known as Java heaps. Insufficient memory allocation can throttle the performance or cause the app to crash.
 
  To remedy this issue, you can increase the Java heap size. You can do this by modifying the**Runtime Parameters** from**Java Runtime Environment Settings** or changing the**\_JAVA\_OPTIONS** variable value to your preference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Increase Java Heap Size by Manually Modifying Variables
 
@@ -90,17 +90,13 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![Windows new system variable java options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-new-system-variable-java-options.jpg)
 5. Type**\-JAVA\_OPTIONS** in the**Variable name** field.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Next, type**\-Xmx512M** in the**Variable value** field. Here,**\-Xmx512M** defines the amount of memory you want to allocate. In this case, it is**512MB** of system memory.
 7. Click**OK** , and**OK** once more to save the changes.
 
  Next, launch the app that shows the error and check if the error is resolved. If not, open**Environmental Variables** again. Select the -**JAVA\_OPTIONS** variable and click**Edit** . In the**Value data** field, type**\-Xmx1024M** to increase the memory size to 1**024 MB (1GB)** . Click**OK** and check for any improvements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Increase Java Heap Size Using the Java Control Panel
@@ -120,7 +116,7 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 7. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall and Reinstall Java
@@ -138,6 +134,10 @@ To clean install Java:
 5. Restart your computer to apply the changes.
 6. Next, go to the[Java Downloads page](https://www.java.com/en/download/manual.jsp/) and download the latest version available for your operating system. Make sure to download the correct version (32-bit/64-bit), depending on the system architecture.
 7. Run the installer and click**Install** . Follow the on-screen instructions to complete the installation and restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Install Java in a WindowsClean Boot State
 
@@ -164,18 +164,16 @@ To clean install Java:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-brief-bliss-in-photo-collage-crafting-the-google-way/"><u>[New] In 2024, Brief Bliss in Photo Collage Crafting - The Google Way</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-proven-strategies-for-flawless-xbox-video-capture/"><u>[Updated] In 2024, Proven Strategies for Flawless Xbox Video Capture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-look-at-addressing-error-code-262-on-roblox/"><u>A Comprehensive Look at Addressing Error Code 262 on Roblox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-fixing-steam-contact-issues-on-win11/"><u>A Step-by-Step Guide to Fixing Steam Contact Issues on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adding-gmail-to-windows-outlook-seamless-integration-method/"><u>Adding Gmail to Windows Outlook: Seamless Integration Method</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-mobility-center-activation-in-w11-systems/"><u>Avoid Mobility Center Activation in W11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banishing-screen-glitches-in-modern-operating-systems/"><u>Banishing Screen Glitches in Modern Operating Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, What are Location Permissions Life360 On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-the-premium-18000mah-m-mock-1000a-vehicle-jump-starter-unrivaled-option-for-drivers/"><u>In-Depth Review of the Premium 18000mAh M MOCK 1000A Vehicle Jump Starter: Unrivaled Option for Drivers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-lenovo-p11-pro-tablet-examined-exceptional-qualities-marred-by-some-limitations/"><u>The Lenovo P11 Pro Tablet Examined - Exceptional Qualities Marred by Some Limitations</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721458526425-use-of-result-patterns-c-80plus/"><u>Use of Result Patterns (C# 8.0+):</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtubes-user-interface-for-comment-management-for-2024/"><u>YouTube's User Interface for Comment Management for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-understanding-cropping-settings-in-digital-editors/"><u>[Updated] 2024 Approved Understanding Cropping Settings in Digital Editors</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/becoming-a-social-media-storyteller-on-facebook-for-2024/"><u>Becoming a Social Media Storyteller on Facebook for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-on-picking-the-right-nvidia-driver-type/"><u>Expert Tips on Picking the Right Nvidia Driver Type</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/game-on-solving-your-origin-software-errors-for-an-uninterrupted-experience/"><u>Game On! Solving Your Origin Software Errors for an Uninterrupted Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/how-to-digitize-your-old-photos-and-turn-them-into-videos-for-2024/"><u>How to Digitize Your Old Photos and Turn Them Into Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-store-error-code-0x80131500/"><u>How to Fix the Microsoft Store Error Code 0X80131500</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-best-10-animated-text-software-for-stunning-visuals/"><u>New In 2024, Discover the Best 10 Animated Text Software for Stunning Visuals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-chromes-sudden-shutdown-a-windows-guide/"><u>Preventing Chrome's Sudden Shutdown: A Windows Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23-fe-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 FE Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-restore-your-pcs-renderer-state-in-overwatch-2/"><u>Steps to Restore Your PC's Renderer State in Overwatch 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unraveling-destiny-2s-202e-fix-for-the-infamous-broccoli-crash-error/"><u>Unraveling Destiny 2'S 202E Fix for The Infamous Broccoli Crash Error</u></a></li>
 </ul></div>
 

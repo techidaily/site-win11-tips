@@ -1,7 +1,7 @@
 ---
 title: Microsoft Store Locked? Try These Troubleshooting Steps
-date: 2025-01-07T22:46:28.174Z
-updated: 2025-01-12T17:01:26.655Z
+date: 2025-01-14T17:04:12.111Z
+updated: 2025-01-18T17:10:27.812Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check Your Internet Connection
 
@@ -50,10 +54,6 @@ To run the Windows Store apps troubleshooter, use these steps:
 
  You can try clearing the Microsoft Store cache to see if that fixes the problem. If you need help with the same, check our guide to learn[different ways to fix a damaged Microsoft Store cache](https://www.makeuseof.com/ways-to-fix-damaged-microsoft-store-cache/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Repair or Reset the Microsoft Store App
 
  Windows 10 and 11 have a built-in app repair feature that can help resolve minor app issues. You can use this feature to fix sign-in problems with the Microsoft Store app.
@@ -67,7 +67,7 @@ To repair the Microsoft Store app on Windows:
 ![Repair or Reset Microsoft Store on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-or-reset-microsoft-store-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A checkmark should appear next to the Repair button once the process is complete.
@@ -83,10 +83,6 @@ To repair the Microsoft Store app on Windows:
 3. Click on**Date & time** .
 4. Enable the toggle next to**Set time automatically** .  
 ![Enable Automatic Date and Time on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-automatic-date-and-time-on-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Make Sure Microsoft Store Install Service Is Running
 
@@ -108,23 +104,27 @@ To configure the Microsoft Store Install Service on Windows:
 
 ![Someone typing on a laptop sitting on a coffee table. The laptop is connecting to a VPN.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-connecting-to-a-vpn.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you have successfully signed into Microsoft Store, you can choose to re-enable your VPN connection if you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Re-Register Microsoft Store via PowerShell
 
  Another thing you can do to resolve this particular issue is re-register the Microsoft Store on your system. This will help you eliminate corrupt app data and restore Microsoft Store to its working state. You can refer to our guide to find detailed instructions on[how to re-register Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Reinstall Microsoft Store
 
  If re-registering Microsoft Store does not help, you can consider uninstalling it from your system and installing it again. This should give the app a clean start and resolve any issues that may have been preventing you from signing in. If you need help with this, check our guide on[how to remove and reinstall Microsoft Store on Windows](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Install Windows Updates
 
@@ -135,7 +135,7 @@ To configure the Microsoft Store Install Service on Windows:
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Regain Access to the Microsoft Store on Windows
@@ -157,22 +157,20 @@ To configure the Microsoft Store Install Service on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-growth-hacking-for-new-videographers/"><u>[New] YouTube Growth Hacking for New Videographers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screenstreamer-pro-cutting-edge-review-for-march-2023/"><u>[Updated] 2024 Approved ScreenStreamer Pro Cutting-Edge Review for March 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-ways-to-fix-the-windows-update-error-0x800f080a/"><u>6 Ways to Fix the Windows Update Error 0X800f080a</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-optional-features-not-installing-on-windows-10-and-11/"><u>7 Ways to Fix Optional Features Not Installing on Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-startup-manipulating-boot-timeout-on-windows-11/"><u>Accelerate Startup: Manipulating Boot Timeout on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ace-your-window-11-search-game-essential-tips-to-know/"><u>Ace Your Window 11 Search Game: Essential Tips to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adapting-notepad-display-from-light-to-dark-in-win-11-version/"><u>Adapting Notepad Display: From Light to Dark in Win 11 Version</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adapting-pre-ultimate-computers-to-seniors-needs/"><u>Adapting Pre-Ultimate Computers to Seniors' Needs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/are-your-windows-apps-struggling-to-connect-to-the-internet-try-these-fixes/"><u>Are Your Windows Apps Struggling to Connect to the Internet? Try These Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-zoom-failures-immediate-resolution-for-error-1132/"><u>Avoiding Zoom Failures - Immediate Resolution for Error 1132</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/convertire-vob-su-wav-gratuitamente-online-un-metodo-rapido-e-facile/"><u>Convertire VOB Su WAV Gratuitamente - Online: Un Metodo Rapido E Facile</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nubia-red-magic-9-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nubia Red Magic 9 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-deskjet-inkjet-2700-series-latest-driver-software-free-download/"><u>HP Deskjet Inkjet 2700 Series - Latest Driver Software Free Download</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mambo-measuring-macaws/"><u>In 2024, Mambo Measuring Macaws</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-unveil-the-secrets-to-excellent-youtube-thumbnails/"><u>In 2024, Unveil the Secrets to Excellent YouTube Thumbnails</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-an-ai-editor/"><u>New In 2024, What Is an AI Editor?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/unveiling-the-secrets-of-vob-files-a-comprehensive-guide/"><u>Unveiling the Secrets of VOB Files: A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-simple-solutions-to-capture-gotomeetings-effectively/"><u>[New] Simple Solutions to Capture GoToMeetings Effectively</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tart-a-stream-reap-riches-vlog-money-secrets-for-2024/"><u>[New] Start a Stream, Reap Riches Vlog Money Secrets for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-capturing-the-echoes-of-yesteryears-scanning-and-storing-vintage-prints/"><u>[Updated] 2024 Approved Capturing the Echoes of Yesteryears Scanning and Storing Vintage Prints</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-podcast-spotlight-listen-and-like-instantly-for-2024/"><u>[Updated] Podcast Spotlight Listen and Like Instantly for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-transforming-mundane-interviews-into-memorable-experienrances/"><u>2024 Approved Transforming Mundane Interviews Into Memorable Experienrances</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nokia-105-classic-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Nokia 105 Classic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-directory-not-empty-mistake-windows-error-x80070091/"><u>Decoding the 'Directory Not Empty' Mistake: Windows Error X80070091</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-restarting-windows-programs-in-1011/"><u>Efficiently Restarting Windows Programs in 10/11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-laughs-the-essential-tutorial-for-memetic-mastery-at-9gag/"><u>Elevating Laughs The Essential Tutorial for Memetic Mastery at 9GAG</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-easy-ways-to-get-the-latest-sandisk-ssd-driver-software-installed/"><u>Expert Advice: Easy Ways to Get the Latest SanDisk SSD Driver Software Installed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrated-file-management-in-powertoys/"><u>Integrated File Management in PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-window-error-terminate-denied-issue/"><u>Overcoming the Window Error: Terminate Denied Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-invalid-user-alert-in-w11-oses/"><u>Steps to Rectify Invalid User Alert in W11 OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surpassing-windows-internet-speed-ceiling-with-ease/"><u>Surpassing Windows Internet Speed Ceiling with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-control-fixing-flaky-windows-apps/"><u>Winning Back Control: Fixing Flaky Windows Apps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boosting Windows 10/11 Functionality: Add DiskSpace Analyzer Menu Feature"
-date: 2024-07-29T08:15:02.375Z
-updated: 2024-07-30T08:15:02.375Z
+date: 2025-01-13T17:22:03.399Z
+updated: 2025-01-18T16:02:27.365Z
 tags:
   - windows10
   - windows11
@@ -33,18 +33,21 @@ thumbnail: https://thmb.techidaily.com/de1e2dcf5aeceec6efa479819bb7032cddf48c949
 7. Keep clicking**Next** to reach additional task settings. There make sure the**Add RidNacs to Windows Explorer Context Menu** checkbox is selected.  
 ![The RidNacs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ridnac-setup-window.jpg)
 8. Select**Next** again, and then press the**Install** button to proceed with the installation.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Install button for RidNacs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/setup-ridnac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you start analyzing folder storage space usage on your PC with RidNacs. Open the Explorer file manager window, and right-click a folder to select**Show more options** . Click the**Analyze Disk Space Usage with RidNacs** option on the classic context menu to start the scan.
 
  RidNacs will open and display drive storage usage for all subfolders and files within the directory, as shown in the snapshot directly below. The graphical bars there show you the percentage volume of all the subfolders and files within the selected directory. That window also shows the number of files in each subfolder along with standard size details.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The RidNacs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ridnacs-window.jpg)
 
  You can select other directories or a whole drive to scan within the RidNacs window. To do so, click**File** and the**Choose Directory** option. Then choose another folder or an entire drive to scan and click**OK** .
@@ -53,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/de1e2dcf5aeceec6efa479819bb7032cddf48c949
 
 ![The Preferences window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preferences-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With Disk Savvy
 
  Disk Savvy is a slightly more advanced disk analyzer tool to RidNacs that includes a variety of pie and bar charts for users to view for analyzed folders. However, the freely available unregistered version’s file analysis is restricted to a maximum of 500,000 files. You’ll need to upgrade the software to its $50 pro version to remove that limitation. These are the steps for adding the Disk Savvy tool to File Explorer’s context menu.
@@ -74,11 +73,12 @@ thumbnail: https://thmb.techidaily.com/de1e2dcf5aeceec6efa479819bb7032cddf48c949
 
 ![The Default Profile window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/default-profile.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Disk Savvy window that opens displays similar disk usage info to RidNacs. It includes columns that tell you how many files are in the subfolders, the byte size of each folder and file, and the percentage of their root directory’s total size they amount to. However, Disk Savvy also includes a**Categorize by** submenu that includes various options for viewing categorized file info.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Disk Saavy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-savvy-window2.jpg)
 
  What sets Disk Savvy apart from RidNacs are its bar and pie graph options for viewing disk space usage info. Click the**Charts** button to access those options. Then you can select an option like**Disk Space Per File Type** ,**Disk Space Per Directory** , and**Disk Space Per Extension** to view a pie chart like the one below.
@@ -89,17 +89,19 @@ thumbnail: https://thmb.techidaily.com/de1e2dcf5aeceec6efa479819bb7032cddf48c949
 
  This software can analyze multiple folders at once. To select multiple folders in the Disk Savvy window, click**Default profiles** on the left and the**+** **Add** **input** button for directories. Then select the**Add Input Directory** option, click the**ellipsis** button, choose a folder to add, and press the**OK** buttons. Click**Analyze** to scan all selected folders.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![Add Input Directory option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-input-directory.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can save and export disk usage reports to various file formats. To do so, click the**Save** option. Select a file extension option on the**Report format** drop-down menu; click the**Report type** drop-down menu to choose an option there, and press the**Save** button. You can view the report by opening it from the default Documents folder save location.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disk space analyzis report options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-report-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get a Visual Overview of Folder and File Disk Usage in Windows
 
@@ -111,8 +113,6 @@ thumbnail: https://thmb.techidaily.com/de1e2dcf5aeceec6efa479819bb7032cddf48c949
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +120,23 @@ thumbnail: https://thmb.techidaily.com/de1e2dcf5aeceec6efa479819bb7032cddf48c949
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-explore-the-depths-of-video-clarity-comprehensive-guide-to-vce-22/"><u>[Updated] 2024 Approved Explore the Depths of Video Clarity - Comprehensive Guide to VCE 2.2</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-12-pc-clicker-games-to-elevate-gameplay-for-2024/"><u>[Updated] Essential 12 PC Clicker Games to Elevate Gameplay for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-prime-picks-the-best-in-bike-gaming-for-2024/"><u>[Updated] Prime Picks The Best in Bike Gaming for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/catch-em-all-the-comprehensive-pokemon-go-playbook/"><u>Catch 'Em All: The Comprehensive Pokémon Go Playbook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-into-techniques-preventing-apex-crashes-on-windows-11/"><u>Dive Into Techniques: Preventing Apex Crashes on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-multitask-management-cascade-windows-with-alt-tab/"><u>Efficient Multitask Management: Cascade Windows with Alt-Tab</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unheard-sound-from-devices-on-microsoft-windows/"><u>Fixing Unheard Sound From Devices on Microsoft Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-the-ipad-pro-m4-stack-up-against-the-macbook-air-m3-an-in-depth-analysis-of-capabilities/"><u>How Does the IPad Pro M4 Stack Up Against the MacBook Air M3? An In-Depth Analysis of Capabilities</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-top-4-proven-tactics-for-exceptional-loop-videos-on-ig/"><u>In 2024, Top 4 Proven Tactics for Exceptional Loop Videos on IG</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-high-definition-screen-scale-glitches/"><u>Overcoming High-Definition Screen Scale Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reign-in-windows-stop-unwanted-screen-movement/"><u>Reign In Windows: Stop Unwanted Screen Movement</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/screenmagic-pro-the-windows-10-companion/"><u>ScreenMagic Pro The Windows 10 Companion</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-troubleshoot-ignored-nvidiaamd-card/"><u>Steps to Troubleshoot Ignored NVIDIA/AMD Card</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-lower-ntoskrnlexe-usage/"><u>Strategies to Lower Ntoskrnl.exe Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-app-setup-utilizing-winstall-in-the-windows-11-landscape/"><u>Transforming App Setup: Utilizing Winstall in the Windows 11 Landscape</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unleash-creativity-capturing-sims-4-adventures/"><u>Unleash Creativity Capturing Sims 4 Adventures</u></a></li>
+</ul></div>
 

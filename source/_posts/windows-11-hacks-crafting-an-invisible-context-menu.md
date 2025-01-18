@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Hacks: Crafting an Invisible Context Menu"
-date: 2024-08-08T11:03:50.074Z
-updated: 2024-08-09T11:03:50.074Z
+date: 2025-01-17T17:30:05.890Z
+updated: 2025-01-18T17:46:24.308Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add a Hidden Items Option to the Context Menu With a Registry Script
 
  To add any new option to a Windows context menu, we must modify the registry. Adding a **Hidden items** option to the context menu involves a slightly more complicated registry tweak. So, it’s best to add such an option to the right-click menu with a more automated registry script method like this:
@@ -32,31 +29,38 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 3. Press both the **Windows** logo and **E** keyboard keys at the same time to [access File Explorer](https://www.makeuseof.com/windows-open-file-explorer/).
 4. Navigate to whatever folder the **hidden\_files\_context\_menu** ZIP downloaded in.
 5. Unzip (extract) the **hidden\_files\_context\_menu** ZIP file. We have a guide that includes instructions for [unzipping ZIP archives in Windows](https://www.makeuseof.com/unzip-files-windows-10/).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Extract Compressed (Zipped) Folder tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/extraction-utility.jpg)
 
 1. Open the extracted hidden\_files\_context\_menu folder.
 2. Double-click the **Add hidden files** **context menu** command registry script file.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The registry script's folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/registry-script-folder.jpg)
 3. Select **Yes** if a User Account Control prompt pops up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Yes** within the Registry Editor dialog box that asks if you’re sure about continuing.  
 ![The Registry Editor confirmation prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/registry-script-confirmation-prompt.jpg)
 5. Select **OK** on the second dialog box that appears.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now bring up the root C: directory in File Explorer to try out the new **Hidden items** context menu option. Right-click anywhere inside that folder to select **Show more options** on Windows 11’s context menu and **Hidden items**. Selecting that option will reveal a few hidden folders in the root directory if that setting isn’t enabled already. Click the same option again to hide the folder and files again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![The Hidden items option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hidden-items.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **hidden\_files\_context\_menu** ZIP archive also includes another registry script for removing the context menu. So, you don’t need to manually edit the registry to remove the **Hidden items** context menu. Running the **Undo hidden files in context menu** script will do the job for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Hidden Items Option to the Context Menu With Right-Click Extender
 
@@ -72,26 +76,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 8. Click the **File**/**Folder** tab in Right-Click Extender.  
 ![toggle-items-checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-items-checkbox.jpg)
 9. Select the **Toggle File**/**Folder Visibility** option along with its Icon checkbox.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Click on the **Apply** button.
 
  Now bring up the classic context menu within a folder in File Explorer by pressing **Shift** \+ **F10**. There you’ll see a new **Toggle File Visibility** submenu. Move your cursor over the **Toggle File Visibility** submenu to select a **Show Hidden Files** option. You can conceal the items again by selecting the opposite **Hide Hidden Files** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![The Toggle File Visibility submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-file-visibility-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Toggle Hidden Items On and Off From File Explorer’s Context Menu
 
  So, now you can select to show or hide files and folders from your context menu. If you select to show hidden items, you can see and access more folders and files in Windows. A context menu option for enabling/disabling hidden items can be especially useful for users who select to hide things with the attribute settings for files and folders.
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -99,3 +99,25 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-video-privacy-techniques-for-obscuring-details-for-2024/"><u>[New] Mastering Video Privacy Techniques for Obscuring Details for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aximizing-profits-on-youtube-the-latest-policy-for-2024/"><u>[New] Maximizing Profits on YouTube The Latest Policy for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-detailed-guidance-on-crafting-dynamic-yt-profiles/"><u>[Updated] In 2024, Detailed Guidance on Crafting Dynamic YT Profiles</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-best-budget-game-recording-software-for-gamers-for-2024/"><u>[Updated] The Best Budget Game Recording Software for Gamers for 2024</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/1732514978791-yl-computing-yl-software/"><u>深入了解《尚书》内容与价值 - YL Computing | YL Software专题分析</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-overcoming-windows-error-code-0x80070570-for-you/"><u>Decoding and Overcoming Windows Error Code 0X80070570 for You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-shop-crash-overcoming-error-x00000000/"><u>Eradicating Windows Shop Crash: Overcoming Error X00000000</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-error-code-0xc00000f-instantly/"><u>Fixing Windows Error Code 0Xc00000f Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reverse-the-activation-failure-code-0x803f700f/"><u>How to Reverse the Activation Failure: Code 0X803f700f</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterclass-acquiring-free-photo-frames-effortlessly-for-2024/"><u>Masterclass Acquiring Free Photo Frames Effortlessly for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-driver-failed-to-initialize-error-in-windows-11/"><u>Mitigating Driver Failed to Initialize Error in Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-instagram-stop-motion-tutorial-bring-your-posts-to-life-for-2024/"><u>New Instagram Stop Motion Tutorial Bring Your Posts to Life for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-error-code-0x80073cf3-in-windows/"><u>Resolving Microsoft Store Error Code 0X80073CF3 in Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oppo-a58-4g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Oppo A58 4G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-and-lenovo-blue-tooth-harmony-achieved/"><u>Win11 & Lenovo Blue-Tooth Harmony Achieved!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-index-options-breakdown/"><u>Windows Index Options Breakdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winrar-sync-failures-6-methods-for-checksum-harmony/"><u>WinRAR Sync Failures: 6 Methods for Checksum Harmony</u></a></li>
+</ul></div>
+

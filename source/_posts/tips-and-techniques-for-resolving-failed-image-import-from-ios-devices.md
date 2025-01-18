@@ -1,7 +1,7 @@
 ---
 title: Tips and Techniques for Resolving Failed Image Import From iOS Devices
-date: 2024-08-08T11:03:18.162Z
-updated: 2024-08-09T11:03:18.162Z
+date: 2025-01-14T17:24:37.790Z
+updated: 2025-01-18T18:25:42.818Z
 tags:
   - windows10
   - windows11
@@ -21,18 +21,15 @@ thumbnail: https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5a
  Users can’t transfer images from their iPhones to PCs because of this image import issue. Does the same issue arise when you try to import images from an Apple mobile with Windows Photos? If it does, you can fix the “Something went wrong” error with these potential resolutions.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Don’t Try to Import All the Images at Once
 
  Transferring a large number (hundreds or more) of photos at once from an iPhone to Windows can cause issues with the import process, resulting in the “Something went wrong” error. For instance, this issue could occur because of a small minority of corrupted images within a large batch. Thus, the error is less likely to happen if you reduce the number of images.
 
  So, don’t try to import all images on your iPhone. Try selecting to transfer a smaller number of photos you most want to view on your Windows PC. Then you can more easily identify problematic image files.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Select the Import Pictures Context Menu Option
 
  Some users have said they got around the “Something went wrong” import failure error by selecting an alternative option for transferring them. Those users selected to transfer the images from iPhones with Explorer’s**Import pictures** context menu option, which is more of a workaround than a fix for the Photos import error. You can try importing your photos by selecting that option as follows:
@@ -48,17 +45,15 @@ thumbnail: https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5a
 ![The Import option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/import-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Restart the Apple Mobile Device Service
 
  The “Something went wrong” error can arise when the Apple Mobile Device Service gets stuck. Restarting that service can resolve the issue in such a scenario. However, note that you won’t find that service if iTunes isn’t installed on your PC. This is how to restart the Apple Mobile Device service:
 
 1. Open Services on Windows. See[how to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) if you need help.
 2. Then double-click**Apple Mobile Device Service** to bring up its properties window.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-window.jpg)
 3. Select**Automatic** if a different**Startup type** setting is set.
 4. Click**Stop** to halt the service.  
@@ -75,11 +70,17 @@ thumbnail: https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5a
 3. Select the**Settings** menu option.  
 ![The Settings menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/settings-option.jpg)
 4. Scroll down to and turn off the**Use hardware acceleration video encoding** when available setting.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Use hardware-accelerated video encoding option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/use-hardware-acceleration-setting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Select the "Keep Originals" Option on Your iPhone
 
  One of the most widely confirmed fixes for the “Something went wrong” error is to select the Keep Originals iPhone setting. Selecting that option stops automatic JPEG conversion for importing pictures. You’ll need to apply this potential solution on your iPhone as follows:
@@ -92,22 +93,25 @@ thumbnail: https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5a
  If this resolution works, images will be imported in an original HEIC format, which isn’t universally compatible with Windows software. So, it’s recommended to convert the imported pictures to PNG or JPG. You can do so with the web apps included in our[how to convert HEIC files with online tools](https://www.makeuseof.com/convert-heic-files-tools/) guide.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Repair and/or Reset the Photos App
 
  Photos is a UWP (Universal Windows Platform) app with**Repair** and**Reset** troubleshooting options you can select when it’s not working right. In this case, Photos isn’t working right because you can’t import iPhone images with it. So, selecting its**Repair** /**Reset** options could feasibly resolve that Photos issue.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Reset and Repair options for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can access both those Photos troubleshooting options as outlined in our[guide to resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) . The**Repair** button is directly above the**Reset** option. First, select**Repair** to see if that makes a difference. Click**Reset** to eradicate the app’s data if the**Repair** option doesn’t resolve the “Something went wrong” image import error.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Close the OneDrive App
 
  The OneDrive cloud storage app is can conflict with Photos’ image importing. That’s more likely to happen when a OneDrive account’s storage space is severely limited. Try closing that background app and signing out from the Photos app as follows:
@@ -124,9 +128,6 @@ thumbnail: https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5a
 
  Note that the instructions above are for the legacy Windows 10 Photos app. You can’t select to sign out of a user account in Windows 11’s default Photos app. In Windows 11’s Photos app, click**Settings** and turn off the**OneDrive – Personal** option.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Disable Microsoft Defender (or Other Antivirus Utility)
 
  Sometimes antivirus (security) tools can interfere with file importing from other devices. To ensure that doesn’t happen, temporarily disable antivirus utilities on your PC before attempting to import images. If you haven’t installed any security software,[disable Microsoft Defender Antivirus in Windows Security](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) by turning off that app’s real-time protection.
@@ -135,9 +136,6 @@ thumbnail: https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5a
 
  If you have installed third-party security software, disable its antivirus shield. Avast, Kaspersky, Bit Defender, McAfee, Norton, and Avira all have system tray icons you can right-click to select settings that disable their shields. So, look for and select an option that disables your antivirus software on its context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Import Images From Your iPhone on Windows Again
 
  Many users have resolved the “Something went wrong” Photos error by applying some of the confirmed resolutions above. So, it’s most likely at least one of the above potential solutions will enable you to transfer images from your iPhone to Windows 10 or 11 PC again.
@@ -150,8 +148,6 @@ thumbnail: https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +155,26 @@ thumbnail: https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-world-of-live-periscope-streaming/"><u>[New] Navigating the World of Live Periscope Streaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-outlining-expenses-creating-a-music-video/"><u>[Updated] 2024 Approved Outlining Expenses Creating a Music Video</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-achieving-content-balance-a-thorough-exploration-of-yt-aspect-ratios/"><u>[Updated] In 2024, Achieving Content Balance A Thorough Exploration of YT Aspect Ratios</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/can-excess-applications-slow-down-your-pc-uncover-why-with-yl-computings-in-depth-analysis/"><u>Can Excess Applications Slow Down Your PC? Uncover Why with YL Computing's In-Depth Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-11-steam-error-missing-files/"><u>Eliminating Windows 11 Steam Error: Missing Files</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-gt-neo-5-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme GT Neo 5</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-fix-resolving-overwatchs-persistent-post-launch-darkness/"><u>Fixing the Fix: Resolving Overwatch's Persistent Post-Launch Darkness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-the-full-potential-of-windows-11s-auto-hdr/"><u>Harnessing the Full Potential of Windows 11'S Auto HDR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-batch-rename-files-with-powertoys-powerrename/"><u>How to Batch-Rename Files With Powertoys PowerRename</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-cut-down-clutter-spot-and-reduce-big-file-usage-windows/"><u>How to Cut Down Clutter: Spot and Reduce Big File Usage Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-c53-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme C53 Without PUK Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intercepting-wacatacbml-attacks-securing-windows-against-malware-invasion/"><u>Intercepting Wacatac.B!ml Attacks: Securing Windows Against Malware Invasion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-old-logon-phrase-glitch-in-windows/"><u>Mending “Old Logon Phrase Glitch in Windows”</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-complexity-access-to-windows-printer-administration-console/"><u>Simplifying Complexity: Access to Windows Printer Administration Console</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-seamless-access-to-windows-11s-app-compendium/"><u>Strategies for Seamless Access to Windows 11'S App Compendium</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trends-that-make-your-meme-epidemic-for-2024/"><u>Trends That Make Your Meme Epidemic for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-dev-error-6034-on-pc-and-xbox-in-call-of-duty-modern-warfare/"><u>Troubleshooting Guide: Resolving Dev Error 6034 on PC and Xbox in Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-portable-executable-format/"><u>Unraveling Windows' Portable Executable Format</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Uninstalling Internal PC Graphics with Ease
-date: 2024-08-08T11:02:06.008Z
-updated: 2024-08-09T11:02:06.008Z
+date: 2025-01-13T16:00:33.563Z
+updated: 2025-01-18T16:03:10.403Z
 tags:
   - windows10
   - windows11
@@ -21,35 +21,33 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
  In this guide, we're going to show you how to disable integrated graphics on your Windows computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check If You Have A Dedicated GPU
 
  Before you disable your integrated GPU (iGPU), you need to verify that your computer has a dedicated GPU installed and that it's working properly. To do that, right-click an empty part of the Taskbar and select **Task Manager**.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Task Manager Option in the Taskbar Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Task-Manager-Option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In Task Manager, select the **Performance** tab on the left and look at the number of GPUs available for your PC on the right. If there is more than one, then the other one is the dedicated GPU. In our case, **GPU 1** is the dedicated GPU, and if we click on it and scroll to the bottom, we can see that it says **Dedicated GPU Memory** in the rightmost panel.
 
 ![the Performace tab of Task Manager with the dedicated GPU selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/performace-tab-of-task-manager-with-gpu-selected-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you confirm you have an extra GPU on your computer, you can disable the iGPU.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How To Turn Off Your Windows Computer’s Integrated Graphics
 
  You can disable your iGPU in the Device Manager. To do that press **Win + R** to open Windows Run. Type **devmgmt.msc** in the text box and hit the **Enter** key to [open Device Manager](https://www.makeuseof.com/windows-open-device-manager/).
@@ -58,16 +56,10 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 
  Expand the **Display adapters** section, right-click your integrated GPU, and select **Disable device**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disabling an iGPU in Device Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disabling-igpu-in-device-manager.jpg)
 
  In the prompt that appears, confirm you want to disable the iGPU by clicking on **Yes**. That should turn off the integrated graphics on your Windows computer so that the system relies on the dedicated graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Should You Turn Off Integrated Graphics?
 
  While dedicated GPUs tend to be more powerful than iGPUs and can boost your computer's graphical performance, that is not always the case.
@@ -79,15 +71,14 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
  However, this may cause the iGPU to bottleneck the dedicated GPU in some scenarios if they're both running applications and there aren't enough system resources to go around.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use Your Dedicated Graphics Card When You Need It
 
  All in all, you're better off using your dedicated graphics card, especially if you are into graphically demanding applications. But if your computer doesn't have a dedicated GPU, disabling integrated graphics is not an option. The decision depends on what you're ultimately trying to achieve on your Windows computer.
 
  In this guide, we're going to show you how to disable integrated graphics on your Windows computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -95,3 +86,21 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-exclusive-gathering-of-top-tier-no-fee-vectr-and-illustration-sources/"><u>[New] Exclusive Gathering of Top-Tier No-Fee Vectr and Illustration Sources</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-best-binge-worthy-series-on-twittersphere-for-2024/"><u>[Updated] The Best Binge-Worthy Series on Twittersphere for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dive-into-literature-with-the-waterproof-kobo-libra-h2o-your-comprehensive-review/"><u>Dive Into Literature with the Waterproof Kobo Libra H2O – Your Comprehensive Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-activating-terminals-quake-modes/"><u>Guide to Activating Terminal's Quake Modes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-poco-x6-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Poco X6?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-plot-discourse-analysis/"><u>In 2024, Premier Plot Discourse Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808250322-instant-access-your-guide-to-direct3d-downloads/"><u>Instant Access: Your Guide to Direct3D Downloads!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quicken-keystrokes-with-windows-powertoys/"><u>Quicken Keystrokes with Windows PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resize-windows-11-ui-elements-for-better-visibility/"><u>Resize Windows 11 UI Elements for Better Visibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-overcoming-network-errors-in-the-latest-windows-os/"><u>Steps for Overcoming Network Errors in the Latest Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-steps-for-when-hogwarts-legacy-wont-launch-updated-advice/"><u>Troubleshoot Steps for When 'Hogwarts Legacy' Won't Launch - Updated Advice</u></a></li>
+</ul></div>
+

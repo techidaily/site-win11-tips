@@ -1,7 +1,7 @@
 ---
 title: How to Correct the Save Location Error on PCs
-date: 2024-08-08T11:01:45.613Z
-updated: 2024-08-09T11:01:45.613Z
+date: 2025-01-17T18:06:39.727Z
+updated: 2025-01-18T18:14:54.704Z
 tags:
   - windows10
   - windows11
@@ -21,16 +21,18 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
  Is that error also preventing you from changing where new apps save to? If it is, this is how you can fix error codes 0x80070005 or 0x80070539 on Windows 11/10\.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Set Your User Account to Administrator
 
  If you’re utilizing a standard Windows account, [change your user account type](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) to an administrative one. A standard user account will prevent you from applying any more complicated system changes. Changing the save location for apps is something you might need admin privileges for.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Account type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-account-type-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Rename the WindowsApps Directory
 
@@ -40,27 +42,17 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 2. [Open the File Explorer folder navigator](https://www.makeuseof.com/windows-open-file-explorer/) and click **This PC**.
 3. Double-click the drive/partition you want to set as your default save location for apps.
 4. Then, right-click on the WindowsApps folder and select its **Rename** context menu option. You should find that directory within the drive’s root directory.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-button.jpg)
 5. Rename the folder to **WindowsApps.old** and press **Enter**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Thereafter, try changing the default save location for apps again via Settings.
 
  If that still doesn’t work, then proceed to the next resolution.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Delete or Rename the WpSystem Folder
 
  Many users confirm that renaming or deleting the WpSystem folder fixes error 0x80070005\. WpSystem is a folder created to store app data. Try renaming that folder to **WpSystem.old** on the drive you can’t set to be a save location for apps, as outlined for the previous method. The WpSystem will be in the same directory as the WindowsApps folder.
@@ -69,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Set Full System Permission for the System Volume Folder
 
  Setting full permission for the System Volume folder is another confirmed fix for error 0x80070005\. Follow these steps to set full permission for the System Volume directory:
@@ -81,6 +70,11 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 3. Deselect the **Hide protected operating system files (Recommended)** option.  
 ![The Hide protected operating system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hide-protected-operating-system-files.jpg)
 4. Select the **Show hidden files, folders and drives** radio button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Apply** to save the new Explorer settings.
 
 1. Select the drive you need to set as the default save location for apps.
@@ -95,13 +89,14 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 ![The Select User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-user-group.jpg)
 3. Click on the **OK** button.
 4. Select the **Full control permission** setting.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-control-option.jpg)
 5. Then select the **OK** options on the Permission Entry and Advanced Security Settings windows.
 
  Close all remaining open windows. Then, restart your PC and try changing the default save location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set a New Default Save Location in Windows 11/10
 
@@ -111,11 +106,28 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 
  Is that error also preventing you from changing where new apps save to? If it is, this is how you can fix error codes 0x80070005 or 0x80070539 on Windows 11/10\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-gamers-masterclass-advanced-recording-tips-unveiled/"><u>[New] Gamers' Masterclass Advanced Recording Tips Unveiled</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-revolutionizing-virtual-reality-top-pc-headsets-of-the-new-year/"><u>[Updated] In 2024, Revolutionizing Virtual Reality Top PC Headsets of the New Year</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unlocking-overwatch-soundboard-secrets/"><u>[Updated] Unlocking Overwatch Soundboard Secrets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dxgidll-reemerge-easy-fixes-for-windows-11-users/"><u>Dxgi.dll Reemerge: Easy Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-your-vision-with-chatgpts-artificial-intelligence-skills/"><u>Empower Your Vision with ChatGPT's Artificial Intelligence Skills</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-capabilities-of-microsoft-family-safety/"><u>Exploring the Capabilities of Microsoft Family Safety</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-windows-oculus-compatibility-issues/"><u>Fixing Windows-Oculus Compatibility Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-complete-walkthrough-for-green-screen-expertise-in-kinemaster/"><u>In 2024, A Complete Walkthrough for Green Screen Expertise in Kinemaster</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proper-planning-essential-steps-for-using-wsl-2-right/"><u>Proper Planning: Essential Steps for Using WSL 2 Right</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-data-how-to-use-controlling-access-settings-in-windows/"><u>Securing Data: How to Use Controlling Access Settings in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-pathway-for-windows-11-emulation-on-workstation-17/"><u>The Ultimate Pathway for Windows 11 Emulation on Workstation 17</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-workflows-utilize-flow-launcher-for-maximum-output/"><u>Turbocharge Workflows: Utilize Flow Launcher for Maximum Output</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722894863520-understanding-wireless-protocols-a-deep-dive-into-80211be-80211ax-and-more/"><u>Understanding Wireless Protocols: A Deep Dive Into 802.11Be, 802.11Ax, and More</u></a></li>
+</ul></div>
+

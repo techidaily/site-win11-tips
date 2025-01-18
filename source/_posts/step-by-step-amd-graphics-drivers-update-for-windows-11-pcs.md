@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step AMD Graphics Drivers Update for Windows 11 PCs
-date: 2024-08-08T11:00:10.636Z
-updated: 2024-08-09T11:00:10.636Z
+date: 2025-01-16T17:12:27.680Z
+updated: 2025-01-18T16:12:52.478Z
 tags:
   - windows10
   - windows11
@@ -26,23 +26,16 @@ thumbnail: https://thmb.techidaily.com/359889cca1fac1d0cab50a3e170aa122469e4b901
 
  If you’re facing graphics-related problems such as video game crashes, rendering issues, or application freezes, you should consider updating your graphics card. A major Windows OS update can also require updating your graphics driver.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![image of an RTX GPU with an overlay of fire](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gpu-hot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Generally, updating your graphics driver can improve performance, fix known bugs, and even provide a new set of incredible features. It also prevents your Windows from unexpected crashes and brings greater stability.
 
  However, if you’re not having any issues with your current AMD Radeon graphics driver, you don’t necessarily need to update to the latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Automatically Update Your AMD Radeon Driver
 
  The best way to install the latest AMD Radeon driver is through the official AMD Software: Adrenalin Edition tool. Once set up, the device automatically detects your current AMD display adapters and graphic cards and downloads the necessary updates (if available).
@@ -52,20 +45,29 @@ thumbnail: https://thmb.techidaily.com/359889cca1fac1d0cab50a3e170aa122469e4b901
 1. Note down the model of your installed AMD graphics card by navigating to**Task Manager > Performance > GPU** . In the below screenshot, we’re using the AMD Ryzen 5 - Radeon Vega 8 Graphics card. If you cannot figure it out, choose a random AMD Radeon product in the next step.  
 ![graphics card check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/graphics-card-check.jpg)
 2. Head to the official[AMD support website](https://www.amd.com/en/support) , select your AMD Radeon graphics card, and hit**Submit** .  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![find amd driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/find-amd-driver.jpg)
 3. Click on**Windows 11 - 64-Bit Edition** , then scroll to find**AMD Software: Adrenalin Edition** , and click the**Download** button.  
 ![download amd software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/download-amd-software.jpg)
 4. Once the download is completed, double-click to execute the installation setup.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install amd adrenaline software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/install-amd-adrenaline-software.jpg)
 5. Follow the installation wizard, and the AMD Software Installer will automatically launch. The tool will automatically scan your PC’s hardware and software specifications and determine if any new driver updates are available.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update amd driver automatically](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-amd-driver.jpg)
 6. If the AMD Software finds any new driver updates, it will ask you to confirm the installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Restart your PC once the installation process is completed.
 
 ## How to Manually Download an Older AMD Radeon Graphics Driver
@@ -76,29 +78,24 @@ If you need to download an older AMD Graphics Driver:
 
 1. Head to the official[AMD support website](https://www.amd.com/en/support) , select your AMD Radeon graphics card, and hit**Submit** .
 2. At the bottom of the**Drivers and Software** section, select the link labeled**Previous Drivers.**  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![manually download amd driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/manually-download-amd-driver.jpg)
 3. Select**Windows 11 - 64-Bit Edition** , choose the required Radeon graphics driver and hit**Download** .
-4. Unpack the downloaded setup and follow the wizard to install the older AMD Radeon graphics driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Unpack the downloaded setup and follow the wizard to install the older AMD Radeon graphics driver.
+
 ## Keep Your AMD Graphics Drivers Updated on Windows
 
  AMD provides incredible support to ensure their AMD devices perform at the highest level possible. As a user, keep your AMD Radeon Graphics updated with the latest version for better performance and reliability.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +104,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-dissecting-disney-disguises-the-goofy-trek/"><u>[New] 2024 Approved Dissecting Disney Disguises 'The Goofy Trek'</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-apowersoft-screenshot-suite-comprehensive-free-analysis/"><u>[Updated] In 2024, Apowersoft Screenshot Suite Comprehensive Free Analysis</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-step-by-step-soundtracking-tips-for-premiere-pro-editors/"><u>[Updated] Step-by-Step Soundtracking Tips for Premiere Pro Editors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-transforming-trips-into-tales-the-roadmap-to-becoming-a-travel-blogger/"><u>[Updated] Transforming Trips Into Tales The Roadmap to Becoming a Travel Blogger</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beware-deceptions-uncover-the-truth-about-scam-ridden-mac-app-store/"><u>Beware Deceptions: Uncover the Truth About Scam-Ridden Mac App Store</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blending-binaries-digital-photographic-techniques-for-2024/"><u>Blending Binaries Digital Photographic Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bulk-clean-up-eliminating-characters-from-an-excel-document-simultaneeously/"><u>Bulk Clean-Up: Eliminating # Characters From an Excel Document Simultaneeously</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/coloring-beneath-the-surface-a-guide-to-shading-alternating-cells-in-ms-excel/"><u>Coloring Beneath the Surface: A Guide to Shading Alternating Cells in MS Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-unique-capabilities-of-siri-11-innovative-uses-for-your-mac/"><u>Discover the Unique Capabilities of Siri: 11 Innovative Uses for Your Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-determining-your-datasets-middle-value-the-median-formula-in-excel-unveiled/"><u>Efficiently Determining Your Dataset's Middle Value: The Median Formula in Excel Unveiled</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-nubia-red-magic-8s-proplus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Nubia Red Magic 8S Pro+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-infinix-hot-30i-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Infinix Hot 30i?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/les-jours-du-dimanche-francais/"><u>Les Jours Du Dimanche Français</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-mastering-uppercase-letters-with-microsoft-excel/"><u>Step-by-Step Guide: Mastering Uppercase Letters with Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-accessing-and-deciphering-obscure-file-types/"><u>The Ultimate Guide to Accessing and Deciphering Obscure File Types</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-master-these-7-microsoft-excel-features-for-superior-financial-planning/"><u>The Ultimate Guide: Master These 7 Microsoft Excel Features for Superior Financial Planning</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-honor-100-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Honor 100 FRP Bypass</u></a></li>
+</ul></div>
 

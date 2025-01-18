@@ -1,7 +1,7 @@
 ---
 title: Mastering MS Office WIdows 10/11 Setup
-date: 2024-08-08T11:02:54.749Z
-updated: 2024-08-09T11:02:54.749Z
+date: 2025-01-11T18:09:03.936Z
+updated: 2025-01-18T16:59:00.608Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download and Install Microsoft Works 9
 
  The Microsoft Works suite isn’t generally available on software download sites. However, you can still install and utilize that software with an MS Works ISO file preserved on the Internet Archives website.
@@ -28,21 +32,17 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
 1. Open this [Internet Archives webpage](https://archive.org/details/microsoft-works-9) in your browser.
 2. Click the **ISO IMAGE** download link.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![The ISO Image download option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iso-image.jpg)
 3. Double-click the **Microsoft Works 9.ISO** file and click **Open** if a Security Warning dialog box pops up.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Open option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-option.jpg)
 4. Then double-click the **Setup.exe** file for Microsoft Works 9\.
 5. Click **Next** inside the Microsoft Works setup window.
 6. Click **Create a desktop shortcut** to select that option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The Install option for Microsoft Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-install-option.jpg)
 7. Select the **Install MS Works 9** option.
 8. Click **Continue** to install other components.
@@ -52,27 +52,25 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
  If Works doesn’t start for you, try running it in compatibility mode. Right-click the Works desktop shortcut to select **Properties** \> **Compatibility**. Click the **Run this program in compatibility mode** setting and choose **Windows Vista** on the drop-down menu. Select **Apply** to save the **Vista** compatibility mode setting.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-this-program-as-administrator-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getting Started With Microsoft Works 9
 
  You’ll see a Welcome to Microsoft Works window the first time you run the software. Select the **I Agree** option on that window to accept the license terms. You’ll also be asked about participating in a customer experience program. Click **No** to opt out of participation. Then press the **Finish** button to get stuck into Microsoft Works 9\.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![The I Agree radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/software-license-terms-1.jpg)
 
  Now you can get started utilizing the Microsoft Works 9 suite. A Microsoft Works window from which you can select to open the suite’s applications will open. You can launch the apps by clicking the **Works Word Processor**, **Database**, and **Spreadsheet** options in that window’s Quick Launch bar.
 
 ![The Microsoft Works suite window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-works-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You’ll also notice that the window includes a calendar on which you can view appointments. To do so, you’ll need to add appointments inside the Works Calendar app. You can launch that software by clicking the **Open Calendar** button. To add an event, select a day within the Calendar app and then input a note for it at a time on the **My Calendar** tab.
 
@@ -82,11 +80,12 @@ No advertising on the website.
 
 ![The Templates tab in MS Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/templates-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft Works also has an interactive introductory tour for the suite. That tutorial provides details for utilizing the calendar, contacts, and templates within the Microsoft Works window. Click the **Quick Tour** option just above the **Calendar** tab to open it. Then click the **Next** compass points to go through the tour.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Quick Tour window for MS Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-ms-works-tour.jpg)
 
 ## Discover Microsoft Works 9 in the Modern Era
@@ -95,11 +94,31 @@ No advertising on the website.
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-influence-of-seo-on-youtube-video-popularity/"><u>[New] 2024 Approved Influence of SEO on YouTube Video Popularity</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-android-hacks-counterclockwise-video-stream/"><u>[New] Android Hacks Counterclockwise Video Stream</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-nightmare-comprehensive-fix-for-error-code-abd-8014-in-dead-by-daylight/"><u>Beat the Nightmare - Comprehensive Fix for 'Error Code Abd 8014' In Dead by Daylight</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-xiaomi-redmi-note-12-4g-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Xiaomi Redmi Note 12 4G Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/drive-efficiency-forward-hotkeys-for-fast-clicking/"><u>Drive Efficiency Forward: Hotkeys for Fast Clicking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fix-guide-for-win1011s-corrupted-bin-errors/"><u>Essential Fix Guide for WIN10/11's Corrupted Bin Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/full-hd-classics-unlocked-the-perfect-scummvm-techniques-for-windows-users/"><u>Full HD Classics Unlocked: The Perfect ScummVM Techniques for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-you-through-fixing-a-frozen-control-key-in-win11/"><u>Guiding You Through Fixing a Frozen Control Key in Win11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oneplus-11r-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your OnePlus 11R Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-narzo-60-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme Narzo 60 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-11-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 11 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-picture-talk-engineer/"><u>In 2024, Picture Talk Engineer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/journey-into-system32-folder-of-win11/"><u>Journey Into System32 Folder of Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/making-the-right-call-with-local-language-model-choices/"><u>Making the Right Call with Local Language Model Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-win-11-edge-security-using-ms-defender-application-guard/"><u>Optimize Win 11 Edge Security Using MS Defender Application Guard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-optimal-performance-by-taming-high-cpu-demands/"><u>Unleashing Optimal Performance by Taming High CPU Demands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winerror-0xc0000005-fix-a-step-by-step-guide/"><u>WinError 0Xc0000005 Fix: A Step-by-Step Guide</u></a></li>
+</ul></div>
+

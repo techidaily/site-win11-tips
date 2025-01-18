@@ -1,7 +1,7 @@
 ---
 title: Streamlining Word Edits with Snipping Tool
-date: 2025-01-11T00:15:36.165Z
-updated: 2025-01-12T18:51:19.198Z
+date: 2025-01-12T16:59:49.732Z
+updated: 2025-01-18T16:26:32.255Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the Text Actions Feature in the Snipping Tool?
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
  However, the latest build of Microsoft Insider Dev and Canary channel featured an updated version of the Snipping Tool, including the "Text Action" feature. This brings OCR support for screenshots, meaning you can scan your captured images for text.
 
  You can copy a selected portion of the identified text or copy all the text from the screenshot before saving it. Moreover, you can also redact the text and then copy the remaining portion of the text from the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable and Use Text Actions Feature in the Snipping Tool
 
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 7. Paste all the copied text in the Notepad and save it for later.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Redact Text in the Snipping Tool
@@ -73,14 +69,10 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 ![Redacting Text in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/redacting-text-in-snipping-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to apply only one kind of redact option, click on the arrow icon next to the Quick Redact option. Now, unselect any option and then click on the Quick Redact option once again. Lastly, if you want to remove the redact effect from the screenshot, click on the arrow icon and then click on the **Remove all redactions** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our Observations on the Snipping Tool
@@ -89,7 +81,15 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 ![Text Actions For Hindi Language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-for-hindi-language.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Copy Text From Screenshots in a Snap
 
@@ -107,19 +107,16 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-laugh-loom-meme-crafter/"><u>[New] Laugh Loom Meme Crafter</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-channel-catalysts-affiliates-aiding-budgeted-buzzers/"><u>[Updated] In 2024, Channel Catalysts Affiliates Aiding Budgeted Buzzers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-building-a-channel-team-up-videography-guide/"><u>2024 Approved Building a Channel Team-Up Videography Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/customize-your-workspace-a-simple-way-to-update-your-computers-desktop-background-advice-by-yl-software/"><u>Customize Your Workspace: A Simple Way to Update Your Computer's Desktop Background - Advice by YL Software</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-no-cost-blackberry-video-converter-make-any-clip-playable-on-your-bold-and-curve-phones/"><u>Download No-Cost BlackBerry Video Converter: Make Any Clip Playable on Your Bold and Curve Phones!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-intellij-unison-crashes-in-windows-11/"><u>Fixing IntelliJ Unison Crashes in Windows 11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-s24-ultra-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy S24 Ultra?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lowest-black-friday-keys-fan-discount-on-windows-11-free-forever/"><u>Lowest Black Friday Keys Fan Discount on Windows 11, Free Forever</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-powershell-a-key-for-administrators/"><u>Mastering PowerShell: A Key for Administrators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-missing-file-detection-problems-on-win-11/"><u>Mitigating Missing File Detection Problems on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-failed-system-call-on-windows-systems/"><u>Steps to Tackle Failed System Call on Windows Systems</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/strategies-for-securing-youtubers-as-sponsors-for-2024/"><u>Strategies for Securing YouTubers as Sponsors for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-dxgierrordeviceremoved-challenge/"><u>Tackling the DXGI_ERROR_DEVICE_REMOVED Challenge</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-experts-choice-best-action-cameras-for-winter-sports/"><u>[New] Expert's Choice Best Action Cameras for Winter Sports</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-channel-naming-excellence-tips-and-strategies/"><u>[Updated] Channel Naming Excellence Tips & Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-through-srt-freeze-in-adobe-premiere-projects/"><u>2024 Approved Navigating Through SRT Freeze in Adobe Premiere Projects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-legjobb-ip-cameras-and-their-complementary-free-software-for-seamless-streaming/"><u>Best Legjobb IP Cameras and Their Complementary Free Software for Seamless Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-income-with-movavis-rewarding-affiliate-network/"><u>Boost Your Income with Movavi's Rewarding Affiliate Network</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comment-transformer-facilement-un-video-mkv-en-format-avi/"><u>Comment Transformer Facilement Un Vidéo MKV en Format AVI?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-se-2020-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone SE (2020) Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/scopri-i-primissimi-software-per-lettorieditor-pdf-una-lista-dei-migliori-6-alternative-per-i-tuoi-bisogni-digitali/"><u>Scopri I Primissimi Software per Lettori/Editor PDF: Una Lista Dei Migliori 6 Alternative Per I Tuoi Bisogni Digitali</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-wma-in-ogg-gratuitamente-online-utilizzando-movavi/"><u>Trasforma I Tuoi WMA in Ogg Gratuitamente Online Utilizzando Movavi!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/video-quality-debate-the-pros-of-30-vs-60-fps-for-2024/"><u>Video Quality Debate The Pros of 30 Vs. 60 Fps for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1726027377865-gif/"><u>エンゲージメント向上：キラリとした文字でGIFに命を吹きこむ方法</u></a></li>
 </ul></div>
 

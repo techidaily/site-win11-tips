@@ -1,7 +1,7 @@
 ---
 title: Guide to Fix Windows 11 'Get Support' Glitch
-date: 2025-01-08T23:38:34.789Z
-updated: 2025-01-12T16:40:01.757Z
+date: 2025-01-15T17:25:26.367Z
+updated: 2025-01-18T16:44:06.024Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Begin With Some General Fixes
 
  Here are some quick tips on how to fix the Get Help app not working issues quickly:
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 * **Update your Windows version:** Older versions of Windows may contain bugs that may prevent the Get Help app from functioning correctly. So, always [ensure your Windows version is up-to-date](https://www.makeuseof.com/update-windows-manually/).
 
  Note that these fixes can't help you if your issue is serious. In that case, try the following troubleshooting methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Repair or Reset the Get Help App
 
@@ -51,13 +59,17 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 ![Get Help In Installed Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-installed-apps.jpg)
 4. Now, scroll to the bottom and click **Repair**. If the repair fails, you can use the **Reset** option.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
 
- Here's the best part: This process isn't exclusive to the Get Help app. So, you can also apply the above steps to other malfunctioning Windows apps
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Here's the best part: This process isn't exclusive to the Get Help app. So, you can also apply the above steps to other malfunctioning Windows apps
 
 ## 3\. Troubleshoot Network-Related Issues
 
@@ -69,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 * Connecting to a different network, as specific network configurations might disrupt certain apps.
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Disable VPN or Proxy Temporarily
 
  If you're still facing issues with the Get Help app, it seems to be due to your VPN or proxy configuration. You can disable your connected VPN or proxy for a quick test.
@@ -83,15 +91,15 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 ![VPN Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vpn-settings-search-results.jpg)
 2. Choose the **Disconnect** button to turn off the VPN.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
 
  Remember to re-enable your VPN or proxy once you're done to ensure your online activities remain private and secure.
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Restart Windows Services
 
@@ -107,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 4. Select **Restart** from its context menu.  
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
 
@@ -137,14 +141,10 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## No More Blank Screen in the Get Help App
 
@@ -164,21 +164,17 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-the-leading-cloud-services-with-best-price-for-2024/"><u>[New] The Leading Cloud Services with Best Price for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-ultimate-guide-to-extracting-youtube-subtitles-srt/"><u>[New] The Ultimate Guide to Extracting YouTube Subtitles (SRT)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-breakdown-of-payment-percentages-in-short-video-royalties/"><u>[Updated] 2024 Approved The Breakdown of Payment Percentages in Short Video Royalties</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-unique-cellphone-alerts-from-popular-tiktok-music/"><u>2024 Approved Crafting Unique Cellphone Alerts From Popular TikTok Music</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-seamless-workflows-ifttt-for-task-management/"><u>Crafting Seamless Workflows: IFTTT for Task Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-and-solving-the-enigmatic-windows-c0000022-hurdle/"><u>Decoding and Solving the Enigmatic Window's C0000022 Hurdle</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-access-to-hp-laserjet-pro-m127fn-printer-drivers-secure-and-updated-downloads-here/"><u>Easy Access to HP Laserjet Pro M127FN Printer Drivers – Secure & Updated Downloads Here!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-steps-for-perfect-directx-setup-and-updates/"><u>Easy Steps for Perfect DirectX Setup & Updates</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-tips-for-aspiring-professionals-entering-the-field-of-prompt-engineering/"><u>Essential Tips for Aspiring Professionals Entering the Field of Prompt Engineering</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-win-based-steam-internet-connectivity-issues/"><u>Fixing Win-Based Steam Internet Connectivity Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-correcting-xbox-game-pass-fatal-error-in-windows-11/"><u>Guide to Correcting Xbox Game Pass Fatal Error in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-mouse-cursor-on-windows-11-a-step-by-step-guide/"><u>How to Restore Your Mouse Cursor on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-oppo-f23-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Oppo F23 5G on Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ins-and-outs-of-ai-prompt-engineering-is-it-the-future-for-job-seekers/"><u>The Ins and Outs of AI Prompt Engineering – Is It the Future for Job Seekers?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-using-dism-with-win11-system-recovery/"><u>The Ultimate Guide to Using Dism with Win11 System Recovery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tricks-for-a-larger-windowed-pin-display-in-win-11/"><u>Tricks for a Larger Windowed Pin Display in Win 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-transforming-realities-into-engaging-documentaries-through-scriptwriting/"><u>[New] In 2024, Transforming Realities Into Engaging Documentaries Through Scriptwriting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smilescape-turn-daily-life-into-hilarious-stories/"><u>[New] SmileScape Turn Daily Life Into Hilarious Stories</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-the-affordable-349-ipad-stole-the-show-at-apples-innovative-let-loose-event-according-to-zdnet-coverage/"><u>Discover How the Affordable $349 iPad Stole the Show at Apple's Innovative Let Loose Event, According to ZDNET Coverage</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-infinix-hot-30i-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Infinix Hot 30i.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-a-broken-logitech-g733-microphone-a-step-by-step-guide/"><u>Effective Fixes for a Broken Logitech G733 Microphone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guaranteeing-remote-device-connections-on-windows-systems/"><u>Guaranteeing Remote Device Connections on Windows Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flexible-cam-mount-revolutionary-positioning-control/"><u>In 2024, Flexible Cam Mount Revolutionary Positioning Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-upgrade-rectification-error-0x80246007-in-win11/"><u>Mastering the Art of Upgrade Rectification: Error 0X80246007 in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-activate-end-task-feature-in-windows-11/"><u>Navigating to Activate End Task Feature in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-measures-for-error-0x800700e1-on-windows-11-devices/"><u>Proactive Measures for Error 0X800700E1 on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-victory-top-tips-for-cs-go-gaming/"><u>Speed Up Victory: Top Tips for CS GO Gaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-sticking-with-your-old-phone-means-losing-out-discover-the-benefits-of-switching-to-iphone-15-insights-from-apple/"><u>Why Sticking with Your Old Phone Means Losing Out: Discover the Benefits of Switching to iPhone 15 - Insights From Apple</u></a></li>
 </ul></div>
 

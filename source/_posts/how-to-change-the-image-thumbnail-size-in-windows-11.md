@@ -1,7 +1,7 @@
 ---
 title: How to Change the Image Thumbnail Size in Windows 11
-date: 2024-08-08T11:02:46.219Z
-updated: 2024-08-09T11:02:46.219Z
+date: 2025-01-13T16:56:52.325Z
+updated: 2025-01-18T16:30:01.215Z
 tags:
   - windows10
   - windows11
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
  Have you ever had trouble identifying your images in Windows because their thumbnail size was too small? If so, you've come to the right place. In this article, we'll share two efficient ways to change the image thumbnail size, allowing you to easily organize and locate your files.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Change Image Thumbnail Size Using the File Explorer
 
  Whether you need to perform simple tasks like viewing images or more complex operations like managing [Folder options](https://www.makeuseof.com/windows-folder-options-guide/), the Windows File Explorer has you covered. And if you want to adjust image thumbnail sizes to your liking, you can do that too using File Explorer.
@@ -31,15 +32,16 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
 2. In the search bar, type **File Explorer** and press Enter. Alternatively, you can press the **Win + E** hotkey to launch the File Explorer.
 3. Head towards the target image folder.
 4. Click the **View** option at the top and choose the image thumbnail size from the context menu. Windows offers four thumbnail sizes – extra large, large, medium, and small. You can choose either of the thumbnail sizes as per your preference.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![View option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Change the Image Thumbnail Size Using the Registry Editor
 
  The Registry Editor is a crucial Windows utility that allows you to configure various system settings. However, it's important to note that editing the registry can be risky, as one mistake could cause your system to become unstable. Therefore, it's essential to [back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) and [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding with any changes.
@@ -50,35 +52,24 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
 2. In the Registry Editor, head toward the following location:  
 `Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer`
 3. Right-click the blank space in the right pane, hover the cursor to **New**, and select **DWORD (32-bit) Value**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![DWORD (32-bit) Value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dword-32-bit-value-2.jpg)
 4. Name the value **ThumbnailSize**.
-5. Double-click on ThumbnailSize, and enter the value between **32** and **256**. The higher the number, the larger the image thumbnail.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Double-click on ThumbnailSize, and enter the value between **32** and **256**. The higher the number, the larger the image thumbnail.  
 ![Value data in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/value-data-1.jpg)
 6. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Everything Is Large and Clear on Windows
 
  Thumbnails are small representations of the original image, allowing you to identify and organize your images easily. However, if the image thumbnail size is too small, identifying and organizing your images can be challenging. Fortunately, the above methods can help you change the image thumbnail size according to your preference, making it easier to manage your files.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -86,3 +77,23 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-secret-life-of-a-designer-canvas-hidden-edits/"><u>[New] In 2024, The Secret Life of a Designer Canva's Hidden Edits</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-gaming-melodies-legal-downloadable-links/"><u>[Updated] 2024 Approved Gaming Melodies Legal, Downloadable Links</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlock-creativity-the-best-collection-of-free-slide-show-patterns-for-2024/"><u>[Updated] Unlock Creativity The Best Collection of Free Slide Show Patterns for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensure-win11-stay-up-to-date-essential-uptime-checks/"><u>Ensure Win11 Stay Up-to-Date: Essential Uptime Checks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-server-crashes-in-media-software/"><u>Fixing Server Crashes in Media Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-novice-to-expert-film-cameras-you-can-trust-for-2024/"><u>From Novice to Expert Film Cameras You Can Trust for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/guaranteed-steps-securely-restoring-your-sql-server-from-a-zipped-database-backup/"><u>Guaranteed Steps: Securely Restoring Your SQL Server From a Zipped Database Backup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/illuminate-interruption-5-solutions-to-bring-back-keyboard-glow/"><u>Illuminate Interruption: 5 Solutions to Bring Back Keyboard Glow</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-from-basic-to-breakthrough-elevating-your-zoom-livestream-game/"><u>In 2024, From Basic to Breakthrough Elevating Your Zoom Livestream Game</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-opengl-error-code-3-with-nvidia/"><u>Overcoming OpenGL Error Code 3 with NVIDIA</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-find-functionality-a-step-by-step-guide-for-win11-users/"><u>Quick Find Functionality – A Step-by-Step Guide for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-your-digital-label-changing-username-in-windows-11/"><u>Revolutionize Your Digital Label: Changing UserName in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-file-distribution-the-ultimate-sefx-guide-for-win11/"><u>Streamlining File Distribution: The Ultimate SEFx Guide for Win11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unraveling-the-benefits-and-user-experience-of-the-philips-hf3505-morning-sun-alarm-clock-review/"><u>Unraveling the Benefits and User Experience of the Philips HF3505 Morning Sun Alarm Clock Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visual-virtuosos-questions-addressed/"><u>Visual Virtuosos Questions Addressed</u></a></li>
+</ul></div>
+

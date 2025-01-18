@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Methods to Use Both Network Types on a Single Windows Device
-date: 2025-01-10T02:09:08.353Z
-updated: 2025-01-12T21:21:30.144Z
+date: 2025-01-17T16:12:15.867Z
+updated: 2025-01-18T16:33:04.848Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why You May Need to Use Both the Wi-Fi and Ethernet Connections Simultaneously
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
  On the flip side, there are chances of packet loss due to duplicate packets being transmitted via both the Wi-Fi and Ethernet connection. Lower-end routers may also notice decreased speed due to increased load on your network device. This is part of the reasons[why you may want to replace your ISP's router](http://www.makeuseof.com/tag/reasons-replace-isp-router/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Configure Windows to Use Wi-Fi and Ethernet Connections Simultaneously
@@ -63,10 +63,6 @@ To disable packet priority and VLAN on Windows:
 ![priority vlan disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/priority-vlan-disabled.jpg)
 5. Select**Priority and VLAN Disabled.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**OK** to save the changes.
 7. Next, you need to repeat the steps for your Wi-Fi adapter. So, open Properties for your Wi-Fi adapter and set its**Priority and VLAN** value to**Priority & VLAN Disabled** .
 8. Click**OK** to save the changes.
@@ -74,7 +70,7 @@ To disable packet priority and VLAN on Windows:
  With the network adapter priority option disabled, Windows will now use both network connections simultaneously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set the Network Priority for Wi-Fi or Ethernet Using Interface Metric
@@ -89,7 +85,7 @@ To change network priority on Windows:
 3. Right-click on your Ethernet adapter and select**Properties** . If you want to prioritize your Wi-Fi adapter, choose that instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Next, select**Internet Protocol Version 4 (TCP/IPv4)** and click on**Properties** .  
@@ -100,6 +96,10 @@ To change network priority on Windows:
 8. Note that if you use Internet Protocol Version 6 (IPv6) protocol, you’ll need to assign an interface metric for it as well.
 
  With the changes saved, Windows will prioritize your preference when multiple network adapters are connected to your computer. To undo the changes, open**Advanced TCP/IP Settings** and check the**Automatic** **metric** option. Then, click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Your Computer Use Your Wi-Fi and Ethernet at the Same Time
 
@@ -122,24 +122,20 @@ To change network priority on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-how-to-blur-and-hide-private-information-in-recorded-video/"><u>[New] In 2024, How to Blur and Hide Private Information in Recorded Video</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-surviving-splashes-top-7-action-cam-selection/"><u>[New] Surviving Splashes Top 7 Action Cam Selection</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-angled-artistry-elevating-youtube-video-editing-skills/"><u>2024 Approved Angled Artistry Elevating YouTube Video Editing Skills</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-easy-ways-to-check-your-ram-type-on-windows/"><u>4 Easy Ways to Check Your RAM Type on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-ways-to-turn-filter-keys-on-or-off-on-windows/"><u>4 Ways to Turn Filter Keys On or Off on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-practical-guide-to-resolving-steam-setup-problems-win11-edition/"><u>A Practical Guide to Resolving Steam Setup Problems, Win11 Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-step-by-step-approach-for-effective-spotify-marketing/"><u>A Step-by-Step Approach for Effective Spotify Marketing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-functional-automation-rules-on-desktop/"><u>Addressing Non-Functional Automation Rules on Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-sudden-screen-blackouts-in-winsteam/"><u>Addressing Sudden Screen Blackouts in WinSteam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ai-copilot-arrives-on-windows-11-transforming-user-interaction/"><u>AI Copilot Arrives on Windows 11, Transforming User Interaction</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-display-drivers-that-dont-launch-in-windows-10/"><u>Avoiding Display Drivers That Don’t Launch in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/become-a-full-screen-screenshot-expert-4-essential-tricks-for-windows/"><u>Become a Full-Screen Screenshot Expert: 4 Essential Tricks for Windows.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-system-performance-by-enabling-automatic-file-deletion-in-winos/"><u>Boost System Performance by Enabling Automatic File Deletion in WINOS</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-digital-landscape-with-facebook-twitter-instagram-and-youtube/"><u>Exploring the Digital Landscape with Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-10t-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme 10T 5G Phone without PIN</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pixelated-projections-immersive-filmscape-for-2024/"><u>Pixelated Projections Immersive Filmscape for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/quick-guide-to-infusing-new-flair-in-old-content-using-instagram-features-for-2024/"><u>Quick Guide to Infusing New Flair in Old Content Using Instagram Features for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/repaired-fnaf-mobile-game-crashes-no-more-play-stable-version/"><u>Repaired FNAF Mobile Game Crashes No More – Play Stable Version</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726029244126-xmedia-recode/"><u>XMedia Recodeを使用したビデオ解像度調整手順とそれに代わる戦略</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-secrets-of-windows-10-effortless-media-importation-methods/"><u>[New] In 2024, Secrets of Windows 10 Effortless Media Importation Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-step-by-step-guide-to-record-google-meet-on-smartphones/"><u>[New] Step-by-Step Guide to Record Google Meet on Smartphones</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-edit-the-length-of-a-video-on-youtube/"><u>[Updated] 2024 Approved How to Edit the Length of a Video on YouTube</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c12-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/deciphering-the-auto-cut-functionality-in-imovie-for-2024/"><u>Deciphering the Auto-Cut Functionality in iMovie for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-integrity-stick-to-proven-methods-for-win-11-keys/"><u>Ensuring Integrity: Stick to Proven Methods for Win 11 Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-no-start-windows-vms-and-vmware-error/"><u>Essential Fixes: No-Start Windows VMs & VMware Error</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-captured-words-top-10-mobile-writing-tools-for-images/"><u>In 2024, Captured Words Top 10 Mobile Writing Tools for Images</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-cutting-edge-creatives-on-your-feed/"><u>In 2024, The Cutting-Edge Creatives on Your Feed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-windows-to-its-fundamental-backup-state/"><u>Resetting Windows to Its Fundamental Backup State</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-a-non-responsive-xbox-on-your-pc/"><u>Reviving a Non-Responsive Xbox on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionizing-ui-8-bubble-ui-personalization-tricks-for-win1011/"><u>Revolutionizing UI: 8 Bubble UI Personalization Tricks for Win10/11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/tips-for-enhancing-online-presence-with-imovie-on-vimeo-for-2024/"><u>Tips for Enhancing Online Presence with iMovie on Vimeo for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-impact-of-eradicating-windows-11s-taskbar-chatting-functionality/"><u>Unveiling the Impact of Eradicating Windows 11'S Taskbar Chatting Functionality.</u></a></li>
 </ul></div>
 

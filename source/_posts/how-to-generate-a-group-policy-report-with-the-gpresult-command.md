@@ -1,7 +1,7 @@
 ---
 title: How to Generate a Group Policy Report With the GPResult Command
-date: 2024-08-08T10:59:52.991Z
-updated: 2024-08-09T10:59:52.991Z
+date: 2025-01-15T17:00:29.062Z
+updated: 2025-01-18T16:41:03.144Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
  That's where the GPResult command comes in, and we're going to show you how to use it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the GPResult Command?
 
  The GPResult command is a utility built into Windows that displays all the group policies, configured or not, on a computer. It provides valuable information to administrators to know which policies and settings have been applied on a computer or on a specific user profile on that computer.
@@ -34,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
  If you're looking for a specific group policy, you can [search the LGPE on Windows](https://www.makeuseof.com/find-group-policy-windows/) using the tool's filter options, the Group Policy website, and the Group Policy reference sheet by Microsoft.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Generate a Group Policy Report With GPResult
 
  To generate a group policy report for your Windows computer, you first need to [open Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/). Then, you can use the below command:
@@ -44,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
  You will then see the report in Command Prompt, and you can go through it to see the group policies settings on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![the results of gpresult Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-results-of-gpresult-command-on-windows.jpg)
 
  To generate a group policy report for a specific user on your computer, use the below command syntax:
@@ -63,16 +62,14 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
  Now, you just need to find the name of the user you want and use it in the GPResult command.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![list all user accounts with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/list-all-user-accounts-with-net-user.jpg)
 
  Be sure to type the name exactly as you see it, otherwise, you will most likely get errors.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Export the Group Policy Report to a Text File
 
  After you generate the report, you can export it to a text file so you can view the contents outside of Command Prompt. For example, you can view them in a web browser, which is more graphical and makes it easier to read and navigate the report.
@@ -89,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
 ![an exported group policy report opened in a web browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/an-export-group-policy-report-opened-in-a-web-browser.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you would rather generate the report for a specific user, you can use the below syntax:
 
 `gpresult /h /user username path_to_report\gpreport.html`
@@ -96,22 +97,9 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
  It's the same as the previous command, only that this time, you have to replace **username** with the name of the user you want to generate the Group Policy report for.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get to Know the Group Policies on Your Computer
 
  Having a group policy report can come in handy when you need to see the policy settings applied on your computer quickly. While the GPResult command can do so much more, this guide offers a good starting point for working with it.
@@ -120,11 +108,30 @@ Key features:
 
  That's where the GPResult command comes in, and we're going to show you how to use it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-quickshot-maker-for-videoplusimage-sync/"><u>[New] QuickShot Maker for Video+Image Sync</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unbeatable-online-and-desktop-gif-maker-options-for-2024/"><u>[Updated] Unbeatable Online & Desktop GIF Maker Options for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unlock-your-social-media-superpowers-top-9-instagram-techniques-to-skyrocket-popularity-for-2024/"><u>[Updated] Unlock Your Social Media Superpowers Top 9 Instagram Techniques to Skyrocket Popularity for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-5-best-free-wmv-video-splitters/"><u>2024 Approved Top 5 Best Free WMV Video Splitters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-solving-crashes-in-horizon-forbidden-west-full-version-on-your-pc/"><u>Complete Guide: Solving Crashes in 'Horizon Forbidden West' Full Version on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-mend-d3dx939dll-gap-on-windows-11/"><u>How to Mend D3DX9_39.dll Gap on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-off-virtualization-on-windows-11/"><u>How to Turn Off Virtualization on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-t2x-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo T2x 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/leading-edge-of-color-grading-with-luts-for-2024/"><u>Leading Edge of Color Grading with LUTs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-tricks-navigating-through-winerror-in-oculus-setup-for-ws11ws10/"><u>Proven Tricks: Navigating Through WinError in Oculus Setup for WS11/WS10</u></a></li>
+<li><a href="https://fox-where.techidaily.com/the-complete-walkthrough-of-managing-acer-recoveries-in-windows-11-environments/"><u>The Complete Walkthrough of Managing Acer Recoveries in Windows 11 Environments</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-samsung-galaxy-a05-by-drfone-android/"><u>Three Ways to Sim Unlock Samsung Galaxy A05</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-secrets-to-a-responsive-esc-key-in-windows-systems/"><u>Unlock the Secrets to a Responsive Esc Key in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-potential-integrating-previous-pc-software-with-newer-os/"><u>Unlocking Potential: Integrating Previous PC Software with Newer OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-the-component-services-of-windows-11/"><u>Unlocking Secrets: The Component Services of Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-over-windows-correcting-access-violations/"><u>Winning Over Windows: Correcting Access Violations</u></a></li>
+</ul></div>
+

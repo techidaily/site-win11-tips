@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Life: A Compreeher's Handbook to Creating Multiple Directories in Windows 10/11"
-date: 2025-01-08T17:39:55.356Z
-updated: 2025-01-12T23:52:34.599Z
+date: 2025-01-12T16:12:35.121Z
+updated: 2025-01-18T18:25:49.106Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use the Command Prompt to Create Multiple Folders at Once
 
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 2. Select Yes in the UAC prompt.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-uac.jpg)
@@ -69,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 5. Once done, execute the following command. Replace the \[foldername\] with the names you want to give the folders.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `md "[foldername]", "[foldername]", "[foldername]", "[foldername]"`
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 ![File names command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-md-files.jpg)
 
  Finally, close the Powershell window and check if the folders have been created.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Use the Notepad to Create Multiple Folders at Once
 
@@ -99,19 +99,15 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 ![Notepad command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-notepad-command.jpg)
 4. After you have typed down the names of all the folders and subfolders that you want to create, navigate to **File** in the top-left corner and choose **Save as**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
 6. Expand the dropdown for Save as type and choose **All files**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Click **OK** and close the Notepad.
 8. Now, navigate to the location of the folder and open the bat file. Opening it should create the folders and their subfolders for you.
@@ -139,10 +135,14 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
 
@@ -164,22 +164,21 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-clubbing-essentials-top-rated-dj-template-vids/"><u>[New] Clubbing Essentials Top-Rated DJ Template Vids</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fixes-for-iphoneandroidchrome-why-are-facebook-videos-blurry/"><u>[Updated] Fixes for iPhone/Android/Chrome | Why Are Facebook Videos Blurry?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-copy-pasting-malfunction/"><u>Corrective Measures for Copy-Pasting Malfunction</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-secure-data-movement-in-microsoft-edge-shield-for-w11/"><u>Enabling Secure Data Movement in Microsoft Edge Shield for W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-computer-functionality-post-intel-hardware-violation/"><u>Enhancing Computer Functionality Post-Intel Hardware Violation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ideal-webp-vision-tools-for-windows-enthusiasts/"><u>Ideal WebP Vision Tools for Windows Enthusiasts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-deciphering-cosmic-constructs-metaverse-vs-multiverse/"><u>In 2024, Deciphering Cosmic Constructs Metaverse vs Multiverse</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-sony-xperia-10-v-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Sony Xperia 10 V Devices | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-precision-settings-for-obs-studio-on-android/"><u>In 2024, Precision Settings for OBS Studio on Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-spool-service-relaunch/"><u>Instant Spool Service Relaunch</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-your-digital-fortune-a-step-by-step-guide-to-using-cryptocurrency-wallets-tech-insights-from-yl/"><u>Mastering Your Digital Fortune: A Step-by-Step Guide to Using Cryptocurrency Wallets - Tech Insights From YL</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/powerful-scripts-to-detect-pcs-ip-and-mac/"><u>Powerful Scripts to Detect PC's IP and MAC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-reds-greens-and-blues-avoiding-windows-color-confusion/"><u>Resolving Reds, Greens & Blues: Avoiding Windows' Color Confusion</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95684149-9781440523878-the-everything-tarot-book/"><u>The Everything Tarot Book | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-non-apple-rechargeable-alternative-to-apple-airtags-smart-wallet-finders-reviewed-on-zdnet/"><u>Top Non-Apple Rechargeable Alternative to Apple AirTags: Smart Wallet Finders Reviewed on ZDNet</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/total-guide-to-video-dimensions-and-proportion-harmony-on-youtube-for-2024/"><u>Total Guide to Video Dimensions & Proportion Harmony on YouTube for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-nvidia-written-out-errors-guide-to-recovery/"><u>Unlocking NVIDIA' Written Out Errors - Guide to Recovery</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-audio-outliers-best-sound-distortion-apps-for-your-device/"><u>[New] 2024 Approved Audio Outliers Best Sound Distortion Apps for Your Device</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-great-video-editing-tools-debate-bandicam-vs-camtasia/"><u>[New] 2024 Approved The Great Video Editing Tools Debate Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebook-finders-playbook-for-quick-reconnaissance/"><u>[New] Facebook Finder’s Playbook for Quick Reconnaissance</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-mac-basics-for-creating-attractive-first-youtube-videos/"><u>[New] In 2024, Mac Basics for Creating Attractive First Youtube Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-smartphone-guide-crafting-engaging-video-content/"><u>[Updated] 2024 Approved Smartphone Guide Crafting Engaging Video Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-cut-to-the-chase-convert-fb-vids-into-mp3s/"><u>[Updated] Cut-to-the-Chase Convert FB Vids Into MP3s</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-these-6-gpt-powered-tools-for-a-better-tech-experience/"><u>Avoid These 6 GPT-Powered Tools for a Better Tech Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-errors-in-windows-11s-trash-functionality/"><u>Fixing Errors in Windows 11'S Trash Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-oculus-rift-s-microphone-glitches-quickly-proven-steps/"><u>Fixing Oculus Rift S Microphone Glitches Quickly: Proven Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/icy-inspirations-top-olympic-triumphs-for-2024/"><u>Icy Inspirations Top Olympic Triumphs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboard-issues-resolved-rehab-your-keystrokes-in-win10/"><u>Keyboard Issues Resolved: Rehab Your Keystrokes in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-unresponsive-powershell-in-windows/"><u>Navigating Through Unresponsive PowerShell in Windows</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/panduan-pemulihan-data-iphone-langkah-langkah-untuk-memperoleh-informasi-tersebut/"><u>Panduan Pemulihan Data iPhone: Langkah-Langkah Untuk Memperoleh Informasi Tersebut</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unauthorized-access-swiftly-severing-user-ties-in-windows-11/"><u>Unauthorized Access: Swiftly Severing User Ties in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-nvidia-cp-not-opening-quick-fixes-guide/"><u>Windows 11 Nvidia CP Not Opening: Quick Fixes Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-quick-epic-games-downloads-made-easy/"><u>Winning at Quick: Epic Games Downloads Made Easy</u></a></li>
 </ul></div>
 

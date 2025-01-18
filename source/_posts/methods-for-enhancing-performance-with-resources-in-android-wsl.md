@@ -1,7 +1,7 @@
 ---
 title: Methods for Enhancing Performance with Resources in Android WSL
-date: 2025-01-05T21:29:44.832Z
-updated: 2025-01-13T01:42:20.295Z
+date: 2025-01-13T16:25:20.397Z
+updated: 2025-01-18T16:47:54.991Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## "As Needed" or "Continuous?" Which One to Choose
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 **Continuous** , on the other hand, keeps WSA running in the background. The benefit is that Android apps will fire up much quicker at the cost of using more of your computer’s resources. You can choose this option if your Windows 11 PC has the resources to spare.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Manage the Way Windows Subsystem for Android Uses Its Resources?
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![searching for WSA on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-search-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the left side menu of Windows Subsystem for Android, make sure you have selected**System** . On the right side, click on the**Subsystem resources** to expand the section. Then, select either**As needed** or**Continuous** by clicking on the appropriate radio button.
@@ -56,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![the Subsystems resources section of WSA settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-windows-subsystem-resources.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now Windows Subsystem for Android will use resources depending on the option you have chosen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best Way For Windows Subsystem for Android to Use Resources
@@ -86,20 +86,15 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/address-incompatible-facebook-videos-on-ios/"><u>Address Incompatible Facebook Videos on iOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/detailed-steps-for-manipulating-windows-registry-command-line/"><u>Detailed Steps for Manipulating Windows Registry Command Line</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-controls-in-windows-11s-ui-amenities/"><u>Elevate Controls in Windows 11'S UI Amenities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-playtime-windows-troubleshooting-for-fullscreen-games/"><u>Enhance Playtime: Windows Troubleshooting for Fullscreen Games</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expertise-in-covert-sound-suppression-with-audacity/"><u>Expertise in Covert Sound Suppression with Audacity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-does-windows-11s-new-backup-feature-work/"><u>How Does Windows 11'S New Backup Feature Work?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-s18e-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo S18e to iPod | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-gopro-hero4-vs-gopro-hero5-showdown/"><u>In 2024, GoPro Hero4 vs GoPro Hero5 Showdown</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-zte-blade-a73-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your ZTE Blade A73 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/investigating-windows-11s-core-data-the-hidden-registry/"><u>Investigating Windows 11'S Core Data: The Hidden Registry</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-beyond-gopro-studio-top-picks-for-editing-your-adventure-videos/"><u>New Beyond GoPro Studio Top Picks for Editing Your Adventure Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-fixing-windows-setup-fails/"><u>Overcoming Obstacles: Fixing Windows Setup Fails</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/times-tangle-in-windows-restore-clock-order/"><u>Time's Tangle in Windows: Restore Clock Order</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-echo-excellence-enhancing-windows-pc-sounds-with-online-acoustic-plugins/"><u>Updated In 2024, Echo Excellence Enhancing Windows PC Sounds with Online Acoustic Plugins</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-best-8-online-photo-montage-maker/"><u>[Updated] Best 8 Online Photo Montage Maker</u></a></li>
+<li><a href="https://win11.techidaily.com/5-clear-signals-its-time-for-windows-reset/"><u>5 Clear Signals It's Time for Windows Reset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creer-des-fichiers-wav-a-partir-de-fichiers-caf-gratuits-online-conversion-avec-movavi/"><u>Créer Des Fichiers WAV À Partir De Fichiers CAF Gratuits - Online Conversion Avec Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effizientes-mp4-komprimieren-mit-movavi-professionelle-tipps-und-tricks/"><u>Effizientes MP4 Komprimieren Mit Movavi: Professionelle Tipps Und Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-raw-to-jpeg-converter-easy-and-fast-with-movavi/"><u>Free Online RAW to JPEG Converter - Easy and Fast with Movavi</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-step-by-step-photo-addition-to-instagram/"><u>In 2024, Step-by-Step Photo Addition to Instagram</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-the-lg-stylo-6-beauty-meets-precision-with-its-stylus-feature/"><u>In-Depth Look at the LG Stylo 6: Beauty Meets Precision with Its Stylus Feature</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/les-meilleurs-alternatifs-aux-machines-a-temps-pour-les-utilisateurs-de-windows-versions-111087/"><u>Les Meilleurs Alternatifs Aux Machines À Temps Pour Les Utilisateurs De Windows (Versions 11/10/8/7)</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-definitive-ranking-of-leading-photo-restoration-firms-featuring-in-depth-pros-and-cons-analysis/"><u>The Definitive Ranking of Leading Photo Restoration Firms , Featuring In-Depth Pros and Cons Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726222495571-movavi/"><u>모바일 오디오를 조정하는 도구 - Movavi 스크린 리덕터</u></a></li>
 </ul></div>
 

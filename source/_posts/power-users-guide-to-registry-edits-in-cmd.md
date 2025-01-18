@@ -1,7 +1,7 @@
 ---
 title: Power Users' Guide to Registry Edits in CMD
-date: 2025-01-10T02:35:08.359Z
-updated: 2025-01-12T19:47:51.017Z
+date: 2025-01-11T17:17:50.898Z
+updated: 2025-01-18T17:57:22.517Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to View the List of Registry Commands in Command Prompt
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 ![the list reg commands in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/the-list-reg-commands-in-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to see more information about them, just add the **/?** switch at the end of the command. For, example, if you want to find out what the **reg add** command does, you'd enter the below command:
 
 `reg add /?`
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 ![details of the reg add command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/details-of-the-reg-add-command-in-command-prompt.jpg)
 
  If you're finding it hard the commands out on your own, don't worry. We will simplify it for you and show you how to get started using them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add and Delete Keys in the Windows Registry
 
@@ -74,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 ![adding a value to Windows registry in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/adding-a-value-to-windows-registry-in-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To add or modify a value key in the registry using Command Prompt, you'll still use the **reg add** command like above. However, this time, you'll also have to specify the following parameters: value (**/v**), value type (**/t**), and value data (**/d**). Here's an example of what the command would like:
@@ -105,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 ![transfering entries from one registry key to another in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/transfering-entries-from-one-registry-key-to-another-in-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Sometimes, you might want to copy the values from one key to another in the registry. This is as easy as using the **reg copy** command while specifying the key you're copying them from and the one you're copying them to (keep in mind that both keys have to already exist before you run the command). Here's an example:
 
 `reg copy HKLM\SOFTWARE\MyNewKey1 HKLM\SOFTWARE\MyNewKey2 /s`
@@ -112,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  The **/s** switch at the end tells Command Prompt that it should copy every subkey and value in the first key (**MyNewKey1**) into the second one (**MyNewKey2**).
 
  Unfortunately, there's no way to copy specific values from one key to another. You'll have to use the Registry Editor for that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Import Registry Entries
 
@@ -131,10 +139,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 ![exproting a registry key in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/exproting-a-registry-key-in-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can export a key in the registry using the **reg export** command while specifying the path of the key you want to export and the file you want to create. This comes in handy when you need to back up certain keys and values to restore them elsewhere. Here's an example:
 
 `reg export "HKLM\SOFTWARE\MyNewKey" D:\Reg_Backup\CHIFUNDO\Desktop\MyRegFile.reg`
@@ -147,10 +151,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  The resulting registry file will only contain the key and the specific value you exported.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Save Registry Entries
 
 ![saving-a-key-to-a-registry-file-in-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/saving-a-key-to-a-registry-file-in-windows.jpg)
@@ -162,7 +162,7 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  The **/y** switch at the end of the command above overwrites the file you're saving the key to without bringing up a prompt. When you open the file, you won't be able to read the contents since it will be saved as a binary file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Restore Registry Entries
@@ -193,21 +193,22 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-proven-tactic-combining-gopro-footage-in-seamless-virtual-reality-experience/"><u>[Updated] In 2024, Proven Tactic Combining GoPro Footage in Seamless Virtual Reality Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-key-strategies-for-managing-windows-connections-tool/"><u>10 Key Strategies for Managing Window's Connections Tool</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-filmoras-quick-start-approach-for-youtube-trailers/"><u>2024 Approved Filmora's Quick-Start Approach for YouTube Trailers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieve-high-scores-with-fc-mascot-for-zero-cost/"><u>Achieve High Scores with FC Mascot for Zero Cost</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-the-empty-display-of-system-startups/"><u>Addressing the Empty Display of System Startups</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-the-issue-of-battlenet-not-opening-windows/"><u>Addressing the Issue of Battle.net Not Opening Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-windows-customization-adding-directories-to-context-menu/"><u>Advanced Windows Customization - Adding Directories to Context Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-blank-spaces-on-your-screen-icons-revival-guide/"><u>Avoid Blank Spaces on Your Screen: Icons Revival Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719328256303-bargain-alert-key-enthusiasts-snag-612lifetime-windows-11-deal-today-only/"><u>Bargain Alert: Key Enthusiasts Snag $6.12/Lifetime Windows 11 Deal Today Only!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/full-examination-of-razer-kiyo-cam/"><u>Full Examination of Razer Kiyo Cam</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-discover-the-top-6-phone-utilities-for-clean-image-cropping/"><u>In 2024, Discover the Top 6 Phone Utilities for Clean Image Cropping</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-smart-7-hd-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Smart 7 HD Phones with/without a PC</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/seamless-nba-viewing-discover-the-best-15-streaming-options/"><u>Seamless NBA Viewing Discover the Best 15 Streaming Options</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/timeless-lens-capture-expert-picks-of-cameras-for-extended-shutter/"><u>Timeless Lens Capture Expert Picks of Cameras for Extended Shutter</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-oppo-a59-5g-by-drfone-android/"><u>Universal Unlock Pattern for Oppo A59 5G</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-why-is-my-photobooth-video-stopping-in-2024/"><u>[New] Why Is My Photobooth Video Stopping, In 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-profitability-on-youtube-shorts-essentials-and-future-earning-prospects/"><u>[Updated] Unlocking Profitability on Youtube Shorts Essentials and Future Earning Prospects</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mobile-streams-on-youtube-less-than-1000-subs-no-problem/"><u>2024 Approved Mobile Streams on YouTube Less Than 1000 Subs? No Problem</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-5-gif-to-video-converter-online-no-need-to-download-for-2024/"><u>Best 5 GIF to Video Converter Online [No Need to Download] for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/extend-windows-capacity-safely-and-intelligently/"><u>Extend Windows Capacity Safely & Intelligently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fathom-cpu-peaks-understanding-and-adjusting-with-windows-monitor/"><u>Fathom CPU Peaks: Understanding and Adjusting with Windows Monitor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-black-screen-issue-on-cyberpunk-2077-a-comprehensive-guide/"><u>Fixing the Black Screen Issue on Cyberpunk 2077: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-fixing-winget-issues-w11-style/"><u>Master the Art of Fixing Winget Issues W11 Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-razers-controller-fixed-in-w10-and-w11/"><u>Resetting Razer's Controller: Fixed in W10 & W11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlined-accessibility-learning-iphoneipad-techniques-for-podcast-downloads-for-2024/"><u>Streamlined Accessibility Learning iPhone/iPad Techniques for Podcast Downloads for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-honor-magic-6-lite-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Honor Magic 6 Lite Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-labeling-files-in-windows-11/"><u>The Essential Guide to Labeling Files in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/troubleshooting-mov-format-problems-for-smooth-movie-playback-on-ios-devices/"><u>Troubleshooting MOV Format Problems for Smooth Movie Playback on iOS Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/websites-halted-by-hardware-7-windows-fixes-for-browsing-blockades/"><u>Websites Halted by Hardware: 7 Windows Fixes for Browsing Blockades</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1728470693375-windows-11/"><u>Windows 11でゴミ箱に置き去りとなったデータを再生するコツ</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-ram-cache-essentials-and-clearance-guide/"><u>Windows RAM Cache Essentials & Clearance Guide</u></a></li>
 </ul></div>
 

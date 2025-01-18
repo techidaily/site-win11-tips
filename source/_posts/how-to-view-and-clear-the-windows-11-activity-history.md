@@ -1,7 +1,7 @@
 ---
 title: How to View and Clear the Windows 11 Activity History
-date: 2024-08-08T10:59:58.746Z
-updated: 2024-08-09T10:59:58.746Z
+date: 2025-01-17T17:30:55.723Z
+updated: 2025-01-18T16:38:36.837Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
  Let's explore how Microsoft stores data on you and how you can view your Windows activity history.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Data Does Windows Track?
 
  The data that Windows collects includes:
@@ -34,19 +38,12 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
  There are plenty of [ways to disable Windows' tracking services](https://www.makeuseof.com/disable-windows-11-tracking-features/), but even after you've done that, Microsoft will still have the data you've already given it. As such, you'll need to scrub that data away.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Delete Your Windows Activity History
 
  You can easily see what data Microsoft stores and how to delete it.
 
  There are two ways you can clear your recent activity on Windows: from your computer's settings, or via your Microsoft account settings. The steps for the latter will vary depending on if you're on Windows 10 or 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### How to Delete Your Windows Activity History via Settings on Windows 10
 
  If you're on Windows 10, perform the following:
@@ -56,11 +53,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Then, click **Privacy**.  
 ![Windows 10 Privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-privacy.png)
 3. On the left bar, select **Activity History**.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Windows 10 Activity Sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-sidebar.png)
 4. Under Clear Activity History, click the **Clear** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows 10 clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-clear.png)
 
  This will clear the activity history for the account you're currently using.
@@ -70,28 +74,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If you're on Windows 11, the interface may look a little different.
 
 1. When you go to Settings, you'll need to select **Privacy & security** from the left sidebar. From the right pane, you'll need to select **Activity history**.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![navigating to activity history in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history.jpg)
 2. Click the **Clear** button under the **Clear activity history** section, and you're done.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![clearing activity history in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history-disable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Delete Your Windows Activity History via Your Microsoft Account
 
  You should also clear data from the cloud. To do that, click on **Manage my Microsoft account activity data**. Log into your Microsoft account and delete all types of activity data on the cloud. You'll need to do this separately for each section. For example, if you want to clear your Search history, you'll need to expand the section and click on **Clear all search history**.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![deleting activity history from the cloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/delete-ms-activity-history.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Disable Activity Tracking on the Windows 10 Timeline
 
  Back in 2018, Microsoft added a new **Timeline** feature that tracks all your recent activities on Windows 10\. You can view it by pressing the **ALT + Win** keys. You'll see all the windows you currently have open, as well as all the files you've opened in the past.
@@ -104,21 +104,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Checking the options in Windows 10's activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-checkboxes.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to View All Windows 10 Activity History
 
  If you want to view all activity history on Windows 10, you can do so on the [Microsoft account privacy website](https://account.microsoft.com/privacy/). You'll see various categories when you access the website and log in. Each one will take you to a page that shows all the information Microsoft has stored about you relating to that category.
 
  There's a lot to take in on this page, so here's a brief rundown of each category which you should check.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### The Windows 10 Activity History Categories
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The categories on the activity history website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-categories.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Browsing history** handles the data you've stored via browsing Microsoft's browser, Edge. As such, if you only use Edge to download Firefox or Chrome, you probably won't find much data here. If Edge is your primary browser, take a look to see what browsing habits are stored here.
 
@@ -150,11 +152,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Let's explore how Microsoft stores data on you and how you can view your Windows activity history.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-unleashing-androids-audio-potential-mastering-the-art-of-ringtones-and-sounds/"><u>[New] In 2024, Unleashing Android's Audio Potential Mastering the Art of Ringtones & Sounds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hashtag-wisdom-jumpstart-your-6-figure-youtube-rank/"><u>[Updated] 2024 Approved Hashtag Wisdom Jumpstart Your 6-Figure Youtube Rank</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-most-popular-free-photography-and-film-archives-for-2024/"><u>[Updated] Most Popular Free Photography and Film Archives for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/achieving-clip-perfection-with-blending-techniques/"><u>Achieving Clip Perfection with Blending Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detect-signs-is-it-time-for-windows-clean-slate/"><u>Detect Signs: Is It Time for Windows Clean Slate?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-vr-videos-unveiled-a-quick-how-to-for-2024/"><u>IPhone VR Videos Unveiled A Quick How-To for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-multitask-media-with-ease-expertly-using-netflixs-picture-in-picture-feature/"><u>Master Multitask Media with Ease Expertly Using Netflix’s Picture-In-Picture Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-adjusting-gaps-between-cells-text-and-borders-in-excel-spreadsheets/"><u>Step-by-Step Guide: Adjusting Gaps Between Cells, Text, and Borders in Excel Spreadsheets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-creating-a-pie-chart-using-microsoft-excel/"><u>Step-by-Step Guide: Creating a Pie Chart Using Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-implementing-strikethrough-text-feature-in-microsoft-excel/"><u>Step-by-Step Guide: Implementing Strikethrough Text Feature in Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-11-amazing-tricks-and-tasks-achievable-using-siri-on-your-mac/"><u>Top 11 Amazing Tricks and Tasks Achievable Using Siri on Your Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-9-essential-excel-text-manipulation-techniques-using-microsoft-office/"><u>Top 9 Essential Excel Text Manipulation Techniques Using Microsoft Office</u></a></li>
+<li><a href="https://win-guides.techidaily.com/understanding-harmful-digital-documents-prevention-tips-from-yl-computings-expertise/"><u>Understanding Harmful Digital Documents: Prevention Tips From YL Computing's Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-ms-office-suite-with-your-zoho-online-platform-a-step-by-step-guide/"><u>Unifying MS Office Suite with Your Zoho Online Platform: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-efficiency-with-google-sheets-top-14-capabilities-missed-in-microsoft-excel/"><u>Unlocking Efficiency with Google Sheets: Top 14 Capabilities Missed in Microsoft Excel</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/work-on-excel-powerpoint-and-word-online-doc-editing-anywhere/"><u>Work on Excel, PowerPoint & Word Online Doc Editing Anywhere</u></a></li>
+</ul></div>
+

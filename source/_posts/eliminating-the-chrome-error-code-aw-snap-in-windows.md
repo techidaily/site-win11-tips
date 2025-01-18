@@ -1,7 +1,7 @@
 ---
 title: Eliminating the Chrome Error Code “Aw, Snap!” In Windows
-date: 2025-01-09T01:09:31.411Z
-updated: 2025-01-13T00:05:02.390Z
+date: 2025-01-12T18:35:40.445Z
+updated: 2025-01-18T17:57:20.637Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Start With the Generic Fixes
 
  It’s a good idea to start with some basic troubleshooting tips and see if that fixes Chrome’s “Aw Snap!” page crash error on Windows.
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 * **Update Google Chrome:** Using the most recent version of Chrome not only gives you access to new features but also ensures important bug fixes are implemented. Hence, it’s recommended to [update Google Chrome on your PC](https://www.makeuseof.com/how-to-update-google-chrome/) if you want to steer clear of such issues.
 * **Clear Cache and Cookies:** It is not unusual for Chrome's browser data to become corrupted over time. When this happens, webpages may crash in Google Chrome. To fix this, you can try [clearing the cache and cookies in Google Chrome](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/).
 * **Check the Computer for Memory Problems:** Memory issues with your Windows computer can also cause such anomalies. To check for this possibility, you can [use the Memory Diagnostic Tool on Windows to scan your PC for memory problems](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Rule Out Issues With Your Internet Connection
 
@@ -54,10 +54,14 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 ![Open Incognito Window in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-incognito-window-in-google-chrome.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t get the “Aw Snap!” error this time, it’s likely that the issue is caused by one of your extensions or a corrupt Chrome profile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Your Extensions
 
@@ -71,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 2. Hover the cursor over **More tools** and then select **Extensions** from the submenu.
 3. Use the toggles to disable all your extensions.  
 ![Disable Chrome Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-chrome-extensions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart Chrome after this and re-enable your extensions one at a time. You will need to load a webpage after enabling each extension to identify the one causing the issue. Once you find the problematic extension, consider removing it to avoid such issues in the future.
 
@@ -88,11 +96,7 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 ![Disable Hardware Acceleration in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-hardware-acceleration-in-google-chrome.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Create a New Chrome Profile
@@ -122,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 
  Check out [how to fix issues in Chrome and Firefox with a browser reset](https://www.makeuseof.com/tag/reset-chrome-firefox/) for more information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Browse With Google Chrome Again on Windows
 
  In most cases, basic solutions such as reloading the web page or clearing browsing data are sufficient for fixing the “Aw Snap!” page crash errors in Chrome for Windows. If not, you may have to work your way through the other tips mentioned above to resolve the underlying issue.
@@ -142,22 +142,24 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-master-the-digital-landscape-with-these-7-indispentic-devices/"><u>[New] 2024 Approved Master the Digital Landscape with These 7 Indispentic Devices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-harness-the-full-potential-of-your-videos-with-simple-cuts-on-windows-for-2024/"><u>[New] Harness the Full Potential of Your Videos with Simple Cuts on Windows for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/amv-mp3-movavi/"><u>免費線上 AMV到 MP3 改版工具 - 以 Movavi 為例演示操作</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-handy-tutorial-to-combat-xfffeeee-in-windows/"><u>A Handy Tutorial to Combat XFFFEEEE in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-for-moving-programs-in-windows-11/"><u>A Step-by-Step Approach for Moving Programs in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activating-system-restore-five-tactics/"><u>Activating System Restore: Five Tactics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-internal-error-during-win10-remote-access/"><u>Addressing Internal Error During Win10 Remote Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-selectable-items-on-microsofts-new-os/"><u>Addressing Non-Selectable Items on Microsoft's New OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-unauthorized-profiles-on-pcs-win1011-guide/"><u>Addressing Unauthorized Profiles on PCs: Win10/11 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blank-screenshare-reconnecting-windows-microphone-to-google-meet/"><u>Blank Screenshare: Reconnecting Windows Microphone to Google Meet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bluetooth-harmony-linking-airpods-with-windows/"><u>Bluetooth Harmony: Linking AirPods with Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easy-techniques-for-transforming-avchd-files-into-mp4-format-with-handbrake/"><u>Easy Techniques for Transforming AVCHD Files Into MP4 Format With HandBrake</u></a></li>
-<li><a href="https://article-files.techidaily.com/elevate-video-quality-with-pro-tools-selection/"><u>Elevate Video Quality with Pro Tools Selection</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a15-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy A15 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-smart-8-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Smart 8 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/instantly-enhance-your-facebook-experience-with-collage/"><u>Instantly Enhance Your Facebook Experience with Collage</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamlining-document-production-using-chatgpt-with-microsoft-word/"><u>Streamlining Document Production: Using ChatGPT with Microsoft Word</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-your-youtube-projects-with-enhancements/"><u>[New] 2024 Approved Elevating Your YouTube Projects with Enhancements</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-get-perfect-film-endings-for-your-projects-on-the-house/"><u>[Updated] In 2024, Get Perfect Film Endings for Your Projects - On the House</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-snap-into-clarity-10-online-tools-to-blur-proof-images/"><u>[Updated] Snap Into Clarity 10 Online Tools to Blur-Proof Images</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-innovate-your-intonation-ranking-the-best-audio-modification-apps-for-mobile/"><u>2024 Approved Innovate Your Intonation Ranking the Best Audio Modification Apps for Mobile</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-itel-p55-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-v27e-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo V27e without App | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-honor-80-pro-straight-screen-edition-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor 80 Pro Straight Screen Edition? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decision-making-guide-for-choosing-right-windows-n-edition/"><u>Decision-Making Guide for Choosing Right Windows N Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-upgrades-download-the-latest-pioneer-dj-ddj-sx2-controller-software/"><u>Effortless Upgrades: Download the Latest Pioneer DJ DDJ-SX2 Controller Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-directdraw-problems-on-windows-11-with-precision-tactics/"><u>Eliminating DirectDraw Problems on Windows 11 with Precision Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-the-art-of-wallpapers-for-each-monitor-in-windows-11/"><u>Explore the Art of Wallpapers for Each Monitor in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-12-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone 12 How to Bypass?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lost-dxgidll-in-win11-swift-recovery-steps-explored/"><u>Lost Dxgi.dll in Win11? Swift Recovery Steps Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mic-calibration-tips-for-windows-systems/"><u>Mic Calibration Tips for Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-installation-pairing-airpods-with-windows-devices/"><u>Quick Installation: Pairing AirPods With Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/raise-the-bar-on-clicking-windows-3-tips-for-faster-double-taps/"><u>Raise the Bar on Clicking: Windows' 3 Tips for Faster Double-Taps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-keyboard-shortcuts-for-sound-level-adjustment-win11/"><u>Tailored Keyboard Shortcuts for Sound Level Adjustment (Win11)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/webp-bmp-webp-bmp/"><u>WEBP 및 BMP 이미지를 구성대로 원활하게 변환: 인터넷을 통해 WEBP 및 BMP 캐스탈로 제공</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-tips-for-keeping-your-desktop-unchanged/"><u>Win11 Tips for Keeping Your Desktop Unchanged</u></a></li>
 </ul></div>
 

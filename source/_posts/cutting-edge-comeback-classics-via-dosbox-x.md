@@ -1,7 +1,7 @@
 ---
 title: "Cutting Edge Comeback: Classics via DOSBox-X"
-date: 2025-01-08T19:11:19.205Z
-updated: 2025-01-13T02:28:25.411Z
+date: 2025-01-16T16:27:59.437Z
+updated: 2025-01-18T16:05:08.551Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
  For this article, though, we'll stick to classic DOS games.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Download and Install DOSBox-X
 
  DOSBox-X is free and available on Windows, Macs, and Linux. In this guide, we'll be using its Windows version.
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  Start by downloading the app from [DOSBox-X's official site](https://dosbox-x.com/), then install it or extract it to a folder.
 
 ![DOSBox-X executable in folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-executable-in-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the version you've downloaded, and if you installed or extracted it, you'll either find a shortcut to the DOSBox-X app in the **Windows Start menu**/your **Desktop**, or you'll have to visit its folder with your favorite file manager and double-click **dosbox-x.exe** to launch it.
 
@@ -64,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 ![DOS ROMs Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dos-roms-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click in your file manager's "path" field/bar, and **copy the full path** to the folder you created to the Clipboard. Now's the time to **run DOSBox-X**, and the first thing you'll see won't be the app but a requester for the folder it should use. "Tell it" (paste with **CTRL** \+ **V**) to use the folder you created in the previous step.
 
 ![DOSBox-X Working Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-working-directory.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Return to your file manager and create another folder inside the previous one. We'll configure DOSBox-X to "see" this folder as its primary storage.
 
@@ -84,13 +84,13 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
  With almost all file-related tasks behind us, it's time to configure DOSBox-X for some retro gaming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Configure DOSBox-X for the Best Experience
 
  DOSBox-X has lots of settings to tweak, so let's get it set up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Setting Up the Directory
 
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 ![DOSBox-X Configuration Editor Menu Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-editor-menu-entry.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Instead of manually mounting the folder you created every time you run DOSBox-X, let's have it always available automatically. For that, we'll have to do some classic AutoExec.BAT editing. Thus, choose the last option in the **Configuration Tool**'s panel, **AUTOEXEC.BAT**.
@@ -107,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 ![DOSBox-X Configuration Tool AutoExec BAT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-autoexec-bat.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll see the currently empty DOSBox-X's **AutoExec**.
@@ -143,7 +143,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 ![DOSBox-X Configuration Tool Help Aspect Info](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-help-aspect-info.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click on the button with the **three dots** on the right of the **Aspect** line, and enable the graphics aspect you'd like to use. Then, click **OK** to accept and enable the setting.
@@ -153,10 +153,6 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  Click on **Save** to save all changes. On the new panel that shows up, choose **Use primary config file** and then click on **Save & Restart**.
 
 ![DOSBox-X Configuration Tool Choosing Config File and Restarting App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-choosing-config-file-and-restarting-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Launching Your Retro-Favorites With DOSBox-X
 
@@ -183,12 +179,16 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 ![DOSBox-X Dir Bat Doom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-dir-bat-doom.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can probably guess from its name, the second one is what you need to launch the game. So, type **run.bat** and press **Enter**.
 
 ![DOSBox-X Doom Selecting Audio System](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-doom-selecting-audio-system.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Like all software from that era, Doom can't auto-detect the audio system used by your (virtual) PC. DOSBox-X is configured by default to emulate a classic **SoundBlaster 16** card by Creative, so choose that entry by pressing **2**.
@@ -200,7 +200,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  If manually juggling games in DOSBox-X seems like a hassle, maybe it would be worth checking out a front-end like Launchbox. We saw in the past how you can [import MS-DOS games into Launchbox](https://www.makeuseof.com/how-to-import-ms-dos-games-launchbox/), and after the front-end's initial setup, playing a game will be as easy as selecting it from its menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DOS in a Box
@@ -221,24 +221,24 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-highlighting-twitvideos-twitters-viral-video-trends-for-2024/"><u>[New] Highlighting TwitVideos Twitter's Viral Video Trends for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-checklist-for-growing-youtube-subscribers/"><u>[New] The Ultimate Checklist for Growing YouTube Subscribers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-pro-gamers-equipment-showcase-series/"><u>[Updated] 2024 Approved Pro Gamer's Equipment Showcase Series</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-beyondbaselinecameras-whats-upnext/"><u>[Updated] In 2024, BeyondBaselineCameras What's UpNext?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-infusing-your-art-with-captivating-collage-vistas/"><u>[Updated] Infusing Your Art with Captivating Collage Vistas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10plus-strategies-for-system-settings-entry/"><u>10+ Strategies for System Settings Entry</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-crafting-thumbnails-on-the-go-for-aspiring-mobile-film-makers/"><u>2024 Approved Crafting Thumbnails on the Go For Aspiring Mobile Film Makers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-detailed-how-to-for-hypertuned-windows-11-homes/"><u>A Detailed How-To for Hypertuned Windows 11 Homes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-practical-approach-to-mastering-windows-law-filters/"><u>A Practical Approach to Mastering Windows LAW Filters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-windows-11s-network-settings/"><u>Accessing Windows 11'S Network Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activating-driver-verifier-on-windows-11/"><u>Activating Driver Verifier on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-absence-of-rockalldlldll-windows/"><u>Addressing Absence of Rockalldll.dll (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-could-not-initiate-jvm-in-windows-environment/"><u>Addressing Could Not Initiate JVM in Windows Environment</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/amazon-prime-hits-twitters-trendiest-watchers-and-lovers-for-2024/"><u>Amazon Prime Hits Twitter's Trendiest Watchers & Lovers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719382132283-boost-your-windows-screenshot-game-4-key-solutions/"><u>Boost Your Windows Screenshot Game: 4 Key Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-workflow-instant-folders-generation-hacks-for-windows-users/"><u>Boost Your Workflow: Instant Folders Generation Hacks for Windows Users</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-free-youtube-endings-that-stand-out-ranked/"><u>In 2024, Free YouTube Endings That Stand Out - Ranked</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/light-up-your-room-optimal-panel-sets-for-thrilling-games/"><u>Light Up Your Room: Optimal Panel Sets for Thrilling Games</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-effortless-inclusion-of-linktree-in-your-tiktok-bio/"><u>[New] 2024 Approved Effortless Inclusion of Linktree in Your TikTok Bio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fixing-windows-11-photo-app-glitches-quickly/"><u>[New] Fixing Windows 11 Photo App Glitches Quickly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808297314-solved-connect-bluetooth-speaker-to-laptop-quickly-and-easily/"><u>[SOLVED] Connect Bluetooth Speaker To Laptop. Quickly & Easily!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2023s-must-watch-alternatives-to-top-films/"><u>[Updated] 2023'S Must-Watch Alternatives to Top Films</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhance-your-viewing-with-ease-utilizing-the-pip-mode-on-netflix/"><u>[Updated] In 2024, Enhance Your Viewing with Ease Utilizing the PIP Mode on Netflix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/coordinating-devices-in-power-save-windows-states/"><u>Coordinating Devices in Power-Save Windows States</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-virtual-disks-not-starting/"><u>Corrective Measures for Virtual Disks Not Starting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windows-media-storage-hurdles/"><u>Demystifying Windows Media Storage Hurdles</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2528003-9780811745727-haunted-indiana/"><u>Haunted Indiana | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-adjustment-tips-for-subtle-audio-reduction-in-logic-pro/"><u>In 2024, Adjustment Tips for Subtle Audio Reduction in Logic Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-engaging-audiences-on-instagram-the-power-of-creative-puzzles/"><u>In 2024, Engaging Audiences on Instagram The Power of Creative Puzzles</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-usb-30-drivers-for-windows-10-quick-download-guide-and-installation-steps/"><u>Latest Intel USB 3.0 Drivers for Windows 10: Quick Download Guide & Installation Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-triple-widget-grid-layout-in-windows-11/"><u>Mastering the Triple Widget Grid Layout in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-printer-error-messages-on-windows/"><u>Navigating Through Printer Error Messages on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-fatal-roblox-error-messages/"><u>Overcoming Fatal Roblox Error Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-approach-to-discerning-hard-drive-from-solid-state-drive-in-windows/"><u>Streamlined Approach to Discerning Hard Drive From Solid State Drive in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-1011-updates-eliminate-x080246007/"><u>Streamlining Windows 10/11 Updates: Eliminate X080246007</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-house-flipper-2-freezing-issues-on-your-windows-computer/"><u>Troubleshooting Tips: Resolving House Flipper 2 Freezing Issues on Your Windows Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-invalid-name-error-a-step-by-step-guide/"><u>Win11's 'Invalid Name Error': A Step-by-Step Guide</u></a></li>
 </ul></div>
 

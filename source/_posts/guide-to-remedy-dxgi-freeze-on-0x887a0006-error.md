@@ -1,7 +1,7 @@
 ---
 title: Guide to Remedy DXGI Freeze on 0X887A0006 Error
-date: 2025-01-08T19:02:16.088Z
-updated: 2025-01-12T16:36:10.781Z
+date: 2025-01-16T17:49:50.471Z
+updated: 2025-01-18T18:24:29.136Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 7. Then try playing your affected game to see if this potential solution makes a difference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Select Debug Mode in the NVIDIA Control Panel
 
  Some players have fixed the 0x887A0006 error by selecting **Debug Mode** in the NVIDIA Control Panel. That option disables GPU (graphical processing unit) overclocking. If your PC has an NVIDIA graphics card, you can select the **Debug Mode** option as follows:
@@ -49,7 +53,11 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 3. Select **Debug Mode** on the menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Repair the Files for Any Affected Games
@@ -67,11 +75,11 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 ![The Manage option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-manage-option.jpg)
 5. Press the **Verify** button, and wait for the verification process to finish.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Verify button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-verify-files-option-in-epic.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Repair Games on Steam
 
@@ -84,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 ![The Verify integrity option in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/steams-verify-option.jpg)
 5. Select Steam’s **Verify integrity of game files** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Check If Your PC Uses the Right GPU for Affected Games
 
  If you have a PC with two GPUs, make sure your affected games are configured to run with the dedicated high-performance graphics card. Your PC’s integrated graphics card (usually of the Intel variety) might not meet the affected game’s minimum system requirements. You can check and change a game’s GPU setting on the NVIDIA Control Panel like this:
@@ -94,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 4. Next, click the **Select a program to customize** drop-down menu. If you can't find a game listed, click **Add** and select it.  
 ![The Select a program to customize drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-select-a-program-drop-down-menu.jpg)
 5. Select a game for which you need to fix the 0x887A0006 error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click the **Select the preferred graphics processor** drop-down menu, and select the **High-performance NVIDIA processor** option.  
 ![The High-performance NVIDIA processor option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-high-performance-graphics-processor-option.jpg)
@@ -111,6 +119,14 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/roll-back-driver-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Update Your GPU’s Driver
 
  The 0x887A0006 error message explicitly says that an issue has occurred with your PC’s display (graphics) adapter. That could mean there’s an outdated graphics driver on your PC that isn’t compatible with affected games. The probable solution in such a scenario is to update the driver for your PC’s GPU.
@@ -120,10 +136,6 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
  Our guide for [updating your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) provides further details about the various methods.
 
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Disable DirectX 12 in Any Affected Games
 
@@ -138,16 +150,12 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 4. Then click the game title for which 0x887A0006 arises.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Select the **Additional Command Line Arguments** box.  
 ![The Additional Command Line Arguments checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-d3d11-command-line.jpg)
 6. Add **d3d11** in the text box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Switch to the High-Performance Power Plan
 
@@ -165,15 +173,15 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 6. Click **Create** to add the plan.
 7. Select the new high-performance plan in the Power Options Control Panel applet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Don’t Overclock Your PC
 
  Overclocking GPUs or CPUs (central processors) is one of the more common causes of error 0x887A0006\. Have you overclocked your PC with overclocking software like CPU Tweaker, AMD Ryzan Master, or MSI Afterburner in any way? If so, it’s recommended you disable (undo) any overclocking you’ve applied by restoring default system values with whatever overclock software you utilize.
 
  You can disable NVIDIA GPU overclocking with the method outlined for resolution two. However, that option won’t be available on PCs with AMD graphics cards. Nor will it be of any use for users who’ve overclocked CPUs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Edit the GraphicsDrivers Registry Key
 
@@ -186,31 +194,23 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-dword-option.jpg)
 4. Type **TdrLevel** inside the DWORD’s text box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Double-click **TdrLevel** to view a **Value data** box for that DWORD.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-edit-dword-value-box.jpg)
 6. Enter **0** in TdrLevel’s **Value** box, and select **OK** to save.
 
 7. Close the Regedit app, and then restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Reinstall the Game That's Crashing
 
 ![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can [back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
 
  You might be able to uninstall an affected game via Programs and Features or Settings. If you can’t see a game listed there, however, you’ll need to uninstall the title within the gaming client software with which you installed it. Then select to install the game in your gaming client.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stop the 0x887A0006 Error Spoiling Your Gaming Fun
 
@@ -228,19 +228,21 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-getting-started-with-snapchat-on-apple-computers/"><u>[New] 2024 Approved Getting Started with Snapchat on Apple Computers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-win11s-swift-screening-of-images/"><u>[New] Win11's Swift Screening of Images</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-brief-overview-of-the-historical-journey-of-electrified-transportation/"><u>A Brief Overview of the Historical Journey of Electrified Transportation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-pen-tablet-glitches-and-freezes/"><u>Addressing Windows PEN Tablet Glitches and Freezes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-windows-terminal-backdrop/"><u>Adjusting Windows Terminal Backdrop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advancing-task-management-adding-cli-to-windowed-console/"><u>Advancing Task Management: Adding CLI to Windowed Console</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/altering-windows-11-start-menu-preferences/"><u>Altering Windows 11 Start Menu Preferences</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-ephemeral-backgrounds-on-win11/"><u>Avoid Ephemeral Backgrounds on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beat-the-blue-screen-bane-11-tricks-for-windows-11/"><u>Beat the Blue Screen Bane: 11 Tricks for Windows 11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/connecting-consciously-with-content-craftsmen-of-your-realm-for-2024/"><u>Connecting Consciously with Content Craftsmen of Your Realm for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/flying-innovations-unveiling-the-new-hubsan-x4-drone-review-for-2024/"><u>Flying Innovations Unveiling the New Hubsan X4 Drone Review for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-leveraging-windows-10s-photos-app-a-guide-to-adding-text-to-visual-content/"><u>In 2024, Leveraging Windows 10'S Photos App A Guide to Adding Text to Visual Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/photography-for-the-masses-the-best-12-sites-offering-accessible-stock-images-for-2024/"><u>Photography for the Masses - The Best 12 Sites Offering Accessible Stock Images for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/proficient-techniques-for-managing-win-registry-from-cmd/"><u>Proficient Techniques for Managing Win Registry From CMD</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-first-time-furnishings-minimalist-house-plans-in-mc-for-2024/"><u>[New] First-Time Furnishings Minimalist House Plans in MC for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-sleep-well-with-asmr-techniques-and-tips/"><u>[New] In 2024, Sleep Well with ASMR Techniques and Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-direct-streaming-use-vlc-for-webcam-video/"><u>[Updated] 2024 Approved Direct Streaming Use VLC for Webcam Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cast-distribution-license-for-screen-viewing/"><u>2024 Approved Cast Distribution License for Screen Viewing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-music-lovers-guide-to-the-best-places-for-complimentary-tunes-online-top-picks/"><u>A Music Lover's Guide to the Best Places for Complimentary Tunes Online (Top Picks)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/declutter-drives-identifying-massive-storage-consumers-in-windows/"><u>Declutter Drives: Identifying Massive Storage Consumers in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enablingdisabling-content-filter-on-modern-windows/"><u>Enabling/Disabling Content Filter on Modern Windows</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unleash-your-creativity-top-vertical-video-editing-apps-for-mobile/"><u>New 2024 Approved Unleash Your Creativity Top Vertical Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-flawed-windows-scripts-to-function-again/"><u>Overhauling Flawed Windows Scripts to Function Again</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-purging-of-junk-apps-from-windows-11/"><u>Rapid Purging of Junk Apps From Windows 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/seamless-user-targeting-via-innovative-cookiebot-solutions/"><u>Seamless User Targeting Via Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-ensure-win-calculator-supremacy/"><u>Steps to Ensure Win Calculator Supremacy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-playtime-fixing-minecraft-exit-failures/"><u>Streamline Playtime: Fixing Minecraft Exit Failures</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unmatched-ai-tools-for-visual-storytelling-for-2024/"><u>Unmatched AI Tools for Visual Storytelling for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unshackle-onedrive-and-microsoft-id-integration-on-windows-systems/"><u>Unshackle OneDrive and Microsoft ID Integration on Windows Systems</u></a></li>
 </ul></div>
 

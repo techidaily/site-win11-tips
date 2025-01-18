@@ -1,7 +1,7 @@
 ---
 title: Solving Left/Right Earheadphone Audio Issues in Windows
-date: 2024-08-08T11:01:16.561Z
-updated: 2024-08-09T11:01:16.561Z
+date: 2025-01-13T18:19:39.170Z
+updated: 2025-01-18T16:14:00.260Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,17 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 
  If the above checks don't work, start applying the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check for Hardware Issues
 
 ![A person wearing headphones next to a microphone and PC screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-person-wearing-headphones-next-to-a-microphone-and-pc-screen.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  First and foremost, you should ensure it's not a hardware issue that has muted one side of your headphone. The easiest way to check this is to plug the headphones into any other device you own and see whether you hear anything from the problematic side.
 
@@ -41,25 +49,12 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 
  In contrast, if you hear audio as usual when connecting your headphones to another device, it's a device-specific issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Check the Audio Jack or Port for Issues
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![An RCA jack with a broken pin inside](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/an-rca-jack-with-a-broken-pin-inside.jpg)
 
  Some PCs still come with separate jacks for microphones and headphones. Each jack supports a similar-looking connector, but the signal flow is different.
@@ -79,30 +74,17 @@ Key features:
 1. Go to the Windows Settings app.
 2. Go to the **System** tab on the left and navigate to **Sound**.
 3. Under **Advanced**, click **More sound settings**.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Open More Sound Settings in the Sound Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-open-more-sound-settings-in-the-sound-settings-of-the-windows-settings-app.jpg)
 4. Navigate to the **Playback** tab, right-click your headphones device, then select **Properties**.  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Properties by Right-clicking on Your Device in the Playback Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-open-properties-by-right-clicking-on-your-device-in-the-playback-tab.jpg)
 5. Navigate to the **Levels** tab of the properties window.
 6. Click on the **Balance** button.  
 ![Click the Balance Button in the Levels Tab of the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-click-the-balance-button-in-the-levels-tab-of-the-properties-window.jpg)
 7. Make sure neither the left nor right side is muted. If both sides are at different levels at the moment, balance them.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Balance the Sound Levels of Both the Right and Left Side of Your Headphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-balance-the-sound-levels-of-both-the-right-and-left-side-of-your-headphone.jpg)
 
  Hopefully you can now hear from both sides of your headphones.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable Audio Enhancements
 
  The audio enhancement feature makes the output of audio as clean as possible. By adding additional processing, this feature can create a significant improvement in the quality of your audio.
@@ -114,9 +96,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Just like before, go to **Sound** settings, then navigate to **Playback**.
 2. Right-click on your headphones device and select **Properties**.
 3. Go to the **Advanced** tab and uncheck the box beside **Enable audio enhancements**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![Disable Audio Enhancements in the Advanced Tab of the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/5-disable-audio-enhancements-in-the-advanced-tab-of-the-properties-window.jpg)
 
  Now give your headphones another try.
@@ -132,17 +111,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Open Settings.
 2. Navigate to the **Accessibility** tab in the left sidebar.
 3. Under **Hearing**, click on **Audio**.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Audio Settings in the Accessibility Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-open-audio-settings-in-the-accessibility-tab-of-the-windows-settings-app.jpg)
 4. Turn off the toggle next to **Mono audio** if it's already selected.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Mono Audio in Audio Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-disable-mono-audio-in-audio-settings-of-the-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this doesn't fix the issue, remember to turn the mono audio setting off again before continuing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Check for App-Specific Issues
 
@@ -159,15 +140,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * **Update Windows:** Keeping your operating system up-to-date is crucial to get smooth performance. So, [check for pending Windows updates and manually install them](https://www.makeuseof.com/update-windows-manually/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Your Headphones Working Again
 
  Hearing from one side of your headphones completely ruins our experience. Hopefully, you now better understand why one side of your headphones goes mute and how you can fix it so you can hear from both sides.
 
  Here're a few checks and fixes to find out if the issue is hardware-related or caused by misconfigured settings and resolve it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -175,3 +155,27 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-soundscape-integration-for-statements/"><u>[New] Soundscape Integration for Statements</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-video-shooting-equipment-list-what-you-need-to-start-recording-videos/"><u>[Updated] YouTube Video Shooting Equipment List What You Need to Start Recording Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-tech-integration-flow-app-connects-pc-galaxy/"><u>Effortless Tech Integration – Flow App Connects PC, Galaxy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-a-working-winshift/"><u>Essential Tips for a Working WinShift</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-run-windows-11-on-an-old-pc-with-windows-to-go-and-rufus/"><u>How to Run Windows 11 on an Old PC With Windows To Go and Rufus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-drivers-in-windows-10-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your drivers in Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-compact-cost-free-livestreaming-solutions-listed-in-a-nutshell/"><u>In 2024, Compact, Cost-Free LiveStreaming Solutions Listed in a Nutshell</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intelligent-drivers-streamlining-the-update-process-of-intel-graphic-cards/"><u>Intelligent Drivers: Streamlining the Update Process of Intel Graphic Cards</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/latin-expressions-the-most-notable-50-to-boost-your-charm/"><u>Latin Expressions: The Most Notable 50 to Boost Your Charm</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-comcast-vs-tivo-which-dvr-reigns-supreme/"><u>New 2024 Approved Comcast vs TiVo Which DVR Reigns Supreme ?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opening-driver-verifier-for-diagnostics-in-w11/"><u>Opening Driver Verifier for Diagnostics in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-setting-retrieval-hurdle-in-nvidias-software/"><u>Overcoming Setting Retrieval Hurdle in NVIDIA's Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establish-connection-7-steps-to-solve-windows-usb-wi-fi-adapter-problem/"><u>Re-Establish Connection: 7 Steps to Solve Windows' USB Wi-Fi Adapter Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-get-past-password-required-on-win-11-os/"><u>Strategies to Get Past Password Required on Win 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-google-chrome-crashes-in-windows/"><u>Troubleshooting Google Chrome Crashes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-resources-stuck-in-usage-on-windows-11-systems/"><u>Unlocking Resources Stuck in Usage on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unseen-razers-restore-detection-via-razer-synapse-on-windows/"><u>Unseen Razers? Restore Detection via Razer Synapse on Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-alienware-aurora-r11-stands-as-the-supreme-pc-for-gamers-in-202n/"><u>Why Alienware Aurora R11 Stands as the Supreme PC for Gamers in 202N</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Tackling Windows 10/11'S Error 0X80073D26 in Xbox App
-date: 2025-01-11T01:52:51.874Z
-updated: 2025-01-12T21:00:34.893Z
+date: 2025-01-15T17:30:29.872Z
+updated: 2025-01-18T16:27:47.639Z
 tags:
   - windows10
   - windows11
@@ -36,17 +36,13 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 ![The Run button for the Windows App Store troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-app-store-troubleshooter.jpg)
 5. Apply all troubleshooting suggestions provided within Windows Store Apps window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows Store Apps window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-app-troubleshooter.jpg)
 
- You can run the same troubleshooter tool in Windows 10, but the steps for accessing it are a bit different. Click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters** in Windows 10’s Settings app. Then select **Windows Store Apps** \> **Run the troubleshooter** to get troubleshooting.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can run the same troubleshooter tool in Windows 10, but the steps for accessing it are a bit different. Click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters** in Windows 10’s Settings app. Then select **Windows Store Apps** \> **Run the troubleshooter** to get troubleshooting.
 
 ## 2\. Repair and Reset the Microsoft Store App
 
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Edit the Registry
@@ -84,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 ![The remove-app package command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-app-package-command.jpg)
 5. Then input these separate commands, pressing **Return** after each:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServices" -recurse  
 
 Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -recurse` 
@@ -95,7 +87,7 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 6. Close out of PowerShell to restart Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Reopen Powershell and execute the following command:  
@@ -112,21 +104,29 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
  To begin with, try repairing system files to see if there are any issues. You can do that by executing a System File Checker scan within the Command Prompt. That tool will check for and repair corrupted system files detected when you run its command. To apply this potential fix, follow the instructions in our [how to run the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Set Windows to Clean Boot
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another possibility is that a software conflict might be causing error 0x80073D26 to occur on your PC. Setting Windows to clean boot by disabling third-party startup items will likely eliminate such a potential cause. That will stop third-party apps and services that could be conflicting with the Microsoft Store from automatically starting.
 
  To apply this fix, check out this guide about [clean-booting Windows 10 or 11](https://www.makeuseof.com/clean-boot-windows-11/). Disable startup programs in Task Manager and services in MS Config as covered within that guide; then restart your PC and try installing Microsoft Store games again to see if the issue persists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Reinstall the Microsoft Store
 
 ![The remove Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-microsoft-store-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Some users might need to reinstall the Microsoft Store to fix error 0x80073D26\. Such a resolution might be necessary for fixing wider issues with the Microsoft Store app other potential solutions don’t address.
 
@@ -145,7 +145,7 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
  You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enjoy the Best Xbox Game Pass Games Available on the Microsoft Store
@@ -164,21 +164,22 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-explore-this-costless-voice-changer-to-boost-valorant-skills/"><u>[New] 2024 Approved Explore This Costless Voice Changer to Boost Valorant Skills</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-exclusive-action-cam-colorization-top-15-luts-to-enhance-cinematography/"><u>[New] In 2024, Exclusive Action Cam Colorization Top 15 LUTs to Enhance Cinematography</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-video-downloader-extraordinaire-mp4-transformation-for-2024/"><u>[Updated] FB Video Downloader Extraordinaire - MP4 Transformation for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-update-twitter-video-preview/"><u>[Updated] Update Twitter Video Preview</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/11-fast-passes-to-the-control-settings-hub/"><u>11 Fast Passes to the Control Settings Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-ways-to-access-the-startup-folder-in-windows/"><u>5 Ways to Access the Startup Folder in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensible-windows-screentime-intermission/"><u>A Comprehensible Window's Screentime Intermission</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adapting-oculus-quest-2-for-windows-vr-compatibility/"><u>Adapting Oculus Quest 2 for Windows VR Compatibility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-error-x80049dd3-for-smooth-typing-on-windows-11/"><u>Addressing Error X80049DD3 for Smooth Typing on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/an-experts-strategy-for-managing-component-services-in-w11/"><u>An Expert's Strategy for Managing Component Services in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719346952101-chatgpt-lite-free-self-hosted-windows-edition-with-gpt4all/"><u>ChatGPT Lite: Free Self-Hosted Windows Edition with GPT4All</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-expands-warranty-by-two-more-years-for-latest-generation-core-cpus-amidst-stability-concerns/"><u>Intel Expands Warranty by Two More Years for Latest Generation Core CPUs Amidst Stability Concerns</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/superior-techniques-for-adjusting-tempo-of-tracks-in-spotify/"><u>Superior Techniques for Adjusting Tempo of Tracks in Spotify</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-budget-friendly-filmmakers-dream-for-2024/"><u>The Budget-Friendly Filmmaker's Dream for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-picks-comprehensive-analysis-of-the-nest-audio-the-ultimate-sound-experience-for-enthusiasts/"><u>Top Picks: Comprehensive Analysis of the Nest Audio - The Ultimate Sound Experience for Enthusiasts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevating-your-chromebooks-zoom-experience/"><u>2024 Approved Elevating Your Chromebook's Zoom Experience</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/comprehensive-guide-to-macxdvds-end-user-contractual-stipulations/"><u>Comprehensive Guide to MacXDVD's End-User Contractual Stipulations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-from-mkv-to-mov-by-movavi/"><u>Free Online Converter From MKV to MOV by Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-converter-transform-webp-images-into-animated-gifs-with-movavi/"><u>Free Online Converter: Transform WebP Images Into Animated GIFs with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-mp4-and-avi-video-converter-by-movavi-convert-videos-without-cost/"><u>Free Online MP4 & AVI Video Converter by Movavi: Convert Videos without Cost</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/garantir-la-securite-de-lensemble-de-votre-reseau-avec-une-sauvegarde-facile-sans-effort/"><u>Garantir La Sécurité De L'ensemble De Votre Réseau Avec Une Sauvegarde Facile Sans Effort !</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-ogg-to-wmv-omzetting-online-kort-en-gemakkelijk-met-movavi/"><u>Gratis Ogg-to-Wmv Omzetting Online - Kort en Gemakkelijk Met Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-online-converter-von-aifc-to-m4a-mit-movavi-beginnen-sie-jetzt/"><u>Gratis Online Converter Von AIFC-to-M4A Mit Movavi - Beginnen Sie Jetzt</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-and-update-sas-software-in-windows-10-8-or-7/"><u>How to Install and Update SAS Software in Windows 10, 8 or 7</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-storytelling-free-soundtrack-options-available/"><u>In 2024, Elevate Storytelling - Free Soundtrack Options Available</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/los-mejores-programas-para-presentaciones-en-windows-11-top-14-seleccionados-para-el-ano-nuevo/"><u>Los Mejores Programas Para Presentaciones En Windows 11 - Top 14 Seleccionados Para El Año Nuevo</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/microsoft-and-ai-merge-for-next-gen-bing-searches/"><u>Microsoft and AI Merge for Next-Gen Bing Searches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ouroboros-uma-lista-com-10-estrategias-inteligentes-utilizando-ia-para-elevar-a-qualidade-dos-seus-videos/"><u>Ouroboros: Uma Lista Com 10 Estratégias Inteligentes Utilizando IA Para Elevar a Qualidade Dos Seus Vídeos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pioneering-physical-activity-bests-in-virtual-treadmills/"><u>Pioneering Physical Activity Bests in Virtual Treadmills</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifique-sua-experiencia-de-conversao-de-audio-visual-ferramenta-moveis-e-eficiente-para-videos-avi-oficinas-de-movie/"><u>Simplifique Sua Experiência De Conversão De Áudio-Visual: Ferramenta Móveis E Eficiente Para Vídeos AVI - Oficinas De Movie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-file-3g2-in-formati-compatibili-3gp-gratuitamente-su-movavi/"><u>Trasforma I Tuoi File .3G2 in Formati Compatibili 3GP Gratuitamente Su Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726030074470-sd/"><u>お勧めの音楽コンバーターでSDカード保存方法 - 詳細解析</u></a></li>
 </ul></div>
 

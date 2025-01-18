@@ -1,7 +1,7 @@
 ---
 title: "Taskbar Evolution: A Timeline From '85 To Present"
-date: 2024-08-08T11:00:41.716Z
-updated: 2024-08-09T11:00:41.716Z
+date: 2025-01-12T18:18:34.975Z
+updated: 2025-01-18T16:04:47.380Z
 tags:
   - windows10
   - windows11
@@ -26,11 +26,11 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 
  However, Windows 1.0 and 2.0 did include a bar on which users could minimize multiple running programs by double-clicking their title bars. Each program on that bar had an icon to click on, a bit more like the taskbar from Windows 7 onward. That bar can be considered the forerunner to the Windows taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![The program bar in Windows 1.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, it didn’t include a Start menu or system tray area and wasn’t even present in Windows 3.0\. Program windows minimized to the desktop background area in Windows 3.0\.
 
@@ -52,35 +52,22 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 
  Microsoft gave Windows XP a new visual style and redesigned the taskbar to match it. Windows XP’s taskbar had a default blue color scheme with a green **Start** button, which was quite a departure from the gray taskbars of Windows 95, 98, and Millennium. Minimized taskbar windows also had more rounded corners to match the rest of the new-look design.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Windows XP taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-xp-taskbar.jpg)
 
  Windows XP’s taskbar was the first to have grouped windows. This feature enabled the grouping of multiple open windows from the same application on the taskbar. Users could click to view different windows from the same taskbar app windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Windows Vista: The Introduction of Window Previews
 
  Vista didn’t go down a storm with new users during its 2007 release year. However, its taskbar did have one welcome new feature that’s remained a part of Windows ever since. Vista’s new taskbar thumbnails enabled users to view small previews of a window’s contents by hovering their cursors over its taskbar icon.
 
  Windows Vista’s taskbar was also the first to include a **Start** button with no label text. Instead, it was just a circulator button with a Windows logo. The removal of the “Start” label reduced the button’s width and freed up a bit more taskbar space.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Windows Vista taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-vista-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows 7: Another Taskbar Overhaul From Microsoft
 
  Microsoft gave the taskbar one of the biggest overhauls in its history for Windows 7\. The most notable change was that minimized apps on Windows 7’s taskbar did not include labels, but users could still clearly identify them with their expanded icons. This significantly reduced the width of taskbar app windows.
@@ -93,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 
  Microsoft also swapped the **Show Desktop** button from the Quick Launch area with an Aero Peek alternative at the far right of the taskbar. Clicking the **Aero Peek** button minimizes all windows to the taskbar. Hovering the cursor over that button enables users to view the desktop area without minimizing anything.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Windows 8: The Start Button Goes Missing From the Taskbar
 
  The taskbar didn’t change much in Windows 8\. However, it was the first taskbar in Windows history not to include a **Start** button. The Start screen replaced the Start menu in Windows 8\. So, a taskbar **Start** button for accessing a menu was seemingly no longer required.
@@ -100,8 +91,9 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
  However, the removal of the taskbar’s **Start** button generally didn’t go down well with users. Microsoft later released a Windows 8.1 upgrade that restored a new-style taskbar **Start** button for accessing the Start screen. That wasn’t enough to save Windows 8 though, and the OS never recovered.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows 10: The Introduction of New Taskbar Icons
 
  Microsoft added buttons for new features to Windows 10’s taskbar. The Windows Cortana virtual assistant was originally tied to the Windows Search tool. However, Microsoft separated the search tool from Cortana in later Windows 10 versions.
@@ -110,21 +102,22 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 
 ![The Type here to search button in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/type-here-to-search-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Task View was another notable new Windows 10 taskbar feature. Clicking the **Task View** taskbar button brings up virtual desktop options. You can also access file and Edge webpage shortcuts from Task View’s timeline.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows 11: The Taskbar Goes Central
 
  Microsoft released Windows 11 in 2021, and the first new thing most users noticed was the centralized taskbar icons.
 
  Windows 11’s taskbar was the first to have center-aligned icons in the middle by default. This makes that taskbar a bit more like the macOS Dock with its centralized icons. However, you can always [add a macOS-style Dock to Windows 10 & 11](https://www.makeuseof.com/windows-10-11-mac-style-dock/) if you prefer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![The Windows 11 taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-11-taskbar.jpg)
 
  Microsoft also added a new **Widgets** button to Windows 11’s taskbar. The Widgets Board is one of the biggest new features in Windows 11 on which you can pin weather, sport, Game Pass, traffic, entertainment, and other widgets that provide info and content. The Widgets feature also displays a weather icon and description on the taskbar.
@@ -141,11 +134,29 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The taskbar has been a part and parcel of Windows for more than 25 years, and over that time period, Microsoft has added and removed features to and from the taskbar. This is the history of the Windows taskbar from its inception up to 2023\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-shared-sights-behind-the-memeayer/"><u>[New] 2024 Approved Shared Sights Behind the Meme'ayer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-exploring-next-gen-vector-software-for-designers/"><u>[New] In 2024, Exploring Next-Gen Vector Software for Designers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-seamless-subtitle-management-a-mac-edition/"><u>[Updated] Seamless Subtitle Management A Mac Edition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-techniques-for-seamless-blending-of-hdr-photographs-in-lightroom-for-2024/"><u>[Updated] Techniques for Seamless Blending of HDR Photographs in Lightroom for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unraveling-metaverse-and-multimetase-distinctions-expert-explanation/"><u>[Updated] Unraveling Metaverse and Multimetase Distinctions (Expert Explanation)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boxing-battlegrounds-live-vs-virtual-warriors-for-2024/"><u>Boxing Battlegrounds Live VS Virtual Warriors for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-the-right-device-chromebook-or-traditional-laptop-a-comprehensive-guide/"><u>Choosing the Right Device: Chromebook or Traditional Laptop - A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-a-connected-collection-across-applications/"><u>In 2024, Crafting a Connected Collection Across Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-low-speeds-in-windows-edge-win10win11/"><u>Overcoming Low Speeds in Windows Edge (Win10/Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-your-pcs-overwatch-2-lossed-graphic-error/"><u>Resolving Your PC’s Overwatch 2 Lossed Graphic Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-better-sighting-of-tasks-on-windows-desktops/"><u>Techniques for Better Sighting of Tasks on Windows Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-windows-user-manual-for-speech-to-text-conversion/"><u>The Complete Window's User Manual for Speech-to-Text Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-maximize-laptop-lifespan-power-management-basics/"><u>Tips: Maximize Laptop Lifespan - Power Management Basics</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlocking-peak-efficiency-an-in-depth-look-at-the-2020-apple-macbook-air-featuring-groundbreaking-m1-technology/"><u>Unlocking Peak Efficiency: An In-Depth Look at the 2020 Apple MacBook Air Featuring Groundbreaking M1 Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-lossed-rendering-support-in-overwatch-2/"><u>Winning Back Lossed Rendering Support in Overwatch 2</u></a></li>
+</ul></div>
+

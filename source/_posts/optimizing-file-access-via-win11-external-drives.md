@@ -1,7 +1,7 @@
 ---
 title: Optimizing File Access via Win11 External Drives
-date: 2025-01-09T17:12:56.742Z
-updated: 2025-01-12T18:54:08.585Z
+date: 2025-01-17T16:33:43.854Z
+updated: 2025-01-18T17:14:43.440Z
 tags:
   - windows10
   - windows11
@@ -42,11 +42,15 @@ Follow the sets below to enable network discovery on Windows:
 4. Open the**Private networks** settings and set the toggle next to**Network discovery** to**On** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. If you're looking to access a printer on the network, make sure to enable**File and printer sharing** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you turn on network discovery, other devices on the same network can see your computer and access it.
 
@@ -55,6 +59,10 @@ Follow the sets below to enable network discovery on Windows:
  Remember that enabling network discovery may make your computer more vulnerable to security risks as it allows other devices on the network to access your computer.
 
  Therefore, it's crucial to ensure that you have a strong password and[customize your default Windows Firewall](https://www.makeuseof.com/windows-firewall-control-guide/) to protect your device in case something goes wrong.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Map a Network Drive Using File Explorer
 
@@ -67,6 +75,10 @@ Here's what you need to do to use File Explorer for mapping:
 ![This PC Context Menu In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/this-pc-context-menu-in-windows.jpg)
 3. Choose a unique drive letter in the**Map Network Drive** window. This is the drive you'll use to access the shared folder from your computer. As an example, we've selected**A:** as the drive letter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Enter the path to the shared folder you want to map in the**Folder:** field. This can be a local path on the computer, such as**\\\\YourComputer\\SharedFolder** , or a network path, such as**\\\\ServerName\\SharedFolder** .  
 ![Windows Shared Network Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-shared-network-folder.jpg)
 5. If you need a username and password to access the shared folder, check the**Connect using different credentials** box and enter the required information.
@@ -77,10 +89,6 @@ Here's what you need to do to use File Explorer for mapping:
  Once you have completed these steps, it'll map the folder to the specified drive letter in File Explorer. You can access the shared folder at any time by double-clicking on the drive.
 
  Want to access the shared folder in milliseconds? You can create a shortcut to the mapped network drive on your desktop for quick access.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Use Windows PowerShell for Mapping
 
@@ -95,14 +103,14 @@ New-PSDrive -Name DRIVE -PSProvider FileSystem -Root \\ServerName\SharedFolder
 ![PowerShell Mapping Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powershell-mapping-command.jpg)
 4. If the shared folder requires a username and password to access, you can add the -Credential parameter to the command, followed by a username and password in the format username and password. For example:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Credential username password
 5. Hit**Enter** to allow PowerShell to map the network drive. You can access the mapped drive from File Explorer now.
 
  Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use Command Prompt for Mapping
 
@@ -118,10 +126,6 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 ![Mapping In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/mapping-in-command-prompt.jpg)
 4. Once you've made the required changes, hit**Enter** to execute the command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's it. It'll take a few seconds, and then you can access the mapped drive from File Explorer with one click.
 
 ## How to Disconnect a Mapped Network Drive
@@ -134,10 +138,6 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 2. Right-click on**Network** in the left pane and choose**Disconnect network drive** from the context menu.  
 ![Disconnect Mapped Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disconnect-mapped-drive.jpg)
 3. In the next window, choose the drive letter or name of the network drive you want to disconnect. Click**OK** to disconnect it from your system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The mapped network drive will now disappear from File Explorer, and you can no longer access it from the drive letter you created earlier.
 
@@ -162,18 +162,15 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-guide-to-android-movie-upturning-for-2024/"><u>[New] Step-by-Step Guide to Android Movie Upturning for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-balancing-frequency-and-quality-in-youtube-video-uploads/"><u>[Updated] 2024 Approved Balancing Frequency & Quality in YouTube Video Uploads</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-complete-evaluation-hero4-black-interface/"><u>[Updated] Complete Evaluation Hero4 Black Interface</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-vertical-vs-horizontal-deciding-facebook-video-orientation-for-2024/"><u>[Updated] Vertical vs Horizontal Deciding Facebook Video Orientation for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-htc-u23-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On HTC U23 Pro</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-jest-jacket-picture-fabricator/"><u>2024 Approved Jest Jacket Picture Fabricator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-ways-to-fix-winget-not-working-on-windows-11/"><u>8 Ways to Fix Winget Not Working on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/balancing-system-heat-output-with-user-controls/"><u>Balancing System Heat Output with User Controls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blackviews-big-hard-drive-performance-lacks-pep/"><u>Blackview's Big Hard Drive, Performance Lacks Pep</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-gaming-tuning-amd-radeon-settings/"><u>Boost Your Gaming: Tuning AMD Radeon Settings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-how-to-retrieve-passwords-stored-in-your-macs-keychain-expert-tips-and-tricks/"><u>Discover How to Retrieve Passwords Stored in Your Mac's Keychain - Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/guide-detaille-de-la-synchronisation-des-notes-pour-pc-portable-et-pc-de-bureau-sur-windows-10/"><u>Guide Détaillé De La Synchronisation Des Notes Pour PC Portable Et PC De Bureau Sur Windows 10</u></a></li>
-<li><a href="https://extra-information.techidaily.com/merge-soundtracks-and-cinematography-in-premiere-pro/"><u>Merge Soundtracks and Cinematography in Premiere Pro</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-asmr-gurus-recommend-best-microphones-reviewed/"><u>[New] In 2024, ASMR Gurus Recommend Best Microphones Reviewed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-eyecatch-protector-cam-cover/"><u>[New] In 2024, Eyecatch Protector Cam Cover</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-expertly-selected-asmr-tools-for-androidios-for-2024/"><u>[Updated] Expertly Selected ASMR Tools for Android/iOS for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-your-graphics-driver-on-windows-10-and-11/"><u>How to Reset Your Graphics Driver on Windows 10 & 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-realme-v30-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Realme V30? Fixed | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-updates-for-canon-pixma-mg2522-software-drivers-how-to-get-them/"><u>Latest Updates for Canon Pixma MG2522 Software Drivers - How to Get Them</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-your-pc-the-ultimate-10-windows-powertoy-guide/"><u>Maximizing Your PC: The Ultimate 10 Windows PowerToy Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-qbittorrent-slowdown-issues-on-pc/"><u>Resolving qBittorrent Slowdown Issues on PC</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/uwindows-7-2/"><u>U磁気メモリでWindows 지원: 7번째에 대한 2가지 백업방법</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-full-capabilities-of-windows-11s-mixer-features/"><u>Unlocking the Full Capabilities of Windows 11'S Mixer Features</u></a></li>
 </ul></div>
 

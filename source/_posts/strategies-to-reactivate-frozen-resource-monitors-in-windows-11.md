@@ -1,7 +1,7 @@
 ---
 title: Strategies to Reactivate Frozen Resource Monitors in Windows 11
-date: 2024-08-08T11:00:55.928Z
-updated: 2024-08-09T11:00:55.928Z
+date: 2025-01-16T18:05:13.482Z
+updated: 2025-01-18T17:59:17.326Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
  So, if you're having trouble getting the Resource Monitor tool working on your computer, check out the steps below to troubleshoot any issues and get it up and running again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Causes the Resource Monitor App to Stop Working?
 
  Before we dive into solving the problem, let's first check what causes the Resource Monitor app to stop working correctly. There are a few potential causes you should consider.
@@ -32,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
  Finally, if you have recently installed new antivirus software on your computer, it could block access to the Resource Monitor program.
 
 So, let's move on to the solution and fix this problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Restart the Computer
 
@@ -54,6 +59,10 @@ To change the DPI scale to its default settings, follow these steps:
 ![Change DPI Scale in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-dpi-scale-in-settings.jpg)
 5. Choose the recommended value.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have made the changes, close the Settings window and run the Resource Monitor app to see if the problem is resolved.
 
 ## 3\. Run the System File Checker
@@ -65,17 +74,20 @@ To do this, follow these steps:
 1. Right-click on Start and select**Run** from the menu list.
 2. Type**cmd** in the text box and press**Ctrl + Shift + Enter** on your keyboard.
 3. When the UAC popup appears on the screen, click**Yes** to open Command Prompt with admin access. If you want in-depth information, read our guide on[running the command prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 sfc /scannow
 5. Wait for the process to complete, then restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Check for Windows Updates
 
  It is also possible for an outdated version of Windows to cause this issue, so[manually check for any pending Windows updates](https://www.makeuseof.com/update-windows-manually/) and install them.
@@ -85,20 +97,10 @@ sfc /scannow
 1. Press**Win + I** on your keyboard to launch the System Settings.
 2. From the left side of the Settings menu, click**Windows Update** .
 3. When Windows Update opens, click the**Check for updates** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
 
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Uninstall the Latest Windows Updates
 
  If you recently updated your OS and there are no newer updates for it, the last update might have caused the issue. So, try uninstalling any recent update you may have installed, which could help resolve conflicts between the updates and existing system files that are causing problems with Resource Monitor.
@@ -112,6 +114,10 @@ No advertising on the website.
 
  Then select any recent updates that you want to uninstall. After that, restart your computer and check if Resource Monitor is now working properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Create a New User Account
 
  If you're still having issues, try[creating a new local user account](https://www.makeuseof.com/windows-11-create-local-user-account/) and see if that fixes the issue. This can be helpful if corrupted user profile data or settings cause the problem. To do so, follow the steps below:
@@ -120,9 +126,6 @@ No advertising on the website.
 2. From the left, select**Accounts** .
 3. Click**Other users** under Account settings.
 4. Next to Add other users, click**Add account** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![Create a New User Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-a-new-user-account.jpg)
 5. On the Microsoft account page, click **I don't have this person's sign-in information** .
 
@@ -137,15 +140,9 @@ In such a case, you need to perform a clean boot as instructed below:
 1. Open the**Run** dialog box.
 2. Type**MSConfig** in the text box and hit Enter.
 3. Check the**Selective startup** box on the General tab.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. Uncheck the**Load startup items** box.
 5. Switch to the**Services** tab and check the**Hide all Microsoft services** box.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Then click**Disable All** .
 7. Go to the Startup tab and click the**Open Task Manager** link
@@ -153,21 +150,15 @@ In such a case, you need to perform a clean boot as instructed below:
 
  Once you have done this, close Task Manager, then click**OK** on the MSConfig window to save these changes. Now restart your computer for them to take effect, then try using Resource Monitor to see if they work now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Resolve Resource Monitor Issues in Windows 11
 
  Resource Monitor helps you monitor the performance and usage of your system's resources, including memory, disk, and network activity. If you're having trouble accessing this tool, this guide may help.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,4 +167,21 @@ In such a case, you need to perform a clean boot as instructed below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capturing-continuity-a-detailed-manual-for-screen-recordings-on-windows-pcs-for-2024/"><u>[New] Capturing Continuity A Detailed Manual for Screen Recordings on Windows PCs for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-create-professional-fb-ad-videos-leverage-free-creative-toolkit-for-2024/"><u>[Updated] Create Professional FB Ad Videos Leverage Free Creative Toolkit for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-convert-facebook-audio-to-mp3/"><u>[Updated] In 2024, Convert Facebook Audio to MP3</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-become-a-reel-pro-in-30-days-or-less/"><u>2024 Approved Become a Reel Pro in 30 Days or Less</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-access-denied-saves-on-your-computer-windows/"><u>Clearing Up Access Denied Saves on Your Computer Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-smooth-journey-preventing-system-crash-during-dwarven-adventure/"><u>Ensuring Smooth Journey: Preventing System Crash During Dwarven Adventure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-installing-the-outlook-preview-app/"><u>Essential Steps: Installing the Outlook Preview App</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-network-nooks-overcoming-obs-connectivity-concerns-7-ways/"><u>Navigating Network Nooks: Overcoming OBS Connectivity Concerns (7 Ways)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/revolutionized-action-recording-with-tomtoms-newest-bandit/"><u>Revolutionized Action Recording with TomTom's Newest Bandit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204436346-solution-steps-fixing-usb-device-unrecognized-error-stop-warnings-now/"><u>Solution Steps: Fixing 'USB Device Unrecognized' Error - Stop Warnings Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speeding-up-input-typingaids-secret/"><u>Speeding Up Input: TypingAid's Secret</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-new-frontier-for-windows-ventures-past-11/"><u>The New Frontier for Windows: Ventures Past 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninterrupted-online-life-securing-windows-network/"><u>Uninterrupted Online Life: Securing Windows Network</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'USB Not Attached' Error in VirtualBox on Windows Platform
-date: 2024-08-08T11:02:22.807Z
-updated: 2024-08-09T11:02:22.807Z
+date: 2025-01-12T18:25:26.855Z
+updated: 2025-01-18T16:37:30.295Z
 tags:
   - windows10
   - windows11
@@ -31,12 +31,13 @@ Here are some possible reasons for the VirtualBox USB devices error.
 
  Now, you know the possible reasons why VirtualBox throws an error code when you connect a USB device. Here are the following methods you can try to fix the error code and successfully connect the USB device to the virtual machine.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix the "Failed to Attach the USB Device" Error in Windows
 
  Now that we know what's potentially causing the issue, let's explore the fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Restart VirtualBox
 
@@ -47,20 +48,21 @@ Here are some possible reasons for the VirtualBox USB devices error.
  Before trying to attach the USB device to the VirtualBox virtual machine, first check if it shows up on your host system. Launch the File Explorer and go to This PC and check if the USB drive appears there. If you don’t see the USB drive, do as follows:
 
 1. First, open Device Manager. There are many[different ways to open the Device Manager](https://www.makeuseof.com/windows-open-device-manager/) , but a quick way is to press**Win + R** to launch the Run command box. Type**devmgmt.msc** and press the**Enter** key to launch the Device Manager.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![Check the USB Device on the Host System](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-the-USB-Device-on-the-Host-System.jpg)
 2. Navigate to the**Disk Drives** option and click the**arrow** icon to expand the section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Find the USB drive you connected to the host system. If it is not present in the list, pull it out and reconnect it to another USB port on your system.
 
  If the USB port on your system malfunctions, the USB drive won’t show up in Device Manager or File Explorer. But if the USB drive doesn’t appear in the device manager even after changing the port, it could have a hardware malfunction. In that case, try connecting another USB drive to VirtualBox virtual machine.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Install the VirtualBox Extension Pack
 
  VirtualBox can only attach USB 1.0 devices to a virtual machine. You need to install the extension pack to add USB 2.0 or 3.0 devices. Here’s how to do it.
@@ -69,9 +71,6 @@ The powerful video editing program for your Windows PC</a>
 2. Launch any web browser on your system and go to the[official VirtualBox download page](https://www.virtualbox.org/wiki/Downloads) .
 3. Click on the build number which is present on your system. Scroll down and download its corresponding extension pack.
 4. Now, open VirtualBox. Navigate to**File > Tools > Extension Pack Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![_Install the VirtualBox Extension Pack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/_Install-the-VirtualBox-Extension-Pack.jpg)
 5. Click on the**Install** icon and select the extension pack file you downloaded in step 3.
 6. Click on the**Install** button, accept the**EULA** and click on the**I Agree** button.
@@ -89,9 +88,6 @@ The powerful video editing program for your Windows PC</a>
 5. Run the downloaded executable file and follow the on-screen instructions to install it on your system. Also, install the extension pack as illustrated in Method 3 above.
 6. Now, try to connect the USB device to the virtual machine using the settings menu.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Configure the USB Controller in Virtual Machine Settings
 
  A mismatch in the USB controller settings can also produce the VirtualBox error. If you want to add a USB device to the VirtualBox virtual machine, you must select the correct USB controller option in the USB settings.
@@ -100,16 +96,10 @@ The powerful video editing program for your Windows PC</a>
 2. Click on the**Settings** icon on the top. Then click on the**USB** option in the list.
 3. Firstly, click the**Enable USB controller** checkbox to enable the USB device attaching feature to the virtual machine.
 4. Then, select the USB 2.0 or 3.0 controller option located below the**Enable USB controller** option.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Configure the USB Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Configure-the-USB-Controller.jpg)
 5. Now, click on the**Add new USB filter** and pick the USB device you want to connect to the virtual machine.
 6. Click on the**OK** button and close the settings window. Start the virtual machine and check if the error pops up now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### 6\. Reinstall the VBox USB drivers
 
  Corrupt or missing VBox USB drivers on your system could cause the Virtual Box error code. Reinstalling the USB drivers can fix the driver issue and allow USB devices to connect with the virtual machine.
@@ -120,6 +110,10 @@ The powerful video editing program for your Windows PC</a>
 4. Now, navigate to the**Filters** subfolder and locate the**VBoxUSBMon.inf** file.
 5. Right-click on the file and select the**Install** option.
 6. Close Virtual Box and restart your system. Connect the USB device to the virtual machine and check whether the error code pops up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Reinstall VirtualBox
 
@@ -134,18 +128,19 @@ The powerful video editing program for your Windows PC</a>
 6. Open the download location and run the setup file. Follow the on-screen prompts to install and then install the extension pack as described in method 3.
 7. Now, attach a USB device and start the virtual machine to check if the error code occurs or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Easily Connect USB Devices to Your Virtual Machine Once More
 
  VirtualBox needs the extension pack to enable connectivity for USB 2.0 and 3.0 devices. Check your USB devices for errors and verify that they mount properly on the host system. Reinstall USB drivers if you face the error again. Lastly, remove VirtualBox from the system and do a fresh installation.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +149,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-competing-to-the-best-substitutes-for-samsungs-gear-360/"><u>[New] Competing to the Best Substitutes for Samsung's Gear 360</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nnovative-tips-to-create-effective-free-video-advertisements-on-youtube/"><u>[New] Innovative Tips to Create Effective Free Video Advertisements on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-saving-gameplay-moments-for-the-web-for-2024/"><u>[New] Saving Gameplay Moments for the Web for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-smooth-streams-combining-a-multitude-of-images-and-videos-for-instagram/"><u>[New] Smooth Streams Combining a Multitude of Images & Videos for Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-print-settings-for-windows-11-edge-shield-mode/"><u>Configuring Print Settings for Windows 11 Edge Shield Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-walkthrough-changing-nat-type-in-win11-and-10/"><u>Detailed Walkthrough: Changing NAT Type in Win11 & 10</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-system-monitoring-add-analyzer-to-windows-context-menu/"><u>Enhance System Monitoring: Add Analyzer to Windows Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-cc-errors-a-step-by-step-guide/"><u>Fixing Windows 11 CC Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-ring-induced-voice-memo-iphone-24/"><u>In 2024, Ring-Induced Voice Memo - iPhone '24</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/industry-insiders-anticipate-laptop-ram-capacity-surge-expected-average-of-118gb-up-by-12-percent-from-last-year/"><u>Industry Insiders Anticipate Laptop Ram Capacity Surge: Expected Average of 11.8GB Up by 12 Percent From Last Year</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-repairing-frequent-rainmeter-hiccups/"><u>Quick Guide to Repairing Frequent Rainmeter Hiccups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-invalid-pc-name-in-windows-11/"><u>Remedying Invalid PC Name in Windows 11</u></a></li>
+</ul></div>
 

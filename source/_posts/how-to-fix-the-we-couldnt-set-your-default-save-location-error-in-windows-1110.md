@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “We Couldn't Set Your Default Save Location” Error in Windows 11/10
-date: 2025-01-11T16:42:47.691Z
-updated: 2025-01-12T21:44:55.282Z
+date: 2025-01-14T17:20:34.496Z
+updated: 2025-01-18T18:11:10.722Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,14 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
 ![The Account type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-account-type-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Rename the WindowsApps Directory
 
  This error can arise because the WindowsApps folder where apps save is corrupted. Renaming the WindowsApps folder on the drive or partition you want to save apps can address such an issue. To do so, rename that folder as follows:
@@ -42,12 +50,16 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-button.jpg)
 5. Rename the folder to **WindowsApps.old** and press **Enter**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Thereafter, try changing the default save location for apps again via Settings.
 
  If that still doesn’t work, then proceed to the next resolution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Delete or Rename the WpSystem Folder
@@ -57,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
  Alternatively, delete the WpSystem folder. You can [erase a file or folder in Explorer](https://www.makeuseof.com/windows-11-delete-select-files/) by right-clicking it and selecting **Delete**. If you can’t find that folder or this potential solution doesn’t work, try the next resolution.
 
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set Full System Permission for the System Volume Folder
 
@@ -72,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![The Hide protected operating system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hide-protected-operating-system-files.jpg)
 4. Select the **Show hidden files, folders and drives** radio button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click **Apply** to save the new Explorer settings.
 
 1. Select the drive you need to set as the default save location for apps.
@@ -83,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 3. Click **Security > Advanced** to bring up an Advanced Security Settings window.  
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/security-tab.jpg)
 4. Press the **Continue** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Next, click **Add** to view a Permission Entry window.
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 5. Then select the **OK** options on the Permission Entry and Advanced Security Settings windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Close all remaining open windows. Then, restart your PC and try changing the default save location.
@@ -123,16 +123,24 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-social-media-savant-writes-on-mastering-brand-promotion/"><u>[New] 2024 Approved The Social Media Savant' Writes on Mastering Brand Promotion</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-how-to-engage-listeners-through-instagram-and-podcasts/"><u>[New] How To Engage Listeners Through Instagram & Podcasts</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-effective-methods-unlinking-from-your-discord-servers/"><u>[Updated] In 2024, Effective Methods Unlinking From Your Discord Servers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-intense-immersion-with-closest-viewing-techniques-in-roblox/"><u>2024 Approved Intense Immersion with Closest Viewing Techniques in Roblox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-compreenasolutiontowindowss-lsass-problem-step-by-step-guide/"><u>A CompreenasolutiontoWindows's Lsass Problem: Step by Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/access-anywhere-unveiling-gaming-data-in-windows/"><u>Access Anywhere: Unveiling Gaming Data in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719365401948-addressing-windows-printer-issues-a-guide-for-unresponsive-print-commands/"><u>Addressing Windows Printer Issues: A Guide for Unresponsive Print Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bid-farewell-to-your-drives-segmentation-with-these-windows-methods/"><u>Bid Farewell to Your Drive's Segmentation with These Windows Methods</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-y17s-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo Y17s to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/vectors-explained-an-entry-level-guide-to-forms-and-applications-for-2024/"><u>Vectors Explained An Entry-Level Guide to Forms and Applications for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-tecno-camon-20-premier-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Tecno Camon 20 Premier 5G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-hd-mastery-in-action-top-5-screen-recorders-reviewed/"><u>[New] 2024 Approved HD Mastery in Action Top 5 Screen Recorders Reviewed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-cooking-crusaders-youtube-stars-serving-up-deliciousness/"><u>[New] Cooking Crusaders YouTube Stars Serving Up Deliciousness</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ultimate-voice-changer-for-valorant-gamers-free-to-use/"><u>[New] Ultimate Voice Changer for Valorant Gamers – Free to Use</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-eternal-void-a-complete-ban-on-youtube-short-video-feature-for-2024/"><u>[Updated] Eternal Void A Complete Ban on YouTube Short Video Feature for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-picture-by-picture-insta-gallery/"><u>[Updated] Picture by Picture Insta Gallery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/202362024/"><u>2023年度人気！動画画像分割手法ベストセレクション6つ（2024年版）</u></a></li>
+<li><a href="https://facebook.techidaily.com/balancing-jokes-with-news-on-facebook/"><u>Balancing Jokes with News on Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargas-gratuitas-para-convertir-archivos-aiff-a-wma-sin-problemas-guia-de-movavi/"><u>Descargas Gratuitas Para Convertir Archivos AIFF a WMA Sin Problemas: Guía De Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discovering-social-gaming-in-the-metaverse/"><u>Discovering Social Gaming in the Metaverse</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-change-mp4-audio-files-to-flv-format-with-ease/"><u>Free Online Conversion: Change MP4 Audio Files to FLV Format with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-convert-3gp-files-to-mpeg-with-movavi/"><u>Free Online Conversion: Convert 3GP Files to MPEG with Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) with a Mask On</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726225145348-movavi-m4a/"><u>Movaviのお使いレコード: 弾かずにオンラインでM4Aファイルを変換してください</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4-a-aiff-trasformare-i-formati-di-file-audio-gratuitamente-con-mediahuman-converter/"><u>MP4 a AIFF: Trasformare I Formati Di File Audio Gratuitamente Con MediaHuman Converter</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlined-video-calls-synchronizing-zoom-and-gmail-for-better-communication/"><u>Streamlined Video Calls Synchronizing Zoom & Gmail for Better Communication</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-15-editors-headlines-of-2024-a-comprehensive-guide/"><u>Top 15 Editor's Headlines of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-vos-chansons-mp3-en-format-wma-sans-frais-a-laide-du-service-de-convertisseur-en-ligne-de-movavi/"><u>Transformez Vos Chansons MP3 en Format WMA Sans Frais À L'aide Du Service De Convertisseur en Ligne De Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726030252225-youtube/"><u>オンラインストリーミング動画の効率的なアーカイブ: YouTube ビデオ録画ガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mkvavi/"><u>ダイナミックなオンライン動画フォーマット変更 - 今すぐMKVをAVIに自由に変換！</u></a></li>
 </ul></div>
 

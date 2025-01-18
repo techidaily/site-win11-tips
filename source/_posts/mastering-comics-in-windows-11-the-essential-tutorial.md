@@ -1,7 +1,7 @@
 ---
 title: "Mastering Comics in Windows 11: The Essential Tutorial"
-date: 2025-01-05T21:34:31.516Z
-updated: 2025-01-12T20:15:42.221Z
+date: 2025-01-15T16:43:02.602Z
+updated: 2025-01-18T17:58:20.742Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## First, Download Some Comics
 
  Firstly, download a few comic books to open and read in YACReader and Cover. The[GetComics website](https://getcomics.info/) is a good place to download some freely available comics. Click a cover image for a comic to download there. Then select the**Download Now** option to save the file for it to a folder.
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
  When you’ve downloaded comics, it’s a good idea to set up a new, empty folder to store them. Right-click the desktop area of Windows 11 and select the**New** \>**Folder** options. Then input Comic Books for the directory’s title. Move your downloaded comics into that folder by dragging and dropping their files within File Explorer.
 
 ![The New > Folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-new-folder-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Read Comic Books With Cover
 
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 ![The Add folder to library button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-add-folder-to-library.jpg)
 7. Click the**Add local folder** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Next, select the Comic Books folder previously set up that includes some comics.
 9. Press the**Select Folder** button.
 10. Now you’ll see some thumbnail images for the comics in the selected folder inside the**Library** tab. Click a comic you want to read there to open in Cover.  
@@ -65,24 +61,32 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 11. You can flick through the pages by clicking the comic and dragging the slider on the bar. Or press the left and right arrow keys.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The page scroll bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/page-scroll-bar.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’s best to read comics in a maximized Cover window since the text might otherwise be a bit small. Click the comic and select its**Two Page** and**Fit width** options to view double pages across the full width of the window. Then you can scroll down the pages with the mouse and flick through pages by pressing the arrow keys.
 
 ![The Fit width option in Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fit-width-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Cover has a**Night Mode** option you can adjust brightness with and enable a night filter. Click the comic and press the**Night mode** button to bring up the**Brightness** bar. Then you can drag the bar’s slider down. Or click the**Night filter** button to dim the light for comics in Cover.
 
 ![The Night Mode option in Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-night-mode-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you’re limited to a 25-comic library in Cover, you’ll probably need to erase some comics you’ve read to view new ones at some stage. To do that, open a comic’s source folder in File Explorer. Right-click a comic file in that folder and select**Delete** . Then click the**See more** button at the top right of the Cover app to select**Refresh** library.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Read Comic Books With YACReader
 
@@ -97,15 +101,16 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 1. Then click**Next** \>**Install** to add YACReader to your software library.  
 ![The Install button for YACReader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-install-option.jpg)
 2. Bring up the YACReader app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click the button with the speech mark bubble icon on YACReader’s toolbar.
 4. Select**Open** to view a file selection window.
 5. Then select a comic file in your Comic Books folder, and click**Open** to view it.  
 ![The Open option in YACReader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-open-option.jpg)
 6. Press the**Next** and**Previous** arrow buttons on the toolbar to turn the comic’s pages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The comics will also be a little small in a non-maximized YACReader window, as in Cover. So, it’s recommended to maximize the app’s window. Click the**Double-page mode** button to view two pages in a single window. Selecting the**Fit to Width** option will give you a view of the comic that’s not too small or big.
 
@@ -124,7 +129,7 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 ![The Page Flow tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-page-flow-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Read Comics in Your Web Browser
@@ -139,10 +144,6 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
  You can read comics on those websites by scrolling down their pages in your browser or clicking the next/previous page buttons. However, the page view options for comics on websites are more limited than those in YACReader and Cover. Nor can you select to bookmark pages. So, most users will probably prefer to download and read comics in Cover and YACReader.
 
 ![A Star Wars comic open in a browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/star-wars-comic.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Stuck Into Comics in Windows 11
 
@@ -163,19 +164,15 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-accessible-file-transformation-facebook-videos-to-hdmp4-at-no-cost-for-2024/"><u>[New] Accessible File Transformation Facebook Videos to HD/MP4 at No Cost for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-x-studio-voice-processor-windows/"><u>[New] X-Studio Voice Processor, Windows</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-streamlining-your-video-creation-ootd-on-a-mac-for-2024/"><u>[Updated] Streamlining Your Video Creation OOTD on a Mac for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-precise-walkthrough-for-windows-update-resetting/"><u>A Precise Walkthrough for Windows Update Resetting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-digital-dreamland-with-windows-pcs/"><u>Achieving Digital Dreamland with Windows PCs</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/achieving-perfect-fisheye-sphere-shots/"><u>Achieving Perfect Fisheye Sphere Shots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adopt-a-streamlined-approach-to-input-customization/"><u>Adopt a Streamlined Approach to Input Customization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ai-generated-windows-keys-unveiling-potential-perils/"><u>AI-Generated Windows Keys: Unveiling Potential Perils</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/awaken-your-device-finding-and-fixing-muted-speaker-issues/"><u>Awaken Your Device – Finding & Fixing Muted Speaker Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/balancing-act-keeping-high-vitality-in-check-on-windows/"><u>Balancing Act: Keeping High Vitality in Check on Windows</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/minati-financial-triumphs-with-ajey-nagar-for-2024/"><u>CarryMinati Financial Triumphs with Ajey Nagar for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/effektive-strategien-fur-die-minimierung-der-speicherplatzverbrauch-von-mov-aufnahmen/"><u>Effektive Strategien Für Die Minimierung Der Speicherplatzverbrauch Von MOV-Aufnahmen</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ring-youtube-money-policy-overhaul-details/"><u>Mastering YouTube Money Policy Overhaul Details</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/techniques-for-restoring-broken-pc-parts-within-the-microsoft-windows-environment-guidance-by-yl-software-experts/"><u>Techniques for Restoring Broken PC Parts Within the Microsoft Windows Environment - Guidance by YL Software Experts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-skald-rage-new-age-of-might/"><u>[New] In 2024, Skald Rage New Age of Might</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unified-insight-the-easeus-perspective/"><u>[New] Unified Insight The EaseUS Perspective</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-engaging-entrances-crafting-captivating-conversations-for-2024/"><u>[Updated] Engaging Entrances Crafting Captivating Conversations for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-overcoming-error-code-19-in-windows-systems/"><u>Effective Solutions for Overcoming Error Code 19 in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-associating-your-win-key-with-microsoft-logins/"><u>Guide: Associating Your Win Key With Microsoft Logins</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-poco-x6-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Poco X6 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-unique-screen-savers-in-win11/"><u>Setting Up Unique Screen Savers in Win11</u></a></li>
+<li><a href="https://win-updates.techidaily.com/subscribe-now-access-top-karaoke-tracks-with-party-time-dj-services-dates-available-416/"><u>Subscribe Now: Access Top Karaoke Tracks with Party Time DJ Services, Dates Available 4/16</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-initiating-administrator-level-command-prompt-in-w11/"><u>The Essential Guide to Initiating Administrator-Level Command Prompt in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-security-expanding-context-menu-with-firewall-restrictions/"><u>Windows 11 Security: Expanding Context Menu with Firewall Restrictions</u></a></li>
 </ul></div>
 

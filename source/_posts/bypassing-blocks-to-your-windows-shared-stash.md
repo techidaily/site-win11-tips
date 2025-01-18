@@ -1,7 +1,7 @@
 ---
 title: Bypassing Blocks to Your Window's Shared Stash
-date: 2024-07-29T08:14:53.797Z
-updated: 2024-07-30T08:14:53.797Z
+date: 2025-01-17T18:17:59.520Z
+updated: 2025-01-18T17:23:56.513Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
  If you're experiencing such sharing issues, don't give up. Keep reading to learn about several fixes you can try to get your shared folder up and running again.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check Your Internet Connection
 
  The first thing you should do is make sure your internet connection is working properly. If your internet connection is too slow, you might not be able to open the shared folder.
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
  If all your devices are on the same network, check if your Wi-Fi router is functioning properly or experiencing issues.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Ask the Owner to Change the Permissions
 
  While setting up a shared folder, Windows allows you to set custom permissions, such as allowing or denying full control, read and write permissions, etc.
@@ -48,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
 1. Press**Win + E** to open Windows File Explorer.
 2. Right-click on the shared folder or drive that you're trying to share and click**Properties** on the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Shared Folder Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/shared-folder-context-menu.jpg)
 3. In the**Properties** window, click on**Sharing > Advanced Sharing** .  
 ![Sharing Folder Sharing Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sharing-folder-sharing-options.jpg)
@@ -70,12 +61,25 @@ Follow this step-by-step guide to restart the networking services:
 1. Press**Win + Q** and type**Services** . Alternatively, there are many other[ways to open the Services app](http://www.makeuseof.com/windows-11-open-services-app/) on Windows.  
 ![Services App In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/services-app-in-windows-search.jpg)
 2. Choose**Open** to launch the Services app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Find the**Function Discovery Provider Host** service and right-click on it.
 4. Select**Restart** from the context menu that appears.  
 ![Services App On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/services-app-on-windows.jpg)
 5. Repeat the same procedure (right-click and select**Restart**) with the following services, one by one:**Network Connections** **SSDP Discovery** **TCP/IP NetBIOS Helper** **UPnP Device Host**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  These services are responsible for various networking functions on Windows. Restarting them can help resolve issues that may be causing problems with accessing shared folders.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn on Network Discovery in Windows Settings
 
@@ -85,15 +89,9 @@ To turn on Network discovery, follow these steps:
 
 1. Type**Control Panel** in the Windows search bar and select the best match.
 2. Click**View network status and tasks** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Control Panel Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-overview.jpg)
 3. On the left-hand pane, click**Change advanced sharing settings** .
 4. Under**Private networks** , turn**On** the**Network discovery** option.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. Turn**On** the**File and printer sharing** option as well.
 
@@ -120,8 +118,9 @@ Here's how you can fix all the firewall issues on your computer:
  This will allow all incoming connections, or, in other words, solve your sharing folder issue on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reset the Network Settings
 
  If none of the above solutions work, you may need to reset your network settings. Resetting the network settings will restore all the network-related settings to their factory defaults, which should allow you to connect to your network again.
@@ -132,32 +131,21 @@ Here's how to reset the network settings on Windows:
 
 1. Open the Windows search bar by pressing**Win + Q** and typing**Command Prompt** .
 2. Select the best match, and from the right-side menu, click**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![CMD In Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cmd-in-search-bar.jpg)
 3. In the Command Prompt window, type the**netsh int ip reset** command without the double quotes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Ip Reset Command In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ip-reset-command.jpg)
 4. Press**Enter** to execute the command. This will reset your network settings.
 
  This command is helpful in solving many common networking issues, such as when your computer fails to connect to a network or when the internet connection is not stable. So, the next time you face a network-related error, you now have a handy command for troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Troubleshooting Shared Folders on Windows
 
@@ -169,8 +157,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +164,20 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-transformative-video-editing-techniques-for-viral-tiktok-creations/"><u>[New] 2024 Approved Transformative Video Editing Techniques for Viral TikTok Creations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-finest-6-video-snaggers-for-mac-users-now-for-2024/"><u>[New] The Finest 6 Video Snaggers for Mac Users Now for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-upholders-of-popularity-the-10-most-loved-reddit-stories/"><u>[Updated] In 2024, Upholders of Popularity The 10 Most Loved Reddit Stories</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-maintain-a-shadowy-presence-on-instagram-livestreams/"><u>2024 Approved How to Maintain a Shadowy Presence on Instagram Livestreams</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oppo-a38-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/can-handbrake-be-used-to-create-and-edit-av1-video-formats/"><u>Can HandBrake Be Used to Create and Edit AV1 Video Formats?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-microsofts-mspcm-toolbar-on-w11-os/"><u>Leveraging Microsoft's MSPCM Toolbar on W11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-file-consolidation-feature/"><u>Overcoming Disabled File Consolidation Feature</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-v30t-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme V30T Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-way-to-construct-a-windows-speech-recognition-app-using-autohotkey/"><u>Simple Way to Construct a Window's Speech Recognition App Using AutoHotkey</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/solving-gpu-issues-steps-to-take-when-your-graphics-card-causes-system-crashes-tips-by-yl-computing/"><u>Solving GPU Issues: Steps to Take When Your Graphics Card Causes System Crashes - Tips by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-extending-hard-drive-size-at-zero-cost-in-windows/"><u>Strategies for Extending Hard Drive Size at Zero Cost in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-against-windows-unlock-exe-file-functionality/"><u>Win Against Windows: Unlock EXE File Functionality</u></a></li>
+</ul></div>
 

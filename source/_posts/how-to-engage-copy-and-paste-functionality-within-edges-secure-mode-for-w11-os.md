@@ -1,7 +1,7 @@
 ---
 title: How To Engage Copy & Paste Functionality Within Edge's Secure Mode for W11 OS
-date: 2025-01-07T17:26:31.771Z
-updated: 2025-01-12T23:03:23.002Z
+date: 2025-01-11T16:13:24.204Z
+updated: 2025-01-18T18:04:25.784Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Enable Copy and Paste via Windows Settings
 
  To enable copy and paste in Application Guard for Edge, follow the steps below:
@@ -38,23 +42,15 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 6. Search for the**Copy and paste** option, then click the toggle to enable it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Enable Copy and Paste via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-via-windows-settings.jpg)
 7. The UAC prompt will appear on the screen. Click**Yes** to continue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve completed the steps, restart your computer for the changes to work. Now, you can securely transfer data between a virtualized environment and your device without any worries about security risks - malicious websites and applications will be blocked even with this setting enabled.
 
  If you ever need to disable copy and paste in Application Guard for Edge, you can follow the same steps mentioned above. Just be sure to toggle off the Copy and Paste setting from the Isolated browsing menu instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Enable Copy and Paste Using Registry Editor
 
@@ -74,13 +70,17 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 ![Creating a new DWORD (32-bit) Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-dword-enableclipboard-key.jpg)
 3. Put**EnableClipboard** as the name for the new DWORD key, then press Enter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click twice on the newly created DWORD key to open a pop-up window.
 5. Be sure the**Hexadecimal** base is selected, and set the Value data to**1** .  
 ![Enable Copy and Paste with Application Guard for Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-with-application-guard-for-edge.jpg)
 6. Finally, click**OK** to save your changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve completed the steps, close any running applications and restart your computer
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
  Now that you've read the above steps, you should have a clear understanding of how to enable and disable copy and paste within Application Guard for Edge on Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Copy and Paste Now Works With Edge Application Guard
@@ -112,14 +112,24 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-become-a-pro-with-our-instagram-story-insights/"><u>[Updated] 2024 Approved Become a Pro with Our Instagram Story Insights</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-mac-users-mastering-chic-videos-for-your-first-youtube-post/"><u>[Updated] 2024 Approved Mac Users Mastering Chic Videos for Your First YouTube Post</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerated-access-boosting-morning-routine-and-note-openings/"><u>Accelerated Access: Boosting Morning Routine & Note Openings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-optimal-performance-with-powertoys-win11/"><u>Achieving Optimal Performance with PowerToys (Win11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-productivity-setting-up-automatic-deletions-in-win11/"><u>Boost Productivity: Setting Up Automatic Deletions in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-performance-on-windows-11-top-seven-tweaks-for-game-enthusiasts/"><u>Boosting Performance on Windows 11: Top Seven Tweaks for Game Enthusiasts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/enhance-your-iphone-lifespan-a-six-step-method-for-optimal-battery-calibration/"><u>Enhance Your iPhone Lifespan: A Six-Step Method for Optimal Battery Calibration</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-safekeeping-of-your-credentials-with-google/"><u>The Safekeeping of Your Credentials with Google</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/trending-topics-and-themes-to-hook-your-streams-attention/"><u>Trending Topics and Themes to Hook Your Stream's Attention</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-loop-maker-assembly/"><u>[New] 2024 Approved Loop Maker Assembly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-synchronous-capture-for-webcam-and-display/"><u>[New] In 2024, Synchronous Capture for Webcam and Display</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-unlocking-the-joys-of-ifunnys-meme-app/"><u>[New] Step-by-Step Unlocking the Joys of iFunny's Meme App</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-smartphones-role-in-video-content-making-youtube-thumbnails-stand-out-for-2024/"><u>[New] The Smartphone's Role in Video Content Making YouTube Thumbnails Stand Out for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-crafting-360-worlds-top-picks-between-samsung-and-lg/"><u>2024 Approved Crafting 360 Worlds Top Picks Between Samsung & LG</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-strategies-to-prevent-discord-from-frequently-crashing/"><u>Comprehensive Strategies To Prevent Discord From Frequently Crashing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-updater-error-0x80246007-in-windows-1011-os/"><u>Disabling Updater Error 0X80246007 in Windows 10/11 OS</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/get-started-with-code-school-free-video-tutorials-and-course-downloads/"><u>Get Started with Code School - Free Video Tutorials and Course Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hide-or-reveal-window-11s-clock-and-date/"><u>Hide or Reveal Window 11'S Clock & Date</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-engage-clipboard-utility-within-microsoft-edges-app-guard-for-windows-11/"><u>How to Engage Clipboard Utility Within Microsoft Edge's App Guard for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-halt-screen-flashes-on-windows-11-devices/"><u>How to Halt Screen Flashes on Windows 11 Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-make-taskview-harder-to-find-in-win-11/"><u>Methods to Make TaskView Harder to Find in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-non-starting-display-on-windows-11-pc/"><u>Overcoming Non-Starting Display on Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-stop-vscode-from-crashing-w11/"><u>Quick Fixes to Stop VSCode From Crashing W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-implementing-windows-hello-fingerprints/"><u>Step-by-Step Guide: Implementing Windows Hello Fingerprints</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-playing-and-converting-mtsm2ts-files-in-mts-vlc-player/"><u>Step-by-Step Guide: Playing & Converting MTS/M2TS Files in MTS VLC Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-solve-launch-failure-of-obs-studio/"><u>Strategies to Solve Launch Failure of OBS Studio</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-elite-lineup-supreme-portable-game-consoles/"><u>Unveiling the Elite Lineup: Supreme Portable Game Consoles</u></a></li>
 </ul></div>
 

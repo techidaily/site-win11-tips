@@ -1,7 +1,7 @@
 ---
 title: Navigational Tools for Locating Program Storage on PC
-date: 2025-01-08T21:16:26.398Z
-updated: 2025-01-12T18:17:01.432Z
+date: 2025-01-13T17:55:56.561Z
+updated: 2025-01-18T16:58:08.488Z
 tags:
   - windows10
   - windows11
@@ -33,15 +33,11 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![start menu program location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/start-menu-file-location.jpg)
 2. Right-click on the program icon, and click on**Open file location** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the folder that opens, right-click the required program’s icon and click on**Open file location** one final time.
 4. You should now be in the installation folder of the program.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Find the Installation Folder of a Program Using Its Desktop Shortcuts
@@ -56,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 3. Click on the**Shortcut** tab, and you will find the installation path in the**Target** field.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Locate the Folder Where a Program Is Installed Using Task Manager
@@ -68,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 1. Launch the**Task Manager** by right-clicking the**Start** menu and selecting**Task Manager** from the context menu.  
 ![task manager details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/task-manager-details.jpg)
 2. Once the Task Manager is up and running, click on the**Details** tab to get a list of all[currently running background processes](https://www.makeuseof.com/windows-pc-too-many-background-processes/) and applications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. After locating the program you need, right-click and then click on**Open file location** .
 4. A new File Explorer window will open up, and you will have found the program's installation directory.
@@ -86,11 +86,11 @@ To find where a program is located using the File Explorer:
 3. Navigate to**Program Files > Program Files (x86)** and then scroll the list of folders until you find one with the program name you’re looking for.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Finding a Program's Install Location Is Easy
@@ -114,18 +114,24 @@ To find where a program is located using the File Explorer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ake-following-fiasco-avoiding-illusory-supporters-in-social-media-space/"><u>[New] Fake Following Fiasco Avoiding Illusory Supporters in Social Media Space</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-how-to-record-audio-on-windows-11-for-2024/"><u>[Updated] How To Record Audio on Windows 11 for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/a-closer-look-at-high-end-vr-walking-machines/"><u>A Closer Look at High-End VR Walking Machines</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-remobell-video-doorbells-quality-security-below-100/"><u>Affordable RemoBell Video Doorbells - Quality Security Below $100</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-fit-selecting-vms-that-thrive-on-windows-11-platforms/"><u>Best Fit: Selecting VMs That Thrive On Windows 11 Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-windows-apps-with-efficient-internet-fixes/"><u>Boost Your Windows Apps with Efficient Internet Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-edges-app-guard-with-enhanced-graphics/"><u>Boosting Edge's App Guard with Enhanced Graphics</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-obs-studio-vs-bandicam-which-is-better/"><u>In 2024, OBS Studio vs Bandicam Which Is Better</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy S23</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-honor-100-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Honor 100 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719327147890-secrets-to-perfect-full-screen-snipping-with-windows-toolkit/"><u>Secrets to Perfect Full-Screen Snipping with Windows' Toolkit</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/mline-your-content-advanced-tricks-with-youtube-studio-editor/"><u>Streamline Your Content Advanced Tricks with YouTube Studio Editor</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-ultimate-checklist-for-instagram-selfies/"><u>[New] 2024 Approved The Ultimate Checklist for Instagram Selfies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-boosting-stream-consistency-with-obs-fixes/"><u>[New] In 2024, Boosting Stream Consistency with OBS Fixes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-master-facebook-seo-essential-techniques-to-skyrocket-engagement/"><u>[Updated] Master Facebook SEO Essential Techniques to Skyrocket Engagement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-functionality-of-large-language-models-in-ai-technology/"><u>Decoding the Functionality of Large Language Models in AI Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/design-focused-windows-11-start-menu/"><u>Design-Focused Windows 11 Start Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-fixes-activating-sleeping-wsreset-process/"><u>Effective Fixes: Activating Sleeping WSReset Process</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-steam-cloud-conflicts/"><u>Eradicating Steam Cloud Conflicts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/graphical-integration-with-application-guard-on-edge/"><u>Graphical Integration with Application Guard on Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unset-custom-search-rules-in-windows-11/"><u>How to Unset Custom Search Rules in Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-innovative-listening-techniques-for-students-with-macs/"><u>In 2024, Innovative Listening Techniques for Students with Macs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-review-discover-the-multifaceted-functions-of-the-samsung-gear-s3-frontier-smartwatch/"><u>In-Depth Review: Discover the Multifaceted Functions of the Samsung Gear S3 Frontier Smartwatch</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/navigate-the-art-of-film-with-xps-easy-tools-for-2024/"><u>Navigate the Art of Film with XP's Easy Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-setup-for-steam-deck/"><u>Navigate Through Windows Setup for Steam Deck</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventive-measures-against-windows-notepad-freezes/"><u>Preventive Measures Against Windows Notepad Freezes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-fall-guys-starter-problems-a-comprehensive-troubleshooting-tutorial/"><u>Solving Fall Guys Starter Problems – A Comprehensive Troubleshooting Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-covert-world-hiding-wi-fi-signals-in-windows/"><u>The Covert World: Hiding Wi-Fi Signals in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-for-win-based-file-conversions/"><u>The Ultimate Guide for Win-Based File Conversions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-correcting-malfunctioned-read-aloud-feature-in-office-suite/"><u>Tips & Tricks: Correcting Malfunctioned Read Aloud Feature in Office Suite</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/transform-your-videography-youtubes-secret-to-stunning-greenscreens/"><u>Transform Your Videography YouTube's Secret to Stunning Greenscreens</u></a></li>
 </ul></div>
 

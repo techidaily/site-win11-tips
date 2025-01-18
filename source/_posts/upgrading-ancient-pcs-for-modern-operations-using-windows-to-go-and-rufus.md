@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Ancient PCs for Modern Operations: Using Windows To Go and Rufus"
-date: 2024-08-08T11:00:13.541Z
-updated: 2024-08-09T11:00:13.541Z
+date: 2025-01-11T16:47:09.189Z
+updated: 2025-01-18T17:43:17.973Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/f7696c4ac1037e72f31c6b328a12ea085bd463518
  Windows 11 system requirements specify that it needs UEFI, Secure Boot and TPM. Many old computers are powerful enough to run Windows 11\. Yet, they cannot install the OS because of these requirements. Windows 11 refuses to install and displays the message "this PC can't run Windows 11".
 
  There is a way to bypass these requirements and install Windows 11 on any powerful computer, even if it is old. The process is quite simple as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are Windows 11's System Requirements?
 
@@ -43,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/f7696c4ac1037e72f31c6b328a12ea085bd463518
 * and a Microsoft account for the initial device setup.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Hardware You Need to Create a Windows 11 To Go Drive
 
 ![Photo showing a SSD connected to a USB to SATA adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-photo-showing-a-ssd-connected-to-a-usb-to-sata-adapter.jpg)
@@ -61,14 +66,19 @@ thumbnail: https://thmb.techidaily.com/f7696c4ac1037e72f31c6b328a12ea085bd463518
 
  On the download page, scroll down to the section titled **Download Windows 11 Disk Image (ISO) for x64 devices**. Then, select **Windows 11 (multi edition ISO for x64 devices)** from the drop-down box.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot showing download page and options of Windows 11 Disk Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/04-screenshot-showing-download-page-and-options-of-windows-11-disk-image.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Image via Microsoft.com](https://www.microsoft.com/software-download/windows11)
 
  Scroll down to **Select the product language** and click **Confirm** to download. The download is in excess of 5GB. Once downloaded, connect your USB SSD and run Rufus.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Use Rufus
 
@@ -88,14 +98,8 @@ Close
 
 ![Screenshot showing selection of Windows To Go in Image Option of Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/08-screenshot-showing-selection-of-windows-to-go-in-image-option-of-rufus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot showing selection of GPT in Partition scheme of Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/09-screenshot-showing-selection-of-gpt-in-partition-scheme-of-rufus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot showing selection of Target system in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/10-screenshot-showing-selection-of-target-system-in-rufus.jpg)
 
 Close
@@ -111,25 +115,24 @@ Close
 
 ![Screenshot showing selection of Windows version from the version list in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/11-screenshot-showing-selection-of-windows-version-from-the-version-list-in-rufus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Screenshot showing customization of Windows installation in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/12-screenshot-showing-customization-of-windows-installation-in-rufus.jpg)
 
 Close
 
  Once you're ready to go, click **Start.** Rufus will clear the data on the portable drive, write Windows 11 files, and make the drive bootable. This will usually take around 10 minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Screenshot showing warning that all data in the USB SSD will be destroyed and to click OK to confirm in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/13-screenshot-showing-warning-that-all-data-in-the-usb-ssd-will-be-destroyed-and-to-click-ok-to-confirm-in-rufus.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Screenshot showing Rufus applying the Windows 11 Disk Image to the USB SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/14-screenshot-showing-rufus-applying-the-windows-11-disk-image-to-the-usb-ssd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Screenshot showing that Rufus completed applying the Windows 11 Disk Image to the USB SSD and is ready for boot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/15-screenshot-showing-that-rufus-completed-applying-the-windows-11-disk-image-to-the-usb-ssd-and-is-ready-for-boot.jpg)
 
 Close
@@ -140,10 +143,11 @@ Close
 
 [Enter the UEFI or BIOS menu](https://www.makeuseof.com/tag/enter-bios-computer/), it is usually the DEL key on desktops and F2 key on laptops. The screens vary between different computers, adapt these instructions as needed. Go to the **Boot** tab and set the USB drive as the first boot device. **Save and Exit** (usually F10).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![Screenshot showing the setting of the USB SSD as the first boot priority in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/16-screenshot-showing-the-setting-of-the-usb-ssd-as-the-first-boot-priority-in-bios.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your computer will boot into Windows To Go. The screen shows that the computer’s **Secure Boot** is off, it does not have the TPM either.
 
@@ -151,32 +155,20 @@ Close
 
  Windows will take a few minutes to set up everything. Since you have already set the regional options and privacy options, the installation will not ask any more questions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot showing Windows 11 setting everything up after boot of USB SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/18-screenshot-showing-windows-11-setting-everything-up-after-boot-of-usb-ssd.jpg)
 
  Once done, you have Windows 11, completely functional on a computer that does not meet the minimum system requirements. It will still run A-OK!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Screenshot showing Windows 11 running perfectly on a Computer that does not meet minimum requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/19-screenshot-showing-windows-11-running-perfectly-on-a-computer-that-does-not-meet-minimum-requirements.jpg)
 
  It will also update, as a normal installation would do. There is still one thing you need to do. You did not set the password when you created the username in Rufus. This is important for security.
 
  To set the password, open **Settings** \> search for **Change your password** \> click **Password** and change it.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot showing setting of password to the Local account of newly installed Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/20-screenshot-showing-setting-of-password-to-the-local-account-of-newly-installed-windows-11.jpg)
 
  If you didn’t do that, Windows 11 will compel you to do it at the next reboot anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot showing Windows 11 telling us to set a password to the Local account after reboot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/21-screenshot-showing-windows-11-telling-us-to-set-a-password-to-the-local-account-after-reboot.jpg)
 
 ## How to Use the Right Hardware for Windows To Go
@@ -185,30 +177,29 @@ Close
 
 ### SSDs Are Always a Better Choice
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Photo showing a Hard Disk and a SSD and to prefer a SSD to HDD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/22-photo-showing-a-hard-disk-and-a-ssd-and-to-prefer-a-ssd-to-hdd.jpg)
 
  Solid state drives (SSD) have no moving parts in them. This makes them very fast compared to hard disks (HDD) which use spinning disks.
 
  Operating systems use plenty of small files, and SSDs shine at the read/write speed of these files. Hard disks, in contrast, need more time to seek the files. This is shown via the access time of each drive; SSDs take 1ms, and hard disks take 20ms. As such, you should always choose an SSD to store your operating system if you can.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### USB 3.0 Is 10 Times Faster Than 2.0
 
 ![Photo showing a USB 2.0 adapter and a USB 3.0 adapter and to prefer USB 3.0 adapter to USB 2.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/23-photo-showing-a-usb-2-0-adapter-and-a-usb-3-0-adapter-and-to-prefer-usb-3-0-adapter-to-usb-2-0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  USB 3.0 read/writes at 5Gbps compared to USB 2.0 which can do only 480Mbps. So, you should use a USB 3.0 to SATA adapter.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Use the USB 3.0 Port on Your Computer
 
 ![Photo showing a USB 2.0 port and a USB 3.0 port and to prefer USB 3.0 to USB 2.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/24-photo-showing-a-usb-2-0-port-and-a-usb-3-0-port-and-to-prefer-usb-3-0-to-usb-2-0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Identify the 3.0 port on your computer. It is usually blue. You can also use USB-C ports which usually are USB 3.0 or above.
 
@@ -221,15 +212,14 @@ Close
 * **Bypassing the system requirements is not a good idea overall.** Some of the features in Windows 11 provide additional security for your computer. You may need those if the computer is at risk of cyberattacks. However, this may be a good last resort if you're worried about Windows 10's loss of support.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Extend Your PC's Life With Windows 11 To Go
 
  Some say that aging hardware kills a computer. But that’s not the usual case. Chromebooks in perfect condition are getting discarded because of the lack of software updates. The same will happen with the PCs that are running Windows 10, the ones that are incompatible with Windows 11\. Bypassing the system requirements can give your computer a new lease of life.
 
  There is a way to bypass these requirements and install Windows 11 on any powerful computer, even if it is old. The process is quite simple as well.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -237,3 +227,21 @@ Close
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unleashing-creativity-in-youtube-banner-and-thumbnail-design/"><u>2024 Approved Unleashing Creativity in YouTube Banner & Thumbnail Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ditch-manual-data-entry-seamlessly-move-information-from-printed-forms-using-this-smartphone-technique/"><u>Ditch Manual Data Entry: Seamlessly Move Information From Printed Forms Using This Smartphone Technique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-techniques-for-consolidating-and-dividing-cells-within-microsoft-excel-spreadsheets/"><u>Easy Techniques for Consolidating and Dividing Cells Within Microsoft Excel Spreadsheets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-for-concealing-errors-and-signals-in-your-excel-spreadsheets/"><u>Effective Strategies for Concealing Errors and Signals in Your Excel Spreadsheets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-organize-your-data-with-advanced-indentation-strategies-in-excel/"><u>Efficiently Organize Your Data with Advanced Indentation Strategies in Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-tracking-of-changes-mastering-excels-pivot-table-for-percentage-fluctuation-analysis/"><u>Effortless Tracking of Changes: Mastering Excel's Pivot Table for Percentage Fluctuation Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-online-mxf-to-mpeg-omzetter-tool-zoek-de-beste-waarderende-codec-conversie-met-movavi/"><u>Gratis Online MXF-to-MPEG Omzetter Tool - Zoek De Beste Waarderende Codec-Conversie Met Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-upload-and-convert-cr2-photos-for-free-using-movavis-tool/"><u>How to Upload and Convert CR2 Photos for Free Using Movavi's Tool</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebook-live-streaming-techniques-on-mobile/"><u>In 2024, Facebook Live Streaming Techniques on Mobile</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-review-magix-editing-suite/"><u>In 2024, Review MAGIX Editing Suite</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-telegram-strategies-for-enhanced-promotions/"><u>Mastering Telegram Strategies for Enhanced Promotions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-epson-wf-7710-drivers-downloads-tailored-for-windows-users-win10-win81-win8-and-win7/"><u>Secure Epson WF-7710 Drivers: Downloads Tailored for Windows Users (Win10, Win8.1, Win8 & Win7)</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia C22 | Dr.fone</u></a></li>
+</ul></div>
+

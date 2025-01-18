@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Blank Login Screen in Windows 10 & 11
-date: 2024-08-08T11:03:20.083Z
-updated: 2024-08-09T11:03:20.083Z
+date: 2025-01-14T16:35:47.983Z
+updated: 2025-01-18T17:07:22.338Z
 tags:
   - windows10
   - windows11
@@ -22,23 +22,12 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
  Here are a few troubleshooting steps you can try to restore the missing or stuck sign-in screen on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Causes the Stuck or Missing Login Screen on Windows 11?
 
  If you are running Windows 11 build 22000.4 or newer, the stuck login screen could be due to a known bug. In this case, the issue is triggered when the PC wakes up from Sleep or Hibernation. Installing a pending Windows update may resolve this issue.
 
  Alternatively, temporary glitches, system file corruption, and malfunctioning lock screen behavior can trigger this issue as well. To fix the issue, follow all the steps below in the given order.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 1\. Use the Ctrl + Alt + Delete Combo
 
  You can restore your login screen in Windows 11 using the**Ctrl + Alt + Delete** combo. It is a temporary workaround but should help you sign in and perform additional troubleshooting steps if necessary. To do this, make sure your PC is turned on. Next, press the**Ctrl + Alt + Delete** combo on your keyboard. This should force the sign-in screen to appear.
@@ -52,11 +41,16 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
  This may also allow you to access your lock screen and sign in to perform additional troubleshooting. First, refer to our guide to[boot into safe mode in Windows 11](https://www.makeuseof.com/windows-11-boot-safe-mode/) and then apply the troubleshooting steps below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Install Pending Windows Updates
 
 ![check for windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-for-windows-update-1-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check and install all the Windows updates available on your computer. Widespread issues likely get a hotfix on a priority basis. So, check if you have any pending updates and install them to see if that fixes the issue.
 
@@ -67,19 +61,12 @@ To check and update Windows 11:
 3. Click on**Check for updates** in the top right corner. Windows will scan for available updates and list them accordingly.
 4. Click on**Download and install.** Wait for the updates to install and restart your PC to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Check and Disable Ctrl + Alt + Delete Secure Sign-In
 
  Windows lets you add an extra layer of security to your computer with its interactive Secure sign-in option. When enabled, the user must press the default**Ctrl + Alt + Delete** key on the lock screen to view the sign-in screen. This helps prevent malicious tools from mimicking the sign-in screen to steal user credentials.
 
  While a handy feature, it may prevent you from accessing the sign-in screen without the keyboard combo. Check if you or other users on the computer have enabled the feature. If you find it annoying, you can easily[disable Secure sign-in with Ctrl + Alt + Delete in Windows 11](https://www.makeuseof.com/windows-11-disable-secure-sign-in/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Perform a System Restore
 
  Windows automatically creates new restore points on configured systems before a Windows, unsigned driver or a new program is installed. So if a bad update or driver causes the system to malfunction, you can use a restore point to undo the changes and restore your PC.
@@ -91,18 +78,22 @@ To check and update Windows 11:
 1. Power off your PC. Press and hold the**Power** button to force a shutdown if necessary.
 2. Next, press the**Power** button to restart and start pressing the**F11** key until you see the recovery menu. Depending on the computer manufacturer, you may have to use the F2, F9, or**F12** keys to boot into**WinRE** .
 3. Next, under**Choose an option** , click on**Troubleshoot** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Recovery environment troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-recovery-environment-troubleshoot.jpg)
 4. Next, click on**Advanced options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 5. Click on**System Restore** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![advanced option system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-system-restore.jpg)
 6. Select the most recent restore point in the**System Restore** wizard and click**Next** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Follow on-screen instructions to complete the system restore process.
 
  Once done, your PC will restart. If successful, you should be able to view your sign-in screen. If not, you can try again with a different restore point.
@@ -117,6 +108,11 @@ To check and update Windows 11:
 3. Next, click on**Advanced options.**  
 ![advanced option startup repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-startup-repair.jpg)
 4. Click on**Startup Repair.** Now it will start to diagnose your PC to find issues with the start-up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, select a user account and enter the password.
 6. Click**Continue** to begin Startup repair. This process may take some time, so wait till it is complete.
 
@@ -138,8 +134,6 @@ To check and update Windows 11:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +141,22 @@ To check and update Windows 11:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-10-subtitle-converters-no-cost-for-srt-files/"><u>[Updated] Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disarming-webcam-error-code-a00f4289-in-windows-11-panorama/"><u>Disarming Webcam Error Code A00F4289 in Windows 11 Panorama</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/elite-mac-gif-recorders-top-picks-list-for-2024/"><u>Elite Mac GIF Recorders Top Picks List for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-resolve-airdrop-hurdles-on-any-apple-device-for-2024/"><u>How to Resolve Airdrop Hurdles on Any Apple Device for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-codegpt-for-enhanced-vs-code-productivity/"><u>Integrating CodeGPT for Enhanced VS Code Productivity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/key-pillars-top-6-social-platforms-benefiting-businesses/"><u>Key Pillars Top 6 Social Platforms Benefiting Businesses</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-unlocked-romanian-made-simple/"><u>Language Unlocked: Romanian Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-edges-steady-presence-in-windows-11/"><u>Managing Edge's Steady Presence in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-sticky-menu-issues-in-windows-11/"><u>Overcoming Sticky Menu Issues in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-deactivated-temperature-control-on-winos/"><u>Overhauling Deactivated Temperature Control on WinOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/seamless-webm-creation-from-youtube-videos-for-2024/"><u>Seamless WebM Creation From YouTube Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tracing-your-digital-steps-in-windows-11/"><u>Tracing Your Digital Steps in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-avatars-new-area-a-comprehensive-fix-for-pandoras-edge-not-loading/"><u>Trouble with Avatar's New Area? A Comprehensive Fix for Pandora's Edge Not Loading</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-eliminate-xbox-game-pass-error-0x00000001/"><u>Troubleshooting Windows 11: Eliminate Xbox Game Pass Error 0X00000001</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-rdp-connectivity-woes/"><u>Understanding and Resolving RDP Connectivity Woes</u></a></li>
+</ul></div>
 

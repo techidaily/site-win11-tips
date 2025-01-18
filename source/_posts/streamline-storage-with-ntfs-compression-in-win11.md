@@ -1,7 +1,7 @@
 ---
 title: Streamline Storage with NTFS Compression in Win11
-date: 2024-08-08T11:00:31.727Z
-updated: 2024-08-09T11:00:31.727Z
+date: 2025-01-14T17:32:22.120Z
+updated: 2025-01-18T17:48:45.743Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
  Nevertheless, let's check out some ways to enable NTFS file compression in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Enable NTFS File Compression Through the File Explorer
 
  The quickest way to enable NTFS[file compression](https://www.makeuseof.com/windows-11-file-compression-guide/) is through File Explorer. Below are the steps to compress a folder:
@@ -36,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 ![Compress content to save disk option in Folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/compress-content-to-save-disk-option.jpg)
 5. Click**Apply** \>**OK** to save the changes.
 6. In the confirmation dialog box that crops up, choose the **Apply changes to this folder, subfolders, and files option** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apply changes option in folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/apply-changes-option.jpg)
 7. Click**OK.**
 
@@ -50,16 +44,13 @@ Similarly, you can compress an entire drive. Here's how:
 
 1. Open the File Explorer, and right-click on the drive you want to compress.
 2. In the**General** tab, check the**Compress this drive to save disk space** box.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![Driver properties in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/driver-properties.jpg)
 3. Click**Apply** and then click**OK** on the confirmation box that crops up.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Enable NTFS File Compression Using the Command Prompt
 
  If you are a power user, you can use the Command Prompt to enable file compression on Windows 11\. Here are the steps to do it:
@@ -69,9 +60,6 @@ Similarly, you can compress an entire drive. Here's how:
 3. Type the following command and press**Enter** to enable file compression.  
 `fsutil behavior set disablecompression 0`
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![File compression command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-compression-command.jpg)
 
  You'll see the "**A reboot is required for this change to take effect** " message on the console. So, restart your computer to apply the changes.
@@ -80,9 +68,6 @@ Similarly, you can compress an entire drive. Here's how:
 
 `fsutil behavior set disablecompression 1`
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Enable NTFS File Compression Using the Registry Editor
 
  Another quick way to enable compression is through the Registry Editor. Follow the below steps to do it:
@@ -94,11 +79,20 @@ Similarly, you can compress an entire drive. Here's how:
 4. Right-click on the**Policies** folder in the left sidebar, hover the cursor to**New,** and choose**DWORD** **(32-bit) Value** from the context menu.  
 ![Choosing DWORD in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-dword.jpg)
 5. Right-click on the newly created value and choose**Rename** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Type**Ntfsenablecompression** in the text field.
 7. Select and right-click on**Ntfsenablecompression** again, and choose**Modify** .
 8. Type**1** in the**Value data** .  
 ![Editing Ntfsenablecompression in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/editing-ntfsenablecompression.jpg)
 9. Click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  File compression is now enabled on your computer. If you want to disable it, type 0 in Value data and save the changes.
 
@@ -114,7 +108,15 @@ Similarly, you can compress an entire drive. Here's how:
 ![Disabling policy in LGPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disabling-policy.jpg)
 5. Click**Apply** \>**OK** to enable file compression.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can disable the file compression by choosing the**Enabled** option in the**Do not allow compression on all NTFS volumes policy** properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Free Up Space on Windows 11 With File Compression
 
@@ -122,14 +124,11 @@ Similarly, you can compress an entire drive. Here's how:
 
  Meanwhile, you might be interested in learning more about the NTFS file system.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +137,20 @@ Similarly, you can compress an entire drive. Here's how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-how-to-successfully-continue-configuring-windows-when-stuck/"><u>[FIXED] How to Successfully Continue Configuring Windows When Stuck</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-aligning-objectives-brands-and-youtube-collaborative-moves/"><u>[New] Aligning Objectives Brands and YouTube Collaborative Moves</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breaking-news-apples-anticipated-artificial-intelligence-integration-postponed-to-october-insiders-reveal/"><u>Breaking News: Apple's Anticipated Artificial Intelligence Integration Postponed to October, Insiders Reveal</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-methods-for-disabling-sleep-function-on-a-mac-computer/"><u>Effective Methods for Disabling Sleep Function on a Mac Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/elevate-visual-excellence-in-videos-harness-the-power-of-winxvideo-ai/"><u>Elevate Visual Excellence in Videos: Harness the Power of WinxVideo AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enlightening-on-high-fidelity-window-images/"><u>Enlightening on High-Fidelity Window Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-geforce-now-glitch-xc0f1103f-in-win-1011-oses/"><u>Fixing GeForce Now Glitch XC0F1103F in Win 10/11 OSes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/from-closed-to-open-mastering-srt-files-in-macos-for-2024/"><u>From Closed to Open Mastering SRT Files in macOS for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-default-search-window-action-windows-11-guide/"><u>Halt Default Search Window Action, Windows 11 Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-meizu-21-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Meizu 21 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-gt-5-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme GT 5 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/push-beyond-the-limits-yuzu-emulator-speed/"><u>Push Beyond the Limits: Yuzu Emulator Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-nvidia-display-issue-in-control-panel/"><u>Resolving Nvidia Display Issue in Control Panel</u></a></li>
+</ul></div>
 

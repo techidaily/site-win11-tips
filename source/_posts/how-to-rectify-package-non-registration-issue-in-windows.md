@@ -1,7 +1,7 @@
 ---
 title: How to Rectify Package Non-Registration Issue in Windows
-date: 2024-08-08T11:03:56.829Z
-updated: 2024-08-09T11:03:56.829Z
+date: 2025-01-17T16:02:28.035Z
+updated: 2025-01-18T16:30:35.922Z
 tags:
   - windows10
   - windows11
@@ -28,14 +28,24 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 2. Click**Troubleshoot** within the**System** tab of Settings.
 3. Next, select**Other trouble-shooters** to reach the Windows troubleshooters in Settings.
 4. Press the Windows Store Apps troubleshooter’s**Run** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The troubleshooters in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/other-troubleshooters-in-settings.jpg)
 5. Then select to apply fixes suggested by the Windows Store App troubleshooter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-store-apps-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The same troubleshooter is also available within Windows 10’s Settings app. To access it, click the**Update & Security** category and**Troubleshoot** tab. Then you can select**Additional troubleshooters** to bring up the list of troubleshooting tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update Photos
 
@@ -44,28 +54,19 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 1. Click**Start** and select Microsoft Store on that button’s menu.
 2. Select Microsoft Store’s**Library** tab.
 3. Click**Get updates** to see what apps need updating. MS Store will then automatically download and install an update for Photos if available.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![The Get updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/get-updates-button.jpg)
 4. Wait for the Photos app update to finish before closing Microsoft Store.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Repair and Reset the Photos Apps
 
  Repairing or resetting Photos will likely fix the “Package could not be registered” if that app has corrupted files or data. You can select adjacent**Repair** and**Reset** troubleshooting options for Photos within Settings’ Apps & Features tool. To apply this solution, follow the instructions in our guide for[resetting Microsoft Store apps](https://www.makeuseof.com/windows-reset-app/) . Select the**Repair** option first and**Reset** second if necessary.
 
 ![The Repair and Reset buttons for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-repair-reset-buttons.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Run the Deployment Image and System File Checker Tools
 
  The “Package could not be registered” error can also be due to Windows system file corruption. That much has been confirmed by users who’ve said that running Deployment Image Servicing Management and System File Checker scans fixed this issue on their PCs. You can apply this potential solution by[opening the Command Prompt with admin rights](https://www.makeuseof.com/windows-11-open-command-prompt/) and running these separate DISM and SFC commands:
@@ -76,9 +77,6 @@ No advertising on the website.
 
  Run the Deployment Image Servicing Management scan command before the System File Checker tool. Leave the Command Prompt open until it shows a Windows Resource Protection message for the SFC scan. If it says Windows Resource Protection repaired files, this resolution might have resolved the “Package could not be registered” error.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reinstall Photos
 
  If the “Package could not be registered” error persists after applying the resolutions above, you might need to reinstall Photos to fix it. This solution is the most likely one to fix a corrupted Photos app. You can uninstall and reinstall Photos with PowerShell like this:
@@ -89,9 +87,6 @@ No advertising on the website.
 ![The uninstall Photos command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-photos-command.jpg)
 3. To reinstall Photos, input this PowerShell command and press**Enter** :  
 `Get-AppxPackage -allusers Microsoft.Windows.Photos | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![The reinstall Photos app command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-photos-app.jpg)
 4. Restart your PC after reinstalling Photos.
 
@@ -99,12 +94,13 @@ No advertising on the website.
 
  If you’ve tried all other resolutions suggested here, there could be a deeper Windows issue causing the “Package could not be registered” Photos error. Then a system reset could be needed to remedy that deeper issue. Resetting Windows will refresh the platform’s components and restore it to a default state.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-reset-this-pc-tool.jpg)
 
  This is suggested as a last resort because you’ll need to reinstall third-party software installed before resetting Windows. However, you can select to keep user files such as photos, documents, videos, etc. Our[guide to resetting Windows 10 and 11](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) tells you how to perform a factory reset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Your Images in Photos Again
 
@@ -116,8 +112,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +119,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-iphone-tips-for-time-dilation-in-videography/"><u>[New] 2024 Approved IPhone Tips for Time-Dilation in Videography</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-techniques-for-efficient-hp-notebook-screen-recording-for-2024/"><u>[New] Cutting-Edge Techniques for Efficient HP Notebook Screen Recording for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-complete-guide-to-uploading-virtual-realities-editing-and-publishing-360-degree-vids/"><u>[New] In 2024, The Complete Guide to Uploading Virtual Realities Editing & Publishing 360-Degree Vids</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-pro-gamers-screen-capture-strategy-for-xbox-one/"><u>[Updated] 2024 Approved The Pro Gamer's Screen Capture Strategy for Xbox One</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/buzzvideopc/"><u>BuzzVideoのPC用ダウンロードガイド:最新動画保存方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-no-privileges-errors-in-win11-systems/"><u>Correcting No Privileges Errors in Win11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-connectivity-configure-dns-on-windows-11/"><u>Enhancing Connectivity: Configure DNS on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/erase-incompatibility-warning-label-in-win11-os/"><u>Erase Incompatibility Warning Label in Win11 OS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-top-youtube-concepts-for-inspiring-viewers-creativity/"><u>In 2024, Top YouTube Concepts for Inspiring Viewers' Creativity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-top-10-benefits-of-using-chatgpt-on-linkedin-to-secure-your-next-career-move/"><u>The Top 10 Benefits of Using ChatGPT on LinkedIn to Secure Your Next Career Move</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-win11s-secrets-to-eliminate-bluescreen-issues/"><u>Unlocking Win11's Secrets to Eliminate Bluescreen Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unwrapping-ais-essence-for-all/"><u>Unwrapping AI's Essence for All</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-15-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 15 Plus? | Stellar</u></a></li>
+</ul></div>
 

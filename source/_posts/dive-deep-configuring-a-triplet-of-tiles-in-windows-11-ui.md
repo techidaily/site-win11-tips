@@ -1,7 +1,7 @@
 ---
 title: "Dive Deep: Configuring a Triplet of Tiles in Windows 11 UI"
-date: 2024-08-08T11:00:52.143Z
-updated: 2024-08-09T11:00:52.143Z
+date: 2025-01-12T16:52:36.202Z
+updated: 2025-01-18T16:37:29.864Z
 tags:
   - windows10
   - windows11
@@ -22,23 +22,16 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 
 ## What's the New Widgets Board in Windows 11, and How Is It Different From the Old One?
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Windows 11 widgets pane](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The new Widgets Board offers a larger canvas with a clear separation between Widgets and the feed content. It has three columns, one for Widgets and the other two for feed content. At the time of writing, stable Windows 11 users only have a two-column Widget board housing Windows 11 widgets and the feed content.
 
 Simply put, they have no separation in the two-column Widgets view.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## What Is the ViveTool and Why Do You Need It to Enable the New Widgets Board?
 
  ViveTool is a third-party application that helps you enable features many Windows Insiders or the general public cannot use in Windows 11\. In other words, the tool allows us to enable hidden features in Windows 11\. We have a detailed guide on[downloading and using ViveTool to enable unreleased features](http://www.makeuseof.com/vivetool-windows-guide/) .
@@ -49,12 +42,17 @@ Simply put, they have no separation in the two-column Widgets view.
 
  For convenience, set up ViveTool and its extracted contents in the**C:/ViVeTool** folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable the New Widgets Panel in Windows 11
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Screenshot showing how to enable three column widget panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you have successfully set up ViveTool on your PC, you can jump straight to the steps required to enable the specific feature ID for the three-column Widgets view.
 
@@ -68,9 +66,6 @@ vivetool /enable /id:43028164
 
  Now, launch the Widgets panel from the taskbar. If you do not have the Widgets icon in the taskbar, you can tweak the taskbar setting and bring that icon to your taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Will the Widgets Panel Be Available for Other Insider Channels?
 
  Every feature that Microsoft tests in Canary Channel build may or may not make it to other Insider Channels. The new Widgets Board is no exception.
@@ -78,18 +73,20 @@ vivetool /enable /id:43028164
  But since Microsoft has officially confirmed that it will be available to more Insiders in the coming days, we are hopeful it will make its way to other channels and, eventually, to a stable Windows 11 release.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will Widgets Panel Always Have Three Columns in the Future?
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Three Column Widget panel screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel-screenshot-1.jpg)
 
  It is likely that the new Widgets Board will completely replace the one with two columns. Once you enable the three-column Widgets using ViveTool, there are no ways to return to using the old Widgets board.
 
  However, we cannot rule out the possibility of Microsoft making the larger Widgets board optional in the future, allowing users to decide which suits them best.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## New Widgets Board in Windows 11, Enabled
 
@@ -97,14 +94,11 @@ vivetool /enable /id:43028164
 
  In other words, you can tweak Windows 11's Widgets settings to get the most out of it even when it shows all your widgets and the feed content in a single panel.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,4 +107,16 @@ vivetool /enable /id:43028164
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-from-novice-to-pro-mastering-the-craft-of-yt-shorts/"><u>[New] In 2024, From Novice to Pro Mastering the Craft of YT Shorts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/direct-transmission-of-media-files-between-iphones-for-2024/"><u>Direct Transmission of Media Files Between iPhones for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-unveiling-the-excellence-of-apples-newest-iphone-12-release/"><u>Expert Review: Unveiling the Excellence of Apple's Newest iPhone 12 Release</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-errors-interpreting-bsod-with-code-0x0e00000b/"><u>Mastering Windows Errors: Interpreting BSOD with Code 0X0e00000b</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-system-call-failed-on-windows-1011/"><u>Quick Fixes: System Call Failed on Windows 10/11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-gaming-experience-steps-to-linking-ps-vr-headset-to-windows-or-mac-systems/"><u>Seamless Gaming Experience: Steps to Linking PS VR Headset to Windows or Mac Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-android-gaming-on-pc-win-11s-role-via-play/"><u>Simplifying Android Gaming on PC: Win 11'S Role via Play</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-hypervisor-errors-with-these-5-strategies/"><u>Stop HYPERVISOR Errors with These 5 Strategies</u></a></li>
+</ul></div>
 

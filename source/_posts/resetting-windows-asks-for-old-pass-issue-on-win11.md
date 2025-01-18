@@ -1,7 +1,7 @@
 ---
 title: Resetting “Windows Asks for Old Pass” Issue on Win11
-date: 2025-01-08T17:42:43.185Z
-updated: 2025-01-12T16:00:52.225Z
+date: 2025-01-16T17:50:45.795Z
+updated: 2025-01-18T16:30:11.251Z
 tags:
   - windows10
   - windows11
@@ -31,22 +31,22 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 
 ![The “We’ll Need Your Current Windows Password One Last Time” Error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-we-ll-need-your-current-windows-password-one-last-time-error.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft requests this password to verify your access to the local administrator account. A default local administrator account is created when you set up Windows 10 or 11 devices (after purchase); however, this account isn’t generated with a password.
 
  Meanwhile, if you’re setting up after a system reset, your device will revert to the initial local admin account; it won’t create a new one. In this case, there might be an existing password or not.
 
  Either way, this local admin account is the “master key” for accessing your device. When you try to link your Microsoft account, Windows requires the password to this local admin account to confirm that you’re the admin. Fortunately, there are some quick fixes for resolving this error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Try All of Your Commonly Used Passwords
 
 ![A padlock standing on the keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-pc-keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you encounter this error, you should first try all of the commonly used passwords you’ve used with the device. It’s possible that once upon a time, you changed the password to the default local administrator account. However, this only applies if you’re experiencing this error as a result of a system reset.
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 ## 2\. Press Enter While the Password Field Is Blank
 
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
 
@@ -74,20 +70,24 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 ![Accounts Page in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/accounts-page-in-windows-11.jpg)
 3. Then, select **Sign-In Options** \> **Passwords**. You’ll find **Add** if you’re creating a password for the first time. Otherwise, you’ll find **Change**, meaning you’ll need to [reset your local admin account password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
 4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Don’t Let the “We’ll Need Your Current Windows Password One Last Time” Error Stop You
 
@@ -105,19 +105,20 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-10-awesome-ideas-for-igtv-videos-brands-cant-miss-out-on/"><u>[New] 2024 Approved 10 Awesome Ideas for IGTV Videos Brands Can't Miss Out On</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-essential-tips-for-effective-voice-to-text-in-google-docs-for-2024/"><u>[New] Essential Tips for Effective Voice-to-Text in Google Docs for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-efficient-flow-of-content-tiktok-to-your-fb-profile/"><u>[New] In 2024, The Efficient Flow of Content TikTok to Your FB Profile</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/erfect-your-channel-info-a-template-approach-for-2024/"><u>[New] Perfect Your Channel Info A Template Approach for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transform-your-content-strategy-with-tubebuddy/"><u>[New] Transform Your Content Strategy with TubeBuddy</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/from-classic-to-contemporary-diving-into-the-reinvented-world-of-ratchet-and-clank/"><u>From Classic to Contemporary: Diving Into the Reinvented World of Ratchet & Clank</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-remove-the-spotlight-wallpaper-icon-from-windows-11s-desktop/"><u>How to Remove the Spotlight Wallpaper Icon From Windows 11’S Desktop</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-transforming-videos-into-immersive-experiences-top-vr-converters/"><u>New In 2024, Transforming Videos Into Immersive Experiences Top VR Converters</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/radiant-renders-streamlined-methods-for-color-correction-in-ps-for-2024/"><u>Radiant Renders Streamlined Methods for Color Correction in PS for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seven-simple-solutions-for-tackling-windows-based-obs-failures/"><u>Seven Simple Solutions for Tackling Windows-Based OBS Failures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sound-and-sight-synergy-on-windows-an-efficient-drivers-upgrade-guide/"><u>Sound and Sight Synergy on Windows: An Efficient Drivers Upgrade Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-drivers-guide-mastering-the-art-of-using-seagate-backup-plus-year-2024-edition/"><u>Ultimate Drivers' Guide: Mastering the Art of Using Seagate Backup Plus [Year 2024 Edition]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-over-windows-woes-unraveling-and-fixed-11-issues/"><u>Win Over Windows Woes - Unraveling & Fixed 11 Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-search-removing-visuals/"><u>Windows Search: Removing Visuals</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-chronicle-of-creation-weaving-time-lapse-animations-via-movie-maker/"><u>[New] 2024 Approved The Chronicle of Creation Weaving Time-Lapse Animations via Movie Maker</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-tapping-income-through-thoughtful-product-examinations/"><u>[New] Tapping Income Through Thoughtful Product Examinations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-25-pioneers-reshaping-social-media-landscapes/"><u>[Updated] 25 Pioneers Reshaping Social Media Landscapes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726226756915-movavi/"><u>網路無障礙公共直播服務 - MOVAVI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertisseur-gratuit-de-fichiers-wav-a-mp4-en-ligne-moveavi/"><u>Convertisseur Gratuit De Fichiers WAV À MP4 en Ligne - MoveAVI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desde-clips-de-mov-a-finesas-de-vob-online-sin-costo-con-movavi/"><u>Desde Clips De MOV a Finesas De VOB Online Sin Costo Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-conversion-of-ppm-files-to-gif-format-by-movavi-quick-guide-and-tools/"><u>Free Conversion of PPM Files to GIF Format by Movavi: Quick Guide & Tools</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-citizenship-through-non-native-english-learning/"><u>Global Citizenship Through Non-Native English Learning</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-asus-rog-phone-7-ultimate-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Asus ROG Phone 7 Ultimate to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-secure-smooth-videos-selecting-premium-tripods-for-youtubers/"><u>In 2024, Secure Smooth Videos Selecting Premium Tripods for YouTubers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-redigerer-oplysning-og-effektivitet-for-din-video-bearbejstningsnedskudsfrihenheder-forsvart-sikker-kob-now/"><u>Movavi Redigerer - Oplysning Og Effektivitet for Din Video Bearbejstningsnedskudsfrihenheder | Forsvart Sikker Køb Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-20-free-video-capture-apps-compatible-with-all-devices/"><u>Top 20 Free Video Capture Apps Compatible with All Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-video-asf-in-formato-avi-online-e-free-grazie-a-movavi/"><u>Trasforma I Tuoi Video ASF in Formato AVI Online E Free Grazie a Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-pcs-vr-challenges-with-these-8-proven-techniques-to-prevent-vrchat-crashes/"><u>Troubleshoot Your PC's VR Challenges with These 8 Proven Techniques to Prevent VRChat Crashes</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/uefi-ssdwindows-1110/"><u>UEFI SSDにWindows 11/10を移行するための簡単なステップバイステップレシピ：お薦め方法</u></a></li>
 </ul></div>
 

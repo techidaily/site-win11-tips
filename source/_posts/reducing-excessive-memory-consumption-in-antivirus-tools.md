@@ -1,7 +1,7 @@
 ---
 title: Reducing Excessive Memory Consumption in Antivirus Tools
-date: 2024-08-08T11:03:59.624Z
-updated: 2024-08-09T11:03:59.624Z
+date: 2025-01-13T17:33:24.604Z
+updated: 2025-01-18T18:07:38.782Z
 tags:
   - windows10
   - windows11
@@ -21,9 +21,9 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
  On older PCs with limited system resources, the Antimalware Service Executable can severely impact the performance of your system. Read on as we discuss the importance of this service and how you can disable it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Antimalware Service Executable?
 
  You’re probably familiar with Windows Security (previously Microsoft Defender). Windows Security is a reliable antivirus that comes pre-installed on Windows 10 and 11\. The Antimalware Service Executable (you may find it listed as**MsMpEng.exe** in the**Task Manager**) is a core part of Windows Security.
@@ -39,15 +39,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Ideally, you should not turn off the Antimalware Service Executable process. But if you have a reliable third-party antivirus installed, and the Antimalware Service Executable is still consuming a large chunk of your RAM or CPU, then it might make sense to disable it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Disable the Antimalware Service Executable
 
  There are a few different ways you can disable the Antimalware Service Executable depending on the circumstances of your system’s performance.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Disable Real-time Protection
 
  Suppose you find the Antimalware Service Executable process consuming a lot of system resources in certain instances; in that case, you can temporarily disable[real-time](https://www.makeuseof.com/real-time-protection/) malware protection through Windows Security:
@@ -55,11 +57,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Head to the**Start** menu, search for**Windows Security** and select the Best match.
 2. Navigate to**Virus & threat protection** from the sidebar.
 3. Look for**Virus & threat protection settings** , and then click on**Manage settings** option underneath.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![real time protection windows security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/real-time-protection.jpg)
 4. Disable the**Real-time protection** toggle button by bringing it to the**Off** position.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Real-time protection will be turned back on automatically by Windows Security.
 
@@ -74,16 +77,15 @@ To disable Antimalware Service Executable from the Registry Editor:
 1. Search for**Registry Editor** from the**Start** menu, and launch it.
 2. Navigate to **HKEY\_LOCAL\_MACHINE > SOFTWARE > Microsoft > Windows Defender** from the sidebar.
 3. Right-click on the**Windows Defender** folder and select**New > DWORD (32-bit) Value** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![regedit windows defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/regedit-windows-defender.jpg)
 4. Enter**DisableAntiSpyware** in the**Value name** field and**1** in the**Value data** field.
-5. Press**OK** to save your changes and restart your system for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Press**OK** to save your changes and restart your system for the changes to take effect.
+
 ## Should You Rely on Windows Security for Windows 10 and 11?
 
  Many users opt for a dedicated third-party antivirus on Windows 10 or 11, but Windows Security has made significant improvements in the past few years. Not only is Windows Security a complete antivirus package, but it's also free and comes pre-installed on Windows.
@@ -94,8 +96,6 @@ To disable Antimalware Service Executable from the Registry Editor:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +103,26 @@ To disable Antimalware Service Executable from the Registry Editor:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-return-journey-maker-collection/"><u>[New] 2024 Approved Return Journey Maker Collection</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-finding-the-perfect-date-tracker-10-best-androidios-apps-for-2024/"><u>[Updated] Finding the Perfect Date Tracker 10 Best Android/iOS Apps for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-best-8-platforms-for-professional-linux-editing/"><u>2024 Approved Best 8 Platforms for Professional Linux Editing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ogmmp4-movavi/"><u>線上免付: OGM文件轉換成MP4電影格式 - 運用Movavi的方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-hyper-v-installation-in-windows-11-home-systems/"><u>Conquering Hyper-V Installation in Windows 11 Home Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-engaging-streams-for-success-the-ultimate-youtube-broadcast-blueprint-using-wirecast/"><u>Craft Engaging Streams for Success The Ultimate Youtube Broadcast Blueprint Using WireCast</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ideas-on-improving-gopros-energy-management-for-2024/"><u>Ideas on Improving GoPro's Energy Management for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-cutting-edge-techniques-for-prime-tiktok-beginnings-mac/"><u>In 2024, Cutting Edge Techniques for Prime TikTok Beginnings (Mac)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovation-meets-efficiency-top-6-to-do-list-apps-for-win-11/"><u>Innovation Meets Efficiency - Top 6 To-Do List Apps for Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/large-hard-drives-little-computational-thrill/"><u>Large Hard Drives, Little Computational Thrill</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-a-missing-msvcr110dll-in-windows/"><u>Remedying a Missing msvcr110.dll in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrect-dead-headset-on-your-machine-instantly/"><u>Resurrect Dead Headset on Your Machine, Instantly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-common-problems-with-the-logitech-g-pro-x-microphone/"><u>Step-by-Step Fixes for Common Problems with the Logitech G Pro X Microphone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-trigger-success-in-windows-service-starts/"><u>Strategies to Trigger Success in Windows Service Starts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-synergy-of-ai-and-windows-software-development/"><u>The Synergy of AI and Windows Software Development</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-rectify-steam-server-connection-failures-in-windows/"><u>Tips to Rectify Steam Server Connection Failures in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-your-pcs-image-processing-potential-with-4-best-viewers/"><u>Unlock Your PC's Image Processing Potential with 4 Best Viewers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/web-accessory-fb-stories-keeper-for-2024/"><u>Web Accessory FB Stories Keeper for 2024</u></a></li>
+</ul></div>
 

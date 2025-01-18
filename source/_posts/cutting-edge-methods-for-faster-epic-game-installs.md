@@ -1,7 +1,7 @@
 ---
 title: Cutting-Edge Methods for Faster Epic Game Installs
-date: 2024-08-08T10:59:41.506Z
-updated: 2024-08-09T10:59:41.506Z
+date: 2025-01-12T17:30:54.025Z
+updated: 2025-01-18T18:04:42.882Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
  If you want to speed up your downloads on the Epic Games Launcher, here are a few tweaks you may want to check out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check for Problems With the Backend
 
  It's possible to get super slow download speeds in Epic Games if there is a backend issue with the client or any other Epic Games service. Therefore, if your download speed has dropped unexpectedly, ensure all Epic Games servers and systems are up and running and the cause of the problem is not there.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 ![All Systems Showing as Operational on the Epic Games Status Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/all-systems-showing-as-operational-on-the-epic-games-status-page.jpg)
 
  If all systems appear to function correctly, then there's nothing wrong with the backend. In that case, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Basic Steps to Perform Before Optimizing the Epic Games Launcher
 
@@ -42,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
  After performing the above checks and fixes, move on to the main fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## 3\. Disable Downloads Throttling
 
  The Epic Games client allows users to throttle downloads when playing games or using network resources for something more substantial. This handy setting prevents the launcher from overstressing your bandwidth during a game update or installation.
@@ -53,21 +58,11 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
 1. Launch the Epic Games Launcher.
 2. Click the **profile icon** in the top right corner and select **Settings**.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Settings in the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/2-open-settings-in-the-epic-games-launcher.jpg)
 3. Make sure that the box beside **Throttle Downloads** isn't checked.
 4. If it was checked before, click the box once to uncheck it.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable the Throttle Downloads Option in the Epic Games Launcher Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-disable-the-throttle-downloads-option-in-the-epic-games-launcher-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 4\. Prioritize the Epic Games Launcher Over Everything Else
 
  The Windows operating system prioritizes essential system processes over third-party ones. Consequently, it allocates the most resources to prioritized processes to improve efficiency. As Epic Games processes are also third-party, they are also viewed as low priority. Hence fewer resources are allocated to them.
@@ -78,20 +73,12 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 2. Navigate to the **Details** tab of the Task Manager.
 3. Locate the **EpicGamesLauncher.exe** process.
 4. Right-click on this process, navigate to **Set Priority,** and select **High**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![Change the Priority of the Epic Games Launcher Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/4-change-the-priority-of-the-epic-games-launcher-process-in-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Clear Epic Games Launcher's Cache
 
  The Epic Games Launcher keeps some data in its cache, which makes it easier for the client to find and load necessary information faster. If not cleared timely, the accumulated cache can lead to unforeseen problems, including slow download speeds. Therefore, it is imperative to clear the cache, especially if it hasn't been cleared in a while.
@@ -103,6 +90,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 3. Delete each **webcache** folder you find.  
 ![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Reconfigure the Engine.ini File
 
  According to Reddit users and numerous YouTubers, modifying the Engine.ini file in the Epic Games installation folder can also make the download process faster. Follow these steps to reconfigure the file:
@@ -110,9 +101,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Press **Win+R**, type **"%appdata%"** and press **Enter**.
 2. Navigate to **Local > EpicGamesLauncher > Saved > Config > Windows** folders.
 3. Here, right-click the **Engine.ini** file and open it with Notepad or any other text editor.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Open the Engine.ini File in Notepad From the Epic Games Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/6-open-the-engine-ini-file-in-notepad-from-the-epic-games-installation-folder.jpg)
 4. Delete all the content in this file and add the following code instead:  
 `[HTTP]  
@@ -128,6 +116,10 @@ RetryTime=0.5`
 5. Press **CTRL+S** to save the file. After that, close it.  
 ![Save the Engine.ini File After Adding Few Commands in It](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/7-save-the-engine-ini-file-after-adding-few-commands-in-it-1.jpg)
 6. Restart the Epic Games Launcher again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If tweaking Engine.ini starts to adversely affect download speed, as some users have reported, you should revert the changes.
 
@@ -148,11 +140,29 @@ RetryTime=0.5`
 
  If you want to speed up your downloads on the Epic Games Launcher, here are a few tweaks you may want to check out.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-vivid-cutting-edge-m1-chips-transform-video-editing-landscape/"><u>[Updated] 2024 Approved Vivid Cutting Edge M1 Chips Transform Video Editing Landscape</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unleash-creativity-a-compreayer-to-slow-motion-photography-and-videos-for-instagram-success/"><u>[Updated] In 2024, Unleash Creativity A Compreayer to Slow-Motion Photography and Videos for Instagram Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dialogue-initiation-on-modern-windows-pcs/"><u>Dialogue Initiation on Modern Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expand-your-windows-reach-incorporating-enhanced-script-tools/"><u>Expand Your Window's Reach: Incorporating Enhanced Script Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-and-workarounds-for-windows-and-xbox-collision/"><u>Fixes & Workarounds for Windows and Xbox Collision</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-poco-x5-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Poco X5 Phones with/without a PC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-pioneering-design-discover-the-best-software-for-vectors/"><u>In 2024, Pioneering Design Discover the Best Software for Vectors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speeding-up-your-battlenet-game-downloads-on-pc/"><u>Speeding Up Your Battle.net Game Downloads on PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/step-by-step-guide-youtube-downloads-for-ios-devices-for-2024/"><u>Step-by-Step Guide YouTube Downloads for iOS Devices for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-keeping-calc-always-on-windows/"><u>Strategies for Keeping Calc Always On Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-reestablishing-remote-network-links-in-winvpn/"><u>Strategies for Reestablishing Remote Network Links in WinVPN</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sustainable-filmmaking-aids-at-no-charge/"><u>Sustainable Filmmaking Aids at No Charge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-components-by-tom/"><u>The Ultimate Guide to Computer Components by Tom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-silencing-chrome-pop-ups/"><u>Tips for Silencing Chrome Pop-Ups</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/total-unlinkage-from-youtube-shorts-complete-guide-for-2024/"><u>Total Unlinkage From YouTube Shorts Complete Guide for 2024</u></a></li>
+</ul></div>
+

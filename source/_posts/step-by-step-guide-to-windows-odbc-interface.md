@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Windows ODBC Interface
-date: 2024-08-08T11:04:06.893Z
-updated: 2024-08-09T11:04:06.893Z
+date: 2025-01-12T17:10:43.247Z
+updated: 2025-01-18T16:42:10.834Z
 tags:
   - windows10
   - windows11
@@ -18,11 +18,12 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 
  The Microsoft ODBC Data Sources tool helps you connect your apps to various database management systems. But how does this tool work, and what are the different ways to access it? Let's dive in and find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does the ODBC Data Sources App Work?
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![An illustration of a question and an idea](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-a-question-and-an-idea.jpg)
 
  ODBC (Open Database Connectivity) is a system that connects apps to database management systems. For example, if you use an app that accesses data in an SQL database, the ODBC Data Sources tool lets you connect that app to a different data source (such as Microsoft Excel).
@@ -37,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
  A DSN establishes a connection to a target database through an ODBC driver. It can also help you pull information from a database.
 
 * Click the **Add** button on the right to start creating a User DSN.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Clicking the Add button on the ODBC Data Sources app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clicking-the-add-button-on-the-odbc-data-sources-app.jpg)
 * On the next screen, select the relevant ODBC driver and click the **Finish** button. From there, enter the details of your data source in the next window.
 * Follow the on-screen steps and then click the **Finish** button.
@@ -48,11 +46,12 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 
  Want to discover the various ways to access the ODBC Data Sources tool? Let's help you out!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Access the ODBC Data Sources App Using the Start Menu Search Bar
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Windows computer next to a book and a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-computer-next-to-a-book-and-a-cup.jpg)
 
  One of the easiest ways to access the ODBC Data Sources tool (or any other app) is by using the Start menu search bar.
@@ -63,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 2. Type **ODBC Data Sources** and select the **Best match**.  
 ![Accessing the ODBC Data Sources app using the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-start-menu-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Access the ODBC Data Sources App Using the Start Menu
 
  You can also easily access the ODBC Data Sources tool from the Start menu. So, let's check out the steps you need to apply:
@@ -70,10 +73,11 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 1. Press the **Windows key** or click the **Start Menu icon** on the taskbar to access the Start menu.
 2. Select the **Windows Administrative Tools** folder from the menu items.
 3. Locate and select one of the **ODBC Data Sources** options.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Accessing the ODBC Data Sources app using the Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-start-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Access the ODBC Data Sources App Using the Control Panel
 
@@ -86,14 +90,12 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 3. Click the **View by** drop-down menu and select **Large icons**.
 4. Select **Administrative Tools** from the options.
 5. Double-click on one of the **ODBC Data Sources** options.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Accessing the ODBC Data Sources app using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Access the ODBC Data Sources App Using the File Explorer Address Bar
 
  The File Explorer address bar is a convenient tool that helps you locate your file or folder paths. But did you know that you can use this tool to access various apps?
@@ -102,9 +104,6 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 
 1. Press **Win + E** to open File Explorer.
 2. Type **odbcad32.exe** in the address bar and press **Enter**.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Accessing the ODBC Data Sources app using the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-file-explorer-address-bar.jpg)
 
 ## 5\. Access the ODBC Data Sources App Using the Task Manager
@@ -117,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 2. Click the **File** tab in the top-left corner of the screen.
 3. Select the **Run new task** option.
 4. Type **odbcad32.exe** in the search box and press **OK** to open the ODBC Data Sources app.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Accessing the ODBC Data Sources app using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-task-manager.jpg)
 
 ## 6\. Access the ODBC Data Sources App From the Windows System32 Directory
@@ -134,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 4. Open the **Windows** folder, scroll down, and open the **System32** folder.
 5. Double-click on the **odbcad32** option to open the ODBC Data Sources app.  
 ![Accessing the ODBC Data Sources app from the System32 directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-from-the-system32-directory.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Access the ODBC Data Sources App Using the Command Prompt or PowerShell
 
@@ -156,23 +156,16 @@ odbcad32.exe
 odbcad32.exe
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Access the ODBC Data Sources App Using a Desktop Shortcut
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Using desktop shortcuts is one of the best ways to access your apps. So, let's explore how you can create an ODBC Data Sources desktop shortcut:
 
@@ -189,14 +182,11 @@ odbcad32.exe
 
  And how do you access the Microsoft ODBC Data sources tool? Simply apply any of the methods we've covered. From there, you can start exploring some cool "database creation" tricks, such as creating a database in Microsoft Access.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -205,4 +195,26 @@ odbcad32.exe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-professional-streaming-made-simple-in-obs-studio-android-edition/"><u>[New] In 2024, Professional Streaming Made Simple in OBS Studio, Android Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-speed-enhancement-tips-for-periscope-livestimation/"><u>2024 Approved Speed Enhancement Tips for Periscope Livestimation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-methods-for-patching-your-webcams-drivers-in-windows-11/"><u>Easy Methods for Patching Your Webcam's Drivers in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-steps-to-stabilize-screen-flickering-in-windows/"><u>Effective Steps to Stabilize Screen Flickering in Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/fundamentals-of-digital-tale-construction-for-2024/"><u>Fundamentals of Digital Tale Construction for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/grab-your-gigabyte-z370-pcie-atx-motherboards-latest-drivers-now/"><u>Grab Your Gigabyte Z370 PCIe ATX Motherboard's Latest Drivers Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-minimize-explore-tab-noise-in-windows/"><u>How to Minimize Explore Tab Noise in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-honor-play-8t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Honor Play 8T</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/innovative-scripting-for-advanced-typography-in-after-effects-for-2024/"><u>Innovative Scripting for Advanced Typography in After Effects for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimum-virtual-options-tailored-for-windows-11-systems/"><u>Optimum Virtual Options Tailored for Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-in-package-registration-on-windows-1011/"><u>Overcoming Obstacles in Package Registration on Windows 10/11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/premium-download-assist-ff-friendly-fb-addons-for-2024/"><u>Premium Download Assist - FF-Friendly FB Addons for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-wi-fi-harmony-top-solutions-to-cure-non-functioning-usb-on-windows/"><u>Regain Wi-Fi Harmony: Top Solutions to Cure Non-Functioning USB on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-device-opens-on-audacity-in-windows-os/"><u>Remedying Device Opens on Audacity in Windows OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/reset-wordle-streaks-on-mobile-devices-successfully/"><u>Reset Wordle Streaks on Mobile Devices Successfully</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transferring-older-pc-tools-from-legacy-systems-to-windows-11/"><u>Transferring Older PC Tools: From Legacy Systems to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unified-workspace-managing-windows-folders-and-files/"><u>Unified Workspace: Managing Windows Folders & Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-free-secure-vlc-player-access-on-apple-devices/"><u>Unlocking Free, Secure VLC Player Access on Apple Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-windows-software-to-supercharge-macos-functionality/"><u>Utilizing Windows Software to Supercharge macOS Functionality</u></a></li>
+</ul></div>
 

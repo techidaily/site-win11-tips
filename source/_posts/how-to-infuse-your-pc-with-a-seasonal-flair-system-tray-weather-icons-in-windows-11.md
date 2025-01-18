@@ -1,7 +1,7 @@
 ---
 title: "How to Infuse Your PC with a Seasonal Flair: System Tray Weather Icons in Windows 11"
-date: 2025-01-08T17:12:54.242Z
-updated: 2025-01-12T20:11:57.991Z
+date: 2025-01-17T17:47:02.441Z
+updated: 2025-01-18T16:15:59.078Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add a Weather Icon to the System Tray With WeatherMate
 
  WeatherMate is a portable app that adds an icon to your system tray for displaying a location’s temperature. Clicking that system tray icon brings up a small panel that shows a weekly forecast for your set location. Note that this app will also work on older Windows platforms dating back to XP.
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![weathermate-icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/weathermate-icon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To set your location, press the **Click for options** cog button on the WeatherMate panel. Then select **Locations** to bring up a window from which you can select many US or international locations.
 
  Click the **US** or **International** radio button, select your state or country on the drop-down menu, and then a more specific location. Choose **Add** \> **OK** to set the location.
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 ![The Locations window for WeatherMate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/locations-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  WeatherMate will show only today’s weather info by default. However, you can change that to a weekly forecast via the app’s settings.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
  If you can only see the WeatherMate in the taskbar corner overflow menu, you’ll need to set its icon to appear within the taskbar corner (known as the "system tray"). Our guide on [showing and hiding Windows system tray icons](https://www.makeuseof.com/system-tray-icons-windows-11/#:~:text=In%20Taskbar%20settings%2C%20scroll%20down,set%20the%20toggle%20to%20Off.) provides instructions for how to set taskbar corner icons.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a Weather Icon to the System Tray With Weather Bar
@@ -83,11 +83,11 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 ![The location search box in Weather Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/location-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Check the Weather From the System Tray in Windows 11
@@ -106,19 +106,18 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-from-basic-tools-to-advanced-systems-prepping-for-transformation/"><u>[Updated] From Basic Tools to Advanced Systems Prepping for Transformation</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-share-smart-techniques-for-youtube-playlist-dispersal/"><u>[Updated] Share Smart Techniques for YouTube Playlist Dispersal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/11-ways-to-open-system-restore-on-windows-11/"><u>11 Ways to Open System Restore on Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-y78t-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo Y78t to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-intro-to-radial-photo-distortion-ps-tutorial/"><u>2024 Approved Intro to Radial Photo Distortion PS Tutorial</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/7-best-monitors-for-photo-editing-worth-trying-for-2024/"><u>7 Best Monitors for Photo Editing Worth Trying for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-guide-to-github-desktop-in-windows-1011/"><u>A Comprehensive Guide to GitHub Desktop in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/aoemi-for-streamlined-file-management-on-two-independent-windows-systems/"><u>AOEMi for Streamlined File Management on Two Independent Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-operations-efficient-data-alignment-in-win11/"><u>Boost Operations: Efficient Data Alignment in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-gaming-prowess-mastering-adventure-games-in-high-definition-hd/"><u>Boost Your Gaming Prowess: Mastering Adventure Games in High-Definition HD</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-a1x-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo A1x 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719324521716-elevating-your-windows-screenshot-game-with-these-fixes/"><u>Elevating Your Windows Screenshot Game with These Fixes.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-lgs-supply-pathways-what-you-need-to-be-aware-of/"><u>Inside Look at LG's Supply Pathways - What You Need to Be Aware Of</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-list-10-top-ae-text-ideas/"><u>Ultimate List 10 Top AE Text Ideas</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-printer-offline-issue-on-windows-7/"><u>[Fixed] Printer Offline Issue on Windows 7</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-elevate-your-audio-mastery-with-expert-audacity-usage/"><u>[Updated] 2024 Approved Elevate Your Audio Mastery with Expert Audacity Usage</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-engagement-with-solutions-to-common-shorts-challenges-for-2024/"><u>[Updated] Enhancing Engagement with Solutions to Common Shorts Challenges for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-calming-chorus-proven-voices-aid-sleep/"><u>[Updated] In 2024, The Calming Chorus Proven Voices Aid Sleep</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-delay-fixes-fast-and-simple-solutions/"><u>Bluetooth Delay Fixes: Fast and Simple Solutions!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-tools-for-next-gen-live-streams/"><u>Cutting-Edge Tools for Next-Gen Live Streams</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/glitch-up-your-videos-top-ios-and-android-editing-apps/"><u>Glitch Up Your Videos Top iOS and Android Editing Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-revive-blackened-webcam-on-windows-os/"><u>How to Revive Blackened Webcam on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-efficiency-with-essential-win11-navigation-shortcuts/"><u>Maximize Your Efficiency with Essential Win11 Navigation Shortcuts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-tutorial-wacom-intuos-pro-driver-compatible-with-windows-nineteen/"><u>Quick Download Tutorial: Wacom Intuos Pro Driver Compatible with Windows Nineteen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-clear-printer-usage-messages/"><u>Steps to Clear Printer Usage Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-prevent-windows-11-from-listening-in/"><u>Steps to Prevent Windows 11 From Listening In</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-on-overcoming-installation-hurdles-in-windows-os/"><u>Tips on Overcoming Installation Hurdles in Windows OS</u></a></li>
 </ul></div>
 

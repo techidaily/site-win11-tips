@@ -1,7 +1,7 @@
 ---
 title: How To Address the “Invalid Token Access” Error on Win10
-date: 2024-08-08T11:02:27.540Z
-updated: 2024-08-09T11:02:27.540Z
+date: 2025-01-15T16:06:35.823Z
+updated: 2025-01-18T17:43:16.536Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 
  Does the same error message pop up when you try to access Explorer, Device Manager, or another native Windows tool? If yes, try applying these potential remedies for the “reference a token” error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. End and Restart File Explorer
 
  If the “reference a token” error occurs when you try to access File Explorer or folders, try restarting the Explorer process. Some users who’ve needed to fix the token reference error have said ending that Windows Explorer process and starting it again worked for them. You can end and restart Explorer as follows:
@@ -29,22 +33,23 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 3. Then right-click Windows Explorer and select **End task**.  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/end-task-option.jpg)
 4. Select **End process** to confirm. The background Windows desktop will go blank when you do that, and restarting Explorer will restore it.
-5. Click **File** at the top of Task Manager.  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Click **File** at the top of Task Manager.  
 ![The Run new task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-new-task.jpg)
 6. Select **Run new task** to access a Create new task box.
-7. Input **Explorer.exe** inside the **Open** text box.  
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Input **Explorer.exe** inside the **Open** text box.  
 ![The Create new task window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-new-task.jpg)
 8. Select **Create this task with administrative privileges** and click **OK** to restart Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 2\. Reregister Windows DLL Files
 
  Users who’ve needed to fix the “reference a token” error have confirmed reregistering the Windows DLL (Dynamic Link Library) files works. That highlights the token reference error can occur because some Windows DLL files aren’t correctly registered. This is how you can reregister Windows DLL files:
@@ -54,30 +59,24 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 3. Right-click on **Command Prompt** inside the file search tool to select **Run as administrator**.
 4. Now enter and execute this command for reregistering DLL files:  
 `for /f %s in ('dir /b *.dll') do regsvr32 /s %s`  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![The reregister DLL command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reregister-dll-commands.jpg)
 5. Wait for the command to finish reregistering DLLs.
 6. Close your Command Prompt app, bring up the Start menu, and select **Restart**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Try Some More Generic Windows Fixes
 
  If nothing has worked, try these Windows fixes that can fix a wide variety of errors, including this one.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### Scan and Repair System Files With SFC
 
  The “reference a token” error is often a result of corrupted Windows system files. So, repairing system files is a likely potential solution for that error. You can check for and repair corrupted system files by [running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) within the Command Prompt.
 
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Go Back to a Previous Windows Build Version
 
  If the “reference a token” error occurs after a recent Windows feature update, restoring the previous build version might resolve that issue. However, you can only restore a previous build version for a limited period. This is how you can restore a previous Windows build version:
@@ -85,9 +84,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Activate the file search box and input the keyword **recovery options**.
 2. Select **Recovery** **options** to bring up Settings.
 3. Click the **Go back** or **Get started** button for restoring the previous Windows version.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Get started button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/get-started-button.jpg)
 
  If that option is grayed out, you can also try restoring the previous Windows build from the **Advanced options** menu. Open recovery options in Settings as outlined in steps one and two above and click **Restart** **now**. Then select **Troubleshoot** \> **Advanced** options and the **Go back** **to previous build** option if available.
@@ -104,13 +100,15 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Resetting Windows 11/10 is a last resort for fixing the “reference a token” error that will probably work. It’s best to save this probable resolution until last because you’ll need to reinstall all third-party UWP and desktop apps installed before the reset. You can apply this possible resolution as instructed within method one of our [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get the “Reference a Token” Error Sorted Out
 
  The “reference a token” error is serious when users can’t access essential native apps like File Explorer because of it. In many cases, corrupted Windows files are usually the culprit. Most of the resolutions in this guide will address that cause, and restarting File Explorer can also work when the issue affects that app or folders.
 
  Does the same error message pop up when you try to access Explorer, Device Manager, or another native Windows tool? If yes, try applying these potential remedies for the “reference a token” error.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -118,3 +116,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-the-definitive-manual-on-hand-based-tracking/"><u>[New] The Definitive Manual on Hand-Based Tracking</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-legacy-os-to-innovative-windows-11/"><u>[Updated] From Legacy OS to Innovative Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-perfect-shots-a-guide-to-capturing-engaging-youtube-content-for-2024/"><u>[Updated] Perfect Shots A Guide to Capturing Engaging YouTube Content for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-a-complete-breakdown-of-lgs-premium-4k-screen-experience/"><u>2024 Approved A Complete Breakdown of LG’s Premium 4K Screen Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-team-tools-without-the-burden/"><u>Efficient Team Tools Without the Burden</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-awful-crash-in-chrome-browser-on-pc/"><u>Fixing Awful Crash in Chrome Browser on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-oppo-k11x-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Oppo K11x To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-overcome-challenges-with-the-ios-remote-control-app/"><u>How To Overcome Challenges with the iOS Remote Control App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-prevent-inadvertent-windows-key-activation/"><u>How to Prevent Inadvertent Windows Key Activation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-s17e-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo S17e Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11s-task-manager-for-process-control-and-theme-personalization/"><u>Navigating Windows 11'S Task Manager for Process Control and Theme Personalization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-enhance-pointer-features-in-windows-11/"><u>Quick Fixes to Enhance Pointer Features in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-workflow-essential-windows-shorthand/"><u>Streamline Your Workflow: Essential Windows Shorthand</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transitioning-windows-ambiance-installing-from-the-ms-store/"><u>Transitioning Windows Ambiance: Installing From The MS Store</u></a></li>
+</ul></div>
+

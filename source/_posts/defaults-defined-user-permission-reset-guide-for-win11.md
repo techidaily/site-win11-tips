@@ -1,7 +1,7 @@
 ---
 title: "Defaults Defined: User Permission Reset Guide for Win11"
-date: 2024-08-08T11:01:59.278Z
-updated: 2024-08-09T11:01:59.278Z
+date: 2025-01-12T16:46:53.114Z
+updated: 2025-01-18T17:51:16.663Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 
 Let's now explore them in detail.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## 1\. Run the Icacls Command
 
  The Icacls command allows you to view, modify, and reset file system permissions on files and folders. To reset Windows Update permissions using this command, you will first have to[take ownership of the folders on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) . Then[open an elevated Command Prompt on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) and type in the following command:
@@ -42,8 +39,9 @@ In the above command, here are the parameters explained:
 * /reset – This parameter resets the permission options to their default values.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Run the Secedit command
 
  Windows provides the Secedit command to configure and analyze system security. To reset all user permissions using this command, run the command prompt with admin access, then type in the following command:
@@ -54,22 +52,26 @@ In the above command, here are the parameters explained:
 
  Now press Enter to execute the command. Wait for the process to finish and restart your computer. This will reset the user permissions to the default system settings.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the Subinacl Tool
 
  If you're not comfortable using the command prompt, you may use the Subinacl tool. This is a command-line utility from Microsoft that can be used to reset user permissions. Here's how to do it:
 
 1. [Download the Subinacl tool from Microsoft's webpage](https://web.archive.org/web/20190830103837/http://www.microsoft.com/en-us/download/confirmation.aspx?id=23510) . When you open the page, the download starts automatically. If not, wait 30 seconds and click the link.
 2. Once downloaded, double-click on the installer package. This will open the installation wizard.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Open the installation wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-the-installation-wizard.jpg)
 3. Click on**Next** and then accept the license agreement terms.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Install the Subinacl tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-the-subinacl-tool.jpg)
 4. Next, copy and paste the following path into the Destination folder:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `C:\Windows\System32`  
  Note: If you have installed Windows on a different drive, use that path instead.
 5. Now click on**Install now** and wait for the Subinacl tool to be installed. This may take several minutes, so be patient.
@@ -84,31 +86,31 @@ subinacl /subkeyreg HKEY_CURRENT_USER /grant=system=f
 subinacl /subkeyreg HKEY_CLASSES_ROOT /grant=system=f  
 subinacl /subdirectories %SystemDrive% /grant=system=f`
 2. On the Save As window, set the File name to**Reset.cmd** and then select**All Files** from the drop-down menu next to it.  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reset Windows Update permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-windows-update-permissions.jpg)
 3. Next, select**Desktop** from the left pane and click on**Save** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Now double-click on it to reset the user permissions to default.
 5. This may take a while to complete the procedure, so wait for it to finish.
 
  Once done, close any running program, and then restart your computer. Your Windows Update permissions will be reset to their default settings. These are three different methods you can use to reset the user permission settings on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Restore User Permissions to Default on Windows
 
  User permissions play a crucial role in computer security. If you're experiencing user permission issues, you must reset them to their default settings. This guide helps you reset all user permissions on Windows using three different methods. You can use the ICACLS command, Secedit command, or Subinacl tool, depending on your preference.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,4 +119,19 @@ subinacl /subdirectories %SystemDrive% /grant=system=f`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-premier-choices-8-linux-editing-tools/"><u>[Updated] 2024 Approved Premier Choices 8 Linux Editing Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-countdown-configuration-for-obs-users-a-compreenas-guide/"><u>[Updated] Countdown Configuration for OBS Users A Compreenas Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/behind-the-photo-instagram-selfie-credibility-explored-for-2024/"><u>Behind the Photo Instagram Selfie Credibility Explored for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-the-air-on-steam-login-woes-with-rust-and-windows-coding/"><u>Clearing the Air on Steam Login Woes with Rust & Windows Coding</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directx-management-downloading-and-updating-made-simple/"><u>DirectX Management: Downloading & Updating Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-printmanagement-module-missing-on-pcs/"><u>Fixing 'PrintManagement' Module Missing on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-the-command-line-tab-in-windows-11s-task-manager/"><u>How to Add the Command Line Tab in Windows 11'S Task Manager</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-device-not-detected-problem-fixing-error-code-24-on-windows-os/"><u>How to Overcome 'Device Not Detected' Problem - Fixing Error Code 24 on Windows OS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210258133-9786077132615-la-oracion-en-la-psicoterapia/"><u>La oración en la psicoterapia | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-gpt-interaction-top-9-addons-revealed/"><u>Revolutionize Your GPT Interaction – Top 9 Addons Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-expunging-windows-search-graphics/"><u>Techniques for Expunging Windows Search Graphics</u></a></li>
+</ul></div>
 

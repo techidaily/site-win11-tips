@@ -1,7 +1,7 @@
 ---
 title: Tips to Resolve “Token Misapplication” Issue in Windows
-date: 2025-01-11T17:48:50.035Z
-updated: 2025-01-12T17:47:07.885Z
+date: 2025-01-16T18:16:11.662Z
+updated: 2025-01-18T16:22:57.210Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. End and Restart File Explorer
 
  If the “reference a token” error occurs when you try to access File Explorer or folders, try restarting the Explorer process. Some users who’ve needed to fix the token reference error have said ending that Windows Explorer process and starting it again worked for them. You can end and restart Explorer as follows:
@@ -35,17 +39,21 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/end-task-option.jpg)
 4. Select **End process** to confirm. The background Windows desktop will go blank when you do that, and restarting Explorer will restore it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **File** at the top of Task Manager.  
 ![The Run new task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-new-task.jpg)
 6. Select **Run new task** to access a Create new task box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Input **Explorer.exe** inside the **Open** text box.  
 ![The Create new task window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-new-task.jpg)
 8. Select **Create this task with administrative privileges** and click **OK** to restart Explorer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Reregister Windows DLL Files
 
@@ -59,11 +67,11 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 ![The reregister DLL command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reregister-dll-commands.jpg)
 5. Wait for the command to finish reregistering DLLs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Close your Command Prompt app, bring up the Start menu, and select **Restart**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Try Some More Generic Windows Fixes
 
@@ -75,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Go Back to a Previous Windows Build Version
 
  If the “reference a token” error occurs after a recent Windows feature update, restoring the previous build version might resolve that issue. However, you can only restore a previous build version for a limited period. This is how you can restore a previous Windows build version:
@@ -88,11 +92,11 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 3. Click the **Go back** or **Get started** button for restoring the previous Windows version.  
 ![The Get started button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/get-started-button.jpg)
 
- If that option is grayed out, you can also try restoring the previous Windows build from the **Advanced options** menu. Open recovery options in Settings as outlined in steps one and two above and click **Restart** **now**. Then select **Troubleshoot** \> **Advanced** options and the **Go back** **to previous build** option if available.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If that option is grayed out, you can also try restoring the previous Windows build from the **Advanced options** menu. Open recovery options in Settings as outlined in steps one and two above and click **Restart** **now**. Then select **Troubleshoot** \> **Advanced** options and the **Go back** **to previous build** option if available.
 
 ### Go Back to a Previous Restore Point
 
@@ -105,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 ### Reset Windows
 
  Resetting Windows 11/10 is a last resort for fixing the “reference a token” error that will probably work. It’s best to save this probable resolution until last because you’ll need to reinstall all third-party UWP and desktop apps installed before the reset. You can apply this possible resolution as instructed within method one of our [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) guide.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get the “Reference a Token” Error Sorted Out
 
@@ -126,22 +126,14 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-art-of-matching-fpv-drones-with-ideal-blades/"><u>[New] 2024 Approved The Art of Matching FPV Drones with Ideal Blades</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-avoiding-common-pitfalls-crafting-memes-on-9gag-successfully-for-2024/"><u>[New] Avoiding Common Pitfalls Crafting Memes on 9GAG Successfully for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-elaborate-evaluation-of-uncomplicated-hdr-techniques-for-2024/"><u>[New] Elaborate Evaluation of Uncomplicated HDR Techniques for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-2023-full-analysis-provideo-masters-edit-suite/"><u>[New] In 2024, 2023 Full Analysis ProVideo Master's Edit Suite</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-from-static-to-dynamic-hyperlapse-video-techniques/"><u>[Updated] In 2024, From Static to Dynamic Hyperlapse Video Techniques</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-boosting-video-quality-utilizing-youtube-studios-features/"><u>2024 Approved Boosting Video Quality Utilizing YouTube Studio's Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/actions-to-take-when-facing-invalid-name-on-pc/"><u>Actions to Take When Facing Invalid Name on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjust-clockdate-display-in-window-11-interface/"><u>Adjust Clock/Date Display in Window 11 Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-application-runtime-to-compensate-for-lack-of-qt-plugins/"><u>Adjusting Application Runtime to Compensate for Lack of Qt Plugins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-windows-sign-in-restrictions-after-errors/"><u>Adjusting Windows Sign In Restrictions After Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/android-access-windows-shared-folders/"><u>Android: Access Windows Shared Folders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banishing-automatic-windows-updates/"><u>Banishing Automatic Windows Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-windows-capacity-securely-without-erasing-files/"><u>Boost Windows Capacity Securely without Erasing Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/icy-illusions-reveling-at-beijings-olympic-event-2022/"><u>Icy Illusions Reveling at Beijing's Olympic Event, 2022</u></a></li>
-<li><a href="https://fox-http.techidaily.com/mastering-online-tale-creation-fundamentals-for-2024/"><u>Mastering Online Tale Creation Fundamentals for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719357869666-quick-remedies-to-address-compatibility-issues-on-windows-xp/"><u>Quick Remedies to Address Compatibility Issues on Windows XP</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reclaim-connections-techniques-to-restore-deleted-mobile-contacts-on-your-android-smartphone/"><u>Reclaim Connections: Techniques to Restore Deleted Mobile Contacts on Your Android Smartphone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-top-12-tycoon-games-where-strategies-thrive-and-profits-peak/"><u>[New] 2024 Approved The Top 12 Tycoon Games - Where Strategies Thrive and Profits Peak</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-explore-cost-free-cross-platform-virtual-communication-software/"><u>[New] In 2024, Explore Cost-Free, Cross-Platform Virtual Communication Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlock-laughter-traps-20-quirky-fb-detention-anecdotes-for-amusement-for-2024/"><u>[New] Unlock Laughter Traps 20 Quirky FB Detention Anecdotes for Amusement for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decision-guide-choosing-a-superior-windows-coder/"><u>Decision Guide: Choosing a Superior Windows Coder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-security-with-extended-pins-on-win1011/"><u>Elevate Security with Extended PINs on Win10/11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-honor-100-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Honor 100 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-high-cpu-drain-from-dropbox-a-guide-for-windows-users/"><u>Minimizing High CPU Drain From Dropbox: A Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-made-interface-task-manager-on-win11/"><u>Tailor-Made Interface: Task Manager on Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-multifaceted-use-of-ai-in-our-lives/"><u>Unveiling the Multifaceted Use of AI in Our Lives</u></a></li>
 </ul></div>
 

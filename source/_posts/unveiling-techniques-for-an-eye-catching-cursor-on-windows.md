@@ -1,7 +1,7 @@
 ---
 title: Unveiling Techniques for an Eye-Catching Cursor on Windows
-date: 2025-01-12T02:25:02.788Z
-updated: 2025-01-12T22:28:16.020Z
+date: 2025-01-13T16:35:06.774Z
+updated: 2025-01-18T18:31:03.584Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Highlight the Cursor by Selecting the Show Location of Pointer Setting
 
  Windows doesn’t include much in the way of cursor-highlighting features. However, it does have a**Show location of pointer** setting that enables you to briefly highlight the cursor’s position with a ring by pressing an activation key. That’s not the kind of color highlighting third-party apps offer, but it still shows where the cursor is. You can select the**Show location of pointer** setting like this:
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 4. Select**Additional mouse settings** (or**Additional mouse options**) in the Windows Settings app.  
 ![The Additional mouse settings navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/additional-mouse-settings-option.jpg)
 5. Then click the**Pointer Options** tab in the Mouse Properties window that opens.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Select the**Show location of pointer** **when I press the Ctrl key** checkbox.  
 ![show-location-of-pointer-setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/show-location-of-pointer-setting.jpg)
@@ -58,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
 ![mouse-highlight-app-window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mouse-highlight-app-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The default size for the circle highlight is 30, but you can make it bigger or smaller. Enter a value less than 30 in the**Size** box. Or input a number higher than 30 to increase the circle’s size.
 
  You can adjust the circle’s transparency by changing the value in the**Opacity** box. Entering a lower value there will increase transparency. Inputting**0** makes the circle invisible, and entering the max**255** value removes the transparency.
@@ -65,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
  This app also has a click highlight effect you can enable. When enabled, you’ll see a second circle with a different color briefly appear around the cursor whenever you click the mouse. Select the**Enable** checkbox to turn on that feature.
 
 ![A mouse click cursor highlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-click-highlight.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then you can configure that secondary click highlight circle by entering alternative values in the**Size** and**Opacity** boxes much the same. There’s also a**Display Time** box for click highlight. Enter an alternative millisecond value there to change how long the circle appears. The default display time of 800 milliseconds is close to a second.
 
@@ -85,23 +101,11 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 ![The Enable Mouse Highlighter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-mouse-highligher-option.jpg)
 7. Then press the**Windows** logo key +**Shift** +**H** hotkey to activate the highlighter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  PowerToy’s cursor highlighting only applies to mouse clicking. You’ll see different color circles whenever you right or left-click the mouse. Those circles are set to yellow and blue colors by default.
 
  To customize PowerToy’s cursor highlighting, click**Appearance and Behavior** to view further options. Then you can click the**Primary** or**Secondary** button boxes to bring up palettes from which to select different colors. Drag the**Opacity** bar’s slider lift and right to adjust the highlighting’s transparency level. Click the**Radius** option to select a different size value for the circle.
 
 ![The Appearance & behavior settings in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/appearance-behavior-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Highlight the Cursor in Edge and Chrome With the Cursor Highlighter Extension
 
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 3. Then press the**Extensions** button in Chrome or Edge.  
 ![the-extensions-menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extensions-menu.jpg)
 4. Click**Cursor Highlighter** to view the extension’s options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Turn on the**Enable/Disable** option.  
 ![The Cursor Highlighter extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-cursor-highligher-extension.jpg)
@@ -129,7 +129,7 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 ![The Allow extensions from other stores setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-extensions-from-other-stores-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make the Mouse Cursor Stand Out by Highlighting It in Windows
@@ -151,20 +151,19 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-transform-your-footage-techniques-for-exceptional-instagram-videos/"><u>[New] In 2024, Transform Your Footage Techniques for Exceptional Instagram Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-harnessing-skills-a-tailored-approach-to-graphic-careers/"><u>[Updated] In 2024, Harnessing Skills A Tailored Approach to Graphic Careers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-tips-for-a-pristine-image-canvas-background-technique/"><u>[Updated] Tips for a Pristine Image Canva's Background Technique</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-epic-video-with-gopro-time-lapse-strategies/"><u>2024 Approved Unlock Epic Video with GoPro Time Lapse Strategies</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/conquer-the-crunch-how-to-edit-and-reduce-massive-tiktok-files/"><u>Conquer the Crunch How to Edit and Reduce Massive TikTok Files</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/maintaining-your-instagram-circle-health/"><u>Maintaining Your Instagram Circle Health</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-fixes-for-windows-marketplace-error-0x80073cf3/"><u>Mastering Fixes for Windows Marketplace (Error 0X80073CF3)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-ai-how-to-distinguish-between-public-private-and-personal-forms/"><u>Navigating the World of AI: How to Distinguish Between Public, Private & Personal Forms?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pinpointing-valid-logins-amidst-failed-attempts-in-windows/"><u>Pinpointing Valid Logins Amidst Failed Attempts in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-access-errors-in-windows-a-step-by-step-guide/"><u>Solving Access Errors in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/superior-storytellers-sanctuary/"><u>Superior Storyteller's Sanctuary</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-characteristics-setting-ai-devices-apart/"><u>The Characteristics Setting AI Devices Apart</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-navigating-your-way-through-netconfig/"><u>The Essential Guide to Navigating Your Way Through NetConfig</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-7-digital-canvases-for-your-win10-artistry/"><u>Top 7 Digital Canvases for Your Win10 Artistry</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-package-management-proficiency-wingetui-for-windows-users/"><u>Unlock Package Management Proficiency: WingetUI for Windows Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-captivating-costless-visual-collaboration-games-for-2024/"><u>[Updated] Captivating Costless Visual Collaboration Games for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-maximizing-zoom-meeting-insight-through-grid-view-settings/"><u>[Updated] In 2024, Maximizing Zoom Meeting Insight Through Grid View Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mkv-ts-movavi/"><u>網路上自由下載 MKV 版的 TS文件 - 使用 Movavi 解析器</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wavwma-wavwma/"><u>無限免費移動WAV到WMA: 維威麥 Wav轉成Wma格式</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analisi-completa-di-apowersoft-screen-recorder-dettagli-sul-funzionamento-costi-e-piu-informazioni/"><u>Analisi Completa Di Apowersoft Screen Recorder - Dettagli Sul Funzionamento, Costi E Più Informazioni</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversione-libera-tra-bmp-e-gif-il-perfetto-solutore-on-line-di-movavi/"><u>Conversione Libera Tra BMP E GIF: Il Perfetto Solutore On-Line Di Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-pc-sound-experience-latest-dolby-audio-driver-upgrades-for-windows-users/"><u>Enhance Your PC Sound Experience – Latest Dolby Audio Driver Upgrades for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-transform-webp-images-into-jpeg-format-with-ease/"><u>Free Online Converter: Transform WebP Images Into JPEG Format with Ease</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-mix-fold-3frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Mix Fold 3FRP Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-of-error-code-crossbow-in-minecraft/"><u>Resolving the Issue of Error Code: Crossbow in Minecraft</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-secrets-to-seamless-zoom-talks-mastering-online-communication-skills/"><u>The Secrets to Seamless Zoom Talks Mastering Online Communication Skills</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-video-aac-a-mp4-senza-costi-usando-il-servizio-di-conversione-online-movavi/"><u>Trasforma Video AAC a MP4 Senza Costi Usando Il Servizio Di Conversione Online Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-msi-gs65-with-the-latest-compatible-drivers-for-windows-free-download/"><u>Update Your MSi GS65 with the Latest Compatible Drivers for Windows - Free Download</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-still-to-motion-how-to-achieve-the-ken-burns-effect/"><u>Updated 2024 Approved From Still to Motion How to Achieve the Ken Burns Effect</u></a></li>
 </ul></div>
 

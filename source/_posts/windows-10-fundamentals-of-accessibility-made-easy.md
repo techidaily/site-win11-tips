@@ -1,7 +1,7 @@
 ---
 title: "Windows 10: Fundamentals of Accessibility Made Easy"
-date: 2025-01-07T22:21:41.718Z
-updated: 2025-01-12T20:47:02.914Z
+date: 2025-01-15T16:45:55.675Z
+updated: 2025-01-18T17:13:30.560Z
 tags:
   - windows10
   - windows11
@@ -45,19 +45,11 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
  To that end, Windows has provided a plethora of tools under the Vision section. Let's cover all of them individually.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Text Size
 
  Text size does what it says on the tin. It helps you tweak the size of your text all over your PC and apps with a simple adjustment through the slider.
 
  After you've made the changes, make sure you click on **Apply** to save them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Visual Effects
 
@@ -89,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
  Every notification on your Windows stays for a specific amount of time. With **Dismiss notification after this time**, you can tweak the time to increase or decrease it with ease, anywhere from 5 seconds up to 5 minutes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Mouse Pointer and Touch
 
  This tool lets you easily change your mouse cursor's size and style. For instance, you can tweak the pointer character from four different shapes. Alternatively, you can increase or decrease its size as well.
@@ -98,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
  You can toggle on the switch for the Touch indicator, and wherever you touch the screen, you will see an enlarged circle. You can also check the **Make the circle darker and larger** radio box to get things set up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Text Cursor
@@ -114,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
  Alternatively, you can also tweak the cursor's thickness by moving the slider as shown below:
 
 ![text cursor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/text-cursor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Magnifier
 
@@ -138,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
 ![color filters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/color-filters-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can use simple shortcuts like **Windows key logo + Ctrl + C** to turn color filters on or off.
 
 ### 7\. Contrast Themes
@@ -162,12 +158,16 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
  In brief, the Narrator helps you navigate web pages and documents by reading your screen text on your screen aloud. We have a [detailed guide that covers everything about Narrator on your PC](http://https://www.makeuseof.com/beginners-guide-windows-narrator/). You can learn all things about Narrator from the linked guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Guide to Windows' Audio-Based Tools
 
  The second section of Accessibility tools, Hearing, helps you use your device easily even if you face hearing impairments. First, let's look at the first tool, that covers audio of your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Audio
 
@@ -183,10 +183,6 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 2. Flash the active window
 3. Flash the entire screen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Captions
 
  Captions is another boon for users with hearing impairments. But even if you have perfect hearing, using subtitles can enhance your user experience; this will be particularly true if you're trying to learn a new language through watching movies or other videos, where watching subtitled videos can boost your learning process.
@@ -196,7 +192,7 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
  You will also get to choose how your caption style looks. Simply select the caption style from White on black, Small caps, Large text, Yellow on blue. If you'd like to add more variation, click on **Edit** to choose the new settings for Text, Background, or Window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Interaction
@@ -207,19 +203,23 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
  Toggle on the Voice access tool to do things on your PC—all with your voice. And while you're at it, you can toggle on the **Start voice access** after you sign in to your PC switch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Keyboard
 
  The keyboard accessibility section is about making it easier to make the most out of your keyboard on Windows.
 
  From turning on specific keys and shortcuts for various keys to other valuable settings like the On-screen keyboard, Underline access keys, etc.—the Keyboard section is what you're looking for if you want to make the most out of your keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Mouse
 
  Like the keyboard above, the Mouse tool is about improving your mouse's accessibility to all users. Toggle on the **Mouse keys** switch, and you will find a host of settings such as Mouse key speed, Mouse keys acceleration, etc.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## All About Accessibility Tools on a Windows PC
 
@@ -239,16 +239,24 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-become-audio-prodigy-installing-vrecorder-made-ahead/"><u>[New] 2024 Approved Become Audio-Prodigy - Installing VRecorder Made Ahead</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-grid-layout-geniuses-for-photo-perfection/"><u>[New] Grid Layout Geniuses for Photo Perfection</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-content-perfecting-videos-on-instagram/"><u>[Updated] Elevate Your Content Perfecting Videos on Instagram</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ace-your-workflow-efficient-redo-keys-on-windows/"><u>Ace Your Workflow: Efficient Redo Keys on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-administrative-control-settings-in-windows-11-devices/"><u>Addressing Administrative Control Settings in Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/backup-and-recovery-for-windows-note-apps/"><u>Backup & Recovery for Windows Note Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-windows-in-a-chip-size-world/"><u>Best Windows in a Chip Size World</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/missing-video-functionality-in-sony-a6400/"><u>Missing Video Functionality in Sony A6400</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-error-0x80004005-a-complete-walkthrough/"><u>Step-by-Step Solution for Error 0X80004005 - A Complete Walkthrough</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719370971554-xbox-not-responding-unfreeze-and-get-back-in/"><u>Xbox Not Responding? Unfreeze and Get Back In!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-preserve-your-favorite-tracks-from-youtube-safely-and-for-free/"><u>[New] 2024 Approved How to Preserve Your Favorite Tracks From YouTube Safely & for Free</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-action-cam-audio-winners-in-a-nutshell/"><u>[Updated] 2024 Approved Action Cam Audio Winners in a Nutshell</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-uncovering-the-value-of-video-selfies-on-insta/"><u>[Updated] 2024 Approved Uncovering the Value of Video Selfies on Insta</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-script-to-screen-youtube-tutorial-and-alternative-pathways-for-2024/"><u>[Updated] From Script to Screen YouTube Tutorial & Alternative Pathways for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-premium-mobile-experience-with-best-gb-emulators-for-2024/"><u>[Updated] Premium Mobile Experience with Best GB Emulators for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-realme-narzo-60-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Realme Narzo 60 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-ipad-lineup-compared-an-authoritative-chart-for-everyone/"><u>Best iPad Lineup Compared: An Authoritative Chart for Everyone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decode-wacatacbml-symptoms-and-solutions-for-windows-malware-woes/"><u>Decode Wacatac.B!ml: Symptoms & Solutions for Windows Malware Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-life-with-premium-windows-software/"><u>Enhance Life with Premium Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-hide-or-block-other-wi-fi-networks-on-windows/"><u>How to Hide or Block Other Wi-Fi Networks on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-visual-revolution-integrating-3d-effects-into-your-photoshop-layouts/"><u>In 2024, A Visual Revolution Integrating 3D Effects Into Your Photoshop Layouts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-realme-c51-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Realme C51 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-zerox-error-at-keyboard-input/"><u>Overcoming Windows 11'S Zerox Error at Keyboard Input</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-operation-requirements-and-error-740-on-windows-11/"><u>Quick Fixes for Operation Requirements and Error 740 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-and-fixing-windows-discord-query-mechanism/"><u>Streamlining and Fixing Windows' Discord Query Mechanism</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-clean-slate-three-methods/"><u>The Ultimate Windows Clean Slate: Three Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-win11-potential-installing-powertoys/"><u>Unlock Win11 Potential - Installing PowerToys</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tile-viewing-cycle-and-catch-up-with-youtube-videos-on-tv/"><u>Versatile Viewing Cycle and Catch Up with YouTube Videos on TV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-visual-frontier-understanding-and-using-hdr-effectively/"><u>Windows 11'S Visual Frontier: Understanding and Using HDR Effectively</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhancing Folder Context Menus on Windows 10/11
-date: 2025-01-06T00:24:35.489Z
-updated: 2025-01-12T23:39:04.557Z
+date: 2025-01-17T16:02:11.694Z
+updated: 2025-01-18T16:58:55.185Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 ![The value data for the Move to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/an-edit-string-window.jpg)
 5. Select**OK** to set the new value for the (Default) string.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Exit the Registry Editor.
 
  You can now try out the new**Move to folder** option on the context menu. Press the**Explorer** taskbar button to view the Windows file manager. Right-click a file and select the new**Move to folder** option. You’ll need to select**Show more options** \>**Move to folder i** n Windows 11.
@@ -53,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
  A small Move Items window will then appear from which you can select a destination folder. Choose a folder to move the file to in that window. Then click**Move** to place the file in the selected directory.
 
 ![The Move Items window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/move-items-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Copy to Folder Context Menu Option
 
@@ -65,16 +73,12 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 ![The Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option-1.jpg)
 5. Select**Copy to folder** and double-click its**(Default)** string.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Enter the value**{C2FBB630-2971-11D1-A18C-00C04FD75D13}** inside the**Data** box.  
 ![The value data for the Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-string-window-for-the-copytokey.jpg)
 7. Click the**OK** button to apply the value.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Close the Registry Editor app’s window.
@@ -83,14 +87,10 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
 ![The Copy to folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can remove the "Copy/Move to folder" options from the right-click menu by deleting their registry keys. Open the**ContextMenuHandlers** key location specified in step three for adding a Move to folder context menu option. Right-click the**Copy to folder** or**Move to folder** registry key and select**Delete** . Select**Yes** when prompted to confirm you’re sure about erasing that key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Move and Copy to Folder Context Menu Options With WinBubble
@@ -118,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 ![The Copy to option in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-checkbox.jpg)
 4. Press WinBubble’s**Apply** option when highlighted yellow.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Apply button in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/highlighted-apply-button.jpg)
 5. A WinBubble dialog box window will appear confirming the tweaks have been saved. Click**OK** to close that message.
 
@@ -130,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
  Now look at your new context menu options for copying and moving items to different locations. WinBubble adds them to the classic context menu like the manual registry tweak methods. So, you’ll still need to select**Show more options** or press**Shift** +**F10** to access those options in Windows 11.
 
  You can also utilize WinBubble to remove the "Copy/Move to Folder" options. Uncheck the selected**Move to** and**Copy to** checkboxes on its**General** tab. Click**Apply** to set the new options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Move and Copy Files to Folders With Your New Context Menu Options
 
@@ -150,18 +150,17 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-charting-a-course-to-your-signature-sphere/"><u>[New] 2024 Approved Charting a Course to Your Signature Sphere</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-a-deep-dive-into-youtubes-income-models/"><u>[New] In 2024, A Deep Dive Into YouTube’s Income Models</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-guide-to-mastering-windows-movie-maker-in-w11-for-beginners/"><u>[New] In 2024, Guide to Mastering Windows Movie Maker in W11 for Beginners</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-essentials-of-starting-an-instagram-live/"><u>[New] The Essentials of Starting an Instagram Live</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigating-vlogging-nuances-with-confidence-and-clarity-for-2024/"><u>[Updated] Navigating Vlogging Nuances with Confidence and Clarity for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-ultra-30-camera-a-detailed-examination-by-garmin/"><u>[Updated] The Ultra 30 Camera - A Detailed Examination by Garmin</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/20-tactics-for-disabling-windows-11/"><u>20 Tactics for Disabling Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-tips-to-tell-if-your-pc-needs-restarting/"><u>5 Tips to Tell if Your PC Needs Restarting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-pc-choose-winning-apps-of-2023/"><u>Accelerate Your PC: Choose Winning Apps of 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/amplify-your-keystrokes-typingaid-techniques/"><u>Amplify Your Keystrokes - TypingAid Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-context-menu-functionality-in-windows-11-add-folders/"><u>Enhance Context Menu Functionality in Windows 11 - Add Folders</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-pro-level-color-correction-in-final-cut-pro-for-2024/"><u>New Pro-Level Color Correction in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-rings-rhythm-versus-screen-time-symphony/"><u>The Ring's Rhythm Versus Screen Time Symphony</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-12-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-simple-methods-for-capturing-online-stations-a-guide-by-movavi/"><u>10 Simple Methods for Capturing Online Stations: A Guide by Movavi</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-digital-strategies-through-ai-powered-analytics-partnered-with-cookiebot/"><u>Elevate Digital Strategies Through AI-Powered Analytics - Partnered with Cookiebot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-avi-to-wmv-converter-fast-and-easy-with-movavi/"><u>Free Online AVI to WMV Converter - Fast and Easy with Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-brother-hl-l2350dw-drivers-for-your-printer-free-download/"><u>Get the Newest Brother HL-L2350DW Drivers for Your Printer – Free Download</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-how-to-perfectly-capture-audio-remotely/"><u>In 2024, How to Perfectly Capture Audio Remotely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/les-5-logiciels-libres-les-plus-efficaces-pour-votre-lecteur-de-dvd-sous-windows-et-macos-comparedes/"><u>Les 5 Logiciels Libres Les Plus Efficaces Pour Votre Lecteur De DVD Sous Windows Et macOS Comparedes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tream-elite-top-equipment-for-youtube-content-creators-for-2024/"><u>Livestream Elite Top Equipment For YouTube Content Creators for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-elevate-your-audio-2-fade-infade-out-methods-in-fcp/"><u>New Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-locked-screens-a-guide-to-activating-iphones-landscape-mode-feature/"><u>Overcome Locked Screens: A Guide to Activating iPhone's Landscape Mode Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-de-conversion-avi-a-lineaire-gratuite-avec-videoproc/"><u>Techniques De Conversion AVI À Linéaire Gratuite Avec VideoProc</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-four-reasons-im-saying-no-to-the-iphone-16-pro-and-loving-my-iphone-14-an-in-depth-analysis-by-zdnet/"><u>Top Four Reasons I'm Saying No to the iPhone 16 Pro and Loving My iPhone 14 | An In-Depth Analysis by ZDNET</u></a></li>
 </ul></div>
 

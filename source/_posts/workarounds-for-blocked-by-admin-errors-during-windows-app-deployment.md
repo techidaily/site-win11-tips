@@ -1,7 +1,7 @@
 ---
 title: Workarounds for Blocked by Admin Errors During Windows App Deployment
-date: 2025-01-09T00:10:52.448Z
-updated: 2025-01-12T20:58:45.903Z
+date: 2025-01-13T17:25:30.778Z
+updated: 2025-01-18T17:12:03.871Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,11 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-run-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable the Built-in Windows Admin Account
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  When you’ve activated the account, restart your Windows PC. Then sign in to the newly activated admin account and try installing the software you need from there. Disable the built-in administrator account when you’re done with it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Turn Off UAC (User Account Control)
 
  User Account Control is a security screen that can hinder the installation of programs when set at its highest setting. To ensure UAC isn’t causing any issues with installing software, temporarily turn off User Account Control by selecting its lowest **Never notify** option. You can apply this potential fix by disabling User Account Control with one of the methods in our [guide to turning off UAC](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/).
@@ -54,11 +54,7 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 ![The User Account Control Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-uac-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run or Restart the Windows Installer Service
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 4. Double-click **Windows Installer** to see that service’s property settings.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-window.jpg)
 5. If the service is stopped, click its **Start** button. Or select **Stop** and **Start** to restart Windows Installer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The Windows Installer Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-installer-properties-service-window.jpg)
 6. Select **Apply** \> **OK** to save the Windows Installer service settings.
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 7. Select the policy window’s **Apply** and **OK** options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On top of that, delete software restriction policies. These are the steps for deleting software restriction policies:
@@ -111,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 3. Select the **All users except local administrators** radio button.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Enforcement Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enforcement-properties-window.jpg)
@@ -121,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 6. Enter and execute this command for updating the policy:  
 `gpupdate /force`
 7. Exit the Command Prompt app and restart Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Edit the Installer Registry Key
 
@@ -133,10 +137,6 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 `HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\`
 5. If you can’t see an **Installer** subkey, right-click the **Windows** key and select **New** \> **Key**. Users who can select an existing **Installer** subkey within the **Windows** key can skip through to step seven.  
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-new-key-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Enter **Installer** for the new key’s name.
 2. Right-click the **Installer** key and select **New** \> **DWORD (32-bit) Value**.
@@ -166,16 +166,14 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fullscreen-partnership-how-to-choose-an-mcn/"><u>[New] In 2024, Fullscreen Partnership How to Choose An MCN</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-reviving-your-stream-tackling-facebook-live-glitches-for-2024/"><u>[Updated] Reviving Your Stream Tackling Facebook Live Glitches for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-from-noob-to-pro-making-the-list-of-popular-fb-songs-and-videos/"><u>2024 Approved From Noob to Pro Making the List of Popular FB Songs and Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-guide-to-extend-windows-10-shutdown-duration/"><u>Advanced Guide to Extend Windows 10 Shutdown Duration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/batch-closing-tips-end-all-windows-tasks-simultaneously/"><u>Batch Closing Tips: End All Windows Tasks Simultaneously</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosted-efficiency-with-mouse-gestures-get-set-for-edges-latest-features-win-11/"><u>Boosted Efficiency with Mouse Gestures: Get Set for Edge's Latest Features (Win 11)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/camera-mended-problems-resolved-with-obs/"><u>Camera Mended, Problems Resolved with OBS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dont-pay-a-penny-top-8-driver-update-applications-for-free-in-july-2024/"><u>Don't Pay a Penny: Top 8 Driver Update Applications for FREE in July 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-streaming-media-from-your-mac-to-your-television-with-airplay/"><u>Guide: Streaming Media From Your Mac to Your Television with AirPlay</u></a></li>
-<li><a href="https://win-able.techidaily.com/paladins-stability-hacks-for-smooth-playback-how-to-fix-crashing-issues/"><u>Paladins Stability Hacks for Smooth Playback - How to Fix Crashing Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719338830306-windows-lacks-drive-letters-why-and-how-to-rectify-this-issue/"><u>Windows Lacks Drive Letters: Why and How to Rectify This Issue</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-explore-olden-days-on-facebook-device-friendly-tips/"><u>[Updated] Explore Olden Days on Facebook - Device-Friendly Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-fixing-obs-screen-blackout-problems/"><u>[Updated] Fixing OBS Screen Blackout Problems</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-poco-x6-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Poco X6 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/craft-images-with-orbital-soft-edge-psx-tech/"><u>Craft Images with Orbital Soft Edge PSX Tech</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-your-guide-to-genuine-selfies-on-instagrams-canvas/"><u>In 2024, Your Guide to Genuine Selfies on Instagram's Canvas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nifty-folding-tricks-in-windows-11-for-beginners/"><u>Nifty Folding Tricks in Windows 11 for Beginners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-performance-tracking-improving-system-tray-usage-reports/"><u>Optimize Performance Tracking: Improving System Tray Usage Reports</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-and-kali-linux-combo/"><u>Step-by-Step Guide to Windows & Kali Linux Combo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-opening-mailcalendar-app-in-w11/"><u>Troubleshooting Non-Opening Mail/Calendar App in W11</u></a></li>
 </ul></div>
 

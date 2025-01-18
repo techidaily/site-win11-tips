@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting SnipTool's Unresponsive Commands
-date: 2024-08-08T11:00:00.643Z
-updated: 2024-08-09T11:00:00.643Z
+date: 2025-01-16T17:03:48.436Z
+updated: 2025-01-18T16:27:44.492Z
 tags:
   - windows10
   - windows11
@@ -20,24 +20,33 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
  Is your screenshot-taking career over? Definitely not. There are still some fixes you can try to solve this issue. Read on to learn what to do when your Win + Shift + S shortcut isn't working.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Restart the Computer
 
  It might sound simple, but restarting your computer often solves minor problems. This can help clear out any glitches that may prevent the shortcut from working correctly.
 
  To restart your computer, close any running programs. Now, open the Start menu and choose **Restart** in the list of options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Keyboard
 
  Check the keyboard for any dirt or debris that may obstruct the keys. Clean off dust, crumbs, and other particles with compressed air. Ensure that all the keys are working correctly and that none are stuck or pressed down. If the keys have been damaged or worn down, consider replacing your keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable the Clipboard History
 
  If keyboard dirt and debris are not the issues, you may need to enable the clipboard history feature. This will help you restore any screenshots taken with Win + Shift + S that have been lost.
 
 ![Enable the Clipboard History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-the-clipboard-history.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To enable it, open Settings and navigate to **System** \> **Clipboard**. There, you'll find the toggle for **Clipboard history** – turn it on.
 
@@ -52,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 1. Right-click on Start and select **Settings**.
 2. In the Settings window, navigate to **System** \> **Notifications**.
 3. Under **Notifications from apps and other senders**, scroll down to the bottom and turn on the Snipping Tool notification toggle.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Turn on Snipping Tool Notification Toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-snipping-tool-notification-toggle.jpg)
 
  Once you have enabled this option, press **Win + Shift + S** to take a screenshot. If the shortcut works, you will see a notification that the screenshot is saved to the clipboard.
@@ -67,16 +73,14 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
  You can also use **Win + R** or type **ms-settings:appsfeatures** in the Run dialog box to open Installed apps. From there, you can find the Advanced options for the Snipping Tool.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Reset Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-snipping-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the next page, scroll down to the **Reset** section. Select **Reset** and then click on **Reset** again in the confirmation popup. After resetting the Snipping Tool, check if the Win + Shift + S shortcut works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 6\. Reinstall the Snipping Tool
 
  If resetting doesn't solve the problem, try reinstalling the Snipping Tool. It will resolve any issues you may have with your current installation.
@@ -85,11 +89,12 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
 ![Reset the Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-the-snipping-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the three dots and select **Uninstall**. Now follow the on-screen instructions to complete the process. Once done, download and install a new version of the Snipping Tool from the Microsoft Store app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 7\. Turn on Windows Hotkeys
 
  If your Windows hotkeys are disabled for some reason, the shortcut keys will not work. In such cases, you will need to enable the Windows hotkeys through the group policy editor. Here's how to do it:
@@ -120,9 +125,6 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
  After that, exit the registry editor and restart your computer. Once the system reboots, check if the issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Perform Some Generic Fixes
 
  There are a few general fixes that might help you get the Win + Shift + S keyboard shortcut working. Here's what you need to do:
@@ -133,30 +135,11 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 4. [Run a full scan with your antivirus program](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) and see if it solves the issue.
 5. If the issue still persists, there's a chance that third-party applications are interfering with the Snipping Tool shortcut. In such a case, [try performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). This will temporarily disable all the third-party applications and allow you to check if they were causing the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## Taking Screenshots Is Easy With Shortcut Keys
 
  Keyboard shortcuts provide quick and easy access to different functions on your PC. It allows you to easily switch between applications and perform tasks. There are times, though, when the Win + Shift + S hotkey does not work properly. Hopefully, one of the above methods fixed this issue for you.
 
  Is your screenshot-taking career over? Definitely not. There are still some fixes you can try to solve this issue. Read on to learn what to do when your Win + Shift + S shortcut isn't working.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -164,3 +147,23 @@ Key features:
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unveiling-simple-smooth-gaming-video-editors-for-starters/"><u>[New] 2024 Approved Unveiling Simple, Smooth Gaming Video Editors for Starters</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-expert-guide-to-instagram-video-sizing-for-2024/"><u>[Updated] Expert Guide to Instagram Video Sizing for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-get-into-the-game-starting-an-apple-powered-sports-network/"><u>[Updated] Get Into the Game Starting an Apple-Powered Sports Network</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-revolutionary-software-evolving-the-way-we-record-games/"><u>[Updated] In 2024, Revolutionary Software Evolving the Way We Record Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-must-know-leaders-in-virtual-reality-realm/"><u>[Updated] Must-Know Leaders in Virtual Reality Realm</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-become-a-canvas-connoisseur-with-these-10-tips/"><u>2024 Approved Become a Canvas Connoisseur with These 10 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-default-file-formats-in-ms-office-suite-powerpoint-2016-word-and-excel/"><u>Adjusting Default File Formats in MS Office Suite (PowerPoint 2016, Word & Excel)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-techniques-for-assigning-row-numbers-in-ms-excel-a-step-by-step-guide/"><u>Effective Techniques for Assigning Row Numbers in MS Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-leading-zeros-display-in-microsoft-excel-a-comprehensive-guide/"><u>Ensuring Leading Zeros Display in Microsoft Excel: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-securely-downloading-vlc-media-player-for-free-on-macos/"><u>In 2024, Securely Downloading VLC Media Player for Free on macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-upgrade-to-better-beats-with-these-top-free-analyzers/"><u>In 2024, Upgrade to Better Beats with These Top Free Analyzers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-excel-spreadsheets-into-your-slides-a-step-by-step-guide/"><u>Integrating Excel Spreadsheets Into Your Slides: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-excel-reporting-build-professional-dashboards-for-insightful-analytics/"><u>Master Excel Reporting: Build Professional Dashboards for Insightful Analytics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-fixing-charts-on-excel-sheets-tips-and-tricks/"><u>The Ultimate Guide to Fixing Charts on Excel Sheets – Tips and Tricks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-epson-xp-nterfaces-with-the-newest-printer-drivers-free-download/"><u>Update Your Epson XP-Nterfaces with the Newest Printer Drivers - Free Download</u></a></li>
+</ul></div>
+

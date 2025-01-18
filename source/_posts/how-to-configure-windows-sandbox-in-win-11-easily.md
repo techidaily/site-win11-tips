@@ -1,7 +1,7 @@
 ---
 title: How To Configure Windows Sandbox in Win 11 Easily
-date: 2025-01-05T17:25:18.483Z
-updated: 2025-01-12T22:34:02.483Z
+date: 2025-01-12T17:38:57.013Z
+updated: 2025-01-18T17:31:22.765Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up Windows Sandbox in Windows 11
@@ -47,13 +47,13 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 ![control panel turn windows features on or off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/control-panel-turn-windows-features-on-or-off.jpg)
 4. In the**Turn Windows features on or off dialog** , scroll down and locate**Windows Sandbox.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Check the**Windows Sandbox** option and click**OK** .  
 ![enable Windows sandbox turn windows features on or off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-Windows-sandbox-turn-windows-features-on-or-off.jpg)
 6. Windows will search for the files and install the required dependencies to run Windows Sandbox scenarios. Once the changes are applied, close the Windows features dialog and restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. After the restart, press**Win + S** to open**Windows search.**
 8. Type**sandbox** and click on**Windows Sandbox** from the search result to launch the virtualization tool.
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 ![enable windows sandbox powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-windows-sandbox-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can use the Enable WindowsOptionalFeature command in PowerShell to install Windows Sandbox in Windows. This method is useful if you find the sandbox option greyed out or unable to install it from the Windows Feature dialog.
@@ -83,7 +83,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 ![enable windows sandbox command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-windows-sandbox-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Deployment Image Servicing and Management (DISM) is a command-line utility that facilitates the installation of optional features using the Command Prompt. To install Windows Sandbox, you will need to use the Enable-Feature command in Command Prompt. Here's how to do it.
@@ -98,15 +98,15 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 
 ![Windows Sandbox Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Windows-Sandbox-Open.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now that you have Windows Sandbox installed, you can start using it to test untrusted apps in isolation. To launch the app, press**Win + S** to open**Windows Search** and type**Windows Sandbox.** Click on the app from the search result to open it.
 
  Upon its launch, Windows Sandbox looks like a lightweight version of your Windows machine. You can copy files from your host system or download them from the Internet using the built-in web browser. Any actions you perform in the sandbox will not affect your host system.
 
  Once the testing is complete, close the Sandbox and click**OK** to confirm the action. Unlike a VM, Sandbox will delete all the data (including apps and files) upon exit. So, you'll get a clean, isolated environment running the same Windows OS build as your host machine each time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set Up and Use Windows Sandbox in Windows 11
 
@@ -129,24 +129,15 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-understanding-film-a-beginners-guide-to-essential-shots/"><u>[New] In 2024, Understanding Film A Beginner's Guide to Essential Shots</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigate-hdri-windows-powered-editing-wonders/"><u>[New] Navigate HDRI Windows-Powered Editing Wonders</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-shot-perfecting-made-simple-the-best-cinematic-practices-for-2024/"><u>[New] Shot Perfecting Made Simple The Best Cinematic Practices for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-rated-simulators-unleash-ps3-games-windows/"><u>[New] Top-Rated Simulators Unleash PS3 Games Windows</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-prime-tools-for-pro-video-creation-on-android-windows/"><u>[Updated] 2024 Approved Prime Tools for Pro Video Creation on Android, Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-vs-polaroid-which-video-editor-prevails/"><u>[Updated] GoPro Vs. Polaroid Which Video Editor Prevails?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-how-to-use-youtube-cards-and-annotations/"><u>[Updated] How to Use YouTube Cards and Annotations?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-easy-steps-to-resolve-windows-interface-errors-quickly/"><u>5 Easy Steps to Resolve Windows' Interface Errors Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-quick-guide-temporarily-bypassing-windows-11s-safety-measures/"><u>A Quick Guide: Temporarily Bypassing Windows 11'S Safety Measures</u></a></li>
-<li><a href="https://games-able.techidaily.com/adapting-to-change-how-steams-ai-rules-transform-gaming/"><u>Adapting to Change: How Steam's AI Rules Transform Gaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-install-net-now-demands-from-apps/"><u>Addressing Install .NET Now Demands From Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/arrow-anomalies-unveiled-and-resolved-for-windows-users/"><u>Arrow Anomalies Unveiled and Resolved for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/automated-password-inclusion-in-windows-file-management/"><u>Automated Password Inclusion in Windows File Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blocking-windows-update-messages/"><u>Blocking Windows Update Messages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-real-time-task-tracker-on-windows-11-os/"><u>Boosting Real-Time Task Tracker on Windows 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-ssd-performance-with-windows-and-ssd-fresh/"><u>Boosting SSD Performance with Windows & SSD Fresh</u></a></li>
-<li><a href="https://fox-that.techidaily.com/common-airplay-problems-and-how-to-fix-them-efficiently/"><u>Common AirPlay Problems and How to Fix Them Efficiently</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719314760975-home-run-your-gptclone-on-windows-free-and-easy-with-gpt4all/"><u>Home-Run Your GPTClone on Windows – Free & Easy with GPT4All</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-nord-ce-3-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Nord CE 3 5G Phone without Google Account?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-crafting-compelling-podcast-intro-videos/"><u>[Updated] In 2024, Crafting Compelling Podcast Intro Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-pro-filmmakers-camera-essentials-the-best-10-list/"><u>2024 Approved Pro Filmmaker's Camera Essentials - The Best 10 List</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/agents-at-a-click-agentgpt-deployment-tips/"><u>Agents at a Click: AgentGPT Deployment Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-methods-to-diminish-desktop-window-managers-power-use/"><u>Effective Methods to Diminish Desktop Window Manager's Power Use</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210177784-9781643340838-el-libro-de-la-verdad/"><u>El libro de la verdad | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-low-volume-complaints-in-wireless-audio-equipment/"><u>Fixing Low-Volume Complaints in Wireless Audio Equipment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/inside-look-at-windows-screenplay-halts/"><u>Inside Look at Windows' Screenplay Halts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-wwin-plus-p-non-functionality-in-windows-systems/"><u>Resolve WWin + P Non-Functionality in Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-why-crusader-kings-ii-wont-start/"><u>Resolving the Issue: Why Crusader Kings II Won't Start</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
 </ul></div>
 

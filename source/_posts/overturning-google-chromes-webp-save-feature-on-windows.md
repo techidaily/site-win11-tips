@@ -1,7 +1,7 @@
 ---
 title: Overturning Google Chrome's WebP Save Feature on Windows
-date: 2025-01-10T18:17:24.166Z
-updated: 2025-01-12T17:34:42.379Z
+date: 2025-01-11T17:29:40.055Z
+updated: 2025-01-18T18:37:12.861Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
  So, if Chrome saves images as WebP, then most likely, the website owner is serving images in the WebP format to its visitors so that the website loads faster. But is it possible to stop Chrome from saving images in the WebP format?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Stop Chrome From Saving Images as WebP?
 
  Technically, Chrome doesn't convert the images into WebP when you download them from a website. In fact, images are served in the WebP format by the websites that host them. Therefore, there is no direct way to stop Chrome from saving images as WebP.
@@ -44,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 ## How to Save WebP Images in Other Formats on Chrome
 
  If you regularly download images from the web and don't want them to be downloaded as WebP, here are some workarounds you can try:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Use Save Image as Type Extension
 
@@ -63,14 +63,10 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 ![Selecting the Preferred Format by Navigating to the Save Image as Type Menu to Download Image in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2-Selecting-the-Preferred-Format-by-Navigating-to-the-Save-Image-as-Type-Menu-to-Download-Image-in-Chrome.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The extension supports JPEG, WebP, and PNG formats, so you can download any format you wish. If you are not interested in taking that route, follow the next workaround.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use the Paint App on Windows
 
@@ -90,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
  Although this method doesn't affect image quality in most cases, if quality drops too much for specific images, you should download them in WebP format and then use the Paint app to convert them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Use a Web-Based Image Converter
 
  You can also use a web-based image converter to convert WebP images to other formats, especially if you have already downloaded several WebP images. Among many popular choices, Online Convert is a reliable website for converting WebP images. To learn how to convert images using the image conversion tools offered by Online Convert, follow these steps:
@@ -100,22 +100,14 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 ![Choosing the JPG Format from the Dropdown Menu of Image Converter on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Choosing-the-JPG-Format-from-the-Dropdown-Menu-of-Image-Converter-on-the-Online-Convert-Website.jpg)
 4. Click on **Choose Files** and select the image from your device to upload.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Selecting the Image to Convert by Clicking on the Choose Files Option on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/6-Selecting-the-Image-to-Convert-by-Clicking-on-the-Choose-Files-Option-on-the-Online-Convert-Website.jpg)
 5. Click **Start** once the image has been uploaded.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. After converting the image, click on the **Download** button to download the image.  
 ![Downloading the Image by Clicking on the Download Button on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Downloading-the-Image-by-Clicking-on-the-Download-Button-on-the-Online-Convert-Website.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you'll need to subscribe to Online Covert's premium subscription to perform batch conversions. For free batch conversion, see our guide for [tools that offer free batch conversion and image optimization](https://www.makeuseof.com/tag/10-free-online-batch-image-tools-resize-convert-optimize/).
@@ -124,11 +116,19 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
  If you open a webpage in a browser that does not support WebP format, images will be served in their original format. Thus, if you don't wish to use any of the methods mentioned above, download browsers that do not support the format. You can also use an older version of your default browser that did not previously support the format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can You Open WebP Images on Windows?
 
  Although there is no native way to open WebP images on Windows, as you generally open images in other formats via Windows Photos, there are some workarounds you can use. These workarounds include renaming the file extension, using a third-party app such as ImageGlass, opening them directly in web browsers, or enabling Windows Photo Viewer.
 
  Check out our guide on [opening WebP images on Windows 11](https://www.makeuseof.com/windows-11-open-webp-files/) to learn more about these methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Save WebP Images in Your Desired Format
 
@@ -146,22 +146,24 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-crafting-perfect-youtube-music-sets/"><u>[Updated] 2024 Approved Crafting Perfect YouTube Music Sets</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-basics-of-asmr-video-content/"><u>[Updated] Mastering the Basics of ASMR Video Content</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-navigating-the-snapchat-ecosystem-for-biz-growth/"><u>2024 Approved Navigating the Snapchat Ecosystem for Biz Growth</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-art-of-digital-library-step-by-step-guide-for-your-youtube-saved-playlist/"><u>2024 Approved The Art of Digital Library Step-by-Step Guide for Your YouTube Saved Playlist</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-detailed-look-at-samsung-galaxy-note2eultra-the-future-with-5g-connectivity/"><u>A Detailed Look at Samsung Galaxy Note2eUltra - The Future with 5G Connectivity</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dragon-age-origins-stability-fixes-for-windows-11-no-more-crashes/"><u>Dragon Age: Origins Stability Fixes for Windows 11 - No More Crashes!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-routes-to-your-computers-command-center/"><u>Easy Routes to Your Computer’s Command Center</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-do-windows-downloads-vary-cloud-across-borders-vs-disk-locally/"><u>How Do Windows Downloads Vary: Cloud Across Borders Vs. Disk Locally</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-error-0x80300024-in-windows/"><u>How to Fix Error 0X80300024 in Windows</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-transform-your-stream-embrace-obs-for-youtube-and-twitch/"><u>In 2024, Transform Your Stream Embrace OBS for YouTube & Twitch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-steps-for-delving-into-windows-boot-zone/"><u>Key Steps for Delving Into Windows' Boot Zone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-specific-excel-new-cell-inserts-glitches/"><u>Navigate Through Windows-Specific Excel New Cell Inserts Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-onedrive-failure-in-windows-versions-1011/"><u>Overcoming OneDrive Failure in Windows Versions 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-lost-d3dx939dll-in-modern-windows-11/"><u>Resolving Lost D3DX9_39.dll in Modern Windows 11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-moto-g-power-smashes-expectations-in-depth-analysis-of-stellar-efficiency-and-long-lasting-battery/"><u>The Moto G Power Smashes Expectations: In-Depth Analysis of Stellar Efficiency & Long-Lasting Battery</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/timing-and-frequency-what-is-the-best-day-to-release-a-podcast-in-2024/"><u>Timing & Frequency What Is the Best Day to Release a Podcast, In 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-addressing-sluggish-downloads-on-windows-pcs/"><u>Tips for Addressing Sluggish Downloads on Windows PCs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-adapting-tiktok-for-twitter-posts/"><u>[New] 2024 Approved Adapting TikTok for Twitter Posts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-integrating-music-into-unboxing-videos-a-comprehensible-manual/"><u>[Updated] 2024 Approved Integrating Music Into Unboxing Videos A Comprehensible Manual</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-chill-peaks-2022-winter-games-moments/"><u>[Updated] Chill Peaks 2022 Winter Games Moments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-end-scene-excellence-your-guide-to-yt-outro-mastery/"><u>[Updated] In 2024, End Scene Excellence Your Guide to YT Outro Mastery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mobile-mastery-high-shots-with-your-smartphone/"><u>2024 Approved Mobile Mastery High Shots with Your Smartphone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargue-e-importe-archivos-gratis-desde-jpg-a-png-con-convertidor-de-imagenes-online-movavi/"><u>Descargue E Importe Archivos Gratis Desde JPG a PNG Con Convertidor De Imágenes Online - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-online-mov-to-3gp-converter-vrije-gratis-software-door-movavi/"><u>Gratis Online MOV-to-3GP Converter - Vrije Gratis Software Door Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-intel-iris-plus-g6-graphics-suite-supporting-win-10-and-win-11-systems/"><u>Latest Intel Iris Plus G6 Graphics Suite Supporting Win 10 and Win 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-m4a-online/"><u>Movavi: M4A 파일을 구속없이 원활한 Online 조정 - 제공 비용</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-ultimate-guide-to-optimizing-your-obs-setup-for-professional-quality-streaming/"><u>Movavi's Ultimate Guide to Optimizing Your OBS Setup for Professional Quality Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-m4b-m/"><u>Movavi를 사용한 무료 온라인 M4B, M</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/samsungs-rise-in-artificial-intelligence-fuels-growth-on-tech-innovators-list-while-google-faces-antitrust-challenges-insights/"><u>Samsung's Rise in Artificial Intelligence Fuels Growth on Tech Innovators List, While Google Faces Antitrust Challenges - Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-missing-pieces-of-apple-vision-pro-top-two-apps-you-wont-find-on-the-revolutionary-device-revealed-zdnet/"><u>The Missing Pieces of Apple Vision Pro – Top Two Apps You Won’t Find on the Revolutionary Device Revealed | ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/oadmap-to-engaging-youtube-trailers-through-filmora/"><u>The Roadmap to Engaging YouTube Trailers Through Filmora</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-12-playermp3-di-file-audio-liberi-e-ottimizzati-per-windows-and-mac/"><u>Top 12 PlayerMP3 Di File Audio Liberi E Ottimizzati Per Windows & Mac</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-rated-dvd-player-laptops-of-2024-including-embedded-hardware/"><u>Top Rated DVD Player Laptops of 2024: Including Embedded Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-file-flac-in-m4a-online-gratuitamente-con-convertitore-di-movavi/"><u>Trasforma I File Flac in M4A Online Gratuitamente Con Convertitore Di Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cr2-tiff-movavi/"><u>컴퓨터에서 무료 CR2 포트라이트를 TIFF로 전환하는 방법 - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4trp-movavi/"><u>オンラインで簡単に変換！MP4ファイルを無料のTRPコードに - Movavi</u></a></li>
 </ul></div>
 

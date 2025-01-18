@@ -1,7 +1,7 @@
 ---
 title: "Mastering PowerShell: A Key for Administrators"
-date: 2024-08-08T10:59:32.452Z
-updated: 2024-08-09T10:59:32.452Z
+date: 2025-01-12T17:52:16.560Z
+updated: 2025-01-18T17:04:26.175Z
 tags:
   - windows10
   - windows11
@@ -22,10 +22,11 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
 ## 1\. List All User Accounts
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![list all user accounts with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/list-all-user-accounts-with-net-user.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Before you start managing user accounts with **net user**, it helps to know all the user accounts on your computer. To list them all, [open Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/), enter the below command, and hit the **Enter** key to run it:
 
@@ -33,9 +34,17 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
  Keep the names you see in mind, as you will need them as you use the **net user** command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Show All the Information of a User Account
 
 ![user account details while using net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/user-account-details-while-using-net-user.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also bring up all the important information about a user by simply typing the **net user** command followed by the name of the user's name. Here's the basic syntax:
 
@@ -46,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 `net user Jack`
 
  Once you run the command, you'll be able to see, the user's full name, when their password expires, when they last logged in, whether they're an administrator, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Add and Delete a User Account
 
@@ -65,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
 ## 4\. Enable and Disable a User Account
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![deactivating an account with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/deactivating-an-account-with-net-user.jpg)
 
  If there's a user you wish to temporarily restrict so they can't access their account, you can simply disable it instead of deleting it. Here's the basic syntax of that action, making sure to use the **/active:no** switch at the end of the command to tell **net user** you're disabling it:
@@ -91,9 +100,6 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
  If you want to enable an account on a domain, just use the **/active:yes** switch in the above command structure instead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Set User Account Login Times
 
  If you want to specify the times someone can log in, you can use the **/time** parameter to specify the account login times. You can use the basic syntax below:
@@ -112,9 +118,6 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
  Now Jack can go back to logging in whenever he wants.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Set User Account Expiry Date
 
 ![setting an account expiriation date with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-an-account-expiriation-date-with-net-user.jpg)
@@ -143,14 +146,8 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
  Again this has to be a local domain user account for this to work. So, if you [changed the user account from a Microsoft account to a local account](https://www.makeuseof.com/how-to-switch-windows-from-microsoft-account-to-local-account/), you'll need to switch it back to use the command.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 10\. Set a Password Policy for Users
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![setting an account policy with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-account-policy-with-net-user.jpg)
 
  If you need a particular user to change the password during their next login, you can use the **net user** command along with the **/passwordchg:yes** parameter (by default, the parameter is **/passwordchg:no**). Here's the basic syntax:
@@ -164,8 +161,9 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
  So, the next time Jack logs into the computer, he will get a prompt asking him to change his password before he can access his user account.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11\. Set a Home Directory for Users
 
  When creating a new user profile using **net user**, you can set the home directory, which is where Windows will store the user's personal files and settings. By default, Windows places the home directory of each user account in **This PC > Local Disk (C:) > Users**. To change this with **net user** during account creation, the basic syntax is as follows:
@@ -179,8 +177,9 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
  The above command will place the home directory of **Jack**, as it creates the account, in the **D:\\Other Users\\Jack** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Take Control of Your Computer's Users Accounts With the Net User Command
 
  Net user is a simple command to understand, allowing you to effectively manage your accounts from one location: Command Prompt. Of course, we haven't covered everything here, as there are too many parameters and switches to cover in a single guide.
@@ -189,11 +188,31 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
  In this guide, we're going to show you how to use the net user command to perform various actions on user accounts on a Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-elevate-zoom-audio-clarity-with-strategic-effective-tweaks/"><u>[New] 2024 Approved Elevate Zoom Audio Clarity with Strategic, Effective Tweaks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps-for-2024/"><u>[New] Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-how-to-edit-youtube-videos-in-adobe-premiere/"><u>[Updated] 2024 Approved How to Edit YouTube Videos in Adobe Premiere</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-drone-racing-guide-and-5-top-fpv-uavs/"><u>[Updated] Comprehensive Drone Racing Guide & 5 Top FPV UAVs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-deciding-audio-platforms-podcasts-or-youtube/"><u>[Updated] In 2024, Deciding Audio Platforms Podcasts or YouTube?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-synergy-of-social-media-embedding-linktree-in-your-tiktok-bio/"><u>2024 Approved Synergy of Social Media Embedding Linktree in Your TikTok Bio</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-thriving-in-the-economy-of-youtube-shorts-the-ultimate-guide/"><u>2024 Approved Thriving in the Economy of YouTube Shorts – The Ultimate Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-new-username-assignments-in-windows-11-edition/"><u>Conquering New UserName Assignments in Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-the-install-failed-disconnect-for-win-11-discord/"><u>Correcting the 'Install Failed' Disconnect for Win 11 Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-to-the-code-how-to-fix-keystrokes-in-win10/"><u>Key to the Code: How to Fix Keystrokes in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-hurdles-restoring-access-to-notepad/"><u>Navigating Through Windows' Hurdles: Restoring Access to Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-your-windows-11-control-panel/"><u>Overhauling Your Windows 11 Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-error-code-0xc1900101-in-windows-11-update/"><u>Remedying Error Code 0XC1900101 in Windows 11 Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-game-persona-a-comprehensive-update-guide-for-riot/"><u>Transform Your Game Persona: A Comprehensive Update Guide for Riot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-stuck-on-size-errors-in-win11-discord-with-ease/"><u>Troubleshooting Stuck-On-Size Errors in Win11 Discord with Ease</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-make-a-flv-photo-slideshow/"><u>Updated 2024 Approved How to Make a FLV Photo Slideshow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-arm-installation-iso-file-journey/"><u>Windows 11 ARM Installation: ISO File Journey</u></a></li>
+</ul></div>
+

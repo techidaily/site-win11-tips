@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows: How to Run SFC Command"
-date: 2025-01-09T17:43:45.526Z
-updated: 2025-01-12T18:26:54.169Z
+date: 2025-01-14T18:30:34.490Z
+updated: 2025-01-18T18:02:56.711Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
  If you’re unfamiliar with operating system files, please read our guide on[what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our[beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Happens After I Run the System File Checker?
 
  After the System File Checker completes its scan, it will display a message in the Command Prompt window with the results.
@@ -49,10 +53,14 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other SFC Commands You Can Run on Windows
@@ -68,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 | /offwindir  | Run this command to tell the SFC which folder in the directory — the one you specified with the**SFC /offbootdir** command — contains Windows. For example, enter**/offwindir=e:\\windows** to tell the System File Checker that Windows is on the**E:** drive.                   |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Run an Offline SFC Scan on Windows
@@ -83,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
  That above command will tell SFC to look for Windows in the**Windows** folder on the**D:** drive. But keep in mind that the Windows version on the bootable media needs to be the same as the one installed on your PC for the scan and repair to be successful.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Find the SFC Log File On Windows
 
  After the SFC does its thing, it will log the results of the scan and any repairs it made into a text file called**CBS.log** . To open it, press**Win + R** to open Windows Run, enter the below text, and click**OK** :
@@ -98,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 ![cbs log file on Windows that has been opened in Notepad with the SR tag part showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cbs-log-sfc-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t want to bother with searching through the**CBS.log** file for the entries with the**\[SR\]** tag, you can extract them to a file called**sfcdetails.txt** . To do that, open Command Prompt as an administrator, and run the below command:
@@ -118,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 `/offlogfile=[offline log file path]`
 
  Just replace**offline log file path** in the square brackets with the actual path you want to store the offline log file in the offline directory. Then, insert this entire command after the**/windir** command when running an offline SFC scan.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Running the System File Checker, Demystified
 
@@ -144,19 +144,24 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-wipe-out-facebook-story-desktopmobile-tips/"><u>[New] In 2024, Wipe Out Facebook Story Desktop/Mobile Tips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-easy-obs-youtube-live-streaming-guide/"><u>[Updated] In 2024, Easy OBS YouTube Live Streaming Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-masterful-motivational-webcast-maker-for-2024/"><u>[Updated] Masterful Motivational Webcast Maker for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/11-ways-to-open-the-control-panel-on-windows/"><u>11 Ways to Open the Control Panel on Windows</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-crafting-a-resume-that-shines-in-design-industry/"><u>2024 Approved Crafting a Resume that Shines in Design Industry</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-file-management-with-seamless-multi-folder-crafting-on-windows-pcs/"><u>Accelerate File Management with Seamless Multi-Folder Crafting on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-directx-update-problems-in-windows-os/"><u>Addressing DirectX Update Problems in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-taskbar-icon-glitches-in-win-108/"><u>Addressing Taskbar Icon Glitches in Win 10/8</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-tactics-for-superior-windows-navigation-eliminating-ls/"><u>Advanced Tactics for Superior Windows Navigation: Eliminating LS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/antivirus-alert-7-significant-windows-functions-under-scrutiny/"><u>Antivirus Alert: 7 Significant Windows Functions Under Scrutiny</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ver-the-7-most-popular-video-apps-for-iphones-and-android-live-streaming-for-2024/"><u>Discover The 7 Most Popular Video Apps for iPhones & Android Live Streaming for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-samsung-galaxy-z-flip-6-availability-pricing-release-milestones-and-feature-breakdown/"><u>Discover the Samsung Galaxy Z Flip 6 - Availability Pricing, Release Milestones & Feature Breakdown</u></a></li>
-<li><a href="https://win-forum.techidaily.com/simplified-windows-registry-modification-edit-delete-and-create-with-revo-uninstaller/"><u>Simplified Windows Registry Modification: Edit, Delete & Create with Revo Uninstaller</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-the-astro-a40-microphone-issue/"><u>Troubleshooting Tips: Fixing the Astro A40 Microphone Issue</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-affordable-audio-capture-tools-ranked-1-to-10-for-2024/"><u>[New] Affordable Audio Capture Tools Ranked #1 to #10 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-beginners-guide-to-iphone-video-capture/"><u>[New] In 2024, Beginner's Guide to Iphone Video Capture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/asus-bw-16d1x-u-blu-ray-burner-analysis-elegant-design-and-minor-imperfections/"><u>Asus BW-16D1X-U Blu-Ray Burner Analysis: Elegant Design & Minor Imperfections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-blank-game-listings-on-windows-with-discord/"><u>Fixing Blank Game Listings on Windows with Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-a-device-which-does-not-exist-was-specified-error-in-windows-11-and-11/"><u>How to Fix the “A Device Which Does Not Exist Was Specified” Error in Windows 11 & 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-90-by-fonelab-android-recover-music/"><u>How to restore wiped music on 90</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-90-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor 90 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/m3-macbook-pro-upgrade-experience-seamless-multi-display-support-just-as-the-air-version/"><u>M3 Macbook Pro Upgrade: Experience Seamless Multi-Display Support Just as the Air Version!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mouseclicklock-a-guide-to-smoother-windows-navigation/"><u>Mastering MouseClickLock: A Guide to Smoother Windows Navigation</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/melodious-memories-capturing-songs-in-your-snaps/"><u>Melodious Memories Capturing Songs in Your Snaps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-entry-not-found-error-in-windows/"><u>Quick Fix for Entry Not Found Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-steam-auth-timeout-in-rust/"><u>Quick Fix for Steam Auth Timeout in Rust</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tests-verifying-webcam-and-microphone-on-windows-pcs/"><u>Quick Tests: Verifying Webcam & Microphone on Windows PCs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-complete-checklist-for-youtubes-resolution-width-and-height-settings-for-2024/"><u>The Complete Checklist for YouTube's Resolution, Width & Height Settings for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essential-manual-on-motion-detection-techniques-for-2024/"><u>The Essential Manual on Motion Detection Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-impact-of-ignoring-win-11-notification-pushes/"><u>The Impact of Ignoring Win 11 Notification Pushes</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/why-does-your-gpu-keep-failing-uncover-the-reasons-with-yl-computing/"><u>Why Does Your GPU Keep Failing? Uncover the Reasons with YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/window-wonders-find-the-best-8-video-trimmer-apps-here/"><u>Window Wonders: Find the Best 8 Video Trimmer Apps Here</u></a></li>
 </ul></div>
 

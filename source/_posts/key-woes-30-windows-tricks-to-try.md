@@ -1,7 +1,7 @@
 ---
 title: Key Woes? 30 Windows Tricks to Try
-date: 2025-01-10T17:43:31.179Z
-updated: 2025-01-13T02:05:09.601Z
+date: 2025-01-11T17:55:41.271Z
+updated: 2025-01-18T17:21:47.197Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart Your Computer
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227
  Restarting your computer is the first and simplest method to try when your arrow keys are not working. This can often resolve minor software glitches that might be causing the issue.
 
  Before you restart, make sure to save any open documents or projects so that you don’t lose your progress.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the Hardware and Devices Troubleshooter
 
@@ -52,6 +48,10 @@ msdt.exe -id DeviceDiagnostic
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 
  After you complete the above steps, restart your computer and check if the arrow keys are now working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Keyboard Troubleshooter
 
@@ -70,10 +70,6 @@ msdt.exe -id DeviceDiagnostic
 
  Connect the new keyboard to your computer and check to see if the arrow keys are now working. If yes, it means that your original keyboard was damaged and needs to be replaced.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Update the Keyboard Driver
 
  Another possible cause of the arrow keys not working problem is outdated or corrupted drivers. To make sure that this isn’t causing the issue, you should update the keyboard drivers. Here's how to do it.
@@ -85,10 +81,14 @@ msdt.exe -id DeviceDiagnostic
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 5. Choose**Search automatically for drivers** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait until the process is complete, then restart your computer. After the restart, check if the arrow keys are now working. If not, reinstall the keyboard driver and see if it works.
@@ -101,7 +101,7 @@ To reinstall the keyboard driver, follow these steps:
  After you uninstall it, restart your computer and the driver will be reinstalled automatically. Once your computer restarts, check if the arrow keys are now working.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Arrows on the Keyboard Are Now Working
@@ -123,22 +123,24 @@ To reinstall the keyboard driver, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-future-of-mobile-photography-with-xiaomis-mi-11/"><u>[New] The Future of Mobile Photography with Xiaomi's Mi 11</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-zero-cost-strategies-for-engaging-youtube-intros/"><u>[Updated] Zero-Cost Strategies for Engaging YouTube Intros</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-crucial-modifications-to-revolutionize-the-windows-11-taskbar/"><u>6 Crucial Modifications to Revolutionize the Windows 11 Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-strategies-for-resetting-your-windows-screen-backlight/"><u>7 Strategies for Resetting Your Windows Screen Backlight</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-seamless-shift-from-windows-11s-default-pin-logon-to-traditional-password-method/"><u>A Seamless Shift From Windows 11'S Default PIN Logon to Traditional Password Method</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-screen-projection-not-working-window-glitch/"><u>Addressing Screen Projection Not Working Window Glitch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/altering-windows-wallpaper-a-fresh-look-every-day/"><u>Altering Windows Wallpaper: A Fresh Look Every Day</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bitguard-compromised-continue-now-not-tomorrow/"><u>BitGuard Compromised: Continue Now, Not Tomorrow</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-kernel-data-inpage-error-solved/"><u>Blue Screen of Death: Kernel Data Inpage Error Solved</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-counter-strike-performance-a-frame-rate-guide/"><u>Boosting Counter-Strike Performance: A Frame Rate Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-13-pro-max-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 13 Pro Max Storage Not Loading/Showing | Stellar</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Huawei Nova Y71? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-tips-for-a-swift-checkup-of-your-youtube-sign-in/"><u>In 2024, Tips for a Swift Checkup of Your YouTube Sign-In</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mastering-iphone-hdr-imaging-techniques/"><u>Mastering iPhone HDR Imaging Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719353749292-navigate-compatibility-hurdles-with-easy-to-follow-steps/"><u>Navigate Compatibility Hurdles with Easy-to-Follow Steps.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-perils-of-using-ai-for-obtaining-windows-11-keys/"><u>The Perils of Using AI for Obtaining Windows 11 Keys</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-amd-radeon-r9-driver-stability-restored/"><u>Win10: AMD Radeon R9 Driver Stability Restored</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-decoding-youtube-income-how-much-does-each-1000-viewer-earn-in-2024/"><u>[New] Decoding YouTube Income How Much Does Each 1,000 Viewer Earn, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-deep-dive-into-an-individuals-3dr-experience-for-2024/"><u>[Updated] A Deep Dive Into an Individual's '3DR' Experience for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-monitor-mastery-understanding-the-benefits-of-ultrawide-vs-uhd-4k/"><u>[Updated] Monitor Mastery Understanding the Benefits of UltraWide vs UHD 4K</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/build-your-mark-affordable-logo-creation-with-tailored-templates/"><u>Build Your Mark Affordable Logo Creation with Tailored Templates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-speaker-malfunctions-on-a-windows-10-machine/"><u>Diagnosing and Repairing Speaker Malfunctions on a Windows 10 Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicate-entryways-four-slick-steps-to-disable-a-user-on-win11/"><u>Eradicate Entryways: Four Slick Steps to Disable a User on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-data-recovery-offer-immediate-access-and-assurance/"><u>Exclusive Data Recovery Offer: Immediate Access & Assurance</u></a></li>
+<li><a href="https://common-error.techidaily.com/geforce-experience-wont-launch-heres-how-you-can-get-it-working-again/"><u>GeForce Experience Won't Launch? Here’s How You Can Get It Working Again!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-make-the-taskbar-bigger-or-smaller-on-windows-11/"><u>How to Make the Taskbar Bigger or Smaller on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-nokia-c300-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Nokia C300</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-tell-fake-instagram-followers-fast-and-free/"><u>How to Tell Fake Instagram Followers (Fast and Free)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-driver-verifier-via-control-panel-on-w11/"><u>Launching Driver Verifier via Control Panel on W11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-malfunctioning-huion-pen-fast-and-easy-fixes/"><u>Revive Your Malfunctioning Huion Pen: Fast and Easy Fixes!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-tasks-with-mspcm-toolbar-in-windows-11/"><u>Streamlining Tasks with MSPCM Toolbar in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-non-microsoft-tools-for-immediate-and-accurate-screen-sniping/"><u>Top Non-Microsoft Tools For Immediate and Accurate Screen Sniping</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-correcting-the-windows-cannot-install-service-packs-problem-in-windows-10-error-0x800705b4/"><u>Troubleshooting Tips: Correcting the 'Windows Cannot Install Service Packs' Problem in Windows 10 (Error 0X800705b4)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-service-management-on-windows-11/"><u>Unlock the Full Potential of Service Management on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/update-windows-11-admin-credentials-quickly/"><u>Update Windows 11 Admin Credentials Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-for-outlook-malfunctions/"><u>Winning Strategies for Outlook Malfunctions</u></a></li>
 </ul></div>
 

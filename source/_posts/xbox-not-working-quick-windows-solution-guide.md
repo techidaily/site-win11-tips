@@ -1,7 +1,7 @@
 ---
 title: "Xbox Not Working: Quick Windows Solution Guide"
-date: 2024-08-08T11:03:15.290Z
-updated: 2024-08-09T11:03:15.290Z
+date: 2025-01-11T16:31:45.784Z
+updated: 2025-01-18T16:26:02.958Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 2. Select**Time & language** from the left pane.
 3. Click on**Date and time** .
 4. Enable the toggle next to**Set time automatically** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Set Date and Time Automatically on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Set-Date-and-Time-Automatically-on-Windows-11.jpg)
 
 Restart the Xbox app after this and see if it works fine.
@@ -50,8 +47,13 @@ Restart the Xbox app after this and see if it works fine.
 ![Sign Out of Xbox App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Sign-Out-of-Xbox-App.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Reinstall the Gaming Services App
 
  The Gaming Services app on Windows facilitates the installation of games through the Windows Store. If the Gaming Services app is having problems, the Xbox app may redirect you to the Microsoft Store when you try to launch a game or display the error code 0x00000001.
@@ -65,11 +67,12 @@ Restart the Xbox app after this and see if it works fine.
 `get-appxpackage Microsoft.GamingServices | remove-AppxPackage -allusers`
 5. Run the following command to open the Gaming Services app page in Microsoft Store.  
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reinstall Gaming Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Reinstall-Gaming-Services-App.jpg)
 6. Click the**Install** button to download the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Restart your PC](https://www.makeuseof.com/windows-restart-methods/) after this and try to use the Xbox app again.
 
@@ -83,14 +86,8 @@ To run the Windows Store Apps troubleshooter:
 2. In the**System** tab, click on**Troubleshoot** .
 3. Select**Other troubleshooters** .
 4. Click the**Run** button next to**Windows Store Apps** and follow the on-screen prompts to run the troubleshooter.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Repair or Reset Xbox App
 
  If the Windows Store Apps troubleshooter fails to find any issues, you can try to repair the Xbox app manually via the Settings app. Note that this process will delete all the app data.
@@ -109,8 +106,9 @@ To repair the Xbox app on Windows:
  If any Windows apps begin to misbehave in the future, check out[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for similar steps.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Update the Xbox App
 
  If you haven't updated Xbox app in a while, you could encounter problems while using it. Plus, using an outdated version of the Xbox app also causes you to miss out on the latest features. Hence, it’s always a good idea to enable automatic app updates on Windows or learn[how to update Windows apps](https://www.makeuseof.com/update-apps-windows-11/) manually. Alternatively, you can update the Xbox app manually from the Microsoft Store.
@@ -120,6 +118,10 @@ To repair the Xbox app on Windows:
  While you are at it, we’d also recommend you install any pending Windows updates. To do so, open the**Settings** app and head over to the**Windows Update** section. Click the**Check for updates** button and install any pending system updates on your computer. Following this, the Xbox app should work fine.
 
 ![Windows Update Tab in Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Check-for-Updates-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Leave the Xbox Insider Program
 
@@ -133,30 +135,25 @@ To leave the Xbox Insider Program:
 4. Click**Manage** .
 5. Click the**Leave preview** button.
 6. Select**Continue** when prompted.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Leave Xbox Insider Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Leave-Xbox-Insider-Program.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart the Xbox app after this and try to use it again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Troubleshooting the Xbox App on Windows
 
  Hopefully, one of the methods mentioned above has fixed the Xbox app, and you can now access your favorite titles again. However, if none of the solutions work, you can reinstall the Xbox app as a last resort.
 
  On another note, if the Xbox app is not displaying notifications on Windows, you may want to fix that too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -165,4 +162,23 @@ Restart the Xbox app after this and try to use it again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-how-to-get-more-likes-on-your-tiktok-unboxing-video-in-2024/"><u>[Updated] How to Get More Likes on Your TikTok Unboxing Video, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-harness-the-timeless-secret-transfer-files-to-your-phone-with-a-classic-technique/"><u>1. Harness the Timeless Secret: Transfer Files to Your Phone with a Classic Technique</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-blueprint-for-stellar-unboxing-videos-on-tiktok/"><u>2024 Approved The Blueprint for Stellar Unboxing Videos on TikTok</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-silent-slack-alerts-a-win-11-strategy-guide/"><u>Enhance Silent Slack Alerts: A Win 11 Strategy Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-the-password-reset-counter-in-windows-11-and-11-after-fails/"><u>Fine-Tuning the Password Reset Counter in Windows 11 and 11 After Fails</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-upholding-windows-system-time-standards/"><u>Guidelines for Upholding Windows System Time Standards</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-content-makers-compensation-breakdown-for-youtube-shorts/"><u>In 2024, Content Makers' Compensation Breakdown for YouTube Shorts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-12-mini-to-mac-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 12 mini to Mac? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-unveiling-text-integration-techniques-for-digital-pictures/"><u>In 2024, Unveiling Text Integration Techniques for Digital Pictures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-your-usb-active-disabling-hibernation-in-win-11/"><u>Keep Your USB Active: Disabling Hibernation in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-lost-power-options-in-ws-11-interface/"><u>Reviving Lost Power Options in WS 11 Interface</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-fix-csgo-frame-rate-drop-problems/"><u>Solved! How to Fix CS:GO Frame Rate Drop Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-methods-for-naming-and-arranging-window-writings-max-156/"><u>Streamlined Methods for Naming and Arranging Window' Writings (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-off-sound-boosters-in-windows-settings/"><u>Turn Off Sound Boosters in Windows Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-potential-on-app-and-browser/"><u>Unlocking Windows' Potential on App & Browser</u></a></li>
+</ul></div>
 

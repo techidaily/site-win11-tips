@@ -1,7 +1,7 @@
 ---
 title: Overcoming Unchangeable Power Settings in Win11
-date: 2025-01-06T20:34:16.587Z
-updated: 2025-01-13T01:07:14.783Z
+date: 2025-01-15T17:31:30.905Z
+updated: 2025-01-18T16:14:06.929Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 
  Now that we know what can cause the problem, let's look at what you can do to solve it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Change the Power Plan
 
  The first thing we recommend you do is switch to a different power plan, especially if you are using a custom power plan. We suggest shifting to the Balanced plan and checking if that fixes the issue. This plan optimizes the performance automatically. This means it will activate the full performance mode when you are actively using the computer and switch to the power-saving mode when you are not.
@@ -47,22 +51,27 @@ Here is how you can proceed:
 ![Click on Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/large-icons-control-panel.jpg)
 4. Now, look for**Power options** and click on it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
 5. You should now be able to see your current power plan. Click on**Create a power plan** in the left pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once done, check if you can now change the power mode successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Power Troubleshooter
 
@@ -78,16 +87,8 @@ Here is how you can run the troubleshooter:
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
 
@@ -114,10 +115,6 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 ![Choose the Select an active power plan policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-an-active-power-plan.jpg)
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
 Hopefully, this will resolve the issue.
@@ -129,6 +126,10 @@ Hopefully, this will resolve the issue.
  The restore points represent a point in time when the system was in a certain state, and by choosing one, you can return the system to that point in time.
 
  In this case, you can choose a state where the current issue is not present.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Switch Power Modes Easily
 
@@ -151,14 +152,20 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-optimal-quality-hd-screening-units-for-2024/"><u>[New] Optimal Quality HD Screening Units for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-revamping-your-tiktok-videos-a-comprehensible-guide-for-new-borders-for-2024/"><u>[New] Revamping Your TikTok Videos A Comprehensible Guide for New Borders for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-the-fix-for-xbox-game-pass-error-0-on-windows-11-pcs/"><u>Breaking Down the Fix for Xbox Game Pass Error 0 on Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breatenticating-healthy-windows-and-dotnet-status-max-156/"><u>Breatenticating Healthy Windows & DotNet Status (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-incompatibility-with-latest-windows-version/"><u>Bypassing Incompatibility with Latest Windows Version</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cant-use-the-program-compatibility-troubleshooter-on-windows-try-these-fixes/"><u>Can't Use the Program Compatibility Troubleshooter on Windows? Try These Fixes</u></a></li>
-<li><a href="https://win-trending.techidaily.com/guia-abrangente-para-conjunto-de-continuous-backups-e-boas-praticas/"><u>Guia Abrangente Para Conjunto De Continuous Backups E Boas Práticas</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/mastering-fast-video-filming-on-tiktok/"><u>Mastering Fast Video Filming on TikTok</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-your-social-media-presence-top-25-hashtags-for-instagram-mastery-for-2024/"><u>[Updated] Elevate Your Social Media Presence Top 25 Hashtags for Instagram Mastery for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-expert-techniques-for-zoom-enhanced-videoleap-capture/"><u>2024 Approved Expert Techniques for Zoom-Enhanced Videoleap Capture</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-final-cut-pro-everything-you-need-to-know/"><u>2024 Approved Final Cut Pro – Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-download-now/"><u>7 - Download Now!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-overview-of-the-netgear-wireless-range-extender-ac120amplifies-your-internet-experience-ex6200/"><u>Comprehensive Overview of the Netgear Wireless Range Extender AC120amplifies Your Internet Experience (EX6200)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desativar-sua-fala-os-melhores-metodos-para-silenciar-seu-vocal-online-em-apenas-11-passos/"><u>Desativar Sua Fala: Os Melhores Métodos Para Silenciar Seu Vocal Online Em Apenas 11 Passos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-top-13-best-youtube-to-mp3-converters-in-202/"><u>Discover the Top 13 Best YouTube to MP3 Converters in 202</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-facil-de-pesar-a-pasos-como-desenfocar-videos-en-linea/"><u>Guía Fácil De Pesar a Pasos: Cómo Desenfocar Videos en Línea</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gunstige-online-konvertierung-von-webm-zu/"><u>Günstige Online-Konvertierung Von Webm Zu</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-free-image-converter-convert-orf-files-to-jpeg-movavi/"><u>Online Free Image Converter: Convert ORF Files to JPEG - Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-complete-japanese-greeting-handbook/"><u>The Complete Japanese Greeting Handbook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-14-free-branding-software-picks-for-pc-professional-logo-design-tools/"><u>Top 14 Free Branding Software Picks for PC - Professional Logo Design Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-mystery-11-ways-to-restore-missing-ringtones-on-iphones/"><u>Unlocking the Mystery: 11 Ways to Restore Missing Ringtones on iPhones</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-make-stunning-animated-videos-with-these-10-free-whiteboard-tools-for-windows-and-mac-for-2024/"><u>Updated Make Stunning Animated Videos with These 10 Free Whiteboard Tools for Windows and Mac for 2024</u></a></li>
 </ul></div>
 

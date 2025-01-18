@@ -1,7 +1,7 @@
 ---
 title: Increase Your Productivity in Windows With Flow Launcher
-date: 2024-08-08T11:03:11.429Z
-updated: 2024-08-09T11:03:11.429Z
+date: 2025-01-13T18:06:32.150Z
+updated: 2025-01-18T17:06:30.732Z
 tags:
   - windows10
   - windows11
@@ -29,14 +29,19 @@ Here's how to get the most from this popular productivity tool.
 ![the flow launcher installation steps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-install.jpg)
 3. If your chosen hotkey fails to register, it means it is already in use by another app or service. You'll need to pick an alternative one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With the setup complete, you're almost ready to begin using Flow Launcher to get things done more efficiently. But before you do, it is worth changing a few settings. Right-click the Flow Launcher icon in the system tray and choose**Settings** .
 
  In the**General** tab, uncheck the box next to**Hide Flow Launcher when focus is lost** . This stops the search box from automatically closing when not in use. You can still hide and reveal the box using the hotkey you set up earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![Editing the flow launcher settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also change the number of results shown in the search box when you begin typing. Ranging from the default 5 to as many as 17\. Showing 8-10 search results should be the most efficient amount for most people.
 
@@ -46,9 +51,6 @@ Here's how to get the most from this popular productivity tool.
 
  If you are looking for even more ways to[improve productivity in Windows](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) , we have some helpful ideas.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Launch Apps With Flow Launcher
 
  Flow Launcher makes it easy to search for and open almost anything, including apps. No need to hunt through the Start Menu apps list; just search, click, and open.
@@ -59,27 +61,12 @@ Here's how to get the most from this popular productivity tool.
 
 ![launching an app with Flow Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-searchapp.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Search Files More Effectively
 
  Flow Launcher is brilliant for searching your PC. It manages to find everything Windows Search can find, but displays results in a much less cluttered and much more efficient way.
 
  Type in the Flow Launcher window to begin searching. Results are displayed with an icon next to the title to make it easy to tell what it is. It can find apps, files, settings, images, and more. You can then click on the result you want to open or press the displayed keyboard shortcut.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![searching for files in flow launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-searchfiles.jpg)
 
  If Flow Launcher fails to find a file, app or setting on your computer that matches, it will instead offer a Google search for the query. Clicking this will open a new tab in your default browser for the Internet search.
@@ -93,7 +80,15 @@ Here's how to get the most from this popular productivity tool.
 
 ![searching for directories in flowlauncher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-searchdirectory.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you start using Flow Launcher, you might see a result such as**Allow Web Searches Plugin** . This will activate an existing plugin available within Flow Launcher. You can also download and install extra plugins from the store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Extra Features With Flow Launcher Plugins
 
@@ -106,29 +101,24 @@ Here's how to get the most from this popular productivity tool.
 5. The plugin will be added to the plugin list, where you can enable and disable it as required.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Uninstalling Flow Launcher
 
  If you installed Flow Launcher onto your PC, you can uninstall it in the same way you would any other app. Check out our guide on[how to uninstall programs on Windows](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) if you need some help with this.
 
  Of course, if you decided to use Flow Launcher in portable mode, you won't need to uninstall it. If you are using the utility in this mode, it is worth enabling the**Portable Mode** option in the settings. This ensures that all search data and settings are stored in a single folder, making this data equally portable.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Improve Productivity in Windows With Flow Launcher
 
  Flow Launcher is an outwardly simple tool that might have you wondering why you need another search box. But dig a little deeper, and you should quickly see how powerful and helpful it can be. If you are looking for ways to improve your productivity in Windows 10 or 11 this is a brilliant place to start.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +127,24 @@ Here's how to get the most from this popular productivity tool.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-masterclass-in-capturing-video-frames/"><u>[New] In 2024, Masterclass in Capturing Video Frames</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-video-game-chroniclers-essential-checklist-for-2024/"><u>[New] The Video Game Chronicler’s Essential Checklist for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-amplify-focus-on-the-little-things-with-videoleap-zoom/"><u>[Updated] In 2024, Amplify Focus on the Little Things with VideoLeap Zoom</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-5-methods-for-capturing-sound-in-windows-11/"><u>[Updated] Top 5 Methods for Capturing Sound in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-steps-to-enlist-your-email-on-privacy-oriented-whois-databases/"><u>Comprehensive Steps to Enlist Your Email on Privacy-Oriented Whois Databases</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-7-important-points-to-think-about-before-buying-a-cutting-edge-smart-tv/"><u>Discover 7 Important Points to Think About Before Buying a Cutting-Edge Smart TV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-with-android-tablet-multi-display/"><u>Enhancing Windows 11 with Android Tablet Multi-Display</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-audio-techniques-capturing-clear-sound/"><u>Essential Audio Techniques Capturing Clear Sound</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-troubleshoot-and-resolve-ue4-engine-issues-in-back-4-blood/"><u>How to Troubleshoot and Resolve UE4 Engine Issues in Back 4 Blood</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-strategies-for-tackling-directdraw-glitches-on-windows-1011/"><u>Key Strategies for Tackling DirectDraw Glitches on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-cortana-experience-with-data-export/"><u>Reclaim Your Cortana Experience with Data Export</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/social-blades-role-in-deciphering-the-dynamics-of-youtube-statistics-for-2024/"><u>Social Blade's Role in Deciphering the Dynamics of YouTube Statistics for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-downtines-for-your-w11-gadgets-automated-shutdown-style/"><u>Tailored Downtines for Your W11 Gadgets, Automated Shutdown Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-route-for-entering-your-appshub-on-windows-11/"><u>The Ultimate Route for Entering Your AppsHub on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-strategies-when-windows-firewall-holds-steady/"><u>Top Strategies When Windows Firewall Holds Steady</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-unnoticed-windows-11-advantages-for-savvy-users/"><u>Top Unnoticed Windows 11 Advantages for Savvy Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-fortification-7-measures-against-illicit-entry/"><u>Windows Fortification: 7 Measures Against Illicit Entry</u></a></li>
+</ul></div>
 

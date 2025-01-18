@@ -1,7 +1,7 @@
 ---
 title: "Curbing CPU Fatigue: Adjusting the Workload of Vanguard's Sleep Service"
-date: 2024-08-08T11:01:38.955Z
-updated: 2024-08-09T11:01:38.955Z
+date: 2025-01-11T17:53:21.763Z
+updated: 2025-01-18T17:29:47.662Z
 tags:
   - windows10
   - windows11
@@ -47,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
  To change the priority of Vanguard-related processes, go to the **Details** tab, right-click on the **vgc.exe** or any other process, and select **Low** from the **Set Priority** menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change the Priority of the Vanguard User Mode Service Process in the Set Priority Menu in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-set-the-vanguard-user-mode-service-process-a-low-priority-in-the-set-priority-menu-in-windows-task-manager.jpg)
 
  If you choose the latter option to control CPU resource consumption, right-click on the same process and choose **Efficiency mode**.
@@ -57,29 +54,25 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 ![Enable the Efficiency Mode of Vgc in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-go-to-efficiency-mode-of-vgc-in-windows-task-manage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Change the Processor Affinity
 
  The processor affinity setting in Task Manager allows you to limit the number of processors a process can use. Using this setting, you can instruct the process to use only a few processors while leaving others free. In general, the fewer processors a process is permitted to use, the lower its overall resource consumption will be.
 
  In light of that, changing the processor affinity for the Vanguard process may resolve the issue at hand. To do that, right-click the **vgc.exe** or any other process you want to change the affinity for, then click **Set affinity**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![Click on Set Affinity Option of Vgc exe in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/5-click-on-set-affinity-option-of-vgc-exe-in-windows-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here, uncheck the boxes besides most of the **CPUs** and keep only a few of them checked.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Disable Unnecessary CPUs From Processor Affinity Settings in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-disable-unnecessary-cpus-from-processor-affinity-settings-in-windows-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Stop the Vanguard Service and Restart It
 
  You may also be able to fix the high CPU resource usage of the Vanguard user-mode service by stopping and starting the Vgc service. Follow these steps to do that:
@@ -88,15 +81,19 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 2. Locate the **Vgc** service, right-click on it, and hit **Properties**.  
 ![Go to Properties of Vgc Service in Windows Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-go-to-properties-of-vgc-service-in-windows-services-app.jpg)
 3. Navigate to the **General** tab, and click on the **Stop** button.
-4. After that, restart the service by clicking on the **Start** button again.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. After that, restart the service by clicking on the **Start** button again.  
 ![Stop the Vgc Service in the General Tab of Properties Window in Windows Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/8-stop-the-vgc-service-in-the-general-tab-of-properties-window-in-windows-services-app.jpg)
 5. Also, choose **Automatic** from the dropdown menu next to **Startup type**.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Choose Automatic From the Dropdown Menu Next to Startup Type in General Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/9-choose-automatic-from-the-dropdown-menu-next-to-startup-type-in-general-tab-of-properties-window.jpg)
 
 ## 6\. Disable Third-Party Overlays
@@ -110,13 +107,18 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 ![Check the Assigned Hotkey Under Toggle Overlay Lock in the Discord's Game Overlay Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-check-the-assigned-hotkey-under-toggle-overlay-lock-in-the-discord-s-game-overlay-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Move Valorant to a Different Drive
 
  Installing Valorant on the same drive as your operating system has been reported to cause problems. If you've also installed the game on the same drive where your OS resides, it's possible that Windows security could be hindering Vanguard's activity, making it consume more resources.
 
  To ensure that's not the case, you should move Valorant to a different drive. Not sure how to do that? Refer to our guide on [how to move the installed apps and programs in Windows 10 or 11.](https://www.makeuseof.com/tag/move-installed-apps-programs-windows-10/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Install a Fresh Copy of Vanguard
 
@@ -124,12 +126,13 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
  Once that's done, follow the instructions in our [guide on uninstalling software on Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and uninstall Vanguard. Afterward, rerun Valorant and Riot Vanguard will be installed automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![installing riot vanguard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/installing-riot-vanguard-1.jpg)
 
  Valorant and other Riot Games products require Vanguard to function. If Valorant (or any other game) fails to install Vanguard on its own after uninstallation, restart your device once and then run the game again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Don't Let Vanguard Overstress Your CPU
 
@@ -139,11 +142,31 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
  If you want to reduce the CPU usage of the Vanguard user-mode service process and play Valorant seamlessly, here are some fixes you can try.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-navigating-the-best-practices-for-fb-video-advertising/"><u>[New] 2024 Approved Navigating the Best Practices for FB Video Advertising</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-guide-for-youtube-video-clips-for-2024/"><u>[New] Essential Guide for YouTube Video Clips for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210221023-9781506471204-dimming-the-day-evening-meditations-for-quiet-wonder/"><u>Dimming the Day: Evening Meditations for Quiet Wonder | Free Book</u></a></li>
+<li><a href="https://fox-info.techidaily.com/dynamic-duo-of-dialogue-for-podcasters-for-2024/"><u>Dynamic Duo of Dialogue For Podcasters for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-access-issues-with-nvidia-cp/"><u>Fixing Windows Access Issues with NVIDIA CP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-the-most-of-jdk-steps-for-windows-11-users/"><u>Making the Most of JDK: Steps for Windows 11 Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-rated-free-dailymotion-video-converter/"><u>New 2024 Approved Top-Rated Free Dailymotion Video Converter</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restarting-the-difficulty-of-launching-photoshop-in-modern-oses/"><u>Restarting the Difficulty of Launching Photoshop in Modern OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-seamless-play-eliminate-windows-xbox-error/"><u>Restoring Seamless Play: Eliminate Windows Xbox Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-demos-winning-keyboard-cars-for-windows-pc/"><u>Speed Demos: Winning Keyboard Cars for Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-thought-process-adopting-visually-organized-notetaking-via-obsidian-canvas/"><u>Streamline Your Thought Process: Adopting Visually Organized Notetaking via Obsidian Canvas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-bypassing-no-permission-windows-errors/"><u>Techniques for Bypassing 'No Permission' Windows Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-best-7-note-taking-tools-for-apples-ipad-series/"><u>The Ultimate List: Best 7 Note-Taking Tools for Apple's iPad Series</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-tunes-simplified-control-with-the-new-sonos-s2-app-yet-beware-of-hidden-drawbacks-explored-by-tech-guru/"><u>Unleashing the Power of Tunes: Simplified Control with the New Sonos S2 App, Yet Beware of Hidden Drawbacks Explored by Tech Guru</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-purpose-does-the-windows-bt-directory-serve/"><u>What Purpose Does the Windows ~BT Directory Serve?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-smart-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Smart 8 Pro | Dr.fone</u></a></li>
+</ul></div>
+

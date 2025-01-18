@@ -1,7 +1,7 @@
 ---
 title: Understanding and Utilizing Windows 11'S Restore Procedures
-date: 2024-08-08T11:04:05.904Z
-updated: 2024-08-09T11:04:05.904Z
+date: 2025-01-11T17:12:23.806Z
+updated: 2025-01-18T16:19:03.526Z
 tags:
   - windows10
   - windows11
@@ -18,22 +18,23 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
 
  System Restore comes in handy when you land in trouble after installing an app or an update that wrecks your PC. Windows creates restore points and automatically deletes them to make way for new ones. System Restore prevents you from straight away resorting to other recovery methods like reset or Windows reinstallation that can affect your data and apps. Here are eleven ways to launch this reliable tool on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Using Start
 
  The Start menu is the most frequent means to access apps and Windows tools. The improved search integration and app launch tracking displays the apps and settings that you access most of the time. Repeat the following steps:
 
 1. Press the **Win** key to open the Start menu.
 2. Type **System Restore** and press the **Enter** key. Then click on the **Open System Restore** button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![Open System Restore Using Start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-start.jpg)
 3. Click on the **Next** button to view and choose from the list of available options.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Using Control Panel
 
  Control Panel contains all Windows tools and settings, which makes it easy to find them. Even the Windows search points to the Control Panel window of Recovery options. Here’s how to do it:
@@ -41,9 +42,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Press the **Win** key, type **Control Panel**, and then press the **Enter** key.
 2. Click on the **View by:** drop-down list and select the **large icons** option.
 3. Now, click on the **Recovery** option.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open System Restore Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-control-panel.jpg)
 4. Lastly, click on the **Open System Restore** button.
 
@@ -54,9 +52,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Press the **Win** key, type **sysdm.cpl**, and press the **Enter** key.
 2. Now, switch to the **System Protection** tab.
 3. Click on the **System Restore** button to launch the tool.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![Open System Restore Using Advanced System Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-advanced-system-properties-window.jpg)
 
 ## 4\. Using Settings App
@@ -69,17 +64,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![Open System Restore Using Settings App-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-settings-app-1.jpg)
 4. Now, click on the **Open System Restore** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Using the Run Dialog Box
 
  The Run dialog box supports shortcodes which allow you to access an application faster (provided you know the correct ones). You can even open file locations using this tool. Repeat the following steps:
 
 1. Press **Win + R** to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Type **rstrui** in the text box.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open System Restore Using Run Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-run-dialog-box.jpg)
 2. Click on the **OK** button to open the System Properties tool.
 
@@ -90,15 +79,17 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Press the **Win** key, type **rstrui**, and click on the **Open file location** option in the right pane.
 2. Find the **rstrui.exe** app in the folder and right-click on it. Select the **Show more options** from the context menu.
 3. Click on the **Pin to taskbar** option.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open System Restore Using Pinned Taskbar Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-pinned-taskbar-shortcut.jpg)
 4. A System Restore icon will appear on the Taskbar. You can alter its position on the Taskbar by clicking and dragging it in either direction.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Using the Task Manager
 
  If the [Control Panel app won't open on your Windows PC](https://www.makeuseof.com/fix-control-panel-wont-open/), you can use the Task Manager to launch the System Restore utility. Here’s how:
@@ -106,9 +97,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Press the **Ctrl + Shift + Esc** keys at once to [open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/).
 2. Click on the **Run new task** button.
 3. Type **rstrui.exe** and click on the **OK** button to launch the System Restore tool.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open System Restore Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-task-manager.jpg)
 4. Close the Task Manager window.
 
@@ -119,11 +107,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Press **Win + E** to [open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/).
 2. Go to the top area and click on the address bar. Paste the following path and press the **Enter** key: **C:\\Windows\\System32**
 3. Click on the search bar and type **rstrui** and press the **Enter** key to search.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open System Restore Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-file-explorer.jpg)
 4. Double-click on the **rstrui.exe** file to open the tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Using CMD or PowerShell
 
@@ -133,7 +122,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Now type the following command in the terminal and press the Enter key: **rstrui.exe**  
 ![Open System Restore Using CMD or PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-cmd-or-powershell.jpg)
 3. Alternatively, you can use the **start-process** cmdlet in PowerShell to launch the tool: **start-process rstrui**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Close the Command Prompt or PowerShell window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Using a Desktop Shortcut
 
@@ -158,21 +156,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 3. Go to the Shortcut key field. You can map a combination beginning with **Ctrl + Alt +** keys. Others are reserved for system shortcuts and you cannot use them.
 4. Press the **Ctrl + Alt + S** keys at once to assign the combination. You can use any other key in place of the “**S**” key.
 5. Click on the **Apply** button and then click on the **OK** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![Open System Restore Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-keyboard-shortcut.jpg)
 6. Switch to the desktop or any other window and press the assigned key combination. System Restore utility will pop up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Access System Restore Quickly
 
  System Restore is an essential aspect that is a lifesaver when you install apps and modify system settings and want to go back. Now, you know multiple methods to launch the tool. The keyboard shortcut key combination is our favorite because you don’t need to interact with anything on the screen.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -180,3 +173,17 @@ No advertising on the website.
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/rafting-thumbnails-on-the-go-for-aspiring-mobile-film-makers/"><u>[New] Crafting Thumbnails on the Go For Aspiring Mobile Film Makers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-push-past-filmora-discover-the-best-tablets-for-visual-excellence/"><u>[Updated] Push Past Filmora - Discover the Best Tablets for Visual Excellence</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-subscriber-supreme-ranked-global-youtube-personalities-by-numbers/"><u>2024 Approved Subscriber Supreme Ranked Global YouTube Personalities by Numbers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/device-disconnection-remedy-with-dxgi-error-solution/"><u>Device Disconnection Remedy with DXGI Error Solution</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/essential-guide-upgrading-older-scan-device-parts-with-ease-insights-from-yl-computing-and-software/"><u>Essential Guide: Upgrading Older Scan Device Parts with Ease - Insights From YL Computing & Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/glitch-free-windows-try-these-10-fixes-first/"><u>Glitch-Free Windows? Try These 10 Fixes First</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-huawei-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Huawei Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-sudden-screen-darkening-in-windows-gaming/"><u>Mitigating Sudden Screen Darkening in Windows Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smarter-operating-systems-ais-role-in-windows-revolution/"><u>Smarter Operating Systems: AI's Role in Windows Revolution</u></a></li>
+</ul></div>
+

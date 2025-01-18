@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Network Prompts: Comprehensive Steps in Windows OS"
-date: 2024-08-08T11:03:58.711Z
-updated: 2024-08-09T11:03:58.711Z
+date: 2025-01-14T16:18:03.417Z
+updated: 2025-01-18T17:07:47.803Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/3a0ddaab1602f9aac9589130fbb24dc40e59a2711
 
  Below, we discuss the common causes of this problem alongside the troubleshooting methods you can try to fix this issue once and for all.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Disable the NCSI Probe From Windows Registry
 
  In most cases, the "Action Needed" prompt appears when there are corporate Wi-Fi networks with multiple endpoints available. This prompt is associated with the Network Connectivity Status Indicator (NCSI) feature, which verifies the network connection and internet access.
@@ -39,19 +36,17 @@ thumbnail: https://thmb.techidaily.com/3a0ddaab1602f9aac9589130fbb24dc40e59a2711
 4. Inside the Registry Editor, navigate to the location below:  
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet
 5. Move to the right pane and right-click on the **EnableActiveProbing** value.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![EnableActiveProbing key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-active-probing-key.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Type 0 in the text field for Value data and click **OK**.
 2. Now, navigate to the following location:  
 HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 3. Move to the right side and right-click on an empty space.
 4. Choose **New** \> **DWORD (32-bit) Value** and rename it as **NoActiveProbe**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![NoActiveProbe key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/no-active-probe.jpg)
 5. Double-click on this newly created value and change its value data to 1\.
 6. Now, create another value the same way and name it as DisablePassivePolling.
@@ -74,13 +69,14 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 5. Select **Internet Communication Management** \> **Internet Communication Settings** and click on **Turn off Windows Network Connectivity Status Indicator active tests**.  
 ![Network connectivity test policy in GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/network-connectivity-test-policy.jpg)
 6. Checkmark the box with **Enabled** and click **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Next, head over to the following location:  
 ​​​​​​​​​​​​​​Computer Configuration\Administrative Templates\Network
 8. Select **Network Connectivity Status Indicator** \> **Specify passive polling**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![Specify passive polling policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/specify-passive-polling-policy.jpg)
 9. Choose **Enabled** and click **Apply** \> **OK** to save the changes.
 10. Close the Group Policy Editor and restart your computer.
@@ -88,8 +84,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Hopefully, upon reboot, the issue will no longer appear.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Internet Connection Troubleshooter
 
  If the scenarios we have discussed above do not apply to you, you might also be facing the problem because of a temporary glitch in the system. In this case, you can run the internet connection troubleshooter. This is a built-in utility that scans your system for underlying related issues. If a problem is identified, it will either fix it for you or suggest a solution that you can apply automatically.
@@ -117,20 +114,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![Choose what the power button does option of Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-what-the-power-button-does.jpg)
 5. Choose **Change settings that are currently unavailable** and navigate to the Shutdown settings option.
 6. Uncheck the box associated with **Turn on fast startup (recommended)**.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Fast Startup on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fast-startup-on-windows.jpg)
 7. Click on the **Save changes** button and exit Control Panel. Check if the issue is now resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Try These Additional Generic Fixes
 
  If the specific fixes we have listed above have not worked for you, there are some additional fixes related to the network errors in Windows that you can try.
 
  These include updating the network drivers, re-enabling your wireless network adapter, installing the latest system updates, and resetting the network configurations on your computer. Our guide on[how to fix common Windows network errors](https://www.makeuseof.com/not-connected-any-networks-error-windows/) discusses all of these in detail, so you can head over there for step-by-step instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing Network Connections in Windows Made Easy
 
@@ -140,11 +139,31 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Below, we discuss the common causes of this problem alongside the troubleshooting methods you can try to fix this issue once and for all.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-iphone-night-photography-tips-take-night-photos-with-iphone/"><u>[New] IPhone Night Photography Tips Take Night Photos with iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-leading-vr-gear-for-drone-operators-for-2024/"><u>[New] Leading VR Gear for Drone Operators for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-turn-on-or-off-comments-on-youtube/"><u>[Updated] How to Turn on or Off Comments on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-driving-engagement-and-visibility-effective-strategies-for-fb-video-marketing/"><u>2024 Approved Driving Engagement and Visibility Effective Strategies for FB Video Marketing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-sequences-a-movie-maker-approach-to-animation/"><u>Crafting Sequences A Movie Maker Approach to Animation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/did-upgrading-to-windows-11-break-the-windows-subsystem-for-linux-try-these-fixes/"><u>Did Upgrading to Windows 11 Break the Windows Subsystem for Linux? Try These Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-and-fortify-your-windows-configuration-interface/"><u>Fix and Fortify Your Windows Configuration Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-amplify-safety-extending-pin-length-on-win11-devices/"><u>How to Amplify Safety: Extending Pin Length on Win11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-the-compatibility-checker-in-windows-11/"><u>How to Use the Compatibility Checker in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-ai-text-talk-like-you-training-steps/"><u>Making AI Text Talk Like You: Training Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-local-sam-service-issues/"><u>Overcoming Local SAM Service Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-system-awakening-alter-boot-timer-for-efficiency/"><u>Swift System Awakening: Alter Boot Timer for Efficiency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-june-2024-savings-at-best-buy-exclusive-offers-featured-by-zdnet/"><u>Top June 2024 Savings at Best Buy - Exclusive Offers Featured by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-your-slate-device-implementing-windows-11s-user-friendly-taskbar/"><u>Transforming Your Slate Device: Implementing Windows 11'S User-Friendly Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/type-faster-techniques-with-typingaid/"><u>Type Faster! Techniques with TypingAid</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/wiederherstellung-von-abgesturzten-powerpoint-dateien-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Von Abgestürzten PowerPoint-Dateien: Schritt-Für-Schritt-Anleitung</u></a></li>
+</ul></div>
+

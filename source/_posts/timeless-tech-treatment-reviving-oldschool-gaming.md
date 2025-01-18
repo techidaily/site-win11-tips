@@ -1,7 +1,7 @@
 ---
 title: "Timeless Tech Treatment: Reviving Oldschool Gaming"
-date: 2025-01-10T17:11:55.587Z
-updated: 2025-01-12T23:59:02.938Z
+date: 2025-01-17T16:29:07.128Z
+updated: 2025-01-18T17:28:17.618Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is DOSBox-X?
 
  DOSBox-X is a fork of the popular DOSBox app that enables a modern PC to run software made for older PCs. As its name states, it's primarily designed for Microsoft's ancient Disk Operating System, or DOS for short.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
  For this article, though, we'll stick to classic DOS games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Download and Install DOSBox-X
@@ -50,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
  Start by downloading the app from [DOSBox-X's official site](https://dosbox-x.com/), then install it or extract it to a folder.
 
 ![DOSBox-X executable in folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-executable-in-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the version you've downloaded, and if you installed or extracted it, you'll either find a shortcut to the DOSBox-X app in the **Windows Start menu**/your **Desktop**, or you'll have to visit its folder with your favorite file manager and double-click **dosbox-x.exe** to launch it.
 
@@ -68,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
 ![DOS ROMs Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dos-roms-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click in your file manager's "path" field/bar, and **copy the full path** to the folder you created to the Clipboard. Now's the time to **run DOSBox-X**, and the first thing you'll see won't be the app but a requester for the folder it should use. "Tell it" (paste with **CTRL** \+ **V**) to use the folder you created in the previous step.
 
 ![DOSBox-X Working Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-working-directory.jpg)
@@ -79,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 ![DOSBox-X Creating DriveC Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-creating-drivec-folder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don't close your file manager yet; now is a good time to "prepare" your games. If you have them in compressed archives, extract your games into individual folders within the **C**/**DriveC** folder.
@@ -88,17 +92,9 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
  With almost all file-related tasks behind us, it's time to configure DOSBox-X for some retro gaming.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Configure DOSBox-X for the Best Experience
 
  DOSBox-X has lots of settings to tweak, so let's get it set up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Setting Up the Directory
 
@@ -106,17 +102,9 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
 ![DOSBox-X Configuration Editor Menu Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-editor-menu-entry.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Instead of manually mounting the folder you created every time you run DOSBox-X, let's have it always available automatically. For that, we'll have to do some classic AutoExec.BAT editing. Thus, choose the last option in the **Configuration Tool**'s panel, **AUTOEXEC.BAT**.
 
 ![DOSBox-X Configuration Tool AutoExec BAT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-autoexec-bat.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll see the currently empty DOSBox-X's **AutoExec**.
 
@@ -132,9 +120,17 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
 ![DOSBox-X Configuration Tool Adding Drive Letter to AutoExec](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-adding-drive-letter-to-autoexec.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click **OK** to accept the changes and return to DOSBox-X's **Configuration Tool** panel. Choose **Render** to configure the way DOSBox-X shows graphics.
 
 ![DOSBox-X Configuration Tool Render Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-render-entry.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To learn more about all available options, click DOSBox's **Help** button.
 
@@ -150,9 +146,17 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
 ![DOSBox-X Configuration Tool Help Aspect Info](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-help-aspect-info.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on the button with the **three dots** on the right of the **Aspect** line, and enable the graphics aspect you'd like to use. Then, click **OK** to accept and enable the setting.
 
 ![DOSBox-X Configuration Tool Configuring Render Aspect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-configuring-render-aspect.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click on **Save** to save all changes. On the new panel that shows up, choose **Use primary config file** and then click on **Save & Restart**.
 
@@ -173,10 +177,6 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
 ![DOSBox-X Dir Virtual C Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-dir-virtual-c-drive.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Let's say you want to launch the classic shareware version of id's genre-defining Doom that you already have in your storage in a folder with the game's name.
 
  Type **cd doom** to "enter" the game's folder.
@@ -187,10 +187,6 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
 ![DOSBox-X Dir Bat Doom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-dir-bat-doom.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you can probably guess from its name, the second one is what you need to launch the game. So, type **run.bat** and press **Enter**.
 
 ![DOSBox-X Doom Selecting Audio System](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-doom-selecting-audio-system.jpg)
@@ -200,6 +196,10 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
  Next step, enjoy blasting some demons in Doom!
 
 ![DOSBox-X Doom Running in Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-doom-running-in-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If manually juggling games in DOSBox-X seems like a hassle, maybe it would be worth checking out a front-end like Launchbox. We saw in the past how you can [import MS-DOS games into Launchbox](https://www.makeuseof.com/how-to-import-ms-dos-games-launchbox/), and after the front-end's initial setup, playing a game will be as easy as selecting it from its menu.
 
@@ -221,14 +221,20 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fb-chronicles-the-hidden-viewer/"><u>[Updated] In 2024, FB Chronicles The Hidden Viewer</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-harness-the-power-of-engagement-in-instagram-videos/"><u>[Updated] In 2024, Harness the Power of Engagement in Instagram Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-repairing-windows-error-0x80040610-in-outlook/"><u>Comprehensive Guide: Repairing Windows Error 0X80040610 in Outlook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shed-light-on-dark-windows-11-desktops-tips-inside/"><u>Shed Light on Dark Windows 11 Desktops - Tips Inside!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-amd-graphics-drivers-update-for-windows-11-pcs/"><u>Step-by-Step AMD Graphics Drivers Update for Windows 11 PCs</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/by-step-to-youtube-fame-excellence-in-music-video-reactions/"><u>Step-by-Step to YouTube Fame Excellence in Music Video Reactions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-soundtrack-to-instagram-fame/"><u>The Soundtrack to Instagram Fame</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrading-ancient-pcs-for-modern-operations-using-windows-to-go-and-rufus/"><u>Upgrading Ancient PCs for Modern Operations: Using Windows To Go and Rufus</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warcraft-3-reforged-pc-crashes-top-5-solutions/"><u>Warcraft 3 Reforged PC Crashes? Top 5 Solutions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-mastering-youtube-notes-and-alerts-implementation/"><u>[New] In 2024, Mastering YouTube Notes & Alerts Implementation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-free-transformation-of-mp4-videos-into-ogv-using-movavis-software/"><u>A Step-by-Step Guide: Free Transformation of MP4 Videos Into OGV Using Movavi's Software</u></a></li>
+<li><a href="https://win-unique.techidaily.com/comprehensive-guide-retrieving-deleted-information-on-a-sony-vaio-computer-system/"><u>Comprehensive Guide: Retrieving Deleted Information on a Sony Vaio Computer System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-ultimate-collection-of-10-costless-mp3-transformers-for-apple-devices/"><u>Discover the Ultimate Collection of 10 Costless MP3 Transformers for Apple Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-screen-capturing-for-gaming-enthusiasts/"><u>Efficient Screen Capturing for Gaming Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-online-conversor-de-video-wmv-e-wma-para-mp4-ferramenta-ampla-do-movavi/"><u>Gratuito Online: Conversor De Vídeo WMV E WMA Para MP4 - Ferramenta Ampla Do Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-realme-10t-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Realme 10T 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-vertical-or-horizontal-facebook-video-tactic/"><u>In 2024, Vertical or Horizontal Facebook Video Tactic</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-xstudio-procedures-reviewed-complete-overview/"><u>In 2024, XStudio Procedures Reviewed Complete Overview</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionary-sound-enhancement-how-lgs-latest-tv-update-delights-apple-fans-exclusive-insight-from-zdnet/"><u>Revolutionary Sound Enhancement: How LG's Latest TV Update Delights Apple Fans - Exclusive Insight From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-how-to-pin-messages-within-your-instagram-chats-for-easy-access/"><u>The Ultimate Tutorial: How to Pin Messages Within Your Instagram Chats for Easy Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-12-screen-recording-apps-explore-the-best-tools-by-movavi/"><u>Top 12 Screen Recording Apps: Explore the Best Tools by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-27-voice-to-text-software-solutions-an-in-depth-review-by-movavi/"><u>Top 27 Voice-to-Text Software Solutions : An In-Depth Review by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforme-sus-musicas-y-peliculas-de-formato-aiff-en-wmv-facilmente-con-nuestro-guia-completa-de-conversion-libre-movavi-explicado/"><u>Transforme Sus Músicas Y Películas De Formato AIFF en WMV Fácilmente Con Nuestro Guía Completa De Conversión Libre: Movavi Explicado</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-devices-on-toms-computer-corner/"><u>Unveiling New Devices on Tom's Computer Corner</u></a></li>
 </ul></div>
 

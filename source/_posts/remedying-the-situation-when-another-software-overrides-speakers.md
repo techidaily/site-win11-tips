@@ -1,7 +1,7 @@
 ---
 title: Remedying the Situation When Another Software Overrides Speakers
-date: 2024-08-08T11:00:21.123Z
-updated: 2024-08-09T11:00:21.123Z
+date: 2025-01-15T18:16:32.850Z
+updated: 2025-01-18T18:08:01.057Z
 tags:
   - windows10
   - windows11
@@ -21,13 +21,11 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
  This is error is often a case of incorrectly configured Windows Audio service. Other times, the audio issue is due to a corrupt audio device driver. Here we show you how to troubleshoot the "this device is being used by another application" error and restore audio on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Run the Windows Audio Troubleshooter
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows 11 settings troubleshoot other troubleshooters playing audio run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-troubleshoot-other-troubleshooters-playing-audio-run.jpg)
 
  Windows has a built-in audio troubleshooter to find and fix issues with playing audio. The troubleshooter looks for common audio issues and tries to fix them automatically.
@@ -58,6 +56,10 @@ To disable Exclusive Mode for the audio device on Windows:
 
  Restart your computer and check if the error is resolved and if the audio device is working again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Change Windows Audio Service Startup Type
 
  Windows Audio service is responsible for managing audio devices connected to your computer. If the service is disabled or not running, your audio device can stop working.
@@ -69,19 +71,22 @@ To change the Windows Audio service Startup type:
 1. Press**Win + R** to open**Run** .
 2. Type**services.msc** and click**OK** to open the**Services** snap-in.
 3. In the**Services** window, locate and double-click on**Windows Audio** service.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![windows audio service properties services snap in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-audio-service-properties-services-snap-in.jpg)
 4. Click the**Startup** type drop-down and select**Automatic** .
 5. Click**Apply** and**OK** to save the changes.  
 ![windows audio service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-audio-service-startup-type-automatic.jpg)
 6. If the service is not running, right-click on**Windows Audio** and select**Start** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Close the Services snap-in and restart your PC. After the restart, your audio device should start working again.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable and Re-Enable the Sound Output Device
 
  You can temporarily disable and re-enable the audio device to fix any glitches causing the device to malfunction. You can[disable the audio device](https://www.makeuseof.com/enable-disable-sound-output-devices-in-windows/) using the Settings app and Device Manager.
@@ -104,9 +109,6 @@ To uninstall your audio device on Windows:
 
  You may see a yellow exclamation mark on the uninstalled audio device. To reinstall the driver, click on**File** and select**Scan for hardware changes** . This should reinstall the sound device and driver. If not, restart your computer. As the system restarts, Windows will reinstall the missing audio device driver and restore sound on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## 6\. Perform a Driver Rollback
 
  If you have an external sound card and have installed an update, try a driver rollback. A new driver update can sometimes create more problems than it intends to fix. You can use the device driver rollback feature in Device Manager to undo the changes and reinstall the older version of the driver.
@@ -117,18 +119,16 @@ To uninstall your audio device on Windows:
 
 ## 7\. Install Pending Windows Updates
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![windows 11 view update history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winodws-11-view-update-history.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If it is a Windows-specific issue, installing pending Windows updates can fix the problem. Check the Windows updates page for newer updates and install them to see if that helps resolve the issue.
 
  To install Windows update, go to**Settings > Windows Update** and click**Check for updates** . Windows will populate the screen with all the pending updates. You can install the updates or selectively install any audio device updates.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Check for Third-Party App Conflict
 
 ![volume mixer windows 11 view audio applications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/volume-mixer-windows-11-view-audio-applications.jpg)
@@ -142,20 +142,18 @@ To uninstall your audio device on Windows:
  To close the app, open the system tray, right-click the app icon, and select**Quit** . You can also force close the app using Task Manager. If the issue persists, uninstall the problematic app to restore the audio to your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the Audio Device in Use By Another Application Error
 
  This error is often the result of an audio device driver problem. To fix the error, check if a new driver is available. If not, perform a rollback to install the previous driver version. Also, disable exclusive application access to audio devices and configure the Windows Audio service to start automatically.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +162,26 @@ To uninstall your audio device on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-price-efficiency-index-top-cloud-stores-of-the-year/"><u>[New] 2024 Approved Price-Efficiency Index Top Cloud Stores of the Year</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-sky-high-creativity-innovative-strategies-for-drone-video-enhancement-for-2024/"><u>[New] Sky-High Creativity Innovative Strategies for Drone Video Enhancement for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-perfect-playlist-placement-techniques-for-youtube-for-2024/"><u>[Updated] Perfect Playlist Placement Techniques for YouTube for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-transform-your-photos-into-masterpieces-with-top-pixlr-techniques-for-2024/"><u>[Updated] Transform Your Photos Into Masterpieces with Top Pixlr Techniques for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-honor-v-purse-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Honor V Purse Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-google-ar-stickers-unveiled-overview-and-options/"><u>In 2024, Google AR Stickers Unveiled Overview & Options</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-nokia-105-classic-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Nokia 105 Classic</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-v30t-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme V30T working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mobility-control-deactivation-in-w11/"><u>Mastering Mobility Control Deactivation in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-guide-to-bypass-ms-teams-error-80080300-on-windows-11/"><u>Mastery Guide to Bypass MS Teams Error 80080300 on Windows 11</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/oplossing-zweefpunten-om-het-missende-outlook-pst-file-in-windows-11-op-te-sporen-en-te-herleven/"><u>Oplossing: Zweefpunten Om Het Missende Outlook PST-File in Windows 11 Op Te Sporen en Te Herleven</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-steams-non-syncing-library-files/"><u>Quick Fix for Steam's Non-Syncing Library Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-eradicating-xbox-service-interruption/"><u>Quick Fixes: Eradicating Xbox Service Interruption</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-powerful-cpu-usage-a-compre-cookie/"><u>Reducing Powerful CPU Usage: A Compre Cookie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-rectifying-white-login-screens-on-win1011-oses/"><u>Steps for Rectifying White Login Screens on Win10/11 OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-22h2-windows-setbacks/"><u>Swift Solutions to 22H2 Windows Setbacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-error-0x0000007b-quick-fixes-for-windows/"><u>Taming Error 0X0000007B - Quick Fixes for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transform-your-display-experience-with-a-new-hdmi-driver-on-windows-11/"><u>Transform Your Display Experience with a New HDMI Driver on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-wisdom-secrets-to-instant-dossiers-creation/"><u>Win11 Wisdom: Secrets to Instant Dossiers Creation</u></a></li>
+</ul></div>
 

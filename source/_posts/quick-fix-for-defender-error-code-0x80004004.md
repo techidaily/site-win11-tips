@@ -1,7 +1,7 @@
 ---
 title: Quick FIX for Defender Error Code 0X80004004
-date: 2025-01-07T20:38:06.211Z
-updated: 2025-01-12T17:50:09.329Z
+date: 2025-01-14T17:57:47.597Z
+updated: 2025-01-18T17:16:00.441Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Understanding the Problem Behind Error Code 0x80004004
 
  The Microsoft Defender error code 0x80004004 occurs when there is an issue with the tool’s functionality, such as when launching the app, trying to update it, or during a scan. When this error occurs, it can cause the following problems:
@@ -44,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 
  Regardless of what might be causing the problem in your case, the solutions we have discussed below are sure to help you fix the problem. Proceed with them one by one to fix the problem once and for all.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart the Microsoft Defender Services
 
  The first thing that we recommend doing is restarting the services that Microsoft Defender relies on to function properly. It's possible that these services may have been disabled by another user or malware on the system, or they may have encountered corruption errors, leading to the problem. Restarting these services can help resolve such issues and get Microsoft Defender back on track.
@@ -61,17 +61,13 @@ Here is how you can do that:
 ![Access Defender properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-defender-properties.jpg)
 5. Now, click on the**Start** button if the service is stopped. If it is functional, click on the**Stop** button, wait for a few seconds, and click**Start** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Make sure the Startup type is set to**Automatic** .
 7. Click**Apply** \>**OK** to save the changes.
 
  Perform the same steps for the Microsoft Defender Firewall service and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uninstall Conflicting Software
@@ -85,11 +81,11 @@ Here is how you can do that:
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Try Some Generic Windows-Based Fixes
@@ -107,6 +103,10 @@ Here is how you can do that:
  If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on[the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
 
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change Your Antivirus Program
 
@@ -133,15 +133,21 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-circumventing-edgenuity-effortlessly-a-students-guide/"><u>[New] Circumventing Edgenuity Effortlessly A Student's Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-to-make-a-stunning-lyric-video-with-lyric-video-maker/"><u>[Updated] 2024 Approved How to Make a Stunning Lyric Video with Lyric Video Maker</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-achieve-excellence-in-fb-video-marketing-essential-free-kit-included/"><u>[Updated] In 2024, Achieve Excellence in FB Video Marketing - Essential FREE Kit Included</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-pixma-mp620-unresponsive-to-win10-drivers/"><u>Canon Pixma MP620 Unresponsive to WIN10 Drivers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/e-audiences-on-all-sides-live-360-degree-video-broadcasting-for-youtube-for-2024/"><u>Engage Audiences on All Sides Live 360-Degree Video Broadcasting for YouTube for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-using-outlook-preview-in-windows-11/"><u>Essential Tips for Using Outlook Preview in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-absence-of-files-notification-on-win-11/"><u>Fixing Absence of Files Notification on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-generate-a-group-policy-report-with-the-gpresult-command/"><u>How to Generate a Group Policy Report With the GPResult Command</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-teams-screen-failures/"><u>Overcoming Teams Screen Failures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-iphone-photography-top-10-visual-arrangement-tips-for-2024/"><u>The Art of iPhone Photography Top 10 Visual Arrangement Tips for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-capture-every-skype-interaction-windows-and-os-x-style/"><u>[New] Capture Every Skype Interaction Windows & OS X Style</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-detailed-review-experience-with-samsungs-sphere-cam-for-2024/"><u>[New] Detailed Review Experience with Samsung's Sphere Cam for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rom-novice-to-expert-ascending-with-asmr-video-production-tactics/"><u>[New] From Novice to Expert Ascending with ASMR Video Production Tactics</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-ultimate-meme-list-social-media-giants-clash/"><u>[New] In 2024, The Ultimate Meme List Social Media Giants Clash</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-techniques-for-uploading-youtubes-on-dailymotion/"><u>[Updated] 2024 Approved Expert Techniques for Uploading YouTubes on Dailymotion</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-vdr-screen-capture-compilation-extensive-guide/"><u>[Updated] 2024 Approved VDR Screen Capture Compilation Extensive Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-optimize-your-online-presence-incorporating-video-filters-in-zoom/"><u>2024 Approved Optimize Your Online Presence Incorporating Video Filters in Zoom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargar-y-convertir-archivos-ogg-a-formato-mp3-sin-coste-guia-de-movavi/"><u>Descargar Y Convertir Archivos OGG a Formato MP3 Sin Coste: Guía De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-converter-from-ts-to-mov-quick-and-easy-with-movavi/"><u>Free Converter From .TS to .MOV - Quick and Easy with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-transforming-mp4-files-into-wma-format-with-movavi/"><u>Free Online Converter: Transforming MP4 Files Into WMA Format with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-mkv-format-conversion-effortless-by-movavi/"><u>Free Online MKV Format Conversion - Effortless by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-convertidor-de-archivos-mpeg-a-aiff-en-linea-con-movavi-ejecute-la-migracion-gratis/"><u>Gratuito Convertidor De Archivos MPEG a AIFF en Línea Con Movavi - Ejecute La Migración Gratis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-challenge-of-elevated-cpu-usage-while-playing-starfield-expert-tips-and-tricks/"><u>Overcoming the Challenge of Elevated CPU Usage While Playing Starfield: Expert Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforme-seus-filmes-do-m2ts-para-formato-mkv-gratuitamente-via-o-movavi-conversor-online-seguro-e-facil-de-usar/"><u>Transforme Seus Filmes Do M2TS Para Formato MKV Gratuitamente via O Movavi - Conversor Online Seguro E Fácil De Usar!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-vos-fichiers-oma-en-mp3-sans-frais-solution-simple-avec-movavi/"><u>Transformez Vos Fichiers OMA en MP3 Sans Frais - Solution Simple Avec Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-or-stick-with-the-pro-comparing-the-new-samsung-galaxy-watch-6-classic-to-the-watch-5-pro-for-consumers-zdnet/"><u>Upgrade or Stick with the Pro? Comparing the New Samsung Galaxy Watch 6 Classic to the Watch 5 Pro for Consumers | ZDNET</u></a></li>
 </ul></div>
 

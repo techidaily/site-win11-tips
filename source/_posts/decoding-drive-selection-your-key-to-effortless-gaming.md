@@ -1,7 +1,7 @@
 ---
 title: "Decoding Drive Selection: Your Key to Effortless Gaming"
-date: 2025-01-06T20:41:24.102Z
-updated: 2025-01-13T02:20:30.516Z
+date: 2025-01-11T18:06:34.740Z
+updated: 2025-01-18T16:02:14.218Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart the Computer
 
 ![Restart option in Power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart.jpg)
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
  To restart, press the**Alt + F4** hotkeys to open the Shut Down Windows prompt, click the drop-down icon, choose**Restart** from the context menu, and then click**OK.** After restart, launch the Xbox app and check if you can choose a different drive to install games. If not, then it's time to dive into the advanced troubleshooting methods.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Change the Installation Directory in the Xbox App Settings
@@ -59,21 +63,17 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 ![Where new content is saved option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/where-new-content-is-saved.png)
 4. Click the drop-down icon under the**New** **apps** **will save to** section, choose the drive where you want to install the game, and then click**Apply.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![New apps will save to section in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-apps-will-save-to-section.jpg)
 
  That's it! Restart your computer and check if the problem continues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Restart Important Xbox Services
 
 ![Restart Service option in Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-service.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There are certain Xbox services that must be running for you to use the Xbox app properly. If any of these services fail to start properly, you might face the problem at hand.
 
@@ -103,7 +103,7 @@ Xbox Live Networking Service`
 4. Click**Yes** to confirm your selection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Next, delete the**GamingServicesNet** folder as well in the left sidebar.
@@ -115,7 +115,7 @@ Xbox Live Networking Service`
 ![Remove Gaming Services command in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-gaming-services.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After uninstalling the Gaming Services app, restart your computer. Then, open the Microsoft Store, search for and[download the Gaming Services](https://apps.microsoft.com/store/detail/gaming-services/9MWPM2CQNLHN?hl=en-us&gl=us) app again.
@@ -160,21 +160,21 @@ To update the Xbox app, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-beginners-essential-cheatsheet-for-beautiful-collage-creations/"><u>[New] Beginner's Essential Cheatsheet for Beautiful Collage Creations</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-documenting-the-fun-video-your-nintendo-switch-games/"><u>[Updated] Documenting the Fun Video Your Nintendo Switch Games</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-digital-immersion-therapy-for-patients/"><u>[Updated] In 2024, Digital Immersion Therapy for Patients</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-command-line-capers-for-the-tech-whimsical/"><u>5 Command Line Capers for the Tech Whimsical</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-dangers-of-purchasing-low-cost-windows-licenses/"><u>6 Dangers of Purchasing Low-Cost Windows Licenses</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-ways-to-open-the-file-history-in-windows-11/"><u>8 Ways to Open the File History in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-simplified-approach-to-windows-odbc-data-management/"><u>A Simplified Approach to Windows ODBC Data Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-windows-11-shutdown-interval-for-executing-jobstasks/"><u>Adjusting Windows 11 Shutdown Interval for Executing Jobs/Tasks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beating-hypervisorerr-blues-in-win-10-and-11/"><u>Beating HYPERVISOR_ERR Blues in Win 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/become-a-speech-converter-transcribe-talk-with-whisper-in-windows/"><u>Become a Speech Converter: Transcribe Talk with Whisper in Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-ai-like-chatgpt-be-lifesaving-in-wild-outdoor-adventures/"><u>Can AI Like ChatGPT Be Lifesaving in Wild Outdoor Adventures?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/code-initiation-denied/"><u>Code Initiation Denied</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-honor-play-40c-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Honor Play 40C IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigate-2024-with-ease-our-choice-for-best-notetaking-applications/"><u>Navigate 2024 with Ease: Our Choice for Best Notetaking Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-hidden-perils-in-conversing-with-ai-chatgpt/"><u>The Hidden Perils in Conversing with AI: ChatGPT</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-entry-into-the-world-of-google-meet-webinars/"><u>[New] 2024 Approved Entry Into the World of Google Meet Webinars</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-curating-tunes-a-comprehensive-guide-to-youtube-lists/"><u>[Updated] 2024 Approved Curating Tunes A Comprehensive Guide to YouTube Lists</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-turn-out-clearer-snaps-ranking-the-most-effective-online-editors/"><u>[Updated] 2024 Approved Turn Out Clearer Snaps Ranking the Most Effective Online Editors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-elite-hd-video-preservation-devices-for-2024/"><u>[Updated] Elite HD Video Preservation Devices for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-proven-techniques-for-stunning-timelapses-in-gopro-studio/"><u>[Updated] Proven Techniques for Stunning Timelapses in GoPro Studio</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-xcover-7-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy XCover 7 Fingerprint Lock</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-visibility-the-art-of-crafting-youtube-channel-backlinks-for-2024/"><u>Boosting Visibility The Art of Crafting YouTube Channel Backlinks for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620244631-expert-tips-for-reviving-a-dead-phone-battery-proven-methods-to-bring-your-device-back-to-life/"><u>Expert Tips for Reviving a Dead Phone Battery: Proven Methods to Bring Your Device Back to Life!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/google-play-setup-a-comprehensible-path/"><u>Google Play Setup: A Comprehensible Path</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-device-awareness-in-power-mode-slumber/"><u>Leveraging Device Awareness in Power Mode Slumber</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-anomaly-zero-error-correction-guide/"><u>Microsoft Store Anomaly: Zero-Error Correction Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-peeky-tabs-strategies-for-edge-on-w11/"><u>No Peeky Tabs: Strategies for Edge on W11</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/pathfinder-wrath-of-the-righteous-not-loading-up-try-these-fixes-first/"><u>Pathfinder: Wrath of the Righteous Not Loading Up? Try These Fixes First</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-grayed-out-secure-boot-on-windows-bios-settings/"><u>Restoring Grayed-Out Secure Boot on Windows BIOS Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switch-off-windows-record-of-launches/"><u>Switch Off Windows Record of Launches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wake-up-rituals-for-keyboard-and-mouse-in-1011-environments/"><u>Wake-Up Rituals for Keyboard & Mouse in 10/11 Environments</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reviving a Dead Grammarly Feature with Simple Steps
-date: 2025-01-10T00:42:38.777Z
-updated: 2025-01-12T16:10:33.526Z
+date: 2025-01-14T16:03:05.443Z
+updated: 2025-01-18T16:04:54.810Z
 tags:
   - windows10
   - windows11
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Are Some Common Grammarly App Issues on Windows?
 
@@ -72,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
  That's it. To verify if the issue persists, open Microsoft Word or any website where you can write (e.g., [ControlC.com](https://controlc.com/)). Start writing a sentence and see if Grammarly provides suggestions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Adjust Your System and Grammarly Settings
@@ -80,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
  Grammarly's Windows client offers limited settings to adjust. However, you can manage two crucial settings to resolve most Grammarly issues: block list and Grammarly startup settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Clear the Grammarly Block List
@@ -96,7 +92,15 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 ![Grammarly App Windows Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-app-homescreen.jpg)
 3. Open the **Block List** tab and click **Remove** next to any website you want to exclude.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Grammarly Blocklist Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-blocklist-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note that the settings should apply automatically once you click **Remove**; if it doesn't, restart the app once.
 
@@ -122,11 +126,7 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 ![Grammarly App Account Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-app-account-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Clear Grammarly's AppData Folder
@@ -145,6 +145,10 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  Clearing the AppData folder will erase any locally saved information associated with the Grammarly app. For instance, any websites you have on Grammarly's block list and any personalized settings will reset. So, back up or note them down before deleting its AppData folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Repair Microsoft .NET Framework
 
  The .NET Framework is a toolkit containing many development-related tools for Windows developers. Now, how is this related to the Grammarly app?
@@ -159,14 +163,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 ![Microsoft NET Framework Tool Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/microsoft-net-framework-tool-setup.jpg)
 4. Finally, click the **Finish** button once the repair is complete.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall the Grammarly App
 
  If all previous methods fail, uninstalling and reinstalling the Grammarly app is the last resort.
@@ -178,6 +174,10 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 3. Select **Uninstall** to start the uninstallation process. If it asks for confirmation, click **Yes**.  
 ![Windows Installed App Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-installed-app-settings.jpg)
 4. Download and install the app again from [Grammarly.com](https://www.grammarly.com/desktop).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Avoid downloading "cracked or modded versions" of freemium apps and services (like Grammarly), as they may contain malware that can harm your system!
 
@@ -201,24 +201,18 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-a-gamers-guide-to-seamless-ps4-recording-and-streaming-via-obs/"><u>[New] A Gamer's Guide to Seamless PS4 Recording and Streaming via OBS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-enhance-visual-storytelling-top-4-strategies-for-looped-videos-in-instagram/"><u>[Updated] 2024 Approved Enhance Visual Storytelling Top 4 Strategies for Looped Videos in Instagram</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-architects-of-unique-virtual-environments/"><u>[Updated] In 2024, Architects of Unique Virtual Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breakdown-windows-11-feb-updates-key-upgrades/"><u>Breakdown: Windows 11 Feb Update's Key Upgrades</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-hardware-ram-management-in-windows-os/"><u>Breaking Down Hardware RAM Management in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-through-chromes-black-screen-barrier/"><u>Breaking Through Chrome's Black Screen Barrier</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-formats-mastering-the-art-of-windows-esd-to-iso-conversion/"><u>Bridging Formats: Mastering the Art of Windows' ESD to ISO Conversion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-worlds-dex-transforms-galaxy-and-windows-interaction/"><u>Bridging Worlds: DeX Transforms Galaxy & Windows Interaction</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-cannot-open-errors-for-writable-files-in-win-oses/"><u>Bypassing 'Cannot Open' Errors for Writable Files in Win OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-unnecessary-virus-error-in-chrome-browser/"><u>Bypassing Unnecessary Virus Error in Chrome Browser</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-windows-task-sequence-error-0x8007000f/"><u>Bypassing Windows Task Sequence Error 0X8007000f</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/calibrate-display-colors-go-to-settings-)-system-)-display-and-use-the-built-in-calibration-tool-for-accurate-color-representation/"><u>Calibrate Display Colors: Go to 'Settings' > 'System' > 'Display' And Use the Built-In Calibration Tool for Accurate Color Representation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/elite-steadicam-models-suitable-for-drones-in-cinema-for-2024/"><u>Elite Steadicam Models Suitable for Drones in Cinema for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-typing-experience-restoring-your-tab-key/"><u>Enhancing Typing Experience: Restoring Your Tab Key</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/fly-high-with-flying-lotus-the-all-in-one-desktop-crafted-from-framework-laptop-and-advanced-3d-components-powered-by-battery/"><u>Fly High with Flying Lotus: The All-in-One Desktop Crafted From Framework Laptop & Advanced 3D Components, Powered by Battery</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-spark-10-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Spark 10 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-remove-background-noise-from-skype-video-calls/"><u>In 2024, How to Remove Background Noise From Skype Video Calls</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-integrating-marketing-the-power-of-youtube-and-brand-collaboration/"><u>In 2024, Integrating Marketing The Power of YouTube and Brand Collaboration</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-12-pro-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 12 Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-guiding-users-on-completely-audible-fb-videos-for-2024/"><u>[New] Guiding Users on Completely Audible FB Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-probing-into-hdr-effectiveness-with-luminance-writings/"><u>[New] Probing Into HDR Effectiveness with Luminance’ Writings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-subscription-surge-entry-into-monetization-realm/"><u>[Updated] 2024 Approved Subscription Surge Entry Into Monetization Realm</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-5-video-editing-software-excluding-youtube-for-2024/"><u>[Updated] Essential 5 Video Editing Software Excluding Youtube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-much-do-you-really-earn-the-podcaster-perspective/"><u>[Updated] How Much Do You Really Earn? - The Podcaster Perspective</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ate-discussion-how-to-trend-on-social-media-platforms-for-2024/"><u>Dominate Discussion How to Trend on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hemen-satin-alinan-movavi-multimedia-yazilimi-seo-istekleriye-yanit/"><u>Hemen Satın Alınan Movavi Multimedia Yazılımı - SEO İstekleriye Yanıt</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-tecno-phantom-v-fold-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Tecno Phantom V Fold</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-visualize-success-innovative-video-ideas-countdown/"><u>In 2024, Visualize Success Innovative Video Ideas Countdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimice-sus-contenidos-para-youtube-un-tutorial-sobre-edicion-de-video-con-la-herramienta-mas-poderosa-movavi-video-editor/"><u>Optimice Sus Contenidos Para YouTube: Un Tutorial Sobre Edición De Vídeo Con La Herramienta Más Poderosa, Movavi Video Editor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/score-unbeatable-apple-watch-offers-in-month/"><u>Score Unbeatable Apple Watch Offers in [Month]!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alhfth-alamn-osryaa-kmaa-alfydyo-bmoafka-movavi-tgza-fada-90/"><u>الحفظ الآمن وسريع: قمع الفيديو بموافقة Movavi - تجزئة فائدة 90٪!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jpeg-arw/"><u>오프라인 안내: JPEG파일의 무료 ARW 변환을 위한 가이드</u></a></li>
 </ul></div>
 

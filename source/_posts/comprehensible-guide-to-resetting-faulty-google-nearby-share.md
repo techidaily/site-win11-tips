@@ -1,7 +1,7 @@
 ---
 title: Comprehensible Guide to Resetting Faulty Google Nearby Share
-date: 2024-08-08T11:03:19.112Z
-updated: 2024-08-09T11:03:19.112Z
+date: 2025-01-12T17:59:16.218Z
+updated: 2025-01-18T17:03:47.206Z
 tags:
   - windows10
   - windows11
@@ -34,16 +34,14 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
  Click the **Show more icons arrow** on the taskbar, right-click on the **Nearby Share app** icon, and select **Exit** from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Close Nearby Share App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/close-nearby-share-app-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Reopen the app after this, and see if you can send and receive files as before.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## 3\. Make Sure Bluetooth and Wi-Fi Are Turned On
 
  The Nearby Share app for Windows relies on Bluetooth and Wi-Fi to transfer files between your devices. If you have accidentally turned off either of these functionalities, your transfers will fail.
@@ -52,23 +50,25 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
 ![Quick Settings Panel in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/quick-settings-panel-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Bring Both Devices Closer
 
  Another thing you should ensure is that your Android phone is within **16 feet (5 meters)** of your Windows computer. The proximity of your devices directly impacts the quality of the connection. So, if you are experiencing slow transfer speeds or failed transfers, consider bringing the devices closer and try again.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Check the Device Visibility Settings
 
  If your Windows PC is not showing up as an available device when [sharing files from your Android phone](https://www.makeuseof.com/tag/transfer-files-android-pc/), you may have accidentally set your PC as hidden in the Nearby Share app.
 
  To change the device visibility settings in the Nearby Share app, click the **Device is hidden** drop-down menu and select one of the following options: **Receive from everyone**, **Receive from contacts**, or **Receive from your devices**. Following this, your PC should show up as an available device to nearby Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Visibility Setting in Nearby Share App for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/visibility-setting-in-nearby-share-app-for-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Change the Default Save Location
 
@@ -80,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 2. Click the gear icon to open the settings menu.
 3. Click the **Change** button next to **Save received files to**.
 4. Select another location on your PC and click the **Change** button.  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![Change Default Save Location in Nearby Share App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-default-save-location-in-nearby-share-app-on-windows.jpg)
 
  After completing the above steps, try to receive files from an Android device.
@@ -111,17 +108,14 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 5. Scroll through the list to locate and select **Nearby Share**.
 6. Click the **Repair** option at the top.
 7. Select **Yes** if the User Account Control (UAC) prompt appears, and then follow the on-screen prompts to finish the repair.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Repair Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-google-nearby-share-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart the Nearby Share app after this and see if it works as expected.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 9\. Reinstall the Nearby Share App
 
  If the issue remains even after you repair the Nearby Share app, you can try reinstalling it on your PC. Here's how you can go about it:
@@ -132,17 +126,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. Follow the on-screen instructions to remove the app.  
 ![Uninstall Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-nearby-share-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have uninstalled the app, be sure to remove any residual app files from your computer. If you need help with that, you can learn how to [eradicate leftovers from uninstalled software in Windows](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/).
 
  Download Google’s [Nearby Share app](https://android.com/better-together/nearby-share-app/) and install it on your PC. Following that, it should work smoothly on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Start Using Google’s Nearby Share App on Windows Again
 
  Google's Nearby Share app simplifies the process of transferring files between Android and Windows devices. Occasionally, the app may give you problems and fail to work properly, but it’s nothing you can’t fix with the tips mentioned above.
@@ -151,11 +146,27 @@ No advertising on the website.
 
  If Google’s Nearby Share is not working on your Windows PC, here's how you can fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/kyline-growth-youtubes-top-tactics-with-video-outros-for-2024/"><u>[New] Skyline Growth YouTube's Top Tactics with Video Outros for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-charting-the-course-a-comprehensive-guide-to-youtube-teaser-vids-for-2024/"><u>[Updated] Charting the Course A Comprehensive Guide to YouTube Teaser Vids for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-updated-list-the-premier-pc-vr-headsets-of-2023/"><u>[Updated] In 2024, Updated List The Premier PC VR Headsets of 2023</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-solve-audio-absence-in-twitch-style-tweets/"><u>[Updated] Solve Audio Absence in Twitch-Style Tweets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-cr2-files-into-compatible-windows-based-jpeg-images/"><u>Convert CR2 Files Into Compatible Windows-Based JPEG Images</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/find-your-keys-effortlessly-with-these-highly-recommended-trackers/"><u>Find Your Keys Effortlessly with These Highly-Recommended Trackers!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/harmonizing-audio-with-visuals-adding-melodies-to-powerpoint-for-2024/"><u>Harmonizing Audio with Visuals Adding Melodies to PowerPoint for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-overwatch-2-device-rendering-issue/"><u>How to Address Overwatch 2 Device Rendering Issue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-profits-plunge-by-16b-amidst-challenges-in-the-data-center-cpu-and-foundry-segments/"><u>Intel's Profits Plunge by $1.6B Amidst Challenges in the Data Center CPU & Foundry Segments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-dll-loss-mfc71u-on-windows-systems/"><u>Overcoming DLL Loss: Mfc71u on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-avoid-keyboard-triggers-without-intent/"><u>Techniques to Avoid Keyboard Triggers without Intent</u></a></li>
+<li><a href="https://techtrends.techidaily.com/toms-guide-to-next-gen-tech-your-ultimate-source-for-hardware-knowledge/"><u>Tom's Guide to Next-Gen Tech: Your Ultimate Source for Hardware Knowledge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-accessing-and-deleting-your-usage-logs/"><u>Windows 11: Accessing & Deleting Your Usage Logs</u></a></li>
+</ul></div>
+

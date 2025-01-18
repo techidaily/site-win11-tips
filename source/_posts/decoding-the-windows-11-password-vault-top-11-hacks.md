@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Windows 11 Password Vault: Top 11 Hacks"
-date: 2025-01-09T01:15:51.970Z
-updated: 2025-01-12T20:55:43.681Z
+date: 2025-01-14T17:23:33.191Z
+updated: 2025-01-18T17:15:11.587Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Using Start Menu
 
  The Start menu is the most-visited section by Windows users. To access Credential Manager using the Start menu, repeat the following steps:
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 2. Type**Credentials Manager** and click on the**Open** option.
 3. The Credential Manager utility will launch on your system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Using Windows Search
 
  Alternatively, you can use the new and improved Windows Search tool to find and open Credential Manager on your system. Here’s how to do it:
@@ -44,6 +44,14 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 1. Press**Win + S** to open the Windows Search utility.  
 ![Open Credentials Manager Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-windows-search.jpg)
 2. Type Credential Manager and click on the first relevant search result to open the tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Using the Run Command Box
 
@@ -55,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 3. Credential Manager will open in a separate control panel window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Using the File Explorer
@@ -73,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 8. Window Control Panel will be added to the list of supported programs.**Double-click** on it to open keymgr.dll file in Control Panel.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Using the CMD
@@ -87,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 4. Credentials Manager will launch on your system. Close the Command Prompt window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Using Control Panel
@@ -98,14 +106,6 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 2. In the Control Panel window, click on the**User Accounts** option.  
 ![Open Credentials Manager Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-control-panel.jpg)
 3. Lastly, click on the**Credential Manager** option to launch the tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Using a Desktop Shortcut
 
@@ -130,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 ![Open Credentials Manager Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-settings-app.jpg)
 3. Type**Credential Manager** and click on the first relevant search result for the utility.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Using a PowerShell Command
 
  Like the Command Prompt, you can use PowerShell to open Credential Manager with a simple one-line command. Here’s how to do it:
@@ -156,7 +152,7 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 4. Close the Notepad file. Navigate to the location where you saved the CredMgr.bat file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Right-click on it and select the**Run as administrator** option.
@@ -172,6 +168,10 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 3. Type**control.exe keymgr.dll** in the Create new task window and click on the**OK** button.
 
 4. Credential Manager will open in a new window. Exit the Task Manager window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Check Your Credentials on Windows Quickly With These Tips
 
@@ -192,22 +192,22 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-relaxation-reigns-top-pc-titles/"><u>[New] 2024 Approved Relaxation Reigns Top PC Titles</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-skype-sessions-captured-effective-freepaid-windowsmac-methods/"><u>[New] 2024 Approved Skype Sessions Captured Effective Free/Paid Windows/Mac Methods</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unveiling-the-most-powerful-alternatives-to-vimeo-cameo-editor/"><u>[New] 2024 Approved Unveiling the Most Powerful Alternatives to Vimeo Cameo Editor</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-filmora-compared-the-ultimate-list-of-free-high-quality-templates/"><u>[New] Filmora Compared The Ultimate List of Free, High-Quality Templates</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-navigating-iphone-camera-not-auto-focusing-woes/"><u>[New] In 2024, Navigating iPhone Camera Not Auto-Focusing Woes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagram-stories-screen-capture-made-simple-for-2024/"><u>[New] Instagram Stories Screen Capture Made Simple for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-top-10-for-streamed-television/"><u>[Updated] Navigating the Top 10 for Streamed Television</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/curbing-cpu-fatigue-adjusting-the-workload-of-vanguards-sleep-service/"><u>Curbing CPU Fatigue: Adjusting the Workload of Vanguard's Sleep Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-to-mend-windows-store-error-0x0-failure/"><u>Expert Tips to Mend Windows Store Error 0X0 Failure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-system-failures-a-guide-to-repairing-fs-in-win11/"><u>Fixing System Failures: A Guide to Repairing FS in Win11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-complete-process-for-customizing-video-game-channels/"><u>In 2024, The Complete Process for Customizing Video Game Channels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-installation-blocks-in-the-windows-store/"><u>Overcoming Installation Blocks in the Windows Store</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolving-inkjet-print-issues-in-win-10-pc/"><u>Resolving InkJet Print Issues in Win 10 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-make-excel-compatible-with-notepad/"><u>Tips: Make Excel Compatible with Notepad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-your-global-address-through-the-cli-win-1110/"><u>Uncover Your Global Address Through the CLI, Win 11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-your-pc-6-methods-for-discovering-its-identity/"><u>Unveiling Your PC: 6 Methods for Discovering Its Identity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-disk-structure-c-vs-d-in-focus/"><u>Windows Disk Structure: C vs D in Focus</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-a-detailed-guide-to-crop-your-video-for-instagram-for-2024/"><u>[Updated] A Detailed Guide to Crop Your Video for Instagram for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-gif-making-software-showdown/"><u>[Updated] The Ultimate GIF Making Software Showdown</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209088571-battleye-service-up-and-running-learn-from-our-initial-hiccups/"><u>BattlEye Service Up and Running - Learn From Our Initial Hiccups!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-solutions-for-startech-drivers-errors-on-windows-1087-issues-resolved/"><u>Comprehensive Solutions for StarTech Drivers Errors on Windows 10/8/7 - Issues Resolved</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-de-archivos-mp3-a-mp4-gratuita-y-facil-con-movavi-online/"><u>Conversión De Archivos MP3 a MP4 Gratuita Y Fácil Con Movavi Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crear-una-introduccion-impactante-en-movavi-para-tus-videos-de-youtube/"><u>Crear Una Introducción Impactante en Movavi Para Tus Videos De Youtube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/film-flair-in-frame-up-smart-setup-tips-for-stellar-videos-for-2024/"><u>Film Flair in Frame-Up Smart Setup Tips for Stellar Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-your-files-from-ape-to-wav-format-with-movavi/"><u>Free Online Converter: Change Your Files From APE to WAV Format with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-convert-flv-to-mpeg-using-movavis-tools/"><u>Free Online Converter: Convert FLV to MPEG Using Movavi's Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-mp4-to-gif-converter-movavi-guide/"><u>Free Online MP4 to GIF Converter - Movavi Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ois-enhanced-smartphones-for-seamless-video-filming-experience/"><u>In 2024, OIS-Enhanced Smartphones for Seamless Video Filming Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mov-mxf-movavi/"><u>MOV 形式到MXF：免費線上轉換器 - 運用 Movavi 解決方案</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f23-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F23 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/passaggi-fondamentali-di-avvio-del-software-movavi-su-sistemi-operativi-windows/"><u>Passaggi Fondamentali Di Avvio Del Software Movavi Su Sistemi Operativi Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-face-off-choosing-between-iphone-or-android-as-your-go-to-phone/"><u>The Ultimate Face-Off: Choosing Between iPhone or Android as Your Go-To Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-vos-fichiers-audio-aac-en-video-wmv-gratuitement-en-ligne-avec-movavi-guide-complet-de-conversion/"><u>Transformez Vos Fichiers Audio AAC en Vidéo WMV Gratuitement en Ligne Avec Movavi - Guide Complet De Conversion</u></a></li>
 </ul></div>
 

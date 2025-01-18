@@ -1,7 +1,7 @@
 ---
 title: "Windows Disk Structure: C vs D in Focus"
-date: 2024-08-08T11:01:41.823Z
-updated: 2024-08-09T11:01:41.823Z
+date: 2025-01-17T16:05:45.542Z
+updated: 2025-01-18T17:15:00.436Z
 tags:
   - windows10
   - windows11
@@ -26,10 +26,11 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 
  Computers come with a local disk (more commonly known as a [hard disk drive or solid-state drive](https://www.makeuseof.com/choose-ssd-or-hdd-storage/)) installed. If the pre-installed hard drive size is insufficient, you can purchase other storage devices, like USB drives, CD-ROMs, and memory cards to use with your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![CD, hard drive, flash drive, and floppy disk on a wooden surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/external-storage-devices.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, your Windows computer assigns alphabets to enable you to access these drives. It’ll also assign alphabets to partitions—defined areas with a determined size on a drive. For example, if your computer has a 500GB hard disk drive (HDD) or solid-state drive (SSD), you might have two partitions with 250GB each.
 
@@ -37,12 +38,13 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 
  Manufacturers install the operating system and other relevant software on the C: drive. If your computer has a 1TB HDD or SSD with two 500GB partitions, the C: drive is the hard disk partition that serves the above function. Alternatively, if your computer has a 250GB hard drive with one partition, then it'll be your drive (C:).
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![A screenshot showing Windows (C:) in the File Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/drive-c.jpg)
 
  The C drive is typically denoted as **(C:)**, **Windows (C:)**, or **Local Disk (C:)**. You can access your local disk C: by clicking **My Computer** (on older Windows versions) or **This PC** (on newer Windows versions) in File Explorer. To open File Explorer on your computer, press the **Windows key + E.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Characteristics of the C: Drive
 
@@ -59,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 
 ## What Is the Local Drive D?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![USB stick, disc, and SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recover-sd-card-data.jpg)
 
 Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/image-photo/sd-card-flash-drive-usb30-cd-1337495969)
@@ -77,8 +76,13 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 ![A screenshot showing Windows (C:) and a USB Drive (D:) in the File Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/drive-d-and-c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Characteristics of the D: Drive
 
  Drive D: is a secondary local drive attached to your system after the primary drive with your OS. Here are the common features of the D: drive:
@@ -91,9 +95,6 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Similar to the C: drive, the "D" here isn't indicative of anything on its own. However, the letter D is usually assigned to any storage device that's installed after the drive containing your Windows OS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What About macOS and Linux Computers?
 
  You'll only find the C: and D: drive on a Windows computer. While Windows assigns letters from C to storage devices to access them easily, Linux and macOS don't use letters. Instead, they use a unified system hierarchy, placing all files under a root directory.
@@ -101,8 +102,9 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
  Drives containing a Linux or macOS operating system are mounted at **/** (the system root) instead of C: as in Windows computers. Other drives and storage devices can be mounted in arbitrary folders. For instance, external storage devices on Linux computers are typically accessed at **/mount** instead of a D: drive or E: drive.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## C: Drive vs. D: Drive: Which Should You Use?
 
  The C drive is the local disk from which your operating system runs. It houses all your computer's default programs, applications, and system files. Meanwhile, the D drive is a secondary hard drive on which you can store data that isn’t vital for your computer’s operations.
@@ -111,11 +113,30 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Let's compare both drives to see if their differences change your storage preferences.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-supercharge-your-design-with-these-canva-insider-tips/"><u>[New] Supercharge Your Design with These Canva Insider Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-earnings-insights-for-video-content-surpassing-1-million-views-for-2024/"><u>[Updated] Earnings Insights for Video Content Surpassing 1 Million Views for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-score-a-sweet-deal-on-the-advanced-contixo-f24-pro-gps-drone-for-only-45-less-this-black-friday/"><u>Don't Miss Out! Score a Sweet Deal on the Advanced Contixo F24 Pro GPS Drone for Only $45 Less This Black Friday!</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-performance-with-customized-windows-11-configurations/"><u>Enhance Performance with Customized Windows 11 Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-pc-connectivity-using-android-phones-in-windows-11/"><u>Enhancing PC Connectivity: Using Android Phones in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-restoring-tiktok-functionality-when-it-stops-working/"><u>Guide to Restoring TikTok Functionality When It Stops Working</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-xs-max-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone XS Max Smoothly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-heat-efficiency-in-your-windows-11-computer/"><u>Managing Heat Efficiency in Your Windows 11 Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-multi-device-compatibility-for-win11-notes/"><u>Mastering Multi-Device Compatibility for WIN11 Notes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-linux-experience-via-windows-resources/"><u>Optimizing Linux Experience via Windows Resources</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/personalize-your-soundtrack-constructing-a-youtube-playlist-from-home-and-on-the-move/"><u>Personalize Your Soundtrack Constructing a YouTube Playlist From Home & On-the-Move</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quickly-enable-hyper-v-in-the-latest-windows-11/"><u>Quickly Enable Hyper-V in the Latest Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-uninstalling-older-windows-oses-causing-errors/"><u>Solutions for Uninstalling Older Windows OSes Causing Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-10-best-free-professional-grade-video-editing-tools-without-watermarks/"><u>The Ultimate Guide to 10 Best Free, Professional-Grade Video Editing Tools Without Watermarks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-routes-to-mastering-win-policy-rules/"><u>The Ultimate Routes to Mastering Win Policy Rules</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unbelievable-examination-and-replacement-ideas-for-2024/"><u>Unbelievable Examination & Replacement Ideas for 2024</u></a></li>
+</ul></div>
+

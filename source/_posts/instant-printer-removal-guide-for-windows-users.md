@@ -1,7 +1,7 @@
 ---
 title: Instant Printer Removal Guide for Windows Users
-date: 2025-01-09T01:50:59.166Z
-updated: 2025-01-13T01:23:51.198Z
+date: 2025-01-16T17:45:02.082Z
+updated: 2025-01-18T16:50:14.160Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 3. Scroll down and click on **Printers & scanners**. This will list all the printers connected to your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click on the printer device that you want to remove.  
@@ -57,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 ![Print Spooler Service Stop Option in Services MMC on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-stop-1.jpg)
 5. Minimize the **Services** window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now open the **Windows Settings pane**l, go to **Bluetooth & devices > Scanners and Printer**, and try to remove your printer device.
 7. Once the printer is removed, go back to the **Services** window.  
 ![Print Spooler Service Start Option in Services MMC on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-start-1.jpg)
@@ -65,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 [Restarting the Printer Spooler service](https://www.makeuseof.com/windows-restart-print-spooler-service/) is necessary. If disabled, you may encounter the [printer spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) error on your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Remove the Printer Software to Delete the Printer
@@ -96,16 +100,12 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 ![Windows 11 Control Panel Showing the Hardware and Sound Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/control-panel-hardware-and-sound.jpg)
 4. Next, click on **Devices and Printers.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Under the **Printers** section, locate and select the printer device you want to remove.  
 ![Remove Printer Option in Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/remove-printer-ccontrol-panel.jpg)
 6. Right-click on the printer and select **Remove Device.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Click **Yes** to confirm the action.
@@ -122,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 ![Hardware and Sound Option in Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/control-panel-hardware-and-sound-1.jpg)
 4. Select any available printer and click on **Print server properties.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Print Server Properties Option in Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-server-properties.jpg)
 5. Open the **Drivers** tab in the **Print Server Properties** dialog.
 
@@ -130,15 +134,11 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 7. Next, select the **Remove driver and driver package** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Click **OK** to confirm the action and remove the driver.
 9. Restart your PC to complete the driver removal process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Uninstall the Printer Using the Device Manager
 
@@ -155,6 +155,11 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 5. Right-click on the printer and select **Uninstall device.**  
 ![Uninstall Printer Option Selected in Device Manager on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/uninstall-printer-device-manager.jpg)
 6. Select the **Delete the driver software for this device** option and click **Uninstall**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. If the **Printers** section is unavailable, expand the **Print queues** section and repeat the steps to remove the printer.
 8. Close Device Manager and restart your computer to complete the uninstall process.
 
@@ -175,10 +180,6 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 5. In the above command, replace **Your\_Printer\_Name** with the name of your printer.
 6. Hit **Enter** to execute the command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Remove the Printer Drive Using Print Management
 
  Print Management is a Windows utility controlling printers, drivers, ports, and servers. You can use the tool to remove printer drivers from your Windows computer. The Print Management utility is not available in the Home edition of the Windows operating system.
@@ -194,15 +195,16 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 5. Next, select **Printers** to view all the installed printers.  
 ![Delete a Printer Using the Print Management Snap-in On Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-printer-print-management-windows.jpg)
 6. In the right pane, select and right-click on the printer you want to remove.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Select **Delete** and click **Yes** to confirm the action.
 
 ## 8\. Delete a Printer Driver with PowerShell
 
 ![PowerShell Console Running the Remove Printer Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/remove-printer-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Alternatively, you can delete the printer driver package using PowerShell as an alternative to Print Management. This is also a quicker way to remove multiple printers in your Windows computer.
 
@@ -217,7 +219,7 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 5. In the above command, replace Printer-Name with the printer name you want to remove.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Many Ways to Remove a Printer in Windows 10 and 11
@@ -236,20 +238,20 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-video-size-mastery-on-mac-the-instagram-automation-way/"><u>[New] 2024 Approved Video Size Mastery on Mac The Instagram Automation Way</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-the-ultimate-handbook-for-vr-travelers/"><u>[New] In 2024, The Ultimate Handbook for VR Travelers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-probing-into-youtube-discussions/"><u>[Updated] 2024 Approved Probing Into YouTube Discussions</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-your-ultimate-youtube-to-avi-transformation-guidebook/"><u>[Updated] Your Ultimate YouTube-to-AVI Transformation Guidebook</u></a></li>
-<li><a href="https://discover-help.techidaily.com/islandtv/"><u>「ISLANDTV動画ダウンロードガイド：簡単な手順で保存」</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-void-spaces-in-windows-navigator/"><u>Bridging Void Spaces in Windows Navigator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-disabled-accounts-fixing-windows-login-fails/"><u>Bypassing Disabled Accounts: Fixing Windows Login Fails</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-the-obstacle-dealing-with-device-error-22-on-windows-11/"><u>Bypassing the Obstacle: Dealing with Device Error 22 on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/captivating-windows-slideshow-execute-with-seven-simple-steps/"><u>Captivating Windows Slideshow - Execute with Seven Simple Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/change-your-windows-terminal-color-scheme/"><u>Change Your Windows Terminal Color Scheme</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/christmas-magic-for-your-windows-11-setup/"><u>Christmas Magic for Your Windows 11 Setup</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-study-gopro-slr4-sliver-feature-review/"><u>Comprehensive Study GoPro SLR4 Sliver Feature Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/innovative-ways-to-leverage-zoom-for-fb-live-for-2024/"><u>Innovative Ways to Leverage Zoom for FB Live for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-collection-of-inspiration-5-best-book-video-tts/"><u>[Updated] 2024 Approved A Collection of Inspiration 5 Best Book Video TTs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-to-extract-gif-content-seamlessly-on-various-devices/"><u>[Updated] 2024 Approved How To Extract GIF Content Seamlessly on Various Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-periscopes-unveiling-no-cost-entry-and-steps-to-signup/"><u>2024 Approved Periscope's Unveiling No Cost Entry & Steps to Signup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/are-you-secure-with-obs-comprehensive-safety-tips-for-streaming-and-screen-capturing/"><u>Are You Secure with OBS?: Comprehensive Safety Tips for Streaming & Screen Capturing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010151198-city-skylines-2-pc-stability-fixes-stop-the-game-from-crashing/"><u>City Skylines 2 PC Stability Fixes: Stop the Game From Crashing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/como-utilizar-capcut-no-pc-guia-passo-a-passo-para-download-e-uso/"><u>Como Utilizar CapCut No Pc - Guia Passo a Passo Para Download E Uso</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-facile-de-fichiers-mxf-en-avi-en-ligne-gratuit-utilisez-la-solution-de-movavi-pour-obtenir-les-meilleurs-resultats/"><u>Conversion Facile De Fichiers MXF en AVI en Ligne Gratuit : Utilisez La Solution De Movavi Pour Obtenir Les Meilleurs Résultats</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tials-for-youtube-music-playlists-for-2024/"><u>Essentials for YouTube Music Playlists for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-from-wma-to-swf-movavi-media-editor/"><u>Free Online Converter From WMA to SWF - Movavi Media Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-completa-para-crear-videos-en-stop-motion-trucos-y-ejercicios-con-muestra/"><u>Guía Completa Para Crear Videos en Stop Motion: Trucos Y Ejercicios Con Muestra</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guia-paso-a-paso-para-generar-imagenes-de-disco-en-windows-server-2016/"><u>Guía Paso a Paso Para Generar Imágenes De Disco en Windows Server 2016</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/inventer-des-techniques-pour-retourner-une-sequence-video/"><u>Inventer Des Techniques Pour Retourner Une Sequence Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformar-videos-de-wtv-a-formato-avi-online-sin-coste-haga-lo-suyo-con-convertidor-de-movavi/"><u>Transformar Vídeos De WTV a Formato AVI Online Sin Coste - Haga Lo Suyo Con Convertidor De Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/qt-wmv-windows-media-video-movavi/"><u>무료 QT WMV파일 전환 해시를 위한 최고의 도구: 움직이는 Windows Media Video 변환 소프트웨어 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Image Turns: 6 Techniques for W11 Users"
-date: 2025-01-10T18:56:47.160Z
-updated: 2025-01-12T22:36:10.287Z
+date: 2025-01-15T18:07:36.920Z
+updated: 2025-01-18T16:26:21.496Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Rotate Images With File Explorer
 
  Windows File Explorer incorporates two basic options for rotating images left and right. Those options will be adequate when you only need to apply basic rotating to images. This is how you can rotate an image in File Explorer:
@@ -40,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 5. Press the **Rotate left** or **Rotate right** button on Explorer’s command bar, depending on preference.  
 ![The Rotate left option on the command bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-left-command-bar-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can select the same options on File Explorer’s context menu. Right-click an image and select **Rotate left** or **Rotate right**. Those are convenient shortcuts for rotating images saved on the desktop.
 
 ![The rotation context menu options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-context-menu-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Rotate Images With the Photos App
 
@@ -59,12 +55,16 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 4. Press the **Save as copy** button. Or you can click that button’s small arrow to select a **Save** option that overwrites the file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or you can select alternative clockwise or anticlockwise rotation options. To do so, press the **Edit image** button beside the **Rotate** option in Photos. Then click the **Rotate image 90 degrees clockwise** or **Rotate image 90 degrees anticlockwise** options.
 
 ![The rotation options within Photos' Crop tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-options-in-photos-crop-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note that Photos’ cropping tool also has a rotation bar. You can drag the slider on that bar to freely rotate the image by any angle within a cropping box. Everything outside the cropping box area gets cut out of the picture. Rotating an image like that is one of the [different ways to crop a picture in Windows 11](https://www.makeuseof.com/crop-images-windows-11/).
 
@@ -83,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 7. Press **Ctrl** \+ **S** to save over the original file.
 
  You can also adjust an image’s orientation with Paint’s flipping options just below the **Rotate** button. For example, clicking **Flip vertical** has the same effect as the **Rotate 180°** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Rotate Images With Edge’s Image Editor
 
@@ -114,18 +118,14 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ![The Rotate by options in Online Image Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-images-option.jpg)
 6. You can drag the slider across the image thumbnail to compare the original selected image with the optimized one.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The image comparison slider bar in Online Image Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/online-image-tool-image-comparison-tool.jpg)
 7. Click **Save All** to download the rotated images.
 
- Online Image Tool also has handy tools for batch resizing, converting, and compressing pictures. Click the **Compress Any Image Format**, **Convert Image Formats**, and **Resize Batch of Images** links along the top of the web app’s page to access them.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Online Image Tool also has handy tools for batch resizing, converting, and compressing pictures. Click the **Compress Any Image Format**, **Convert Image Formats**, and **Resize Batch of Images** links along the top of the web app’s page to access them.
 
 ## 6\. How to Rotate Images With IrfanView
 
@@ -142,7 +142,7 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 6. Select the **Rotate Left** or **Rotate Right** option for the standard 90-degree rotation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to try IrfanView’s custom rotation tool, press the app’s **Ctrl** \+ **U** hotkey. Input a rotation value up to 360 within the **Angle** box. That will rotate the image by the value entered within its canvas. Then click **OK** to view the rotated image output within IrfanView.
@@ -150,7 +150,7 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ![The Rotate by angle tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-by-angle-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Rotate Images for a Better Orientation in Windows 11
@@ -169,24 +169,16 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-masterful-audio-selection-optimal-mics-for-intense-4k-shooting/"><u>[New] Masterful Audio Selection Optimal Mics for Intense 4K Shooting</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-conquering-remote-work-mastering-the-use-of-zoom-and-gmail/"><u>[Updated] Conquering Remote Work Mastering the Use of Zoom and Gmail</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-experts-guide-to-best-terria-mods/"><u>[Updated] In 2024, Expert's Guide to Best Terria Mods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-essential-tactics-for-control-panel-entry/"><u>10 Essential Tactics for Control Panel Entry</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-potential-our-picks-for-the-most-inspiring-films/"><u>2024 Approved Unleash Potential Our Picks for the Most Inspiring Films</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-voice-over-text-made-easy-choosing-the-best-mac-translation-software/"><u>2024 Approved Voice Over Text Made Easy Choosing the Best Mac Translation Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-quick-ways-to-disable-usb-selective-suspend-in-windows-11/"><u>3 Quick Ways to Disable USB Selective Suspend in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-ways-to-fix-the-checksum-error-in-winrar/"><u>6 Ways to Fix the Checksum Error in WinRAR</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-compre-cookie-cutter-guide-to-revamping-your-pc-with-a-fresh-os/"><u>A Compre Cookie-Cutter Guide to Revamping Your PC with a Fresh OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ai-assistants-impact-on-windows-11-experience/"><u>AI Assistant's Impact on Windows 11 Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/amplified-audio-top-4-applications-to-surpass-windows-100-threshold/"><u>Amplified Audio: Top 4 Applications to Surpass Windows’ 100% Threshold</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beginners-guide-efficient-w11-microphone-use/"><u>Beginner's Guide: Efficient W11 Microphone Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blueprint-to-rule-winos-apps-browsers/"><u>Blueprint to Rule WinOS Apps, Browsers</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-honor-70-lite-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor 70 Lite 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-designing-direct-access-to-your-channels-subscribe-page/"><u>In 2024, Designing Direct Access to Your Channel's Subscribe Page</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-quick-snapshots-on-xbox-one-a-users-manual/"><u>In 2024, Quick Snapshots on Xbox One A User's Manual</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/itel-a60s-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A60s Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/trustworthiness-of-cryptocurrency-account-verification-applications-an-analysis-from-yl-computing-perspective/"><u>Trustworthiness of Cryptocurrency Account Verification Applications: An Analysis From YL Computing Perspective</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719266023156-zero-cost-local-gpt-clones-gpt4alls-window-solution/"><u>Zero-Cost Local GPT Clones: GPT4All's Window Solution.</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-lustrous-android-video-techniques-for-every-user/"><u>[New] In 2024, Lustrous Android Video Techniques for Every User</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-discover-10-premier-stock-source-for-vectors/"><u>[Updated] 2024 Approved Discover 10 Premier Stock Source for Vectors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-how-to-quickly-stream-spotify-audio-with-integrity/"><u>2024 Approved How to Quickly Stream Spotify Audio with Integrity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-features-essential-tips-for-windows-11-widgets/"><u>Cutting-Edge Features: Essential Tips for Windows 11 Widgets</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-network-discovery-is-turned-off-error-on-windows/"><u>How to Fix the “Network Discovery Is Turned Off” Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methodology-for-amending-lost-drive-issue/"><u>Methodology for Amending Lost Drive Issue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/modulation-is-a-key-technique-to-change-key-centers-within-music-adding-contrast-and-narrative-progression/"><u>Modulation Is a Key Technique to Change Key Centers Within Music, Adding Contrast and Narrative Progression.</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-alarm-choices-best-download-junctions-for-2024/"><u>Top Alarm Choices Best Download Junctions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-app-interference-with-windows-power-control/"><u>Troubleshooting App Interference with Windows Power Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-past-enhance-retro-games-using-retroarchs-tools/"><u>Unlocking the Past: Enhance Retro Games Using RetroArch’s Tools</u></a></li>
 </ul></div>
 

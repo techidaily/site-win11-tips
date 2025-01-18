@@ -1,7 +1,7 @@
 ---
 title: Steps to Fix Resetting Video Driver Errors
-date: 2024-08-08T11:00:18.284Z
-updated: 2024-08-09T11:00:18.284Z
+date: 2025-01-11T17:44:43.059Z
+updated: 2025-01-18T16:30:17.128Z
 tags:
   - windows10
   - windows11
@@ -20,23 +20,14 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 
  Although this issue is mainly reported for games, it can also crash high-resolution videos. It is a recurring error that can make games unplayable or videos unwatchable. This is how you can fix the “Video driver crashed” error on a Windows 11/10 PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Utilize the Video Playback Troubleshooter
 
  The Video Playback troubleshooter might be useful for fixing the “Video driver crashed” error when that error affects video playback. That is a troubleshooter for fixing video playback issues, which the “Video driver crashed” error sometimes is. Our [how to run any Windows troubleshooter](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) guide provides instructions for accessing that troubleshooter and others.
 
  When you start that troubleshooting tool, you’ll have three options. Select the **I want to continue with this troubleshooter** option to initialize the automated video troubleshooting. The troubleshooter might automatically make some system changes or suggest you do something like installing a codec.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Video Playback troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-video-playback-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Update Your PC’s Graphics Driver
 
  Updating graphics drivers is one of the most widely confirmed ways to fix the “Video driver crashed” error. Even the error message itself suggests users update their graphics cards’ drivers. So, it’s quite likely this potential resolution will address the error if your graphics card driver needs updating.
@@ -46,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
  Manually updating graphics drivers by downloading them from the NVIDIA, AMD, or Intel sites is a bit slower but will ensure you get the very latest driver package.
 
 ![The NVIDIA driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-nvidia-driver-download-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reinstall Your PC’s Graphics Driver
 
@@ -71,12 +66,13 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 2. Input **advanced display settings**.
 3. Select **View advanced display info** to open that part of Settings.
 4. Then, select a lower setting in the **Refresh rate** drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![The Refresh rate drop-down menu in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/advanced-display-settings.jpg)
 
  If you can access in-game settings, you might also be able to select a lower frame rate option from there. Look through an affected game’s graphical settings menu to see if it includes an FPS option for selecting lower or higher frame rates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reduce an Affected Game’s Graphical Quality Settings
 
@@ -86,10 +82,11 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 
  There will probably be numerous in-game graphical options you can adjust. Lower the screen, texture, and shadow resolution settings that are included in many games. Then, select to apply the new graphical settings and restart the game.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![A game's Graphics Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/graphics-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you can try selecting a lower graphics preset option instead. Most games have three or more graphics presets that generally change graphical settings. Selecting a lower-quality preset will automatically reduce various graphics options.
 
@@ -110,17 +107,19 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\GraphicsDrivers
 5. Input **TDRDelay** for the key’s title.
 6. Double-click on the **TDRDelay** registry entry.
 7. Delete the current number and enter **8** in the **Value data** box.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-edit-dword-window.jpg)
 8. Select **OK** to finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart the PC after applying this registry tweak. Then, try playing games or videos to see if this error still occurs.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Enjoy Your Windows Games and Videos Again
 
  Those potential resolutions are among the most widely confirmed troubleshooting methods for fixing the “Video driver crashed” error. Many users have discussed how to fix the “Video driver crashed” error on forums and confirmed them to work.
@@ -129,11 +128,31 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\GraphicsDrivers
 
  Although this issue is mainly reported for games, it can also crash high-resolution videos. It is a recurring error that can make games unplayable or videos unwatchable. This is how you can fix the “Video driver crashed” error on a Windows 11/10 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-securing-a-spotlight-with-zoom-and-fb-live-integration/"><u>[New] 2024 Approved Securing a Spotlight with ZOOM & FB Live Integration</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-safe-online-video-conversion-from-youtube-to-mp4/"><u>[Updated] 2024 Approved Safe Online Video Conversion - From YouTube to MP4</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-undisclosed-screengrabbing-invisible-photography-on-snapchat/"><u>[Updated] Undisclosed ScreenGrabbing Invisible Photography on Snapchat</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pushing-boundaries-the-spectrum-of-colors-and-4k-resolution/"><u>2024 Approved Pushing Boundaries The Spectrum of Colors and 4K Resolution</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/ssd-860-evo-87/"><u>最適合你的 SSD：詳細分析 860 EVO 和 87</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-a-python-server-on-windows-transfer-made-simple/"><u>Configuring a Python Server on Windows: Transfer Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-complete-spatial-soundscape-in-windows-11/"><u>Crafting a Complete Spatial Soundscape in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enrich-file-interaction-use-windows-11s-selection-boxes/"><u>Enrich File Interaction: Use Windows 11'S Selection Boxes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-hyper-v-on-the-latest-windows-11/"><u>How to Disable Hyper-V on the Latest Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/inside-the-toolbox-exploring-10-common-strategies-of-online-thieves-and-hackers/"><u>Inside the Toolbox: Exploring 10 Common Strategies of Online Thieves and Hackers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-microsoft-store-app-installation-errors/"><u>Overcoming Microsoft Store App Installation Errors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/peeking-behind-the-scenes-deciphering-youtubes-unlisted-content-for-2024/"><u>Peeking Behind the Scenes Deciphering YouTube's Unlisted Content for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/perfecting-the-twitch-to-youtube-content-transfer-process/"><u>Perfecting the Twitch-to-YouTube Content Transfer Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-redeeming-a-non-functional-spotify-app/"><u>Quick Guide: Redeeming a Non-Functional Spotify App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-onoff-the-power-modify-win11-registry-tools/"><u>Turn On/Off the Power: Modify Win11 Registry Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-reducing-high-cpuram-demand-from-unrealcefsubprocess/"><u>Understanding & Reducing High CPU/RAM Demand From UnrealCEFSubprocess</u></a></li>
+</ul></div>
+

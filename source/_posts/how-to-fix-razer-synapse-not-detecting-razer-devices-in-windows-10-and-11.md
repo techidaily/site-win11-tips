@@ -1,7 +1,7 @@
 ---
 title: How to Fix Razer Synapse Not Detecting Razer Devices in Windows 10 & 11
-date: 2024-08-08T11:02:13.694Z
-updated: 2024-08-09T11:02:13.694Z
+date: 2025-01-12T16:10:49.621Z
+updated: 2025-01-18T17:08:45.043Z
 tags:
   - windows10
   - windows11
@@ -21,13 +21,18 @@ thumbnail: https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c8
  The issue of Synapse not detecting devices is mostly reported for Razer mice and keyboards. However, that issue can also occur for Razer headphones, broadcast microphones, and other accessories that software will usually detect. This is how you can fix the Synapse software not detecting Razer devices within Windows 10 and 11.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## But First, Double-Check Device Compatibility With Razer Synapse
 
  First, before you hop into the troubleshooting steps, note that Synapse will not detect non-Razer devices. There are even some Razer products Synapse 3.0 and 2.0 don’t support. It might be the case Synapse isn’t detecting your hardware because it doesn’t support it. So, double-check your Razer Synapse software supports the device it’s not detecting.
 
  You can check supported hardware at the[Razer Synapse 3 supported device page](https://mysupport.razer.com/app/answers/detail/a%5Fid/4130/~/razer-synapse-3-supported-devices) . Click a category on that page to see if your device is listed there. You can also check compatibility for version 2.0 at the[Razer Synapse 2.0](https://mysupport.razer.com/app/answers/detail/a%5Fid/4131/~/razer-synapse-2.0-supported-devices) supported device page. If your device is listed among the supported hardware on one of those pages, your Synapse software should detect it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run the Hardware and Devices Troubleshooter
 
@@ -41,6 +46,11 @@ thumbnail: https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c8
 `msdt.exe -id DeviceDiagnostic`  
 ![The Hardware and Devices troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hardware-troubleshooter-command.jpg)
 6. Click**Next** in the Hardware and Devices troubleshooter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-hardware-and-devices-troubleshooter.jpg)
 7. Select**Apply this fix** for resolutions the troubleshooter suggests.
 
@@ -53,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c8
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-device-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Select Synapse’s Repair Option
 
  A lot of users have also said they’ve been able to fix Synapse not detecting devices by selecting a**Repair** option for that software. Synapse has a**Repair** option you can select on a Razer Gaming Software window. This is how you can select that option in Windows 11/10:
@@ -62,21 +73,17 @@ thumbnail: https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c8
 1. Bring up the Windows uninstaller utility in the Control Panel with a method in our guide for[opening Programs and Features on Windows](https://www.makeuseof.com/windows-open-programs-and-features-tool/) .
 2. Then select Razer Synapse in Programs and Features.
 3. Click the**Change** button for Razer Synapse.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Change button for Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-button.jpg)
 4. Select the**Repair** option in the window that opens.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Repair button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-button.jpg)
 5. Sign back into Razer Synapse after selecting**Repair** .
 6. Then select**Restart** in Windows 11/10 before launching Synapse.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## 4\. Reinstall Razer Synapse
 
  Corrupted or missing Synapse modules can cause the issue of Synapse not detecting Razer devices. So, thoroughly uninstalling Synapse by erasing leftover data and reinstalling the software will often resolve that issue. Reinstall Razer Synapse as follows:
@@ -97,9 +104,6 @@ thumbnail: https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c8
 
 `C:\ProgramData\Razer`
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The ProgramData > Razer folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-subfolder.jpg)
 
  Repeat steps eight and nine to delete all files in the Razer directories folder. Once done, restart your PC.
@@ -117,28 +121,26 @@ thumbnail: https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c8
 2. Click**Device Manager** to view that tool’s window.
 3. Double-click**Mice and other pointing devices** to view peripherals for that category.
 4. Right-click a Razer mouse and select**Uninstall device** \>**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device-option.jpg)
 5. Repeat the previous step for all HID mice devices listed.
 6. Then double-click the**Keyboards** category.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![The Keyboards device category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keyboards-category.jpg)
 7. Uninstall all Razer and HID keyboard devices listed there as outlined in step four.
 8. Reboot the Windows PC for the automatic reinstallation of device drivers. You can also select**Action** and**Scan for hardware changes** in Device Manager to reinstall uninstalled peripherals.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Disable Antivirus Utilities
 
  Temporarily antivirus apps on your PC to ensure they aren’t blocking Synapse in any way. You can disable Windows Security’s real-time protection as outlined in our guide for[disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) . If there’s a third-party antivirus tool on your PC, turn off its shield via its system tray icon’s context menu.
 
 ![Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-option2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Razer Synapse to see if it detects your devices after disabling antivirus software on your PC. If this potential resolution works, consider adding Razer Synapse to the[exclusion list in Windows Security](https://www.makeuseof.com/windows-11-security-exclusions/) or alternative security software. Then turn your antivirus protection back on.
 
@@ -152,8 +154,6 @@ thumbnail: https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +161,24 @@ thumbnail: https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-optimize-video-engagement-through-resizing-thumbnails-on-youtube/"><u>[New] How to Optimize Video Engagement Through Resizing Thumbnails on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-digital-landscape-with-these-7-indispentic-devices/"><u>[New] Master the Digital Landscape with These 7 Indispentic Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-mellow-moves-discover-top-20-serene-country-songs-for-groovy-dancing-tiktok-for-2024/"><u>[New] Mellow Moves Discover Top 20 Serene Country Songs for Groovy Dancing (TikTok) for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-audio-driver-on-hidef-bus/"><u>Corrected Audio Driver on HiDef Bus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970206534-efficient-scanning-printing-and-copying-on-toshiba-machines-secure-your-windows-driver-today/"><u>Efficient Scanning, Printing & Copying on Toshiba Machines - Secure Your Windows Driver Today</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-assassins-creed-valhalla-an-in-depth-review-of-the-epic-norse-adventure-quest/"><u>Exploring 'Assassin's Creed: Valhalla': An In-Depth Review of the Epic Norse Adventure Quest</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-missing-items-in-windows-explorer-navigation/"><u>Fixing Missing Items in Windows Explorer Navigation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-itel-a60s-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Itel A60s</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-outlook-preview-in-windows-11-a-step-by-step-guide/"><u>Launching Outlook Preview in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-ram-capacity-with-enhanced-virtual-memory-tactics/"><u>Maximizing RAM Capacity with Enhanced Virtual Memory Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-geforce-experience-failures-in-windows-systems/"><u>Resolving GeForce Experience Failures in Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rocky-linux-rallies-with-ciq-a-new-era-of-support-from-the-experienced-linux-community-leaders-tech-insights/"><u>Rocky Linux Rallies with CIQ: A New Era of Support From the Experienced Linux Community Leaders | Tech Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-blue-screen-on-hybrid-os-5-ways-to-correct-bsos-errors/"><u>Stop Blue Screen on Hybrid OS: 5 Ways to Correct BSOS Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tweaking-tech-enhancing-windows-11-hardware-performance/"><u>Tweaking Tech: Enhancing Windows 11 Hardware Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win1110-tips-remedying-nvidia-control-panel-errors/"><u>Win11/10 Tips: Remedying Nvidia Control Panel Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-performance-boost-with-strategic-feature-deactivation/"><u>Windows 11 Performance Boost with Strategic Feature Deactivation</u></a></li>
+</ul></div>
 

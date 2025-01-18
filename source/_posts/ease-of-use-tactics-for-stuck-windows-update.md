@@ -1,7 +1,7 @@
 ---
 title: Ease-of-Use Tactics for Stuck Windows Update
-date: 2025-01-12T01:40:42.861Z
-updated: 2025-01-12T23:40:04.066Z
+date: 2025-01-14T18:17:36.719Z
+updated: 2025-01-18T17:55:26.920Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  You may have rebooted your phone at times to fix some lags and stuck applications. And you probably know that restarting your Windows PC works in the same way—it can fix issues like an unresponsive app and glitches too.
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
  Restarting your PC should be the first thing you do when the Windows Update Troubleshooter gets stuck on a "resolving problems" loop.
 
  Then try running the Windows Update Troubleshooter to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Clear the DNS Cache
 
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
  But you can clear or flush the DNS cache to resolve security and internet connectivity issues. Check out[how to flush the DNS cache on Windows](https://www.makeuseof.com/flush-dns-cache-windows/) for more information on how to do this.
 
  If the process is successful, you will get the confirmation message of the DNS Resolver Cache being successfully flushed. Now try running the Windows Update Troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Restart Windows Cryptographic Services
 
@@ -64,16 +68,8 @@ To fix this, you can try restarting Cryptographic Services.
 ![Windows Cryptographic Services in the Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-cryptographic-services.jpg)
 3. In**Properties** , click the**Stop** button to stop Cryptographic Services.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
 4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
 5. Then click**Apply** and then**OK** .
@@ -103,11 +99,15 @@ To fix this, you can try restarting Cryptographic Services.
 ![Advanced Options in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options-windows-update.jpg)
 3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
 4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
@@ -127,15 +127,15 @@ To edit and enable the Scripted Diagnostics policy:
 ![Open Group Policy Editor Via Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-group-policy-editor-via-run.jpg)
 3. Click**Yes** on the UAC prompt. The**Group Policy Editor** will open.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. In the**Group Policy Editor** , navigate to**Scripted Diagnostics** using the following path:  
 `Computer Configuration > Administrative Templates > System > Troubleshooting and Diagnostics > Scripted Diagnostics`
 5. In the left pane, click on**Scripted Diagnostics** to open its three items.  
 ![Open Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-scripted-diagnostics-policy.jpg)
 6. Double-click on the first item and select the**Enable** option in the window that opens.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Enable Each Item in Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-items-of-scripted-diagnostics-policy.jpg)
 7. Finally, tap on**Apply** and then**OK** .
@@ -164,24 +164,22 @@ To edit and enable the Scripted Diagnostics policy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ut-to-the-chase-8-simple-youtube-thumbnail-builders/"><u>[New] Cut-to-the-Chase 8 Simple YouTube Thumbnail Builders</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-fixing-freeze-problems-in-fb-livestreams-for-2024/"><u>[New] Fixing Freeze Problems in FB Livestreams for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-casino-confidential-communiques/"><u>[New] In 2024, CASINO CONFIDENTIAL COMMUNIQUES</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1726028132376-vimeo/"><u>動画編集機能が無効になっている場合、どうすればよいですか？ - Vimeoの解決策</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensible-guide-to-managing-windows-key/"><u>A Comprehensible Guide to Managing Windows Key</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-for-switching-from-pin-to-passwords-in-windows-11-user-interface/"><u>A Guide for Switching From PIN to Passwords in Windows 11 User Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guidetosettingupdarkinterfaceonwinnotepad/"><u>A GuideToSettingUpDarkInterfaceOnWinNotepad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieve-advanced-settings-for-windows-11s-bar/"><u>Achieve Advanced Settings for Windows 11'S Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adding-digital-imagery-to-your-desktop/"><u>Adding Digital Imagery to Your Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-the-absence-of-msvcr110dll-a-guide/"><u>Addressing the Absence of msvcr110.dll: A Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/altering-password-policy-updating-lockout-value-after-failed-attempts/"><u>Altering Password Policy: Updating Lockout Value After Failed Attempts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/cross-platform-comedy-best-meme-contenders-for-2024/"><u>Cross-Platform Comedy Best Meme Contenders for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719380036891-dual-virus-defense-think-again-windows-users/"><u>Dual Virus Defense? Think Again, Windows Users</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-11-pro-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 11 Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-se-2022-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone SE (2022) Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719203477260-how-to-unfreeze-google-chrome-in-windows-11-fastly-find-out-now/"><u>How to Unfreeze Google Chrome in Windows 11 Fastly? Find Out Now</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-motorola-edge-2023-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Motorola Edge 2023 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/marvel-at-pimax-crystals-vr-clarity-and-its-quirks/"><u>Marvel at Pimax Crystal's VR Clarity & Its Quirks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/smart-compactness-in-sandisks-clip-jam-player/"><u>Smart Compactness in SanDisk's Clip Jam Player</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-behind-the-curtain-top-10-hidden-features-of-vlc-player/"><u>[Updated] In 2024, Behind the Curtain Top 10 Hidden Features of VLC Player</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-music-sticker-how-to-get-the-music-sticker-on-instagram/"><u>[Updated] Instagram Music Sticker How to Get the Music Sticker on Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-exceptional-economically-priced-asmr-gear/"><u>2024 Approved Explore Exceptional, Economically-Priced ASMR Gear</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-14-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone 14 Pro Max</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-set-up-your-iphone-vpn-connection-follow-this-guide-and-fix-it-in-just-7-steps/"><u>Can't Set Up Your iPhone VPN Connection? Follow This Guide and Fix It in Just 7 Steps!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-trustworthy-hardware-delete-function-window/"><u>Crafting a Trustworthy Hardware Delete Function Window</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-saving-woes-top-6-strategies-for-windows-users/"><u>Mastering File Saving Woes: Top 6 Strategies for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-diverse-windows-partition-union/"><u>Mastering the Art of Diverse Windows Partition Union</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cutting-through-the-noise-final-cut-pro-vs-lumafusion-comparison/"><u>New In 2024, Cutting Through the Noise Final Cut Pro vs LumaFusion Comparison</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-defective-functionality-to-netflix-on-pc/"><u>Restoring Defective Functionality to Netflix on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealthy-operations-for-windows-zone-visibility/"><u>Stealthy Operations for Windows Zone Visibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-adding-dolby-atmos-to-your-pc/"><u>Step-By-Step: Adding Dolby Atmos to Your PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-20-fonts-for-captivating-youtube-thumbnails/"><u>Top 20 Fonts for Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreeze-reset-and-restore-shift-key/"><u>Unfreeze, Reset, and Restore Shift Key.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unwavering-file-elimination-in-windows-11s-trash-bin-setup/"><u>Unwavering File Elimination in Windows 11'S Trash Bin Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212478609-xbox-one-audio-woes-discover-how-to-restore-headset-functionality-today/"><u>Xbox One Audio Woes? Discover How to Restore Headset Functionality Today!</u></a></li>
 </ul></div>
 

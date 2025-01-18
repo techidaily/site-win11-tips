@@ -1,7 +1,7 @@
 ---
 title: Fixing Controller Detection Issues on Windows Steam
-date: 2024-08-08T11:02:57.596Z
-updated: 2024-08-09T11:02:57.596Z
+date: 2025-01-17T17:22:54.686Z
+updated: 2025-01-18T17:53:10.423Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 
  Don’t worry though, it’s possible to get Steam to detect your controller with a few quick and easy troubleshooting tips. Let’s check them out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Rule Out Issues With Your Controller
 
  Your first course of action is to rule out any issues with your controller. For that, try disconnecting the controller from your PC and reconnecting it. If it’s a wireless controller, make sure it has sufficient charge.
@@ -32,10 +36,11 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 
  Press **Win + R** to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Type **joy.cpl** in the text box and hit **Enter**. In the Game Controllers window that appears, check if your controller shows up. If it does, make sure its **Status** reads **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Game Controllers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-controllers-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Exit and Re-Enter Steam’s Big Picture Mode
 
@@ -67,31 +72,22 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 2. Click the **Steam** menu in the top left corner and select **Settings**.
 3. Select the **In Game** tab from the left sidebar.
 4. Turn on the toggle next to the **Enable Steam Overlay while in-game** option.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable Steam Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-steam-overlay.jpg)
 
  Restart the Steam client after this and check if the issue is still there.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 6\. Run Steam as an Administrator
 
  Insufficient permissions can also contribute to such issues with the Steam client on Windows. To avoid this, you can try running Steam with administrative privileges. To do so, right-click on the **Steam** app shortcut and select **Run as administrator**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Run Steam as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-steam-as-administrator.jpg)
 
  If doing this finally allows Steam to detect your controller, you can configure Steam to [always run as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) as a more permanent solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Configure the Steam Controller Application Options
 
  If Steam is detecting your controller, but it’s not working in your game, you can try modifying the controller application options in Steam by following the steps below.
@@ -106,25 +102,29 @@ DbSchema database designer for all databases, schema design in the team, schema 
 8. Click **OK** to save your changes.  
 ![Steam Input Per-Game Setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/steam-input-per-game-setting.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Update Your Controller Drivers
 
  Outdated or malfunctioning drivers on your PC can also hinder Steam's ability to recognize your gaming controller. If that’s the case, updating the controller drivers should help. Fortunately, we have a guide on [how to find and replace outdated Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) if you need help.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 9\. Check for Steam Client Updates
 
  There’s a chance that Steam is unable to detect your controller on Windows due to a bug within the app. Fortunately, Steam regularly receives updates that address such issues and enhance performance. Hence, it's a good idea to ensure you are running the most recent version of Steam on Windows.
 
  To check for Steam updates, click the **Steam** menu in the top-left corner and select **Check for Steam Client Updates**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Check for Steam Updates on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/check-for-steam-updates-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Opt Out of the Steam Beta
 
@@ -134,16 +134,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. In the Account tab, click the **Change** button under **Beta participation**.
 3. Click the drop-down menu to select the **NONE – Opt out of all beta programs** option.
 4. Click **OK** to save changes.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Opt out of Steam Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steam-beta-1.jpg)
 
  Restart Steam after this, and it should automatically install the necessary updates to switch to the stable version of the app.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Navigate the Steam Universe With Your Controller Once Again
 
  Using a gaming controller on Steam offers a more comfortable and familiar gaming experience, especially for those who prefer a traditional console-like setup. Hopefully, one of the above tips has worked out and Steam is able to detect your gaming controller on Windows.
@@ -152,11 +146,23 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Don’t worry though, it’s possible to get Steam to detect your controller with a few quick and easy troubleshooting tips. Let’s check them out.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/outubes-beauty-titans-whos-leading-in-2024/"><u>[New] YouTube's Beauty Titans Who's Leading , In 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-revolutionize-your-fb-video-strategy-with-these-ideas/"><u>[Updated] 2024 Approved Revolutionize Your FB Video Strategy with These Ideas</u></a></li>
+<li><a href="https://driver-error.techidaily.com/compatibility-fixes-for-hardware-not-recognized-by-your-integrated-device-technology-idt-package/"><u>Compatibility Fixes for Hardware Not Recognized by Your Integrated Device Technology (IDT) Package</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-your-heat-in-check-with-these-gamers-laptop-care-guidelines/"><u>Keep Your Heat in Check with These Gamer's Laptop Care Guidelines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-recovering-lost-settings-from-nvidia-control-center/"><u>Methods for Recovering Lost Settings From NVidia Control Center</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-add-a-personal-touch-top-free-video-watermarking-apps/"><u>New Add a Personal Touch Top Free Video Watermarking Apps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unearthing-origin-of-mysterious-dx-misstep-in-lol/"><u>Unearthing Origin of Mysterious DX Misstep in LOL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-win11-potential-with-devhome-exploration/"><u>Unlocking Win11 Potential with DevHome Exploration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-your-computers-clock-display-top-5-dynamic-windows-clock-screensavers-using-these-apps/"><u>Upgrade Your Computer’s Clock Display: Top 5 Dynamic Windows Clock Screensavers Using These Apps</u></a></li>
+</ul></div>
+

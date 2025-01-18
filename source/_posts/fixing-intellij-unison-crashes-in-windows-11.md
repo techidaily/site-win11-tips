@@ -1,7 +1,7 @@
 ---
 title: Fixing IntelliJ Unison Crashes in Windows 11
-date: 2024-08-08T10:59:30.579Z
-updated: 2024-08-09T10:59:30.579Z
+date: 2025-01-16T17:33:54.571Z
+updated: 2025-01-18T18:22:02.457Z
 tags:
   - windows10
   - windows11
@@ -38,8 +38,9 @@ To run the Windows Store Apps troubleshooter:
  Still experiencing Bluetooth issues? Check our guide on[fixing Bluetooth pairing issues on Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) and follow the steps outlined there.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Allow the Intel Unison App to Run in the Background
 
  If you’ve disabled background app permission for Intel Unison, it may fail to sync your data when you are not using it. To avoid this, you must enable background app permission for the Intel Unison app. Here's how to do it.
@@ -50,9 +51,6 @@ To run the Windows Store Apps troubleshooter:
 4. Click the drop-down menu under**Background apps permissions** and select**Always** .  
 ![Allow Intel Unison to Run in the Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-intel-unison-to-run-in-the-background.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Allow Intel Unison App Access to Your Phone Calls and Notifications
 
  The Intel Unison app on Windows requires permission to access phone calls and notifications. You need to ensure that these permissions are enabled. Here’s how to check.
@@ -63,10 +61,11 @@ To run the Windows Store Apps troubleshooter:
 4. Enable the toggle next to**Notifications** .
 5. Further, scroll down to**App notifications** , and use the toggles to enable notification permission for individual apps.
 6. Next, switch to the**Calls** tab and enable the toggle for**Allow phone calls** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Intel Unison App Notification Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/intel-unison-app-notification-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Battery Saver Mode
 
@@ -77,14 +76,12 @@ To run the Windows Store Apps troubleshooter:
 1. Press**Win + I** to open the Settings app.
 2. In the**System** tab, click on**Power & battery** .
 3. Under Battery, click on**Battery saver** and click the**Turn off now** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Turn Off Battery Saver on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turn-off-battery-saver-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Disable Any Active Third-Party Antivirus Programs
 
  At times, third-party antivirus programs on your PC can get too cautious and prevent apps from exchanging files and syncing data. To check for this possibility, you need to temporarily disable your antivirus program.
@@ -106,15 +103,12 @@ To run the Windows Store Apps troubleshooter:
 3. Click the**Forget this device** option.
 4. Next, open the Intel Unison app on your Android or iPhone and scan the QR code on your PC.
 5. Follow the on-screen instructions to pair your phone.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Disconnect Phone From Intel Unison App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disconnect-phone-from-intel-unison-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Repair or Reset the Intel Unison App
 
  Both Windows 10 and 11 include a useful repair tool for fixing app-related issues. Check out our guide on[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) to fix the Intel Unison app without affecting your data.
@@ -127,20 +121,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Once removed, head over to the[Intel Unison page on the Microsoft Store](https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26) to download the Intel Unison app. Hopefully, this should help resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixing Intel Unison App on Windows 11
 
  Issues with the Intel Unison app should not force you to look for alternatives. One of the above-mentioned fixes should get the app back up and running on your Windows PC.
 
  If you have an Android phone, you can also use Microsoft's Phone Link app to sync it with a Windows computer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +144,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-unlock-image-potential-with-editors-essentials/"><u>[New] 2024 Approved Unlock Image Potential with Editor's Essentials</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-creative-commons-legalities-explained-simply-for-2024/"><u>[New] Creative Commons Legalities Explained Simply for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-expert-advice-optimizing-vlc-for-maximum-efficiency-on-mac/"><u>[New] In 2024, Expert Advice Optimizing VLC for Maximum Efficiency on Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-poco-m6-pro-4g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Poco M6 Pro 4G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capturing-gameplay-moments-flawlessly/"><u>2024 Approved Capturing Gameplay Moments Flawlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-hidden-power-of-windows-reliability-and-performance-monitors/"><u>Decoding the Hidden Power of Windows' Reliability & Performance Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-to-solve-windows-0x80070141-connectivity-issues/"><u>Essential Tips to Solve Windows' 0X80070141 Connectivity Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-the-latest-in-video-compression-technology-with-these-46-new-tools/"><u>Explore the Latest in Video Compression Technology with These 46 New Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interactive-document-analysis-made-easy-leverage-these-6-chatgpt-compatible-applications/"><u>Interactive Document Analysis Made Easy - Leverage These 6 ChatGPT-Compatible Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-11s-entry-point-for-peak-performance/"><u>Maximizing Windows 11'S Entry Point for Peak Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-frozen-pc-lock-screen-wait-time-issue/"><u>Overcoming Frozen PC Lock Screen Wait Time Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-active-state-for-windows-11-context-menu/"><u>Reinstating Active State for Windows 11 Context Menu</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-to-stop-valheim-from-frequent-crashes-on-your-computer/"><u>Troubleshooting Guide to Stop Valheim From Frequent Crashes on Your Computer</u></a></li>
+</ul></div>
 

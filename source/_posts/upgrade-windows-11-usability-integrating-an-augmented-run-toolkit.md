@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Windows 11 Usability: Integrating an Augmented Run Toolkit"
-date: 2025-01-10T00:42:18.158Z
-updated: 2025-01-12T23:16:33.856Z
+date: 2025-01-12T17:34:26.412Z
+updated: 2025-01-18T18:30:22.332Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add an Alternative Run Accessory to Windows With Run-Command
@@ -41,9 +41,17 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 ![The Extract Compressed (Zipped) folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window2.jpg)
 6. Then double-click the**Run-Command\_x64.exe** in that software’s unzipped folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can utilize Run-Command instead of Run. Input any command you would usually enter in Run into Run-Command. Then click**Run** or**Run as administrator** to open the app with the command entered. This app’s**Run as administrator** option is the first notable difference most users will probably notice.
 
 ![The Run-Command app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-command-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another difference you’ll quickly notice is that Run-Command includes 13 shortcut icons. Clicking those shortcuts will open some of the most useful Windows tools. These are the utilities and windows you can access with those Run-Command shortcuts:
 
@@ -66,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
 ![The Favorites menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-favorites-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can remove shortcuts added and edit the menu by clicking the**Manage Favorites** option. Select a shortcut in the Manage Favorites window and click the**X** button to remove it. Or you can click a folder button there to add new subfolders to the menu to move your shortcuts in. To edit a shortcut’s title, select it and click the rename button.
 
 ![The Manage Favorites window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/manage-favorites-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  So, what we have here is an alternative Run app in which you can add shortcuts for opening all your favorite software packages. How utterly brilliant; but why hasn’t Microsoft added such a feature to Windows’ native Run app? The Redmond developers should have added a shortcut menu to Run long ago.
 
@@ -81,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
  However, you can change that keyboard shortcut to something else if preferred. To do so, click the**Options** menu; select**Hot-Key** on that menu to bring up a small window. Then select a key combination in the drop-down menus and click**OK** .
 
 ![The Options menu in Run-Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/options-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
@@ -101,17 +105,21 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 ![The PowerToys setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powertoys-setup-window.jpg)
 7. To open PowerToys, click**Start** and**All apps** (in Windows 11). Select PowerToys on the menu
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select the PowerToys**Run** tab.
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
 ![The Enable PowerToys Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-powertoys-run-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now press the**Alt** +**Space** hotkey to bring up a**Start typing** box. Then input the name of the software you want to launch inside PowerToys Run. Select a matching application within the results shown to open its window.
 
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Getting Familiar With PowerToys Run
 
@@ -135,17 +143,9 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
 ![The $ command for accessing Control Panel applets and Settings pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can disable or enable plugins via the**PowerToys Run** tab. Scroll down to the**Plugins** section of that tab to view those options. You can click the**On** or**Off** switches to enable/disable them.
 
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
 
@@ -168,20 +168,18 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-quick-fixes-to-address-delayed-stories-on-social-networks/"><u>[Updated] Quick Fixes to Address Delayed Stories on Social Networks</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-comprehensive-analysis-the-power-of-sj-cam-s6/"><u>2024 Approved Comprehensive Analysis The Power of SJ-CAM S6</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activate-and-configure-powershell-execution-policies-securely/"><u>Activate & Configure PowerShell Execution Policies Securely</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-system-called-fails-on-windows-1011/"><u>Addressing System Called Fails on Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjustment-assistants-best-windows-utilities-for-date-tweaking/"><u>Adjustment Assistants: Best Windows Utilities for Date Tweaking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/assessing-space-allocation-in-windows-applications/"><u>Assessing Space Allocation in Windows Applications</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/assessing-the-financial-impact-of-music-videos-for-2024/"><u>Assessing the Financial Impact of Music Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-a-marooned-experience-with-xbox-in-windows-11/"><u>Avoiding a Marooned Experience with Xbox in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719348732386-cant-capture-sound-in-obs-on-win-11-solve-it-now/"><u>Can't Capture Sound in OBS on Win 11? Solve It Now!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-professional-efficiency-discover-7-ways-to-use-chatgpt-for-enhanced-productivity-at-work/"><u>Elevate Professional Efficiency: Discover 7 Ways to Use ChatGPT for Enhanced Productivity at Work</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-analysis-complete-look-at-xvideo-studio-essentials-for-2024/"><u>Expert Analysis Complete Look at XVideo Studio Essentials for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-axon-40-lite-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock ZTE Axon 40 Lite Bootloader Easily</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-zipping-outcomes-turning-into-subrip-text-files/"><u>In 2024, Zipping Outcomes Turning Into SubRip Text Files</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-the-lenovo-thinkpad-x1-nano-your-next-go-to-featherlight-notebook-choice/"><u>Unboxing the Lenovo ThinkPad X1 Nano: Your Next Go-To Featherlight Notebook Choice</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-elite-e-learning-platforms-beyond-udemy-explored/"><u>[New] In 2024, Elite E-Learning Platforms Beyond Udemy Explored</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-peak-of-data-preservation-cloud-service-guide-for-2024/"><u>[New] The Peak of Data Preservation Cloud Service Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-craft-professional-soundscapes-for-podcasts-in-garageband-for-2024/"><u>[Updated] Craft Professional Soundscapes for Podcasts in GarageBand for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-chatbot-language-bias-revealed-by-stanford-research-the-struggle-with-non-english-languages-zdnet/"><u>AI Chatbot Language Bias Revealed by Stanford Research - The Struggle with Non-English Languages | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-gpo-a-complete-guide-for-users/"><u>Deciphering Windows GPO: A Complete Guide for Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dismiss-incompatible-prerequisite-message-in-win11/"><u>Dismiss Incompatible Prerequisite Message in Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-solving-surface-pro-wi-fi-connection-problems/"><u>Expert Tips on Solving Surface Pro Wi-Fi Connection Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-disabling-games-on-windows-11-list/"><u>Guide to Disabling Games on Windows 11 List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-choice-devices-turn-pics-to-films/"><u>In 2024, Prime Choice Devices Turn Pics to Films</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-wins-most-unusual-error-codes/"><u>Solutions for Win's Most Unusual Error Codes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-the-stutter-top-fixes-for-optimizing-the-sims-4-gameplay-pc-a-2024-how-to-guide/"><u>Stop the Stutter: Top Fixes for Optimizing The Sims 4 Gameplay (PC) – A 2024 How-To Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-resource-occupied-errors-152-chars/"><u>Strategies to Overcome 'Resource Occupied' Errors (152 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-secrets-of-win-11-gaming-top-seven-strategies-for-gamers/"><u>Unlock the Secrets of Win 11 Gaming: Top Seven Strategies for Gamers</u></a></li>
 </ul></div>
 

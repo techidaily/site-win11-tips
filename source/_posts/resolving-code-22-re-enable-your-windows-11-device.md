@@ -1,7 +1,7 @@
 ---
 title: "Resolving Code 22: Re-Enable Your Windows 11 Device"
-date: 2024-08-08T11:03:45.457Z
-updated: 2024-08-09T11:03:45.457Z
+date: 2025-01-11T16:52:31.695Z
+updated: 2025-01-18T17:38:47.656Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
  Fortunately, it's very easy to fix the error code 22 on Windows. Let's look at what the error code 22 means on Windows, some common reasons why it occurs, and how to quickly fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is the “This Device Is Disabled (Code 22)” Error on Windows?
 
  When you connect an external device to your computer for the first time, Windows installs the driver that is compatible with the device. The device driver then establishes a connection between the removable device and Windows. This allows Windows to identify the device and use it properly.
@@ -37,18 +34,6 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
  Now that you have a brief knowledge about the "this device is disabled (Code 22)" error, let's explore solutions that will help you fix it.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Enable the Device in the Device Manager
 
  One of the simplest ways to fix error code 22 is to manually enable the device throwing the error. To do that, open the **Device Manager** (check how to [launch Device Manager on Windows](https://www.makeuseof.com/windows-open-device-manager/)), right-click on the problematic device, and choose **Properties**. Then, click the **Enable Device** button.
@@ -63,22 +48,24 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
  You should also look for signs of liquid damage, such as corrosion or discoloration on your device. If you find any physical damage, it is likely the culprit behind the error message. In this case, the best thing you can do is to replace the device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Update Your Device Driver
 
  If your device driver is outdated or corrupt, you may be more likely to experience hardware device issues, such as error code 22\. The solution, in this case, is to update your device driver.
 
  To do this, open the **Settings app**. On the left side of the window, select **Windows Update**. Then, click the **Check for updates** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Check for updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates-1.jpg)
 
  Your computer will now check the Microsoft servers for updates to your current operating system, including its drivers. If any updates are found, they will be downloaded and installed automatically. Otherwise, you will see a message that says **You're up to date**.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Use the Hardware and Device Troubleshooter
 
  Windows comes with several troubleshooters that can help you fix different problems. One of them is the Hardware and Devices troubleshooter, which, as the name suggests, helps to fix hardware issues.
@@ -89,16 +76,18 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
  Then, check the **Apply repairs automatically** option and click **Next** to step through it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![Apply repairs automatically option of Hardware troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Apply-repairs-automatically.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the wizard completes, the troubleshooter will let you know of any issues it found and how to fix them.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Clear Your Computer's CMOS
 
  Another way to fix the "this device is disabled (code 22)" error is to clear the CMOS. Doing this will be helpful if a recent change in your BIOS setting is causing the issue. You can clear the CMOS by following the below instructions:
@@ -124,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
  To do that, start re-enabling the services you disabled for performing the clean boot until the error returns. Once you find the problematic service, consider uninstalling it or downloading its update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Perform a System Restore
 
  If you are still struggling with the error, you can [try a system restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) to see if that fixes your problem. This will restore your computer to a prior point in time, which is useful if the issue started recently.
@@ -134,11 +127,24 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
  Fortunately, it's very easy to fix the error code 22 on Windows. Let's look at what the error code 22 means on Windows, some common reasons why it occurs, and how to quickly fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-first-impressions-intova-x-in-the-spotlight/"><u>[New] In 2024, First Impressions Intova X in the Spotlight</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-sharpen-the-scene-expert-insights-for-cropping-videos-with-insta-flair-for-2024/"><u>[New] Sharpen the Scene Expert Insights for Cropping Videos with Insta Flair for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-top-10-channels-to-watch-on-igtv-daily-for-2024/"><u>[New] Top 10 Channels to Watch on IGTV Daily for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unmatched-collection-10-excellent-platforms-for-vimeo-video-downloaders/"><u>[Updated] 2024 Approved Unmatched Collection 10 Excellent Platforms for Vimeo Video Downloaders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-broadcast-battleground-which-wins-obs-or-twitch/"><u>[Updated] In 2024, Broadcast Battleground Which Wins, OBS or Twitch?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-blank-inputs-reviving-xbox-mic-functionality-on-windows-11/"><u>Fixing Blank Inputs: Reviving Xbox Mic Functionality on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-ad-ds-printer-errors-a-user-friendly-approach-for-windows-users/"><u>Navigating AD DS Printer Errors: A User-Friendly Approach for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-implementing-new-os-windows-11-and-vmware-edition/"><u>Securely Implementing New OS: Windows 11 & VMWare Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-off-internal-display-hardware-in-win-810/"><u>Switching Off Internal Display Hardware in Win 8/10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/bers-toolkit-essential-setup-guidelines-for-2024/"><u>Youtubers' Toolkit Essential Setup Guidelines for 2024</u></a></li>
+</ul></div>
+

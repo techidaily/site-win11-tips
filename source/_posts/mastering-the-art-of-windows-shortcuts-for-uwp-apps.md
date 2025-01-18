@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Windows Shortcuts for UWP Apps
-date: 2025-01-12T01:43:00.957Z
-updated: 2025-01-12T22:11:02.783Z
+date: 2025-01-11T16:06:07.629Z
+updated: 2025-01-18T16:45:16.062Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Drag and Drop UWP Apps From the Start Menu Onto the Desktop
 
  A simple way to create shortcuts for UWP apps is to drag and drop them from the Start menu onto the desktop. To do that, open the Start menu and click**All apps** . Then click a UWP app on the menu, hold the left mouse button, and drag its icon onto the desktop. Release the left mouse button when you see a**Link** box to add the desktop shortcut.
 
 ![The Link box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-link-box.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Create Desktop Shortcuts for UWP Apps From the Applications Folder
 
@@ -42,14 +50,10 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 ![The Create shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-shortcut-option.jpg)
 5. Select**Yes** when prompted to place a shortcut on the desktop.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Create Desktop Shortcuts for Pre-Installed UWP Apps With the Create Shortcut Wizard
@@ -65,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 5. Enter the app’s name in the text box.
 6. Press**Finish** to create your UWP app shortcut.  
 ![The Alarms and Clocks desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/alarms-and-clocks-desktop-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This method will add a URL (web document) shortcut for opening the app to the desktop. These are some of the URIs with which you can create UWP desktop shortcuts:
 
@@ -98,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 
 ![The Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pin-to-taskbar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that you can’t pin web document desktop shortcuts to the taskbar. The context menus for desktop shortcuts created with URI commands don’t include the**Pin to taskbar** option.
 
 ## 5\. Assign Hotkeys to UWP App Desktop Shortcuts
@@ -111,11 +115,7 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 4. Select**Apply** \>**OK** to save the hotkey for the desktop shortcut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create Shortcuts for All Your Favorite UWP Apps
@@ -137,19 +137,18 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-craft-engaging-narratives-for-facebook-reels/"><u>[New] 2024 Approved How to Craft Engaging Narratives for Facebook Reels</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-youtube-livestream-game-plan-for-2024/"><u>[New] Elevate Your YouTube Livestream Game Plan for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elevating-roi-with-strategic-facebook-animation-ads/"><u>[Updated] 2024 Approved Elevating ROI with Strategic Facebook Animation Ads</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-streaming-profitably-understanding-youtube-updates/"><u>[Updated] In 2024, Streaming Profitably Understanding YouTube Updates</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-10-smart-strategies-for-novice-photo-editors-in-ps/"><u>In 2024, 10 Smart Strategies for Novice Photo Editors in PS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-oculus-rift-into-a-windows-pc-virtual-reality-setup/"><u>Integrating Oculus Rift Into a Windows PC Virtual Reality Setup</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-lgs-um7300-a-worthy-contender-review-of-the-budget-friendly-49-inch-4k-smart-tv/"><u>Is LG's UM7300 a Worthy Contender? Review of the Budget-Friendly, 49-Inch 4K Smart TV</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-audio-recording-on-windows-11-the-ultimate-tutorial-for-clear-sound-outputs/"><u>Mastering Audio Recording on Windows 11: The Ultimate Tutorial for Clear Sound Outputs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximize-iphone-imaging-select-accessories-for-professionals/"><u>Maximize iPhone Imaging Select Accessories for Professionals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfect-pens-tablet-apps-on-the-windows-os/"><u>Perfect Pens' Tablet Apps on the Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-limited-administrator-power-from-security-issue/"><u>Removing 'Limited Administrator Power' From Security Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbocharge-windows-11-eliminate-sluggishness-effectively/"><u>Turbocharge Windows 11: Eliminate Sluggishness Effectively</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/weekly-melodic-delights-top-hit-karaoke-songs-from-party-tymes-live-session-on-may-7-19-2019-start-your-free-trial/"><u>Weekly Melodic Delights: Top Hit Karaoke Songs From Party Tyme's Live Session on May 7-19, 2019 | Start Your Free Trial!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-at-code-top-strategies-for-wsl-2-users/"><u>Winning at Code: Top Strategies for WSL 2 Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevating-your-contents-exposure-with-ongoing-creative-commons-usage-for-2024/"><u>[New] Elevating Your Content's Exposure with Ongoing Creative Commons Usage for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tailoring-your-playstation-experience-with-sounds/"><u>[New] Tailoring Your PlayStation Experience with Sounds</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-approach-harnessing-watch-for-mac-unlock/"><u>[Updated] Advanced Approach Harnessing Watch for Mac Unlock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compressao-de-videos-para-e-mailes-melhores-truques-e-dicas-por-expertos/"><u>Compressão De Vídeos Para E-Mailes: Melhores Truques E Dicas Por Expertos!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargar-el-avi-player-para-windows-10-sin-costo-guia-completa-de-instalacion-y-uso/"><u>Descargar El AVI Player Para Windows 10 Sin Costo: Guía Completa De Instalación Y Uso</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-resolving-window-10-screen-vibrating-problems/"><u>Guide: Resolving Window 10 Screen Vibrating Problems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-f54-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy F54 5G Without Password?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-six-ingenious-quizzes-to-pinpoint-your-perfect-youtube-persona/"><u>In 2024, Six Ingenious Quizzes to Pinpoint Your Perfect YouTube Persona</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instantly-convert-mov-to-mkv-for-free-using-the-movavi-media-converter/"><u>Instantly Convert MOV to MKV for Free Using the Movavi Media Converter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/kunt-u-wijken-gif-vorm-naar-mpeg-vrijetier-online-en-kostenloos/"><u>Kunt U Wijken Gif-Vorm Naar Mpeg - Vrijetier Online en Kostenloos!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slideshow-creator/"><u>현재 구매 가능: 모항감 만들기 도구 - Slideshow Creator</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimize It All: The Top 7 Ways to Use Windows 11 Effectively (39)"
-date: 2025-01-10T16:02:11.409Z
-updated: 2025-01-13T01:37:22.981Z
+date: 2025-01-15T17:34:41.832Z
+updated: 2025-01-18T17:48:17.649Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 ![List of installed apps on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/list-of-installed-apps-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make Windows apps easier to locate, it is sensible to first get rid of unnecessary software and [remove bloatware from your PC](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/). This will make searching for apps easier, and it will benefit your memory usage.
@@ -39,9 +39,17 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
  To change the list order, you can use the **Sort By** feature beneath the search bar. Apps can be sorted by their name, size, or by their installation date. If you have multiple drives, you can also filter results based on which drives apps are located in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Pin Programs to the Taskbar
 
 ![Windows 11 taskbar beneath calculator app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-taskbar-beneath-calculator-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Windows taskbar offers a superfast way to open apps without having to navigate to the desktop. Windows 11 offers an easy method to [pin almost anything to the taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/), so you can access your favorite programs with the click of a button.
 
@@ -59,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
 ![Desktop Shortcuts on Windows 11 Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/desktop-shortcuts-on-windows-11-desktop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Creating desktop shortcuts is one of the fastest ways to access apps with minimal effort. Before starting, you’ll first want to [declutter your Windows 11 Desktop](https://www.makeuseof.com/revamp-windows-11-desktop/) to create a clean environment for your apps.
 
  To pin an app to the desktop, hit the **Windows** button to open the Start menu, then select **All apps** button located in the corner of the Pinned section. Scroll through the alphabetical list to find the app, then click and drag it to any available space on your desktop. If done correctly, a small pop-up titled **Link** should display.
@@ -76,16 +80,12 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
  To open the Run dialogue, use the shortcut **Windows + R**. In the search box, you can type the executable file name of any app to open it. Some basic commands include typing “calc” to open the calculator app, “notepad” to open Windows 11’s Notepad, and “control” to open the Control Panel. View our [Run commands cheat sheet](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for a full list of handy shortcuts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Create Custom Keyboard Shortcuts
 
 ![oranage and black mechanical keyboard on table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/oranage-and-black-mechanical-keyboard-on-table.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  One of the less-known methods to open Windows apps quicker is by creating custom keyboard shortcuts. By using these shortcuts, you can open a program instantly from any location.
 
@@ -96,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 ![Tutorial 5 Step 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-2.jpg)
 3. In File Explorer, right-click the file and select **Properties**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Tutorial 5 Step 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-3.jpg)
 4. Click in the box next to the Shortcut Key field and enter a desired shortcut.  
 
@@ -107,13 +103,13 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
  If this method is of interest, you can explore our guide for creating shortcuts to [install websites as apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Utilize the Quick Access Menu
 
 ![Quick Access Menu on Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/quick-access-menu-on-windows-11-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Quick Access menu is a list of common programs and tools. This is not to be confused with the Quick Access feature seen in Windows File Explorer. However, the two features achieve similar goals.
 
@@ -127,12 +123,16 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
  For even faster access, you can hit the underlined letter on your keyboard to open that program. (Note, this only works when using the keyboard shortcut method to open the Quick Access Menu). The Quick Access menu is a great way to access a wide range of useful apps with only the keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Switch Between Apps Faster
 
 ![Multiple desktops in Task View Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/multiple-desktops-in-task-view-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re dealing with an overflow of open windows and need a better way to transition between apps, you’ll find this next tip helpful.
 
@@ -158,24 +158,21 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-condense-cinematography-to-instagrams-max-on-macos/"><u>[Updated] 2024 Approved Condense Cinematography to Instagram's Max on macOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fuel-the-drive-best-video-ideas-for-channels-success/"><u>[Updated] 2024 Approved Fuel the Drive Best Video Ideas for Channels' Success</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-transform-your-projects-with-these-top-10-ae-types/"><u>[Updated] 2024 Approved Transform Your Projects with These Top 10 AE Types</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-chuckle-craft-ranking-the-top-10-memes-by-wow-factor/"><u>2024 Approved Chuckle Craft Ranking the Top 10 Memes by Wow Factor</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-itel-p55plus-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boot-windows-resolving-black-screen-issues/"><u>Boot Windows: Resolving Black Screen Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-free-on-windows-with-gpt-alternative/"><u>Breaking Free on Windows with GPT Alternative</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bring-back-life-to-silent-non-responsive-slack-alerts/"><u>Bring Back Life to Silent, Non-Responsive Slack Alerts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bringing-classroom-vibes-to-windows-11/"><u>Bringing Classroom Vibes to Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-bluetooth-connection-required-on-windows-1011/"><u>Bypassing Bluetooth 'Connection Required' On Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-the-blackout-fixes-for-hiberwipe-errors/"><u>Bypassing the Blackout: Fixes for HiberWipe Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-unlaunched-lunar-client-issue-in-windows-environment/"><u>Bypassing Unlaunched Lunar Client Issue in Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ceasing-high-contrast-display-mode-on-pc/"><u>Ceasing High Contrast Display Mode on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/christmas-trusted-windows-app-gifting-via-ms-store/"><u>Christmas: Trusted Windows App Gifting via MS Store</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/comment-recuperer-vos-chansons-supprimees-sur-spotify-une-methode-detaillee-et-efficace/"><u>Comment Récupérer Vos Chansons Supprimées Sur Spotify : Une Méthode Détaillée Et Efficace</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-fix-problems-with-configuring-your-windows-updates/"><u>How to Successfully Fix Problems with Configuring Your Windows Updates</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6 Plus Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-your-iphone-storage-a-step-by-step-guide-to-clearing-clutter-and-gaining-space/"><u>Maximize Your iPhone Storage: A Step-by-Step Guide to Clearing Clutter & Gaining Space</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-enhancing-memories-date-insertion-techniques-for-photos/"><u>[New] 2024 Approved Enhancing Memories Date Insertion Techniques for Photos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-weaving-images-into-stunning-tiled-artworks/"><u>[New] 2024 Approved Weaving Images Into Stunning Tiled Artworks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-camcorders-featuring-direct-faceviewing/"><u>[Updated] Best Camcorders Featuring Direct FaceViewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavioggflac/"><u>「音質を上げるためのフリーコネクト: MovaviでOGG形式をFLACに簡単変換する方法」</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-oggmp3-video-converter-by-movavi-convert-your-files-easily/"><u>Free Online OGG/MP3 Video Converter by Movavi - Convert Your Files Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/los-10-lideres-indiscutibles-programas-mas-eficaces-de-voz-en-off-libre-y-pago-del-2024/"><u>Los 10 Líderes Indiscutibles: Programas Más Eficaces De Voz en Off Libre Y Pago Del 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-no-cost-web-service-easily-convert-your-wma-audio-to-m4b-format/"><u>Movavi's No-Cost Web Service: Easily Convert Your WMA Audio to M4B Format</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-os-x-mavericks-video-editors-handbook/"><u>New In 2024, The Ultimate OS X Mavericks Video Editors Handbook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207196014-quickly-restore-missing-bluetooth-on-your-windows-11-pc-with-ease/"><u>Quickly Restore Missing Bluetooth on Your Windows 11 PC with Ease</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-discourages-third-party-phone-repairs/"><u>Samsung Discourages Third-Party Phone Repairs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-phenomenon-of-ai-chatbots-an-insight-into-their-popularity-surge/"><u>The Phenomenon of AI Chatbots: An Insight Into Their Popularity Surge</u></a></li>
+<li><a href="https://win11.techidaily.com/the-swift-way-to-access-control-panel/"><u>The Swift Way to Access Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-votre-image-tiff-en-format-jpeg-faites-le-sans-frais-online-avec-movavi/"><u>Transformez Votre Image TIFF en Format JPEG Faites-Le Sans Frais - Online Avec Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-file-mpeg-in-formato-flv-gratuitamente-online-con-movavi/"><u>Trasforma I File MPEG in Formato FLV Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-s18e-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo S18e Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/web-ogm-movavi/"><u>원활한 코어를 사용하여 Web 상호 작용 중인 오클리지 이미지에서 무료 OGM 파일로의 영상 변환 – Movavi</u></a></li>
 </ul></div>
 

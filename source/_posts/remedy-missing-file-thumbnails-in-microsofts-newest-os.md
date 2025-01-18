@@ -1,7 +1,7 @@
 ---
 title: Remedy Missing File Thumbnails in Microsoft's Newest OS
-date: 2025-01-05T17:53:34.817Z
-updated: 2025-01-12T20:22:59.453Z
+date: 2025-01-11T16:45:47.660Z
+updated: 2025-01-18T16:35:41.340Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Allow Thumbnails to Load Properly
 
  Thumbnails don't require a lot of processing power to load. However, if you open a folder with thousands of files, thumbnails may take some time to load. If you open a file from that folder before the thumbnails have rendered correctly, it could affect other files in the folder whose thumbnails have not yet loaded.
@@ -40,8 +44,16 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![Go to Folder Options in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-go-to-folder-options-in-windows-file-explorer.jpg)
 3. In the**Folder Options** window, uncheck the box beside**Always show icons, never thumbnails** (if it's checked).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Apply** and hit**Ok** .  
 ![Uncheck the Box Beside Always Show Icons Never Thumbnails.in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-uncheck-the-box-beside-always-show-icons-never-thumbnails-in-windows-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change Icon Size and View Style
 
@@ -51,21 +63,9 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
 ![Change the Icon Size of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-change-the-icon-size-of-folders-in-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If changing the icon size doesn't make a difference, change the view style by right-clicking in the same folder, navigating to**View** , and selecting**Tiles** or**Content** .
 
 ![Change the View Style of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-change-the-view-style-of-folders-in-file-explorer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Check for Files or Format Specific Issues
 
@@ -86,11 +86,7 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![Closing the OBS Studio Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/end-task.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Rebuild the Thumbnail Cache
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
 ![restart file explorer process windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-explorer-process-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Enable Thumbnail Preview From Visual Effects
 
  Visual effects help you customize the appearance of your device's display and optimize it to get the best performance. You can also choose to have Windows adjust the visual effects based on your preference.
@@ -115,12 +115,12 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![Open Visual Effects Settings From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-open-adjust-visual-effects-settings-from-windows-search.jpg)
 2. Check the circle beside**Adjust for best appearance** in the**Performance Options** window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Then, ensure the box beside**Show thumbnails** **instead of icons** is checked.  
 ![Change Visual Effects to Get the Best Appearance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-enable-certain-options-in-visual-effects-tab-of-performance-options-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Apply Generic Windows 11 Fixes
 
@@ -149,22 +149,20 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-why-photo-booth-videos-freeze-suddenly/"><u>[New] Exploring Why Photo Booth Videos Freeze Suddenly</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unlocking-gopros-full-potential/"><u>[Updated] 2024 Approved Unlocking GoPro's Full Potential</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-study-of-silliness-the-goofy-narrative-unpacked/"><u>A Study of Silliness The Goofy Narrative Unpacked</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ace-your-crypto-discussions-top-10-strategic-chatgpt-question-formulas/"><u>Ace Your Crypto Discussions: Top 10 Strategic ChatGPT Question Formulas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-absence-of-printmanagement-in-system-configuration/"><u>Addressing Absence of 'PrintManagement' In System Configuration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensible-guide-quick-fix-for-active-directory-domain-services-printer-errors/"><u>Comprehensible Guide: Quick Fix for Active Directory Domain Services Printer Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/evaluating-windows-devices-essential-decisions-before-purchasing/"><u>Evaluating WIndows Devices: Essential Decisions Before Purchasing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-electronics-hub-in-depth-hardware-analysis-and-tips/"><u>Expert Insights From Tom's Electronics Hub - In-Depth Hardware Analysis & Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-address-sniptool-shortcut-problems/"><u>How to Swiftly Address SnipTool Shortcut Problems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-12-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 12 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/introducing-stellars-pioneering-image-reconstruction-program-first-of-its-kind-worldwide-software-announcement/"><u>Introducing Stellar's Pioneering Image Reconstruction Program, First-of-Its-Kind Worldwide Software Announcement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lowering-latency-strategies-to-fasten-windows-discord/"><u>Lowering Latency: Strategies to Fasten Windows Discord</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722875470609-resolving-d3dx92ndll-missing-error-a-step-by-step-guide/"><u>Resolving d3dx9_2n.dll Missing Error - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/safeguard-creativity-validating-content-for-tiktok-posting/"><u>Safeguard Creativity Validating Content for TikTok Posting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/spotting-large-files-and-drives-in-windows-storage-soup/"><u>Spotting Large Files & Drives in Windows Storage Soup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-path-upgrading-your-vm-software-from-virtualbox-v6-to-v7-in-win11/"><u>Step-by-Step Path: Upgrading Your VM Software From VirtualBox v6 to v7 in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-setup-a-closer-look/"><u>Windows 11 Setup: A Closer Look</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-optimize-your-youtube-content-for-maximum-viewership-and-engagement/"><u>[New] 2024 Approved Optimize Your YouTube Content for Maximum Viewership and Engagement</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevating-your-social-media-presence-with-igtv-videos-for-2024/"><u>[New] Elevating Your Social Media Presence with IGTV Videos for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-windows-movie-maker-a-step-by-step-guide-for-windows-8-users-for-2024/"><u>[Updated] Mastering Windows Movie Maker A Step-by-Step Guide for Windows 8 Users for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-pathway-to-perfect-audio-placement-on-youtube/"><u>[Updated] The Pathway to Perfect Audio Placement on YouTube</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tweeting-trouble-laughter-league/"><u>[Updated] Tweeting Trouble Laughter League</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-ultimate-guide-to-modern-mojave-dwellings-for-2024/"><u>[Updated] Ultimate Guide to Modern Mojave Dwellings for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976936949-approach-evaluate-how-these-devices-interact-with-structural-elements-during-an-earthquake/"><u>Approach: Evaluate How These Devices Interact with Structural Elements During an Earthquake.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-unsigned-updates-hiccups-in-winos/"><u>Eliminate Unsigned Updates Hiccups in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-notepad-non-opening-issue-in-windows-environment/"><u>Overcoming Notepad Non-Opening Issue in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quickening-yuzu-playback-speed-windows-edition/"><u>Quickening Yuzu Playback Speed, Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-your-internet-ip-through-terminal-commands/"><u>Revealing Your Internet IP Through Terminal Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-nonresponsive-diagnostic-utilities-in-win10win11/"><u>Reviving Nonresponsive Diagnostic Utilities in Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-adjusting-themes-in-windows-11/"><u>The Ultimate Guide to Adjusting Themes in Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-room-and-pc-checklist-for-vr/"><u>The Ultimate Room and PC Checklist for VR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-and-obscuring-network-defense-in-windows-security/"><u>Unveiling and Obscuring Network Defense in Windows Security</u></a></li>
 </ul></div>
 

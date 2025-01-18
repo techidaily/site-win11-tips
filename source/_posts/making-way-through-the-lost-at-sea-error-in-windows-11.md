@@ -1,7 +1,7 @@
 ---
 title: Making Way Through the Lost at Sea Error in Windows 11
-date: 2025-01-08T01:31:54.899Z
-updated: 2025-01-12T23:51:40.132Z
+date: 2025-01-12T18:25:03.131Z
+updated: 2025-01-18T18:33:20.798Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,11 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 ![The Xbox server status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/xbox-server-status.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Utilize the Windows Store Apps Troubleshooter
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 5. Then apply potential resolutions proposed within the troubleshooter.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
  The same troubleshooter is available in Windows 10, but that platform’s Settings app has a slightly different layout. You can access it in Windows 10’s Settings app by selecting **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**. Then click on Windows Store Apps to access a **Run the troubleshooter** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reinstall Your Xbox App
@@ -69,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 ## 4\. Try Some Generic Windows App Fixes
 
  If none of the above worked, try these fixes that work for any malfunctioning Windows app:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Update the Xbox App
 
@@ -86,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
 ![The Reset button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Change Your DNS Server to Google's Public DNS
 
  The “Looks like you’re stranded” error can arise because of internet connectivity issues. Changing your Domain Name System server to a better, more reliable public one could resolve such issues. So, try setting Google to be your DNS server instead.
@@ -93,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
  Our [guide to changing DNS servers in Windows](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) tells you how to apply this possible resolution and includes the primary and alternative DNS addresses for Google.
 
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dns-server-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get the Xbox App Working Again
 
@@ -114,20 +114,24 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-tactical-approach-to-youtube-video-enhancement-with-imovie/"><u>[New] 2024 Approved A Tactical Approach to YouTube Video Enhancement with iMovie</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-perfect-pictures-at-work-master-snap-camera-use/"><u>[Updated] 2024 Approved Perfect Pictures at Work Master Snap Camera Use</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-chucklecrafts-create-meme-delight/"><u>[Updated] In 2024, ChuckleCrafts Create Meme Delight</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-14-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-century-of-change-the-windows-taskbar/"><u>A Century of Change: The Windows Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-quick-guide-to-restoring-essential-features-of-photo-viewer-on-win11/"><u>A Quick Guide to Restoring Essential Features of Photo Viewer on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ai-integration-windows-11s-next-chapter/"><u>AI Integration: Windows 11'S Next Chapter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beating-the-default-shrinking-in-winos/"><u>Beating the Default Shrinking in WinOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-functionality-with-windows-11s-taskbar/"><u>Boosting Functionality with Windows 11'S Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-the-effectiveness-of-your-pointer-on-win11s-system/"><u>Boosting the Effectiveness of Your Pointer on Win11's System</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi Civi 3 Disney 100th Anniversary Edition to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-remove-a-background-in-affinity-photo/"><u>In 2024, How to Remove a Background in Affinity Photo</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/installazione-facoltativa-di-tecnico-aomei-e-spazio-infinito-sul-cloud-con-aomei-backupper-scopri-le-possibilita/"><u>Installazione Facoltativa Di Tecnico AOMEI E Spazio Infinito Sul Cloud Con AOMEI Backupper: Scopri Le Possibilità</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719239834039-start-menu-no-more-unwanted-advertisements/"><u>Start Menu, No More Unwanted Advertisements</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-efficient-video-trimming-methods-in-windows-11-for-2024/"><u>[New] Efficient Video Trimming Methods in Windows 11 for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-from-creator-to-critic-evaluating-video-value-across-platforms-for-2024/"><u>[Updated] From Creator to Critic Evaluating Video Value Across Platforms for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mac-audio-sync-for-screen-captures/"><u>[Updated] In 2024, Mac Audio Sync for Screen Captures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-5-secrets-to-preventing-blank-scenes-with-obs-recording/"><u>2024 Approved 5 Secrets to Preventing Blank Scenes with OBS Recording</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/color-code-cracked-how-to-match-video-clips-in-powerdirector-like-a-pro-for-2024/"><u>Color Code Cracked How to Match Video Clips in PowerDirector Like a Pro for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-lava-yuva-2-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Lava Yuva 2</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-x100-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo X100 Through Google Earth?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-learn-to-initiate-harmonious-group-conversations-on-skype-for-both-pc-and-mac-users/"><u>In 2024, Learn to Initiate Harmonious Group Conversations on Skype for Both PC & Mac Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ipad-pro-vs-macbook-pro-showdown-discover-what-sets-them-apart/"><u>IPad Pro vs MacBook Pro Showdown: Discover What Sets Them Apart</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-vocal-to-text-conversion-with-windows-whisper/"><u>Master the Art of Vocal to Text Conversion with Windows Whisper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-terminal-background-image/"><u>Personalizing Terminal Background Image</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/propel-productivity-top-7-ways-to-use-windows-11-smartly/"><u>Propel Productivity: Top 7 Ways to Use Windows 11 Smartly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-the-windows-net-framework-obstacle-error/"><u>Remedying the Windows .NET Framework Obstacle Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-file-selection-harnessing-checkboxes-in-windows-11/"><u>Simplifying File Selection: Harnessing Checkboxes in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/speed-up-task-managers-dynamic-display-in-windows-11/"><u>Speed up Task Manager's Dynamic Display in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-remove-hyber-v-from-windows-11-pro/"><u>Steps to Remove Hyber-V From Windows 11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-end-of-cortana-dawn-of-four-alternatives-in-windows/"><u>The End of Cortana, Dawn of Four Alternatives in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-c0000022-crash-in-windows-os/"><u>Troubleshooting C0000022 Crash in Windows OS</u></a></li>
 </ul></div>
 

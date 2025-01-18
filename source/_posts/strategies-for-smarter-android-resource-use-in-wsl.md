@@ -1,7 +1,7 @@
 ---
 title: Strategies for Smarter Android Resource Use in WSL
-date: 2024-08-08T10:59:40.081Z
-updated: 2024-08-09T10:59:40.081Z
+date: 2025-01-11T16:21:04.123Z
+updated: 2025-01-18T16:52:03.874Z
 tags:
   - windows10
   - windows11
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
  When running Windows Subsystem for Android (WSA) on your Windows 11 PC, you might not like how the virtual machine for Android apps uses resources. These resources include memory, CPU, and GPU. Luckily, you can manage that pretty easily, and we’re going to show you how.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## "As Needed" or "Continuous?" Which One to Choose
 
  You have two choices when it comes to the way WSA uses your computer’s resources:**As needed** or**Continuous** .
@@ -32,62 +33,44 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 **Continuous** , on the other hand, keeps WSA running in the background. The benefit is that Android apps will fire up much quicker at the cost of using more of your computer’s resources. You can choose this option if your Windows 11 PC has the resources to spare.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Manage the Way Windows Subsystem for Android Uses Its Resources?
 
  To change the way the Windows Subsystem for Android utilizes resources on Windows 11, start by pressing**Win + S** to bring up Windows Search. In the search box, type**windows subsystem for android** . In the results click on**Windows Subsystem for Android Settings** to launch the program.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![searching for WSA on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-search-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the left side menu of Windows Subsystem for Android, make sure you have selected**System** . On the right side, click on the**Subsystem resources** to expand the section. Then, select either**As needed** or**Continuous** by clicking on the appropriate radio button.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the Subsystems resources section of WSA settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-windows-subsystem-resources.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now Windows Subsystem for Android will use resources depending on the option you have chosen.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Best Way For Windows Subsystem for Android to Use Resources
 
  Whether you pick**As needed** or**Continuous** depends on how many resources your Windows 11 computer has. To recap, choose**As needed** if you’re low on resources and pick**Continuous** if you have enough so WSA doesn’t negatively impact performance.
 
  Furthermore, If you’re looking for where to get Android apps to run, you can install Google Play on Windows 11.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,4 +79,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-10-masterpieces-in-job-market-insight/"><u>[New] 2024 Approved 10 Masterpieces in Job Market Insight</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-shooting-stars-and-sedans-selecting-the-best-gear-for-sj4000/"><u>[New] In 2024, Shooting Stars & Sedans Selecting the Best Gear for SJ4000</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-the-art-of-preserving-instagram-live-moments/"><u>[Updated] 2024 Approved Mastering the Art of Preserving Instagram Live Moments</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-a-step-by-step-approach-to-choosing-superior-fpv-drone-propellers/"><u>[Updated] A Step-by-Step Approach to Choosing Superior FPV Drone Propellers</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-interactivity-chatgpt-and-its-plug-ins/"><u>Enhancing Interactivity: ChatGPT and Its Plug-Ins</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-pagewide-pro-ebp477dw-driver-for-windows-11108-systems/"><u>Get the Latest HP PageWide Pro Ebp477dw Driver for Windows 11/10/8 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-reload-of-printer-service/"><u>Immediate Reload of Printer Service</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-magic5-ultimate-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor Magic5 Ultimate to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/insta-marketing-mastery-crafting-viral-video-campaigns-on-social-media/"><u>Insta-Marketing Mastery Crafting Viral Video Campaigns on Social Media</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixed-guide-for-frozen-epic-game-launcher/"><u>Quick Fixed Guide for Frozen Epic Game Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/relaunch-google-chrome-on-win11-fixes-and-tips-here/"><u>Relaunch Google Chrome on Win11 – Fixes and Tips Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-up-to-the-peak-of-pc-digital-experience/"><u>Step Up to the Peak of PC Digital Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-lag-solving-windows-pc-vs-mobile-internet-speeds/"><u>Tackling Lag: Solving Windows PC vs Mobile Internet Speeds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-importance-of-cplusplus-redistributors/"><u>Understanding the Importance of C++ Redistributors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-peak-performance-for-your-windows-solid-state-drive-through-fresh-methods/"><u>Unlock Peak Performance for Your Windows' Solid State Drive - Through Fresh Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-intel-cores-epoch-discover-through-windows-8-ways/"><u>Your Intel Core's Epoch: Discover Through Windows (8 Ways)</u></a></li>
+</ul></div>
 

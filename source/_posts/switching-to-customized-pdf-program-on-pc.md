@@ -1,7 +1,7 @@
 ---
 title: Switching to Customized PDF Program on PC
-date: 2024-08-08T10:59:12.954Z
-updated: 2024-08-09T10:59:12.954Z
+date: 2025-01-12T16:27:52.298Z
+updated: 2025-01-18T16:01:31.588Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
  On Windows, Edge is the preferred PDF reader by default. While the browser works just as well as a dedicated PDF reader, it's vital to know how a PDF reader functions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change the Default PDF Reader on Windows
 
  In most cases, when you install a [new PDF reader app](https://www.makeuseof.com/tag/5-best-pdf-ebook-readers-windows/), you can set it as the default PDF reader right from the main menu. But if you missed it in a hurry, all is not lost!
@@ -42,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
  Your PDF file will be launched, and the chosen app will now be saved as the default PDF tool from here on.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. From the Settings App
 
  The Settings app is a handy tool that comes to your rescue repeatedly for various things. Here, it can help you with setting up a default PDF reader as well.
@@ -58,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
  That's it—as soon as you pick the new app from above, your default PDF reader will be changed from here on.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Use the Control Panel
 
  A Control Panel is one of those that's used by a lot of people for a lot of things. In that way, it's a lot like a Swiss Army Knife, doing many valuable things simultaneously.
@@ -71,35 +74,31 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 3. Now click on **Set your default programs**.
 4. Choose your preferred PDF reader and select the **Set this program as default** option to seal the selected app as the default PDF reader.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![control panel on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/control-panel-on-windows.jpg)
 
  If you follow the above steps to the point, the selected app will be the default app for all similar file types from here on.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Use a Default Program Within the PDF Reader
 
  Some PDF readers let you change the default PDF reader from within. So, depending on the [third-party PDF reading app](https://www.makeuseof.com/best-pdf-reader-apps-android/) you are using or plan to use, all you have to do is launch the PDF reader, and you will get a notification box to make the required changes.
 
 ![foxit reader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/foxit-reader-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's all—do this, and your default reading app will be changed for good.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Changing the Default PDF Reader on Your Windows Computer
 
  When you come down to it, the Edge browser is more than enough for following the simple reading needs of a PDF reader. However, after a certain point, you might need more advanced features that an alternative reader can perform.
 
  On Windows, Edge is the preferred PDF reader by default. While the browser works just as well as a dedicated PDF reader, it's vital to know how a PDF reader functions.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -107,3 +106,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-sifting-commentary-on-youtube/"><u>[Updated] 2024 Approved Sifting Commentary on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-combining-forces-sharing-tweets-on-facebook-networks/"><u>[Updated] In 2024, Combining Forces Sharing Tweets on Facebook Networks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-easycast-essential-steps-for-beginner-podcast-streamers/"><u>2024 Approved EasyCast Essential Steps for Beginner Podcast Streamers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-upload-and-share-your-visual-content-on-youtube/"><u>2024 Approved Upload & Share Your Visual Content on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-and-rectifying-windowss-c0000005-complication/"><u>Demystifying and Rectifying Windows's C0000005 Complication</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/gdpr-compliant-data-handling-clause-secure-your-information-with-abbyys-cloud-services/"><u>GDPR Compliant Data Handling Clause – Secure Your Information with ABBYY's Cloud Services</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-g2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo G2 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-silent-voice-finding-expression-in-a-muted-world/"><u>The Silent Voice: Finding Expression in a Muted World</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-clearing-out-several-friends-from-your-snapchat-list/"><u>The Ultimate Guide: Clearing Out Several Friends From Your Snapchat List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-loadlibrary-err-87-misstep/"><u>Troubleshooting LoadLibrary Err 87 Misstep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-fixing-0x0000004e-in-windows-1011/"><u>Unraveling and Fixing 0X0000004E in Windows 10/11</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/1728466227209-404/"><u>ウェブサイト内での404エラー：見つからないページをどうやって解決する?</u></a></li>
+</ul></div>
+

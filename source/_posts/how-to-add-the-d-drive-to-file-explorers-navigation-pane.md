@@ -1,7 +1,7 @@
 ---
 title: "How to Add the D: Drive to File Explorer's Navigation Pane"
-date: 2025-01-09T17:11:35.955Z
-updated: 2025-01-12T18:22:10.979Z
+date: 2025-01-11T18:27:46.046Z
+updated: 2025-01-18T18:32:07.276Z
 tags:
   - windows10
   - windows11
@@ -23,21 +23,25 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before You Proceed…
 
  We are going to [create a Registry file](https://www.makeuseof.com/windows-registry-file-guide/) to add the D: drive to the Navigation Pane. This file will make changes to the Windows registry, and you need to be careful [not to mess up the Windows Registry](https://www.makeuseof.com/tag/not-accidentally-mess-windows-registry/). A slip-up could make Windows unusable.
 
  Furthermore, we highly recommend that you learn how to [back up and restore the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/). That way, you have a way of returning it to the state it was in before you made any changes that broke it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I Add the D: Drive to the Navigation Pane in File Explorer?
 
  Start by pressing **Win + S** to bring up Windows Search. Then, type **notepad** in the Search box, and when Notepad shows up in the search results, click on it to launch it.
 
 ![The Notepad search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/notepad-search-result.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then copy and paste the below text into Notepad:
 
@@ -79,21 +83,17 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ![saving a registry file in Notepad on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/save-reg-file-add-drive-nav-pane.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, double-click the Registry file you just created and click **Yes** on the UAC prompt. You’ll then be asked if you want to continue with the merge, so click **Yes**. Afterward, press **Win + E** to open File Explorer.
 
 ![the D drive showing in the bottom section of the Navigation pane on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/d-drive-nav-pane.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The D: drive should now be visible in the bottom part of the Navigation pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Remove the D: Drive From the Navigation Pane in File Explorer?
@@ -112,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
  Now the D: drive should be gone from the navigation pane in File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create an Easier Way to Access the D: Drive on Your Windows Computer
@@ -129,19 +129,15 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-gopro-hero5-black-evolution-from-hero4-silver/"><u>[New] In 2024, GoPro Hero5 Black Evolution From Hero4 Silver</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-champion-top-titles-best-free-video-caption-grabs-for-2024/"><u>[Updated] Champion Top Titles Best Free Video Caption Grabs for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-accelerated-file-format-change-from-srt-to-simple-txt/"><u>2024 Approved Accelerated File Format Change From SRT to Simple TXT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieve-optimum-ssd-speed-on-windows-via-ssdfresh/"><u>Achieve Optimum SSD Speed on Windows via SSDFresh</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-reset-account-lockouts-after-failed-logins-in-windows-11/"><u>Adjusting Reset Account Lockouts After Failed Logins in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/alteration-of-login-failure-counter-windows-11-user-guide/"><u>Alteration of Login Failure Counter: Windows 11 User Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-nvidia-writes-of-error-3-in-win1011/"><u>Avoiding NVIDIA' Writes of Error 3 in Win10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beat-delay-in-sw-top-tips-to-speed-up-your-bf2-gameplay/"><u>Beat Delay in SW: Top Tips to Speed Up Your BF2 Gameplay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-windows-tools-for-mp4-and-mov-clips/"><u>Best Windows Tools for MP4 and MOV Clips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-tecno-spark-10c-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Tecno Spark 10C to iPad | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/optimal-spectrum-adjuster/"><u>Optimal Spectrum Adjuster</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-ultimate-mac-subtitling-workshop/"><u>The Ultimate Mac Subtitling Workshop</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-pathway-to-vimeo-recording-for-2024/"><u>The Ultimate Pathway to Vimeo Recording for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-itel-p40plus-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Itel P40+ FRP Bypass</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-understanding-youtubes-social-media-protocols/"><u>[Updated] 2024 Approved Understanding YouTube's Social Media Protocols</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterful-filmmaking-moves-with-kinemaster/"><u>[Updated] Masterful Filmmaking Moves with Kinemaster</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-optimal-viewing-experience-selecting-between-ultrawide-and-uhd-4k/"><u>[Updated] Optimal Viewing Experience Selecting Between UltraWide and UHD 4K</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Without Passcode?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-pc-query-speed-using-everythingapp/"><u>Optimize PC Query Speed Using EverythingApp</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-xperia-10-v-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Xperia 10 V, is it possible?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/professional-lenses-and-cameras-for-youtubers-for-2024/"><u>Professional Lenses & Cameras for Youtubers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-photo-capture-failures-in-windows-os/"><u>Resolve Photo Capture Failures in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-taskbar-utility-adding-directories-to-windows-11-menu/"><u>Transform Taskbar Utility: Adding Directories to Windows 11 Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-chatgpt-integration-steps/"><u>Windows ChatGPT Integration Steps</u></a></li>
 </ul></div>
 

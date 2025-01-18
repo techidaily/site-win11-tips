@@ -1,7 +1,7 @@
 ---
 title: Swift Remedies to Win 10/11 Active Directory Domain Services Printer Issues
-date: 2025-01-12T00:08:59.632Z
-updated: 2025-01-13T00:43:30.774Z
+date: 2025-01-17T18:31:46.418Z
+updated: 2025-01-18T18:02:36.770Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Printer Troubleshooter
 
  Windows has a Printer troubleshooter to help you fix printing issues. So, we recommend you try troubleshooting the “Active Directory Domain Services” error with that printer. You can open the Printer troubleshooting tool from Settings by following the instructions in our guide to [running troubleshooters on Windows 10 and 11](https://www.makeuseof.com/run-troubleshooter-windows-10-11/).
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 ![The Printer troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/printer-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Start or Restart Windows’ Print Spooler Service
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 5. Select the **Startup type** menu’s **Automatic** option if a different setting is set there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click **Run** to start Print Spooler if it’s stopped.  
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-device-option.jpg)
 4. Select **Uninstall** on the confirmation window.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-device-option.jpg)
 5. To reinstall a driver, right-click the printer in Device Manager and select **Search automatically for updated driver software** option. Windows will detect a printer driver available on your PC and install it.
 
@@ -89,21 +89,17 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-device-option.jpg)
 4. Click **Yes** to remove the printer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Make sure the printer you want to add is connected to the PC.
 6. Press the **Add a printer** button in the Devices and Printers applet.  
 ![The Add a printer option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-a-printer.jpg)
 7. Select the printer you just removed and click **Next**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Add a device window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-a-device.jpg)
 8. If the printer you need isn’t available for selection within the wizard, click the printer that I want isn’t listed. Then select a suitable option for finding the printer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Edit Three Registry Keys' Permissions
 
@@ -123,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 8. Repeat the previous five steps for the **PrinterPorts** and **Windows** registry keys.
 9. Close out of Registry Editor and restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Try Printing With a Pre-Installed Windows App
 
  Windows includes some pre-installed apps with which you can print documents and images. Some of those pre-installed apps might be able to find your printer without issues. Users confirm finding a printer and printing with Notepad can resolve the “Active Directory Domain Services” error. This is how you can find a printer in Notepad:
@@ -138,14 +130,22 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 ![The Print option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-option.jpg)
 5. Select **Print** to bring up the **General** tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **Find Printer** button.  
 ![The Find Printer button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-window.jpg)
 7. If you can find the printer with Notepad, print the text you entered with that app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Then return to the software in which the “Active Directory Domain Services” error occurs to see if it can now find your printer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Printing Again on Windows
@@ -164,22 +164,15 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/1719333011753-4-proven-strategies-for-enhancing-window-shot-taking-on-windows-os/"><u>4 Proven Strategies for Enhancing Window Shot Taking on Windows OS.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-secure-windows-options-when-bitlocker-isnt-available/"><u>5 Secure Windows Options when Bitlocker Isn't Available</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-ways-to-rotate-images-on-a-windows-11-pc/"><u>6 Ways to Rotate Images on a Windows 11 PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/8-essential-apple-watch-configuration-tweaks-for-extended-battery-performance-tips-from-zdnet/"><u>8 Essential Apple Watch Configuration Tweaks for Extended Battery Performance - Tips From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-remedies-for-vmware-stop-at-boot-on-windows-11/"><u>8 Remedies for VMware Stop at Boot on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/naver-seo/"><u>簡単ガイド: NAVER動画ダウンロード＆録画方法 - お気軽で学ぶSEO</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-disk-alignment-failures/"><u>Addressing Windows Disk Alignment Failures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-winerror-740-easy-to-follow-tips-for-windows-users/"><u>Avoiding WinError 740: Easy-to-Follow Tips for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banishing-the-abrupt-termination-of-wow-error-132-on-win11/"><u>Banishing The Abrupt Termination of WoW (Error 132) on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-ancient-tech-upgrade-with-atlasos/"><u>Boost Ancient Tech: Upgrade with AtlasOS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comparing-apple-tv-4k-and-roku-ultra-which-streaming-device-wins/"><u>Comparing Apple TV 4K and Roku Ultra: Which Streaming Device Wins?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-disruptive-beatscape-best-rhythm-altering-tools/"><u>In 2024, Disruptive Beatscape Best Rhythm Altering Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-focusing-your-view-a-guide-to-zooming-on-microsoft-teams/"><u>In 2024, Focusing Your View A Guide to Zooming on Microsoft Teams</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008140242-master-the-art-of-smooth-gaming-tips-to-prevent-disco-elysium-from-crashing/"><u>Master The Art of Smooth Gaming – Tips to Prevent Disco Elysium From Crashing!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/new-ipad-release-faces-challenges-a-closer-look-at-apples-oversight-and-potential-remedies/"><u>New iPad Release Faces Challenges: A Closer Look at Apple's Oversight and Potential Remedies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-ps4s-audio-a-step-by-step-guide-to-fixing-the-internal-microphone/"><u>Revive Your PS4's Audio: A Step-by-SteP Guide to Fixing the Internal Microphone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pioneering-creative-expression-through-zero-cost-animation/"><u>[New] Pioneering Creative Expression Through Zero-Cost Animation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-inside-facetune-an-authoritative-review-for-improved-images/"><u>[Updated] 2024 Approved Inside Facetune An Authoritative Review for Improved Images</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-a-guide-to-instagram-video-brilliance-with-templates/"><u>[Updated] In 2024, A Guide to Instagram Video Brilliance with Templates</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-secure-tiktok-videos-gallery-integration-techniques/"><u>[Updated] Secure TikTok Videos Gallery Integration Techniques</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-exploring-9-zero-price-editors-for-youtube-content/"><u>2024 Approved Exploring 9 Zero Price Editors for YouTube Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-why-keeping-windows-11s-alerts-is-important/"><u>Explore Why Keeping Windows 11'S Alerts Is Important</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-problem-with-this-windows-installer-package-error-on-windows-10-and-11/"><u>How to Fix the Problem With This Windows Installer Package Error on Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-access-to-non-local-files/"><u>Streamlining Access to Non-Local Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-off-microsofts-intelligent-assistance/"><u>Turn Off Microsoft's Intelligent Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-global-conversations-effective-strategies-for-using-chatgpt-as-your-go-to-language-translator/"><u>Unlocking Global Conversations: Effective Strategies for Using ChatGPT as Your Go-To Language Translator</u></a></li>
 </ul></div>
 

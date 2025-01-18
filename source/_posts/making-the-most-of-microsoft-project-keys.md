@@ -1,7 +1,7 @@
 ---
 title: Making the Most of Microsoft Project Keys
-date: 2024-08-08T11:02:07.905Z
-updated: 2024-08-09T11:02:07.905Z
+date: 2025-01-16T18:04:34.148Z
+updated: 2025-01-18T16:06:00.041Z
 tags:
   - windows10
   - windows11
@@ -20,16 +20,10 @@ thumbnail: https://thmb.techidaily.com/d66a628fa0cf48140c10b181f20d8c3673ed432ef
 
  To help you make the most of this tool, Microsoft Project offers a variety of keyboard shortcuts you can use to speed up processes and reduce mundane work. This guide lists the most useful Microsoft Project keyboard shortcuts and explains how to use them for maximum efficiency.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Microsoft Project Keyboard Shortcuts
 
  Here are some shortcuts that you may need frequently to use in Microsoft Project:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Open a Project File
 
 **Ctrl + O:** It is important to keep track of all projects that are being worked.
@@ -38,33 +32,22 @@ thumbnail: https://thmb.techidaily.com/d66a628fa0cf48140c10b181f20d8c3673ed432ef
 
 **Ctrl + S:** It is essential to save all changes made to a project often as it helps to keep track of and prevent data loss.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Create a Task
 
 **Ctrl + T:** This will open up a new task window and allow you to enter the necessary information for their project.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### 4\. Close the Program Window
 
 **Alt + F4:** This will instantly close the Microsoft Project window and end the current session.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Open a New Window
 
 **Shift + F11:** This will open up a blank window that can be used for any tasks or projects that need to be created.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 6\. Activate the Project Control Menu
 
 **Alt + Spacebar:** This will open up the project control menu, which can be used to manage the various aspects of a project.
@@ -73,12 +56,13 @@ thumbnail: https://thmb.techidaily.com/d66a628fa0cf48140c10b181f20d8c3673ed432ef
 
 **Shift + F2:** This will open up a window with detailed information about any selected tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 9\. Turn On or off Auto Calculate
 
 **Ctrl + F** **:** This will enable or disable the auto-calculate feature, which automatically updates any changes made to a project.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10\. Clear or Reset the Selected Field
 
@@ -88,25 +72,31 @@ thumbnail: https://thmb.techidaily.com/d66a628fa0cf48140c10b181f20d8c3673ed432ef
 
 **Ctrl + C:** This will automatically copy the data that is currently selected and allow it to be pasted into any other location.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 12\. Cut the Selected Data
 
 **Ctrl + X:** This will remove the data from its current location.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 13\. Set the Task to Auto Schedule
 
 **Ctrl + Shift + Alt:** This will enable the auto-schedule feature for any selected tasks, which automatically updates the schedule based on any changes that are made.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 14\. Set the Task To Manually Schedule
 
 **Ctrl + Alt + M:** This will enable the manual schedule feature for any selected tasks, which requires users to manually update the schedule.
 
  If you like using your keyboard to get around your productivity suite, check out[what KeyTips in Microsoft Office are and what they do](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Overview of All the Microsoft Project Shortcuts
 
@@ -210,18 +200,19 @@ thumbnail: https://thmb.techidaily.com/d66a628fa0cf48140c10b181f20d8c3673ed432ef
 | Extend the selection to the start of the text        | Shift + Home                  |
 | Turn on or off Overtype mode                         | Insert                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get the Most Out of Microsoft Project
 
  Here you will find a comprehensive overview of the most common Project keyboard shortcuts to help you get more done. These shortcuts can help you save time while using Microsoft Project and focus on the relevant tasks at hand.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -230,4 +221,23 @@ thumbnail: https://thmb.techidaily.com/d66a628fa0cf48140c10b181f20d8c3673ed432ef
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-visionary-graphics-best-cards-in-4k-space/"><u>[New] 2024 Approved Visionary Graphics Best Cards in 4K Space</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-list-of-safe-toy-drones/"><u>[Updated] The Ultimate List of Safe Toy Drones</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-minecraft-banner-templates-get-them-here/"><u>2024 Approved Minecraft Banner Templates Get Them Here</u></a></li>
+<li><a href="https://blog-min.techidaily.com/beestation-by-synology-unveiled-a-new-era-of-cloud-storage-alternatives-to-dropbox-and-google-photos/"><u>BeeStation by Synology Unveiled: A New Era of Cloud Storage Alternatives to Dropbox & Google Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-for-resolving-windows-camera-issues/"><u>Essential Steps for Resolving Windows Camera Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/examining-instagrams-unusual-video-aspect-ratio-anomalies/"><u>Examining Instagram's Unusual Video Aspect Ratio Anomalies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-boost-your-view-count-this-tutorials-top-hit/"><u>In 2024, Boost Your View Count This Tutorial's Top Hit</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/python-package-installation/"><u>Python Package Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-fetching-ip-and-mac-addresses-windows-wise/"><u>Quick Guide: Fetching IP & MAC Addresses, Windows-Wise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-autonomous-restarts-win11-strategy/"><u>Stop Autonomous Restarts: Win11 Strategy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-screech-start-scroll-mouse-adjustment-guide/"><u>Stop Screech, Start Scroll: Mouse Adjustment Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-tweaks-lessening-apps-resource-consumption/"><u>System Tweaks: Lessening Apps' Resource Consumption</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oneplus-ace-2-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to OnePlus Ace 2 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-lan-world-play-windows-mc-solutions/"><u>Unleashing LAN World Play: Windows MC Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win10-drawing-delights-the-ultimate-7-app-guide/"><u>Win10 Drawing Delights: The Ultimate 7 App Guide</u></a></li>
+</ul></div>
 

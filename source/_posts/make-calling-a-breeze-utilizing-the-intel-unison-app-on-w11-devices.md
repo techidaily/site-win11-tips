@@ -1,7 +1,7 @@
 ---
 title: "Make Calling a Breeze: Utilizing the Intel Unison App on W11 Devices"
-date: 2025-01-07T20:44:09.524Z
-updated: 2025-01-13T00:57:02.858Z
+date: 2025-01-14T17:50:30.966Z
+updated: 2025-01-18T17:20:08.834Z
 tags:
   - windows10
   - windows11
@@ -25,22 +25,22 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can’t You Call Someone Directly Using Intel Unison?
 
  During the initial setup process of the Intel Unison app, it asks for a bunch of phone permissions. The list includes your phone storage, contacts, and messages. You must give location permissions to proceed with the app setup process. During that, the Intel Unison app also demands Bluetooth access on your phone. But why can’t it make calls?
 
  The reason behind this issue is that you haven’t paired your Windows 11 laptop with your phone’s Bluetooth. When you open the calls interface in the desktop app, it displays a blank screen with a message to pair with the mobile phone via Bluetooth and give access to phone contacts. So, you need to enable Bluetooth connectivity on your laptop and then pair it with the phone which has the Intel Unison app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Make Calls From Your Phone Using the Intel Unison App on Windows 11
 
  In the first step, we will pair the Windows 11 system with the phone’s Bluetooth. Then, we will open the desktop app interface and try to call someone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Pair Your Windows 11 Laptop and Phone
@@ -52,16 +52,21 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 ![Add a New Bluetooth Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-a-new-bluetooth-device.jpg)
 3. Locate the phone in the list of available devices and click on it. Then click on the**Connect** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. You will receive a pairing prompt on your phone. Match the connection PIN and click on the**Pair** button.
 5. Launch the Intel Unison app on your system. Navigate to the left-hand side menu and click on the**Calls** option.
 6. In the Calls section, click on the**Show me how** button. Then click on the**Send request to phone** button.  
 ![Send Connection Request in Unison App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/send-connection-request-in-unison-app.jpg)
 7. Approve the pairing request on your phone. Return to the desktop app and click on the**Pair** button.
-8. Lastly, click on the**Done** button
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+8. Lastly, click on the**Done** button
 
 ### 2\. Making Calls via the Intel Unison App
 
@@ -71,15 +76,7 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 ![Selecting a contact in Intel Unison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-a-contact-in-intel-unison.jpg)
 2. Go to the right-hand side section and**Click on the call** button to dial a number. If the selected contact has multiple phone numbers, click on the call icon next to a specific number you want to dial.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Calling a contact in Intel Unison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/calling-a-contact-in-intel-unison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The current app interface is a bit clunky, so clicking on the Show button doesn’t expand the call options. However, there is a separate tiny section that you can expand to mute calls, use a keypad, or end calls.
 
@@ -88,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
  When you make a call from your Windows 11 system, the app uses Bluetooth to connect and access the mobile phone. So, you have to rely on the laptop’s microphone to communicate with the person. The call experience will be better if you use a wired or wireless headset with an inbuilt microphone. If you use[dual-sim cards](https://www.makeuseof.com/tag/dual-sim-phones/) on your phone, you cannot choose a sim card to make the call. The app will pick whichever is the default option on the phone.
 
  Also, if you have a desktop, you will need to pick up a[Bluetooth adapter for Windows](https://www.makeuseof.com/tag/bluetooth-adapter-for-pc/) to connect and pair it with your phone. Only then you can use the calling feature in the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Calls Without Lifting Your Phone
 
@@ -108,14 +109,24 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-innovative-approaches-to-elevate-your-obs-studio-workflow-for-2024/"><u>[New] Innovative Approaches to Elevate Your OBS Studio Workflow for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-million-stakes-in-gemini-context-altering-paradigm/"><u>$1 Million Stakes in Gemini: Context Altering Paradigm</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-professional-opinions-best-9-digital-microphone-capture-gear/"><u>2024 Approved Professional Opinions Best 9 Digital Microphone Capture Gear</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/access-strongest-passwords-effortlessly-with-these-7-free-generators/"><u>Access Strongest Passwords Effortlessly With These 7 Free Generators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-unified-sticky-note-syncing-on-win11/"><u>Addressing Non-Unified Sticky Note Syncing on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-stealth-tactics-eliminate-11s-search-icon/"><u>Advanced Stealth Tactics: Eliminate 11'S Search Icon</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-interruptions-resolving-steams-error-code-e84/"><u>Avoid Interruptions: Resolving Steam’s Error Code E84</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/dating-servers-for-love-on-the-go-with-discord/"><u>Dating Servers for Love on the Go with Discord</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-windows-updates-issues-solved/"><u>Troubleshooting Persistent Windows Updates Issues - Solved!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-audience-connection-through-instagram-stories-questions-for-2024/"><u>[New] Audience Connection Through Instagram Stories Questions for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-proven-tactics-for-adjusting-track-pace-on-spotify-app/"><u>[New] Proven Tactics for Adjusting Track Pace on Spotify App</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-digital-sound-logging-system-inputs/"><u>[Updated] 2024 Approved Digital Sound Logging System Inputs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-adjustment-tips-for-subtle-audio-reduction-in-logic-pro/"><u>[Updated] In 2024, Adjustment Tips for Subtle Audio Reduction in Logic Pro</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-potential-a-step-by-step-approach-to-youtube-links-for-2024/"><u>[Updated] Unleashing Potential A Step-by-Step Approach to YouTube Links for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-print-sharing-woes-on-windows-11/"><u>Clearing Up Print Sharing Woes on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-unsuccessful-windows-update-error-0x8024800c/"><u>Correcting Unsuccessful Windows Update (Error 0X8024800C)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-prominent-positioning-of-sticky-notes-in-win-11/"><u>Ensuring Prominent Positioning of Sticky Notes in Win 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-screen-capture-techniques-for-powerpoint-presentations-for-2024/"><u>Essential Screen Capture Techniques for PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-for-google-chromes-filesync-on-your-pc-win/"><u>Expert Advice for Google Chrome's Filesync on Your PC, WIN</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-integrate-youtube-content-into-google-slides-effectively/"><u>In 2024, Integrate YouTube Content Into Google Slides Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-your-pcs-audio-with-idt-hd-codec-setup-on-windows-nt-troubleshooting-tips/"><u>Mastering Your PC's Audio with IDT HD Codec Setup on Windows nT | Troubleshooting Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/optimized-with-the-latest-in-personalization-the-cookiebot-approach/"><u>Optimized with the Latest in Personalization: The Cookiebot Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-internal-server-errors-windows-1011-tips/"><u>Overcoming Internal Server Errors: Windows 10/11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unsupported-boots-in-windows-the-5-essential-fixes/"><u>Overcoming Unsupported Boots in Windows: The 5 Essential Fixes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95811426-9781524758837-real-magic/"><u>Real Magic | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-normal-operations-fixing-windows-enter-key-issues/"><u>Reinstating Normal Operations: Fixing Windows Enter Key Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguard-windows-effortlessly-with-these-free-generators/"><u>Safeguard Windows Effortlessly with These Free Generators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-battlenet-access-in-windows-1011-operating-system/"><u>Streamlining Battle.net Access in Windows 10/11 Operating System</u></a></li>
 </ul></div>
 

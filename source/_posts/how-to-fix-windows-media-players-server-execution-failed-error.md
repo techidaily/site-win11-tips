@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows Media Player’s “Server Execution Failed” Error
-date: 2024-08-08T11:01:02.217Z
-updated: 2024-08-09T11:01:02.217Z
+date: 2025-01-15T16:21:08.726Z
+updated: 2025-01-18T17:58:26.156Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 4. Press the **End task** button to terminate the selected WMP process.
 5. Then exit Task Manager and open Windows Media Player to see if the error persists.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Run the Video Playback Troubleshooter
 
  Windows 11 and 10 both include a Video Playback troubleshooter that might be useful for resolving the “Server execution failed” error. That’s a troubleshooter for resolving video playback issues, and some users have said it helped them fix this issue. These are the steps for running the Video Playback troubleshooting tool:
@@ -44,14 +41,16 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 4. Open the Video Playback troubleshooter by clicking its **Run** option.  
 ![The Run button for the Video Playback troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-video-playback-troubleshooter.jpg)
 5. Select **I want to continue** **with this troubleshooter** in Video Playback.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Video Playback troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/video-playback-troubleshooter.jpg)
 6. Apply any possible fixes the Video Playback troubleshooter offers.
 
  To utilize the same Video Playback troubleshooter in Windows 10, select the Update & Security settings category. Then you can reach the Video Playback repair utility by selecting **Troubleshoo**t > **Additional troubleshooters**. Select Video Playback and click **Run the troubleshooter**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## 3\. Register DLL Files
 
  Registering the jscript and vbscript DLL files is a widely confirmed fix for the “Server execution failed” error. You can register those files by executing a couple of simple regsvr commands like this:
@@ -60,13 +59,19 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 2. Then input this regsvr command and hit **Enter**: regsvr32 jscript.dll  
 ![The regsvr32 jscript.dll](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-regsvr32-command.jpg)
 3. Click **OK** on RegSvr32 confirmation box.
-4. Next, execute this command to register the VBScript file: regsvr32 vbscript.dll  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Next, execute this command to register the VBScript file: regsvr32 vbscript.dll  
 ![The regsvr32 vbscript.dll command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-regsver32-vbscript-command.jpg)
 5. Then select **OK** again.
 6. Go to your Start menu and select **Restart** from there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable the Windows Media Player Network Sharing Service
 
@@ -76,14 +81,13 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 2. Enter a **services** keyword to find the app that matches that search phrase.
 3. Run Services by clicking that app within your search results.
 4. Double-click **Windows Media Player Network Sharing** to access that service’s property settings.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-window2.jpg)
 5. Select the **Disabled** option on the **Startup** menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Disabled option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-disabled-option.jpg)
 6. Click **Stop** just below the **Startup type** menu.
 7. Select **Apply** \> **OK** to save settings and exit the Windows Media Player Network Sharing Service Properties window.
@@ -95,28 +99,23 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 1. [Open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and go to the following folder path:  
 `C:\Users`
 2. Right-click your user folder that includes media files and select **Properties**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![The Properties context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/properties-option.jpg)
 3. Select **Security** on the properties window.
 4. Click **Advanced** to bring up more security settings.
 5. Next, click the **Change** option for the owner.  
 ![The Advanced Security Settings for Users window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/advanced-security-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Click **Advanced** \> **Find now** on the Select User or Group window.
 2. Then choose your user account from there and click **OK** twice.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Select User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-user-or-group.jpg)
 3. Press **Add** on the Advanced Security Settings window.
 4. Click **Select a Principal** to bring up a user group selection window.
 5. Select your user account again, as covered in steps six and seven.
 6. Click the **Full control** checkbox to select that basic permission setting.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-full-control-option.jpg)
 7. Select **OK** on the Permissions Entry window and others open.
 
@@ -129,8 +128,9 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
  Our guide to [clean-booting Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to apply this potential fix by disabling third-party apps and services with Task Manager and MSConfig. When you’ve done that, you’ll need to restart your PC open for a clean boot to take effect. Then open Windows Media Player and try playing some media files again.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall Windows Media Player
 
  Reinstalling Windows Media Player is a last resort potential resolution to try if none of the above works for you. However, you can’t reinstall WMP like regular software by uninstalling with Programs and Features and downloading a setup file. Instead, you’ll need to disable and re-enable WMP via Windows Features as follows:
@@ -139,12 +139,19 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 2. Then click **Turn Windows features on or off** to bring up a utility for enabling/disabling features.  
 ![Programs and Features Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/programs-and-features-window.jpg)
 3. Double-click Media Features to extend it.
-4. Deselect the **Windows Media Player** checkbox and select **Yes**.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Deselect the **Windows Media Player** checkbox and select **Yes**.  
 ![The Windows Media Player checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-media-player-checkbox.jpg)
 5. Click **OK** to disable Windows Media Player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Restart Windows after disabling WMP.
 7. Then reopen the Windows Features window.
 8. Select the **Windows Media Player** checkbox.
@@ -158,11 +165,29 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  Windows Media Player isn’t much good when it doesn’t play music or video. There are plenty of alternative media players, but you don’t have to ditch WMP because of the “server execution failed” error. This is how you can fix the “server execution failed” error.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-optimizing-obs-video-compression/"><u>[New] 2024 Approved Optimizing OBS Video Compression</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chucklecrafts-create-meme-delight/"><u>[New] ChuckleCrafts Create Meme Delight</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-push-boundaries-top-windows-10-innovations-in-games-and-apps/"><u>[New] Push Boundaries Top Windows 10 Innovations in Games and Apps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/accelerated-guide-to-downloading-and-setting-up-microsoft-wireless-mouse-5000-drivers/"><u>Accelerated Guide to Downloading & Setting Up Microsoft Wireless Mouse 5000 Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/close-all-a-guide-to-ending-windows-instances-concurrently/"><u>Close All: A Guide to Ending Windows Instances Concurrently</u></a></li>
+<li><a href="https://extra-information.techidaily.com/demystifying-av1-a-first-time-guide/"><u>Demystifying AV1 A First-Time Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-write-functionality-of-steam-folders-in-win-11/"><u>Enhancing Write Functionality of Steam Folders in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-taskbars-presence-during-window-maximum-size/"><u>Ensuring Taskbar's Presence During Window Maximum Size</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a25-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy A25 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movawimovgif-mov2gif/"><u>MOVAWI免费在线转换MOV格式视频为GIF图像 - MOV2GIF转换器</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinventing-the-right-click-experience-for-update-tracking/"><u>Reinventing the Right-Click Experience for Update Tracking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-windows-photo-viewer-on-windows-11-systems/"><u>Resurrecting Windows Photo Viewer on Windows 11 Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/superfast-fb-downloader-mp4-files-in-minutes-for-2024/"><u>SuperFast FB Downloader MP4 Files in Minutes for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/synergy-of-social-media-embedding-linktree-in-your-tiktok-bio-for-2024/"><u>Synergy of Social Media Embedding Linktree in Your TikTok Bio for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/total-termination-of-wsl-in-the-windows-11-ecosystem/"><u>Total Termination of WSL in the Windows 11 Ecosystem</u></a></li>
+</ul></div>
+

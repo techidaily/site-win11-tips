@@ -1,7 +1,7 @@
 ---
 title: "Insider Take: Unveiling Key Upgrades in FEB Update"
-date: 2025-01-08T19:18:54.421Z
-updated: 2025-01-12T19:01:20.341Z
+date: 2025-01-13T17:02:34.406Z
+updated: 2025-01-18T17:37:09.473Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 ![Search in Taskbar Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-in-taskbar-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Before the February 2023 update, there was no search functionality in Task Manager. As a result, users could not find the task or process quickly. The February feature drop fixes the issue by introducing a search strip at the very top of the Task Manager.
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
  If for some reason, you want to check what's happening with a particular task or process, you can easily find it by using the search strip instead of scrolling through the bottom to spot it in Task Manager. After successfully installing the February 2023 update, you should immediately see the search functionality in the Task Manager, as it is enabled by default.
 
  To open the Task Manager, right-click on the Taskbar and select**Task Manager** . If you are not thorough with it,[check out how to use Windows Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. A New Taskbar for Tablet Users
 
@@ -57,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
  Bear in mind the ability to select between two taskbar modes is available only for tablets and convertibles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. New Designs for the Search Bar in the Taskbar
 
 ![Search design options in Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/searchbar-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can finally change the design of Search on the Windows 11 Taskbar after installing the February 2023 update. Three different design options exist for the Taskbar Search:**Search icon only** ,**Search icon with label** , and**Search box** .
 
@@ -74,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 ![Energy Recommendations in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/energy-recommendations-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The February 2023 feature drop offers a new way to control your environmental impact by introducing**Energy Recommendations** in the Settings app. The new setting allows you to reduce your carbon footprint by lowering the energy consumption of your PC.
@@ -94,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 ![Windows 11 Studio Effects in Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-studio-effects-in-quick-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image credit:[Microsoft](https://blogs.windows.com/windowsexperience/2023/02/28/introducing-a-big-update-to-windows-11-making-the-everyday-easier-including-bringing-the-new-ai-powered-bing-to-the-taskbar/)
@@ -125,31 +121,35 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
 ![New Snipping Tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-snipping-tool-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Before the arrival of the Windows 11 February 2023 update, users were primarily dependent on third-party tools like OBS Studio to capture what was happening on their PC screens. But now, the new Snipping Tool can also start a recording session of what is happening on your PC screen.
 
  You can select a portion of your screen before starting the session. Also, you can pause or resume the recording whenever you like. However, screen recording in Snipping Tool will only record what is going on your screen, not the audio.
 
  You can click the Start button on the Taskbar and type "Snipping Tool," and then press**Enter** on your keyboard to open the app. To start a screen recording session, click the**video cam icon** and click**New** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. A Tabbed Interface in Notepad
 
 ![Tabbed interface in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/tabbed-interface-in-notepad-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The tabbed interface is now expanded to the Notepad. Like in File Explorer, the new Notepad will enable you to open multiple folders and directories in one app window. Because different folders or directories can be in a single Notepad window due to the tabs support, it is easier for you to switch between them.
 
  If you are not seeing tabs in Notepad after upgrading to the February 2023 update, go to Microsoft Store and get the latest version of the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Else Is Included in the Windows 11 February 2023 Update?
 
  Microsoft also introduced a redesigned Quick Assist app, voice access improvements, AI-powered file recommendations in Start for AAD joined devices, and Phone Link for iOS (Preview) devices in the February 2023 update. The software giant also introduced the new AI Bing in Windows 11 taskbar search but removed it a few days later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You Can Do More With the Windows 11 February 2023 Update
 
@@ -170,20 +170,18 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-cutting-edge-techniques-to-elevate-fb-video-in-full-screen/"><u>[Updated] 2024 Approved Cutting Edge Techniques to Elevate FB Video in Full Screen</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-100plus-best-examples-and-tips-to-craft-your-facebook-bios/"><u>[Updated] In 2024, 100+ Best Examples & Tips to Craft Your Facebook Bios</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-summary-of-short-videos-simplicity-included/"><u>2024 Approved Summary of Short Videos, Simplicity Included</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-review-on-tp-links-av1e-network-booster-expectations-vs-reality/"><u>A Comprehensive Review on TP-Link's AV1e Network Booster: Expectations vs Reality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-controller-detection-issues-on-windows-steam/"><u>Fixing Controller Detection Issues on Windows Steam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-securely-modify-user-passwords-in-win-11/"><u>Guide to Securely Modify User Passwords in Win 11</u></a></li>
-<li><a href="https://article-files.techidaily.com/guiding-viewers-eyes-leading-lines-for-iphone-photography/"><u>Guiding Viewers' Eyes Leading Lines for iPhone Photography</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-ms-office-widows-1011-setup/"><u>Mastering MS Office WIdows 10/11 Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-dystopia-my-quest-for-self-identity-amidst-app-guard/"><u>Navigating Dystopia: My Quest for Self-Identity Amidst App Guard</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-non-existent-registry-tool/"><u>Navigating Through Non-Existent Registry Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-website-issues-fixing-the-invalid-directory-name/"><u>Overcoming Common Website Issues: Fixing the ‘Invalid Directory Name’</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/polishing-your-past-redefining-vintage-videos-with-windows-and-madvr/"><u>Polishing Your Past: Redefining Vintage Videos with Windows and MadVR</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/streamlined-method-assembling-tracks-from-past-sets-in-digital-dj-systems-pioneer/"><u>Streamlined Method: Assembling Tracks From Past Sets in Digital DJ Systems (Pioneer)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-classic-adventures-in-hd-with-scummvm/"><u>Unlock the Full Potential of Classic Adventures in HD with ScummVM</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-premium-gadgets-to-record-online-streams-on-youtube/"><u>[New] In 2024, Premium Gadgets to Record Online Streams on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-push-boundaries-with-unique-split-screen-videos-for-youtube/"><u>[Updated] Push Boundaries with Unique Split-Screen Videos for YouTube</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-tutorial-automating-data-removal-with-windows-compatible-stellar-file-eraser-v5/"><u>Comprehensive Tutorial: Automating Data Removal with Windows-Compatible Stellar File Eraser V5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-epson-stylus-nx420-drivers-for-windows-pcs-windows-7-8-and-10/"><u>Easy Install: Epson Stylus NX420 Drivers for Windows PCs (Windows 7, 8 & 10)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-avi-to-mkv-upgrade-at-no-cost-discover-the-power-of-movavis-free-video-editing-tool/"><u>Effortless AVI-to-MKV Upgrade at No Cost: Discover the Power of Movavi's Free Video Editing Tool</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/electric-car-charging-station-locator-via-google-maps-tips-and-tricks/"><u>Electric Car Charging Station Locator via Google Maps - Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-transform-caf-files-into-ogg-format-with-ease/"><u>Free Online Converter: Transform CAF Files Into Ogg Format with Ease</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-high-definition-ready-enabling-av1-on-youtube/"><u>In 2024, High Definition Ready Enabling AV1 on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-gratuite-ts-naar-mpeg-convertor-movavi/"><u>Online Gratuite TS Naar MPEG Convertor - Movavi</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210124291-9781784884116-the-art-of-stillness-in-a-noisy-world/"><u>The Art of Stillness in a Noisy World | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-six-techniques-to-enhance-image-clarity-and-detail/"><u>Top Six Techniques to Enhance Image Clarity and Detail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-your-presentations-with-primeslide-professional-and-instantly-downloadable/"><u>Upgrade Your Presentations with PrimeSlide: Professional & Instantly Downloadable</u></a></li>
 </ul></div>
 

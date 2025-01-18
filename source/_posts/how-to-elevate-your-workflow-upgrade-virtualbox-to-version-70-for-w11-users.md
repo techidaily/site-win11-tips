@@ -1,7 +1,7 @@
 ---
 title: "How To Elevate Your Workflow: Upgrade VirtualBox to Version 7.0 for W11 Users"
-date: 2024-08-08T11:03:40.664Z
-updated: 2024-08-09T11:03:40.664Z
+date: 2025-01-11T17:35:04.030Z
+updated: 2025-01-18T16:59:35.072Z
 tags:
   - windows10
   - windows11
@@ -20,16 +20,14 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
  If you use VirtualBox 6.1 on your system, it is better to upgrade to the newest version. Unlike most apps that auto-update, VirtualBox needs manual efforts to update to the new version. We will elaborate on the methods to update to VirtualBox 7.0 on Windows 11 and install the necessary add-ons.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## What’s New in VirtualBox 7.0?
 
  VirtualBox comes with support for Secure Boot in UEFI mode. It can now emulate TPM chips which are a mandatory requirement for Windows 11\. Along with that, there are some subtle but useful design changes that make it feel like a latest-gen app. Some menu options appear in new places, but it isn’t something to worry about. Plus, you can enjoy the dark mode on VirtualBox now and protect your eyes!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Upgrade to VirtualBox 7.0 on Windows 11
 
  VirtualBox does remind you that an update is available. But unlike most apps, you need to visit the official site and download all the necessary components and the new installer file to upgrade VirtualBox. Then, you need to install the new version on your system which will replace all the files of the current build present on your system.
@@ -43,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 1. Launch the VirtualBox app on your system. Navigate to**Help > VirtualBox Web Site** .
 2. The app will redirect you to the official VirtualBox website.
 3. Navigate to the left-hand side menu and click on the**Downloads** option.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Download VirtualBox 7.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-virtualbox-7-0.jpg)
 4. Locate the**VirtualBox 7.0.4 platform packages** section. Click on the**Windows Hosts** option to download the installer file on your system.
 5. Scroll down and find the**VirtualBox 7.0.4 Oracle VM VirtualBox Extension Pack** section. Click on the**All supported platforms** option to download the extension pack file for version 7.0.4.
@@ -53,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
 Now, you have all the necessary files to upgrade to VirtualBox 7.0.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Install VirtualBox 7.0
 
 To install VirtualBox 7.0, repeat the following steps:
@@ -65,19 +57,22 @@ To install VirtualBox 7.0, repeat the following steps:
 3. Right-click on the installer file and select the**Run as administrator** option from the context menu.
 4. UAC will pop up. Click on the**Yes** button to continue.
 5. VirtualBox 7.0 installer will launch. Pick the installation destination and click on the**Yes** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Install VirtualBox 7.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-virtualbox-7-0.jpg)
 6. VirtualBox will warn you about temporarily shutting the network interfaces. It means you will lose internet connectivity for some time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click on the**Yes** button. The installer will notify you about the missing dependencies. Click on the**Yes** button to install them as well.
 8. Wait for the installation to complete. Click on the**Finish** button to close the installer window.
 
  VirtualBox 7.0 will launch on your system. But wait! Don’t close the app yet.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Install the New Extension Pack
 
  Even after you upgrade the VirtualBox app to the newest version, the extension pack doesn’t upgrade along with it. So, it will have the older version of the extension pack which worked with the older VirtualBox version. You need to remove it and install the new extension pack that you download in the second method.
@@ -113,31 +108,34 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 5. Double-click to open the CD image directory. Scroll down and right-click on the**VBoxWindowsAdditions–amd64.exe** file. Select**Run as administrator** from the context menu.  
 ![Install the Guest Additions 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-guest-additions-1.jpg)
 6. UAC will pop up. Click on**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Install the Guest Additions 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-guest-additions-2.jpg)
 7. Follows the on-screen prompts to install the Guest Additions on your system.
 8. Click on the**Reboot now** option to apply changes to the Windows virtual machine.
 
  It may take a while to install the guest additions. Once done, you can change the resolution of the virtual machine to match the display resolution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will the Old Virtual Machines Work With VirtualBox 7.0?
 
  Yes. VirtualBox 7.0 will run the old virtual machines that you created without any issues. But you have to install the extension pack and the guest additions otherwise it could crash or not run at all. We tried running old Windows 10 and 11 virtual machines that we created in version 6.1.32, and they worked fine.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Upgrade to VirtualBox 7.0 With Ease
 
  VirtualBox 7.0 is the first third-party hypervisor to introduce emulation of TPM 2.0 chips. Microsoft still impedes Windows 11 installation as a virtual machine if the hypervisor cannot emulate the chip. But VirtualBox 7.0 can now install Windows 11 after enabling the passthrough of the TPM 2.0 chip for a virtual machine.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,4 +144,19 @@ To install the VirtualBox 7.0 extension pack, do as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-effective-techniques-for-creating-authenticity-in-client-praise-videos-for-2024/"><u>[New] Effective Techniques for Creating Authenticity in Client Praise Videos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis-for-2024/"><u>[New] The Ultimate Toolkit PowerDirector's Comprehensive '24 Analysis for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-radeon-rx-5700-xt-drivers-free-download-compatible-with-windows-11-10-8-and-7/"><u>AMD Radeon RX 5700 XT Drivers: Free Download Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/differences-highlighted-microsoft-and-local-account-divergences-on-pc/"><u>Differences Highlighted: Microsoft and Local Account Divergences on PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210024188-9781950719419-girl-youre-not-crazy-youre-dealing-with-a-narcissist/"><u>Girl, You're Not Crazy. You're Dealing With a Narcissist | Free Book</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/locate-windows-picture-cache-point/"><u>Locate Window’s Picture Cache Point</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/optimizing-performance-with-an-additional-memory-card-in-your-device/"><u>Optimizing Performance with an Additional Memory Card in Your Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-low-valorant-download-rate-woes-in-windows/"><u>Overcoming Low Valorant Download Rate Woes in Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/step-by-step-approach-to-mastery-with-iphone-x-animoji-use/"><u>Step-by-Step Approach to Mastery with iPhone X Animoji Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-fixing-the-to-do-syncheroom-dilemma/"><u>Swiftly Fixing the To Do Syncheroom Dilemma</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-off-windows-monitoring-for-opened-apps/"><u>Turn Off Windows Monitoring for Opened Apps</u></a></li>
+</ul></div>
 

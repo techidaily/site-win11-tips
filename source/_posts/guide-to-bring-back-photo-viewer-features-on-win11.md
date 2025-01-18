@@ -1,7 +1,7 @@
 ---
 title: Guide to Bring Back Photo Viewer Features on Win11
-date: 2024-08-08T10:59:14.831Z
-updated: 2024-08-09T10:59:14.831Z
+date: 2025-01-16T18:15:43.188Z
+updated: 2025-01-18T16:30:16.553Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 * [How to Disable Windows Photo Viewer in Windows 10 and 11](#how-to-disable-windows-photo-viewer-in-windows-10-and-11)
 * [Use One Photo Viewer](#use-one-photo-viewer)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Microsoft replaced the classic Windows Photo Viewer app in Windows 10 and 11 with the new Photos app.
@@ -34,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
  Microsoft replaced the classic Photo Viewer app in Windows 10 and 11 with Photos, its modern, feature-rich image viewer. However, if you liked the simplicity of Photo Viewer, here's how you can bring it back in Windows 10 and 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Restore Windows Photo Viewer in Windows 10/11 Using the Registry
 
  You can enable the classic Windows Photo Viewer app using a Windows Registry script. The following Windows Registry script reconfigures and enables the Windows Photo Viewer app.
@@ -59,6 +57,14 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 ![File Explorer Choose Another App Menu Showing Windows Photo Viewer App Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/file-explorer-choose-another-app-menu-showing-windows-photo-viewer-app-option.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Disable Windows Photo Viewer in Windows 10 and 11
 
  To disable Windows Photo Viewer, you must undo the changes you made earlier to the Windows Registry. It's worth making a backup again before making the changes. Then:
@@ -66,29 +72,25 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 1. Press **Win + R** to open the **Run** dialog. Input **notepad** and click **OK**.
 2. Copy and paste the following script into the notepad file:  
 `Windows Registry Editor Version 5.00[-HKEY_CLASSES_ROOT\Applications\Windowsphotoviewer.dll]`  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Notepad App Showing a Registry Script to Disable Windows Photo Viewer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/notepad-app-showing-a-registry-script-to-disable-windows-photo-viewer-in-windows-11.png)
 3. Press **Ctrl + Shift + S** to open the **Save** dialog.
 4. Type **DeactivateWindowsPhotoViewer.reg** as the file name. Click the **Save as type** drop-down, choose **All files (\*.\*)**, then click **Save**.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Notepad App Showing a Save As Dialog to Disable Windows Photo Viewer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/notepad-app-showing-a-save-as-dialog-to-disable-windows-photo-viewer-in-windows-11.png)
 5. Double-click **DeactivateWindowsPhotoViewer.reg** to execute the script and follow the on-screen instructions.
 
  Once done, [restart Windows Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/), and the Photo Viewer app will be disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use One Photo Viewer
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![One Photo Viewer App Showing Right-Click Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/one-photo-viewer-app-showing-right-click-context-menu.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One Photo Viewer is an excellent Windows Photo Viewer and [Windows Photos alternative](https://www.makeuseof.com/best-windows-10-photos-app-alternatives/). It's fast, free, and offers a clean interface by placing all the controls in the context menu, decluttering the toolbar area. Right-click the app interface to view the menu and access all the tools and settings.
 
@@ -100,11 +102,30 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
  That said, if you prefer to stick with a native option, give the built-in Windows Photos app another shot. It's not as bad as you may think upon first use.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-expert-mp3-creation-guide-top-video-to-audio-devices/"><u>[Updated] In 2024, Expert MP3 Creation Guide Top Video-to-Audio Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-camera-app-0xa00f425d-issue-on-windows/"><u>Correcting Camera App 0xA00F425D Issue on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-the-clutter-a-guide-to-swift-winoutlook/"><u>Cut the Clutter: A Guide to Swift WinOutlook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cutting-down-artificial-intelligence-distortions-using-six-effective-prompt-strategies/"><u>Cutting Down Artificial Intelligence Distortions Using Six Effective Prompt Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-audiovisual-data-flow-in-windows/"><u>Dissecting Audiovisual Data Flow in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-internet-security-with-duckduckgo-privacy-packages-protecting-your-identity-with-vpn-services-and-personal-data-management-tools-zdnet/"><u>Enhanced Internet Security with DuckDuckGo Privacy Packages – Protecting Your Identity with VPN Services and Personal Data Management Tools | ZDNET</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/exploring-the-features-of-the-samsung-galaxy-a2-great-value-in-budget-smartphones/"><u>Exploring the Features of the Samsung Galaxy A2#: Great Value in Budget Smartphones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/highlighted-14-examples-of-motion-texts/"><u>Highlighted 14 Examples of Motion Texts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-troubleshoot-and-correct-audiovideo-codec-not-supported-problems/"><u>How to Troubleshoot and Correct 'Audio/Video Codec Not Supported' Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-fast-windows-11-app-accessing-techniques/"><u>Mastery of Fast Windows 11 App Accessing Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-win11-a-detailed-look-at-zoom-functions/"><u>Navigating Win11 A Detailed Look at Zoom Functions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-activation-error-0x8007251d-a-step-by-step-guide/"><u>Resolving Windows Activation Error 0X8007251D: A Step-by-Step Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/simplify-macbook-screen-capture-for-beginners-for-2024/"><u>Simplify MacBook Screen Capture for Beginners for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-professionals-messages-through-gpt-3/"><u>Tailoring Professionals' Messages Through GPT-3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-headset-with-single-side-functioning/"><u>Troubleshooting Windows Headset with Single Side Functioning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-secrets-automating-selective-file-shifts/"><u>Windows 11 Secrets: Automating Selective File Shifts</u></a></li>
+</ul></div>
+

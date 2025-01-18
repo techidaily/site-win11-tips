@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Non-Existent Registry Tool
-date: 2024-08-08T11:02:51.872Z
-updated: 2024-08-09T11:02:51.872Z
+date: 2025-01-14T17:36:13.907Z
+updated: 2025-01-18T17:05:30.672Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,19 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 3. Select**Scan options** to access all the scanning radio buttons.  
 ![The Virus & threat protection tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/virus-threat-protection-tab.jpg)
 4. Next, click Windows Security’s**Full Scan** option.
-5. Press**Scan now** to initiate the scanning.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Press**Scan now** to initiate the scanning.  
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-now-button.jpg)
 6. If Windows Security detects something, select the**Remove action** options for everything detected.
 7. Then click**Start actions** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scan and Repair System Files
 
@@ -48,15 +54,13 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 5. Type in this SFC command text and press**Enter** :  
 `sfc /scannow`  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scannow-command.jpg)
 6. Wait until that tool’s scan gets to 100 percent. Then you’ll see a Windows Resource Protection message in the Prompt’s window.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Enable Registry Editor Access in Group Policy Editor
 
  Windows Pro and Enterprise editions have a Group Policy Editor tool that includes a**Prevent access to registry editing tools** option. If you’re a Pro or Enterprise user, check if that policy setting is enabled and causing the issue at hand. This is how you can enable Registry Editor access with Group Policy Editor:
@@ -64,19 +68,18 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 1. Open Run (see[how to open Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ), type**gpedit.msc** in that accessory’s command box, and select**OK** .
 2. Select User Configuration in Group Policy Editor’s sidebar.
 3. Double-click**Administrative Templates** \>**System** to reach the**Prevent access to registry editing tools** option.  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Local Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/local-group-policy-editor.jpg)
 4. Then double-click**Prevent access to registry editing** tools to bring up the window for that policy setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**Disabled** option, and click**Apply** to save.  
 ![The prevent access to registry editing tools policy setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/prevent-access-to-registry-edting-tools.jpg)
 6. Press the Prevent access to registry editing tools window’s**OK** button.
 7. Exit Group Policy Editor, and restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 4\. Edit the Path Environment Variable
 
  A wrongly configured or missing path environment variable can cause the “cannot find regedit.exe” error. Some users may need to edit an environment variable to resolve this issue. To do so, follow these steps for editing the Path variable:
@@ -85,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 2. Enter**View advanced system settings** inside the**Type here to search** box.
 3. Select**View advanced system settings** to view a System Properties window.
 4. Click**Environment Variables** to open up that window.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-variables-button.jpg)
 5. Select**Path** , and click the**Edit** button.  
 ![The Environment Variables window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-varibles-window.jpg)
@@ -138,10 +138,12 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 3. Click inside the Notepad window, and press the**Ctrl** +**V** keyboard shortcut for pasting.  
 ![The registry script for restoring default values](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/edit-registry-script.jpg)
 4. Press Notepad’s**Ctrl** +**Shift** +**S** keyboard shortcut for opening the "Save as" window.
-5. Select the**All files** option in the**Save as type** menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Select the**All files** option in the**Save as type** menu.  
 ![The All Files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/all-files-option.jpg)
 6. Type**Registry Fix.reg** inside the name box.
 7. Choose to save the script on the desktop area.
@@ -149,37 +151,27 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 9. Right-click the saved**Registry Fix.reg** script on the desktop and select**Show more options** \>**Merge** .
 10. Click**Yes** to confirm the selected option.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Perform a System Restore
 
  Restoring Windows to an earlier date can fix corrupted files. If you have the System Restore tool turned on, that might be worth a try. You can roll back Windows as outlined in our guide for[creating restore points in Windows](https://www.makeuseof.com/windows-11-create-restore-point/) and utilizing System Restore. Select a restore point predating the “cannot find regedit.exe” error on your PC if you can.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/system-restore-tool.jpg)
 
  You may need to reinstall some software after performing system restoration. Software installed after any restore point’s date is not preserved. Click the**Scan for affected programs** option for whatever restoration point you chose to see what software it removes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 7\. Reset Windows
 
  This last resolution will restore Windows 11/10 to a factory default configuration, which will likely resolve the “cannot find regedit.exe” issue. However, this is the last thing you should try since resetting Windows will also remove software packages that weren’t preinstalled. Our guide about[factory resetting a Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes the steps for applying this fix.
 
 ![The Reset this PC button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-this-pc-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Edit the Registry With Registry Editor Once More
 
@@ -191,8 +183,6 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +190,17 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-which-vimeo-e-sy-option-suits-your-needs/"><u>[Updated] Which Vimeo E-Sy Option Suits Your Needs?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-display-not-turning-on-when-booting-up-windows/"><u>How to Fix a Display Not Turning On When Booting Up Windows</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-capture-and-share-best-social-media-tools-of-the-year/"><u>In 2024, Capture and Share Best Social Media Tools of the Year</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-swift-periscope-broadcasting/"><u>In 2024, The Ultimate Guide to Swift Periscope Broadcasting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/incorporating-omnipotent-options-in-windows-11/"><u>Incorporating Omnipotent Options in Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-windows-pc-live-tv-recording-tips-and-tricks/"><u>Mastering Windows PC Live TV Recording Tips & Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-cursor-lighting-with-windows-11-tips/"><u>Optimize Your Cursor Lighting with Windows 11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-directive-not-empty-hurdle-insights-to-eradicate-error-0x80070091/"><u>Overcoming the Directive Not Empty Hurdle: Insights to Eradicate Error 0X80070091</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-eightfold-path-to-enhanced-content-with-artificial-intelligence-chatbots/"><u>The Eightfold Path to Enhanced Content with Artificial Intelligence Chatbots</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-list-of-leading-smartwatches-for-234-tech-enthusiasts/"><u>The Ultimate List of Leading Smartwatches for 2^34 Tech Enthusiasts</u></a></li>
+</ul></div>
 

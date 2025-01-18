@@ -1,7 +1,7 @@
 ---
 title: Reviving a Dysfunctional Resource Monitor on Windows 11
-date: 2025-01-05T18:20:50.125Z
-updated: 2025-01-12T20:19:41.380Z
+date: 2025-01-16T16:54:43.871Z
+updated: 2025-01-18T18:01:45.210Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the Resource Monitor App to Stop Working?
 
  Before we dive into solving the problem, let's first check what causes the Resource Monitor app to stop working correctly. There are a few potential causes you should consider.
@@ -35,21 +39,17 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 
 So, let's move on to the solution and fix this problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart the Computer
 
 ![windows restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-restart.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When troubleshooting software-related issues, a computer restart can often resolve them without resorting to complex solutions. Doing so refreshes all running programs and services while also clearing out any temporary files that might be causing problems.
 
  In most cases, this can get things back up and running without requiring extra effort. Plus, this solution is usually quick and easy since you only need to shut down your PC and wait for it to boot back up again. If you're having trouble restarting your PC, you can check out our guide on the[different ways you can restart Windows](https://www.makeuseof.com/windows-restart-methods/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Change the DPI Settings
 
@@ -66,6 +66,10 @@ To change the DPI scale to its default settings, follow these steps:
 
  Once you have made the changes, close the Settings window and run the Resource Monitor app to see if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Run the System File Checker
 
  If restarting your computer and changing the DPI settings didn't work, running an SFC scan can often detect and repair any corrupted system files that might be causing problems.
@@ -79,11 +83,15 @@ To do this, follow these steps:
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 sfc /scannow
 5. Wait for the process to complete, then restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Check for Windows Updates
 
@@ -97,7 +105,7 @@ sfc /scannow
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
@@ -111,10 +119,6 @@ sfc /scannow
 3. Now go to the right and click on**Update history** .  
 ![Update history in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-history-in-windows-update.jpg)
 4. Scroll down to Related settings and click**Uninstall updates** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
 
@@ -154,10 +158,6 @@ In such a case, you need to perform a clean boot as instructed below:
 
  Once you have done this, close Task Manager, then click**OK** on the MSConfig window to save these changes. Now restart your computer for them to take effect, then try using Resource Monitor to see if they work now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Resolve Resource Monitor Issues in Windows 11
 
  Resource Monitor helps you monitor the performance and usage of your system's resources, including memory, disk, and network activity. If you're having trouble accessing this tool, this guide may help.
@@ -177,22 +177,24 @@ In such a case, you need to perform a clean boot as instructed below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-sectionalviewpoint-investigation/"><u>[New] 2024 Approved SectionalViewpoint Investigation</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-swift-introduction-the-art-of-green-screening/"><u>[New] 2024 Approved Swift Introduction The Art of Green Screening</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-simplifying-large-screen-viewing-for-youtubers-for-2024/"><u>[New] Simplifying Large-Screen Viewing for YouTubers for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-maximizing-game-replays-in-roblox-with-macos-tips/"><u>[Updated] 2024 Approved Maximizing Game Replays in Roblox with macOS Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-discover-the-perfect-moment-timing-your-insta-posts/"><u>[Updated] In 2024, Discover the Perfect Moment Timing Your Insta Posts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-learn-from-the-best-youtubes-top-green-screen-techniques/"><u>2024 Approved Learn From The Best Youtube’s Top Green Screen Techniques</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-the-art-of-crafting-engaging-youtube-screen-closures/"><u>2024 Approved Mastering the Art of Crafting Engaging YouTube Screen Closures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boot-camp-backing-up-your-hard-drive-solo/"><u>Boot Camp: Backing up Your Hard Drive Solo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breathing-life-into-inactive-apps-in-windows-11/"><u>Breathing Life Into Inactive Apps in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-devices-a-practical-guide-to-android-and-pc-synchro/"><u>Bridging Devices: A Practical Guide to Android & PC Synchro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-dual-windows-mastering-data-consistency-using-aoemi/"><u>Bridging Dual Windows: Mastering Data Consistency Using AOEMi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-browser-requirement-a-new-user-guide/"><u>Bypassing Browser Requirement: A New User Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-http-overload-in-win-based-software-0x80860010/"><u>Bypassing HTTP Overload in Win-Based Software (0X80860010)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/charting-new-territories-top-7-updates-from-windows-11s-filesystem/"><u>Charting New Territories: Top 7 Updates From Windows 11'S Filesystem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/choosing-preferred-pdf-application-on-windows/"><u>Choosing Preferred PDF Application on Windows</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/effective-kootek-desktop-cooling-unit-assessment-for-optimal-performance/"><u>Effective Kootek Desktop Cooling Unit Assessment for Optimal Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-pcs-endless-loop-in-preparing-windows-for-a-fresh-start/"><u>Resolve Your PC's Endless Loop in Preparing Windows for a Fresh Start</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-music-sticker-how-to-get-the-music-sticker-on-instagram/"><u>[New] 2024 Approved Instagram Music Sticker How to Get the Music Sticker on Instagram</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-ways-chatgpt-could-help-you-land-a-job-on-linkedin/"><u>10 Ways ChatGPT Could Help You Land a Job on LinkedIn</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-ultimate-vsco-photo-workflow-analysis/"><u>2024 Approved The Ultimate VSCO Photo Workflow Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-gratis-notebook-programs-for-windows-7-users-a-comprehensive-guide-to-effortless-learning/"><u>Best Gratis Notebook Programs for Windows 7 Users: A Comprehensive Guide to Effortless Learning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-aac-files-to-mpeg-format-without-cost-using-movavis-online-tool/"><u>Convert AAC Files to MPEG Format Without Cost Using Movavi's Online Tool</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/cutting-edge-cloud-notes-with-mematic/"><u>Cutting-Edge Cloud Notes with Mematic</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-chatgpt-with-kids-and-adults-alike/"><u>Exploring ChatGPT with Kids and Adults Alike</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-facil-para-combinar-y-superponer-imagenes-con-herramientas-en-linea/"><u>Guía Fácil Para Combinar Y Superponer Imágenes Con Herramientas en Línea</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-smart-shelfings-leading-frame-apps-of-the-future/"><u>In 2024, Smart Shelfings Leading Frame Apps of the Future</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/is-the-google-pixel-4a-right-for-you-our-detailed-review-shows-why/"><u>Is the Google Pixel 4a Right for You? Our Detailed Review Shows Why</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-yayinada-onemli-mp3lere-donusturulenecek-13-uykudur-youtube-video-hareketleri/"><u>Movavi Yayınada Önemli MP3'lere Dönüştürülenecek 13 Uykudur YouTube Video Hareketleri</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-no-cost-solution-for-changing-audio-file-types-convert-asf-to-mp3-online/"><u>Movavi's No-Cost Solution for Changing Audio File Types - Convert ASF to MP3 Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/perfecting-visual-horizontality/"><u>Perfecting Visual Horizontality</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/mline-your-online-listening-experience-with-direct-capture-for-2024/"><u>Streamline Your Online Listening Experience with Direct Capture for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-twitter-apps-for-efficiently-tracking-and-engaging-with-trending-hashtags/"><u>Top 4 Twitter Apps for Efficiently Tracking and Engaging with Trending Hashtags</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-more-memory-a-guide-on-eliminating-redundant-data-for-extra-disk-capacity-featuring-movavi-insights/"><u>Unlock More Memory: A Guide on Eliminating Redundant Data for Extra Disk Capacity, Featuring Movavi Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/webm-to-mp4-livsgrenen-gratist-og-snar-konverting/"><u>Webm-to-MP4 Livsgrenen - Gratist Og Snar Konverting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/web-m1v-0/"><u>우아한 Web용 M1V 영상 전환: 제공자 가격 0</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/webpng-bmp/"><u>モバヴァイの無料WEB専用PNG BMPフォーマット変換ツール</u></a></li>
 </ul></div>
 

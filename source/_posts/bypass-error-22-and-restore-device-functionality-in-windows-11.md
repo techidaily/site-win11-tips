@@ -1,7 +1,7 @@
 ---
 title: Bypass Error 22 and Restore Device Functionality in Windows 11
-date: 2024-07-29T08:14:50.259Z
-updated: 2024-07-30T08:14:50.259Z
+date: 2025-01-17T16:20:27.896Z
+updated: 2025-01-18T17:19:43.879Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,6 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
  Fortunately, it's very easy to fix the error code 22 on Windows. Let's look at what the error code 22 means on Windows, some common reasons why it occurs, and how to quickly fix it.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is the “This Device Is Disabled (Code 22)” Error on Windows?
 
  When you connect an external device to your computer for the first time, Windows installs the driver that is compatible with the device. The device driver then establishes a connection between the removable device and Windows. This allows Windows to identify the device and use it properly.
@@ -52,11 +40,12 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
 ![Enable device option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-device-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Device Manager will refresh, and the device will be back online. Check if you still get the error message. If yes, try the next solution on the list.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check for Physical Damage on the Device
 
  The error message can also stem from physical damage to your device. To confirm this, look for cracks, dents, or other signs of damage on the device. If you are using a connector, make sure it isn't bent out of shape..
@@ -69,17 +58,13 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
  To do this, open the **Settings app**. On the left side of the window, select **Windows Update**. Then, click the **Check for updates** button.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check for updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates-1.jpg)
 
  Your computer will now check the Microsoft servers for updates to your current operating system, including its drivers. If any updates are found, they will be downloaded and installed automatically. Otherwise, you will see a message that says **You're up to date**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Use the Hardware and Device Troubleshooter
 
@@ -91,12 +76,13 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
  Then, check the **Apply repairs automatically** option and click **Next** to step through it.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apply repairs automatically option of Hardware troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Apply-repairs-automatically.jpg)
 
  Once the wizard completes, the troubleshooter will let you know of any issues it found and how to fix them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Clear Your Computer's CMOS
 
@@ -110,8 +96,9 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
  After that, put back the cover of your computer and plug in all the devices.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Update Your Computer's BIOS
 
  An outdated BIOS can prevent your PC from working properly with certain devices and may cause errors such as code 22\.
@@ -127,8 +114,9 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
  To do that, start re-enabling the services you disabled for performing the clean boot until the error returns. Once you find the problematic service, consider uninstalling it or downloading its update.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Perform a System Restore
 
  If you are still struggling with the error, you can [try a system restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) to see if that fixes your problem. This will restore your computer to a prior point in time, which is useful if the issue started recently.
@@ -139,11 +127,29 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
  Fortunately, it's very easy to fix the error code 22 on Windows. Let's look at what the error code 22 means on Windows, some common reasons why it occurs, and how to quickly fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-10-recording-tips-to-record-audio-in-high-quality/"><u>[New] 2024 Approved 10 Recording Tips to Record Audio in High Quality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-unlock-mac-with-apple-watch-sierra/"><u>[Updated] How to Unlock Mac with Apple Watch [Sierra]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-co-production-strategies-for-online-content-proliferation/"><u>2024 Approved Co-Production Strategies for Online Content Proliferation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/detailed-close-ups-made-easy-in-videoleap-editing/"><u>Detailed Close-Ups Made Easy in Videoleap Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-fixes-for-win-11s-event-viewer/"><u>Guiding Through Fixes for Win 11'S Event Viewer</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-note-13-proplus-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi Note 13 Pro+ 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-quickly-view-images-in-windows-11/"><u>How To Quickly View Images in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-y28-5g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Vivo Y28 5G.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-s23-fe-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy S23 FE Without Password?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-performance-sluggishness-in-windows-with-dual-screen-views/"><u>Preventing Performance Sluggishness in Windows with Dual Screen Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-fixed-power-settings-on-windows-11/"><u>Solutions for Fixed Power Settings on Windows 11</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/step-by-step-guide-to-adding-your-company-emblem-as-the-backdrop-in-flipbook-creations/"><u>Step-by-Step Guide to Adding Your Company Emblem as the Backdrop in FlipBook Creations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-common-caption-issues-on-windows-10-systems/"><u>Tackling Common Caption Issues on Windows 10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/time-tracker-titans-wins-best-tools-for-peak-efficiency/"><u>Time Tracker Titans: Win's Best Tools for Peak Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-customizable-touches-for-your-windows-via-ms-store-themes/"><u>Unveiling Customizable Touches for Your Windows via MS Store Themes</u></a></li>
+</ul></div>
+

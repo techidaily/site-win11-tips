@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting PC Doesn't Meet Game Bar Issue
-date: 2024-08-08T11:00:43.593Z
-updated: 2024-08-09T11:00:43.593Z
+date: 2025-01-11T16:04:11.927Z
+updated: 2025-01-18T18:00:25.353Z
 tags:
   - windows10
   - windows11
@@ -31,17 +31,11 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
 3. Bring up Windows Explorer and the Downloads folder or other directory containing the Game DVR file.
 4. Double-click the **GameDVR\_Config** file.
 5. Select the **Enable Game DVR (Win+G)** checkbox.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Game DVR Config software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-dvr-config.jpg)
 6. Click the **Force software MFT** checkbox to select that setting.
 7. Exit Game DVR Config and [open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/).
 8. Look for the Broadcast DVR server on the **Processes** tab. Right-click Broadcast DVR Server and select **End task** if you can find that process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Edit the Control Registry Key
 
  Editing the Control registry key is a fix that’s worked for some users. Try editing that key like this:
@@ -53,26 +47,26 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
 4. If there isn’t a **PortableOperatingSystem** DWORD already, right-click on the **Control** key and select **New** and **DWORD**. Input **PortableOperatingSystem** within the new key’s text box.  
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-key-options.jpg)
 5. Double-click on the **PortableOperatingSystem** DWORD in the Control key.
-6. Delete the **0** number and input **1** within the **Value data** box.  
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Delete the **0** number and input **1** within the **Value data** box.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window.jpg)
 7. Set the value by clicking **OK** inside the Edit DWORD window.
 8. Then close out of the Registry Editor app and restart Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update Your Graphics Adapter’s Driver
 
  An outdated or faulty graphics driver might be causing this recording issue on your PC. Try installing the latest graphics driver for your GPU if you haven’t updated it in a while (or ever). This guide tells you [how to update a PC’s graphics driver in Windows](http://www.makeuseof.com/update-graphics-drivers-in-windows-10/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![The NVIDIA graphics driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-driver-download.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enable the Windows Game Recording and Broadcasting Policy
 
  Group Policy Editor includes a Game Recording and Broadcasting policy that prevents recording when disabled. So, Windows Pro and Enterprise users must make sure that the Game Recording and Broadcasting policy is set to enabled. Do note that Windows Home doesn’t include the Group Policy Editor.
@@ -89,6 +83,14 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
 ![The Enables or disables Windows Game Recording and Broadcasting policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-game-and-recording-policy-window.jpg)
 7. Close Group Policy Editor, bring up your Start menu and select **Power** \> **Restart**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Erase Data in the GameDVR Registry Key
 
  Corrupted GameDVR entries within the registry can cause the “PC doesn't meet the hardware requirements for captures” error. You can fix that by deleting DWORDs and strings in the GameDVR registry key, which will automatically regenerate. However, we still recommend users back up the registry before applying this potential solution.
@@ -104,15 +106,14 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
 5. Click the Start menu’s Power button and select **Restart**.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Recording Again With the Xbox Game Bar
 
  The potential solutions covered here are widely confirmed to resolve the “PC doesn't meet the hardware requirements for captures” by users who’ve needed to fix that issue. So, it’s most likely applying the potential fixes above will resolve that Game Bar recording issue on your Windows laptop or desktop. Then you can record video while gaming with the Game Bar’s recording feature again.
 
  The error message highlights a PC doesn’t meet system requirements for Game Bar recording. Yet, this error often arises for users who’ve utilized Game Bar’s recording on their PCs before. This is how you can fix the “PC doesn't meet the hardware requirements for captures” error in Windows 10 and 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -120,3 +121,22 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-projecting-yourself-to-the-world-with-insta-captions/"><u>[New] Projecting Yourself to the World with Insta Captions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-tips-for-supercharging-tiktok-videos-with-professional-voiceovers/"><u>[Updated] 2024 Approved Tips for Supercharging TikTok Videos with Professional Voiceovers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-from-silent-movies-to-sound-films-a-modern-tutorial/"><u>[Updated] From Silent Movies to Sound Films A Modern Tutorial</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-visual-storytelling-101-mastering-the-art-of-posting-images-on-youtube/"><u>[Updated] In 2024, Visual Storytelling 101 Mastering the Art of Posting Images on YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-with-any-windows-os-secure-your-oculus-driver-downloads-now-windows-11-10-8-and-7/"><u>Compatible with Any Windows OS: Secure Your Oculus Driver Downloads Now! (Windows 11, 10, 8 & 7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-rdp-error-codes-in-modern-windows-systems/"><u>Decoding RDP Error Codes in Modern Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-admin-command-execution-without-hurdles/"><u>Ensuring Admin Command Execution Without Hurdles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-secure-is-duckduckgo-compared-to-other-search-engines-exploring-the-facts/"><u>How Secure Is DuckDuckGo Compared to Other Search Engines? Exploring the Facts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-game-bars-pc-doesnt-meet-hardware-requirements-for-captures-error-in-windows/"><u>How to Fix Game Bar’s “PC Doesn't Meet Hardware Requirements for Captures” Error in Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-gopro-hero4-session-vs-hero5-session/"><u>In 2024, GoPro Hero4 Session Vs Hero5 Session</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-search-for-integrity-how-to-filter-out-fake-windows-apps/"><u>In Search for Integrity: How to Filter Out Fake Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workflow-integrate-onedrive-and-microsoft-id/"><u>Streamline Your Workflow: Integrate OneDrive & Microsoft ID</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-fundamentals-of-creating-alluring-podcast-descriptions/"><u>The Fundamentals of Creating Alluring Podcast Descriptions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-functional-deletion-keys-in-windows/"><u>Troubleshooting Non-Functional Deletion Keys in Windows</u></a></li>
+</ul></div>
+

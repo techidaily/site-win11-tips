@@ -1,7 +1,7 @@
 ---
 title: How to Configure the DNS Client Service in Windows 11
-date: 2024-08-08T11:03:24.897Z
-updated: 2024-08-09T11:03:24.897Z
+date: 2025-01-13T16:30:53.008Z
+updated: 2025-01-18T17:04:29.348Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
 
  But how do you configure the service if nothing works? Well, that’s where the trusty old method of registry tweaking comes in handy. We will elaborate on the process to disable and configure the DNS Client service as per your liking.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Disable the DNS Client Service Using the Registry Editor
 
  Even if you try to use the Command Prompt and run the command to stop the service, it responds with a “the requested pause, continue, or stop is not valid for this service.” message. So, you need to edit the registry settings of the DNS Client service to disable it.
@@ -37,23 +41,21 @@ Repeat the following steps to disable the DNS client service:
 5. Close the Registry editor.
 6. Press**Win + S** and type**services.msc** . Click on the**Run as administrator** option.
 7. Locate the DNS Client service. You will see that the service is still running but the Startup Type field shows Disabled.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![Disable the DNS Client Service Using Registry Editor 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-2.jpg)
 8. Close the Services utility and restart your system to apply the changes.
 9. Relaunch the Services panel and find the DNS Client service. It will have a blank status and Startup Type as disabled.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![Disable the DNS Client Service Using Registry Editor 3-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-3-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, DNS Client Service won’t start until you manually tweak its registry key again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is It Possible to Configure the DNS Client Service Without the Registry Editor?
 
  Unfortunately, no. As we described above, you will have to manually change the registry value of the Start DWORD every time you want to stop the DNS Client service on your system.
@@ -71,8 +73,9 @@ Repeat the following steps to disable the DNS client service:
  Open the Registry Editor with administrator privileges and navigate to the DNS Client service path as described in the previous section. Now, you can change the**Value Data** of the**Start DWORD value** to any of the numbers described above.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Quickly Disable the DNS Client Service Using Command Prompt
 
  It is possible to disable the DNS Client Service using Command Prompt as well. All you need to do is run the command to change the Startup Type of the service to "Disabled". Here’s how to do it:
@@ -81,27 +84,22 @@ Repeat the following steps to disable the DNS client service:
 2. Now, type the following command and press the**Enter** key to execute it:  
 `reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache" /v Start /t REG_DWORD /d 4 /f`
 3. After you see the “The operation completed successfully.” message, type "exit" and press**Enter** to close the Command Prompt window.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable the DNS Client Service Using CMD-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-cmd-1.jpg)
 4. **Restart** your system for the changes to take effect. DNS Client Service will remain disabled on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tweak Your DNS Client Service Easily
 
  Microsoft makes it very difficult to disable the DNS Client service on Windows 10 and 11\. But you can use the registry hack to disable the service whenever the need arises. Or if you want to disable the service quickly, use the Command Prompt method.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,4 +108,21 @@ Repeat the following steps to disable the DNS client service:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-highpoint-design-suite-examination/"><u>[Updated] 2024 Approved Highpoint Design Suite Examination</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-autonomous-exposure-control-the-magic-behind-auto-and-smart-hdr/"><u>[Updated] Autonomous Exposure Control The Magic Behind Auto and Smart HDR</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-channel-prominence-mastery-a-comprehensive-youtube-guide-for-2024/"><u>[Updated] Channel Prominence Mastery A Comprehensive YouTube Guide for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-leading-edge-of-color-grading-with-luts/"><u>[Updated] In 2024, Leading Edge of Color Grading with LUTs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-facebooks-best-eight-free-link-collector-tools/"><u>2024 Approved Facebook's Best Eight FREE Link Collector Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-linux-on-wsl-2-proven-windows-enhancements/"><u>Elevate Linux on WSL 2: Proven Windows Enhancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-paste-errors-in-windows-11-software/"><u>Eliminating Paste Errors in Windows 11 Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/methods-for-subtle-volume-reduction-in-fl-studio/"><u>Methods for Subtle Volume Reduction in FL Studio</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/premium-5-noise-canceling-gaming-mics-for-2024/"><u>Premium 5 Noise-Canceling Gaming Mics for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-google-maps-installation-for-windows-users/"><u>Seamless Google Maps Installation for Windows Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/steady-yourself-against-oculus-nausea-for-2024/"><u>Steady Yourself Against Oculus Nausea for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-path-failure-in-win10/"><u>Steps to Rectify PATH Failure in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-conflicts-start-peace-opt-for-one-antivirus-in-windows/"><u>Stop Conflicts, Start Peace: Opt for One Antivirus in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-drive-space-management-the-art-of-utilizing-windows-diskusage-commands/"><u>Transforming Drive Space Management: The Art of Utilizing Windows' DiskUsage Commands</u></a></li>
+</ul></div>
 

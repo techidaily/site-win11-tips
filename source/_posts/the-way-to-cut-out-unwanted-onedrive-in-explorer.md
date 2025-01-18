@@ -1,7 +1,7 @@
 ---
 title: The Way to Cut Out Unwanted OneDrive in Explorer
-date: 2024-08-08T11:03:07.090Z
-updated: 2024-08-09T11:03:07.090Z
+date: 2025-01-15T18:07:05.935Z
+updated: 2025-01-18T16:47:30.119Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
  However, if you find the shortcut cluttering or ruining your File Explorer experience, you can remove it using a registry hack. Here's how to remove the OneDrive icon from File Explorer without uninstalling OneDrive.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Remove OneDrive Shortcut From File Explorer via the Registry Editor
 
  You can remove the OneDrive icon from File Explorer using a registry hack. This way, you can get rid of the icon in File Explorer without uninstalling the OneDrive client. If you would rather remove the app entirely, follow our guide on[removing OneDrive on Windows 11](https://www.makeuseof.com/windows-11-disable-remove-onedrive/) .
@@ -36,31 +37,32 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 3. Next, in the Registry Editor, navigate to the following location. Copy and paste the registry path in the editor for quicker navigation:  
 `HKEY_CURRENT_USER\Software\Classes\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}`
 4. In the right pane, right-click on**System.IsPinnedToNameSpaceTree** DWORD value and select**Modify** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![remove onedrive icon windows 11 registry editor modify system is pinned to name space free](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/remove-onedrive-icon-windows-11-registry-editor-modify-system-is-pinnedtonamespace-free.jpg)
 5. In the**Value data** field, type**0** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![remove onedrive icon windows 11 registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/remove-onedrive-icon-windows-11-registry-editor.jpg)
 6. Next, navigate to the following location in Registry Editor:  
 `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace`
 7. In the left pane, right-click on**{018D5C66-4533-4307-9B53-224DE2ED1FE6}** and select**Delete** to remove the entry.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![remove onedrive icon windows 11 registry editor delete key under name space](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/remove-onedrive-icon-windows-11-registry-editor-delete-key-under-name-space.jpg)
 8. Once done, close the Registry Editor.
 9. When you open File Explorer, the OneDrive icon will not be visible anymore.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Show the OneDrive Icon Again in File Explorer
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![show onedrive icon windows 11 registry editor delete key under name space](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/show-onedrive-icon-windows-11-registry-editor-delete-key-under-name-space.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To show the OneDrive icon in File Explorer, you’ll need to modify a registry entry again. Here’s how to do it.
 
@@ -72,20 +74,18 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 5. Relaunch File Explorer to see the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Remove OneDrive Icon Without Uninstalling OneDrive
 
  This registry hack is a handy way to make the OneDrive icon disappear without deleting the app entirely from your PC. Alternatively, if you don’t use the service, you can completely remove OneDrive on Windows 11 or disable the service using Group Policy Editor.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,4 +94,23 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-blueprint-for-creating-viral-trailers-in-the-world-of-youtube/"><u>[New] In 2024, Blueprint for Creating Viral Trailers in the World of YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-business-cloud-data-solutions/"><u>[New] Premier Business Cloud Data Solutions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-heavy-lift-airborne-titans-drone-leaders-guide/"><u>[Updated] In 2024, Heavy-Lift Airborne Titans - Drone Leaders Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-simple-snippets-for-iphone-sound-capture/"><u>[Updated] Simple Snippets for iPhone Sound Capture</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-security-in-free-apps-for-windows-os/"><u>Ensuring Security in Free Apps for Windows OS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-e13-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto E13 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-dive-into-old-content-youtube-video-recovery-guide/"><u>In 2024, Dive Into Old Content YouTube Video Recovery Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-access-tip-push-gmail-to-top-of-windows-desktop/"><u>Quick Access Tip: Push Gmail to Top of Windows Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shift-windows-display-orientation-easily/"><u>Shift Windows Display Orientation Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-tasks-with-notetaking-techniques-for-w11w10/"><u>Simplify Your Tasks with Notetaking Techniques for W11/W10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-six-essentials-for-restoring-frozen-menu-functions/"><u>The Six Essentials for Restoring Frozen Menu Functions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-urban-armor-gear-macbook-pro-carrier-tough-meets-functional-design/"><u>The Ultimate Guide to the Urban Armor Gear MacBook Pro Carrier – Tough Meets Functional Design.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-driver-failed-errors-in-user-setup-procedures/"><u>Troubleshooting and Fixing 'Driver Failed' Errors in User Setup Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-silent-workers-stopping-windows-apps/"><u>Unveiling Silent Workers: Stopping Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-and-its-disappearing-drive-letters-analysis-and-remedial-strategies/"><u>Windows and Its Disappearing Drive Letters: Analysis & Remedial Strategies</u></a></li>
+</ul></div>
 

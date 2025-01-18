@@ -1,7 +1,7 @@
 ---
 title: "Revive the Neutral: Quick Cures for Pink and Purple Windows"
-date: 2025-01-07T16:17:30.517Z
-updated: 2025-01-12T18:48:28.818Z
+date: 2025-01-17T18:22:55.800Z
+updated: 2025-01-18T16:10:15.346Z
 tags:
   - windows10
   - windows11
@@ -26,18 +26,26 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Quick Fixes for a Windows Desktop That Turns Pink or Purple
 
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before you try the detailed solutions, you might want to check out a couple of quick fixes first.
 
  For example, are you experiencing this issue on an external display device? If so, then check your cables and ensure that everything is connected properly. Also, ensure that your display cables aren’t damaged.
 
  In some cases, restarting your Windows device could help. Perform any one of the many[ways to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) and see if that fixes this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart File Explorer
 
@@ -50,10 +58,6 @@ Let’s take a look at the steps for restarting File Explorer:
 3. Right-click on**Windows Explorer** and then select**Restart** .
 
 ![Restarting the Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Restarting-the-Windows-File-Explorer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable the Color Filters
 
@@ -83,6 +87,10 @@ To get rid of the problem, follow these steps:
 
 ![Turning off the Night light button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Night-light-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, follow these steps if you want to tweak some additional night light settings:
 
 1. Navigate to the**Display settings** window as per the previous steps.
@@ -93,11 +101,7 @@ To get rid of the problem, follow these steps:
 ![Adjusting the Night light colors strength](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Adjusting-the-Night-light-colors-strength.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Update or Reinstall the Windows Display Drivers
@@ -123,7 +127,7 @@ Let’s first check out how you can update the display drivers:
 5. Restart your PC to apply these changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Use the Built-In Windows Troubleshooters
@@ -145,10 +149,6 @@ Let’s first check out how you can update the display drivers:
 
 ![Running the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-Hardware-and-Devices-Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the issue persists, run the System Maintenance troubleshooter through these steps:
 
 1. Press**Win + R** to open the Run command dialog box.
@@ -157,6 +157,10 @@ Let’s first check out how you can update the display drivers:
 4. Press the**Next** button and then follow the on-screen instructions.
 
 ![Running the System Maintenance Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-System-Maintenance-Troubleshooter-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Scan and Remove Malware From Your PC
 
@@ -172,10 +176,6 @@ Here are the steps you need to follow:
 6. Choose your preferred scan option and then press the**Scan now** button.
 
 ![Scanning a PC with the Windows Security tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/Scanning-a-PC-with-the-Windows-Security-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Use a System Restore Point
 
@@ -215,24 +215,20 @@ Here are the steps you need to follow:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-instantaneous-google-collage-a-speedy-diy-method/"><u>[New] Instantaneous Google Collage A Speedy DIY Method</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-key-techniques-to-maximize-your-spotify-ad-reach/"><u>[New] Key Techniques to Maximize Your Spotify Ad Reach</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-saving-instagram-content-easy-no-frill-methods-exposed-for-2024/"><u>[Updated] Saving Instagram Content Easy, No-Frill Methods Exposed for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/13-methods-to-resuscitate-windows-system-backup/"><u>13 Methods to Resuscitate Windows System Backup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-ways-to-open-the-print-management-tool-in-windows-11/"><u>9 Ways to Open the Print Management Tool in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-beginners-path-to-implementing-hyper-v-on-win-11-homes/"><u>A Beginner's Path to Implementing Hyper-V on Win 11 Homes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-missing-d3dx9-point-on-windows-11/"><u>Addressing Missing D3DX9 Point on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-mouse-accessibility-in-windows-11-with-ease/"><u>Adjusting Mouse Accessibility in Windows 11 with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/an-overview-of-user-dissatisfaction-with-windows-11-upgrade/"><u>An Overview of User Dissatisfaction with Windows 11 Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-common-mistakes-fixing-office-error-0x80041015/"><u>Avoiding Common Mistakes Fixing Office Error 0X80041015</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blackview-spacious-and-slow-a-bittersweet-blend/"><u>Blackview: Spacious and Slow - A Bittersweet Blend</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-8-plus-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 8 Plus with iTunes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209660879-9781547574582-meditacao-tecnicas-de-meditacao-para-melhor-sono-tecnicas-de-mindfulness-para-iniciantes/"><u>Meditação : Técnicas De Meditação Para Melhor Sono (Técnicas De Mindfulness Para Iniciantes) | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719266840560-prevent-unwanted-updates-on-your-pc-today/"><u>Prevent Unwanted Updates on Your PC Today!</u></a></li>
-<li><a href="https://win-great.techidaily.com/top-ranking-gaming-seats-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking Gaming Seats : A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-multi-monitor-support-for-your-m3-macbook-pro-inspired-by-the-versatile-m3-macbook-air-insights/"><u>Unlocking Multi-Monitor Support for Your M3 MacBook Pro, Inspired by the Versatile M3 MacBook Air | Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-the-power-of-a-4tb-solid-state-drive-with-patriots-viper-vp4300-lite-a-comprehvew/"><u>Unlocking the Power of a 4TB Solid State Drive with Patriot's Viper VP4300 Lite: A Comprehvew</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/weaving-a-web-of-sound-youtube-music-and-video-integration-guide/"><u>Weaving a Web of Sound YouTube Music & Video Integration Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-obs-driven-instagram-live-stream/"><u>[New] In 2024, OBS-Driven Instagram Live Stream</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-media-sound-conversion/"><u>[Updated] 2024 Approved Social Media Sound Conversion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-digital-artistry-creating-vibrant-gifs-for-social-media/"><u>2024 Approved Digital Artistry Creating Vibrant GIFs for Social Media</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-visuals-through-selective-zooming/"><u>Enhancing Visuals Through Selective Zooming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-windows-11-taskbar-operability/"><u>Ensuring Windows 11 Taskbar Operability</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-s23-tactical-edition-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy S23 Tactical Edition Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/ideal-vm-setup-recommendations-for-windows-11-innovators/"><u>Ideal VM Setup Recommendations for Windows 11 Innovators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovating-on-notification-settings-for-full-charges/"><u>Innovating on Notification Settings for Full Charges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introducing-efficient-command-execution-via-keys-w11-edition/"><u>Introducing Efficient Command Execution via Keys, W11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-uninstall-errors-in-windows-11-operating-system/"><u>Overcoming Uninstall Errors in Windows 11 Operating System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-and-easy-multi-archive-extraction-for-windows-users/"><u>Quick and Easy Multi-Archive Extraction for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-honor-x50i-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Honor X50i</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-11-printer-issues-and-solutions-quickly/"><u>Unlock Windows 11 Printer Issues & Solutions Quickly</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unbiased-review-of-vn-video-editor-apk-worth-your-time/"><u>Updated Unbiased Review of VN Video Editor APK Worth Your Time?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/usb-boot-media-creation-made-simple-tutorial-on-3-win-11-steps/"><u>USB Boot Media Creation Made Simple – Tutorial on 3 Win 11 Steps</u></a></li>
 </ul></div>
 

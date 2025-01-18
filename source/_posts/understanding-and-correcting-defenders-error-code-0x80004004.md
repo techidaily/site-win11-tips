@@ -1,7 +1,7 @@
 ---
 title: "Understanding & Correcting Defender's Error Code: 0X80004004"
-date: 2025-01-05T18:37:30.921Z
-updated: 2025-01-13T01:28:51.016Z
+date: 2025-01-15T17:58:38.574Z
+updated: 2025-01-18T18:30:14.138Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
  Regardless of what might be causing the problem in your case, the solutions we have discussed below are sure to help you fix the problem. Proceed with them one by one to fix the problem once and for all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart the Microsoft Defender Services
 
  The first thing that we recommend doing is restarting the services that Microsoft Defender relies on to function properly. It's possible that these services may have been disabled by another user or malware on the system, or they may have encountered corruption errors, leading to the problem. Restarting these services can help resolve such issues and get Microsoft Defender back on track.
@@ -58,7 +62,7 @@ Here is how you can do that:
 5. Now, click on the**Start** button if the service is stopped. If it is functional, click on the**Stop** button, wait for a few seconds, and click**Start** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Make sure the Startup type is set to**Automatic** .
@@ -67,7 +71,7 @@ Here is how you can do that:
  Perform the same steps for the Microsoft Defender Firewall service and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uninstall Conflicting Software
@@ -80,21 +84,17 @@ Here is how you can do that:
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Try Some Generic Windows-Based Fixes
 
  Now that you've tried some specific fixes for this error, it's time to try some more general ways for fixing errors like this.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Run the Windows Update Troubleshooter
 
  If you are encountering the error code while trying to update Microsoft Defender, then you can[run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Install the Update Manually
 
@@ -104,15 +104,15 @@ Here is how you can do that:
 
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Change Your Antivirus Program
 
  If you have come this far without a viable solution and are still struggling to use Microsoft Defender, we recommend reporting the issue to Microsoft’s official support team. Till they offer a fix, you can consider switching to another security service to protect your system from vulnerabilities and malware.
 
  Our guide on[the best antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) should help you make an informed decision in this regard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Microsoft Defender Error 0x80004004, Resolved
 
@@ -133,18 +133,18 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-capture-and-save-with-ease-top-5-pc-snipers-reviewed-for-2024/"><u>[New] Capture & Save with Ease Top 5 PC Snipers Reviewed for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-quick-tips-solve-obss-blackout-during-live-captures/"><u>[New] In 2024, Quick Tips Solve OBS's Blackout During Live Captures</u></a></li>
-<li><a href="https://win-able.techidaily.com/discover-the-leading-5-music-downloader-websites-a-comprehensive-guide/"><u>Discover the Leading 5 Music Downloader Websites: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fine-tuning-frames-a-comprehensible-approach-to-iphone-editing/"><u>Fine-Tuning Frames A Comprehensible Approach to iPhone Editing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-activating-user-defined-permissions-in-windows-1011/"><u>Guide to Activating User-Defined Permissions in Windows 10/11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-your-intel-usb-30-device-on-windows-10-driver-download-instructions/"><u>How to Update Your Intel USB 3.0 Device on Windows 10: Driver Download Instructions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-look-at-the-upcoming-samsung-galaxy-z-fold-7-release-timeline-price-speculations-and-tech-insights/"><u>Inside Look at the Upcoming Samsung Galaxy Z Fold 7 - Release Timeline, Price Speculations, and Tech Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-for-eliminating-interrupt-error-on-windows-1011/"><u>Methods for Eliminating INTERRUPT Error on Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/old-pc-new-tricks-staying-current-without-windows-11/"><u>Old PC, New Tricks: Staying Current Without Windows 11</u></a></li>
-<li><a href="https://win-news.techidaily.com/samsung-ssds-duplikation-auf-eine-neue-solid-state-festplatte-mit-windows-eine-anleitung-zu-zwei-verschiedenen-ansatzen/"><u>Samsung SSDs Duplikation Auf Eine Neue Solid-State-Festplatte Mit Windows – Eine Anleitung Zu Zwei Verschiedenen Ansätzen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seize-savings-unveil-windows-11-pro-key-deals/"><u>Seize Savings: Unveil Windows 11 Pro Key Deals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-innovative-iphone-16-pro-attributes-exciting-tech-aficionados-insights-from-zdnet/"><u>Top 5 Innovative iPhone 16 Pro Attributes Exciting Tech Aficionados: Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/under-100-marvel-the-tp-link-archer-a9-router-explored-in-this-complete-evaluation/"><u>Under $100 Marvel: The TP-Link Archer A9 Router Explored in This Complete Evaluation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-from-basics-to-bonus-elevate-your-cam-game/"><u>[New] From Basics to Bonus Elevate Your Cam Game</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ultimate-sound-selection-for-social-media-stars/"><u>[New] Ultimate Sound Selection for Social Media Stars</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-breaking-down-2023s-most-sharing-videos-on-twitter/"><u>[Updated] Breaking Down 2023'S Most Sharing Videos on Twitter</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-breaking-down-instagrams-video-conversation-protocol/"><u>[Updated] Breaking Down Instagram's Video Conversation Protocol</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-screen-snatching-made-easy-analyzing-no-cost-recording-apps/"><u>2024 Approved Screen Snatching Made Easy – Analyzing No-Cost Recording Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/webm-aac-movavi/"><u>免費線上 Webm 到 AAC音效轉換器 - Movavi 影片編輯師</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertir-archivos-mp3-al-formato-3gp-gratuito-en-linea-con-movavi/"><u>Convertir Archivos MP3 Al Formato 3GP Gratuito en Línea Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-online-omzetten-van-ogg-naar-wav-movavi/"><u>Gratuit Online Omzetten Van Ogg Naar Wav - Movavi</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-6-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 6</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-mac-console-simulations-ranked/"><u>Superior Mac Console Simulations Ranked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformacion-sin-costes-como-convertir-mpg-en-mp4-usando-el-conversor-online-y-gratis-de-movavi/"><u>Transformación Sin Costes: Cómo Convertir MPG en MP4 Usando El Conversor Online Y Gratis De Movavi.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-frame-rate-dips-in-resident-evil-village-essential-fixes-for-pc-gamers/"><u>Troubleshooting Frame Rate Dips in Resident Evil Village - Essential Fixes for PC Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726221058799-mp3-movavi/"><u>오토바이오그래피를 자유성 MP3로 전환 - Movavi</u></a></li>
 </ul></div>
 

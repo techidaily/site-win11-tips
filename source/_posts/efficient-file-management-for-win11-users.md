@@ -1,7 +1,7 @@
 ---
 title: Efficient File Management for Win11 Users
-date: 2024-08-08T11:01:20.332Z
-updated: 2024-08-09T11:01:20.332Z
+date: 2025-01-15T17:13:06.921Z
+updated: 2025-01-18T16:29:50.939Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
 
  Defragging a drive reorganizes the fragmented data on it more efficiently by filling storage gaps. Doing so can boost a hard disk drive’s read-write speed since data is less spread out. This is how you can defrag a drive with Windows 11’s pre-installed defrag tools and the Defraggler software.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Defrag a Hard Drive With the Optimize Drives App
 
  Defragment and Optimize Drives is one of the defrag tools included with Windows 11\. That’s a slightly basic defrag tool compared with some third-party alternatives. However, Optimize drives will probably be sufficient for most users and does at least include scheduling settings. You can manually analyze and defrag a hard drive with that utility as follows:
@@ -41,18 +38,20 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
 
 ![The Run on a schedule checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-on-a-schedule-checkbox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can set the defrag frequency in the drop-down menu below that option. Click the**Frequency** drop-down menu to view its options. Then select**Daily** ,**Weekly** , or**Monthly** according to preference.
 
  If you’ve partitioned your HDD, you can select to optimize alternative drive partitions beyond C. Clicking**Choose** below the**Run on a schedule** setting will bring up a drive selection window. There you can select other drives for which to schedule regular optimization.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The drive selection window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/drive-selection-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Defrag a Hard Drive With the Command Prompt
 
  Alternatively, you can utilize a defragger command-line tool within the Command Prompt. That tool is more flexible because it has various parameters you can set in commands. This is how to defrag your hard drive with the Command Prompt in Windows 11.
@@ -64,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
 `defrag c: /a`
 5. Then defragment the C: drive by executing this command:  
 `defrag c:`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![The defrag c command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-c-command.jpg)
 
  As mentioned, this command-line tool has numerous parameters for configuring the defragment operation. Those parameters give you extra optimization options and enable you to tweak the defragging more. You can view the parameter switches by inputting and executing this command:
@@ -78,9 +73,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![The defrag help command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-parameter-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Defrag a Hard Drive With Defraggler
 
  Piriform Defraggler is a more advanced drive optimization tool than Defragment and Optimize Drives, which you can utilize on Windows platforms dating back to XP. It enables you to defrag whole drive volumes, specific folders, or even single files. You can defrag a hard drive with Defraggler like this:
@@ -98,11 +90,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Defraggler will then do its stuff and displays an active status for the defrag operation. The drive map shows different color squares for fragmented and non-fragmented blocks. While in operation, you’ll also see yellow and green squares for files read and written. Click the**Drive map** tab to view Defraggler’s color code index.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![The Drive Map tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/drive-map-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you prefer to defrag a specific folder or file, click the**Actions** menu. Click either the**Defrag Folder** or**Defrag File** option there. Select a directory or file to optimize and click**OK** .
 
@@ -112,6 +104,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![The Schedule window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-schedule-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I Defrag a Solid-State Drive?
 
  You can defrag an SSD drive with the tools in this guide, but it’s rather pointless. Solid-state drives are a different type of non-mechanical storage that’s faster than hard drives. Defragging such drives offers little to no performance benefit.
@@ -119,8 +115,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Check out our article about[why you shouldn’t defrag SSDs](https://www.makeuseof.com/should-you-optimize-ssd/) for further details.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Enhance Your PC’s HDD Efficiency in Windows 11
 
  Defragging your PC’s hard drive on a reasonably regular basis with the utilities covered above will make it an altogether faster and more responsive one. Once-the-month manual defrags will usually be sufficient for minimizing data fragmentation and maintaining optimal drive efficiency. Windows 11’s built-in tools are ok for drive optimization, but Defraggler offers the most extensive defrag options.
@@ -131,8 +128,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +135,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-view-old-stories-on-facebook-laptop-and-mobile/"><u>[New] How to View Old Stories on Facebook? [Laptop and Mobile]</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excessive-tiktok-drafts-simplify-with-smart-editing-techniques/"><u>2024 Approved Excessive TikTok Drafts? Simplify with Smart Editing Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-turn-daily-life-into-a-comedy-meme/"><u>2024 Approved Turn Daily Life Into a Comedy Meme</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-infinix-hot-30i-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Infinix Hot 30i to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/broadcasting-fb-movies-on-whatsapp-for-2024/"><u>Broadcasting FB Movies on WhatsApp for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-hiccups-fixing-slow-playback-in-vlc/"><u>Eliminating Hiccups: Fixing Slow Playback in VLC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-the-hardware-detected-is-not-supported-by-this-idt-software-package-issue/"><u>Fix The Hardware Detected Is Not Supported by This IDT Software Package Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-directx-installation-hurdles/"><u>Mending DirectX Installation Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-lags-streamlining-vlc-playback-speed/"><u>Overcoming Lags: Streamlining VLC Playback Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precision-adjusting-windows-locksleep-timer/"><u>Precision: Adjusting Windows Lock/Sleep Timer</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Shed Light on Dark Windows 11 Desktops - Tips Inside!
-date: 2024-08-08T11:00:11.639Z
-updated: 2024-08-09T11:00:11.639Z
+date: 2025-01-17T17:18:58.340Z
+updated: 2025-01-18T17:04:10.099Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
  There are several reasons for this: corrupt system files, outdated display drivers, insufficient battery level, misconfigured power settings, and more. So, if you want relief for your strained eyes, here are a few fixes you can apply to resolve the issue and adjust your display's brightness again.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Use a Different Method to Adjust the Brightness Level
 
  First, you should use a different method to adjust your display's brightness from what you usually use. That way, you can check if the issue is specific to that adjustment setting or if it affects your entire system. For instance, if you can't change the brightness using your keyboard fn key but can change it with Windows settings, the key could just be disabled or broken.
@@ -43,24 +40,23 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 2. Expand the**Monitors** category, right-click on the drivers listed there, and choose**Update driver** .  
 ![Updating the Generic PnP Monitor Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/updating-the-generic-pnp-monitor-driver.jpeg)
 3. After that, expand the**Display adapters** category, right-click on the drivers listed there, and click**Update driver** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Update Display Driver in Display Adapters Category of Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-update-display-driver-in-display-adapters-category-of-windows-device-manager.jpg)
 
  If updating the drivers does not resolve the issue, right-click on both drivers individually and select**Disable device** . To enable them again, right-click on each and select**Enable device** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable Display Device in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-enable-display-device-in-windows-device-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In case that doesn't work either, you should uninstall both drivers. To do that, right-click on both drivers individually and select**Delete device** . After that, reboot your device again, and Windows will reinstall them.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Uninstall Display Device in Windows Device Mananger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-uninstall-display-device-in-windows-device-mananger.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Recharge Your Device
 
@@ -76,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
  So,[run the SFC to repair corrupt system files](https://www.makeuseof.com/system-file-checker-sfc-windows/) . Hopefully, after the scan, you can adjust your display's brightness again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Change Your Display Settings
 
  Windows allows users to set the brightness to change automatically as the lightning condition changes. Likewise, you can customize its Night Light settings, Select a Color Profile for compatible monitors, and manage other settings to enhance your display's appearance. While these settings are helpful, they often impede brightness adjustment.
@@ -87,17 +80,20 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 1. Right-click on the Windows**Start** button and go to the**Settings** app.
 2. Go to**System > Display** .  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Go to Display Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-go-to-display-settings-in-windows-settings-app.jpg)
 3. Expand the**Brightness** menu and uncheck the boxes beside**Change brightness automatically when lighting changes** and **Help improve battery by optimizing the content shown and brightness** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Change the Display Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-the-display-settings-in-windows-settings-app.jpg)
 4. After that, turn off the toggle next to**Night light** if it is turned on.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Install Pending Windows Updates
 
  If you don't update Windows, you can run into unforeseen issues. If you have done that in a while, you could eventually encounter problems, like the inability to adjust your screen's brightness.
@@ -110,20 +106,21 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
  That's why you should[create a restore point on Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) every time you make a significant change, like installing a new app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Take the Strain Off Your Eyes
 
  Extreme brightness levels and super dim screens will give you eyestrain. Hopefully, you have solved the issue with the above fixes and can adjust the screen again to fit your need.
 
  But if you're still having occasional trouble adjusting your monitor's brightness or are looking for a way to balance the brightness of multiple displays, you should check out the best brightness control apps on Windows to help you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,4 +129,22 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-ultimate-unison-unit-for-voice-broadcasting-for-2024/"><u>[New] Ultimate Unison Unit for Voice Broadcasting for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-primes-premier-pieces-the-watched-and-tweeted-superstars/"><u>[Updated] Prime’s Premier Pieces The #Watched & Tweeted Superstars</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/capture-and-organize-essential-steps-for-recording-fb-video-calls-for-2024/"><u>Capture & Organize Essential Steps for Recording FB Video Calls for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-updateinstall-usb-30-device-drivers-for-windows-computers/"><u>How to Update/Install USB 3.0 Device Drivers for Windows Computers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-efficient-downloads-transform-vimeo-videos-into-mp4/"><u>In 2024, Efficient Downloads Transform Vimeo Videos Into MP4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-your-data-presentation-with-effective-spell-check-functions-in-excel/"><u>Perfect Your Data Presentation with Effective Spell Check Functions in Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/printing-excel-sheets-made-easy-how-to-show-gridlines-with-rowcolumn-labels/"><u>Printing Excel Sheets Made Easy - How to Show Gridlines with Row/Column Labels</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209842965-9781911134046-quareia-the-apprentice/"><u>Quareia The Apprentice | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/restore-a-shut-down-or-disabled-instagram-profile-effectively/"><u>Restore a Shut Down or Disabled Instagram Profile Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-data-with-ease-mastering-pivot-table-updates-in-ms-excel/"><u>Revamp Your Data with Ease - Mastering Pivot Table Updates in MS Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-steps-mastering-the-selection-of-cell-ranges-in-microsoft-excel/"><u>Simple Steps: Mastering the Selection of Cell Ranges in Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-adding-and-utilizing-microsoft-office-extensions/"><u>Step-by-Step Guide: Adding & Utilizing Microsoft Office Extensions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-crafting-personalized-excel-templates/"><u>Step-by-Step Guide: Crafting Personalized Excel Templates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-erasing-gridlines-and-preview-pane-in-microsoft-excel/"><u>Step-by-Step Guide: Erasing Gridlines and Preview Pane in Microsoft Excel</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-top-10-leading-photo-editing-tools-for-windows-and-mac-users/"><u>Ultimate Guide: Top 10 Leading Photo Editing Tools for Windows & Mac Users</u></a></li>
+</ul></div>
 

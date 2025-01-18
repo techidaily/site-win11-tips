@@ -1,7 +1,7 @@
 ---
 title: "Displaying D: Drive Folder Alongside Existing Paths"
-date: 2025-01-05T22:00:20.905Z
-updated: 2025-01-12T17:05:17.198Z
+date: 2025-01-13T17:28:18.169Z
+updated: 2025-01-18T16:23:05.643Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Before You Proceed…
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
  Furthermore, we highly recommend that you learn how to [back up and restore the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/). That way, you have a way of returning it to the state it was in before you made any changes that broke it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Add the D: Drive to the Navigation Pane in File Explorer?
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
  Start by pressing **Win + S** to bring up Windows Search. Then, type **notepad** in the Search box, and when Notepad shows up in the search results, click on it to launch it.
 
 ![The Notepad search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/notepad-search-result.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then copy and paste the below text into Notepad:
 
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 
 ![saving a registry file in Notepad on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/save-reg-file-add-drive-nav-pane.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, double-click the Registry file you just created and click **Yes** on the UAC prompt. You’ll then be asked if you want to continue with the merge, so click **Yes**. Afterward, press **Win + E** to open File Explorer.
 
 ![the D drive showing in the bottom section of the Navigation pane on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/d-drive-nav-pane.jpg)
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
  The D: drive should now be visible in the bottom part of the Navigation pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Remove the D: Drive From the Navigation Pane in File Explorer?
@@ -112,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
  Now the D: drive should be gone from the navigation pane in File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create an Easier Way to Access the D: Drive on Your Windows Computer
@@ -129,21 +129,20 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-mastering-rapid-srt-to-txt-transformation-techniques-for-2024/"><u>[New] Mastering Rapid SRT to TXT Transformation Techniques for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/sdwindows-111087/"><u>创建SD卡映像：绕过Windows 11、10、8和7的限制</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/beyond-entertainment-utilizing-your-tv-remote-for-game-console-management-and-more/"><u>Beyond Entertainment: Utilizing Your TV Remote for Game Console Management & More</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-lava-blaze-curve-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Lava Blaze Curve 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-7-key-tools-to-convert-youtube-videos-easily/"><u>In 2024, 7 Key Tools to Convert YouTube Videos Easily</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/modi-rapidi-per-ritrovare-tutti-i-download-disappariti-in-windows-11/"><u>Modi Rapidi per Ritrovare Tutti I Download Disappariti in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimal-user-experience-top-free-must-haves-for-win11/"><u>Optimal User Experience: Top Free Must-Haves for Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-reliable-way-to-convert-mkv-to-mp4-on-pcs/"><u>Quick and Reliable Way to Convert MKV to MP4 on PCs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/silent-tweets-end-auditory-upgrades-for-twitter-videos/"><u>Silent Tweets' End Auditory Upgrades for Twitter Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-pc-connectivity-issues-a-guide-to-reconnecting-fallout-76-servers/"><u>Solving PC Connectivity Issues: A Guide to Reconnecting Fallout 76 Servers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-resource-allocation-analysis-software/"><u>Top Resource Allocation Analysis Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tricks-to-instant-silence-windows-1011-on-standby/"><u>Tricks to Instant Silence Windows 10/11 on Standby</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-your-nexus-controller-on-windows-steam/"><u>Troubleshoot Your Nexus Controller on Windows Steam</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-choosing-best-gaming-motherboards-in-2e3-sockets-and-chipsets-explained/"><u>Ultimate Guide to Choosing Best Gaming Motherboards in 2E3 - Sockets and Chipsets Explained</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unverified-ai-keys-may-jeopardize-win-11-security/"><u>Unverified AI Keys May Jeopardize Win 11 Security</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-hacks-crafting-an-invisible-context-menu/"><u>Windows 11 Hacks: Crafting an Invisible Context Menu</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beat-boulevard-optimal-dj-video-downloads-for-2024/"><u>[New] Beat Boulevard Optimal DJ Video Downloads for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-visuals-theory-to-practice-with-colors/"><u>[New] Crafting Visuals Theory to Practice with Colors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mastering-text-warping-techniques-in-photos-and-videos-for-2024/"><u>[New] Mastering Text Warping Techniques in Photos & Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-premier-streaming-apps-of-2023-a-comprehensive-review-by-movavi/"><u>Discover the Premier Streaming Apps of 2023: A Comprehensive Review by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/en-ligne-gratuite-pour-transformer-votre-video-wmv-en-mkv-utilisant-movavi-conversion-simple-et-rapide/"><u>En Ligne Gratuite Pour Transformer Votre Vidéo WMV en MKV Utilisant Movavi - Conversion Simple Et Rapide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-latest-editing-additions-to-dall-e-3-room-for-improvement-still-present/"><u>Exploring the Latest Editing Additions to DALL-E 3 - Room for Improvement Still Present</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fx360-pro-cooler-by-id-cooling-exceptional-performance-at-just-60/"><u>FX360 Pro Cooler by ID-Cooling - Exceptional Performance at Just $60</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015815223-immediate-solutions-to-restart-fortnite-voice-chatting-no-hassle/"><u>Immediate Solutions to Restart Fortnite Voice Chatting - No Hassle!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-ultimate-10-royale-duelists-arena/"><u>In 2024, Ultimate 10 Royale Duelists' Arena</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-ssd-selection-for-ps5/"><u>Superior SSD Selection for PS5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-selection-of-screen-recorder-tools-ranking-the-top-15-for-your-laptop/"><u>The Ultimate Selection of Screen Recorder Tools - Ranking the Top 15 for Your Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-14-best-stock-video-scenes-of-2022-free-and-premium-selections/"><u>Top 14 Best Stock Video Scenes of 2022 - Free & Premium Selections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformation-gratuite-de-fichiers-jpg-en-gif-sur-internet-avec-movavi-comprendre-la-conversion-facile/"><u>Transformation Gratuite De Fichiers JPG en GIF Sur Internet Avec Movavi - Comprendre La Conversion Facile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-facilement-un-mp4-en-video-flash-flv-sans-frais-movavi/"><u>Transformez Facilement Un MP4 en Vidéo Flash (FLV) Sans Frais - Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-tech-secrets-with-toms-hardware-diagnostics/"><u>Unlocking Tech Secrets with Tom's Hardware Diagnostics</u></a></li>
 </ul></div>
 

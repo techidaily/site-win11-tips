@@ -1,7 +1,7 @@
 ---
 title: "Solving MS To-Do Discrepancies: No Sync? Here's How!"
-date: 2025-01-11T00:24:40.323Z
-updated: 2025-01-12T18:34:39.532Z
+date: 2025-01-17T17:06:10.405Z
+updated: 2025-01-18T16:54:19.971Z
 tags:
   - windows10
   - windows11
@@ -33,11 +33,11 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 
 ![Check Microsoft To Do status on Microsoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-to-do-status-1.jpg)
 
- Also, [check the internet connection on your Windows computer](https://www.makeuseof.com/check-stability-internet-connection-windows/) as an unstable connection will stop Microsoft To Do from syncing.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Also, [check the internet connection on your Windows computer](https://www.makeuseof.com/check-stability-internet-connection-windows/) as an unstable connection will stop Microsoft To Do from syncing.
 
 ## 2\. Restart the App
 
@@ -46,6 +46,14 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
  Close Microsoft To Do and press **Ctrl + Shift + Esc** to bring up the Task Manager. There, right-click the app and select **End task**. This way, you stop any background process from running, and you’ll have a fresh start when you relaunch the app.
 
 ![Stop Microsoft To Do from running with Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/restart-microsoft-to-do-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update Microsoft To Do
 
@@ -57,21 +65,17 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 
  For Microsoft To Do on mobile, you can update the app through the [Google Play Store](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030136/https://play.google.com/store/apps/details?id=com.microsoft.todos&hl=en&gl=US) or [Apple Store](https://apps.apple.com/us/app/microsoft-to-do/id1212616790). If there’s an update available, you’ll see the **Update** button next to the app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Log Out and Back Into Microsoft To Do
 
  Microsoft To Do might fail to sync if there’s an authentication issue with your account. To fix it, click on your profile icon and head to **Manage accounts**. Then, click on **Sign out**.
 
 ![Sign out of Microsoft To Do](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sign-out-to-do-1.jpg)
 
- Sign back in and check if the problem is now fixed.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Sign back in and check if the problem is now fixed.
 
 ## 5\. Let the App Run in the Background
 
@@ -90,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 ![Give Microsoft To Do permission to run in the background on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/to-do-permissions-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Repair Microsoft To Do
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
  If you still can’t figure out why Microsoft To Do has stopped syncing, you should have Windows fix the problem for you. In the Start menu search bar, search for **Microsoft To Do** and click on **App settings**. Then, scroll down and click the **Repair** button. Wait until the process is done and launch Microsoft To Do.
 
 ![Repair the Microsoft To Do app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/repair-to-do-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re still facing the sync issue, go through the instructions above and, in the app settings menu, click **Reset**. Microsoft To Do will revert to its default settings and delete all the app data. This will fix any incorrect settings that stop the app from working.
 
@@ -121,22 +121,24 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-the-path-to-larger-video-presentation-in-youtube/"><u>[New] The Path to Larger Video Presentation in YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-audio-to-video-makers-online/"><u>[Updated] Audio to Video Makers Online</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-elevate-every-shot-the-leaderboard-of-androids-5-best-photo-apps/"><u>[Updated] Elevate Every Shot The Leaderboard of Android's 5 Best Photo Apps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/a-complete-look-at-hand-recognition-systems/"><u>A Complete Look at Hand Recognition Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-file-limit-on-windows-oses/"><u>Bypassing File Limit on Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-protection-features-in-windows-11-with-rufus-expertise/"><u>Bypassing Protection Features in Windows 11 with Rufus Expertise</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-restrictions-in-steam-libraries-windows-11-guide/"><u>Bypassing Restrictions in Steam Libraries: Windows 11 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-amd-card-drivers-in-windows-11-an-overview/"><u>Effortless AMD Card Drivers in Windows 11: An Overview</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-the-ring-video-doorbell-pro-revolutionizes-home-security-a-detailed-review/"><u>How the Ring Video Doorbell Pro Revolutionizes Home Security – A Detailed Review</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oneplus-nord-ce-3-lite-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your OnePlus Nord CE 3 Lite 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-lustrous-frameworks-structuring-illumination-in-film/"><u>In 2024, Lustrous Frameworks Structuring Illumination in Film</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-of-windows-explorer-filters-as-an-alternative-to-ls/"><u>Mastery of Windows Explorer Filters as an Alternative to LS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/origami-inspired-miniature-asian-abodes-in-mc-for-2024/"><u>Origami-Inspired, Miniature Asian Abodes in MC for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-windows-1011-auditory-conundrum/"><u>Overcoming the Windows 10/11 Auditory Conundrum</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/switching-to-customized-pdf-program-on-pc/"><u>Switching to Customized PDF Program on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/title-redefining-spacing-between-desktop-widgets-in-windows-1011/"><u>Title: Redefining Spacing Between Desktop Widgets in Windows 10/11</u></a></li>
-<li><a href="https://article-posts.techidaily.com/top-tier-hdr-cameras-explained-and-compared/"><u>Top-Tier HDR Cameras Explained & Compared</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-codec-clash-determining-the-leader-in-video-quality/"><u>[New] 2024 Approved Codec Clash Determining the Leader in Video Quality</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-design-principles-for-captivating-fb-advertising-for-2024/"><u>[New] Design Principles for Captivating FB Advertising for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-evaluating-the-updated-movavi-video-editor/"><u>[New] Evaluating the Updated Movavi Video Editor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-path-to-youtube-earnings-setting-up-and-selling-content/"><u>[Updated] Your Path to YouTube Earnings Setting Up and Selling Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-transforming-data-into-strategic-content-moves/"><u>2024 Approved Transforming Data Into Strategic Content Moves</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-xs-max-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/answer-cortical-remapping-involves-changes-in-the-brains-motor-cortex-allowing-patients-to-regain-movement-by-learning-new-ways-to-perform-tasks-with-affect1/"><u>Answer: Cortical Remapping Involves Changes in the Brain's Motor Cortex, Allowing Patients to Regain Movement by Learning New Ways to Perform Tasks with Affected Limbs or Using Other Muscles.</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/bypassing-blockbusters-2023-indie-favorites/"><u>Bypassing Blockbusters 2023 Indie Favorites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargar-descargador-de-imagenes-online-gratuito-para-convertir-gif-a-jpg/"><u>Descargar Descargador De Imágenes Online Gratuito Para Convertir GIF a JPG</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-to-change-pal-dvds-into-ntsc-format-using-a-reliable-video-converter/"><u>Easy Steps to Change PAL DVDs Into NTSC Format Using a Reliable Video Converter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-mp2-mp4-converter-enligthenment-online-movavi/"><u>Gratuit MP2-MP4 Converter Enligthenment Online - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-y-facil-transforma-avi-a-swf-con-el-servicio-de-convertir-en-linea-de-movavi/"><u>Gratuito Y Fácil, Transforma AVI a SWF Con El Servicio De Convertir en Línea De Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-google-pixel-7a-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Google Pixel 7a</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-student-project-showcase-tips-with-movavi/"><u>Innovative Student Project Showcase Tips with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-ferramenta-online-gratuita-para-transformar-mp4-em-formato-3gp-com-facilidade/"><u>Móvavi: Ferramenta Online Gratuita Para Transformar MP4 Em Formato 3GP Com Facilidade!</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-poor-internet-access-in-windows-apps-now/"><u>Resolve Poor Internet Access in Windows Apps Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/veelvoulend-ongemakkooptje-qt-naar-mp4-omzetten-met-movavi-gratis-en-direct-op-internet/"><u>Veelvoulend Ongemakkooptje: QT Naar MP4 Omzetten Met Movavi, Gratis en Direct Op Internet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amv-mpeg-movavi/"><u>무료 AMV MPEG 이미지 크론 원자 바이트로 직막 전환 - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028571800-5/"><u>ビデオ撮影者が選ぶ5つのおすすめ動画文字化シーンアプリ - 見やすく、使い勝手良し！</u></a></li>
 </ul></div>
 

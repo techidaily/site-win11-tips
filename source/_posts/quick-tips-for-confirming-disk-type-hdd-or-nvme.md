@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Confirming Disk Type – HDD or NVMe?
-date: 2025-01-12T00:49:45.311Z
-updated: 2025-01-12T16:10:39.096Z
+date: 2025-01-14T18:29:28.718Z
+updated: 2025-01-18T18:15:43.181Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check if You Have an HDD or SSD Using the Task Manager
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 ![Check the Type of Drive You Have in the Performance Tab of Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-type-of-drive-you-have-in-the-performance-tab-of-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To view other details about the selected drive, such as its capacity, write speed, average response time, and more, simply choose**Disk 0** or**Disk 1** —the SSD drive you want to learn more about. Task Manager will show the other details about the drive you selected on the lower side of the screen.
@@ -48,11 +48,11 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 ![Check Other Details of the Storage Drive in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-other-details-of-the-storage-drive-in-the-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know Which Drive You Have on Windows
@@ -74,19 +74,17 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-download-install-and-use-obs-on-mac-for-2024/"><u>[New] How to Download, Install and Use OBS on Mac for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-thorough-review-of-lgs-upgraded-360-camera-lineup-2023-edition/"><u>[Updated] A Thorough Review of LG's Upgraded 360 Camera Lineup, 2023 Edition</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-slideshow-how-to-create-a-slideshow-on-facebook/"><u>[Updated] Facebook Slideshow How to Create a Slideshow on Facebook</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-your-gaming-experience-snag-an-exclusive-25-off-on-trendy-minimalist-rgb-illumination-by-zdnet/"><u>Boost Your Gaming Experience: Snag an Exclusive 25% Off on Trendy Minimalist RGB Illumination by ZDNET!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bootstrapping-a-powershell-session-as-an-admin-on-windows-11/"><u>Bootstrapping a PowerShell Session as an Admin on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/browser-download-techniques-after-windows-installation/"><u>Browser Download Techniques After Windows Installation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/building-a-window-for-secure-hardware-removal-on-windows-11/"><u>Building a Window for Secure Hardware Removal on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-do-not-have-access-error-when-uninstalling-apps/"><u>Bypassing Do Not Have Access Error When Uninstalling Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cease-windows-record-of-app-openings/"><u>Cease Windows Record of App Openings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/celebrate-yuletide-in-stunning-windowscapes/"><u>Celebrate Yuletide in Stunning Windowscapes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-gt-neo-5-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme GT Neo 5 Phone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-windows-mac-owners-discover-top-8-no-cost-4k-viewers/"><u>In 2024, Windows Mac Owners - Discover Top 8 No-Cost 4K Viewers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-on-major-sites-like-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Engagement on Major Sites Like Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamped-drives-for-pcs-new-acer-updates-in-win11/"><u>Revamped Drives for PCs: New Acer Updates in Win11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-groundwork-on-image-detail-a-novices-reference/"><u>[Updated] Groundwork on Image Detail A Novice's Reference</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-richest-video-content-star-on-earth/"><u>[Updated] In 2024, The Richest Video Content Star on Earth</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-5-sd-cards-for-gopro-hero-series-including-model-8-and-7/"><u>[Updated] In 2024, Top 5 SD Cards for GoPro Hero Series - Including Model 8 & 7</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-video-integration-on-youtube-platform/"><u>[Updated] Seamless Video Integration on YouTube Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-en-ligne-de-fichiers-vob-a-format-wma-facile-et-gratuit-avec-movavi/"><u>Conversion en Ligne De Fichiers VOB À Format WMA - Facile Et Gratuit Avec Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/early-bird-special-apples-latest-799-m2-macbook-air-out-now-beating-octobers-prime-day-deals-zdnet-insights/"><u>Early Bird Special: Apple's Latest $799 M2 MacBook Air Out Now, Beating October's Prime Day Deals - ZDNET Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-y17s-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo Y17s to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/m4a-swf-online-mvavi-converter/"><u>M4A파일을 자원 구조화된 SWF형식으로 무격적으로 전환 - ONLINE MVAVI CONVERTER</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-mka-ogg-movavi/"><u>Online 무료 서비스: MKA OGG 이미지 대용 동영상화 기술 - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-free-special-effects-software-programs-les-plus-performants/"><u>Top Free Special Effects Software Programs - Les Plus Performants</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformation-gratuite-de-fichiers-au-format-mp3-au-flac-en-ligne-avec-movavi-comment-le-faire/"><u>Transformation Gratuite De Fichiers Au Format MP3 Au FLAC en Ligne Avec Movavi - Comment Le Faire</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-x5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco X5 Pro | Dr.fone</u></a></li>
 </ul></div>
 

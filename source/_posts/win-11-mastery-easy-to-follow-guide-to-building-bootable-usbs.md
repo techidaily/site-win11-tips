@@ -1,7 +1,7 @@
 ---
 title: "Win 11 Mastery: Easy-to-Follow Guide to Building Bootable USBs"
-date: 2024-08-08T10:59:33.423Z
-updated: 2024-08-09T10:59:33.423Z
+date: 2025-01-15T16:05:06.738Z
+updated: 2025-01-18T16:12:04.763Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 
  Microsoft makes it easy to create an installation media with its Media Creation Tool. In addition, you can also use Rufus and the Command Prompt to create one. In this guide, we show you the three different ways to create a USB flash drive installer for Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Before We Start: How to Download the Windows 11 ISO Image
 
  To successfully create a Windows 11 USB bootable drive, you will need a Windows 11 ISO file, also known as an [ISO image](https://www.makeuseof.com/what-is-iso/). As such, get this sorted before you proceed to create a bootable USB. You can easily [download the Windows 11 ISO](https://www.makeuseof.com/windows-11-download-iso/) from the Microsoft official website. Here's how to do it:
@@ -30,21 +27,21 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 1. Visit [Microsoft’s official page](https://www.microsoft.com/software-download/windows11) to download Windows 11\.
 2. Scroll down to the **Download Windows 11 Disk Image (ISO) for X64 devices** section.
 3. Click the drop-down menu and select **Windows 11 (multi-edition ISO)**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![download windows 11 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/download-windows-11-iso.jpg)
 4. Next, click on the **Download** **Now** button to continue.
-5. The current page will load additional information and show the **Select the product language** section. Click the drop-down for **Choose one** and select your preferred language. Click **Confirm** to continue.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. The current page will load additional information and show the **Select the product language** section. Click the drop-down for **Choose one** and select your preferred language. Click **Confirm** to continue.  
 ![download windows 11 iso choose language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/download-windows-11-iso-choose-language.jpg)
 6. When the download section loads, click the **64-bit Download** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![download windows 11 iso 64 bit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/download-windows-11-iso-64-bit.jpg)
 7. Your download will begin immediately. However, it may take some time to finish downloading, depending on your Internet speed.
 
@@ -52,11 +49,11 @@ The ultimate burning program for all your needs!</a>
 
 ## 1\. How to Create a Windows 11 Bootable USB Using Rufus
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![create windows 11 bootable usb drive with rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/create-windows-11-bootable-usb-drive-with-rufus.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Rufus is an open-source utility to format and create a bootable USB flash drive for the Windows operating system. It's a lightweight utility and offers a few more customization options compared to Microsoft's in-house media creation tool.
 
@@ -90,15 +87,17 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Under the **Create Windows 11 Installation Media** section, click the **Download Now** button and save the file to your PC.
 4. Next, run the **Mediacreationtool.exe** file and click **Yes** if prompted by UAC. The tool may take a few seconds to launch, so wait till you see the **Setup wizard.**
 5. Click the **Accept button** to agree to the terms.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![select language and edition Create bootable drive windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/select-langugae-and-edition.png)
 
 1. The media creation tool will automatically select the **Edition** and **Language** to match the current Windows configuration on your PC. To change the language, uncheck **Use the recommended options for this PC** box and select your preferred language from the drop-down menu.
 2. Choose your options and click **Next**.  
 ![choose which media to use Media Creation Tool Bootable Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/choose-which-media-to-use.png)
 3. In the **Choose which media to use** window, select **USB flash** drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the **Next** button.
 5. Select your USB drive from the list of drives available.  
 ![select a usb drive media creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/select-a-usb-drive.png)
@@ -107,9 +106,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Media Creation Tool will now download the necessary Windows 11 files and create an installation media. When the "your USB flash drive is ready" message appears, click the **Finish** button to close the setup wizard. Now you can boot from the USB drive to troubleshoot or [clean install Windows 11](https://www.makeuseof.com/how-to-clean-install-windows-11/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Create a Bootable Drive Using Command Prompt
 
  If you don’t want to use a third-party tool to create a bootable drive, you can use the Diskpart utility and Command Prompt to create installation media. Here's how to do it.
@@ -153,19 +149,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 4. Next, type the following command to show the available volume.  
 `List volume`
 5. This will help you determine the Drive letter for the mounted ISO file. In the **Type column**, the mounted ISO will be listed as **DVD-ROM**. And the **Ltr column** lists the letter associated with the volume. Note down the details of the ISO volume as you will be using it moving forward.  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![list volume cmd windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/list-volume-cmd-windows-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Once you have the volume details for the mounted ISO, type the following command to exit Diskpart:  
 `Exit`
@@ -176,11 +164,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 4. Next, type the following command to apply the master boot code compatible with Bootmgr to the USB flash drive:  
 `Bootsect /nt60 I:`
 5. In the above command, replace **I** with the drive letter associated with your USB flash drive.  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![copy iso files to usb drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/copy-iso-files-to-usb-drive.png)
 6. Next, type the following command and hit Enter to copy Windows 11 system files to the USB flash drive:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `xcopy J:\*.* I:\ /E /F /H`
 7. In the above command, replace **K:** and **I:** with your **Mounted ISO Volume** and **USB drive** letter, respectively.
 8. The process may take a 5-10 minutes to complete. If the Command Prompt feels stuck, it is normal behaviour, so wait until the process is complete.
@@ -196,11 +186,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Microsoft makes it easy to create an installation media with its Media Creation Tool. In addition, you can also use Rufus and the Command Prompt to create one. In this guide, we show you the three different ways to create a USB flash drive installer for Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/treamline-your-vlog-with-video-length-optimization-for-2024/"><u>[New] Streamline Your Vlog with Video Length Optimization for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-essential-gear-guide-uncovering-the-best-streamer-webcams-for-2024/"><u>[Updated] Essential Gear Guide Uncovering the Best Streamer Webcams for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-high-definition-sw320-4k-monitor-experience/"><u>[Updated] Exploring High Definition Sw320 4K Monitor Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-leading-body-cams-reviewed-find-the-perfect-fit/"><u>2024'S Leading Body Cams Reviewed - Find the Perfect Fit</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/deng-xiaoping-and-his-transformational-policies-shaping-contemporary-chinese-society-insights-from-yl-software/"><u>Deng Xiaoping and His Transformational Policies: Shaping Contemporary Chinese Society – Insights From YL Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-productivity-with-customized-keyboard-tricks/"><u>Enhance Productivity with Customized Keyboard Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-insight-efficiently-identify-hdd-vs-ssd-type-on-windows/"><u>Expert Insight: Efficiently Identify HDD vs SSD Type on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-s17-pro-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo S17 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/optimize-live-feed-select-from-the-best-9-filters/"><u>Optimize Live Feed Select From the Best 9 Filters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-warnings-about-unverified-application-in-windows-os/"><u>Overcoming Warnings About Unverified Application in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steady-your-system-five-approaches-to-resolve-secure-boot-errors/"><u>Steady Your System: Five Approaches to Resolve Secure Boot Errors</u></a></li>
+</ul></div>
+

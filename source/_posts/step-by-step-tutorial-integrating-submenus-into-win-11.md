@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Integrating Submenus Into Win 11"
-date: 2025-01-07T16:06:59.194Z
-updated: 2025-01-12T18:45:30.133Z
+date: 2025-01-17T16:10:36.153Z
+updated: 2025-01-18T18:19:10.808Z
 tags:
   - windows10
   - windows11
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 4. Enter **Menu1** to be the new key’s name.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Right-click **Menu1** to select the **New** \> **String Value** options.
@@ -70,8 +70,18 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 `C:\Windows\System32\notepad.exe`  
 ![The Notepad path value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-notepad-path-value.jpg)
 10. Repeat steps two to five to create a **Remote Desktop Connection** key with a **command** subkey, as shown in the snapshot directly below. Instead of naming the key Notepad, input **Remote Desktop Connection** for the new key’s title.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Remote Desktop Connection and Notepad keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/notepad-and-remote-desktop-connection-keys.jpg)
 11. Double-click the **(Default)** string for the **Remote Desktop Connection** key you created.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 12. Input **Remote Desktop Connection** into the **Value** box and select **OK**.
 13. Select the **command** subkey for the **Remote Desktop Connection** key and double-click its **(Default)** string.
 14. Enter the following Remote Desktop Connection app path in the **Value** box and click **OK**:  
@@ -80,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
  Now the new context menu submenu is complete. Right-click within an area of the Windows 11 desktop and select **Show more options** to view the secondary classic context menu. Move the cursor over the new **Apps** submenu from which you can select to open Notepad and Remote Desktop Connection.
 
 ![The Apps submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-apps-submenu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can add more software shortcuts to that submenu. Note that the values you input for the **SubCommands** string must match the names of the registry keys created for the software shortcuts. In the example above, the **Notepad** and **Remote Desktop Connection** registry keys matched values input for the **SubCommands** string.
 
@@ -90,11 +104,7 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 ![The Delete option for the Menu1 key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a Submenu to the Context Menu With Easy Context Menu
@@ -109,20 +119,12 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 ![The Extract All option for ZIP archives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/extract-all-option.jpg)
 4. Open the extracted folder for Easy Context Menu and double-click the EXE file that runs the software from there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the **List Editor** button in Easy Context Menu.
 
 1. Select **Desktop Context Menu** and press the **Add Sub Menu** button.
 2. Input **Software Shortcuts** in the **Title** box for the new submenu.  
 ![The List Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-shortcuts-submenu.jpg)
 3. Click the **Add New** button with the **Software Shortcuts** submenu selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Select a program you want to include in the submenu and click **Open**.
 5. Repeat the previous two steps to add more programs to the submenu.  
@@ -145,7 +147,7 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 ![A Tools submenu added with Easy Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-tools-submenu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Organize Your Windows Desktop Context Menu Shortcuts With Submenus
@@ -166,18 +168,19 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-leveraging-vocal-charisma-to-enrich-ppt-storytelling/"><u>[Updated] Leveraging Vocal Charisma to Enrich PPT Storytelling</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nokia-c02-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nokia C02 is off? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi Redmi 12 5G</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-video-wizardry-mp4-download-spell/"><u>In 2024, Facebook Video Wizardry - MP4 Download Spell</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-versatile-garmin-gpsmap-64st-your-ultimate-handheld-companion/"><u>In-Depth Analysis of the Versatile Garmin GPSMAP 64St: Your Ultimate Handheld Companion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovation-unbound-ais-impact-on-windows-tech-advances/"><u>Innovation Unbound: AI's Impact on Windows Tech Advances</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-top-rated-video-animation-apps-for-android-iphone-and-ipad/"><u>New Discover the Best Top-Rated Video Animation Apps for Android, iPhone, and iPad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimized-glare-the-top-software-picks-for-windows-multitouch-monitors/"><u>Optimized Glare: The Top Software Picks for Windows Multitouch Monitors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-faulty-drives-in-windows/"><u>Streamlining Faulty Drives in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taskbar-evolution-a-timeline-from-85-to-present/"><u>Taskbar Evolution: A Timeline From '85 To Present</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-pc-doesnt-meet-game-bar-issue/"><u>Troubleshooting PC Doesn't Meet Game Bar Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turning-off-smartscreen-protection-in-win11-and-11/"><u>Turning Off SmartScreen Protection in Win11 & 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/watch-these-cherished-family-friendly-films-on-amazon-prime-video-in-july-2024/"><u>Watch These Cherished Family-Friendly Films on Amazon Prime Video in July 2024!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-legality-check-taking-screencasts-of-youtube-videos-for-2024/"><u>[Updated] Legality Check Taking Screencasts of YouTube Videos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-unleashing-full-hd-clarity-on-every-tweet-scroll/"><u>2024 Approved Unleashing Full HD Clarity on Every Tweet Scroll</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-realme-c67-4g-frp-bypass-by-drfone-android/"><u>About Realme C67 4G FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/business-video-editing-software-movavi-suite-and-screen-recording-solutions/"><u>Business Video Editing Software: Movavi Suite & Screen Recording Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enregistrez-vos-moments-avec-ease-une-approche-complete-pour-videosur-mac-par-movavi-en-2024/"><u>Enregistrez Vos Moments Avec Ease: Une Approche Complète Pour Vidéosur Mac Par Movavi en 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/kostenlose-online-dts-aac-umwandlung-mit-movavi-perfekt-fur-filme-und-musik/"><u>Kostenlose Online DTS AAC Umwandlung Mit Movavi - Perfekt Für Filme Und Musik</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-motor-citys-mystery-seamless-experience-with-detroit-become-human-on-pc/"><u>Mastering Motor City's Mystery: Seamless Experience with Detroit: Become Human on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-convertidor-de-video-f4v-a-formatos-sin-costo-usar-online-gratis/"><u>Movavi: Convertidor De Vídeo F4V a Formatos Sin Costo - Usar Online Gratis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movaviwebp/"><u>Movaviの使いやすいオンラインWEBPファイル変換サービス - 完全無料</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/screen-recording-innovations-a-comparative-look-for-2024/"><u>Screen Recording Innovations A Comparative Look for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-rpcrt4dll-missing-or-unavailable-mistakes-in-windows/"><u>The Ultimate Fix for RPCRT4.DLL Missing or Unavailable Mistakes in Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-rated-windows-8-podcast-platforms/"><u>Top-Rated Windows 8 Podcast Platforms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dpx-movavi/"><u>영구 무료: 컴퓨터에서 DPX 파일을 원근직청스해야 할 수는 없다 – Movavi 가이드</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp43gp-moovavis/"><u>오픈소스 내 MP4/3GP를 원격으로 무용화하는 방법 - Moovavis</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Precision Guide for Heic to JPEG Transformation in W11
-date: 2024-08-08T11:02:45.256Z
-updated: 2024-08-09T11:02:45.256Z
+date: 2025-01-11T17:17:06.777Z
+updated: 2025-01-18T18:05:11.368Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c9af2386c6798b3575f6d66e9544981a45984b6b6
  HEIC is an Apple image format used on iPhones. It enables higher-quality images in smaller file sizes. Apple established HEIC in 2017, now among the more prevalent image formats after JPEG and PNG.
 
  However, few Windows software packages support the HEIC format. Some users prefer to convert HEIC images to JPEG format so they can open iPhone photos on PCs with many more Windows apps. Batch conversion is preferable since it enables you to convert multiple HEIC images simultaneously. This is how you can batch-convert HEIC images to JPEG in Windows 11/10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Batch Convert HEIC Images to JPEG With CopyTrans HEIC for Windows
 
@@ -49,14 +53,12 @@ thumbnail: https://thmb.techidaily.com/c9af2386c6798b3575f6d66e9544981a45984b6b6
 
  With CopyTrans installed, you can enable HEIC image previews in Windows 11 File Explorer by clicking the**View** command bar button. Select**Show** \>**Preview pane** on the menu. In Windows 10, you can select**Preview Pane** on the**View** tab. Then selecting a HEIC image will show a sidebar preview of it.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A HEIC image preview in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-heic-image-preview.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Batch Convert HEIC Images to JPEG With FoneTool
 
  FoneTool is a more general software utility for transferring iPhone files to and from Windows PCs. That software incorporates phone file transfer, backup, and HEIC conversion tools. Its HEIC converter enables you to batch-convert multiple HEIC images to JPEG and PNG formats. This is how you can batch convert your HEIC images to JPEG with the freeware FoneTool version:
@@ -75,10 +77,12 @@ Now it's time to convert images with FoneTool:
 2. Click the**HEIC Converter** button.  
 ![The Toolbox tab in FoneTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/toolbox-tab.jpg)
 3. Press the**Add Photos** button, select some images, and click**Open** .
-4. Then select**JPEG** on the P**hoto Format** drop-down menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Then select**JPEG** on the P**hoto Format** drop-down menu.  
 ![The HEIC Converter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/heic-converter-tool.jpg)
 5. Click the**Select** button to choose a directory to save the converted JPEG files within. Click the**Select Folder** button to confirm.
 6. Select optional**Photo Quality** and**Conversion Speed** settings.
@@ -92,31 +96,22 @@ Now it's time to convert images with FoneTool:
 
  Plus, there’s a duplicate photo finder tool that could be useful for some users. Click**Photo Deduplication** on the**Toolbox** tab to open that utility. Select the**Scan Computer** option and click**Add Folder** to search a directory for matching images. Then you can erase similar or duplicate photos by selecting them and clicking**Delete** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Photo Deduplication tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photo-duplication-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
  There are various[online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
 
 1. Open the[HEIC to JPEG Free Online Converter](https://heic.online/) web app.
 2. Press the**Add HEIC files** button.  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
 4. Click (Select output format) to expand options.
 5. Select**JPEG** on the**Convert to** drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![The Convert to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-option.jpg)
 6. Then set a value in the**Quality** box.
 7. Select the**I consent** checkbox. You can click the**Privacy Policy** link to view further info about the fCoder Solutions' data-sharing policy.
@@ -124,12 +119,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![The Convert button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-button.jpg)
 9. Click**Download all** to save the JPEG files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also utilize this tool for batch-resizing images. To do so, click the**Set image size, remove all EXIF information** option. Then input values in the new width and new height text boxes.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Image resize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-image-size-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make iPhone Photos More Accessible on Windows
 
@@ -141,8 +141,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +148,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-digital-dynamics-surging-success-through-smart-telegram-tactics-for-2024/"><u>[New] Digital Dynamics Surging Success Through Smart Telegram Tactics for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-essential-playbook-achieving-peak-video-editing-on-youtube-studio/"><u>[New] The Essential Playbook Achieving Peak Video Editing on YouTube Studio</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-evolution-of-color-formats-from-rgb-to-srgb/"><u>[New] The Evolution of Color Formats From Rgb to Srgb</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-system-interrupts-high-cpu-usage-on-windows-11/"><u>[Solved] System Interrupts High CPU Usage on Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-from-video-lessons-to-visual-gigs-youtube-videos-converted-seamlessly/"><u>[Updated] In 2024, From Video Lessons to Visual Gigs YouTube Videos Converted Seamlessly</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-parody-playground-top-10-laugh-out-loud-songs/"><u>[Updated] Parody Playground Top 10 Laugh-Out-Loud Songs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-force-remove-a-print-spooler-from-pc/"><u>How to Swiftly Force Remove a Print Spooler From PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jump-over-jerks-top-techniques-to-address-win-11s-typing-latency/"><u>Jump Over Jerks: Top Techniques to Address Win 11'S Typing Latency</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-your-digital-lifestyle-with-smart-picks-from-toms-hardware-authorities/"><u>Master Your Digital Lifestyle with Smart Picks From Tom's Hardware Authorities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-absent-items-from-file-explorer-list/"><u>Mending Absent Items From File Explorer List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-widows-handbrake-freeze-woes/"><u>Overcome Widows' HandBrake Freeze Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-windows-partition-union-explained/"><u>Seamless Windows Partition Union Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-9-risks-why-you-shouldnt-rely-on-ai-for-mental-health-counseling/"><u>Top 9 Risks: Why You Shouldn't Rely on AI for Mental Health Counseling</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-digital-pen-driver-safe-and-free-windows-edition/"><u>Wacom Digital Pen Driver - Safe & FREE Windows Edition</u></a></li>
+</ul></div>
 

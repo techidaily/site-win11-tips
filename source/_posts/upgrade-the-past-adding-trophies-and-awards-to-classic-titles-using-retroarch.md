@@ -1,7 +1,7 @@
 ---
 title: Upgrade the Past - Adding Trophies and Awards to Classic Titles Using Retroarch
-date: 2024-08-08T11:04:11.750Z
-updated: 2024-08-09T11:04:11.750Z
+date: 2025-01-13T17:03:51.519Z
+updated: 2025-01-18T17:07:38.610Z
 tags:
   - windows10
   - windows11
@@ -53,28 +53,24 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  To add support for RetroAchievements to RetroAch:
 
 1. Visit the RetroAchievements site. Use the options on the top right to **register** and create a new account. Follow the provided instructions until you are logged in.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![RetroAchievements Site Account Fields Highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroachievements-site-account-fields-highlighted.jpg)
 2. Run RetroArch, and select **Settings** from its main menu (it's the second entry if using RetroArch's full-screen mode). Scroll down to find the **Achievements Settings** page.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![RetroArch Settings Achievements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-settings-achievements.jpg)
 3. Inside the **Achievements Settings** page, flick the switch next to **Achievements** to **On** to activate the emulator's support for them.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![RetroArch Settings Achievements Switched On](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-settings-achievements-switched-on.jpg)
 4. Enter your username and password at the RetroAchievements site in RetroArch's **Achievements** **Username** and **Password** fields.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![RetroArch Settings Achievements Username](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-settings-achievements-username.jpg)
 5. If you wish, check the options and customize them to your liking. For example, you can enable a **Hardcore mode**, which unlocks more achievements, but disables many helpful functions in the emulator, like support for save states and rewind. Or you could enable the **Automatic Screenshot** feature to have a screen grab of your in-game action automatically taken when you unlock an achievement.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![RetroArch Settings Achievements Automatic Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-settings-achievements-automatic-screenshot.jpg)
 
 ## How to Unlock Achievements in RetroArch
@@ -84,14 +80,12 @@ The powerful video editing program for your Windows PC</a>
 1. When you launch a supported game with a supported core emulator, you will be notified that you are logged in to RetroAchievements.  
 ![RetroArch Logged In](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-logged-in.jpg)
 2. You will also see an indication of your current achievement-hunting progress on the top left of the emulator. As you play the game and hit some milestones, any related achievements will be automatically unlocked, both "locally in your emulator" and synced to your account at RetroAchievements.  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![RetroArch In Game Status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-in-game-status.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check if a Game Has Retroactive Achievements
 
  Do you want to check if a game you want to play supports RetroAchievements?
@@ -99,25 +93,34 @@ The powerful video editing program for your Windows PC</a>
 1. Visit the RetroAchievements site and check its games list or use its search functionality to seek the title you are interested in.  
 ![RetroAchievements Site Games List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroachievements-site-games-list.jpg)
 2. Various versions of the same games are available, and not all of them support RetroAchievements. To ensure your copy of a game does, visit its page at RetroAchievements and click **Supported Game Files** on the right side.  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![RetroAchievements Site Metal Gear Solid Version Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroachievements-site-metal-gear-solid-version-check.jpg)
 3. There, you will find a list of the **supported game files** and their **hashes**, which you can use to check your version of the game. We won't dive into details for this part of the process. If you're not familiar with the term, check our article where we explain [what is hashing](https://www.makeuseof.com/what-is-hashing/). Then, take a look at our article on some great [free hash checkers and how to use them on Windows](https://www.makeuseof.com/tag/free-hash-checkers-file-integrity/).  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![RetroAchievements Site Metal Gear Solid Version Check File Hashes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroachievements-site-metal-gear-solid-version-check-file-hashes.jpg)
 4. You can see all the achievements you've unlocked at the RetroAchievements site by visiting the **Achievements** page under **My Pages**.  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![RetroAchievements Site My Pages Menu Achievements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroachievements-site-my-pages-menu-achievements.jpg)
 5. You can also see all the available achievements for a game you are playing by visiting RetroArch's menu (by default by pressing F1) and then selecting the **Achievements** menu entry.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![RetroArch Game Achievements List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-game-achievements-list-1.jpg)
 6. On the list within the **Achievements** entry, you can see the locked achievements at the top, followed by the ones you've unlocked.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![RetroArch Game Achievements Unlocked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-game-achievements-unlocked.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Achieving the Previously Unachievable With RetroArch
 
@@ -127,11 +130,31 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Let's see how you can add modern achievements to ancient emulated titles using Retroarch.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-balancing-act-tripod-use-for-stable-vlogging/"><u>[New] Balancing Act Tripod Use for Stable Vlogging</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ecoding-dangerous-subscriber-scams-online-for-2024/"><u>[New] Decoding Dangerous Subscriber Scams Online for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-navigating-through-lipo-technologies-for-drones-needs-for-2024/"><u>[New] Navigating Through LiPo Technologies for Drones' Needs for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-checklist-for-new-channels/"><u>[New] The Ultimate Checklist for New Channels</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unlocking-your-youtube-potential-through-brand-partnerships-for-2024/"><u>[New] Unlocking Your YouTube Potential Through Brand Partnerships for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-visual-storytelling-of-pc-playtime-top-6-screenshot-secrets-for-2024/"><u>[Updated] Visual Storytelling of PC Playtime - Top 6 Screenshot Secrets for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/backup-your-cortana-data-for-future-reference-windows/"><u>Backup Your Cortana Data for Future Reference (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/costly-mistakes-when-opting-for-discounted-activation-keys/"><u>Costly Mistakes When Opting for Discounted Activation Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-way-through-windows-file-organization/"><u>Customizing Your Way Through Windows File Organization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-avoid-discord-starting-with-system-boots-up/"><u>How to Avoid Discord Starting with System Boots Up</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-zte-axon-40-lite-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your ZTE Axon 40 Lite Device SIM</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-honor-play-40c-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Honor Play 40C online without jailbreak</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/probing-the-digital-core-acquiring-sids-on-win11-systems/"><u>Probing the Digital Core: Acquiring SIDs on Win11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-dropbox-cpu-load-on-windows-systems/"><u>Reducing Dropbox CPU Load on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-razer-blade-pro-17-unveiled-high-end-performance-tailored-for-travel/"><u>The Razer Blade Pro 17 Unveiled: High-End Performance, Tailored for Travel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-picture-files-on-windows-11-pc/"><u>Unlocking Picture Files on Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-excellence-via-vivetool-getting-ahead-of-the-curve/"><u>Windows Excellence via ViVeTool: Getting Ahead of the Curve</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Deciphering ODBC Data Sources in Windows
-date: 2025-01-10T18:10:06.001Z
-updated: 2025-01-12T19:17:14.405Z
+date: 2025-01-11T16:57:11.606Z
+updated: 2025-01-18T17:30:44.711Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Does the ODBC Data Sources App Work?
 
 ![An illustration of a question and an idea](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-a-question-and-an-idea.jpg)
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
 * Navigate to the **User DSN** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A DSN establishes a connection to a target database through an ODBC driver. It can also help you pull information from a database.
@@ -50,15 +46,15 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
 ![Clicking the Add button on the ODBC Data Sources app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clicking-the-add-button-on-the-odbc-data-sources-app.jpg)
 * On the next screen, select the relevant ODBC driver and click the **Finish** button. From there, enter the details of your data source in the next window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Follow the on-screen steps and then click the **Finish** button.
 
  Once you've created a User DSN, you can explore some cool tricks with the ODBC tool. For example, you can check out how to connect your databases with VBScript by [creating a VBScript ODBC Connection](https://www.makeuseof.com/create-a-vb-script-odbc-connection/).
 
  Want to discover the various ways to access the ODBC Data Sources tool? Let's help you out!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access the ODBC Data Sources App Using the Start Menu Search Bar
 
@@ -72,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
 2. Type **ODBC Data Sources** and select the **Best match**.  
 ![Accessing the ODBC Data Sources app using the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-start-menu-search-bar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Access the ODBC Data Sources App Using the Start Menu
 
  You can also easily access the ODBC Data Sources tool from the Start menu. So, let's check out the steps you need to apply:
@@ -86,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
 ![Accessing the ODBC Data Sources app using the Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Access the ODBC Data Sources App Using the Control Panel
@@ -103,7 +95,11 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
 ![Accessing the ODBC Data Sources app using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Access the ODBC Data Sources App Using the File Explorer Address Bar
@@ -115,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
 1. Press **Win + E** to open File Explorer.
 2. Type **odbcad32.exe** in the address bar and press **Enter**.  
 ![Accessing the ODBC Data Sources app using the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-file-explorer-address-bar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Access the ODBC Data Sources App Using the Task Manager
 
@@ -142,7 +142,7 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
 ![Accessing the ODBC Data Sources app from the System32 directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-from-the-system32-directory.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Access the ODBC Data Sources App Using the Command Prompt or PowerShell
@@ -165,13 +165,13 @@ odbcad32.exe
 
 odbcad32.exe
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Access the ODBC Data Sources App Using a Desktop Shortcut
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Using desktop shortcuts is one of the best ways to access your apps. So, let's explore how you can create an ODBC Data Sources desktop shortcut:
 
@@ -203,21 +203,18 @@ odbcad32.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-stills-extraction-in-windows-11-photos/"><u>[New] Mastering Stills Extraction in Windows 11 Photos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-technological-testing-vlles-app-analysis/"><u>[Updated] In 2024, Technological Testing VLLE's App Analysis</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-complete-blueprint-adding-professional-effects-to-your-videos-for-2024/"><u>[Updated] The Complete Blueprint Adding Professional Effects to Your Videos for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-comparative-guide-to-the-metaverse-and-multiplemetaverse-platforms-insightful-analysis/"><u>2024 Approved Comparative Guide to the Metaverse & MultipleMetaverse Platforms (Insightful Analysis)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-blocked-files-on-windows-with-powershell/"><u>Breaking Down Blocked Files on Windows With PowerShell</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-the-cannot-create-windows-mmc-error/"><u>Breaking Down the 'Cannot Create' Windows MMC Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breathe-life-into-frozen-services-manager-top-7-methods-explored/"><u>Breathe Life Into Frozen Services Manager: Top 7 Methods Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bring-life-to-your-desk-with-win-1011-sketches/"><u>Bring Life to Your Desk with Win 10/11 Sketches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-barriers-to-implement-win11-version-22h2-update/"><u>Bypassing Barriers to Implement Win11 Version 22H2 Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-frozen-program-error-in-windows-security/"><u>Bypassing Frozen Program Error in Windows Security</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/changing-preferred-initial-web-address-on-w11/"><u>Changing Preferred Initial Web Address on W11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-14-pro-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 14 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-tricks-to-overcome-windows-update-freeze-on-0-progress/"><u>Quick Tricks to Overcome Windows Update Freeze on 0% Progress</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/transform-your-online-presence-using-state-of-the-art-cookiebot-features/"><u>Transform Your Online Presence Using State-of-the-Art Cookiebot Features</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/10-usb/"><u>ウィンドウズ 10を紛失・損傷から守る: USB フラッシュドライブによるデータ保護</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/44kq44oz44op44kk44oz44gn5yip55so5yplusv6io944gq5ywn6lks5luy44gn44k544kx44k444ol44o844or44o744oq44od44kv44ki44od44ox44k944ov44oi44km44kn44ki/"><u>オンラインで利用可能な免責付きスケジュール・バックアップソフトウェア</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-smart-tv-meets-social-networks-televising-fb-content/"><u>[New] Smart TV Meets Social Networks Televising FB Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1-quick-and-simple-guide-how-to-convert-your-files-into-wav-format/"><u>1. Quick and Simple Guide: How to Convert Your Files Into WAV Format</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-streamlined-approaches-for-efficient-gif-design/"><u>2024 Approved Streamlined Approaches for Efficient GIF Design</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-influence-on-software-development-shaping-future-workflows/"><u>AI's Influence on Software Development: Shaping Future Workflows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/as-15-paginas-de-captura-de-tela-mais-eficazes-entenda-o-que-e-um-captura-tela/"><u>As 15 Páginas De Captura De Tela Mais Eficazes - Entenda O Que É Um Captura-Tela!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of OnePlus Nord CE 3 Lite 5G?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversione-gratuita-online-trasforma-il-tuo-file-wmv-in-formato-mp4-con-i-migliori-servizi-di-conversione-video/"><u>Conversione Gratuita Online: Trasforma Il Tuo File WMV in Formato MP4 Con I Migliori Servizi Di Conversione Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-transforming-gifs-into-mpeg-format-with-ease-movavi/"><u>Free Online Conversion: Transforming GIFs Into MPEG Format with Ease - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personnalisation-des-liens-affilies-avec-movavi-une-strategie-doptimisation-efficace-pour-le-referencement/"><u>Personnalisation Des Liens Affiliés Avec Movavi : Une Stratégie D'optimisation Efficace Pour Le Référencement</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-unseen-contacts-on-your-iphone-explained/"><u>Solving the Issue: Unseen Contacts on Your iPhone Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/turning-screen-position-around-easily/"><u>Turning Screen Position Around Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-list-of-16-premium-free-subtitle-extraction-platforms-featuring-movavi-software-solutions/"><u>Ultimate List of 16 Premium-Free Subtitle Extraction Platforms Featuring Movavi Software Solutions</u></a></li>
 </ul></div>
 

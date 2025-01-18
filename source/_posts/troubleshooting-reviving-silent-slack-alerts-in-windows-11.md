@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Reviving Silent Slack Alerts in Windows 11"
-date: 2025-01-10T01:42:00.728Z
-updated: 2025-01-12T22:36:50.021Z
+date: 2025-01-13T16:09:26.506Z
+updated: 2025-01-18T16:19:11.689Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Is Slack Not Sending Message Notifications on Windows?
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
  However, if the Slack servers are operational and you still encounter the problem, it's possible that the Windows Focus session feature is involved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Stop Focus Sessions on Windows
@@ -73,11 +73,11 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 3. Click the **Stop** **focus** **session** button.  
 ![Stop focus session button in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stop-focus-session-button.jpg)
 
- And that’s about it. Check if you now receive notifications on Slack.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ And that’s about it. Check if you now receive notifications on Slack.
 
 ## 4\. Disable Do Not Disturb Mode
 
@@ -97,10 +97,14 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 ![Add apps button in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-apps-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it! Windows will now display Slack notifications even when the Do not disturb mode is active.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Allow Slack to Send Notifications
 
@@ -110,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 2. Select **Slack** under the **Notification from apps and other senders** section.
 3. Enable the toggle underneath **Notifications**.  
 ![Notifications toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/notifications-toggle.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, Windows will show all the notifications from Slack in its notification center.
 
@@ -124,10 +132,6 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 2. Choose **Notifications** from the left sidebar and select **Direct messages, mentions &** **keywords**. You can choose **All new messages** if you want to get notified about the messages from all channels.  
 
 ![Direct messages, mentions & keywords option in Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/direct-messages-mentions-keywords-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Furthermore, you must resume notifications if you have put them on pause. To do that, click your profile icon, hover your cursor to **Pause notifications**, and click **Resume notifications.**
 
@@ -151,14 +155,10 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 2. Click **Yes** on the confirmation prompt.  
 ![Yes option to reset Slack data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/yes-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, Slack will restart automatically, and you will have to sign in to your workspace again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix Slack Notifications Not Working on Windows
@@ -179,24 +179,18 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-youtube-banner-blueprints-a-gamers-design-handbook/"><u>[New] In 2024, YouTube Banner Blueprints A Gamers' Design Handbook</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-zooms-power-play-top-methods-for-effective-format-shifting/"><u>[Updated] 2024 Approved Zoom's Power Play Top Methods for Effective Format Shifting</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-streamline-your-content-following-twitpic-rules/"><u>2024 Approved Streamline Your Content Following Twitpic Rules</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-poco-c51-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Poco C51 Phone When You Forget the Password</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-ways-to-fix-a-reappearing-deleted-file-or-folder-on-windows/"><u>8 Ways to Fix a Reappearing Deleted File or Folder on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-harmony-with-googles-cross-platform-tool/"><u>Achieving Harmony with Google's Cross-Platform Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-clickable-items-in-the-latest-os-update/"><u>Addressing Non-Clickable Items in the Latest OS Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/android-fun-integrating-games-into-windows-11-through-google-play/"><u>Android Fun: Integrating Games Into Windows 11 Through Google Play</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-between-windows-and-photoshop-open-up-delays/"><u>Bridging the Gap Between Windows and PhotoShop Open-Up Delays</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/browser-blackout-blues-efficient-strategies-to-unlock-windows-sites/"><u>Browser Blackout Blues: Efficient Strategies to Unlock Windows Sites</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-user-account-prompts-in-windows/"><u>Bypassing User Account Prompts in Windows</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/expert-tips-top-free-tools-to-extract-and-save-instagram-videos-windowsos-x-for-2024/"><u>Expert Tips Top Free Tools to Extract and Save Instagram Videos (Windows/OS X) for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-motorola-edge-40-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Motorola Edge 40 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-film-titles-that-spur-positive-change-and-action-steps/"><u>In 2024, Film Titles That Spur Positive Change & Action Steps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-poco-c50-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Poco C50 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/rediscovering-my-love-for-video-games-through-engaging-discord-play-sessions/"><u>Rediscovering My Love for Video Games Through Engaging Discord Play Sessions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719360477145-reigniting-your-computers-print-functionality-with-effective-wwin-solutions/"><u>Reigniting Your Computer's Print Functionality with Effective WWin Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-tecno-phantom-v-flip-by-drfone-android/"><u>Universal Unlock Pattern for Tecno Phantom V Flip</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719376942389-windows-gptmimicry-a-costless-local-edition-via-gpt4all/"><u>Windows GPTMimicry: A Costless Local Edition via GPT4All.</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-maximizing-online-exposure-on-youtube-by-keeping-up-creative-commons-usage/"><u>[Updated] 2024 Approved Maximizing Online Exposure on YouTube by Keeping Up Creative Commons Usage</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-google-meet-live-streaming-for-beginners-stepwise-guide-to-youtube-for-2024/"><u>[Updated] Google Meet Live-Streaming for Beginners Stepwise Guide to YouTube for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-sci-fi-extraordinaire-journey-to-novel-universes-in-10-films/"><u>[Updated] Sci-Fi Extraordinaire Journey to Novel Universes in 10 Films</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-picturecut-pro/"><u>2024 Approved PictureCut Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-mp4-videos-to-gifs-fast-movavis-top-ranking-online-and-free-tool/"><u>Convert MP4 Videos to GIFs Fast - Movavi's Top-Ranking Online and Free Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-online-omzetten-van-caf-naar-mp3-met-movavi-voorlopig-makkelijk-en-efficient/"><u>Gratis Online Omzetten Van CAF Naar MP3 Met Movavi - Voorlopig Makkelijk en Efficiënt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-wegwijzer-om-ts-in-wmv-te-konverteren-onlinelastig/"><u>Gratuit Wegwijzer Om TS in WMV Te Konverteren - Onlinelastig</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-steer-clear-of-common-scams-in-chatgpt-interactions/"><u>How to Steer Clear of Common Scams in ChatGPT Interactions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme 12 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-devices-tips-and-tricks-from-toms-hardware/"><u>Mastering Modern Devices: Tips & Tricks From Tom's Hardware</u></a></li>
+<li><a href="https://win-guides.techidaily.com/the-art-of-keyword-mastery-detailed-insights-and-expert-tips-to-boost-your-websites-search-engine-visibility/"><u>The Art of Keyword Mastery: Detailed Insights & Expert Tips to Boost Your Website's Search Engine Visibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforme-seu-png-em-jpeg-rapidamente-com-o-conversor-da-movavi-simplicidade-guiada/"><u>Transforme Seu PNG Em JPEG Rapidamente Com O Conversor Da Movavi - Simplicidade Guiada</u></a></li>
 </ul></div>
 

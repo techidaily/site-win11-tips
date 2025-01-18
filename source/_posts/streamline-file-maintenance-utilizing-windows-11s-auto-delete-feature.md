@@ -1,7 +1,7 @@
 ---
 title: "Streamline File Maintenance: Utilizing Windows 11’S Auto Delete Feature"
-date: 2025-01-08T02:14:59.436Z
-updated: 2025-01-12T21:28:12.937Z
+date: 2025-01-12T16:16:23.374Z
+updated: 2025-01-18T17:35:26.748Z
 tags:
   - windows10
   - windows11
@@ -38,16 +38,12 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 ![storage sense in windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/storage-sense-in-windows-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Not all files in the Downloads folder will be deleted after the set time; just those that haven't been opened. This means if you download a file and want to open it later, it will still be deleted after the set time. If you turn this setting on, you should move anything out of the Downloads folder that you intend to keep.
 
  If you want, you can always turn off the setting by simply disabling the **Storage Sense** button later on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Deleted Old Files or Folders With the Command Prompt
 
@@ -63,11 +59,11 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 ![command prompt on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/command-prompt-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your files will be removed as quickly as soon as you hit the above commands.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use Task Scheduler on Windows
 
@@ -82,12 +78,20 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 ![task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/task-scheduler.jpg)
 5. In the **Name** box, enter a name for the task.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now, in the **General** tab, under the **Security options** section, select the **Run whether the user is logged on or not** option.
 7. Make sure the **Do not store password** checkbox is unselected.
 8. Click on the **Triggers** tab and select the **New** button.
 9. Select **On a schedule** option using the **Begin the task** setting.  
 ![new trigger section on task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-trigger-section-on-windows.jpg)
 10. Under the **Settings** section, set up the timings of the tasks you'd like to run. Finally, click on **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, head to the **Actions** tab and click on the **New** button. From the **Actions** drop-down menu, select the **Start a program** option.
 
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 `ForFiles`
 
 ![new action tab on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-tab-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Similarly, in the **Add arguments** box, type in the following command:
 
@@ -118,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 ![new action setting on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-setting-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it—finalize the changes by clicking **OK** once again, and you will be done in no time. From here forward, your files will be automatically deleted within the specified time. Of course, if you later change your mind you can always reverse this setting by simply deleting the new folder your created in first step (which in our case, will be **New Folder 1**).
@@ -141,22 +141,15 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-flame-the-fire-enhancing-your-snapstreak-game/"><u>[New] 2024 Approved Flame the Fire Enhancing Your Snapstreak Game</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-defeating-darkness-in-youtube-videos/"><u>[Updated] Defeating Darkness in Youtube Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-instant-access-windows-photos-view/"><u>2024 Approved Instant Access Windows Photos View</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-essence-of-sound-diminishment-a-lumafusion-insight/"><u>2024 Approved The Essence of Sound Diminishment A Lumafusion Insight</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-things-you-should-avoid-doing-on-windows-11/"><u>8 Things You Should Avoid Doing on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activating-windows-11s-archiving-feature/"><u>Activating Windows 11'S Archiving Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activatingdeactivating-windows-key-made-simple/"><u>Activating/Deactivating Windows Key Made Simple</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-the-one-way-outlook-issue-in-secure-environments/"><u>Addressing the One-Way Outlook Issue in Secure Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/audio-drivers-for-windows-a-comprehensive-update-guide/"><u>Audio Drivers for Windows: A Comprehensive Update Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-the-worst-javascript-failures-while-using-discord-in-win-oses/"><u>Avoiding the Worst JavaScript Failures While Using Discord in Win OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-pc-speed-with-improved-win11-startups/"><u>Boost PC Speed with Improved Win11 Startups</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-productivity-customized-windows-cmd-tricks-and-tips/"><u>Boost Productivity: Customized Windows Cmd Tricks and Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-galaxy-f54-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Galaxy F54 5G</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fast-track-to-apple-vision-pro-discover-unforeseen-swift-delivery/"><u>Fast Track to Apple Vision Pro: Discover Unforeseen Swift Delivery!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-battleye-setup-issues-how-to-handle-the-infamous-driver-load-error-1450/"><u>Fixing BattlEye Setup Issues: How to Handle the Infamous Driver Load Error (1450)</u></a></li>
-<li><a href="https://fox-within.techidaily.com/troubleshooting-audio-issues-how-to-spot-problems-with-your-sound-card-yl-computings-guide/"><u>Troubleshooting Audio Issues: How to Spot Problems with Your Sound Card - YL Computing's Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-10-best-public-domain-image-websites-for-2024/"><u>Updated 10 Best Public Domain Image Websites for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-superior-satire-picture-styler/"><u>[New] In 2024, Superior Satire Picture Styler</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-premium-steadicam-options-for-high-quality-dslr-shoots/"><u>[Updated] Premium Steadicam Options for High-Quality DSLR Shoots</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-tutorial-capturing-conversations-from-slack-for-windowsmac-and-iosandroid-devices/"><u>Easy Tutorial: Capturing Conversations From Slack for Windows/Mac and iOS/Android Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-edit-your-fax-cover-using-windows-11-tools/"><u>How to Edit Your Fax Cover Using Windows 11 Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/microsoft-decides-against-replacing-windows-11s-show-desktop-feature-what-you-need-to-know/"><u>Microsoft Decides Against Replacing Windows 11'S Show Desktop Feature: What You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpen-skills-and-speed-up-valorant-tips-for-top-performance/"><u>Sharpen Skills & Speed Up: Valorant Tips for Top Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-faulty-volume-shadows-in-win/"><u>Troubleshooting Faulty Volume Shadows in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-and-purge-windows-empties-a-compre-cooking-instruction/"><u>Uncover & Purge Window's Empties: A Compre Cooking Instruction</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Prime Experience: Tackling Audio-Subtitle Hiccups in Windows 11"
-date: 2025-01-08T18:28:34.522Z
-updated: 2025-01-13T01:04:08.806Z
+date: 2025-01-15T17:36:00.035Z
+updated: 2025-01-18T18:33:15.645Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Perform Some Basic Fixes
 
  While most of the content on Prime Video has subtitles, there are exceptions as well. It's possible that subtitles are unavailable for the movie or show you are streaming. To check for that possibility, play the title, click the**Subtitles and Audio** icon at the top, and check if subtitles are available.
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 ![Subtitles off option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/subtitles-off-option.jpg)
 3. Wait for a few seconds. Then, turn on the subtitles of your preferred language.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another quick way to fix Prime Video subtitles not working is to sign out and then back into your Prime Video account. To do that, click on your account name in the bottom left corner, and choose**Sign out** from the context menu.
 
 ![Sign Out option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-out.jpg)
@@ -49,7 +49,11 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Eliminate Browser Issues
@@ -61,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Prime Video App
@@ -74,23 +78,19 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 4. Click the**Repair** button.  
 ![Repair option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait till Windows repairs the app. You will see a checkmark next to the repair button when it's done.
 
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Prime Video App
 
  If you're still facing the issue, you are left with no option other than to reinstall the Prime Video app. To do that, first[uninstall the app from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Then, launch the Microsoft Store and search for and download the Prime Video for Windows.
 
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
 
@@ -113,24 +113,18 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-pixel-perfect-video-modifier/"><u>[New] Pixel-Perfect Video Modifier</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-2023-revised-insights-on-samsungs-ubd-k850u/"><u>[Updated] 2023 Revised Insights on Samsung's UBD-K850U</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-streaming-fb-video-content-on-television-devices/"><u>[Updated] 2024 Approved Streaming FB Video Content On Television Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/2024s-best-windows-computers-for-enhanced-productivity/"><u>2024'S Best Windows Computers for Enhanced Productivity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-singers-dilemma-choosing-freedom-from-microphone-controls/"><u>A Singer's Dilemma: Choosing Freedom From Microphone Controls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerating-your-online-gaming-experience-with-discord-on-windows/"><u>Accelerating Your Online Gaming Experience with Discord on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-total-screen-capture-mastery-using-snip-and-sketch/"><u>Achieving Total Screen Capture Mastery Using Snip & Sketch.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adapting-fn-key-operations-in-the-latest-windows-os/"><u>Adapting FN Key Operations in the Latest Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/alternative-win-art-software-matching-procreates-quality/"><u>Alternative Win Art Software Matching Procreate's Quality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-frustration-curing-win-error-1-in-minecraft/"><u>Avoiding Frustration: Curing Win Error 1 in Minecraft</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-pc-launches-activating-fast-startup-feature/"><u>Boosting PC Launches: Activating Fast Startup Feature</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/dont-miss-out-secure-your-dex-the-halls-and-enjoy-30-savings-through-year-end/"><u>Don't Miss Out! Secure Your Dex The Halls & Enjoy $30 Savings Through Year-End!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/download-the-h265-hevc-codec-free-enhance-your-4k-and-8k-video-experience/"><u>Download the H.265 HEVC Codec Free: Enhance Your 4K and 8K Video Experience</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-peering-into-facebooks-2023-video-landscape-a-focus-on-short-clips/"><u>In 2024, Peering Into Facebook's 2023 Video Landscape A Focus on Short Clips</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mpgwindows-1011mp4/"><u>MPGファイルの効率的なWindows 10/11からMP4への変換手順</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719364035206-on-premise-self-hosted-gpt-the-windows-path-via-gpt4all/"><u>On-Premise, Self-Hosted GPT: The Windows Path via GPT4All</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/s23-ultra-versus-s21-ultra-which-superphone-wins/"><u>S23 Ultra Versus S21 Ultra - Which Superphone Wins?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sonic-pixels-turning-sound-into-visual-storytelling/"><u>Sonic Pixels Turning Sound Into Visual Storytelling</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-resource-for-downloading-gigabytes-gc-wb867d-i-video-card-software/"><u>Ultimate Resource for Downloading Gigabyte's GC-WB867D-I Video Card Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-clearer-visions-advanced-techniques-for-zooming-photos-and-videos/"><u>[New] Clearer Visions Advanced Techniques for Zooming Photos & Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-farm-frenzy-reimagined-top-10-social-agriculture-games-for-2024/"><u>[New] Farm Frenzy Reimagined Top 10 Social Agriculture Games for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-close-up-a-guide-to-richer-minecraft-imagery/"><u>[Updated] Close-Up A Guide to Richer Minecraft Imagery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-complete-rundown-top-10-digital-drawing-software-on-chrome/"><u>A Complete Rundown Top 10 Digital Drawing Software on Chrome</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/exploring-the-challenges-of-using-older-sound-card-drivers-with-guidance-from-yl-software-experts/"><u>Exploring the Challenges of Using Older Sound Card Drivers with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-malwarebytes-service-connection-failures-on-windows-11-os/"><u>Fixing Malwarebytes' Service Connection Failures on Windows 11 OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-m-audio-fast-track-drivers-compatible-with-windows-117881-download-now/"><u>Free M-Audio Fast Track Drivers: Compatible with Windows 11/7/8/8.1 - Download Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-operation-failed-0x0000011b-error-on-windows-10-and-11/"><u>How to Fix the Operation Failed 0X0000011B Error on Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-windows-manages-reserved-memory-resources/"><u>How Windows Manages Reserved Memory Resources</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-revolutionary-strategies-for-youtube-and-facebook-integration/"><u>In 2024, Revolutionary Strategies for YouTube & Facebook Integration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-clock-selections-for-your-big-day-on-mobile/"><u>Premium Clock Selections for Your Big Day on Mobile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-hidden-depths-the-guide-to-activating-windows-private-self-view/"><u>Revealing Hidden Depths: The Guide to Activating Windows' Private Self-View</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-windows-roblox-403/"><u>Understanding & Correcting Windows Roblox 403</u></a></li>
 </ul></div>
 

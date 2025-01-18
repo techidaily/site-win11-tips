@@ -1,7 +1,7 @@
 ---
 title: "Transform Windows 11 Use: Adding an Enhanced Run Toolkit"
-date: 2025-01-10T00:38:27.914Z
-updated: 2025-01-12T20:26:48.201Z
+date: 2025-01-11T17:22:02.201Z
+updated: 2025-01-18T17:13:34.471Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add an Alternative Run Accessory to Windows With Run-Command
@@ -41,12 +41,16 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The Extract Compressed (Zipped) folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window2.jpg)
 6. Then double-click the**Run-Command\_x64.exe** in that software’s unzipped folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can utilize Run-Command instead of Run. Input any command you would usually enter in Run into Run-Command. Then click**Run** or**Run as administrator** to open the app with the command entered. This app’s**Run as administrator** option is the first notable difference most users will probably notice.
 
 ![The Run-Command app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-command-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another difference you’ll quickly notice is that Run-Command includes 13 shortcut icons. Clicking those shortcuts will open some of the most useful Windows tools. These are the utilities and windows you can access with those Run-Command shortcuts:
@@ -70,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 ![The Favorites menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-favorites-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can remove shortcuts added and edit the menu by clicking the**Manage Favorites** option. Select a shortcut in the Manage Favorites window and click the**X** button to remove it. Or you can click a folder button there to add new subfolders to the menu to move your shortcuts in. To edit a shortcut’s title, select it and click the rename button.
 
 ![The Manage Favorites window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/manage-favorites-window.jpg)
@@ -86,11 +86,11 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 ![The Options menu in Run-Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/options-menu.jpg)
 
- The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
 
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Getting Familiar With PowerToys Run
@@ -127,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
  If you want to search for files with PowerToys, input a**?** followed by a file’s title. PowerToys will show you files matching the search phrase included in the command.
 
 ![A file search command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-file-search-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To open a website with PowerToys Run, input the**//** plugin followed by a site URL. For example, try opening Bing by inputting**//www.bing.com** inside the tool’s command box. Then select the result (or press**Enter**) to open that search engine in your default browser.
 
@@ -147,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
 
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make the Most of the Your Enhanced Run Accessory in Windows 11/10
 
@@ -167,22 +167,17 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-transforming-chat-frustrations-into-effective-google-meet-conversations/"><u>[New] In 2024, Transforming Chat Frustrations Into Effective Google Meet Conversations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ace-your-pcs-problems-4-top-pct-strategies/"><u>Ace Your PC's Problems: 4 Top PCT Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieve-peak-performance-tweaking-amd-radeon-windows-settings/"><u>Achieve Peak Performance: Tweaking AMD Radeon Windows Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjust-words-settings-for-consistent-openness-of-email-attachments-as-text/"><u>Adjust Word's Settings for Consistent Openness of Email Attachments as Text</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-settings-for-continuous-save-support-in-nvidia-control-center/"><u>Adjusting Settings for Continuous Save Support in NVidia Control Center</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/amplify-outlook-speed-for-a-smooth-win-experience/"><u>Amplify Outlook Speed for a Smooth WIN Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-disruptions-how-to-mend-broken-windows-registry-items/"><u>Avoiding Disruptions: How to Mend Broken Windows Registry Items</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719204304616-gpt4all-free-chatbot-clones-at-home-for-windows/"><u>GPT4All: Free ChatBot Clones at Home for Windows.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/groundbreaking-feedback-vllo-review/"><u>Groundbreaking Feedback VLLO Review</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-magic-6-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor Magic 6 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-ultimate-audio-interface-for-podcasters-a-must-know-tip-for-your-podcasting-setup/"><u>In 2024, The Ultimate Audio Interface for Podcasters A Must-Know Tip for Your Podcasting Setup</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-16-camera-upgrade-integrating-ai-vision-technology-inspired-by-google-lens-insights/"><u>IPhone 16 Camera Upgrade: Integrating AI Vision Technology Inspired by Google Lens - Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719370071964-resolve-wwin-plus-p-non-functionality-in-windows-systems/"><u>Resolve WWin + P Non-Functionality in Windows Systems.</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-customizing-your-windows-11-notepad-appearance/"><u>Step-by-Step: Customizing Your Windows 11 Notepad Appearance</u></a></li>
-<li><a href="https://win11.techidaily.com/uncluttering-your-system-locate-and-remove-null-folder-space/"><u>Uncluttering Your System: Locate and Remove Null Folder Space</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-top-5-best-websites-to-add-emojis-to-photo-online/"><u>Updated Top 5 Best Websites to Add Emojis to Photo Online</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/who-wins-the-tech-talk-comparing-gpt-and-bing-ai/"><u>Who Wins the Tech Talk: Comparing GPT & Bing AI?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-optimal-gear-for-enhanced-live-video-quality/"><u>[New] 2024 Approved Optimal Gear for Enhanced Live Video Quality</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-captivating-animations-creating-gifs-from-your-favorite-youtube-videos/"><u>[Updated] 2024 Approved Crafting Captivating Animations Creating GIFs From Your Favorite YouTube Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-effortless-visual-transitions-using-instagram-chroma-keying/"><u>[Updated] 2024 Approved Effortless Visual Transitions Using Instagram Chroma Keying</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-pathways-to-youtube-stardom-in-video-games-for-2024/"><u>[Updated] Pathways to YouTube Stardom in Video Games for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4wmvmovavi/"><u>網路直通無限 - 優質MP4到WMV自由轉換：Movavi頂尖解決方案</u></a></li>
+<li><a href="https://extra-information.techidaily.com/augmented-realms-blending-tech-and-entertainment/"><u>Augmented Realms Blending Tech & Entertainment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-ultimate-12-free-collages-applications-for-your-pc-with-our-expert-recommendations/"><u>Discover the Ultimate 12 Free Collages Applications for Your PC with Our Expert Recommendations</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-11-pro-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 11 Pro Without Previous Owner?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-uploading-impeccable-content-on-youtube/"><u>In 2024, The Ultimate Guide to Uploading Impeccable Content on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-zet-omhet-voor-mxf-files-eenvoudigheid-en-kostenloosheid-met-movavi-solutions/"><u>Online Zet Omhet Voor MXF Files: Eenvoudigheid en Kostenloosheid Met Movavi Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/veezie-3gp-in-gratis-online-wav-vormaat-met-movavi-konverteren-efficient/"><u>Veezie 3GP in Gratis Online WAV-Vormaat Met Movavi - Konverteren Efficiënt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726221995080-mp4-mjpeg-movavi/"><u>오픈 소스에서 제공 무용 MP4-MJPEG 전환 - MOVAVI</u></a></li>
 </ul></div>
 

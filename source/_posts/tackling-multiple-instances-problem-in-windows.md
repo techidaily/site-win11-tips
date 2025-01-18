@@ -1,7 +1,7 @@
 ---
 title: Tackling 'Multiple Instances' Problem in Windows
-date: 2025-01-05T17:53:22.990Z
-updated: 2025-01-12T18:05:16.668Z
+date: 2025-01-17T16:01:46.075Z
+updated: 2025-01-18T17:21:07.359Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Reinstall Microsoft Visual C++ Packages
 
@@ -56,15 +52,15 @@ To run the SFC scan on your computer:
 4. In the console, type**sfc /scannow** and press**Enter** .  
 ![Run SFC Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-SFC-Scan-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the scan to complete and then run the DISM (or Deployment Image Servicing and Management) scan by entering the following command:
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
  After the process is complete, exit the Command Prompt window and restart your PC. The error should not appear anymore after the reboot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run the Program Compatibility Troubleshooter
 
@@ -75,10 +71,6 @@ To run the SFC scan on your computer:
 3. Mark the checkbox that reads **The program worked in earlier versions of Windows but won’t install or run now** and hit**Next** .
 4. Follow the on-screen prompts to run the troubleshooter and see if the error occurs again.  
 ![Program Compatibility Troubleshooter Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Program-Compatibility-Troubleshooter-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Repair the Problematic App
 
@@ -91,9 +83,17 @@ To run the SFC scan on your computer:
 5. Scroll down to the Reset section and click on**Repair** .  
 ![Repair App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Repair-App-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should see a right checkmark next to the Repair button once the process is complete.
 
  Alternatively, you can repair your apps and programs from Control Panel. To learn more about this, check our guide on[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall the Problematic App
 
@@ -105,7 +105,7 @@ To run the SFC scan on your computer:
 ![Uninstall App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Uninstall-App-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Head over to Microsoft Store and install the app again. Following this, the error should not bother you.
@@ -116,10 +116,6 @@ To run the SFC scan on your computer:
 
  If the scan uncovers anything suspicious, take the recommended steps to fix the issue and reboot your PC after that.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Install Pending Windows Updates
 
  Microsoft regularly releases updates for the Windows operating system. Aside from new features and security patches, these updates also bring much-needed fixes for bugs and other errors. You can try updating Windows to its most recent version to see if that makes a difference.
@@ -129,7 +125,7 @@ To run the SFC scan on your computer:
 ![Check for System Updates on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-for-System-Updates-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Perform a System Restore
@@ -148,6 +144,10 @@ To perform a system restore on Windows:
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/System-Restore-Dialog-on-Windows.jpg)
 
  Windows will restart and revert to the specified restore point. Following that, the error should be resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Start Using Your Apps Again
 
@@ -168,22 +168,22 @@ To perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-garageband-guide-gently-dissolve-decibels/"><u>[New] Garageband Guide Gently Dissolve Decibels</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-efficient-strategies-for-saving-youtube-thumbnails-on-any-os/"><u>[Updated] In 2024, Efficient Strategies for Saving Youtube Thumbnails on Any OS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-luxury-levels-screen-brightness-on-android/"><u>2024 Approved Luxury Levels Screen Brightness on Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-window-light-in-windows-11-top-solutions-explored/"><u>Boosting Window Light in Windows 11: Top Solutions Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bootback-success-wins-ultimate-guide-to-overhauling-security/"><u>Bootback Success: Win's Ultimate Guide to Overhauling Security</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-headset-mic-not-working/"><u>Breaking Down Window's Headset Mic Not Working</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breathe-new-life-into-old-computers-without-windows/"><u>Breathe New Life Into Old Computers Without Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breathing-life-into-non-operative-windows-performance-tracker/"><u>Breathing Life Into Non-Operative Windows Performance Tracker</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-decades-old-keyboard-entry-error/"><u>Bypassing Decades-Old Keyboard Entry Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-hurdles-a-guide-to-overcoming-roblox-error-262/"><u>Bypassing Hurdles: A Guide to Overcoming Roblox Error 262</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/checking-for-updates-on-spotify-software-and-system/"><u>Checking for Updates on Spotify Software & System</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/decoding-the-future-pivotal-changes-to-fb-advertising-post-2023/"><u>Decoding the Future Pivotal Changes to FB Advertising Post-2023</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-itel-p55-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Itel P55 5G FRP Locks</u></a></li>
-<li><a href="https://fox-place.techidaily.com/get-your-favorite-karaoke-videos-in-hd-mp4-format-exclusive-offers-and-price-cuts-available-now/"><u>Get Your Favorite Karaoke Videos in HD MP4 Format: Exclusive Offers and Price Cuts Available Now!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/google-serp-position-change-condition-competition-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Position Change Condition - Competition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-startup-for-league-of-legends-game/"><u>How To Ensure Smooth Startup for League of Legends Game</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Preparation to Beat Giovani in Pokemon Go For Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-understanding-and-exploiting-youtubes-featured-slot-for-maximum-reach/"><u>[New] In 2024, Understanding and Exploiting YouTube's Featured Slot for Maximum Reach</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-guide-to-brighter-youtube-video-editing/"><u>[New] Step-by-Step Guide to Brighter YouTube Video Editing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-picture-perfect-in-the-sky-free-and-paid-cloud-solutions-reviewed-for-2024/"><u>[Updated] Picture Perfect in the Sky Free & Paid Cloud Solutions Reviewed for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-real-time-unfollowers-detection-on-insta/"><u>[Updated] Real-Time Unfollowers Detection on Insta</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-ustream-review-alternatives-on-hand/"><u>2024 Approved Inside Ustream Review, Alternatives on Hand</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-best-free-methods-for-transforming-your-avi-files-into-a-playable-dvd-format/"><u>5 Best Free Methods for Transforming Your AVI Files Into a Playable DVD Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambia-tu-fotografia-de-alta-calidad-sin-costo-convertir-raw-a-tiff-en-linea-mediante-imagemaster-pro/"><u>Cambia Tu Fotografía De Alta Calidad Sin Costo: Convertir RAW a TIFF en Línea Mediante ImageMaster Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Itel Phone without Any Data Loss</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-step-by-step-pathway-to-youtube-mastery/"><u>In 2024, The Step-by-Step Pathway to YouTube Mastery</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-transformative-visuals-unleash-the-power-of-6-video-types/"><u>In 2024, Transformative Visuals Unleash the Power of 6 Video Types</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-cloud-storage-enhance-your-data-management-with-centrum-podpory/"><u>Movavi Cloud Storage: Enhance Your Data Management with Centrum Podpory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-wijzer-om-gratis-raam-in-wmv-formaat-te-veranderen-de-meest-gewone-movavi-oplage/"><u>Online Wijzer Om Gratis RAAM in WMV Formaat Te Veranderen - De Meest Gewone Movavi Oplage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-and-simple-guide-to-downloading-mp3s-from-your-videos-gratis/"><u>Quick and Simple Guide to Downloading MP3s From Your Videos, Gratis!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-complete-pathway-to-personalized-ios-ringtones-for-2024/"><u>The Complete Pathway to Personalized iOS Ringtones for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformation-gratuite-de-fichiers-wmv-a-la-norme-vob-sur-internet-avec-movavi/"><u>Transformation Gratuite De Fichiers WMV À La Norme VOB Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tv-mp4avi-mpe/"><u>오토바이오어 TV를 전자보간용 영상으로 자유소부터 MP4/AVI 변환 - MPE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movaviwebm-to-ogg/"><u>ウィスパーオーディオファイルにリアルタイム変換! - Movaviの無料オンラインWEBM to OGG</u></a></li>
 </ul></div>
 

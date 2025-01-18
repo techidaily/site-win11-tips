@@ -1,7 +1,7 @@
 ---
 title: "Preparing VBox on Win: Prioritize Deps for Smooth Setup"
-date: 2024-08-08T11:01:27.554Z
-updated: 2024-08-09T11:01:27.554Z
+date: 2025-01-16T18:21:18.334Z
+updated: 2025-01-18T17:24:43.666Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 ![VirtualBox download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/01-virtualbox-download-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before you install VirtualBox, you must install these packages:
 
 * Microsoft Visual C++ 2019 Redistributable Package
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 ![Popup window in VirtualBox asks for Visual C++ Redistributable Package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/02-popup-window-in-virtualbox-asks-for-visual-c-redistributable-package-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![VirtualBox window displays the need for Missing Dependencies Python Core win32api](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/03-virtualbox-window-displays-the-need-for-missing-dependencies-python-core-win32api.jpg)
 
 Close
@@ -48,34 +48,38 @@ Close
 ![VirtualBox Installation failed! Fatal error during installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/04-virtualbox-installation-failed-fatal-error-during-installation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install Visual C++ Redistributable on Windows
 
  You can download Microsoft Visual C++ Redistributable from the [Microsoft Learn webpage](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170). You need to download the version that suits your operating system (x86/32-bit or x64/64-bit). Once downloaded, proceed with the installation, the process is straightforward.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft Visual C++ Redistributable download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/05-microsoft-visual-c-redistributable-download-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft Visual C++ Redistributable download choose architechture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/06-microsoft-visual-c-redistributable-download-choose-architechture.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Microsoft Visual C++ Redistributable installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/07-microsoft-visual-c-redistributable-installation.jpg)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install and Configure Python / win32api on Windows
 
  Python is another dependency for VirtualBox. You can download it from the official [Python website](https://www.python.org/downloads/).
 
 ![Download Python win32api for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/08-download-python-win32api-for-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once downloaded, start the installation. You need to check **Add python.exe to PATH**, and complete the installation. When added to PATH, Python packages and scripts can be accessed from any directory. Complete the installation.
 
@@ -85,10 +89,11 @@ Close
 
 `pip install pywin32`
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Command to install pywin32 in WIndows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/10-command-to-install-pywin32-in-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your computer has now met all the dependencies to install VirtualBox.
 
@@ -98,30 +103,22 @@ Close
 
 ![Install VirtualBox in WIndows using the wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-install-virtualbox-in-windows-using-the-wizard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Install VirtualBox in WIndows custom setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/12-install-virtualbox-in-windows-custom-setup.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Install VirtualBox in WIndows network interfaces warning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/13-install-virtualbox-in-windows-network-interfaces-warning.jpg)
 
 ![Install VirtualBox in WIndows ready to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/14-install-virtualbox-in-windows-ready-to-install.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![VirtualBox in WIndows installation complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/15-virtualbox-in-windows-installation-complete.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![VirtualBox manager in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/16-virtualbox-manager-in-windows.jpg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Run a Guest Operating System of Your Choice via VirtualBox
 
  With its simple interface and impressive features, VirtualBox is a strong contender among virtualization applications.
@@ -130,11 +127,33 @@ Close
 
  Visual C++ Redistributable is a straightforward installation, it is not the same case with Python as it requires configuring as well. The good thing is it is easy to do.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-snappy-gaming-moments-with-these-top-5-recording-strategies-on-windows-11-for-2024/"><u>[New] Snappy Gaming Moments with These Top 5 Recording Strategies on Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-begin-your-clip-and-cut-career-with-xps-editor/"><u>[Updated] Begin Your Clip-and-Cut Career with XP's Editor</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-editing-competitors-ranked-top-5-non-youtube-sites-list/"><u>[Updated] In 2024, YouTube Editing Competitors Ranked Top 5 Non-YouTube Sites List</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-path-to-precision-audio-a-no-mic-approach/"><u>2024 Approved The Path to Precision Audio A No-Mic Approach</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-pathway-to-recognition-youtubers-guide-to-personal-brands/"><u>2024 Approved The Pathway to Recognition YouTubers' Guide to Personal Brands</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728506439092-excel/"><u>完全拆解：修复已保存Excel文件丢失数据问题的全面指南</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiency-unleashed-powertoys-batch-rename-feature/"><u>Efficiency Unleashed: PowerToys' Batch Rename Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-stranded-message-error-on-windows-1011-xbox-app/"><u>Fixing the ‘Stranded’ Message Error on Windows 10/11 Xbox App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-completely-uninstall-wsl-on-windows-10-and-11/"><u>How to Completely Uninstall WSL on Windows 10 & 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-visualize-verve-vocalize-laughter-kapwings-toolkit/"><u>In 2024, Visualize Verve, Vocalize Laughter - Kapwing's Toolkit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-commercials-just-content-a-new-era-for-win-11/"><u>No Commercials, Just Content - A New Era for Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-network-file-share-obstacles-with-geforce/"><u>Overcoming Network File-Share Obstacles with GeForce</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recover-unseen-second-screen-in-w11/"><u>Recover Unseen Second Screen in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-outlooks-0x80040610-failure-code/"><u>Steps to Rectify Outlook's 0X80040610 Failure Code</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/story-3-the-cross-sectional-survey-misconception/"><u>Story 3: The Cross-Sectional Survey Misconception</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/stream-wars-unveiled-which-wins-obs-or-twitch-in-2024/"><u>Stream Wars Unveiled Which Wins, OBS or Twitch, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-thumbnails-size-easily/"><u>Tailoring Windows Thumbnails Size Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-risks-in-turning-off-windows-11-alerts/"><u>Understanding the Risks in Turning Off Windows 11 Alerts</u></a></li>
+</ul></div>
+

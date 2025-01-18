@@ -1,7 +1,7 @@
 ---
 title: Overcoming Blocked Logins in Windows
-date: 2025-01-07T21:06:28.735Z
-updated: 2025-01-12T19:52:53.719Z
+date: 2025-01-11T16:14:05.619Z
+updated: 2025-01-18T17:28:06.631Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes the "Sign-In Option Is Disabled Because of Failed Sign-In Attempts" Error?
 
  The error message indicates the possible causes for the error are multiple failed sign-in attempts or repeated shutdowns. However, in most instances, the error pops up without reason, even when you are using the correct PIN.
@@ -49,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
  That said, if you can't wait for two hours, try to log in using an alternate sign-in option, such as a password or biometric authentication. To use the alternate sign-in option, click the dotted icon under the Sign-in options in the error screen to log in with your password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Reset the Account Password from the Sign-In Screen
 
  If you have forgotten your password, you can reset your sign-in password from the sign-in screen. To confirm the authenticity of the user, Windows will need you to answer the security questions correctly to perform a reset.
@@ -62,12 +62,12 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 ![reset account password security question windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-security-question-windows.jpg)
 3. Now, you must answer the three security questions and press **Enter**. If the password is correct, a password reset option will appear.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![reset account password windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-windows.jpg)
 4. Enter your new password and then re-enter the password to confirm the same.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Press **Enter** to sign-in to your user account.
 
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
  Once you can sign in, follow these steps to check your account status.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check Your Account Status Using Local Users and Groups
@@ -102,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
  If both the options are already unchecked, proceed to the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Reset the Windows Account PIN
 
  Assuming the problem is due to a corrupt account PIN, a PIN reset can help you fix the problem. You can [change your account PIN in Windows](https://www.makeuseof.com/change-account-pin-windows/) from the Settings app. You'll need to authenticate the PIN change process with your current PIN, so keep that handy.
@@ -115,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 2. Next, copy and paste the following script into the Notepad file:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `@echo off  
@@ -152,16 +156,8 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 ![account lockout threshold gpedit windows modify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify.jpg)
 5. Type **0** in the **Account will not lock out** field.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![account lockout threshold gpedit windows modify o value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify-o-value.jpg)
 6. Click **Apply** and **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Edit the Account Lockout Policy Using Registry Editor
 
@@ -181,6 +177,10 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 ![modify Maxdenials registry DWORD value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor.jpg)
 6. Type **0** in the **Value data** field and click **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Close Registry Editor and reboot your computer to apply the changes.
 
@@ -204,24 +204,24 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-cutting-edge-online-resources-for-glittering-3d-typography/"><u>[New] In 2024, Cutting-Edge Online Resources for Glittering 3D Typography</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-pro-gamers-guide-to-superior-webcam-gameplay-capturing/"><u>[New] In 2024, Pro Gamer's Guide to Superior WebCam Gameplay Capturing</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-streamline-watching-facebook-videos-on-your-apple-tv-device/"><u>[Updated] Streamline Watching Facebook Videos on Your Apple TV Device</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-designing-effective-video-previews-for-channels/"><u>2024 Approved Designing Effective Video Previews for Channels</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-exploring-the-difference-between-ig-reels-and-stories/"><u>2024 Approved Exploring the Difference Between IG Reels & Stories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-cool-folder-tips-youll-love-using-on-windows/"><u>5 Cool Folder Tips You'll Love Using on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-complete-walkthrough-to-establish-java-development-kit-in-windows-11/"><u>A Complete Walkthrough to Establish Java Development Kit in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-disabling-chrome-tab-clones/"><u>A Step-by-Step Approach to Disabling Chrome Tab Clones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adapting-oculus-quest-2-for-windows-vr-software/"><u>Adapting Oculus Quest 2 for Windows VR Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-virtual-disk-startup-issues-in-windows-disk-manager/"><u>Addressing Virtual Disk Startup Issues in Windows Disk Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-hello-compatible-scanner-glitch/"><u>Addressing Windows Hello Compatible Scanner Glitch</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/astonishing-assessment-and-alternative-choices/"><u>Astonishing Assessment & Alternative Choices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-steam-authentication-setbacks-in-rust-for-windows-users/"><u>Avoiding Steam Authentication Setbacks in Rust for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beginner-friendly-guide-setting-up-the-jdk-on-windows-11/"><u>Beginner-Friendly Guide: Setting Up the JDK on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-efficiency-activating-search-bar-on-windows-11-tm/"><u>Boost Your Efficiency: Activating Search Bar on Windows 11 TM</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/google-stadia-reviewed-spotting-growth-areas-and-upgrades-required/"><u>Google Stadia Reviewed: Spotting Growth Areas and Upgrades Required</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-interactive-storytelling-a-comprehensive-guide-to-creating-an-engaging-txt-rpg-with-chatgpt/"><u>Mastering Interactive Storytelling: A Comprehensive Guide to Creating an Engaging TXT RPG with ChatGPT</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210245347-9781098060978-the-five-stressors/"><u>The Five Stressors | Free Book</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/valuating-best-youtube-extractors-available-on-android-for-2024/"><u>[New] Evaluating Best YouTube Extractors Available on Android for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-premium-internet-voice-pads/"><u>[Updated] 2024 Approved Premium Internet Voice Pads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-explore-virtual-realms-with-these-videos-for-2024/"><u>[Updated] Explore Virtual Realms with These Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-paramounts-best-vr-movies-to-watch-now/"><u>[Updated] Paramount's Best VR Movies to Watch Now</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/convert-your-mpeg-videos-into-dvd-format-using-the-ultimate-mpg-to-dvd-tool/"><u>Convert Your MPEG Videos Into DVD Format Using the Ultimate MPG to DVD Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-frozen-display-windows-steam-guide/"><u>Counteracting Frozen Display: Windows Steam Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/cutting-edge-techniques-to-upgrade-channel-descriptions-for-2024/"><u>Cutting-Edge Techniques to Upgrade Channel Descriptions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deal-makers-delight-windows-10-612-lifetime-bf-discount/"><u>Deal-Makers' Delight: Windows 10, $6.12 Lifetime BF Discount</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-repairing-isdonedll-errors-in-windows-11-os/"><u>Guide to Repairing ISDone.dll Errors in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-proficiently-utilize-the-windows-print-device-manager/"><u>How To Proficiently Utilize the Windows Print Device Manager</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-12plus-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme 12+ 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/microsoft-tech-update-roundup-exciting-new-developments-from-this-weeks-surface-and-artificial-intelligence-event/"><u>Microsoft Tech Update Roundup: Exciting New Developments From This Week's Surface and Artificial Intelligence Event</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-wasted-cpu-by-ntoskrnlexe-processes/"><u>Minimizing Wasted Cpu by Ntoskrnl.exe Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-windows-11-easy-wi-fi-deletion-guide/"><u>Optimize Windows 11: Easy Wi-Fi Deletion Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sneaking-preview-into-unreleased-windows-capabilities-with-vivetool/"><u>Sneaking Preview Into Unreleased Windows Capabilities with ViVeTool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-isdonedll-failures-on-windows-1011/"><u>Troubleshooting ISDone.dll Failures on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win1011-reactivating-unresponsive-adobe-photoshop/"><u>Win10/11: Reactivating Unresponsive Adobe Photoshop</u></a></li>
+<li><a href="https://win-studio.techidaily.com/zdnet-analysis-assessing-the-value-of-android-on-windows-11-setup/"><u>ZDNet Analysis: Assessing the Value of Android on Windows 11 Setup</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726222004928-2024-5/"><u>내 가이드를 통해 2024년에서 볼 수 있는 5개의 우수한 녹화 프로그래밍 기술</u></a></li>
 </ul></div>
 

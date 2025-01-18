@@ -1,7 +1,7 @@
 ---
 title: Eliminate Windows Updates Prompts
-date: 2025-01-10T18:03:44.768Z
-updated: 2025-01-13T00:44:10.847Z
+date: 2025-01-12T17:35:48.712Z
+updated: 2025-01-18T17:51:17.434Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disable Windows Update Notifications via the Settings App
@@ -41,10 +41,14 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 ![Disable Windows Update Notifications Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, Windows should not bother you with update notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disable Windows Update Notifications Using Group Policy Editor
 
@@ -61,7 +65,7 @@ To disable Windows update notifications using Group Policy Editor:
 ![Disable Windows Update Notifications Using the Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-group-policy-editor-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to re-enable the Windows update notifications later, follow the same steps above and set the**Display options for update notifications** policy to**Not configured** .
@@ -86,14 +90,10 @@ To disable Windows update notifications using Registry Editor:
 ![Disable Windows Update Notifications Using the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-the-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Exit the Registry Editor window and restart your PC to apply the changes. Following that, Windows will not display update notifications on your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## No More Update Notifications on Windows
 
@@ -116,16 +116,19 @@ To disable Windows update notifications using Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-spinning-tales-in-sound-your-ultimate-guide-to-podcast-scripts/"><u>[New] Spinning Tales in Sound Your Ultimate Guide to Podcast Scripts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-stepwise-approach-to-winerror-issues/"><u>A Stepwise Approach to WinError Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-no-available-device-driver-issue-in-os-update/"><u>Addressing 'No Available' Device Driver Issue in OS Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-1drive-errors-steps-to-success-in-w11/"><u>Addressing 1Drive Errors: Steps to Success in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-to-the-latest-windows-11-maintain-linux-subsystem-efficiency/"><u>Adjusting to the Latest Windows 11, Maintain Linux Subsystem Efficiency</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/free-software-showdown-the-leading-10-audio-capture-utilities-for-2024/"><u>Free Software Showdown The Leading 10 Audio Capture Utilities for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-90-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor 90 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/is-facebook-better-for-vertical-videos-for-2024/"><u>Is Facebook Better for Vertical Videos for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/pro-gear-for-documenting-excursions-for-2024/"><u>Pro Gear for Documenting Excursions for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-techniques-for-troubleshooting-warzone-pc-sound-problems/"><u>Top Techniques for Troubleshooting Warzone PC Sound Problems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-tech-indulge-in-the-sweet-scents-of-advanced-cooling-paste-technology/"><u>Transform Your Tech: Indulge in the Sweet Scents of Advanced Cooling Paste Technology!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-sneak-peek-to-secrecy-how-to-create-hidden-stories/"><u>[New] 2024 Approved Sneak Peek to Secrecy How to Create Hidden Stories</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-convincing-audiences-to-join-a-positive-approach/"><u>[New] Convincing Audiences to Join A Positive Approach</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-extract-translate-and-save-youtube-subtitles-for-free/"><u>[New] In 2024, Extract, Translate & Save YouTube Subtitles for FREE</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-say-laughs-say-free-mememakers-tutorial-for-2024/"><u>[New] Say Laughs, Say Free - MemeMaker's Tutorial for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-melodic-instagram-reels-blending-music-voiceovers/"><u>[Updated] In 2024, Melodic Instagram Reels Blending Music, Voiceovers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-taskmanager-front-and-center-in-windows/"><u>Keep TaskManager Front and Center in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/kostenlose-abspielung-von-dvds-mit-dem-neuen-kostengunstigen-dekoder-ohne-download-notwendigkeit/"><u>Kostenlose Abspielung Von DVDs Mit Dem Neuen, Kostengünstigen Dekoder Ohne Download-Notwendigkeit</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/lego-star-wars-pc-game-troubleshooting-for-skywalker-saga-update/"><u>Lego Star Wars PC Game Troubleshooting for Skywalker Saga Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-file-capacity-with-win-1011-tips/"><u>Managing File Capacity with Win 10/11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-chatgpt-windows-setup-guide/"><u>Mastering ChatGPT: Windows Setup Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-access-to-off-screen-panes-win11-guide/"><u>Regaining Access to Off-Screen Panes: Win11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-barriers-steam-and-windows-11-file-privilege-issue/"><u>Removing Barriers: Steam & Windows 11 File Privilege Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-cannot-reach-live-config-servers-troubleshooting-guide/"><u>Resolving 'Cannot Reach Live Config Servers': Troubleshooting Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-woes-re-opening-chrome-made-simple/"><u>Windows 11 Woes: Re-Opening Chrome Made Simple</u></a></li>
 </ul></div>
 

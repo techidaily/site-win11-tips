@@ -1,7 +1,7 @@
 ---
 title: Breezing Through Telnet Configuration in Win11
-date: 2024-07-29T08:14:54.651Z
-updated: 2024-07-30T08:14:54.651Z
+date: 2025-01-14T17:53:06.723Z
+updated: 2025-01-18T16:13:28.263Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
  You can enable Telnet on Windows 10 and 11 computers via Command Prompt or the Graphics User Interface (GUI) tool. Here we show you the many ways to enable Telnet on your Windows computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Enable Telnet on Windows Using Control Panel
 
  You can enable Telnet Client using the Classic Control Panel. Since it is an optional feature, you can enable it using the Windows Optional Feature dialog. You can use it[add or remove other users' optional features on Windows](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) .
@@ -34,11 +35,13 @@ To enable Telnet Client using Control Panel:
 3. In Control Panel, Click on**Uninstall a Program** under**Programs and Features.**  
 ![turn windows features on or off control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turn-windows-features-on-or-off-control-panel.jpg)
 4. In the left pane, click on the**Turn Windows feature on or off.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![enable telnet client windows features dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-windows-features-dialog.jpg)
 5. In the Windows Features dialog, scroll down and select**Telnet Client.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**OK** and wait for the feature to install. Once installed, restart your PC to apply the changes and enable the feature.
 
 If you need to disable Telnet:
@@ -47,18 +50,6 @@ If you need to disable Telnet:
 2. Click**OK** and wait for the feature to uninstall.
 3. Click on**Restart** now to reboot your PC and apply the changes.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Enable Telnet Client Using Windows PowerShell
 
 ![enable telnet client powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-powershell.jpg)
@@ -76,11 +67,12 @@ To enable Telnet using Windows PowerShell:
 `Disable-WindowsOptionalFeature -Online -FeatureName TelnetClient`
 6. Close PowerShell and restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Install Telnet Client Using Command Prompt
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![enable telnet command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-command-prompt.jpg)
 
  If you prefer Command Prompt over PowerShell, you can use the DISM /Online command to enable the optional features on your Windows 11 computer.
@@ -98,15 +90,16 @@ Follow these steps to install Telnet using Command Prompt:
 7. Type**exit** and press**Enter** to close Command Prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check the Telnet Client Status on Your PC
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![telnet status enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/telnet-status-enabled.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can check if the Telnet client is enabled on your PC using a Command Prompt command. When enabled, the Telnet command will open a new CMD to connect to remote servers and perform other tasks.
 
@@ -120,14 +113,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  The major disadvantage of Telnet is that it is not secure and prone to a man-in-the-middle attack. If not for particular situations, switch to a more secure network protocol such as SSH and Mosh with better password and public key authentication.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +126,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-optimize-social-vids-for-maximum-view-size/"><u>[Updated] 2024 Approved Optimize Social Vids for Maximum View Size</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-oneplus-nord-ce-3-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does OnePlus Nord CE 3 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ensuring-correct-sm-bus-driver-operation-on-win1011/"><u>Ensuring Correct SM Bus Driver Operation on WIN10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-side-by-side-fault-in-windows/"><u>Eradicating Side-by-Side Fault in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-techniques-for-calls-tracking/"><u>Essential Windows Techniques for Calls Tracking</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fully-active-discord-microphone/"><u>Fully Active Discord Microphone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-realme-12-proplus-5g-by-drfone-android/"><u>How to Bypass FRP on Realme 12 Pro+ 5G?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-c50-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Poco C50</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-xp-error-code-0xfffffddd/"><u>Overcoming Window's XP Error Code 0xFFFFFDDD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-enabling-and-using-hyper-v-on-w11-homes/"><u>Step-by-Step Guide to Enabling and Using Hyper-V on W11 Homes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-fixes-for-unreachable-geforce-x-configuration-errors/"><u>Uncovering Fixes for Unreachable GeForce X Configuration Errors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/videovisionaries-selecting-superior-4k-screen-options-for-2024/"><u>VideoVisionaries Selecting Superior 4K Screen Options for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/44kk44oz44k44o844on44od44oi57wm55sx44gn44km44kj44oz44kv44k55a625pep44or44od44kx44o844k444ks5yplusw44kk5omx44ge5lit/"><u>インターネット経由でウィンクス家族パッケージを取り扱い中</u></a></li>
+</ul></div>
 

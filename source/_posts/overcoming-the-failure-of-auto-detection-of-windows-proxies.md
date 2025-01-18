@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Failure of Auto-Detection of Windows Proxies
-date: 2025-01-08T21:10:42.765Z
-updated: 2025-01-12T22:26:48.612Z
+date: 2025-01-14T18:01:27.372Z
+updated: 2025-01-18T18:26:28.916Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Reboot Your Computer and Router
 
  Before you launch into any specific troubleshooting, it's always a good idea to restart your equipment first. There's a chance that this will clear up your issue in a few moments.
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
  Because this error is usually related to misconfigured settings on one computer, restarting your router likely won't have an effect. But it's still an[important network troubleshooting step](http://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for problems of any kind.
 
  If the problem hasn't fixed itself after you reboot your computer and router, continue on with the more detailed steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Review Proxy Settings in Windows
 
@@ -51,13 +43,13 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![Windows 10 Proxy Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Proxy-Settings-Menu.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For those who do connect with a proxy, such as people in a business or school environment, you might want to check with your system administrator to make sure you have the correct proxy details here. They'll be able to speak to any issues specific to your network.
 
  After this, try reconnecting to the network again and getting online. If you still get the error, turn off**Automatically detect settings** in the proxy options and try once more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What's a Proxy Server?
 
@@ -87,11 +79,11 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![Windows IP Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/01/Windows-IP-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On Windows 11, go to**Settings > Network & internet** and choose**Wi-Fi** or**Ethernet** depending on the connection you're using. Then click your network name. If you don't see**Automatic (DHCP)** next to both**IP assignment** and**DNS server assignment** , click the**Edit** button next to both and set them to this value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update or Roll Back Your Network Driver
 
@@ -104,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 ![Windows 10 Device Manager Update Roll Back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Device-Manager-Update-Roll-Back.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to[manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
@@ -129,13 +121,13 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![Windows 10 firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/firewall-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should next make sure you don't have a firewall, VPN, or security suite interfering with your network connection. Perhaps your chosen software had an update that changed an option you weren't aware of, or you just installed a new app that changed proxy settings for some reason.
 
  Try disabling your firewall, VPN, and antivirus software one at a time, then see if the error goes away. If it does, the issue lies with one of those apps. You'll need to configure them to avoid interfering with regular network activity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Scan for Malware
 
@@ -153,7 +145,15 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![choose a specific restore point and click on next](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/click-on-a-restore-point.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that using a restore point will remove any programs and drivers you've installed since making that restore point. You can click**Scan for affected programs** on a restore point to see what effect it will have. Using a System Restore won't affect any of your personal files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Reset Your Network Settings
 
@@ -186,17 +186,20 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-dynamic-strategies-for-complementary-podcast-consumption/"><u>[New] 2024 Approved Dynamic Strategies for Complementary Podcast Consumption</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-step-by-step-crafting-bespo-pointed-video-closures-on-the-dashboard-for-2024/"><u>[New] Step-by-Step Crafting Bespo Pointed Video Closures on the Dashboard for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-revolutionize-your-content-creation-the-mi-11s-screen-record-capabilities/"><u>[Updated] Revolutionize Your Content Creation The Mi 11'S Screen Record Capabilities</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-where-creators-converge-and-craft-visual-stories-in-youtube-studio/"><u>[Updated] Where Creators Converge and Craft Visual Stories in Youtube Studio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-solve-windows-11-photos-app-crashes-effectively/"><u>2024 Approved How to Solve Windows 11 Photos App Crashes Effectively</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-cameos-catch-up-with-the-trendiest-trick/"><u>2024 Approved Snapchat Cameos Catch Up with the Trendiest Trick</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/brightening-dull-cursors-in-uefi/"><u>Brightening Dull Cursors in UEFI</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/essential-tech-for-new-channel-launches/"><u>Essential Tech for New Channel Launches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-and-optimize-windows-audios-with-up-to-date-drivers-guide/"><u>Revive and Optimize Windows Audios with Up-to-Date Drivers Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-motorola-edge-2023-by-drfone-android/"><u>Three Ways to Sim Unlock Motorola Edge 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-over-windows-updater-failure-x712/"><u>Winning Over Windows Updater Failure X712</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-the-battle-defeating-file-extraction-error-1152-in-windows/"><u>Winning the Battle: Defeating File Extraction Error 1152 in Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-speed-racers-remarkable-22-run/"><u>[New] 2024 Approved Speed Racers' Remarkable '22 Run</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlock-the-potential-of-youtube-videos-the-ultimate-chapter-addition-technique/"><u>[New] Unlock the Potential of YouTube Videos The Ultimate Chapter Addition Technique</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unleash-your-youtube-channels-full-potential-with-profitable-trailers/"><u>[Updated] Unleash Your YouTube Channels' Full Potential with Profitable Trailers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-closer-look-detailed-test-on-lg-ud88-w-oled-screen-for-2024/"><u>A Closer Look Detailed Test on LG UD88-W OLED Screen for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-steam-downloads-halting-speed-fluctuations/"><u>Enhance Steam Downloads: Halting Speed Fluctuations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-typing-adjusting-keyboards-on-windows-11-os/"><u>Enhance Typing: Adjusting Keyboards on Windows 11 OS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/exploring-best-stream-software-is-xsplit-outshining-obs/"><u>Exploring Best Stream Software - Is XSplit Outshining OBS?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/genuine-or-ghost-a-guide-to-spotting-windows-app-fraudsters/"><u>Genuine or Ghost? A Guide to Spotting Windows App Fraudsters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-seamlessly-observe-the-most-praised-youtube-comments/"><u>In 2024, How to Seamlessly Observe the Most Praised YouTube Comments</u></a></li>
+<li><a href="https://win11.techidaily.com/key-techniques-for-win10-blue-screen-resolution/"><u>Key Techniques for Win10 Blue Screen Resolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-pc-adobe-woes/"><u>Mastering Windows PC Adobe Woes</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-editing-like-a-pro-tips-and-tricks-for-sony-camcorder-video-editors/"><u>New In 2024, Editing Like a Pro Tips and Tricks for Sony Camcorder Video Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-onedrive-cloud-errors-in-windows-os/"><u>Resolving OneDrive Cloud Errors in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-silent-pc-audio-solutions-ready/"><u>Troubleshoot Silent PC Audio – Solutions Ready!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-convenience-the-elite-list-of-key-finders/"><u>Unlocking Convenience: The Elite List of Key Finders</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Secret Menu Secrets: Win11's Hidden Item Magic"
-date: 2025-01-09T22:21:48.017Z
-updated: 2025-01-12T17:26:51.837Z
+date: 2025-01-17T16:55:23.063Z
+updated: 2025-01-18T18:19:08.593Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a Hidden Items Option to the Context Menu With a Registry Script
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 ![The Extract Compressed (Zipped) Folder tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/extraction-utility.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Open the extracted hidden\_files\_context\_menu folder.
@@ -49,21 +49,17 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 ![The registry script's folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/registry-script-folder.jpg)
 3. Select **Yes** if a User Account Control prompt pops up.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click **Yes** within the Registry Editor dialog box that asks if you’re sure about continuing.  
 ![The Registry Editor confirmation prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/registry-script-confirmation-prompt.jpg)
 5. Select **OK** on the second dialog box that appears.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now bring up the root C: directory in File Explorer to try out the new **Hidden items** context menu option. Right-click anywhere inside that folder to select **Show more options** on Windows 11’s context menu and **Hidden items**. Selecting that option will reveal a few hidden folders in the root directory if that setting isn’t enabled already. Click the same option again to hide the folder and files again.
 
 ![The Hidden items option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hidden-items.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The **hidden\_files\_context\_menu** ZIP archive also includes another registry script for removing the context menu. So, you don’t need to manually edit the registry to remove the **Hidden items** context menu. Running the **Undo hidden files in context menu** script will do the job for you.
 
@@ -89,7 +85,11 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 ![The Toggle File Visibility submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-file-visibility-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Toggle Hidden Items On and Off From File Explorer’s Context Menu
@@ -108,20 +108,24 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-elevating-content-strategy-through-youtube-metrics-for-2024/"><u>[Updated] Elevating Content Strategy Through YouTube Metrics for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-ways-to-open-the-display-settings-in-windows-11/"><u>10 Ways to Open the Display Settings in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-mastery-accessing-windows-admin-settings/"><u>Achieving Mastery: Accessing Windows Admin Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-domain-services-printer-errors-win11-tips-and-tricks/"><u>Addressing Domain Services Printer Errors: Win11 Tips & Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-discord-updates-and-autostart-on-windows-10/"><u>Avoid Discord Updates & Autostart on Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-efficiency-using-powertoys-copy-pasting-features/"><u>Boost Efficiency: Using PowerToys' Copy-Pasting Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-guide-to-the-best-automated-robotic-vacuums-in-depth-tests-and-analysis-by-industry-experts-zdnet/"><u>Exclusive Guide to the Best Automated Robotic Vacuums: In-Depth Tests & Analysis by Industry Experts - ZDNET</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-enthusiastic-presentation-appraisal-version-08/"><u>In 2024, Enthusiastic Presentation Appraisal, Version 08</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s17e-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S17e Phone FRP Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keys-disobey-command/"><u>Keys Disobey Command</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-decline-of-chatgpt-hacks-7-key-factors-explained/"><u>Understanding the Decline of ChatGPT Hacks: 7 Key Factors Explained</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/understanding-windows-11-arm-variant-comparison-with-standard-windows/"><u>Understanding Windows 11 ARM Variant – Comparison with Standard Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-future-of-computing-with-a-review-on-the-raspberry-pi-400/"><u>Unpacking the Future of Computing with a Review on the Raspberry Pi 400</u></a></li>
-<li><a href="https://win11.techidaily.com/1719326965126-unravel-windows-troubles-step-by-step-support-guide/"><u>Unravel Windows Troubles: Step-by-Step Support Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719341599288-windows-chatbot-simulation-localize-for-free-with-gpt4all/"><u>Windows ChatBot Simulation: Localize for Free with GPT4All</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-flight-pioneers-face-off-dji-vs-gopro/"><u>[New] In 2024, Flight Pioneers Face Off DJI vs GoPro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-harnessing-the-power-of-imagery-for-engaging-fb-slideshows-for-2024/"><u>[Updated] Harnessing the Power of Imagery for Engaging FB Slideshows for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-vivo-s18-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Vivo S18 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/access-denied-tips-and-fixes-for-onedrive-on-windows-pcs/"><u>Access Denied? Tips and Fixes for OneDrive on Windows PCs</u></a></li>
+<li><a href="https://fox-search.techidaily.com/embark-on-your-digital-journey-with-msix-enhanced-product-selection-conversations/"><u>Embark on Your Digital Journey with MSIX-Enhanced Product Selection Conversations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-resolving-application-launch-halt-due-to-qt-deficiency/"><u>Guiding Through Resolving Application Launch Halt Due to Qt Deficiency</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-a-detailed-study-of-vsdcs-screen-capture-prowess-and-competing-products/"><u>In 2024, A Detailed Study of VSDC's Screen Capture Prowess & Competing Products</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-13-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and iPhone 13 The Right Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win11-quick-access-to-mouse-settings/"><u>Navigating Win11: Quick Access to Mouse Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-fixing-system-crashes-in-windows-based-offices/"><u>Quick Guide to Fixing System Crashes in Windows-Based Offices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/rapid-bengali-lessons-daily/"><u>Rapid Bengali Lessons (Daily)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-the-secrets-of-windows-11s-hidden-themes-via-regedit/"><u>Revealing the Secrets of Windows 11'S Hidden Themes via Regedit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shaping-the-look-of-your-systems-point-of-interest/"><u>Shaping the Look of Your System's Point-of-Interest</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/strategies-for-effectively-swapping-gender-identity-in-digital-media-images/"><u>Strategies for Effectively Swapping Gender Identity in Digital Media Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surface-studio-2-review-closer-to-the-pinnacle-of-productivity/"><u>Surface Studio 2 Review: Closer to the Pinnacle of Productivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-insiders-guide-to-low-cost-windows-11-licenses/"><u>The Insider's Guide to Low-Cost Windows 11 Licenses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-silent-screencast-feedback-in-powerpoint/"><u>Troubleshooting Silent Screencast Feedback in PowerPoint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-toolkit-top-10-msistore-powerhouses/"><u>Ultimate Toolkit: Top 10 MSIStore PowerHouses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-quicktime-the-complete-guide-to-apples-media-player/"><u>Understanding QuickTime: The Complete Guide to Apple's Media Player</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Controller Connection: PlayStation 3 on Windows"
-date: 2025-01-10T17:22:24.550Z
-updated: 2025-01-13T02:42:37.383Z
+date: 2025-01-11T18:29:27.728Z
+updated: 2025-01-18T18:09:49.524Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is DsHidMini?
 
  DsHidMini is an open-source solution for connecting and configuring many types of joypads to a PC. As such, if you have your old PS3 or PS4 DualShock controllers around, why not put them to use with this app?
 
  DsHidMini enables your PC to recognize them and provides XInput emulation. With Xinput being the modern standard for joypads under Windows, you'll be able to use your PlayStation controller with most modern games.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Getting the Necessary Software for Using Your PS3 Controller on a PC
 
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 ![DsHidMini GitHub Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshidmini-github-page.jpg)
 2. Do the same with a visit at[BthPS3's GitHub page](https://github.com/ViGEm/BthPS3) .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![BthPS3 GitHub Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bthps3-github-page.jpg)
 3. In both cases, you'll find the downloadable files by clicking on the link under**Installation** , then checking out the links under**Assets** . Most people should go for the x64 versions. If you're still using an older 32-bit version of Windows, get the x86 files.  
 ![BthPS3 GitHub Assets Links](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bthps3-github-assets-links.jpg)
@@ -61,25 +57,30 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 ![BthPS3 Installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bthps3-installation.jpg)
 5. After BthPS3's successful installation, you'll see it as a new device under the**Bluetooth** category in**Device Manager** . The easiest way to access the Device Manager is by using the**Windows Key** +**X** shortcut and selecting it from the menu that shows up.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![BthPS3 Installed Bluetooth Driver in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bthps3-installed-bluetooth-driver-in-device-manager.jpg)
 6. DsHidMini's installation is a tad more complicated since it comes in a compressed archive. Open**Windows File Explorer** , and pay a visit to the folder where you saved DsHidMini's downloaded archive. All modern versions of Windows support the ZIP archive format, so you can right-click on the file and choose**Extract** . However, we used WinRAR instead simply because we had it installed, and it's somewhat faster. In both cases, the result is the same.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Extracting DsHidMini Archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extracting-dshidmini-archive.jpg)
 7. Look inside the extracted archive's folder, and you'll see two more folders:**x64** and**x86** . Enter the one matching your Windows architecture. As mentioned above, most people nowadays should go for**x64** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![DsHidMini Extracted Archive Contents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshidmini-extracted-archive-contents.jpg)
 8. Inside that folder, you'll find another subfolder named**dshidmini** . Enter that one, too.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![DsHidMini Extracted Archive Contents x64](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshidmini-extracted-archive-contents-x64.jpg)
 9. Right-click on the**dshidmini.inf** file, and choose**Install** from the menu that shows up. When that step completes, install the**igfilter.inf** the same way.  
 ![DsHidMini Extracted Archive Contents x64 dshidmini inf install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshidmini-extracted-archive-contents-x64-dshidmini-inf-install.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Theoretically, that's everything you need for your DualShock to work with your PC. Practically, as is Windows' tradition, it wouldn't hurt to restart once to ensure the drivers are correctly installed, activated, and work as they should.
 
@@ -92,20 +93,20 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 ![DSHMC.exe File In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshmc-exe-file-in-file-explorer.jpg)
 3. You should see your "PlayStation controller" detected on the left side of the app's window. Now, if you run Steam with its outstanding controller support, it should detect and configure your joypad for use in modern games. As for wireless? Unplug the cable, and your joypad should keep working as if nothing happened.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![DSHMC.exe Controller Detected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshmc-exe-controller-detected.jpg)
 4. DsHidMini will have your controller recognized as an**XInput** device by default to maximize compatibility with modern software. But what if you want to use it on an older title that uses the older**DirectInput** standard or to have emulators like PPSSPP, PCSX2, and RPCS3 recognize it as an actual PlayStation controller? Close DSHMC.exe, then right-click on it and re-run it, but this time choose**Run as Administrator** . When its window shows up again, click on your controller on the left, and you'll see more details about it on the right and some options you can tweak.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![DSHMC Configuration As Admin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshmc-configuration-as-admin.jpg)
 5. You can change the HID device mode from**XInput** to another mode compatible with the software where you want to use your controller. You can also tweak its**Idle disconnect** period or define after how much time of inactivity the controller should disconnect and turn off.  
 ![DSHMC Change HID Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshmc-exe-change-hid-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Remove Remnants of Old Drivers
 
@@ -134,7 +135,7 @@ sc delete Ds3Service`
  Afterward, exit the app, restart your PC, and let Windows re-detect any hardware and install the default drivers. Then, repeat the steps we covered above to install BthPS3 and DsHidMini from scratch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Your PS3 DualShock in Games
@@ -166,24 +167,17 @@ sc delete Ds3Service`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-dive-into-vlogging-your-first-set-of-tools/"><u>[New] Dive Into Vlogging Your First Set of Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamer-friendly-video-capture-apps/"><u>[New] In 2024, Gamer-Friendly Video Capture Apps</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unleash-the-potential-of-your-webcam-for-slideshows/"><u>[Updated] 2024 Approved Unleash the Potential of Your Webcam for Slideshows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-steams-file-lock-error-and-fixes/"><u>Deciphering Steam’s File Lock Error and Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/defeat-fixed-menus-in-windows-your-ultimate-guide/"><u>Defeat Fixed Menus in Windows: Your Ultimate Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradication-of-windows-update-malfunction-error-0x80246007/"><u>Eradication of Windows Update Malfunction: Error 0X80246007</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-14-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi 14 Prowith/without a PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-y78t-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo Y78t For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-poco-c51-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Poco C51 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-the-stumbling-block-fixing-the-missing-wwinplusprint-on-pc/"><u>Overcome The Stumbling Block: Fixing the Missing WWin+Print on PC.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-try-connecting-bluetooth-failures-on-windows-11-os/"><u>Overcoming 'Try Connecting' Bluetooth Failures on Windows 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-odbc-interface/"><u>Step-by-Step Guide to Windows ODBC Interface</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-circumvent-no-more-files-alert/"><u>Strategies to Circumvent No More Files Alert</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-science-of-choosing-music-for-movie-previews-for-2024/"><u>The Science of Choosing Music for Movie Previews for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-unwavering-7-advantages-keeping-me-hooked-on-conventional-tv-despite-smart-technology/"><u>The Unwavering 7 Advantages Keeping Me Hooked on Conventional TV Despite Smart Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-utilizing-windows-11s-restore-procedures/"><u>Understanding and Utilizing Windows 11'S Restore Procedures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-the-past-adding-trophies-and-awards-to-classic-titles-using-retroarch/"><u>Upgrade the Past - Adding Trophies and Awards to Classic Titles Using Retroarch</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/usb-backup-for-synology-network-attached-storage-nas-across-windows-os-versions/"><u>USB Backup for Synology Network Attached Storage (NAS) Across Windows OS Versions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-does-a-crossed-out-icon-mean-for-your-files/"><u>What Does a Crossed Out Icon Mean for Your Files?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-expert-guide-downloading-and-converting-vimeo-video-mp4/"><u>[New] 2024 Approved Expert Guide Downloading and Converting Vimeo Video (MP4)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fabricate-funny-images-on-giphy/"><u>[New] Fabricate Funny Images on Giphy</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-premiere-e-lecture-label-lever-for-2024/"><u>[Updated] Premiere E-Lecture Label Lever for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cele-mai-populari-convertitorii-de-video-gratuti-mkv-in-mp4-format-compatibile-cu-windows-si-mac-treiste-o-vizibilitate-mai-mare/"><u>Cele Mai Populari Convertitorii De Video Gratuți, MKV in MP4 Format, Compatibile Cu Windows Și Mac - Treiște O Vizibilitate Mai Mare!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-transform-flac-files-into-m4a-format-with-ease-movavi/"><u>Free Online Converter: Transform FLAC Files Into M4A Format with Ease - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-identify-and-open-an-avi-file-a-comprehensive-guide/"><u>How To Identify and Open an AVI File: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-navigate-video-rotations-seamlessly-via-vlc/"><u>In 2024, Navigate Video Rotations Seamlessly via VLC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-navigating-the-world-of-srt-with-ease/"><u>In 2024, Navigating the World of SRT with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-chatgpt-how-this-innovative-tool-harnesses-the-power-of-generative-artificer-technology/"><u>Inside ChatGPT - How This Innovative Tool Harnesses the Power of Generative Artificer Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/kostenloze-omzetting-van-rmvb-naar-wmv-online-efficient-met-movavi/"><u>Kostenloze Omzetting Van RMVB Naar WMV Online - Efficiënt Met Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforma-tu-archivo-aif-a-formato-de-audio-m4a-sin-coste-alguno-con-el-servicio-online-de-convertidor-de-archivos/"><u>Transforma Tu Archivo AIF a Formato De Audio M4A Sin Coste Alguno Con El Servicio Online De Convertidor De Archivos</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728484766162-windows-11/"><u>Windows 11 磁碟損失隔離機制解除方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Purging Programs in a Nutshell - Windows 11 Edition (94 Chars)
-date: 2024-08-08T11:03:52.988Z
-updated: 2024-08-09T11:03:52.988Z
+date: 2025-01-15T16:54:07.454Z
+updated: 2025-01-18T17:56:19.815Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
  There are various ways you can uninstall software in Windows 11\. Most users will probably be familiar with Windows’ built-in "Programs and Features" uninstaller. However, utilizing that uninstaller is not necessarily the best way to remove software; and sometimes you might have to try different methods. These are seven ways you can remove software packages in Windows 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Uninstall Software in the Control Panel
 
  The Control Panel is the uninstallation method most users will likely be familiar with. The Control Panel includes the Programs and Features applet. That’s an applet with which you can uninstall desktop apps that run on computers with x86 system architecture.
@@ -34,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
 3. Click **OK** to bring up the Programs and Features window.
 4. Select a software package to remove.
 5. Click the **Uninstall** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![programs-and-features-applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/programs-and-features-applet.png)
 6. Then select **Yes** on any confirmation dialog boxes that might pop up.
 7. An uninstaller wizard for the software might then open. Go through that wizard to select the required uninstall options.
@@ -51,15 +48,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Select **Apps and features** to view a list of installed software.  
 ![The Apps & features tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/apps--features-in-settings.png)
 4. Click a three-dot button on the right side of an app to select **Uninstall**.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
-![uninstall-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/uninstall-option.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![uninstall-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/uninstall-option.png)
+
 ## 3\. Uninstall Software via the Start Menu
 
  The Start menu lists most of the desktop and UWP apps installed on your desktop or laptop. That menu provides handy context menu shortcuts for uninstalling software. These are the steps for removing software via the Start menu.
@@ -71,8 +66,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. If the software has a folder on the Start menu, click the folder to expand it. Then right-click the app in the folder to select its **Uninstall** option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Uninstall Software via File Explorer
 
  Many desktop software packages will have uninstall.exe files in their folders you can click to uninstall them with. To do so, you’ll need to find their uninstall.exe files within Explorer. This is how you remove software via File Explorer.
@@ -80,11 +76,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Press the **Win + E** key combination to open File Explorer.
 2. Open the installation folder for the software you need to uninstall. If you stick with default installation directories, it will probably be in the "Program Files" folder.
 3. Then have a look for an uninstall.exe file within the software folder.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The uninstall.exe file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/uninstallexe-file.png)
 4. Double-click the uninstall.exe to open an uninstall window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the required options in the uninstaller window to remove the software.
 
 ## 5\. Remove Software With the Command Prompt
@@ -108,9 +106,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 `product where name="Epic Games Launcher" call uninstall`
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Remove Software With PowerShell
 
  You can’t uninstall some built-in Windows UWP apps, such as Camera and Photos, in Settings. If you want to remove some of those built-in apps, you can do so with this PowerShell command-line method. Follow the steps below to uninstall software with PowerShell.
@@ -123,6 +118,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Find the app you want to uninstall in the list, and note down the PackageFullName specified for it. You can copy the PackageFullName by selecting its text and pressing the **Ctrl + C** hotkey.  
 ![The Get-AppxPackage command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/get-appxpackage-command.png)
 6. Then input this uninstall app command and press **Return**:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Remove-AppxPackage [App Name]`
 
 ![The Remove-AppxPackage command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/remove-apppackage.png)
@@ -144,9 +144,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. To access the file finder utility, click **Search** on the taskbar or simultaneously press the **Windows** logo and **S** keys.
 2. Enter the name of the software you want to uninstall in the search tool.
 3. Click the **Uninstall** option for the matching software search result.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Uninstall option in Windows 11's search tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-uninstall-option-in-the-search-tool.jpg)
 4. If the software you want to install isn’t the best match, right-click its search result and select **Uninstall**.
 
@@ -154,15 +151,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Many users install games with gaming clients, such as Steam and Epic Games Launcher. If you’ve installed a game with a gaming client, you can also uninstall it with the same software. You can do so by selecting the uninstall option for a game within the client software. This [how-to-uninstall Steam games article](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) tells you how to remove games within Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/uninstall-option-in-epic-games.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. How to Uninstall Software With Registry Editor and Run
 
  Utilizing the Registry Editor for removing software packages is not something many users will consider. However, you can remove software by entering the UninstallString values for them shown in the registry into Run. It might be necessary to sometimes utilize this method to remove software packages for which uninstall errors occur. This is how you can uninstall software with the Registry Editor and Run apps:
@@ -173,17 +171,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Select a key with a name that matches the software you want to install.
 4. Double-click **UninstallString** to bring up a window for editing the string.
 5. Select the text in the **Value data** box and press **Ctrl** \+ **C** to copy.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The value data for an UninstallString](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-uninstallstring-string.jpg)
 6. Click **OK** on the **Edit String** window and close the Registry Editor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Next, you’ll need to start the Run dialog, which has a convenient **Windows** logo + **R** hotkey.
 8. Click in Run’s **Open** box and press **Ctrl** \+ **V** to paste in the copied value for the **UninstallString**.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![The Run dialog that includes an UninstallString value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-run-dialog.jpg)
 9. Press **OK** to bring up an uninstall window for the software.
 10. Select to uninstall the software from there.
@@ -193,8 +189,9 @@ The ultimate burning program for all your needs!</a>
 ![The value data for a DisplayName string](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-displayname-string-value.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11\. Uninstall Software via the Context Menu
 
  Uninstalling software via the right-click context menu is a convenient way to remove programs. The only thing is File Explorer doesn’t include a context menu option for uninstalling software. However, you can add a context menu option for uninstalling programs with software like Windows Uninstaller and IObit Uninstaller. Check out this [guide to adding uninstall shortcuts to the context menu](https://www.makeuseof.com/how-to-add-uninstall-shortcut-context-menu-windows-11-10/) for further details.
@@ -209,11 +206,28 @@ The ultimate burning program for all your needs!</a>
 
  There are various ways you can uninstall software in Windows 11\. Most users will probably be familiar with Windows’ built-in "Programs and Features" uninstaller. However, utilizing that uninstaller is not necessarily the best way to remove software; and sometimes you might have to try different methods. These are seven ways you can remove software packages in Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-merchandising-strategies-a-tool-to-amplify-youtube-views/"><u>[Updated] In 2024, Merchandising Strategies A Tool to Amplify YouTube Views</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-your-youtube-videos-viewer-count/"><u>[Updated] Maximizing Your YouTube Video's Viewer Count</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-making-every-photo-on-iphone-blurry-with-4-tricks-up-your-sleeve/"><u>2024 Approved Making Every Photo on iPhone Blurry with 4 Tricks Up Your Sleeve</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-your-commands-making-terminal-default/"><u>Elevating Your Commands: Making Terminal Default</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-get-your-asus-tablets-touchscreen-drivers-up-and-running-in-windows-11/"><u>Fast Track: Get Your ASUS Tablet's Touchscreen Drivers Up and Running in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-revive-nonworking-google-nearby-share-on-pc/"><u>How To Revive Nonworking Google Nearby Share on PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-a56s-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-seedling-selections-a-farmers-best-game-gems/"><u>In 2024, Seedling Selections A Farmer's Best Game Gems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-online-efficiency-an-in-depth-guide-to-copernics-desktop-and-cloud-search-tools/"><u>Mastering Online Efficiency: An In-Depth Guide to Copernic's Desktop and Cloud Search Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/perfect-your-presence-with-solo-video-setups-and-techniques/"><u>Perfect Your Presence with Solo Video Setups and Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/prime-pc-idle-gaming-selections-for-2024/"><u>Prime PC Idle Gaming Selections for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-stop-vmware-blue-screen-errors-on-win11/"><u>Steps to Stop VMware Blue Screen Errors on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-solutions-to-windows-obs-studio-non-launch-problems/"><u>Unveiling Solutions to Windows OBS Studio Non-Launch Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-tips-discovering-and-eliminating-blank-folder-clutter/"><u>Windows Tips: Discovering & Eliminating Blank Folder Clutter</u></a></li>
+</ul></div>
+

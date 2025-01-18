@@ -1,7 +1,7 @@
 ---
 title: The Essentials of Boot Into Windows Repair
-date: 2024-08-08T11:01:33.252Z
-updated: 2024-08-09T11:01:33.252Z
+date: 2025-01-14T17:21:08.214Z
+updated: 2025-01-18T17:29:10.245Z
 tags:
   - windows10
   - windows11
@@ -21,11 +21,16 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
  We have looked over a host of different ways to access the tool. So, let’s look at all of them one by one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Open Startup Repair Using the Settings App
 
  This is the easiest way to go about launching the Startup Repair tool on Windows. So we will lay out this method first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Use the Windows 11 Settings App
 
@@ -42,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
  And that’s it. As soon as you click on the above option, the Startup Repair tool will be launched right then and there.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Use the Windows 10 Settings App
 
  While the basic structure of opening Startup Repair on Windows 10 remains the same, the particular instructions on the screen will be slightly different. So, here's how you can launch Startup Repair on Windows 10:
@@ -63,16 +69,10 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
  That’s it; your PC will be restarted from here, and you will be then taken to the **Win RE** menu. From there, follow the above steps from method one and click on **Advanced Options > Startup Repair**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![advanced options on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-options-on-windows.jpg)
 
  The Startup Repair tool will be launched from here.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the Startup Repair From BIOS
 
  If you have an installation media, using or opening the Startup Repair tool won’t be too much of a struggle. Just plug in the USB stick containing the installation media and start your PC from the ground up.
@@ -86,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
  The Startup Repair tool will be launched from here, and it will look up and fix any issues it finds on your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Use the Command Prompt
 
  The Command Prompt is a free Windows utility that lets you manage your Windows settings and things in a way that makes using Windows a breeze.
@@ -103,20 +100,23 @@ shutdown /r /o
 
  As soon as you hit **Enter**, your PC will be restarted in the **Advanced Startup Options** menu; you can then select the **Startup Repair** option from there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Use the F11 Shortcut Key During Boot
 
  Sometimes, simply hitting the **F11** key repeatedly during the boot-up can take you to the **Advanced Options** menu on many computers. So, make sure you give this a go as well. From there, you can easily access the **Windows Startup Options** tool.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Opening the Startup Repair Tool on a Windows PC
 
  Like almost everything on Windows, there are many ways to open the Startup Repair tool on Windows. So even if one way of opening the tool doesn’t work, you have the others to try out.
 
  We have looked over a host of different ways to access the tool. So, let’s look at all of them one by one.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -124,3 +124,27 @@ shutdown /r /o
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-tiny-tranquil-houses-japanese-style/"><u>[Updated] In 2024, Tiny Tranquil Houses Japanese Style</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-pinnacle-video-artist-audio-visual-choreography/"><u>[Updated] Pinnacle Video Artist Audio-Visual Choreography</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-viewing-several-youtube-videos-concurrently/"><u>[Updated] The Art of Viewing Several Youtube Videos Concurrently</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-easily-design-appealing-visual-landing-pages-with-massmail-tools/"><u>1. Easily Design Appealing Visual Landing Pages with MassMail Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/earnings-explored-microsoft-and-its-windows-11-model/"><u>Earnings Explored: Microsoft & Its Windows 11 Model</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-photo-capture-file-creation-failed-camera-app-error-on-windows-10-and-11/"><u>How to Fix the “Photo Capture File Creation Failed” Camera App Error on Windows 10 & 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-network-visibility-controls-for-windows-11-users/"><u>Mastering Network Visibility Controls for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-free-windows-efficient-update-tips/"><u>Online-Free Windows: Efficient Update Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-icon-cache-via-command-line/"><u>Optimizing Icon Cache via Command Line</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-non-detectable-disk-error/"><u>Overcoming Non-Detectable Disk Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-resolution-quick-tips-for-a-stable-wwe-gameplay/"><u>Rapid Resolution: Quick Tips for a Stable WWE Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-windows-photo-viewer-essential-tips-for-11-users/"><u>Reactivating Windows Photo Viewer: Essential Tips for 11 Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-c67-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme C67 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014736288-restart-your-battle-cry-resolve-the-no-sound-dilemma-in-hearthstone-asap/"><u>Restart Your Battle Cry: Resolve the No Sound Dilemma in Hearthstone ASAP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shifting-onedrive-folder-a-windows-10-guide/"><u>Shifting OneDrive Folder: A Windows 10 Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-integrating-protonvpn-into-your-browsing-with-a-free-chrome-addon/"><u>Step-by-Step Guide: Integrating ProtonVPN Into Your Browsing with a Free Chrome Addon</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/synchronize-your-surfing-master-multi-video-youtube-use/"><u>Synchronize Your Surfing Master Multi-Video YouTube Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-enigma-of-extraneous-edges-processes/"><u>The Enigma of Extraneous Edges Processes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-latest-hit-a-guide-to-todays-top-8-online-videos-for-2024/"><u>The Latest Hit A Guide to Today's Top 8 Online Videos for 2024</u></a></li>
+</ul></div>
+

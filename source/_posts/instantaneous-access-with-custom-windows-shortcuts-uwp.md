@@ -1,7 +1,7 @@
 ---
 title: Instantaneous Access with Custom Windows Shortcuts (UWP)
-date: 2025-01-05T17:32:52.468Z
-updated: 2025-01-13T00:24:36.590Z
+date: 2025-01-11T17:41:28.217Z
+updated: 2025-01-18T18:10:01.189Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 
 ![The Link box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-link-box.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Create Desktop Shortcuts for UWP Apps From the Applications Folder
 
  Windows 11 has an accessible Applications folder that includes your installed UWP apps. You can select to create shortcuts for MS Store apps from that folder as follows:
@@ -43,13 +47,13 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 5. Select**Yes** when prompted to place a shortcut on the desktop.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Create Desktop Shortcuts for Pre-Installed UWP Apps With the Create Shortcut Wizard
@@ -89,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
  Incidentally, you can also create shortcuts with URIs for Settings pages much the same. Check out this[how to set up Settings page shortcuts](https://www.makeuseof.com/windows-11-shortcuts-for-settings-pages/) guide for further details.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Pin UWP Desktop Shortcuts to the Taskbar
@@ -98,11 +102,11 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 
 ![The Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pin-to-taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note that you can’t pin web document desktop shortcuts to the taskbar. The context menus for desktop shortcuts created with URI commands don’t include the**Pin to taskbar** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Assign Hotkeys to UWP App Desktop Shortcuts
 
@@ -113,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 3. Press a key to set up a**Ctrl** +**Alt** keyboard shortcut.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/shortcut-key-box.jpg)
 4. Select**Apply** \>**OK** to save the hotkey for the desktop shortcut.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Create Shortcuts for All Your Favorite UWP Apps
 
@@ -137,15 +137,17 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-frequency-capture-digital-sound-files/"><u>[New] Frequency Capture Digital Sound Files</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastermakers-in-av-production-top-5-list/"><u>[Updated] In 2024, Mastermakers in AV Production Top 5 List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-tutorial-on-windows-1011s-audio-upgrade/"><u>A Comprehensive Tutorial on Windows 10/11'S Audio Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-discrepancies-in-disk-based-discord-queries/"><u>Addressing Discrepancies in Disk-Based Discord Queries</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/assisting-with-utorrent-download-stalls-in-microsoft-environments/"><u>Assisting with uTorrent Download Stalls in Microsoft Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blueprints-for-crafting-safe-dialog-box-for-hardware-disconnect/"><u>Blueprints for Crafting Safe Dialog Box for Hardware Disconnect</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-arctis-7-crackling-sound-on-windows/"><u>How to Fix Arctis 7 Crackling Sound on Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-se-2020-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone SE (2020) Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-tropico-6-mastery-of-a-blissful-archipelago/"><u>In-Depth Look at Tropico 6 - Mastery of a Blissful Archipelago</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/unlocking-your-flipbooks-potential-how-to-track-data-through-google-analytics/"><u>Unlocking Your Flipbook's Potential: How to Track Data Through Google Analytics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-effortless-tips-for-storing-vimeo-videos/"><u>[New] Effortless Tips for Storing Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-from-setup-to-screening-wirecasts-role-in-facebook-streaming-for-2024/"><u>[New] From Setup to Screening Wirecast’s Role in Facebook Streaming for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-great-gopro-race-hero5-black-vs-hero4-silver-edition/"><u>[New] In 2024, The Great GoPro Race Hero5 Black V/S Hero4 Silver Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-choreographing-compelling-screen-trailers/"><u>2024 Approved Choreographing Compelling Screen Trailers</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013096854-black-screen-woes-with-oculus-link-solve-them-in-six-easy-ways/"><u>Black Screen Woes with Oculus Link? Solve Them in Six Easy Ways!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-visuals-in-windows-11-security-feature/"><u>Enhancing Visuals in Windows 11 Security Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-detection-of-razers-by-synapse-on-windows-operating-systems/"><u>Fixing Non-Detection of Razers by Synapse on Windows Operating Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-lava-agni-2-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Lava Agni 2 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-your-confirmation-steps-before-deleting-files/"><u>Managing Your Confirmation Steps Before Deleting Files</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ts-to-acquiring-free-audio-tracks-for-videos-for-2024/"><u>Secrets to Acquiring Free Audio Tracks for Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-handiwork-horizon-introducing-gpt-4/"><u>The Handiwork Horizon: Introducing GPT-4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-utility-of-galaxy-via-windows-11-a-dex-guide/"><u>Unlock the Full Utility of Galaxy via Windows 11: A DeX Guide</u></a></li>
 </ul></div>
 

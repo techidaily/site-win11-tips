@@ -1,7 +1,7 @@
 ---
 title: How to Enable Active Microphone Input for Live Recording, OBS & Windows 11
-date: 2025-01-07T23:02:00.027Z
-updated: 2025-01-12T19:25:12.453Z
+date: 2025-01-14T16:25:47.741Z
+updated: 2025-01-18T18:13:24.157Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart OBS Studio
 
  Before getting into advanced troubleshooting, consider restarting OBS Studio. The best way is to[launch the Task Manager](https://www.makeuseof.com/windows-open-device-manager/) and close all the OBS Studio-related processes.
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
 ![Run as admin option for OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-as-admin-option.jpg)
 4. Click**Apply** \>**OK** to save the settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Unmute OBS Studio in the Settings App
 
  OBS Studio will fail to record audio if it is muted in the Settings app. Here's how to check and change OBS Studio sound settings in the Settings app.
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
 
 Restart OBS Studio and check if the problem persists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Use the Correct Recording Device
 
  Windows allows you to manually choose recording and playback devices. But if you've chosen an incorrect recording device in Settings, then you're likely to face this issue. To fix this, you will have to configure the correct device as the default recording option. Here's how to do that:
@@ -78,7 +74,7 @@ Restart OBS Studio and check if the problem persists.
 5. Click**Apply** and then**OK.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Allow OBS Studio to Access Microphone
@@ -93,7 +89,19 @@ Restart OBS Studio and check if the problem persists.
 ![Microphone access option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microphone-access.jpg)
 4. Next, enable the toggle next to**Let desktop apps to access your microphone** option.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Allow desktop apps to access microphone option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-desktop-apps-to-access-microphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Change the OBS Studio Settings
 
@@ -109,10 +117,6 @@ Restart OBS Studio and check if the problem persists.
 ![Audio settings of OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audio-settings.jpg)
 6. Choose**Apply** \>**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7 . Adjust the Audio Mixer Settings
 
  The next solution on the list is to adjust the audio mixer settings of the OBS Studio. Here's how:
@@ -122,16 +126,12 @@ Restart OBS Studio and check if the problem persists.
 ![Adjusting dB in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-db.jpg)
 3. Click the three dots next to Mic/Aux and choose**Properties.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click the drop-down icon next to**Device,** select your default recording device and click**OK.**  
 ![Choosing correct Mic in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-correct-mic.jpg)
 5. Next, click the three dots next to Mic/Aux again and choose**Advanced Audio Properties.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Choosing Advanced properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-properties.jpg)
@@ -152,18 +152,18 @@ You can do that by following the below steps:
 4. Choose**Search automatically for drivers** option in the window that crops up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, allow Windows to search for and download any available driver updates for your recording device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Reinstall OBS Studio
 
  Are you still facing the issue? If yes, then there's something wrong with the OBS Studio installation file that's causing the problem. The only solution, in this case, is to reinstall the OBS Studio.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy Uninterrupted Recording Again on OBS Studio for Windows
 
@@ -186,21 +186,21 @@ You can do that by following the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-ultimate-guide-to-6-premier-linkedin-video-downloader-tools/"><u>[New] 2024 Approved The Ultimate Guide to 6 Premier LinkedIn Video Downloader Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-adding-podcasts-in-instagram-stories/"><u>2024 Approved The Art of Adding Podcasts in Instagram Stories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-windows-11-search-performance-with-these-key-methods/"><u>Boosting Windows 11 Search Performance with These Key Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/break-free-from-issues-restoring-windows-family-security/"><u>Break Free From Issues: Restoring Windows Family Security</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-gaps-in-computing-ai-for-windows-solutions/"><u>Bridging Gaps in Computing: AI for Windows Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-hardware-errors-windows-1110-guide/"><u>Bypassing Hardware Errors: Windows 11/10 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-usb-suspend-windows-11-guide/"><u>Bypassing USB Suspend: Windows 11 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-workspace-failures-fixing-office-errors-in-winos/"><u>Bypassing Workspace Failures: Fixing Office Errors in WinOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/choosing-effective-real-time-file-transfer-software-google-and-windows-options/"><u>Choosing Effective Real-Time File Transfer Software: Google & Windows Options</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-honor-x8b-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor X8b Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-lenovo-thinkphone-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Lenovo ThinkPhone to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/insider-tips-for-overcoming-the-notorious-bug-55amage-5573-in-call-of-duty-vanguard/"><u>Insider Tips For Overcoming The Notorious Bug 55Amage 5573 in Call of Duty: Vanguard</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/step-by-step-tutorial-engaging-in-a-call-on-snapchat/"><u>Step-By-Step Tutorial Engaging in a Call on Snapchat</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-performance-top-windows-11-strategies/"><u>Unlocking Performance Top Windows 11 Strategies</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-poco-f5-pro-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Poco F5 Pro 5G Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-best-frame-rate-selection-for-effective-slow-motion-capture/"><u>[Updated] 2024 Approved Best Frame Rate Selection for Effective Slow Motion Capture</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-privacy-focused-tools-for-unseen-story-watching/"><u>[Updated] 2024 Approved Privacy-Focused Tools for Unseen Story Watching</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-right-way-to-close-a-long-term-but-unneeded-linkedin-account/"><u>[Updated] 2024 Approved The Right Way to Close a Long-Term but Unneeded LinkedIn Account</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-a-list-hd-screen-recorders-for-optimal-performance/"><u>[Updated] A-List HD Screen Recorders for Optimal Performance</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-complete-handbook-to-securing-product-sponsorships-on-youtube-for-2024/"><u>[Updated] The Complete Handbook to Securing Product Sponsorships on Youtube for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambio-sin-costo-de-archivos-wav-a-flac-en-linea-con-movavi-convertidor-libre/"><u>Cambio Sin Costo De Archivos Wav a Flac en Línea Con Movavi - Convertidor Libre</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversor-libre-en-linea-webm-a-wav-con-movavi-herramienta-sin-coste/"><u>Conversor Libre en Línea: WEBM a WAV Con Movavi - Herramienta Sin Coste</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/discover-the-best-ways-to-change-your-videos-backdrop-tips-and-tricks-for-top-results/"><u>Discover the Best Ways to Change Your Video's Backdrop: Tips and Tricks for Top Results</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/filtragem-de-imagens-online-livre-com-o-conversor-rw2-do-movavi-sem-custo/"><u>Filtragem De Imagens Online Livre Com O Conversor RW2 Do Movavi - Sem Custo!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-wav-files-to-mp4-movavi-video-editor/"><u>Free Online Converter: Change WAV Files to MP4 - Movavi Video Editor</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/gamerecorder-gambit/"><u>GameRecorder Gambit</u></a></li>
+<li><a href="https://win-lab.techidaily.com/komplett-einfaches-verfahren-zum-kopieren-von-kleineren-auf-grossere-ssds-mit-windows-11/"><u>Komplett Einfaches Verfahren Zum Kopieren Von Kleineren Auf Größere SSDs Mit Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mpg-to-ogg-converter-top-free-web-based-tools-movevid/"><u>MPG to OGG Converter: Top Free Web-Based Tools - MoveVid</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformer-un-fichier-flac-au-format-mp4-gratuitement-sur-internet-convertisseur-rapide-et-efficace/"><u>Transformer Un Fichier FLAC Au Format MP4 Gratuitement Sur Internet - Convertisseur Rapide Et Efficace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wmv-vers-wma-conversion-virtuelle-and-gratuite-par-movavi/"><u>WMV Vers WMA Conversion Virtuelle & Gratuite Par Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/flv-wav-movavi/"><u>오픈소스 FLV-WAV 이동은? 최고의 무료 바이트 조작 도구 - Movavi</u></a></li>
 </ul></div>
 

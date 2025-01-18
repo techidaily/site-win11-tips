@@ -1,7 +1,7 @@
 ---
 title: Personalize Your Window Terminal with Colors
-date: 2025-01-05T19:22:31.170Z
-updated: 2025-01-13T01:11:36.673Z
+date: 2025-01-14T17:58:07.775Z
+updated: 2025-01-18T16:57:15.949Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Edit a Color Scheme in Windows Terminal?
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 3. On the left side menu, select**Color Schemes** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click on the**dropdown menu** in the right panel and select the color scheme you want to edit.
@@ -48,15 +48,11 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 ![the windows terminal color schemes page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-color-scheme.jpg)
 6. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value in the text box below. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the color completely.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![the color editor for a color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-edit-scheme-color.jpg)
 7. When you’re done, click**Save** in the bottom right corner to save your changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Create a Color Scheme in Windows Terminal?
@@ -88,11 +84,15 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 ![the additional settings of a profile in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-additional-settings.jpg)
 5. In the**Text** section, click on the**dropdown** next to**Color scheme** and select the edited or custom color scheme that you want to apply.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![changing the color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/change-color-scheme-windows-terminal.jpg)
 6. When you’re done, click**Save** in the bottom right corner to save your changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Customizing Color Schemes in Windows Terminal Is Easy
@@ -114,22 +114,19 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-unveiling-the-most-accessible-high-quality-video-modification-sites/"><u>[New] In 2024, Unveiling the Most Accessible, High-Quality Video Modification Sites</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-inter-app-playlist-exchange-made-simple/"><u>[New] Inter-App Playlist Exchange Made Simple</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-speedy-solutions-snapshots-of-slideshows-for-2024/"><u>[Updated] Speedy Solutions Snapshots of Slideshows for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-pairing-your-camera-gimbal/"><u>2024 Approved Step-by-Step Guide to Pairing Your Camera Gimbal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-essential-fixes-for-unresponsive-windows-family-safety/"><u>5 Essential Fixes for Unresponsive Windows Family Safety</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-compelling-arguments-why-windows-11-eclipses-macos/"><u>6 Compelling Arguments Why Windows 11 Eclipses macOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-gmaps-installation-on-pc/"><u>A Step-by-Step Approach to GMaps Installation on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-microsoft-edge-fix-for-w10w11/"><u>Accelerate Your Microsoft Edge: Fix for W10/W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-playstation-services-hiccup-on-windows/"><u>Addressing PlayStation Services Hiccup on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-workflow-experts-choice-for-the-top-8-windows-pomodoros/"><u>Boost Workflow: Expert's Choice for the Top 8 Windows Pomodoros</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-virtualization-turning-on-hyper-v-for-win-11/"><u>Boosting Virtualization: Turning On Hyper-V for Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719278644350-briefly-explain-what-cultural-relativism-means-in-your-own-words/"><u>Briefly Explain What Cultural Relativism Means in Your Own Words</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conversion-de-videos-en-lignes-changer-des-fichier-mov-en-format-asf-gratuitement-via-movavi-instructions-simplifiees/"><u>Conversion De Vidéos en Lignes : Changer Des Fichier MOV en Format ASF Gratuitement via Movavi - Instructions Simplifiées</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-12-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 12</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/instant-deal-celestial-screen-refresher/"><u>Instant Deal: Celestial Screen Refresher</u></a></li>
-<li><a href="https://win-bits.techidaily.com/the-best-selection-of-2022-enhancing-your-cv-with-stunning-smartphone-images/"><u>The Best Selection of 2022: Enhancing Your CV with Stunning Smartphone Images</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-solving-fallout-4s-pc-hanging-issues/"><u>Troubleshooting Tips: Solving Fallout 4'S PC Hanging Issues</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-transforming-your-reel-game-on-instagram-in-days/"><u>[New] In 2024, Transforming Your Reel Game on Instagram in Days</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-monitors-download-and-instal-drivers-effortlessly-and-save-time/"><u>ASUS Monitors: Download & Instal Drivers Effortlessly and Save Time.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-insignia-vga-usb-converter-software-installed-effortlessly/"><u>Get the Latest Insignia VGA-USB Converter Software Installed Effortlessly!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-reno-11f-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-infinix-note-30-vip-racing-edition-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Infinix Note 30 VIP Racing Edition Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-system-restore-in-windows-11-a-comprehensive-guide/"><u>Navigating System Restore in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/notion-ai-vs-chatgpt-which-is-the-best-generative-ai-tool/"><u>Notion AI Vs. ChatGPT: Which Is the Best Generative AI Tool?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-bluetooth-pairing-issues-on-windows-11/"><u>Overcoming Bluetooth Pairing Issues on Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oppo-reno-11f-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo Reno 11F 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-jvm-setup-issue-on-microsoft-os/"><u>Resolving JVM Setup Issue on Microsoft OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-artisans-choice-a-curated-list-of-the-8-premier-drawing-apps-for-iphones/"><u>The Artisan’s Choice A Curated List of the 8 Premier Drawing Apps for iPhones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windowsnotepadlightoffcommand/"><u>WindowsNotepadLightOffCommand</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-with-warmth-fixing-color-conflicts-on-pcs/"><u>Winning with Warmth: Fixing Color Conflicts on PCs</u></a></li>
 </ul></div>
 

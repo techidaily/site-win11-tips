@@ -1,7 +1,7 @@
 ---
 title: Remote Repair Techniques for Non-Responsive PC Links
-date: 2025-01-08T00:41:24.652Z
-updated: 2025-01-13T02:14:27.340Z
+date: 2025-01-15T18:41:43.433Z
+updated: 2025-01-18T17:17:32.357Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disable Your Antivirus and Firewall
@@ -47,15 +47,11 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 ![the google chrome menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-google-chrome-menu.jpg)
 3. On the left side menu, select **Reset settings**, and then click on **Reset settings to their original defaults** on the right.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![the reset settings page of google chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-reset-settings-page-of-google-chrome.jpg)
 4. In the pop-up, confirm you want to reset Chrome by clicking on **Reset settings**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![the pop up to reset settings in google chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-reset-settings-in-google-chrome.jpg)
@@ -66,17 +62,18 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 ![the three dot icon in microsoft edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-three-dot-icon-in-microsoft-edge.jpg)
 2. In the menu, click on **Settings**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![the microsoft edge menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-microsoft-edge-menu.jpg)
 3. On the left side menu, select **Reset settings**, and then click on **Restore settings to their default values** on the right.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the reset settings page of microsoft edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-reset-settings-page-of-microsoft-edge.jpg)
 4. In the pop-up, confirm you want to reset Edge by clicking on **Reset**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![the pop up to reset settings in microsoft edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-reset-settings-in-microsoft-edge.jpg)
@@ -90,11 +87,19 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 ![the firefox menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-firefox-menu.jpg)
 3. Click on **More troubleshooting information**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the firefox help menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-firefox-help-menu.jpg)
 4. In the small panel on the right side, click on **Refresh Firefox**.  
 
 ![the troubleshooting information page of firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-troubleshooting-information-page-of-firefox.jpg)
 5. In the pop-up, confirm you want to reset Firefox by clicking on **Refresh Firefox**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![the pop up to reset settings in firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-reset-settings-in-firefox.jpg)
 
@@ -110,18 +115,10 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 ![Opening CMD as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/opening-CMD-as-administrator.jpg)
 2. Type the following command in Command Prompt and then press **Enter**:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ipconfig/release
 3. Next, type the following command and press **Enter**:  
 ipconfig/renew  
 ![resetting and renewing an ip address in command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/reseting-and-renewing-an-ip-address-in-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you finish running the commands, check to see if the error is gone.
 
@@ -138,12 +135,12 @@ ipconfig/renew
 ![the connections tab in internet properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-connections-tab-in-internet-properties.jpg)
 4. In the **Proxy server** section, uncheck the **Use a proxy server for your LAN** checkbox.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the lan settings page on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-lan-settings-page-on-windows.jpg)
 5. Click **OK** to close LAN Settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click **OK** in Internet Properties to apply the changes and close it.
 
@@ -154,6 +151,10 @@ ipconfig/renew
  If you have made changes to your proxy server settings, it could be that some group policies have not had time to register and consolidate those changes.
 
  While they will eventually refresh on their own and start working as expected, you can speed the process along by [manually refreshing the Local Group Policy Editor](https://www.makeuseof.com/window-refresh-group-policy-settings/). Then, try and see if the error is gone afterward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get to the Bottom of What's Interfering With the Connection
 
@@ -173,18 +174,24 @@ ipconfig/renew
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-techniques-for-straightening-aerial-video-stability/"><u>[New] 2024 Approved Techniques for Straightening Aerial Video Stability</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-top-10-best-free-online-screen-recorders-for-2024/"><u>[New] Top 10 Best Free Online Screen Recorders for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-advanced-mobiles-for-crafting-perfect-dji-videos/"><u>[Updated] Advanced Mobiles for Crafting Perfect DJi Videos</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-logitech-c925ehd-usb-webcam-driver-for-windows-pc/"><u>Download Logitech C925EHD USB Webcam Driver for Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easing-privilege-restrictions-for-windows-installer-success/"><u>Easing Privilege Restrictions for Windows Installer Success</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-the-underutilized-tools-for-system-monitoring/"><u>Exploring the Underutilized Tools for System Monitoring</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-tecno-pop-8-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Tecno Pop 8</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-gionee-f3-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Gionee F3 Pro Phone Screen?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-remedies-for-overcome-freezing-glitches-on-apple-devices/"><u>Quick Remedies for Overcome Freezing Glitches on Apple Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-the-situation-when-another-software-overrides-speakers/"><u>Remedying the Situation When Another Software Overrides Speakers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-link-failures-spotify-in-windows-11-environments/"><u>Resolving Link Failures: Spotify in Windows 11 Environments</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-chargers-comprehensive-reviews-by-industry-experts-techradar/"><u>Top-Rated Portable Chargers - Comprehensive Reviews by Industry Experts | TechRadar</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-efficient-communication-5-no-cost-ai-utilities-to-compose-elite-emails-using-chatgpt-and-summarize-messages/"><u>Unleash Efficient Communication: 5 No-Cost AI Utilities to Compose Elite Emails Using ChatGPT & Summarize Messages</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-launching-a-lucrative-channel-youtubes-most-accessible-biz-setups/"><u>[New] 2024 Approved Launching a Lucrative Channel YouTube's Most Accessible Biz Setups</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-essential-techniques-for-downloading-fb-stories-desktop-and-mobile/"><u>[New] Essential Techniques for Downloading FB Stories (Desktop & Mobile)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-boost-production-with-final-cut-pros-top-10-tools/"><u>[New] In 2024, Boost Production with Final Cut Pro's Top 10 Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-screentogif-facebook-mobile-video-for-2024/"><u>[New] ScreenToGif Facebook Mobile Video for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-find-hotspots-for-online-video-dialogue/"><u>[Updated] 2024 Approved Find Hotspots for Online Video Dialogue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-primer-on-dynamic-visual-expression/"><u>[Updated] A Primer on Dynamic Visual Expression</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-exclusive-android-3d-video-enthusiasts-choice/"><u>[Updated] Exclusive Android 3D Video Enthusiasts' Choice</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unlimited-picture-pools-the-best-10-resources-for-2024/"><u>[Updated] Unlimited Picture Pools The Best 10 Resources for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3gp-flv-movavi/"><u>変換器で3GP FLVフォーマットを自由にオンラインで変更する - Movaviの専用ツール</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-mov-files-into-mxf-format-for-free-with-movavis-web-application/"><u>Convert MOV Files Into MXF Format for Free with Movavi's Web Application</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-visitor-engagement-using-data-driven-insights-from-cookiebot-systems/"><u>Enhance Visitor Engagement Using Data-Driven Insights From Cookiebot Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-wma-to-ogg-converter-movavis-easy-online-tool/"><u>Free WMA to OGG Converter - Movavi's Easy Online Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-paso-a-paso-modificar-la-tasa-de-bits-en-audios-convertidor-mp3/"><u>Guía Paso a Paso: Modificar La Tasa De Bits en Audios - Convertidor MP3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-obss-virtual-cameras-a-complete-walkthrough-for-content-creators/"><u>Mastering OBS's Virtual Cameras : A Complete Walkthrough for Content Creators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-gratuite-conversion-de-fichiers-jpeg-avec-movavi-services-complets-et-efficaces/"><u>Online Gratuite Conversion De Fichiers Jpeg Avec Movavi - Services Complets Et Efficaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ricodifica-mp4-in-mjpeg-gratuita-online-con-convertitore-video-movavi/"><u>Ricodifica MP4 in MJPEG Gratuita Online Con Convertitore Video - Movavi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-guide-to-live-streaming-on-facebook-for-2024/"><u>The Ultimate Guide to Live Streaming on Facebook for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ts-avi-avi-movavi/"><u>TS-AVI로 원형 이미지를 바꾸기: 인터넷으로 무료 AVI 변환 도구 - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726224071130-png-bmp-movavi/"><u>오늘날의 인터넷 시대에 필수품: PNG, BMP 파일 무료로 가동하는 최고의 영상 변환 도구 - Movavi</u></a></li>
 </ul></div>
 

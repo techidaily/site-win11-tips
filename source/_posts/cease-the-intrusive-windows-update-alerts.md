@@ -1,7 +1,7 @@
 ---
 title: Cease the Intrusive Windows Update Alerts
-date: 2024-07-29T08:14:56.410Z
-updated: 2024-07-30T08:14:56.410Z
+date: 2025-01-17T16:26:29.866Z
+updated: 2025-01-18T17:14:54.122Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16e
 
  You can disable Windows update notifications using the Settings app, Group Policy Editor, or Registry Editor. Let's go over each of these methods one by one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## 1\. Disable Windows Update Notifications via the Settings App
 
  The quickest way to disable update notifications on Windows is through the Settings app. Here are the steps for the same.
@@ -36,17 +29,18 @@ No advertising on the website.
 3. Select**Advanced options** .
 4. Disable the toggle for**Notify me when a restart is required to finish updating** .
 5. Disable the toggle for**Get me up to date** so that Windows does not display a restart warning when an update is ready for installation.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Windows Update Notifications Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-the-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you complete the above steps, Windows should not bother you with update notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Disable Windows Update Notifications Using Group Policy Editor
 
  Group Policy Editor is a powerful tool for configuring various settings on your Windows computer. If you have the Enterprise or Professional edition of Windows, you can disable update notifications using the Group Policy Editor. If you don't have either of those versions, read our guide on[how to access Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before proceeding.
@@ -59,16 +53,14 @@ To disable Windows update notifications using Group Policy Editor:
 4. Double-click the**Display options for update notifications** policy on your right.
 5. Select the**Disabled** option.
 6. Click**Apply** followed by**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Disable Windows Update Notifications Using the Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-group-policy-editor-1.jpg)
 
  If you want to re-enable the Windows update notifications later, follow the same steps above and set the**Display options for update notifications** policy to**Not configured** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disable Windows Update Notifications With Registry Editor
 
  If you can’t seem to access the Group Policy Editor for some reason, you can use the Registry Editor to disable update notifications.
@@ -86,12 +78,17 @@ To disable Windows update notifications using Registry Editor:
 7. Rename the DWORD as**SetUpdateNotificationLevel** .
 8. Double-click the newly created DWORD and change its**Value data** to**0** .
 9. Click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Disable Windows Update Notifications Using the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-the-registry-editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Exit the Registry Editor window and restart your PC to apply the changes. Following that, Windows will not display update notifications on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## No More Update Notifications on Windows
 
@@ -99,14 +96,11 @@ To disable Windows update notifications using Registry Editor:
 
  If you find Windows notifications to be distracting in general, you can use Focus Assist to silence all alerts and stay productive.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,4 +109,22 @@ To disable Windows update notifications using Registry Editor:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-autoplay-youtube-on-phones-without-interruption/"><u>[New] 2024 Approved Autoplay YouTube on Phones without Interruption</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-compress-to-caption-zip-to-srt-for-video-editors-for-2024/"><u>[New] Compress to Caption ZIP-to-SRT for Video Editors for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-art-of-youtube-shorts-filming-and-editing-made-simple/"><u>[Updated] 2024 Approved The Art of YouTube Shorts Filming and Editing Made Simple</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-crafting-immersive-vr-experiences-with-adobe-premieres-360-editing-features-for-2024/"><u>[Updated] Crafting Immersive VR Experiences with Adobe Premiere's 360° Editing Features for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-superior-recommendations-elite-ios-audio-makers/"><u>[Updated] Superior Recommendations Elite iOS Audio Makers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-how-to-modify-window-glow-on-your-pc/"><u>Discover How to Modify Window Glow on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-data-management-linking-onedrive-and-microsoft/"><u>Effortless Data Management: Linking OneDrive and Microsoft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-reading-view-as-default-in-word-for-email-attachments/"><u>Enabling Reading View as Default in Word for Email Attachments</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-apk-masterclass-enjoy-funimate-on-android/"><u>In 2024, APK Masterclass Enjoy Funimate on Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-the-magic-of-time-lapse-photography-on-samsung-gear/"><u>In 2024, Unleash the Magic of Time-Lapse Photography on Samsung Gear</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fast-forward-youtube-on-windows-chrome/"><u>Mastering Fast-Forward YouTube on Windows Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-microsofts-family-safety-landscape/"><u>Navigating Microsoft's Family Safety Landscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-windows-top-video-converters-reviewed/"><u>Streamline Your Windows: Top Video Converters Reviewed</u></a></li>
+<li><a href="https://techidaily.com/tecno-spark-20c-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Tecno Spark 20C Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766870962-dvd/"><u>ディズニーコピーガードキャンセルで快適にDVDをリッピング：フリーソフトウェアの最新メソッド</u></a></li>
+</ul></div>
 

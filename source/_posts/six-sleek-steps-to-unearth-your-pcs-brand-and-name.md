@@ -1,7 +1,7 @@
 ---
 title: Six Sleek Steps to Unearth Your PC’s Brand and Name
-date: 2025-01-09T01:38:18.584Z
-updated: 2025-01-12T20:19:01.796Z
+date: 2025-01-11T18:12:19.018Z
+updated: 2025-01-18T16:29:29.833Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 
 ![Checking System Name in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-name.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The quickest way to check your computer model name and number is through the Settings app. Simply, launch the**Settings app** (see[how to open the Settings app on Windows](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose**System** from the left sidebar. You'll see your computer model name at the top of the System window.
 
 ## 2\. Using the System Information App
@@ -44,8 +40,16 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 ![Typing System Information in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-information.jpg)
 3. Choose**System Summary** from the left sidebar.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Check the**System Model** row in the right pane to know about your computer model name.  
 ![Checking System Model in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-model.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Using the DirectX Diagnostic Tool
 
@@ -59,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 4. Under the System Information section, you can check your computer model name next to the**System Model** option.  
 ![System Model option in the DirectX Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-model-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Using the Command-Line Tools
 
  If you're an advanced Windows user, you can use the command-line tools, Windows PowerShell and Command Prompt, to know everything about your computer. Here's how to use the Command Prompt to check your computer model name:
@@ -66,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 1. Open the Windows Search, type**Command Prompt** in the search bar, and press Enter.
 2. In the Command Prompt window, type**wmic csproduct get name** , and press Enter.  
 ![System model checking command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-model-checking-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You'll see the model name on the console screen.
 
@@ -75,15 +87,15 @@ You'll see the model name on the console screen.
 
 ![Command to Check System name in Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-check-system-name.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In case you want to check your computer serial number, execute the following command in the PowerShell window.
 
 `Get-CimInstance -ClassName Win32_bios`
 
 ![Command to Check System Serial number in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-check-system-serial-number.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Using the Manufacturer's Assistant App
 
@@ -92,10 +104,6 @@ You'll see the model name on the console screen.
  Most manufacturers nowadays offer an assistant app using which you can check your computer model name and number. For instance, if you're using an HP laptop, you can download the[HP Support Assistant app](https://support.hp.com/us-en/help/hp-support-assistant) to know everything about your computer.
 
  Similarly, you can download the assistant app of your manufacturer to check your computer's name.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. By Entering the BIOS
 
@@ -110,23 +118,15 @@ You'll see the model name on the console screen.
 ![Restart now button next to Advanced startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-now-button.jpg)
 5. Navigate to**Troubleshoot** \>**Advanced options** \>**UEFI Firmware Settings** \>**Restart.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Usually, your computer will now boot straight into UEFI BIOS. But in some manufacturers like HP, you'll be welcomed with a**Startup** **Menu.** Choose**System Information** from the menu.  
 ![Choosing System Information from the Startup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-system-information.JPG)
 7. You can check your computer name in the System Information section.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Checking Product name in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-product-name.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get to Know Your Computer's Model on Windows
 
@@ -147,18 +147,20 @@ You'll see the model name on the console screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-becoming-a-video-wizard-with-screencast-insider-tips/"><u>[New] 2024 Approved Becoming a Video Wizard with Screencast Insider Tips</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-advanced-image-quality-hero5-black-vs-sjcam-sj7/"><u>[Updated] 2024 Approved Advanced Image Quality Hero5 Black Vs SJCAM SJ7</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-picks-for-affordable-video-sbs-grabbers/"><u>[Updated] Ultimate Picks for Affordable Video SBS Grabbers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-system-operations-using-windows-task-scheduler/"><u>Accelerate System Operations Using Windows Task Scheduler</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/aligning-chrome-and-system-time-windows-sync-tips/"><u>Aligning Chrome and System Time (Windows Sync Tips)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/amplify-windows-11-outputs-with-savvy-techniques/"><u>Amplify Windows 11 Outputs with Savvy Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/automating-wifi-network-deletion-in-win-11/"><u>Automating Wifi Network Deletion in Win 11</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/disable-non-specific-youtube-video-alerts-for-2024/"><u>Disable Non-Specific YouTube Video Alerts for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721474170629-icloud-sync-errors-demystified-effective-solutions-inside/"><u>ICloud Sync Errors Demystified - Effective Solutions Inside</u></a></li>
-<li><a href="https://fox-info.techidaily.com/quick-drama-drafting-method/"><u>Quick Drama Drafting Method</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210857453-9798986796963-the-connection-cleanse-toolkit/"><u>The Connection Cleanse Toolkit | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-definitive-fixes-when-your-computer-mouse-keeps-going-offline/"><u>The Definitive Fixes When Your Computer Mouse Keeps Going Offline</u></a></li>
-<li><a href="https://article-helps.techidaily.com/win11s-top-5-cost-free-applications-for-recording-screens/"><u>Win11's Top 5 Cost-Free Applications for Recording Screens</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-evaluating-video-quality-the-impact-of-fps-on-recordings/"><u>[New] 2024 Approved Evaluating Video Quality The Impact of FPS on Recordings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-funny-face-of-freedom-top-20-pranks-at-facebooks-barracks/"><u>[New] 2024 Approved The Funny Face of Freedom Top 20 Pranks at Facebook's Barracks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tomorrows-examination-innovative-approaches/"><u>[New] Tomorrow’s Examination Innovative Approaches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/deal-with-an-unplugged-nvidia-unit-these-repair-strategies-can-help/"><u>Deal With an Unplugged Nvidia Unit? These Repair Strategies Can Help</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-x-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-errors-related-to-printmanagement-in-windows/"><u>How to Resolve Errors Related to 'Printmanagement' In Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-winerror-incorrect-file-backup-settings/"><u>How to Resolve WinError: Incorrect File Backup Settings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 15 Passcode without Computer?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-crafting-immersive-experiences-with-compelling-tiktok-captions-top-5/"><u>In 2024, Crafting Immersive Experiences with Compelling TikTok Captions (Top 5)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-apple-iphone-15-location-on-viber-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Fake Your Apple iPhone 15 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-efficiency-incorporating-law-filters-into-windows/"><u>Maximizing Efficiency: Incorporating LAW Filters Into Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-wlanextexe-low-cpu-drain-techniques/"><u>Reducing WLANEXT.EXE: Low CPU Drain Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-reliable-windows-protection-on-win-11/"><u>Reinstating Reliable Windows Protection on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rise-above-the-norm-with-these-excellent-win-11-widgets/"><u>Rise Above the Norm with These Excellent Win 11 Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sever-onedrive-connection-with-ms-account-on-windows/"><u>Sever OneDrive Connection with MS Account on Windows</u></a></li>
 </ul></div>
 

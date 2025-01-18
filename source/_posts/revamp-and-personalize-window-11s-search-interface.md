@@ -1,7 +1,7 @@
 ---
 title: Revamp and Personalize Window 11'S Search Interface
-date: 2024-08-08T11:01:26.624Z
-updated: 2024-08-09T11:01:26.624Z
+date: 2025-01-13T18:23:50.812Z
+updated: 2025-01-18T16:03:00.346Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/84b555054820124f11889e906637732ab71a15523
  In this article, we will explore some of the ways to help you achieve more personalized search results on your Windows 11 PC, beginning from privacy settings to managing search indexes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Turn On Safe Search
 
  Considering the amount of inappropriate content on the internet, it might be necessary to put mechanisms in place to block out any adult content in your search, especially if you have little ones around.
@@ -36,6 +37,11 @@ thumbnail: https://thmb.techidaily.com/84b555054820124f11889e906637732ab71a15523
 1. **Next, click Privacy & Security.**  
 ![Screenshot of windows 11 Privacy & Security page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-security-page.jpg)
 2. Under**Windows permissions,** click**Search permissions** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screenshot of windows 11 privacy settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-settings-page.jpg)
 3. This will open up SafeSearch settings, under which three options exist:**Strict** ,**Moderate,** and**Off** .  
 ![Screenshot of safesearch settings page on windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-safesearch-settings-page-on-windows11.jpg)
@@ -44,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/84b555054820124f11889e906637732ab71a15523
 
  Choose any of the**SafeSearch** categories, depending on the level of filtering you want to apply to your search.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Include Search Results From Your Other Accounts
 
  Content from accounts connected to Windows Search on your device is also included in your search results. In addition, Windows Search lets you manage these connected accounts to change the search experience on your PC.
@@ -55,36 +58,13 @@ thumbnail: https://thmb.techidaily.com/84b555054820124f11889e906637732ab71a15523
 2. Then, by clicking your profile in the top right corner, you see a list of the accounts connected to Windows Search.  
 ![Screenshot of windows search on taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-search-on-taskbar.jpg)
 3. To manage your connected accounts, go to **Settings > Privacy & settings > Cloud Content Search** .  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot of cloud content search settings on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-cloud-content-search-settings-on-windows-11.jpg)
 
  Using[Cloud Content Search](https://www.makeuseof.com/windows-cloud-content-search-guide/) settings, you can add search results from other accounts you are signed in to, or exclude them from your search. This could include Microsoft services such as Outlook, OneDrive, Bing, or your organization/school account. Simply toggle on**Microsoft account** and**Work or School Account** option to do this.
 
 1. To add an account to Windows Search, go to**Email & Accounts** in**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![Screenshot of email & accounts settings page on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-email-accounts-settings-page-on-windows-11.jpg)
 2. Beneath**Accounts Used by other apps** , click**Add a Microsoft Account** to add one, or**Add a Workplace or School Account** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![Screenshot of email & accounts settings page on windows 11 (2)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-email-accounts-settings-page-on-windows-11-2.jpg)
 
 ## 3\. Clear Search History on Your Device
@@ -101,29 +81,26 @@ Key features:
 
  Results from the Windows search will often bring up previews of web results. If you find this a bit confusing, you can exclude web search results to streamline your search to only local results from your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enable App Launch Tracking
 
  Enabling app launch tracking on your PC lets Windows monitor the apps you frequently use to improve your search results. Thus, you can access these apps easily, especially from the start menu.
 
  However, if you want to keep this turned off for, say, privacy concerns, Navigate to**Settings > Privacy & Security > General.** Then, toggle off **Let Windows improve start and search results by tracking app launches** .
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot of app launch tracking settings page on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-app-launch-tracking-settings-page-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Utilize Enhanced Search
 
  When you run a search, your PC will typically look for files in specific locations, such as in the**Documents** or**Pictures** folders.
@@ -138,10 +115,11 @@ Key features:
 
  If there are some folders you’d like to keep out of your search, click on**Exclude folders from enhanced search.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Screenshot of Windows 11 Privacy & Security page 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-security-page-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click the three dotted lines on each menu and select**Remove** to exclude it from a search.
 
@@ -151,14 +129,11 @@ Key features:
 
  Windows 11 brings even more improvements to the search feature. Aside from being able to access it right from the taskbar, it also brings you the power of search highlights, with more content and insights to your search.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,4 +142,21 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-effortless-income-estimations-for-youtubers/"><u>[New] In 2024, Effortless Income Estimations for YouTubers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-maximize-fun-choose-from-heres-top-5-chrome-extensions-for-facebook-vids/"><u>[Updated] 2024 Approved Maximize Fun Choose From Here's Top 5 Chrome Extensions for Facebook Vids</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-a-quick-guide-downloading-fb-videos-on-multiple-oses-for-2024/"><u>[Updated] A Quick Guide Downloading FB Videos on Multiple OSes for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-visual-virtuosity-adding-fonts-to-adobe-workflows/"><u>[Updated] Visual Virtuosity Adding Fonts to Adobe Workflows</u></a></li>
+<li><a href="https://games-able.techidaily.com/bargain-trails-navigating-to-the-best-11-game-purchase-locations/"><u>Bargain Trails: Navigating to the Best 11 Game Purchase Locations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-non-detected-bluetooth-on-windows-mgr/"><u>Correcting Non-Detected Bluetooth On Windows Mgr</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-correcting-bios-boot-errors-on-winos/"><u>Decoding & Correcting BIOS Boot Errors on WinOS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/effortless-music-playlist-creation-for-youtube-anywhere-webmobile-for-2024/"><u>Effortless Music Playlist Creation for YouTube, Anywhere (Web/Mobile) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-high-dpi-scaling-in-windows-os/"><u>Essential Fixes for High DPI Scaling in Windows OS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/astery-guide-top-10-video-to-audio-picks/"><u>MP3 Mastery Guide Top 10 Video-to-Audio Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-microsoft-store-for-customizing-your-interface/"><u>Navigating Through Microsoft Store for Customizing Your Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-route-for-gpo-discovery-in-pcs/"><u>The Essential Route for GPO Discovery in PCs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-cant-i-get-any-calls-on-my-iphone-heres-what-to-do/"><u>Why Can't I Get Any Calls on My iPhone? Here's What to Do!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winerror-zeroed-out-mastery-over-error-0x800f0831/"><u>WinError Zeroed Out: Mastery Over Error 0X800F0831</u></a></li>
+</ul></div>
 

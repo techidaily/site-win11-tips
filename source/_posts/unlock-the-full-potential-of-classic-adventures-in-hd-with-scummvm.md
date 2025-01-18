@@ -1,7 +1,7 @@
 ---
 title: Unlock the Full Potential of Classic Adventures in HD with ScummVM
-date: 2024-08-08T11:02:56.637Z
-updated: 2024-08-09T11:02:56.637Z
+date: 2025-01-15T16:00:38.126Z
+updated: 2025-01-18T18:07:58.075Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 
  Even better, ScummVM can also improve those practically ancient titles, rendering them more presentable on our modern screens. Let's see how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ScummVM?
 
  Created by Ron Gilbert at Lucasfilm Games, SCUMM was a combination of a scripting language and a game engine that assisted in creating adventure games.
@@ -32,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 
  In this guide, we'll see how to configure ScummVM to make classic adventures look good on modern PCs with flat-panel Full HD displays.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## How to Download and Install ScummVM
 
  Start by visiting[ScummVM's official site](https://www.scummvm.org/) and downloading and installing the app. For this article, we will be using ScummVM on Windows 11.
@@ -47,27 +44,25 @@ No advertising on the website.
 
  Thus, you can follow along even if you are not on Windows, but you might also need to adjust some of the actions that follow based on your platform of choice.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## How to Add Your Games to ScummVM
 
  ScummVM comes with some freeware titles. However, most games it supports are still commercially available or fall within the legally gray borders of "abandonware". Thus, you will have to import them manually.
 
 1. To import a single title, click on**Add Game** on the right of the window and select the game's folder from the requester that pops up. Importing multiple titles in one go is just as easy by clicking the**Mass Add** button right underneath. Then, select the parent folder within which you have all your old retro adventures stored in individual subfolders.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ScummVM Mass Add](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm_mass_add.jpg)
 2. ScummVM will analyze the folder you selected, scan its contents, and prompt you to import any compatible games it finds.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ScummVM Scanning Folders For Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-scanning-folders-for-games.jpg)
 3. All imported and playable games appear in ScummVM's game list with bold text. You can launch them by double-clicking on their title or selecting them and clicking the start button on the right of the window. Supported titles that weren't found (and thus aren't playable) have a grey color.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ScummVM Bold Added Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-bold-added-games.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Configure ScummVM's Global Settings
 
@@ -78,41 +73,36 @@ The powerful video editing program for your Windows PC</a>
 1. You will need a point of reference to know how games played with ScummVM will look on your monitor. So, launch one of them and pay attention to its visuals. For this article, we will be using the freely available Beneath a Steel Sky by Revolution Software as our primary point of reference.  
 ![ScummVM Beneath a Steel Sky Default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-beneath-a-steel-sky-default.jpg)
 2. Click on**Global Options** on the right of the window.  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ScummVM Global Options Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-options-button.jpg)
 3. Move to the**Keymaps** tab and take note of the key combination for accessing ScummVM's global main menu. If you don't like the default shortcut, click on it and bind it to another key combination.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![ScummVM Global Keymaps Global Main Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-keymaps-global-main-menu.jpg)
 4. Scroll down and do the same for the**Toggle Fullscreen** shortcut.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ScummVM Global Keymaps Toggle Fullscreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-keymaps-toggle-fullscreen.jpg)
 5. Move to the**Audio** tab, and from the**Text and speech** options, select if you'd prefer**Speech** ,**Subtitles** , or**Both** for your games.  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ScummVM Global Audio Text And Speech](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-audio-text-and-speech.jpg)
 6. Although it's not a crucial option for playing games, you can change how ScummVM looks by switching between various themes. Those are accessible from the**Theme** option on the**GUI** tab.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ScummVM Global GUI Themes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-gui-themes.jpg)
 7. On the same page, you will find another option that you may find helpful if you like jumping from game to game: to avoid having to relaunch ScummVM after exiting a title, place a checkmark before**Return to the launcher when leaving a game** .  
 ![ScummVM Global GUI Return To Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-gui-return-to-launcher.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Configure Game-Specific ScummVM Options
 
  Although most options we will see are also available globally, it's best to tweak them separately for each game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![ScummVM Game Options Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-game-options-button.jpg)
 
  To tweak a particular game's options in ScummVM, select it on the list and click on**Game Options** on the right.
@@ -128,27 +118,31 @@ The powerful video editing program for your Windows PC</a>
 2. Since most games supported by ScummVM were created for old CRT monitors with a 4-by-3 aspect ratio, to have their graphics cover most of your monitor without appearing deformed, we suggest you first try the select the**Fit to window (4:3)** **Stretch** mode. This way, no matter the size of ScummVM's window on your screen, and even when in full-screen mode, a game's horizontal and vertical aspect ratio will remain locked, with black space appearing around its visuals.  
 ![ScummVM Game Options Graphics Stretch Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-game-options-graphics-stretch-mode.jpg)
 3. Are you checking how a game looks after tweaking some options? You can use the combination we saw earlier to access ScummVM's game menu. By default, it's CTRL + F5\. From there, you can a) return to your game by clicking on**Resume** , b)**Load** or c)**Save** your progress, d) access game-specific**Options** , e) read more**About** ScummVM, f)**Return to Launcher** , or g)**Quit** the running game.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ScummVM Game Menu Return To Launcher Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-game-menu-return-to-launcher-entry.jpg)
 4. Return to the launcher and revisit the selected game's options, moving to the**Graphics** tab. From there, you can change the**Scaler** used for stretching the game's graphics. ScummVM offers various ways of scaling a game's graphics. Some try to preserve a game's original blocky, pixelated appearance, while others may smoothen the graphics, leading to a more "cartoony" appearance. We chose**SuperSAI** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![ScummVM Game Options Graphics Scaler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-game-options-graphics-scaler.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Getting Better Visuals With Shaders
 
  The blurring, color bleeding, and glow of old CRT screens also made the graphics look less pixelated and richer in color. Thankfully, you can partially replicate those looks on a flat-panel monitor through the magic of shaders.
 
 1. To apply a shader to your game's visuals, on a game's options'**Graphics** tab, click**Shader** and select one from the list.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ScummVM Game Options Graphics Shader Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-game-options-graphics-shader-selected.jpg)
 2. Although a shader might add artificial imperfections to a game's visuals, almost counter-intuitively, the final result can look better.  
 ![ScummVM Beneath a Steel Sky With CRT Shader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-beneath-a-steel-sky-with-crt-shader.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Are you not a fan of adventures (on which ScummVM specializes) but would appreciate a facelift for your old emulated games? RetroArch supports scaling and shaders, too. For more info on that, check our guide on[how to make your retro games look like they used to with RetroArch's shaders](https://www.makeuseof.com/make-retro-games-look-like-used-to-retroarch-shaders/) .
 
@@ -166,22 +160,20 @@ The powerful video editing program for your Windows PC</a>
  When you're done going on adventures, why not try making your own adventure game? You can start small with our guide on[how to create a text-based adventure game in Python](https://www.makeuseof.com/python-text-adventure-game-create/) and take it from there.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Adventure of Playing Old Adventures With ScummVM
 
  Despite not being as customizable as RetroArch, ScummVM enables you to play dozens of classic adventures that would otherwise have been lost in the clutches of time.
 
  Even better, you can enjoy them with upgraded visuals. They might not make Beyond Zork look like the latest triple-A Unreal Engine title, but they're the next best thing to a proper remaster.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -190,4 +182,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-solo-speaker-fault-fix-guide/"><u>[New] Solo Speaker Fault Fix Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-definitive-guide-to-capturing-great-tiktok-content/"><u>[New] The Definitive Guide to Capturing Great TikTok Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-chuckle-inducing-snaps-applying-the-cartoon-face-effect-on-snapchat/"><u>[Updated] In 2024, Chuckle-Inducing Snaps Applying the Cartoon Face Effect on Snapchat</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-craft-a-memorable-youtube-channel-brand-for-more-viewers/"><u>[Updated] In 2024, Craft a Memorable YouTube Channel Brand for More Viewers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-innovative-social-media-tag-trackers-facebook-tweet-and-instagram/"><u>[Updated] Innovative Social Media Tag Trackers Facebook, Tweet & Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clean-slate-clearing-windows-11-activity-record/"><u>Clean Slate: Clearing Windows 11 Activity Record</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-down-on-time-spent-error-0x800736cc-in-windows-update/"><u>Cutting Down on Time Spent: Error 0X800736CC in Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-fixing-windows-error-0x800704b3-on-pcslaptops/"><u>Decoding & Fixing Windows Error 0X800704B3 on PCs/Laptops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-command-line-experience-make-terminal-first/"><u>Enhance Command Line Experience: Make Terminal First</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/guia-definitiva-para-transferir-peliculas-de-dvd-a-mac-sin-perdida-big-sur-incluido/"><u>Guía Definitiva Para Transferir Películas De DVD a Mac Sin Pérdida: Big Sur Incluido</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-icloud-download-challenges-on-pc/"><u>Overcoming iCloud Download Challenges on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-10-store-errors-a-quick-guide/"><u>Tackling Windows 10 Store Errors: A Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-github-desktop-efficiently-on-windows-11-pro/"><u>Utilizing GitHub Desktop Efficiently on Windows 11 Pro</u></a></li>
+</ul></div>
 

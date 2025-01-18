@@ -1,7 +1,7 @@
 ---
 title: How to Effortlessly Adjust Your Software Size with Windows 11 Keys
-date: 2024-08-08T11:02:59.515Z
-updated: 2024-08-09T11:02:59.515Z
+date: 2025-01-14T17:18:32.752Z
+updated: 2025-01-18T16:56:49.779Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 
  Here are some ways you can resize software windows with a keyboard in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Manually Resize Software With the Arrow Keys
 
  You don’t need any extra software to resize software windows with keyboard arrow keys. All you need to do is activate the move pointer cursor on a restored-down window. These are the steps for manually resizing windows with keyboard arrow keys:
@@ -30,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 1. Open a software window.
 2. Click the**Restore down** button in the top-right corner of the window.
 3. Press the**Alt** +**Space** hotkey to bring up a window menu.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![A software window menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-window-menu.jpg)
 4. Then press the**S** key to activate the move pointer.
 5. Now resize the window by pressing the up, down, left, and right arrow key buttons. You can use the arrow keys on a keyboard’s Numpad with**Num Lock** disabled.
@@ -42,20 +36,25 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 
  For example, pressing the down key first selects the window’s bottom border. Then you can move that border up or down or extend or decrease its width with the arrow keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Resize Software Using Snap Layout Hotkeys
 
  Snap Layouts is one of Windows 11’s best new features. That feature enables you to resize software windows to preset layout sizes. You can utilize that feature with the mouse by hovering the cursor over a window’s**Maximize** button and selecting an alternative layout on the panel. Those layout options resize windows to halves, thirds, or quarters of the desktop area.
 
  However, you can also resize windows with Snap Layouts by pressing the keyboard keys. To activate the Snap Layout panel without the mouse, press**Win** +**Z** . Then press the arrow keys to navigate the layout options. Press**Enter** to select a highlighted layout for resizing your window.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Snap Layout options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/snap-layout-options.jpg)
 
  You can resize windows by snapping them to either side of the desktop with a couple of hotkeys. Press the**Windows** key +**right** arrow button to snap a window to the right side of the desktop. Or snap to the left side by pressing the**Win** +**left** arrow button. A window snapped with those keyboard shortcuts is resized to half the desktop area.
 
 ![Two side-by-side windows resized with Snap Layout hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/side-by-side-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Resize Software Windows With Custom Hotkeys
 
@@ -74,11 +73,12 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 3. Then select one of the sizes for a hotkey to resize a window to on the**Menu** tab.  
 ![The Menu tab in Sizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-tab.jpg)
 4. Click the**Edit** button.
-5. Select one of the**Shortcut key** checkboxes for the**Alt** ,**Ctrl** ,**Win** , or**Shift** keys.  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Select one of the**Shortcut key** checkboxes for the**Alt** ,**Ctrl** ,**Win** , or**Shift** keys.  
 ![The Sizer Menu Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-menu-entry-window.jpg)
 6. Press a letter to combine with your selected key.
 7. Click**OK** on the Sizer Menu Entry window.
@@ -94,23 +94,24 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 
 ![The Sizer Macro Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/sizer-macro-entry-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also set the hotkeys to move windows to specific positions. To do that, select size you set a hotkey for on the**Menu** and click**Edit** . Select an option on the Move to drop-down menu. Click the**OK** \>**Apply** option to save the changes.
 
  If you want to remove a hotkey, select the window size you set it for on the Menu tab. Press the**Delete** button to erase. You can also reorder the sizes on the**Menu** tab by selecting them and pressing the**Move Up** and**Move Down** options.
 
  Sizer has a useful extra popup menu you can access with a keyboard shortcut. Press the**Ctrl** +**Win** +**Z** hotkey to view Sizer’s menu. That menu includes various sizes you can select to resize an active window. You can also access the software’s primary window by selecting Configure Sizer on that menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![The Sizer popup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-popup-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're really enjoying using hotkeys, check out[how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Resize Your Windows Software by Pressing Keyboard Keys
 
  Resizing windows helps you fit multiple apps open on the desktop better. You may find it better to utilize keyboard keys for changing window sizes with the methods above instead of the mouse.
@@ -123,8 +124,6 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +131,19 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-accelerate-your-tunes-top-phone-apps-reviewed/"><u>[New] In 2024, Accelerate Your Tunes Top Phone Apps Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-overcoming-compression-artifacts-on-youtube-videos/"><u>[New] Overcoming Compression Artifacts on YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-breaking-down-barriers-adding-chapters-to-create-cohesive-youtube-lessons-for-2024/"><u>[Updated] Breaking Down Barriers Adding Chapters to Create Cohesive YouTube Lessons for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/converter-arquivo-ifo-mp4-windows-and-macos/"><u>Converter, Arquivo IFO, MP4, Windows, and macOS.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-error-code-0x80d03801-in-windows-apps/"><u>Correcting Error Code 0X80D03801 in Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-bypassing-windows-11s-security-barrier/"><u>Guide to Bypassing Windows 11'S Security Barrier</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-reactivate-disappeared-siri-suggestions-on-your-ios-device/"><u>How to Reactivate Disappeared Siri Suggestions on Your iOS Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-luminaries-in-augmented-sight-technology/"><u>In 2024, Luminaries in Augmented Sight Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-workspace-reinstate-windows-icons/"><u>Maximize Your Workspace: Reinstate Windows Icons</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-smartwatches-comprehensive-reviews-by-industry-experts-techradar/"><u>Top-Rated Smartwatches - Comprehensive Reviews by Industry Experts | TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-and-correcting-panel-deformation/"><u>Understanding and Correcting Panel Deformation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-beats-out-linux-in-the-game-arena/"><u>Why Windows Beats Out Linux in The Game Arena</u></a></li>
+</ul></div>
 

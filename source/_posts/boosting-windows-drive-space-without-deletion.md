@@ -1,7 +1,7 @@
 ---
 title: Boosting Windows Drive Space Without Deletion
-date: 2024-07-29T08:14:58.135Z
-updated: 2024-07-30T08:14:58.135Z
+date: 2025-01-11T17:02:21.833Z
+updated: 2025-01-18T17:04:12.501Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 
  Here's how you can fix that issue and bring back the grayed-out "Extend Volume" option without erasing your precious data.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Why Is the Extend Volume Option Grayed Out?
 
  There are many reasons why the "Extend Volume" option in Disk Management is grayed out, but the common ones include:
@@ -39,28 +36,28 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
  However, if your partition uses a supported file system, let's discuss how you can bring back the option to extend volumes on Windows without erasing your data.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Shrink a Volume to Create Unallocated Space
 
  If you don't have unallocated space on any of your drives to extend a volume, you can simply shrink one of the existing volumes to create it. This can also help if the unallocated space on one drive is not large enough for volume extension since it will shrink the other volumes to create more unallocated space.
 
  To shrink a volume on Windows, start by pressing **Win + R** to open Windows Run. Then, enter **compmgmt.msc** in the Run text box and press **Enter** to open Computer Management.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Opening the Computer Management Tool using the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Computer-Management-Tool-using-the-Run-command-dialog-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the **Storage** section of the left panel, select **Disk Management**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![the Disk Management section of Computer Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-disk-management-section-of-computer-management-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the right panel, right-click the volume you want to shrink and select **Shrink Volume**.
 
@@ -116,27 +113,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Next, launch the app, right-click the volume you want to shrink, and then select **Resize/Move Partition**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![resizing a volume in Magic Partition Resizer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/resize-volume-in-magic-partition-resizer-on-windows.jpg)
 
  In the **Volume size** text box, enter how much you want to shrink the volume by and then click on **OK**.
 
 ![choosing how much of the volume to resize in Magic Partition Resizer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choosing-how-much-of-the-volume-to-resize-in-magic-partition-resizer-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It should take a few seconds to resize the volume, and when it finishes, you should be able to see some unallocated space, allowing you to extend the volume you want to in the first place.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Regain Your Ability to Extend Volumes on Windows
 
  Extending a volume is a great way to give it more space to store items. However, the option to extend that volume might not always be available. Luckily, you can bring back the option by shrinking a volume, deleting the recovery portion, making sure the volume is using a file system that is extendable, and using third-party software to resize existing volumes.
 
  Here's how you can fix that issue and bring back the grayed-out "Extend Volume" option without erasing your precious data.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -144,3 +141,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-cultivating-community-in-stardews-ginger-territory/"><u>[New] Cultivating Community in Stardew’s Ginger Territory</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/asy-to-navigate-top-10-youtube-downloader-tools-for-2024/"><u>[New] Easy-to-Navigate Top 10 YouTube Downloader Tools for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-innovative-approaches-to-lut-creation/"><u>[Updated] 2024 Approved Innovative Approaches to LUT Creation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-windows-10-storage-guide-how-to-save-and-organize-mov/"><u>2024 Approved Windows 10 Storage Guide How to Save and Organize .mov</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-enigma-unraveling-wacatacbmls-mechanism-on-windows/"><u>Deciphering the Enigma: Unraveling Wacatac.B!ml's Mechanism on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-picks-best-torrent-software-for-windows-devices/"><u>Expert Picks: Best Torrent Software for Windows Devices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rebooting-astra-pilot-link-on-latest-os-ws11/"><u>Rebooting Astra Pilot Link on Latest OS, WS11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-developing-a-security-focused-removal-applet/"><u>Windows 11: Developing a Security-Focused Removal Applet</u></a></li>
+</ul></div>
+

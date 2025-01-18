@@ -1,7 +1,7 @@
 ---
 title: "Pro Tools: Proficiently Using PowerShell for Archive Operations"
-date: 2025-01-06T17:55:42.522Z
-updated: 2025-01-12T21:52:00.039Z
+date: 2025-01-12T16:14:22.420Z
+updated: 2025-01-18T16:44:05.001Z
 tags:
   - windows10
   - windows11
@@ -39,11 +39,15 @@ Here's how to zip files using Command Prompt:
 4. Type**dir** and press**Enter** . It'll show the files inside the selected folder.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Dir command in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dir.jpg)
 5. To zip all the files inside the selected folder, type the following command and press**Enter** . Replace '**Compressed** ' with the name you want to give your folder where the zip file will be stored. Also, replace '**FileExt** ' with the extension of the file you're zipping.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `tar -a -c -f Compressed.zip *.FileExt`  
 ![Tar command in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tar.jpg)
@@ -51,6 +55,10 @@ Here's how to zip files using Command Prompt:
 
 `tar -a -c -f Compressed.zip FileName.FileExt`  
 ![Compressing one file in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/compressing-one-file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Zip Files Using Windows PowerShell
 
@@ -71,7 +79,7 @@ Here's how to zip files using Windows PowerShell:
 ![Zipping 2 files at once](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Unzip Files Using Command Prompt
@@ -85,14 +93,10 @@ Here's how to zip files using Windows PowerShell:
 ![Unzipping file in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping-file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You've successfully unzipped the file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Unzip Files Using Windows PowerShell
 
@@ -102,10 +106,6 @@ You've successfully unzipped the file.
 2. Type the following command and press**Enter** . Make sure to replace <**file** **destination** \> and <**target** **location** \> with the location of the zip file and the place where you want the file to be unzipped, respectively.  
 `Expand-Archive -LiteralPath <file destination> -DestinationPath <target location>`  
 ![Unzipping file in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Save Up Space on Windows 11 by Zipping Your Files
 
@@ -128,24 +128,20 @@ You've successfully unzipped the file.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-perfecting-fading-audio-tracks-through-audacitys-tools/"><u>[New] 2024 Approved Perfecting Fading Audio Tracks Through Audacity's Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-best-practices-for-adding-content-enhancements-cards/"><u>[Updated] 2024 Approved Best Practices for Adding Content Enhancements (Cards)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-finest-zero-price-virtual-console-options/"><u>[Updated] Finest Zero Price Virtual Console Options</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-how-to-start-a-facebook-giveaway-post/"><u>[Updated] How to Start a Facebook Giveaway Post</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-straightforward-steps-to-engage-repair-tool/"><u>10 Straightforward Steps to Engage Repair Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-ways-to-create-a-windows-11-bootable-usb-drive/"><u>3 Ways to Create a Windows 11 Bootable USB Drive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-ways-to-reset-folder-view-settings-to-default-in-windows-11/"><u>3 Ways to Reset Folder View Settings to Default in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/access-denied-seven-windows-workarounds-for-web-site-woes/"><u>Access Denied? Seven Windows Workarounds for Web Site Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/androidwindows-twinning-effortless-sync-instructions/"><u>Android/Windows Twinning: Effortless Sync Instructions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/artificinas-intelligence-microsofts-innovative-ai-addition-to-windows-11-taskbar/"><u>Artificinas Intelligence: Microsoft’s Innovative AI Addition to Windows 11 Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-system-safety-wins-7-top-rated-zero-cost-pass-gen-software/"><u>Boost System Safety: Win's 7 Top Rated Zero-Cost Pass Gen Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-brainpower-the-ultimate-8-windows-guide-to-studying/"><u>Boost Your Brainpower: The Ultimate 8 Windows Guide to Studying</u></a></li>
-<li><a href="https://os-tips.techidaily.com/breaking-barriers-how-the-iphone-is-expanding-globally-while-maintaining-its-presence-in-the-us/"><u>Breaking Barriers: How the iPhone Is Expanding Globally While Maintaining Its Presence in the U.S.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719225198037-epic-launcher-removal-woes-in-windows-11-fix-now/"><u>Epic Launcher Removal Woes in Windows 11: Fix Now</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/imaginedge-coder-for-2024/"><u>ImaginEdge Coder for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-oppo-a2-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Oppo A2? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-the-ghost-runner-critical-failure-issue-in-windows-11/"><u>Troubleshooting: Fixing the 'Ghost Runner' Critical Failure Issue in Windows 11</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/windows-10c/"><u>Windows 10上のCドライブ問題：原因調査から回復方法まで完全ガイド！</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-gif-creation-tools-reviewed-by-industry-vets/"><u>[New] In 2024, Best GIF Creation Tools Reviewed by Industry Vets</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-jest-jamboree-the-most-entertaining-youtubers-to-watch/"><u>[Updated] 2024 Approved Jest Jamboree The Most Entertaining YouTubers to Watch</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-depth-tips-to-revolutionize-youtube-summary-writing-for-2024/"><u>[Updated] In-Depth Tips to Revolutionize YouTube Summary Writing for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-infusing-youtube-soundtracks-within-multimedia-for-2024/"><u>[Updated] Infusing YouTube Soundtracks Within Multimedia for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-stepwise-guide-switch-between-normal-and-pip-views-in-youtube-app/"><u>2024 Approved Stepwise Guide Switch Between Normal and PIP Views in YouTube App</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-using-laptopsmobile-for-google-meet-join/"><u>2024 Approved Using Laptops/Mobile for Google Meet Join</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-filmmakers-guide-seamless-editing-and-uploading-360-degree-footage-for-youtube/"><u>A Filmmaker's Guide Seamless Editing & Uploading 360-Degree Footage for YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-widget-development-strategies-for-windows-11-upgrades/"><u>Cutting-Edge Widget Development: Strategies for Windows 11 Upgrades</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/infusing-vintage-directx-software-with-modern-dxvk-features/"><u>Infusing Vintage DirectX Software with Modern DXVK Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-whisper-converting-speech-to-text-on-windows/"><u>Mastering Whisper: Converting Speech to Text on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-file-error-on-windows-11/"><u>Overcoming Missing File Error on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-invalid-profile-warning-on-pc-win1011-advice/"><u>Remedying 'Invalid Profile' Warning on PC: Win10/11 Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-resetting-validity-of-user-profiles-on-win11-oses/"><u>Steps for Resetting Validity of User Profiles on Win11 OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-digital-preservation-backing-up-your-epic-games-data/"><u>The Art of Digital Preservation: Backing Up Your Epic Games Data</u></a></li>
 </ul></div>
 

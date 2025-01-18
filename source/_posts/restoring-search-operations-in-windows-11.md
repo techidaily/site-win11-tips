@@ -1,7 +1,7 @@
 ---
 title: Restoring Search Operations in Windows 11
-date: 2025-01-05T21:25:02.617Z
-updated: 2025-01-12T23:21:12.853Z
+date: 2025-01-14T18:13:35.643Z
+updated: 2025-01-18T17:13:56.444Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 ![The Check for updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-check-for-updates-button.jpg)
 4. If selecting**Check for updates** doesn’t automatically install everything available, click the**Download and Install** buttons for any other updates (including version 22H2).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run the Search Troubleshooting Tool
 
  Windows has troubleshooters that can fix all kinds of errors and issues. The Search and Indexing troubleshooter is the one for resolving search-related issues that occur in Windows. You may be able to fix the search tool not displaying results with that troubleshooter as follows:
@@ -47,12 +51,16 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 5. Click the**Can't start a search or see results** checkbox, and select the troubleshooter’s**Next** option. The **Files, folders, apps, or settings don't appear in results** checkbox is also a suitable option to select for troubleshooting this issue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Search and Indexing troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-search-and-indexing-troubleshooter.jpg)
 
  The steps for opening the Search and Indexing troubleshooter in Windows 10’s Settings app aren’t exactly the same. Click**Update & Security** \>**Troubleshoot** in Windows 10’s Settings app. Selecting**Additional troubleshooters** will bring up the list. Then you can click**Run the troubleshooter** for Search and Indexing to open it from there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Select the Enhanced Search Option
 
@@ -64,17 +72,13 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 ![The Search Windows navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-searching-windows-navigation-option.jpg)
 4. Then select the**Enhanced** radio button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Enhanced radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-enhanced-radio-button.jpg)
 5. Click the menu buttons for all excluded search folders listed below that option and select**Remove** .  
 
 ![The Remove option for excluded folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-remove-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Start the Windows Search Service
@@ -94,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 
  If the Windows Search service is already running, try restarting it. Select the**Stop** option for Windows Search. Wait a few minutes, and click the**Start** button for the service to restart it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Run a Scan With the SFC Tool
 
  Microsoft recommends users run the System File Checker (SFC) tool when Windows functions aren’t working right. In this case, the search function isn’t displaying results, which could be because of corrupted Windows files on your PC. This is how you can start an SFC scan:
@@ -111,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 ![The SFC scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-sfc-scan-command.jpg)
 5. Wait for the SFC tool to show a Windows Resource Protection scan outcome.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Rebuild the Search Tool’s Index
 
  A corrupted or outdated search index database is another potential cause for the search tool not displaying results. In this case, you may need to select to rebuild the search index. Doing so will wipe the current index’s content and restart the indexing. These are the steps for rebuilding the search index in Windows:
@@ -124,13 +120,17 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 ![The Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-large-icons-button.jpg)
 3. Click**Indexing Options** to view that applet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Advanced** in the Indexing Options window.
 5. Click**Rebuild** in the Index**Settings** tab.  
 ![The Rebuild button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-rebuild-option.jpg)
 6. Wait for the rebuilding to finish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Select**OK** \>**Close** to exit the indexing applet.
@@ -150,7 +150,7 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 7. Press**Enter** to execute the PowerShell command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Windows
@@ -159,11 +159,11 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-this-pc-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can perform a reset with the Reset this PC recovery tool. That utility includes an option for preserving user files. Our guide on[how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes instructions for applying this resolution with that tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Find Apps and Files Again With the Windows Search Tool
 
@@ -184,22 +184,24 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-realistic-or-risky-vrs-hidden-dangers/"><u>[New] Realistic or Risky? VR's Hidden Dangers</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-telegram-tactics-for-aspiring-marketers-a-compreeher-guide/"><u>[Updated] 2024 Approved Telegram Tactics for Aspiring Marketers A Compreeher Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-time-markers-for-youtube-videos-expert-tips-desktopmobile/"><u>[Updated] Time Markers for YouTube Videos Expert Tips (Desktop/Mobile)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ultimate-tips-for-mobile-content-capture-for-2024/"><u>[Updated] Ultimate Tips for Mobile Content Capture for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-ways-to-simplify-network-connection-configurations-in-winos/"><u>10 Ways to Simplify Network Connection Configurations in WinOS</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-your-youtube-presence-with-these-8-free-courses/"><u>2024 Approved Elevate Your YouTube Presence with These 8 Free Courses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-compreran-guide-to-windows-11-widget-toolbar-usage/"><u>A Compreran Guide to Windows 11 Widget Toolbar Usage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-global-scripts-windows-font-acquisition-guide/"><u>Accessing Global Scripts: Windows Font Acquisition Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activate-advanced-protection-features-for-win-11s-edge-using-defender-aguard/"><u>Activate Advanced Protection Features for Win 11'S Edge Using Defender Aguard</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-crash-code-0xc0000142-in-win11win7/"><u>Addressing Crash Code 0XC0000142 in WIN11/Win7</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazon-basics-60-adjustable-tablet-mount-assessment-easy-to-stow-away-anywhere/"><u>Amazon Basics 60° Adjustable Tablet Mount Assessment – Easy to Stow Away Anywhere!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-pitfalls-with-microsoft-teams-how-to-conquer-error-80080300/"><u>Avoiding Pitfalls with Microsoft Teams: How to Conquer Error 80080300</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210334614-9781506480404-blessings-for-the-long-night-poems-and-meditations-to-help-you-through-depression/"><u>Blessings for the Long Night: Poems and Meditations to Help You through Depression | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719359918304-error-handling-strategies/"><u>Error Handling Strategies</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-accessing-system-properties-on-windows-11/"><u>Step-by-Step Guide: Accessing System Properties on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719305742826-windows-pause-auto-updates-no-more-prompts/"><u>Windows Pause Auto-Updates: No More Prompts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-beats-and-bars-mastering-video-sounds-on-instagram-for-2024/"><u>[New] Beats & Bars Mastering Video Sounds on Instagram for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ovies-to-watch-instead-7-best-list/"><u>[New] Movies to Watch Instead - #7 Best List</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-spin-up-original-web-memes-instantly/"><u>[Updated] 2024 Approved Spin Up Original Web Memes Instantly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipating-the-next-apple-event-dates-news-scoops-and-hot-gossip-await/"><u>Anticipating the Next Apple Event? Dates, News Scoops, and Hot Gossip Await!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-worth-steadicams-for-high-end-aerial-film-production-for-2024/"><u>Best-Worth Steadicams for High-End Aerial Film Production for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-dual-displays-in-windows-11-easy-guide/"><u>Configuring Dual Displays in Windows 11 Easy Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-missing-display-in-boot-sequence/"><u>Diagnosing Missing Display in Boot Sequence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-new-era-gpt-3-web-and-plugin-updates/"><u>Embracing New Era: GPT-3 Web & Plugin Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-errors-with-copypaste-feature-on-windows-11/"><u>Fixing Errors with Copy/Paste Feature on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/head-to-head-comparison-of-the-playstation-5-slim-and-original-edition/"><u>Head-to-Head Comparison of the PlayStation 5 Slim and Original Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-sign-out-other-users-on-windows-11/"><u>How to Sign Out Other Users on Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instant-access-to-the-newest-canon-mp560-printer-drivers-download-guide/"><u>Instant Access to the Newest Canon MP560 Printer Drivers: Download Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-administrative-access-through-cmd/"><u>Leveraging Administrative Access Through CMD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfectly-positioned-win11s-6-image-rotation-methods/"><u>Perfectly Positioned: Win11's 6 Image Rotation Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-color-correctors-handbook-for-2024/"><u>The Ultimate Color Corrector's Handbook for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-ousting-the-focused-wallpaper-symbol/"><u>Windows 11: Ousting the Focused Wallpaper Symbol</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-system-lifespan-indicator/"><u>Windows System Lifespan Indicator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-own-voice-recognition-tool-building-with-ahk-and-whisper-on-windows/"><u>Your Own Voice Recognition Tool: Building with AHK and Whisper on Windows</u></a></li>
 </ul></div>
 

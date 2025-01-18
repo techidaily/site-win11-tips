@@ -1,7 +1,7 @@
 ---
 title: "Bypassing PIN Locks: Fixes for Windows OS"
-date: 2024-07-29T08:15:21.386Z
-updated: 2024-07-30T08:15:21.386Z
+date: 2025-01-15T18:07:52.139Z
+updated: 2025-01-18T17:36:39.365Z
 tags:
   - windows10
   - windows11
@@ -26,16 +26,14 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 
  Your computer must be connected to an active internet connection to reset your PIN. Therefore, turn on your computer and ensure that the internet is connected. To reset your PIN, go to the profile's login page and click on **I forgot my PIN**.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Clicking on I Forgot My PIN in Windows Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/Clicking-on-I-Forgot-My-PIN-in-Windows-Home-Screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can either reset the PIN by verifying your identity with your Microsoft account password or choose an alternative sign-in option by clicking **Send code**, which sends a code to your email address.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Notifying About Receiving the Code to Reset Pin on the Windows Login Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/Windows-Notifying-About-Receiving-the-Code-to-Reset-Pin-on-the-Windows-Login-Screen-Censor-1.jpg)
 
  If you select the latter option, enter the code you received by email and click **Continue**. Windows will direct you to enter a new PIN here, so enter it, confirm it once, and click **OK**.
@@ -60,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
  If you don't remember your account password, you can reset it just like you can your PIN. Unlike resetting the PIN, resetting the password mostly goes smoothly and lets you sign in.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Delete the Ngc Folder in Windows
 
  Windows stores all your PIN-related settings in this folder, so if the OS isn't accepting your PIN, which is correct, you should delete this folder. This process will wipe out all PIN-related data from the OS. You can then set up a new PIN, which should work fine.
@@ -71,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 1. Log in to your administrator account.
 2. Navigate to **C: drive > Windows> ServiceProfiles > LocalService > AppData > Local> Microsoft**.
 3. Locate the Ngc folder, right-click on it, and hit **Delete**.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Deleting Ngc Folder in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/Deleting-Ngc-Folder-in-Windows-10-Edit.jpg)
 
  Navigate to **Settings > Accounts > Sign-in options** to set up a new PIN after deleting the old one. Afterward, click on **Windows Hello PIN**, add a new PIN, and hopefully, the PIN will start working on your operating system.
@@ -83,8 +79,9 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
  If this fix also doesn't resolve the issue, it lies somewhere else that needs to be investigated further.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Rule Out User Account Specific Issues
 
  When troubleshooting PIN issues, it's essential to rule out account-specific problems first. To begin with, check that the problem does not persist on a single Microsoft account. The best way to confirm this is to switch to a local account. To do that, follow the below steps:
@@ -93,11 +90,13 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 2. Go to **Accounts**.
 3. Navigate to **Your info** in the left-sidebar.
 4. Click on **Sign in with a local account instead**.  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![changing accounts settings in windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/changing-accounts-settings-in-windows-10-settings-app-edit.jpg)
 5. Click on **Next**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Enter your PIN.
 7. Set up your local account by adding your username and password.
 8. Once done, hit **Next**.  
@@ -128,18 +127,6 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 
  Group Policy Editor isn't available in the Windows Home edition by default. You can skip this fix if you're using the Home edition or try [alternative ways to get the Group Policy Editor](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/).
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Update or Downgrade Your OS
 
  According to [Microsoft support helpers](https://answers.microsoft.com/en-us/windows/forum/all/pin-not-working-on-windows-10/d444ebfb-d643-40b5-be62-1569454118d1), one of the possible causes of PIN not working on Windows may be recent updates. If you remember doing an update recently, you need to [roll the update back](https://www.makeuseof.com/tag/regret-update-windows-10-revert-version/).
@@ -151,6 +138,10 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 3. Navigate to **Windows Update** in the left sidebar.
 4. Click on **Check for updates** box.  
 ![Checking for Windows PC updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/9-Checking-for-Windows-PC-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows will automatically check for the latest updates and update itself if necessary. After your OS has been updated, try logging in again with your PIN if it works this time.
 
@@ -166,9 +157,6 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 
  Aside from that, malware infections can also impair many system functions. Thus, it is imperative to rule out this possibility. You can easily do this by [running a Microsoft Defender offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/). By scanning the system, you can ensure that no hidden malware is affecting its performance.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Run an SFC Scan
 
  When you remove malware from your computer, make sure it hasn't corrupted any Windows files that might have caused the issue at hand.
@@ -178,15 +166,14 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
  If running the SFC scan does not fix the problem, you can [revert your system to an earlier restore point](https://www.makeuseof.com/use-system-restore-windows/) where the PIN was working. You can only do this if you've already created a restore point. Otherwise, it's impossible.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## PIN Still Isn’t Working on Windows?
 
  After you have tried all fixes listed above and the issue persists, consider restoring your computer to a previous point where the PIN was working fine. If that doesn't solve the problem either, it's best to factory reset your computer as a last resort.
 
  Likewise, not updating your operating system for long, being infected with malware, or corrupted system files can also prevent your login PIN from working. If you're having trouble logging in to your device using your Windows Hello PIN, give the following solutions a shot.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -194,3 +181,20 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-block-youtube-channels-on-computer-and-mobile-phones-for-2024/"><u>[Updated] How to Block YouTube Channels on Computer and Mobile Phones for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-efficient-video-download-from-facebooks-domain/"><u>2024 Approved Efficient Video Download From Facebook's Domain</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-skyrim-x-script-woes-on-windows/"><u>Enhance Skyrim: X-Script Woes on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/error-free-operation-a-step-by-step-guide-to-resolving-the-device-wont-start-problem-including-code-10-mishaps/"><u>Error-Free Operation: A Step-by-Step Guide to Resolving the 'Device Won't Start' Problem, Including Code 10 Mishaps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fiverr-cover-content-proportions/"><u>Fiverr Cover Content Proportions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-blaze-2-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Blaze 2 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/network-knights-guide-to-overcoming-obs-studios-windows-hiccup-7-ways/"><u>Network Knights' Guide to Overcoming OBS Studio's Windows Hiccup (7 Ways)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-interpreting-error-messages-in-w11-using-ms-tools/"><u>Step-by-Step Guide to Interpreting Error Messages in W11 Using MS Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11-installation-errors-head-on/"><u>Tackling Windows 11 Installation Errors Head-On</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranked-notebooks-unveiled-at-ces-2024-a-comprehensive-guide/"><u>Top-Ranked Notebooks Unveiled at CES 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-stylus-pens-for-your-ipad-finding-the-perfect-match/"><u>Top-Rated Stylus Pens for Your iPad: Finding the Perfect Match</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy M34 | Dr.fone</u></a></li>
+</ul></div>
+

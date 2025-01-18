@@ -1,7 +1,7 @@
 ---
 title: "Fine-Tune Your PC's Performance: Avoiding Sudden Updates on Windows 11"
-date: 2024-08-08T11:02:39.987Z
-updated: 2024-08-09T11:02:39.987Z
+date: 2025-01-17T17:12:55.518Z
+updated: 2025-01-18T17:25:46.520Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,11 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
 4. Click on **Active hours** to expand it.
 5. Use the drop-down menu next to **Adjust active hours** to select **Manually**.
 6. In the **Start time** and **End time** fields, specify the hours during which you typically use your device.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Set Active Hours Manually via the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-the-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Set Active Hours Manually Using the Group Policy Editor
 
@@ -50,10 +51,11 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
 5. Select the **Enabled** option.
 6. Under **Options**, use the drop-down menus next to **Start** and **End** to specify your active hours.
 7. Hit **Apply** followed by **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Set Active Hours Manually via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-group-policy-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Set Active Hours Manually With the Registry Editor
 
@@ -70,20 +72,18 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
 7. Click **OK** to save the value.  
 ![Set Active Hours Manually via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-registry-editor.jpg)
 8. Double-click the **ActiveHoursEnd** entry to set the end time of your active hours in the 24-hour format. For instance, if you want to set the end time to **5:00 PM**, type **17** in the Value data field and click **OK**.
-9. Exit the Registry Editor window.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+9. Exit the Registry Editor window.  
 ![Set Active Hours Manually via the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-the-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Configure Windows to Set Active Hours Automatically
 
  You can also configure Windows to set active hours automatically. Doing so will allow Windows to analyze your usage patterns and automatically adjust the active hours accordingly.
@@ -93,21 +93,17 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
 1. Use one of [the many ways to open the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/).
 2. Navigate to **Windows Update > Advanced options > Active hours**.
 3. Click the drop-down menu next to **Adjust active hours** and select **Automatically**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Set Active Hours Automatically on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-automatically-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Setting Active Hours on Windows Is Easy
 
  Once you set the active hours using one of the above methods, Windows will avoid initiating automatic restarts for updates during the specified period. As a result, you won’t be interrupted by sudden reboots during your work hours.
 
  You can set active hours in Windows via the Settings app, the Group Policy Editor, or the Registry Editor. Let’s go through each of these methods in detail.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -115,3 +111,20 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-crafting-an-apple-powered-athletic-broadcast-platform/"><u>[New] Crafting an Apple-Powered Athletic Broadcast Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-method-to-dismiss-incorrect-virus-notifications-on-windows-chrome/"><u>Efficient Method to Dismiss Incorrect Virus Notifications on Windows Chrome</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-performance-of-amazons-fire-7-device-meeting-basic-requirements-expert-review-by-zdnet/"><u>Evaluating the Performance of Amazon's Fire ^7 Device: Meeting Basic Requirements? | Expert Review by ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-quickly-resolving-windows-error-0xc0000001/"><u>Expert Tips for Quickly Resolving Windows Error 0xC0000001</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-tecno-pova-5-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Tecno Pova 5 Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27-4g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y27 4G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-narzo-60-pro-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme Narzo 60 Pro 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-list-facebooks-top-10-vids/"><u>In 2024, The Ultimate List Facebook's Top 10 Vids</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-methods-for-iphone-image-arrangement/"><u>Innovative Methods for iPhone Image Arrangement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-app-problem-solving-with-7-actions/"><u>Streamlining Windows App Problem-Solving with 7 Actions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-overcome-windows-steam-display-problems/"><u>Tips to Overcome Windows Steam Display Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-big-files-windows-disk-space-cleanup-guide/"><u>Uncovering Big Files: Windows Disk Space Cleanup Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Mitigating Operation Failure (Error: 0X0000011B) in Windows 11"
-date: 2024-08-08T11:03:17.216Z
-updated: 2024-08-09T11:03:17.216Z
+date: 2025-01-14T18:25:37.422Z
+updated: 2025-01-18T16:24:35.539Z
 tags:
   - windows10
   - windows11
@@ -29,26 +29,26 @@ thumbnail: https://thmb.techidaily.com/f999915018347bdff47350b20a165acd94706d7ed
 1. Press**Win + R** to open**Run** .
 2. Type**services.msc** and click**OK** .
 3. In the**Service** snap-in, locate the**Print Spooler** service.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![print spooler service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/print-spooler-service-properties.jpg)
 4. Next, right-click on the service and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![print spooler service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/print-spooler-service-startup-type-automatic.jpg)
 5. In the**Properties** dialog, open the**General** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![restart print spooler service 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-print-spooler-service-1.jpg)
 6. Click the**Startup type** drop-down and set it to**Automatic** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Apply** and**OK** to save the changes.
 8. Right-click on**Print** **Spooler** again and click**Restart** .
 9. Once the Print Spooler service is up and running, create a new print job and check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Install All the Pending Windows Updates
 
 ![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
@@ -70,23 +70,31 @@ To check and install Windows updates:
 1. Press**Win + I** to open**Settings** .
 2. Next, click on**Devices** and then open the**Printers & scanners** tab.
 3. Next, click on**Add a printer or scanner** . Windows will scan for available printers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![the printer that i want isnt listed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-printer-that-i-want-isnt-listed.jpg)
 4. Click on the**The printer that I want isn’t listed** option. If you don't see the option immediately, wait for a few seconds after clicking on the**Add a printer or scanner** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the**Add Printer** dialog, select **Add a local printer or network printer with manual settings.**  
 ![add local printer network printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-local-printer-network-printer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Under**Choose a printer por** t, select**Create a new port.**  
 ![create new port local port add printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-port-local-port-add-printer.jpg)
 2. Click the drop-down for**Type of port** and select**Local Port.**
 3. Click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![enter port name printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-port-name-printer.jpg)
 4. Type your network printer file path and the network printer name in the**Enter a port name** field. You can use the username or the IP address for the computer name and then the printer name you want to share.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**OK** to save the printer.
 
 1. Next, select your printer manufacturer from the list to install the printer driver.
@@ -97,9 +105,6 @@ To check and install Windows updates:
 
  Your newly added printer will now appear under**Device and Printer** in**Control Panel** and the**Settings** app. Give a new print job to see if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Disable the CVE-2021-1678 Registry Fix
 
  The problematic security update included a security fix to patch the Printer Spooler Spoofing vulnerability dubbed CVE-2021-1678\. However, the new changes seem to have triggered the 0x0000011B operation failed error.
@@ -124,9 +129,6 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 8. Close**Registry Editor** and restart your PC to apply the changes.
 9. After the restart, try to use your shared printer and check if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Uninstall Recently Installed Updates
 
  Assuming the issue is triggered after you installed a Windows security update, uninstalling the update should undo the changes and fix the error. You can uninstall some individual updates from the Windows updates section. This feature is specifically available to undo issues that may have occurred after installing an update.
@@ -139,21 +141,22 @@ To uninstall Windows updates:
 2. Type**control** and click**OK** to open**Control Panel.**  
 ![control panel uninstall programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs.jpg)
 3. Next, click on**Programs** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
-4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
-![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
-5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
-6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
+4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
+![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
+5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
+
 ## Fixing the 0x0000011b Printing Error on Windows
 
  This error has largely affected Windows 10 computers. To fix the issue, try to install all the pending Windows updates that may include a hotfix. You can also add the printer manually to a local port or edit the registry entry to disable the problematic setting. If nothing works, uninstalling the security update may be the last resort. However, doing so can put your computer at risk of print spooler spoofing vulnerability.
@@ -164,8 +167,6 @@ To uninstall Windows updates:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +174,21 @@ To uninstall Windows updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-from-concept-to-completion-review-of-magix-vpx/"><u>[Updated] 2024 Approved From Concept to Completion Review of Magix VPX</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-flexible-cam-mount-revolutionary-positioning-control-for-2024/"><u>[Updated] Flexible Cam Mount Revolutionary Positioning Control for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-speech-capture-simplified-ipad-edition/"><u>[Updated] Speech Capture Simplified IPad Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-to-dominate-kinemaster-and-identify-top-online-video-services/"><u>2024 Approved Expert Tips to Dominate KineMaster & Identify Top Online Video Services</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-is-there-a-science-to-youtubes-quick-subscribe-tactic/"><u>2024 Approved Is There a Science to YouTube's Quick Subscribe Tactic?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-action-cams-that-keep-moving-steady/"><u>2024 Approved Leading Action Cams That Keep Moving Steady</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-through-win11s-disconnecting-gifs-dilemma-fixes-in-discord/"><u>Cutting Through Win11's Disconnecting GIFs Dilemma: Fixes in Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-techniques-to-manage-windows-key-settings/"><u>Expert Techniques to Manage Windows Key Settings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-sonic-excellence-strategies-to-amplify-your-audio-quality/"><u>In 2024, Sonic Excellence Strategies to Amplify Your Audio Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-usb-security-in-modern-operating-systems/"><u>Optimizing USB Security in Modern Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-windows-touchpad-commands/"><u>Restoring Functionality to Windows Touchpad Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-pc-efficiently-eliminate-extra-software-on-win11/"><u>Revamp Your PC: Efficiently Eliminate Extra Software on Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-comprehensive-guide-to-chatgpt-enterprise-key-features-services-and-edge-over-competitors/"><u>The Comprehensive Guide to ChatGPT Enterprise – Key Features, Services, and Edge Over Competitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-setting-up-pc-manager-on-windows-11/"><u>The Essentials of Setting Up PC Manager on Windows 11</u></a></li>
+</ul></div>
 

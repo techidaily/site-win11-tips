@@ -1,7 +1,7 @@
 ---
 title: "Highlighting Key Features: Windows 11, FEB Update"
-date: 2024-08-08T11:02:14.657Z
-updated: 2024-08-09T11:02:14.657Z
+date: 2025-01-16T16:09:24.499Z
+updated: 2025-01-18T18:07:06.782Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,12 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
  In this article, we will discuss the top nine exciting new features you can try right now after installing the Windows 11 February 2023 update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Search for Processes or Tasks in Task Manager
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Search in Taskbar Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-in-taskbar-manager.jpg)
 
  Before the February 2023 update, there was no search functionality in Task Manager. As a result, users could not find the task or process quickly. The February feature drop fixes the issue by introducing a search strip at the very top of the Task Manager.
@@ -33,11 +34,12 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
  To open the Task Manager, right-click on the Taskbar and select**Task Manager** . If you are not thorough with it,[check out how to use Windows Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. A New Taskbar for Tablet Users
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Tablet optimized taskbar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/tablet-optimized-taskbar-in-windows-11.jpg)
 
  Image credit:[Microsoft](https://blogs.windows.com/windows-insider/2022/09/08/announcing-windows-11-insider-preview-build-25197/)
@@ -51,13 +53,11 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
  Bear in mind the ability to select between two taskbar modes is available only for tablets and convertibles.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. New Designs for the Search Bar in the Taskbar
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Search design options in Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/searchbar-options.jpg)
 
  You can finally change the design of Search on the Windows 11 Taskbar after installing the February 2023 update. Three different design options exist for the Taskbar Search:**Search icon only** ,**Search icon with label** , and**Search box** .
@@ -66,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
 ## 4\. New Energy Recommendations Settings to Reduce Your Carbon Footprint
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Energy Recommendations in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/energy-recommendations-in-windows-11.jpg)
 
  The February 2023 feature drop offers a new way to control your environmental impact by introducing**Energy Recommendations** in the Settings app. The new setting allows you to reduce your carbon footprint by lowering the energy consumption of your PC.
@@ -84,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
  While you should always aim to reduce the power consumption of your PC, make sure it does not come at the expense of lesser performance and productivity.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Access the Windows Studio Effects Directly From the Taskbar in Quick Settings
 
 ![Windows 11 Studio Effects in Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-studio-effects-in-quick-settings.jpg)
@@ -114,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
  If you are not familiar with Widgets, check out[how to get started with Windows 11's Widgets](<http://If> the previous state of the panel was full-screen, it would take the entire screen space when you launch it next time.) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Record Your Screen With the Snipping Tool
 
 ![New Snipping Tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-snipping-tool-in-windows-11.jpg)
@@ -125,8 +127,9 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
  You can click the Start button on the Taskbar and type "Snipping Tool," and then press**Enter** on your keyboard to open the app. To start a screen recording session, click the**video cam icon** and click**New** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. A Tabbed Interface in Notepad
 
 ![Tabbed interface in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/tabbed-interface-in-notepad-2.jpg)
@@ -135,16 +138,14 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
  If you are not seeing tabs in Notepad after upgrading to the February 2023 update, go to Microsoft Store and get the latest version of the app.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Else Is Included in the Windows 11 February 2023 Update?
 
  Microsoft also introduced a redesigned Quick Assist app, voice access improvements, AI-powered file recommendations in Start for AAD joined devices, and Phone Link for iOS (Preview) devices in the February 2023 update. The software giant also introduced the new AI Bing in Windows 11 taskbar search but removed it a few days later.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## You Can Do More With the Windows 11 February 2023 Update
 
  With the above-mentioned exciting features in the Windows 11 February 2023 update, your PC can be more power efficient, more customizable, and help you be more productive. And since this is not an Insider release, all the above features should work as you would like.
@@ -155,8 +156,6 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +163,26 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-inside-the-secrets-of-quantum-hdr-photography/"><u>[New] 2024 Approved Inside the Secrets of Quantum HDR Photography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-ultimate-choice-top-5-pro-fish-action-cameras/"><u>[New] 2024 Approved Ultimate Choice Top 5 Pro-Fish Action Cameras</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-quick-tips-for-posting-videos-on-instagram/"><u>[New] In 2024, Quick Tips for Posting Videos on Instagram</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-12-best-sites-for-downloading-yt-template-videos/"><u>[Updated] 2024 Approved 12 Best Sites for Downloading YT Template Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-no-cost-editing-programs-for-your-windows-7-pc/"><u>Best No-Cost Editing Programs for Your Windows 7 PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/crucial-traits-to-look-out-for-gaming-chairs/"><u>Crucial Traits to Look Out for Gaming Chairs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-solving-forgotten-hdd/"><u>Diagnosing and Solving Forgotten HDD</u></a></li>
+<li><a href="https://win-webster.techidaily.com/effortless-steps-mastering-ipad-backups-using-itunes-a-comprehensive-manual/"><u>Effortless Steps: Mastering iPad Backups Using iTunes - A Comprehensive Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-find-the-sid-of-any-user-in-windows-11/"><u>How to Find the SID of Any User in Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-gt-3-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme GT 3 Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-transform-sluggish-to-speedy-on-android-vids/"><u>In 2024, Transform Sluggish to Speedy on Android Vids</u></a></li>
+<li><a href="https://howto.techidaily.com/infinix-note-30-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-fixing-disabled-hard-drive-on-your-windows-11-pc/"><u>Quick Steps to Fixing Disabled Hard Drive on Your Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-preview-hurdles-in-windows-version-of-office-mail/"><u>Removing Preview Hurdles in Windows Version of Office Mail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-steam-connection-to-your-windows-system/"><u>Restoring Steam Connection to Your Window's System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-typing-routine-with-9-quick-fixes-for-broken-windows-shortcuts/"><u>Revitalize Your Typing Routine with 9 Quick Fixes for Broken Windows Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-workflow-with-additional-context-menu-commands/"><u>Streamlined Workflow with Additional Context Menu Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unpacking-the-variability-in-cloud-and-local-windows-protocols/"><u>Unpacking the Variability in Cloud & Local Windows Protocols</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-live-boost-your-pc-with-these-3-usb-steps/"><u>Windows 11 Live! Boost Your PC with These 3 USB Steps</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Conquering No Email Alert: Swift Solutions for Windows 11 Users"
-date: 2024-08-08T11:03:53.942Z
-updated: 2024-08-09T11:03:53.942Z
+date: 2025-01-14T16:55:14.006Z
+updated: 2025-01-18T17:06:09.296Z
 tags:
   - windows10
   - windows11
@@ -20,29 +20,32 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 
  Fortunately, fixing the "System error can't get mail" error is a breeze. Simply apply the solutions below to troubleshoot the problem for good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Start With Some Quick and Simple Fixes
 
  Before making any significant changes to your computer, try logging out and back into the Mail app. This will eliminate any temporary bugs or glitches that may be causing the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Log In and Out of Mail, Then Restart the App
 
  To log out of the Mail app, right-click on your account in the left sidebar and choose**Account settings.** Then, select the**Delete account** **from this device** option and click**Delete** in the following window.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![Delete account from this device option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-account-from-this-device-option.jpg)
 
  Now, restart the Mail app and click the**Gear icon** at the bottom right corner of the left sidebar. In the Settings window that crops up, choose**Manage accounts** and then**Add account.** Then, enter the credentials to log in with your account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Add account option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Check the Date and Time on Windows
 
  As mentioned earlier, incorrect date and time settings can also be a prime reason behind the Mail error. If it's wrong, check out[how to change the date and time on Windows](https://www.makeuseof.com/windows-11-change-date-time/) .
@@ -51,14 +54,14 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 
  If the Mail app is blocked under the Windows Firewall settings, it will fail to fetch emails and show the "System error can't get mail" error. To fix this, you'll have to[allow the Mail app to run through the Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update Windows
 
  The error can also appear due to an outdated Windows version. So, download any available Windows update to eliminate the problem at hand. To do that, open the**Settings app** (see how to[access Settings in Windows 11](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ), choose**Windows Update** from the left sidebar, and then click on the**Check for updates** option in the right pane.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Check for Updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-updates-option.jpg)
 
 ## 2\. Use the Windows Update Troubleshooter
@@ -71,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 
  Next, go through the troubleshooter and apply all suggestions to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 3\. Change the Mail App Privacy Settings
 
  The 'System error can't get mail' error will likely crop up if the Mail and Calendar app doesn't have permission to access your email. To fix the issue, you'll have to enable email access for the Mail and Calendar app. Here's how:
@@ -81,22 +81,17 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 1. Launch the Settings app and choose**Privacy & security** from the left sidebar.
 2. Click the**Email** navigation option.
 3. Enable the toggle next to**Email access** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Email access toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/email-access.jpg)
 4. Click the drop-down icon next to**Let apps access your email** to view its expanded options.
 5. Enable the toggle next to**Mail and Calendar** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![Mail and Calendar toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mail-and-calendar-toggle.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, restart your system and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Repair and Reset the Mail App
 
  Are you still getting the error message? If yes, you'll have to repair the Mail app to fix the issue. You can do that by following these steps:
@@ -105,9 +100,6 @@ Now, restart your system and check for the issue.
 2. Click the**three dots** next to**Mail and Calendar** app and choose**Advanced options.**  
 ![Advanced options in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options.jpg)
 3. Click the**Repair** button.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![Repair option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-option.jpg)
 
  Once the repair process is complete, you'll see a checkmark next to the Repair button. Next, restart your system and check for the issue. If it continues, reset the Mail app as a last resort.
@@ -116,20 +108,21 @@ Now, restart your system and check for the issue.
 
 ![Reset option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use the Mail App to Access Your Emails Again on Windows
 
  Accessing emails is an essential aspect of our daily communication, and with the Mail app in Windows 11, you can easily do that. However, you might face the 'System error can't get mail' error while using the Mail app.
 
  Encountering this error can be frustrating as it prevents you from accessing your vital emails. Fortunately, the above solutions can help you troubleshoot the issue quickly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +131,24 @@ Now, restart your system and check for the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-downloading-and-saving-fb-video-files-os-agnostic-guide/"><u>[New] Downloading and Saving FB Video Files OS-Agnostic Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-your-creative-spirit-from-images-to-videos-using-pixiz/"><u>2024 Approved Unleash Your Creative Spirit From Images to Videos Using Pixiz</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-pause-in-live-steam-broadcasts/"><u>Eliminating Pause in Live Steam Broadcasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-blue-screen-error-in-winos/"><u>Eradicating Blue Screen Error in WINOS</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-apple-iphone-15-pro-max-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your Apple iPhone 15 Pro Max and iPad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-too-many-background-processes-running-on-a-windows-pc/"><u>How to Fix Too Many Background Processes Running on a Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-ical-sync-with-windows-a-step-by-step-guide/"><u>Mastering iCal Sync with Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-connectivity-woes-how-to-restore-wi-fi-access-on-your-ios-devices/"><u>Overcoming Connectivity Woes: How to Restore Wi-Fi Access on Your iOS Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-sony-xperia-1-v-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Sony Xperia 1 V Black and White | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reach-every-corner-global-navigation-with-powertoys-magic/"><u>Reach Every Corner - Global Navigation with PowerToys' Magic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-steps-for-windows-update-component-revival/"><u>Simplified Steps for Windows Update Component Revival</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-tech-life-top-10-ways-to-access-mouse-properties/"><u>Simplify Your Tech Life: Top 10 Ways to Access Mouse Properties</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-systems-uncovering-5-prime-performance-strategies/"><u>Swift Systems: Uncovering 5 Prime Performance Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/swiftly-delete-autoplayed-podcast-suggestions-on-spotify-for-2024/"><u>Swiftly Delete Autoplayed Podcast Suggestions on Spotify for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-a79-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo A79 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/king-the-door-to-dual-video-playback-for-2024/"><u>Unlocking the Door to Dual Video Playback for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-easy-video-editing-top-picks-for-beginners-free-and-paid-for-2024/"><u>Updated Easy Video Editing Top Picks for Beginners (Free & Paid) for 2024</u></a></li>
+</ul></div>
 

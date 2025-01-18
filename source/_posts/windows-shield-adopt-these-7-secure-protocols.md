@@ -1,7 +1,7 @@
 ---
 title: "Windows Shield: Adopt These 7 Secure Protocols"
-date: 2025-01-10T21:39:17.310Z
-updated: 2025-01-13T02:39:43.998Z
+date: 2025-01-11T17:47:45.037Z
+updated: 2025-01-18T17:09:33.153Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the Point of Security Measures Against Unauthorized Windows Access?
 
  At its core, using strong security measures on your Windows is really just about that: keeping your security tight, so you are not open to abrupt attacks.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
  For example, if you use your Windows computer in a public environment like a library or cafe, you will inadvertently make yourself vulnerable to network hacks of different sorts. Similarly, if your computer is accessed by many people, a lack of solid safety measures can turn out to be very costly.
 
  Putting in strong checks against such attacks, therefore, is essential. Let's look at all possible options on Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Use a Strong PIN or Password
 
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
 [Setting up a PIN on Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) is slightly different from putting a password on Windows. While both carry out a similar function, you might prefer one over the other depending on your interests. Whatever option you pick, make sure you always have a strong account encryption set up for your Windows from here on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set Up Two-Factor Authentication on Your Microsoft Account
 
  Two-factor authentication (2FA) is a common defense tactic for improving your account's security. As its name suggests, 2FA works by requiring two contact methods: your password and a contact method (which will be a security code sent to your phone or email).
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
  So, after you have set up 2FA, even if someone manages to figure out your password, they will also need the contact code that's received to your email or phone after you enter the password. Naturally, this makes unauthorized access to your Windows account extremely difficult.
 
  You can check out how to do this and more as part of our [tricks to keep your Outlook and Microsoft accounts secure](https://www.makeuseof.com/tag/tricks-outlook-microsoft-account-secure/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable Windows Security
 
@@ -71,22 +71,22 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
  On Windows, this firewall is called the Windows Firewall, which you can enable or disable with the help of Windows Security. So be sure to [set up Windows Firewall](https://www.makeuseof.com/windows-11-open-firewall-control-panel/) and you will be good to go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Use BitLocker
 
  BitLocker works by encrypting the disk data on your Windows and works as a great second layer of defense. So, even if someone manages to access your PC, in the case of a theft, for example, they won't be able to access your data without a key.
 
  As such, [enabling BitLocker on Windows](https://www.makeuseof.com/bitlocker-windows-11-guide/) is a great hack to boost your computer's security.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Keep Your Windows Updated
 
 ![update on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows updates are a vital component for any PC. They patch up recurring bugs and bring in new features. Most importantly, they install the latest Windows security updates.
@@ -96,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 ## 7\. Keep Aware of Social Engineering Tactics
 
 ![man looking at laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/man-looking-at-laptop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Social engineering](https://www.makeuseof.com/tag/social-engineering-makeuseof-explains/) is about using clever hacks and manipulating people into giving or stealing their personal information. It makes use of the common weaknesses in human nature to break into otherwise strong systems.
 
@@ -112,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
  We have listed just a handful of examples and you can find a whole [list of social engineering attacks](https://www.makeuseof.com/tag/protect-8-social-engineering-attacks/) if you'd like to dig deeper.
 
  Because social engineering scams involve fooling humans, there are limited tech hacks to counter them. In fact, the most significant way to avoid them is by being mindful of the present moment and refraining from taking instant reactions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Best Ways to Stop Unauthorized Access to Your Windows Computer
 
@@ -129,18 +129,22 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-photographers-guide-to-online-image-editing-and-cropping/"><u>[New] The Photographer's Guide to Online Image Editing and Cropping</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transcription-mastery-for-office-productivity-using-microsoft-words-voice-recognition-features/"><u>[New] Transcription Mastery for Office Productivity Using Microsoft Word's Voice Recognition Features</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unveiling-the-top-5-facebook-video-downloaders-today-for-2024/"><u>[New] Unveiling the Top 5 Facebook Video Downloaders Today for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-chucklechisel-app-for-2024/"><u>[Updated] ChuckleChisel App for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-steps-tackling-windows-not-found-issue/"><u>Essential Steps: Tackling Windows' Not Found Issue</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/examining-common-culprits-leading-to-fps-variability/"><u>Examining Common Culprits Leading to FPS Variability</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722120742012-how-does-the-openai-bug-hunt-work-learn-about-their-reward-system-and-get-started/"><u>How Does the OpenAI Bug Hunt Work? Learn About Their Reward System & Get Started</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-troubleshoot-common-issues-with-closed-captioning-in-windows-10/"><u>How to Troubleshoot Common Issues with Closed Captioning in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-controlling-external-hard-drive-access/"><u>Mastering the Art of Controlling External Hard Drive Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reducing-excessive-memory-consumption-in-antivirus-tools/"><u>Reducing Excessive Memory Consumption in Antivirus Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-pairing-linking-your-airpods-with-macos/"><u>Seamless Pairing: Linking Your AirPods with macOS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-noise-reduction-techniques-in-adobe-premiere-pro/"><u>Step-by-Step Guide: Noise Reduction Techniques in Adobe Premiere Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-wi-fi-setup-addressing-inadequate-actions-on-pcs/"><u>Streamlining Wi-Fi Setup: Addressing Inadequate Actions on PCs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-complete-assessment-hero4-black-potential-for-2024/"><u>[New] Complete Assessment Hero4 Black Potential for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-taking-igtv-viewership-to-new-peaks-5-innovative-approaches/"><u>[New] Taking IGTV Viewership to New Peaks 5 Innovative Approaches</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-elevate-your-igtv-presence-strategies-for-perfecting-video-lengths-and-widths/"><u>[Updated] 2024 Approved Elevate Your IGTV Presence Strategies for Perfecting Video Lengths and Widths</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-decoding-the-fisheye-dilemma-in-gopro-videos/"><u>[Updated] Decoding the Fisheye Dilemma in GoPro Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-examining-splitcams-video-quality-against-competitors/"><u>[Updated] Examining SplitCam's Video Quality Against Competitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/m1vmpeg-movavi/"><u>無料で簡単な動画編集: M1VからMPEGへの変換ツール - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertir-archivos-de-animacion-gif-gratis-al-formato-mpeg-usando-movavi-en-linea/"><u>Convertir Archivos De Animación (GIF) Gratis Al Formato MPEG Usando Movavi en Línea</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crear-cine-gratuito-las-mejores-opciones-en-linea-para-desarrolladores-sin-finanzas-top-11/"><u>Crear Cine Gratuito: Las Mejores Opciones en Línea Para Desarrolladores Sin Finanzas (Top 11)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creative-teaching-essential-editing-wisdom/"><u>Creative Teaching Essential Editing Wisdom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decouvrez-des-idees-creatives-pour-une-visite-medicale-enjouee/"><u>Découvrez Des Idées Créatives Pour Une Visite Médicale Enjouée</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-transition-from-mpg-to-m4v-get-started-here-for-free/"><u>Effortlessly Transition From MPG to M4V - Get Started Here for Free!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-latest-gadgets-at-toms-hardware-review-site/"><u>Expert Analysis on Latest Gadgets at Tom's Hardware Review Site</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-s23plus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy S23+ to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/mp4vr4/"><u>MP4に対応するVRオフィスの自由移行ガイド！成功確実な変換ソリューション4つ</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-gratis-flac-naar-wmv-omzetten-met-de-hulpprofielen-van-movavi-vrijetijdsbestedende-informatica/"><u>Online Gratis FLAC Naar WMV Omzetten Met De Hulpprofielen Van Movavi - Vrijetijdsbestedende Informatica</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-swf-file-creation-from-mkv-cost-free-converter-by-movavi/"><u>Online Swf File Creation From Mkv - Cost-Free Converter by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726221740994-top-13/"><u>TOP 13 가장 좋은 무료 화면 녹화 소피처: 제가 구현한 전공 기술</u></a></li>
 </ul></div>
 

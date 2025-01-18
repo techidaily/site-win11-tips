@@ -1,7 +1,7 @@
 ---
 title: Reactivating Compromised Ctrl Functionality in Win11
-date: 2025-01-10T21:48:19.130Z
-updated: 2025-01-12T23:26:27.401Z
+date: 2025-01-16T18:09:07.317Z
+updated: 2025-01-18T16:54:13.576Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Isn't the Ctrl Key Working on Windows 11?
 
  If the Ctrl key on your Windows computer stops working, you may have trouble executing commands and shortcuts. Here are some of the most common reasons why this might happen:
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
  If the Ctrl key on your keyboard isn't functioning, your first course of action should be to [restart your Wiindows computer](https://www.makeuseof.com/windows-restart-methods/). This action will eliminate any potential bugs or glitches responsible for the problem. Before restarting, ensure that you save any active documents or work to prevent any data loss.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check for Physical Damage
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ![Keyboard layout on a Keyboard Testing website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-layout.jpg)
 
  If the website doesn't recognize the Ctrl key input, it's probable that your keyboard has sustained damage. There might be debris or other particles that are responsible for the issue. In that case, use a gentle brush or a microfiber cloth to cleanse the affected area. If you need help, check out our guide on how to [clean beneath keyboard keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use the Windows Troubleshooter
 
@@ -71,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 4. Click the **Run** button next to Keyboard.  
 ![Keyboard troubleshooter in the setting menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Keyboard-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The troubleshooter will now look for any issues with your keyboard and try to fix them. However, if the keyboard troubleshooter fails to fix the issue, run the Hardware and Devices troubleshooter instead. For that, follow these instructions:
 
 1. Press the **Win + R** hotkey to open the Run dialog box.
@@ -82,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 3. Click the **Advanced** button and check the **Apply repair automatically** box.
 4. Click **Next**.  
 ![Hardware and Devices troubleshooter window on Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hardware-and-devices-troubleshooter-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Hardware and Device troubleshooter will look for any available issues and fix them without much user input. After that, restart your computer and check for the problem.
 
@@ -97,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ![Keyboard option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-option.jpg)
 2. Turn off the toggle next to the **Sticky keys** and **Filter keys**.  
 ![Sticky keys option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sticky-keys-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, restart your computer and check for the issue. If it continues, you can re-enable the sticky and filter keys.
 
@@ -117,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 5. Click **Uninstall** to confirm your selection.  
 ![Uninstall option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, restart your computer. Upon restart, Windows will automatically reinstall the keyboard driver.
 
 ## 6\. Download the Latest Windows Update
@@ -125,17 +117,25 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
  Upon completing the update installation, restart your system and verify the functionality of the Ctrl key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Run SFC and DISM Scans
 
 ![Sfc scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scan.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Problems with crucial system files on your PC can also affect the proper functioning of the Ctrl key. If the issue arises due to corruption in these important system files, you can run SFC and DISM scans.
 
  To learn how to run these scans, check out [how to repair corrupt Windows files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Perform a Clean Boot
 
@@ -159,24 +159,22 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-channel-branding-made-simple-and-free/"><u>[New] 2024 Approved Channel Branding Made Simple & Free</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-ethical-approaches-to-extract-and-convert-youtube-videos-for-2024/"><u>[New] Ethical Approaches to Extract and Convert YouTube Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-the-knowledge-of-asmr-media/"><u>[New] Mastering the Knowledge of ASMR Media</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-paragon-of-plot-design-in-cinemas-segmented-landscape-for-2024/"><u>[Updated] Paragon of Plot Design in Cinema's Segmented Landscape for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-how-to-add-video-to-text-for-free/"><u>2024 Approved How to Add Video to Text for Free</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-essential-steps-for-dealing-with-windows-http-error-0x80860010/"><u>7 Essential Steps for Dealing with Windows' HTTP Error 0X80860010</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-method-for-clean-booting-on-windows-11-systems/"><u>A Step-by-Step Method for Clean Booting on Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-excessive-tiworkerexe-cpu-usage-issue/"><u>Addressing Excessive TiWorker.exe CPU Usage Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-the-hang-issue-dxgierrordevicehunk-on-windows/"><u>Addressing the Hang Issue: DXGI_ERROR_DEVICE_HUNK on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/analyzing-the-strengths-of-win11-in-compare-with-macos/"><u>Analyzing the Strengths of Win11 in Compare with MacOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/augmenting-task-manager-functionality-in-windows-11-with-cli/"><u>Augmenting Task Manager Functionality in Windows 11 with CLI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719284325307-chrome-opening-woes-resolved-fast-fixed-for-windows-11-users/"><u>Chrome Opening Woes Resolved: Fast Fixed for Windows 11 Users.</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/consistent-nutrition-for-your-furry-friend-using-the-petsafe-auto-feeder/"><u>Consistent Nutrition for Your Furry Friend Using the PetSafe Auto Feeder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719331271081-dual-virus-scanners-think-twice-windows/"><u>Dual Virus Scanners? Think Twice, Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stabilize-granblue-fantasy-relink-functionality-on-windows-and-mac/"><u>How to Stabilize Granblue Fantasy Relink Functionality on Windows and Mac</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oneplus-ace-3-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock OnePlus Ace 3 Pattern Lock Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-microsoft-teams-a-guide-to-leveraging-copilot/"><u>Mastering Microsoft Teams: A Guide to Leveraging Copilot</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/steps-to-turn-off-telemetry-and-personalized-prompts-on-your-windows-11-pc/"><u>Steps to Turn Off Telemetry & Personalized Prompts on Your Windows 11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719310221725-tame-frozen-windows-handbraked-beast/"><u>Tame Frozen Windows-Handbraked Beast!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-maximizing-audience-engagement-with-youtube-shorts-templates/"><u>[New] 2024 Approved Maximizing Audience Engagement with YouTube Shorts Templates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customization-charter-three-tactics-for-windows-11/"><u>Customization Charter: Three Tactics for Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mute-microphones-and-speakers-a-step-by-step-approach-to-deal-with-conexant-hd-audio-issues-on-pcs-running-windows-nt/"><u>Fixing Mute Microphones and Speakers: A Step-by-Step Approach to Deal with Conexant HD Audio Issues on PCs Running Windows nT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-yellow-tint-reviving-true-colors-on-laptops/"><u>Fixing Yellow Tint: Reviving True Colors on Laptops</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mememakerpro-visual-laughter-factory/"><u>In 2024, MemeMakerPro Visual Laughter Factory</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-low-virtual-memory-situations-in-vmware/"><u>Mitigating Low Virtual Memory Situations in VmWare</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-cant-add-your-folder-now-a-quick-guide-to-onedrive/"><u>Navigating Through 'Can't Add Your Folder Now': A Quick Guide to OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-geforce-x0001-problem-codes-on-w10w11-systems/"><u>Remedying GeForce X0001 Problem Codes on W10/W11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-0x8007045d-error-in-win1011/"><u>Steps to Resolve 0X8007045D Error in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-blueprint-constructing-personalized-keys-in-w11/"><u>The Essential Blueprint: Constructing Personalized Keys in W11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-for-a-smooth-experience-with-star-wars-jedi-fallen-order-avoid-pc-crashes/"><u>Tips for a Smooth Experience with Star Wars Jedi: Fallen Order Avoid PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-house-flipper-2-freezing-issues-on-your-windows-computer/"><u>Troubleshooting Tips: Resolving House Flipper 2 Freezing Issues on Your Windows Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-causes-behind-your-iphone-screen-brightness-fading-solutions-inside/"><u>Understanding the Causes Behind Your iPhone Screen Brightness Fading - Solutions Inside</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-your-devices-potential-how-to-download-and-customize-whatsapp-ringtones/"><u>Unleash Your Device's Potential How to Download and Customize WhatsApp Ringtones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unshackling-the-chains-of-windows-11-and-10s-s-mode/"><u>Unshackling the Chains of Windows 11 & 10'S 'S Mode'</u></a></li>
 </ul></div>
 

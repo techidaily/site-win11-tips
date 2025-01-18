@@ -1,7 +1,7 @@
 ---
 title: Unblocking Store Error X800704CF on WIndows 11
-date: 2024-08-08T11:01:18.464Z
-updated: 2024-08-09T11:01:18.464Z
+date: 2025-01-12T16:34:47.215Z
+updated: 2025-01-18T18:27:45.034Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  Many Microsoft Store users have reported they can’t use the app in both Windows 10 and 11 because of error 0x800704CF. Error 0x800704CF occurs when those users attempt to log into Microsoft Store. Its error message says, “You’ll need the internet for this… 0x800704CF.” This issue arises even when users are connected to the internet and can open web pages.
 
  Thus, error 0x800704CF is seemingly a Microsoft Store connection issue that renders the app inoperative in Windows 11 and 10\. If you're facing this issue this is how you can resolve error 0x800704CF.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run the Internet Connection and Network Adapters Troubleshooters
 
@@ -38,28 +42,25 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  Windows Store App is also a troubleshooting tool that could be useful for addressing error 0x800704CF. That one might fix issues with the Microsoft Store app. So, consider running that troubleshooter as well if the others don't provide a fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Repair and Reset the Microsoft Store App
 
  Windows has two troubleshooting options for fixing Microsoft Store when it’s not working right. Those Repair and Reset options can resolve all kinds of app bugs and corruption errors. So, those options could feasibly resolve error 0x800704CF for some users. Check out our guide about[how to reset apps in Windows](https://www.makeuseof.com/windows-reset-app/) for details about how to apply this resolution.
 
 ![The Reset and Repair buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set a Different DNS Server
 
  Changing DNS server settings is a resolution that’s worked for some users who’ve needed to fix error 0x800704CF. To apply this solution, change your PC’s DNS server to Google via the Control Panel. Our guide for[how to change your DNS server](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) includes step-by-step instructions for how to do that along with the required Google DNS addresses.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![DNS server settings on the Internet Protocol Version window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/internet-protocal-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 4\. Execute the Remove Proxy Server Command
 
  Another confirmed method for fixing error 0x800704CF is to run a command for removing the proxy server. Users who’ve confirmed this potential solution ran the Netsh.exe utility to disable proxy, which sets more direct internet access. This is how you can remove the proxy server with the Command Prompt:
@@ -68,15 +69,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Open Command Prompt with elevated privileges by clicking a**Run as administrator** option for that app inside the search tool.
 3. Input the Netsch.exe command and hit**Enter** :  
 `netsh winhttp reset proxy`  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The remove proxy command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remove-proxy-command.jpg)
 4. Restart Windows 11 or 10 after executing the command.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Disable the Microsoft Network Component Setting Client
 
  Some users have been able to fix error 0x800704CF by disabling the**Microsoft Network Connection** setting, which is enabled by default. It’s ok to disable that component for your connection so long as you don’t need to access resources on a Microsoft network. You can disable the**Client for Microsoft Network** option as follows:
@@ -87,26 +86,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 4. Right-click your internet network adapter to select a**Properties** option for it.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-option2.jpg)
 5. Deselect the**Client for Microsoft Networks** checkbox.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Client for Microsoft Networks checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/client-for-microsoft-network-option.jpg)
 6. Select**OK** to save the new property setting, and restart your computer.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 6\. Reinstall the Network Adapter Driver
 
  Error 0x800704CF can occur because of a network adapter driver issue. If your PC’s network driver is faulty, reinstalling it could be the potential solution for you. Try reinstalling your PC’s network adapter driver like this:
 
 1. Use one of the many[ways to open Device Manager](https://www.makeuseof.com/windows-open-device-manager/) and expand the**Network adapters** category.
 2. Then right-click your PC’s internet network adapter to select an**Uninstall** **device** option for it.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-context-menu-option.jpg)
 3. Select the**Delete the driver** (or**Attempt to remove the driver**) checkbox.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. ![The Delete the driver software for this device checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-device-window.jpg)  
  Click**Uninstall** inside the confirmation dialog window.
 5. To reinstall, click the**Action** menu.  
@@ -114,8 +109,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 6. Select**Scan for hardware changes** on the menu to detect and reinstall the missing network driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reregister the Microsoft Store App
 
  Reregistering the Microsoft Store app will reset it to a default configuration, which is the closest thing to reinstalling that app (it doesn’t have an option for uninstalling).
@@ -124,20 +120,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 `Get-AppXPackage *Microsoft.WindowsStore* | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml&}`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Reset Your PC’s Network
 
  Another potential cause of error 0x800704CF is misconfigured network settings. To address such a potential cause, you can reset your PC’s network components to default settings. Doing so also reinstalls network adapters.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Network Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/network-reset-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A network reset will erase saved connection details. So, make sure you’ve got your network password handy for re-establishing your connection. Our[how to reset your network settings on Windows](https://www.makeuseof.com/reset-network-settings-windows-11/) guide tells you how to apply this possible error 0x800704CF solution in Windows 11\. Fortunately, the steps for Windows 10 are the same.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Set Up an Alternative User Account
 
  You might need to fix error 0x800704CF because of an issue with your current user account. Some Windows troubleshooting tools could feasibly resolve that user account glitch. However, setting up and migrating to a new user account is an alternative troubleshooting method that you can try.
@@ -156,8 +154,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +161,21 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-strategies-for-optimal-spotify-ad-reach-and-engagement/"><u>[New] 2024 Approved Strategies for Optimal Spotify Ad Reach and Engagement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-premium-cameras-of-2024/"><u>[New] Unveiling the Premium Cameras of 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/9-best-video-calling-applications-safety-and-simplicity-focus/"><u>9 Best Video Calling Applications Safety & Simplicity Focus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-tips-to-control-the-fn-key-functionality/"><u>Effective Tips to Control the Fn Key Functionality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-silence-to-soundscape-step-by-step-in-audition/"><u>In 2024, From Silence to Soundscape Step-by-Step in Audition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-unlocking-your-online-opportunities-a-complete-guide-to-measuring-views-revenue-and-growth/"><u>In 2024, Unlocking Your Online Opportunities A Complete Guide to Measuring Views, Revenue, and Growth</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mac-users-guide-mastering-the-art-of-using-chatgpt/"><u>Mac Users Guide: Mastering the Art of Using ChatGPT</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>New 2024 Approved Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-disappearing-iconage-for-windows-apps/"><u>Restore Disappearing Iconage for Windows Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-quality-gaming-microphones-reviewed-and-compared/"><u>Ultimate List of Quality Gaming Microphones Reviewed and Compared</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-flawless-operation-in-windows-settings-app/"><u>Unlock Flawless Operation in Windows Settings App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-your-devices-full-internet-potential-in-windows-11/"><u>Unlock Your Device’s Full Internet Potential in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-power-of-your-computers-windows-key/"><u>Unveiling the Hidden Power of Your Computer's Windows Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wonderland-how-to-identify-your-computers-brand-and-model/"><u>Windows Wonderland: How To Identify Your Computer's Brand & Model</u></a></li>
+</ul></div>
 

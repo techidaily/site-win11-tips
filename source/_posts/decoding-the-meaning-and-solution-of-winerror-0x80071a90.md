@@ -1,7 +1,7 @@
 ---
 title: Decoding the Meaning & Solution of WinError 0X80071a90
-date: 2024-08-08T11:00:06.791Z
-updated: 2024-08-09T11:00:06.791Z
+date: 2025-01-13T16:42:15.021Z
+updated: 2025-01-18T16:11:31.022Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
  Below, we take a look at why this error occurs, and the solutions to try to resolve it for good.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Factors That Might Be Contributing to the 0x80071A90 Error
 
  While there are several factors that might be contributing to the Windows Features error, here are the most common ones:
@@ -36,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
  Regardless of what might be causing the problem in your case, the troubleshooting methods we have listed above should help you fix it in no time. Proceed with the method that fits your situation the best.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Disable Your Antivirus
 
  Antivirus programs are designed to protect your computer from harmful software and viruses but in doing so, they may also prevent some legitimate Windows components and features from installing or updating properly. This typically happens when the antivirus falsely considers the feature to be harmful.
@@ -46,25 +44,18 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
  This is why, we recommend getting started with disabling your antivirus program temporarily. The exact steps of doing so may differ, depending upon the security program you are using. However, typically, you can achieve this by right-clicking on the antivirus icon in the taskbar and choosing**Disable until the computer is restarted** .
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the security program is disabled, try enabling the targeted Windows feature again and check if the problem is now fixed. If the antivirus program happens to be the culprit, you can consider switching to a better alternative.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Perform the Action in Safe Mode
 
  As we mentioned earlier, certain applications and processes running in the background can also interfere with the installation or enablement of Windows features. To prevent any potential third-party software conflicts, you can try performing the action in Safe Mode.
@@ -95,13 +86,11 @@ Follow these steps to proceed:
  If nothing else works, these general WIndows fixes can help you fix the issue:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Update Windows
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install windows 11 feature update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-feature-update.jpg)
 
  If you haven’t installed the latest Windows updates in a while, then you might be facing the problem due to an outdated system. This can be due to a compatibility issue or because your system lacks updates/hotfixes that were released by Microsoft to address specific issues related to Windows features.
@@ -111,6 +100,10 @@ Follow these steps to proceed:
 ### Check the System for Corruption Errors
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In order to install or enable Windows features, the system relies on critical files and the Windows component store. If any of these files or the store becomes corrupted, it can impede the system's access to the necessary components for feature installation or enablement, leading to errors like the one at hand.
 
@@ -124,14 +117,11 @@ Follow these steps to proceed:
 
  To prevent any such issues from occurring in the future, we highly recommend keeping your Windows up-to-date at all times. Additionally, make sure you use a reputable antivirus and avoid unsafe third-party programs that can interfere with the system processes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,4 +130,23 @@ Follow these steps to proceed:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-refresh-your-virtual-space-in-google-meet-pc-and-mobile-way/"><u>[New] Refresh Your Virtual Space in Google Meet, PC & Mobile Way</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-your-pc-up-to-date-driver-pack-for-all-windows-versions-from-qcom-chipsets/"><u>[SAVE YOUR PC]: Up-to-Date Driver Pack for All Windows Versions From QCOM Chipsets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/abbyy-enhances-enterprise-solutions-through-appians-exclusive-value-added-services-platform/"><u>ABBYY Enhances Enterprise Solutions Through Appian's Exclusive Value-Added Services Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/access-pre-release-quest-3-insights-before-others-mastering-metas-beta-version-with-ease-zdnet/"><u>Access Pre-Release Quest 3 Insights Before Others: Mastering Meta's Beta Version with Ease | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-subtle-audio-declines-using-audacity/"><u>Crafting Subtle Audio Declines Using Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-methods-for-managing-visibility-of-sheet-tab-buttons-in-microsoft-excel/"><u>Effective Methods for Managing Visibility of Sheet Tab Buttons in Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-techniques-for-applying-the-year-functionality-in-ms-excel-tutorials/"><u>Effective Techniques for Applying the Year Functionality in MS Excel Tutorials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-techniques-for-identifying-variances-between-two-excel-datasets/"><u>Effective Techniques for Identifying Variances Between Two Excel Datasets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-lock-and-unlock-specific-rows-in-microsoft-excel-with-these-simple-tips/"><u>Efficiently Lock and Unlock Specific Rows in Microsoft Excel with These Simple Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-modify-the-drop-down-selection-options-in-microsoft-excel/"><u>Efficiently Modify the Drop-Down Selection Options in Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-total-up-multiple-excel-cells-a-comprehensive-tutorial/"><u>Efficiently Total Up Multiple Excel Cells - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-guide-turning-excels-rows-into-columns-with-tips-and-tricks/"><u>Effortless Guide: Turning Excel's Rows Into Columns with Tips and Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-social-cross-promotion-attaching-a-pinterest-tab-to-your-page/"><u>Enhance Social Cross-Promotion: Attaching a Pinterest Tab to Your Page</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-simplifying-connection-combining-linkedin-profile-with-your-tiktok-bio/"><u>In 2024, Simplifying Connection Combining LinkedIn Profile with Your TikTok Bio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimateglobalvision-select-live-and-home-channels-together/"><u>In 2024, UltimateGlobalVision Select Live and Home Channels Together</u></a></li>
+<li><a href="https://solve-help.techidaily.com/top-3-e-book-subscription-sites-of-2017-a-comprehensive-guide/"><u>Top 3 E-Book Subscription Sites of 2017: A Comprehensive Guide</u></a></li>
+</ul></div>
 

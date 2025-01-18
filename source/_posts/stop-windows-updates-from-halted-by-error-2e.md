@@ -1,7 +1,7 @@
 ---
 title: Stop Windows Updates From Halted by Error 2E
-date: 2025-01-10T17:02:35.622Z
-updated: 2025-01-12T16:59:36.741Z
+date: 2025-01-13T17:15:58.389Z
+updated: 2025-01-18T16:04:44.408Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 
 Let's now see how to fix this error code on Windows:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your Computer
 
  Restarting your computer is an easy way to resolve many Windows Update errors. By restarting, you're resetting the memory of your device and clearing out any pesky bugs that may be causing trouble with error 0x8024002e. Give it a try - after rebooting, check if the issue has been resolved.
@@ -54,6 +50,10 @@ To restart the Windows Update service, follow these steps:
 5. Then go to Service status and click**Start** .  
 ![Restart Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-windows-update-service.jpg)
 6. Now click**Apply > OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you have started the Windows Update service, repeat this same process with several other services provided below:
 
@@ -85,10 +85,14 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 8. Now close the Registry Editor window and restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you follow these steps, you should check to see if the 0x8024002e error has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reset All Relevant Windows Update Components
 
@@ -157,17 +161,13 @@ net start cryptsvc`
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-windows-update-components.jpg)
 5. Name the file**ResetWindowsUpdate.bat** and save it to your desktop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Now right-click on the batch file and select**Run as administrator** from the context menu.
 7. If UAC window pops up on the screen, click**Yes** to continue.
 
  Wait for the process to complete and then restart your computer. After you follow these steps, check to see if the 0x8024002e error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Apply Generic Windows Update Fixes
@@ -177,7 +177,7 @@ net start cryptsvc`
  Check out[the ways to fix Windows Update errors on Windows 11](https://www.makeuseof.com/windows-11-update-error-fixes/) for more. Most of them should also work on Windows 10 machines.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Resolving Windows Update Error 0x8024002e
@@ -199,22 +199,20 @@ net start cryptsvc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-entering-a-friends-tiktok-live-a-step-by-step-guide/"><u>[New] 2024 Approved Entering a Friend's TikTok Live A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ideal-selection-of-cost-effective-4k-projection-screens/"><u>[New] In 2024, Ideal Selection of Cost-Effective 4K Projection Screens</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-detailed-synopsis-googles-podcast-platform-explored/"><u>[Updated] 2024 Approved Detailed Synopsis Google's Podcast Platform Explored</u></a></li>
-<li><a href="https://fox-info.techidaily.com/10-final-cut-pro-plug-ins-for-2024/"><u>10 Final Cut Pro-Plug-Ins for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-refreshing-your-gpu-driver-in-windows/"><u>Essential Tips for Refreshing Your GPU Driver in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-abruptly-remove-non-functional-printers-in-windows-os/"><u>How to Abruptly Remove Non-Functional Printers in Windows OS</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-x50i-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor X50i to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y02t-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y02T Device</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-vdy-hd-snapshot-reviews-complete-evaluation/"><u>In 2024, VDY HD Snapshot Reviews Complete Evaluation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maintaining-always-ontop-status-of-calculator-in-windows/"><u>Maintaining Always Ontop Status of Calculator in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-calls-tracking-techniques/"><u>Mastering Windows Calls Tracking Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-error-0x8007251d-validation-and-solutions/"><u>Overcoming Windows Error 0X8007251D: Validation and Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalize-your-cmd-window-set-as-default/"><u>Personalize Your CMD Window: Set as Default</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalized-policy-enforcement-one-user-multiple-windows-versions/"><u>Personalized Policy Enforcement: One User, Multiple Windows Versions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/registry-tweaks-for-windows-setup-management/"><u>Registry Tweaks for Windows Setup Management</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-as-an-independent-youtube-entrepreneur-dodging-the-ad-dilemrante-for-2024/"><u>Thriving as an Independent YouTube Entrepreneur Dodging the Ad Dilemrante for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-bargain-alert-snag-a-high-end-512gb-m1-macbook-pro-for-just-450-less-featured-by-zdnet/"><u>Unbeatable Bargain Alert: Snag a High-End 512GB M1 MacBook Pro for Just $450 Less, Featured by ZDNET!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-simple-steps-to-make-ipad-screen-captures-a-breeze/"><u>[New] In 2024, Simple Steps to Make iPad Screen Captures a Breeze</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-captivating-youtube-thumbnails-for-mac-users/"><u>[Updated] 2024 Approved Creating Captivating YouTube Thumbnails for Mac Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-the-art-of-fixing-android-and-ios-videos-in-fb-messaging/"><u>[Updated] In 2024, Mastering the Art of Fixing Android & iOS Videos in FB Messaging</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-excellent-cricket-broadcasting-for-2024/"><u>[Updated] The Ultimate Guide to Excellent Cricket Broadcasting for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-clip-maker/"><u>[Updated] Youtube Clip Maker</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-desktop-ui-in-win11-by-setting-up-a-triplet-of-widgets/"><u>Elevate Your Desktop UI in Win11 by Setting up a Triplet of Widgets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/harvest-hits-roundup-next-gen-farming-game-picks/"><u>Harvest Hits Roundup Next-Gen Farming Game Picks</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-meta-is-helping-creators-make-money-through-reels/"><u>How Meta Is Helping Creators Make Money Through Reels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-audacitys-sound-devices-failures/"><u>How To Correct Audacity's Sound Devices Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-fixing-xc0351000-issue-absence-of-hyprocvisor/"><u>Methods for Fixing XC0351000 Issue - Absence of Hyprocvisor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ms-pc-manager-woes-in-windows-heres-help/"><u>MS PC Manager Woes in Windows? Here's Help</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/optimal-obs-configurations-for-thrifty-computers/"><u>Optimal OBS Configurations for Thrifty Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-unnecessary-items-from-win-11-menu/"><u>Removing Unnecessary Items From Win 11 Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-seamlessly-changing-keyboard-layouts-in-win-11/"><u>Transition Seamlessly: Changing Keyboard Layouts in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-screen-settings-for-unchanging-screens/"><u>Windows 11 Screen Settings for Unchanging Screens</u></a></li>
 </ul></div>
 

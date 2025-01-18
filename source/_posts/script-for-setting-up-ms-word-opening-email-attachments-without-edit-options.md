@@ -1,7 +1,7 @@
 ---
 title: "Script for Setting Up MS Word: Opening Email Attachments Without Edit Options"
-date: 2024-08-08T11:00:26.866Z
-updated: 2024-08-09T11:00:26.866Z
+date: 2025-01-16T16:45:22.910Z
+updated: 2025-01-18T17:03:05.128Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
  If you want an extra layer of protection against email attachments, there are several ways to always open attached Word documents in reading view on Windows. Let’s go over them one by one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## 1\. How to Change Microsoft Word Startup Settings to Always Open Email Attachments in Reading View
 
  You can modify Word's startup settings to specify how your documents are handled. From there, you can set Word to open all email attachments in reading mode by default. Here's how:
@@ -35,11 +31,16 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 5. Check the box that reads **Open e-mail attachments and other uneditable files in reading view** and click on**OK** .  
 ![Word Startup Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Word-Startup-Options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you complete the above steps, Word will open email attachments in reading view by default.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Change the Local Group Policy to Open Email Attachments in Reading View in Microsoft Word
 
  Another way to configure Word to open email attachments in reading view is to use the Group Policy Editor. It’s worth noting that you can only access the Group Policy Editor if you’re running the Professional, Education, or Enterprise edition of Windows. If you're on Windows Home, be sure to check out[how to access the Local Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before continuing.
@@ -50,14 +51,16 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 4. Double-click the**Open e-mail attachments in Reading View** policy on your right.
 5. Select the**Enabled** option.
 6. Hit**Apply** followed by**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Configure Word to Open Email Attachments in Reading View Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Group-Policy-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. How to Tweak the Windows Registry to Open Email Attachments in Reading View in Microsoft Word
 
  The Registry Editor in Windows stores important settings for Windows and its apps. If you're comfortable editing registry files, you can also use the following method to configure Word to open email attachments in reading view.
@@ -73,28 +76,23 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 5. Right-click on the**Options** key and select**New > DWORD (32-bit) Value** . Name it**AutoReadingMode** .
 6. Double-click the newly created DWORD and set the**Value data** to**1** .
 7. Click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Configure Word to Open Email Attachments in Reading View Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Registry-Editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your PC for the changes to take effect. Following that, Word will open all your email attachments in reading view.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Opening Email Attachments in Microsoft Word's Reading View
 
  Email remains a prominent attack vector for hackers and cybercriminals. Configuring Microsoft Word to open email attachments in reading view is just one of many methods for avoiding malware. Another option is to check suspicious files for malware before opening them.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,4 +101,26 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-exclusive-roundup-best-windows-11-video-recording-options-for-2024/"><u>[New] Exclusive Roundup Best Windows 11 Video Recording Options for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-open-world-wonders-beyond-gtas-empire/"><u>[New] In 2024, Open World Wonders Beyond GTA's Empire</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-ranked-costless-pixel-perfection-aid/"><u>[New] Top-Ranked Costless Pixel Perfection Aid</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-costless-live-camera-capturer-for-2024/"><u>[New] Ultimate Costless Live Camera Capturer for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-track-converting-your-srt-files-to-text-format-today/"><u>[Updated] Fast Track Converting Your SRT Files to Text Format Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-video-quality-chrome-and-youtube-optimization/"><u>Elevating Video Quality: Chrome and YouTube Optimization</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-opens-new-horizons-for-oculus-go-with-root-access-unveiled/"><u>Facebook Opens New Horizons for Oculus Go with Root Access Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-exploring-free-screen-capture-software-bandicam-vs-camtasia/"><u>In 2024, Exploring Free Screen Capture Software Bandicam Vs. Camtasia</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/inside-the-role-of-ai-in-microsofts-store/"><u>Inside: The Role of AI in Microsoft's Store</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-solutions-transforming-photos-into-videos/"><u>Leading Solutions Transforming Photos Into Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-efficiency-with-concurrent-subfolder-creation-on-windows-pcs/"><u>Maximize Your Efficiency with Concurrent Subfolder Creation on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mkv-mp4-conversion-steps-for-windows-users/"><u>MKV-MP4 Conversion Steps for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-disconnecting-woes-essential-fixes-for-windows-usb-wifi/"><u>Overcome Disconnecting Woes – Essential Fixes for Windows USB Wifi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-share-denial-in-microsoft-os/"><u>Overcome Share Denial in Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-fix-for-windows-error-0x80071a90/"><u>Step-by-Step Fix for Windows Error 0X80071A90</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-address-resource-already-in-use-on-windows-pcs-152-chars/"><u>Steps to Address Resource Already In Use on Windows PCs (152 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-fixing-drivers-that-wont-load-in-win11/"><u>Tips for Fixing Drivers that Won't Load in Win11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-pro-protectors-2024-comprehensive-reviews-and-ratings-insights-from-tech-gurus-zdnet/"><u>Top-Rated iPad Pro Protectors 2024: Comprehensive Reviews & Ratings - Insights From Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/why-does-imovie-enforce-dimensions-for-2024/"><u>Why Does iMovie Enforce Dimensions for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhance Windows Information Discovery, EverywhereApp Style
-date: 2024-08-08T10:59:39.126Z
-updated: 2024-08-09T10:59:39.126Z
+date: 2025-01-17T16:48:11.674Z
+updated: 2025-01-18T18:06:35.591Z
 tags:
   - windows10
   - windows11
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
  What makes Everything so fast is how it indexes files and folders. Unlike the[Windows Search Indexer](https://www.makeuseof.com/windows-search-indexer-guide/) , which relies on both filenames and their content, Everything uses just file and folder names. Hence, indexing files and folders take less time, which, in turn, speeds up the entire process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## How to Install Everything on Windows
 
  Everything is available for all versions of Windows. And depending on whether you plan on using Everything on your or someone else's computer, you can either install it or run it as a portable executable from a thumb drive. We'll focus on installing Everything directly on a computer in this guide.
@@ -43,14 +40,12 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
  Wait for a few seconds, and Everything will create a database by indexing all the files and folders on your computer
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Everything search indexed database](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-search-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Perform Basic Everything Configuration
 
  Everything works just fine out of the box. However, there are some settings and options, which you should modify to get more out of the program. Head over to**Everything Options** by clicking on**Tools > Options** or pressing the**Ctrl + P** keyboard shortcut, and you'll see a bunch of these options.
@@ -70,32 +65,28 @@ We recommend enabling the following options from here:
 
  Finding files and folders with Everything is easy. Here are all the different kinds of searches and operations you can perform in Everything.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Search for a File or Folder
 
  When you want to look up a file or folder on your computer, click the search box at the top and start typing its name. Everything will start showing a list of all the relevant results as you do this with information like path, size, and date modified.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![simple search in Everything](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/search-file-folder-on-everything.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to limit your search to a particular drive, you can specify the drive letter in your search query. For example, using**d:\\** before your query will show you only those files and folders that are present in the**D** drive.
 
  Similarly, you can specify a folder name to tell Everything to find a file or folder inside that specific folder. For instance, if you'd like to search files inside the**Music** directory in**D** drive, your query would look like this:**d:\\music.**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Get More Information and Perform Operations on Search Results
 
  If you wish to find out details about a file/folder in the results, select it, and Everything will show its details in the status bar below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![view details about a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/get-details-about-a-file.jpg)
 
  Similarly, you can double-click on a file or folder to open it in File Explorer. Or right-click on it to bring up the context menu.
@@ -109,8 +100,13 @@ We recommend enabling the following options from here:
 ![Everything sorting options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-sort-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Filter Results by Type
 
  By default, when you search for something in Everything, it looks through all the indexed data, which includes different types of files and folders, to find a match. However, if you want, you can select the type beforehand to get results even faster.
@@ -121,22 +117,23 @@ We recommend enabling the following options from here:
 
  Everything will filter the results and only show you files and folders that match the specified type.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Match Case to Find Accurate Results
 
  When you search for a file or folder in Everything, it doesn't take into consideration the case style to filter results. As a result, if you've named a file or folder in a particular case style, looking it up using a regular search will simply return too many results.
 
  To avoid this, you can try matching the case style with the original file or folder name. Simply type the name of the file or folder as it's actually styled in the search box and select**Search > Match Case** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![match case option in Everything](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/match-case-in-everything-search.jpg)
 
  Everything will then return only those files and folders that match the specified case style.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use Advanced Search
 
@@ -178,8 +175,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +182,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-unlocking-android-video-brilliance-easy-procedures/"><u>[New] 2024 Approved Unlocking Android Video Brilliance - Easy Procedures</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-13-pro-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 13 Pro - 4 Easy Ways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-lenovos-revolutionary-auto-swiveling-laptop-a-firsthand-look-from-ifa-202nce-techradar/"><u>Experiencing Lenovo’s Revolutionary Auto-Swiveling Laptop: A Firsthand Look From IFA 202Nce | TechRadar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-master-the-art-of-youtube-video-sizing-shape-and-clarity/"><u>In 2024, Master the Art of YouTube Video Sizing, Shape & Clarity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-batch-installation-in-windows-11-with-ease-and-speed-winstall-way/"><u>Master the Art of Batch Installation in Windows 11 with Ease and Speed – Winstall Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimize-mastery-using-ctrlplustab-for-system-tray-control/"><u>Minimize Mastery: Using Ctrl+Tab for System Tray Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-the-intricacies-a-guide-to-windows-11s-components/"><u>Navigate the Intricacies: A Guide to Windows 11'S Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-technology-with-toms-gear-guides/"><u>Navigating Through Technology with Tom's Gear Guides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-to-printer-sharing-in-win11/"><u>Overcoming Obstacles to Printer Sharing in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-the-aw-snap-crash-on-your-chrome-window/"><u>Preventing the “Aw, Snap!” Crash on Your Chrome Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-windows-emailcalendar-integrate-fav-photos/"><u>Transform Windows' Email/Calendar: Integrate Fav Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-meaning-behind-windows-patches/"><u>Unraveling the Meaning Behind Window's Patches</u></a></li>
+</ul></div>
 

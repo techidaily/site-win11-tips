@@ -1,7 +1,7 @@
 ---
 title: Seamless Navigation Through Windows 11'S Component Tools
-date: 2024-08-08T11:01:30.411Z
-updated: 2024-08-09T11:01:30.411Z
+date: 2025-01-12T16:13:39.345Z
+updated: 2025-01-18T18:06:09.056Z
 tags:
   - windows10
   - windows11
@@ -29,25 +29,20 @@ thumbnail: https://thmb.techidaily.com/b291d1186c17a0e27af028a28ffb312d4304bf88d
 ![Open Components Services Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-windows-search.jpg)
 3. The results list will include "Component Services." Just click it to open Component Services!
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Open Component Services Using Run Command
 
  You can also launch this application using the Run dialog box. This saves time since you do not have to navigate menus and submenus. Here's how to do this:
 
 1. Press**Win + R** on your keyboard to open the Run dialog box.
 2. Once you are in the Run window, type**dcomcnfg** into the text field and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Components Services Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-run-command.jpg)
 
  The Component Services window will now appear on your screen. Here you will find the options to manage administrative tools such as Event Viewer, Services, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Open Component Services From the Start Menu
 
  The Start menu is another way to access Windows features in Windows 11\. To open the Component Services tool using the Start menu, follow these steps:
@@ -55,11 +50,12 @@ thumbnail: https://thmb.techidaily.com/b291d1186c17a0e27af028a28ffb312d4304bf88d
 1. Open the Start menu.
 2. Click**All apps** in the upper right corner.
 3. Scroll down and click**Windows Tools** at the bottom of the screen.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Open Components Services Using Windows Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-windows-tools.jpg)
 4. Next, double-click on**Component Services** to open it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Open Component Services Using File Explorer
 
@@ -70,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/b291d1186c17a0e27af028a28ffb312d4304bf88d
 
 The Component Services window should now open.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. How to Open Component Services Through Command Prompt
 
  If you’re someone who prefers using command-line methods, you can use Command Prompt to launch Component Services on your PC.
@@ -83,6 +76,10 @@ The Component Services window should now open.
 2. Select**Command Prompt** from the list at the top.
 3. Once the Command Prompt window opens, type**dcomcnfg** and hit**Enter** .  
 ![Open Components Services Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This should open up the Component Services window for you to explore further. Now you can close the Command Prompt window.
 
@@ -95,17 +92,10 @@ The Component Services window should now open.
 1. Go to the**Start** menu and search for Windows PowerShell.
 2. Select**Windows PowerShell** from the list that appears.
 3. In Windows PowerShell, type**dcomcnfg** , and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Open Components Services Using Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-windows-powershell.jpg)
 
 You should now be able to use the Component Services window.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. How to Open Component Services Via Task Manager
 
  Task Manager is a powerful tool on Windows, useful for analyzing memory and CPU usage, as well as terminating problematic programs. However, you can also use this tool to access most of the applications on your Windows device.
@@ -129,6 +119,11 @@ The Component Services tool should now be open and ready to use!
 2. In the "Create Shortcut" window, type**dcomcnfg.exe** and click**Next** .  
 ![Open Components Services With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-with-desktop-shortcut.jpg)
 3. Name your shortcut something like Component Services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Lastly, click**Finish** to save your changes.
 
  Component Services will appear as a shortcut on your desktop; double-click it to launch it.
@@ -139,6 +134,10 @@ The Component Services tool should now be open and ready to use!
 * In the search box, type**dcomcnfg.exe** and press**Enter** .
 * Right-click on the executable file and select**Show more options > Create shortcut** .
 * Click**Yes** to confirm making a shortcut. You will see the desktop shortcut on your computer screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. How to Open Component Services Using a Shortcut Key
 
@@ -154,36 +153,30 @@ Create a desktop shortcut for Component Services as explained above.
  Once you're done, press Ctrl + Alt and enter your letter or number. For example, if you select**T** in the above steps, you will need to press**Ctrl + Alt + T** to access Component Services.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. How to Pin Component Services to the Taskbar
 
  Alternatively, you can also pin the Component Services application to the taskbar. To do so, follow these steps:
 
 1. Click on**Start** and type**Component Services** .
 2. Right-click on the search result and select**Pin to taskbar** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Pin Component Services to taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/pin-component-services-to-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Easy Access to Component Services
 
  Opening Component Services in Windows 11 is an easy task that requires minimal time and effort. There are several methods for doing so, allowing you to select the one that best suits your needs. Choose the one that suits you best and save some time when you need to access this handy tool.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -192,4 +185,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-magix-video-pro-x-a-deep-dive/"><u>[New] In 2024, Magix Video Pro X - A Deep Dive</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-8-android-group-calls-over-4-users/"><u>[Updated] Essential 8 Android Group Calls Over 4 Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-view-mkv-movies-content-on-samsung-galaxy-xcover-7-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-samsung-galaxy-a15-4g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy A15 4G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-gaming-experience-using-intel-graphics-hub/"><u>Enhance Your Gaming Experience: Using Intel Graphics Hub</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210328145-9781935251057-fit-soul-fit-body/"><u>Fit Soul, Fit Body | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-missing-windows-logins-with-ease/"><u>Navigating Through Missing Windows Logins with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workflow-set-microsoft-words-preference-for-text-only-attachment-viewing/"><u>Streamline Your Workflow: Set Microsoft Word's Preference for Text-Only Attachment Viewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-note-visibility-with-tips-for-modern-windows-users/"><u>Streamlining Note Visibility with Tips for Modern Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-video-conversion-mkv-to-mp4-on-pcs/"><u>Streamlining Video Conversion: MKV to MP4 on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/telnet-configuration-made-simple-for-win11-users/"><u>Telnet Configuration Made Simple: For Win11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-exact-vs-estimated-location-tracking-in-android-devices/"><u>Understanding Exact vs Estimated Location Tracking in Android Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winos-comms-fault-solution-found/"><u>WinOS Comms Fault - Solution Found</u></a></li>
+</ul></div>
 

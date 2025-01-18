@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Non-Functional Slack Alerts on PCs
-date: 2025-01-07T19:01:20.547Z
-updated: 2025-01-12T17:23:36.107Z
+date: 2025-01-12T16:35:03.503Z
+updated: 2025-01-18T18:28:18.193Z
 tags:
   - windows10
   - windows11
@@ -40,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![Restart button in Shut Down Windows prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/restart-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Before trying any complex solutions, make sure to restart your computer at least once. This will eliminate any bug or glitch that might be causing the issue.
 
  To restart, press the **Alt + F4** hotkey, choose **Restart** from the drop-down menu, and click **OK.** After the restart, request a colleague to send you a message on Slack and check whether you receive its notification on your system. If the notification still doesn't come through, proceed to the next solution on the list.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check the Slack Server Status
 
@@ -63,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
  However, if the Slack servers are operational and you still encounter the problem, it's possible that the Windows Focus session feature is involved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Stop Focus Sessions on Windows
@@ -77,11 +69,11 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 3. Click the **Stop** **focus** **session** button.  
 ![Stop focus session button in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stop-focus-session-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And that’s about it. Check if you now receive notifications on Slack.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Do Not Disturb Mode
 
@@ -103,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
  That's it! Windows will now display Slack notifications even when the Do not disturb mode is active.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Allow Slack to Send Notifications
@@ -117,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
  Now, Windows will show all the notifications from Slack in its notification center.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Change Slack Settings
 
  Another potential reason for the issue could be incorrect Slack settings. You'll have to correctly configure Slack settings to receive its message notifications on your computer.
@@ -128,7 +124,15 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 2. Choose **Notifications** from the left sidebar and select **Direct messages, mentions &** **keywords**. You can choose **All new messages** if you want to get notified about the messages from all channels.  
 ![Direct messages, mentions & keywords option in Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/direct-messages-mentions-keywords-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Furthermore, you must resume notifications if you have put them on pause. To do that, click your profile icon, hover your cursor to **Pause notifications**, and click **Resume notifications.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Clear Slack Cache Data
 
@@ -138,14 +142,10 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ![Clear Cache and Restart option in Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-cache-and-restart.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Slack will now clear its cache data and restart automatically. Once it has restarted, check to see if Slack is sending notifications. If not, you may need to reset Slack's data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Your Slack App's Data
@@ -178,19 +178,22 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-video-chat-with-peace-of-mind-top-10-secure-call-apps-available-without-cost/"><u>[New] In 2024, Video Chat with Peace of Mind Top 10 Secure Call Apps Available without Cost</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-leading-edge-in-game-capture-moving-past-fbx-methods-for-2024/"><u>[New] Leading Edge in Game Capture Moving Past FBX Methods for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-audible-magic-studio-techniques-on-mac/"><u>[Updated] 2024 Approved Audible Magic Studio Techniques on Mac</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1-most-affordable-electric-vehicle-ev-charging-networks-a-comprehensive-price-comparison/"><u>1. Most Affordable Electric Vehicle (EV) Charging Networks: A Comprehensive Price Comparison</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-ways-to-restart-file-explorer-in-windows-11-and-11/"><u>4 Ways to Restart File Explorer in Windows 11 and 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delaying-the-end-extending-windows-11-shutdown-with-running-tasks/"><u>Delaying the End: Extending Windows 11 Shutdown with Running Tasks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/evaluating-the-value-of-apples-airpods-pro-is-investing-in-sound-quality-worthwhile-zdnet-review/"><u>Evaluating the Value of Apple's AirPods Pro - Is Investing in Sound Quality Worthwhile? [ZDNet Review]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-utorrent-not-installing-on-windows/"><u>How to Fix uTorrent Not Installing on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/initiating-windows-11s-disguised-search-action/"><u>Initiating Windows 11'S Disguised Search Action</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-the-m4-mac-mini-projected-costs-release-timeline-and-latest-technical-specifications/"><u>Inside the M4 Mac Mini: Projected Costs, Release Timeline, and Latest Technical Specifications</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/lightroom-hdr-tutorial-how-to-create-and-merge-stunning-hdr-images-in-lightroom-for-2024/"><u>Lightroom HDR Tutorial How to Create and Merge Stunning HDR Images in Lightroom for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-audio-tracking-on-windows-powered-screencasts/"><u>Strategies for Audio Tracking on Windows-Powered Screencasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-workflow-programmatic-shortcuts-in-winos/"><u>Streamline Workflow: Programmatic Shortcuts in WinOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrading-from-apple-vision-prometa-quest-3-check-these-budget-friendly-xr-wearables-zdnet/"><u>Upgrading From Apple Vision Pro/Meta Quest 3? Check These Budget-Friendly XR Wearables | ZDNET</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-inside-the-innovative-world-of-kinemaster-your-android-game-companion-for-2024/"><u>[New] Inside the Innovative World of KineMaster - Your Android Game Companion for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-10-screen-capture-utilities-for-windows-macos-for-2024/"><u>[New] Top 10 Screen Capture Utilities for Windows, macOS for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-system-failures-employing-command-prompt-for-identifying-and-fixing-error-codes/"><u>Deciphering System Failures: Employing Command Prompt for Identifying and Fixing Error Codes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-pcs-sound-with-these-newly-released-sound-blaster-audigy-driver-packs-free/"><u>Enhance Your PC's Sound with These Newly Released Sound Blaster Audigy Driver Packs (Free)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-immediate-failure-in-adding-folders-with-windows-onedrive/"><u>Fixing Immediate Failure in Adding Folders with Windows OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-a-three-column-widgets-board-in-windows-11/"><u>How to Enable a Three-Column Widgets Board in Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-itel-p55-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Itel P55 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-countdown-made-easy-a-3-step-guide-for-fcpx-users/"><u>In 2024, Countdown Made Easy A 3-Step Guide for FCPX Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-a79-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-admin-interface-in-windows-os/"><u>Mastering Admin Interface in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-how-to-skip-windows-11-lock/"><u>Mastering the Art: How to Skip Windows 11 Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-transition-wsl-and-windows-11-written-by-your-name/"><u>Navigating the Transition: WSL and Windows 11' Written by [Your Name]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamlessly-distribute-content-crafting-windows-11-self-extractable-files/"><u>Seamlessly Distribute Content: Crafting Windows 11 Self-Extractable Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-microsofte-shop-error-code-0x80073cf3/"><u>Tackling Microsoft'e Shop Error Code: 0X80073CF3</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unbeatable-prime-day-discounts-on-your-favorite-apple-products/"><u>Unbeatable Prime Day Discounts on Your Favorite Apple Products</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-honor-90-gt-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Honor 90 GT</u></a></li>
+<li><a href="https://article-files.techidaily.com/vividcapturezoomer7-resize-pics-with-unmatched-quality/"><u>VividCaptureZoomer7 Resize Pics with Unmatched Quality</u></a></li>
 </ul></div>
 

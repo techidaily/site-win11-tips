@@ -1,7 +1,7 @@
 ---
 title: Brightening Up the BOOT Prompt's Appearance
-date: 2024-07-29T08:14:46.902Z
-updated: 2024-07-30T08:14:46.902Z
+date: 2025-01-16T16:51:07.282Z
+updated: 2025-01-18T18:01:05.363Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
  Here is how to fix the Legacy Boot grayed-out in BIOS issue on your Windows system.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Causes the Legacy Boot Grayed Out Problem?
 
  You may find the Legacy Boot option grayed out if the UEFI settings, such as Secure Boot and TPM are enabled in the BIOS utility. In some instances, the BIOS utility can tell you why you can't switch to the Legacy boot option.
@@ -33,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 
  If you don't have any such option, try the troubleshooting steps below to restore the Legacy boot option in BIOS.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Disable Secure Boot to Enable Boot
 
  Secure Boot is a UEFI feature that protects your computer against malware by allowing only trusted system software to run on your computer. When enabled, it will perform a cryptographic check during the boot process to verify the integrity of the system image.
@@ -51,31 +49,28 @@ To disable secure boot:
 3. Release the**Shift** key as the PC shuts down and boot into the**Recovery Menu.**
 4. Go to**Troubleshoot** and click on**Advanced options** .
 5. Next, click on**UEFI Firmware Settings.**  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Advanced OptionspUEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-optionspuefi-firmware-settings.jpg)
 
 1. Click**Restart** to boot into the**Startup Menu.**  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![startup menu HP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/startup-menu-hp-1.jpg)
 2. In the Startup Menu, press**F10** to access the**BIOS Settings** . You may see other options depending on your computer manufacturer.
 3. Use the right and left arrow keys to open the**Boot Options** tab in the BIOS Utility.
 4. Next, use the up and down arrow key to highlight the**Secure Boot** option and press**Enter** to view more options.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![disable secure boot bios](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-secure-boot-bios.jpg)
 5. Select**Disabled** and make sure the changes are shown in the Boot Options tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Press**F10** to save the changes and disable Secure Boot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disable Trusted Platform Technology (TPM)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![disable TPM state BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-tpm-state-bios-1.jpg)
 
  In addition to Secure Boot, you may also have enabled Trusted Platform Module (TPM), disabling Legacy BIOS. To fix the issue, check if TPM is enabled on your PC, which is likely a case on a Windows 11 running system, and disable the option if necessary.
@@ -88,11 +83,19 @@ To disable secure boot:
 4. Select**Disabled** to disable TPM on your device.
 5. Press**F10** to save the change and exit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disable Modern Standby
 
  Modern Standby (S0) is a newer power mode available on select modern computers. It is enabled by default on compatible systems but can cause issues with Legacy Boot.
 
  To fix the issue, try to[disable Modern Standby on your Windows computer](https://www.makeuseof.com/windows-disable-modern-standby/) . Once disabled, restart your PC to see if you can switch to Legacy Boot now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore a Grayed Out Legacy Boot Option in Your BIOS
 
@@ -104,8 +107,6 @@ To disable secure boot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +114,22 @@ To disable secure boot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-highest-quality-live-tv-and-community-broadcasting-guide-2esecurity/"><u>[New] Highest-Quality Live TV & Community Broadcasting Guide, 2Esecurity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-quick-conversion-tactics-extracting-mp3-from-vids-on-social-media-for-2024/"><u>[New] Quick Conversion Tactics Extracting MP3 From Vids on Social Media for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-legal-landscapes-understanding-youtube-and-cc-divergences/"><u>[Updated] Legal Landscapes Understanding YouTube & CC Divergences</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-the-ultimate-guide-to-the-best-video-speed-controller-extensions/"><u>[Updated] The Ultimate Guide to The Best Video Speed Controller Extensions</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/windows-11seagate-hdd/"><u>解決Windows 11下無法讀取Seagate HDD的四大修理技巧</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-the-puzzle-essential-findings-from-social-media-snooping/"><u>Decoding the Puzzle: Essential Findings From Social Media Snooping</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-file-handling-zipping-with-cli-tools-on-windows-os/"><u>Efficient File Handling: Zipping with CLI Tools on Windows OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-x90s-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-android-performance-via-wsl-resource-tweaks/"><u>Improving Android Performance via WSL Resource Tweaks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-system-leading-winners-winning/"><u>Optimize Your System: Leading Winners, Winning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establish-smooth-operations-in-windows-controls/"><u>Re-Establish Smooth Operations in Windows Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-correcting-bluetooth-connection-failures-in-windows-11/"><u>Steps for Correcting Bluetooth Connection Failures in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactical-approach-to-fix-a-non-responsive-battlenet-app/"><u>Tactical Approach to Fix a Non-Responsive Battle.net App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-screen-sharing-issues-in-teammers/"><u>Unlock Screen Sharing Issues in Teammers</u></a></li>
+</ul></div>
 

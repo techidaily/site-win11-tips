@@ -1,7 +1,7 @@
 ---
 title: Guide Your Way Through Uptime Verification in Windows 11 with These Tips
-date: 2024-08-08T11:00:55.000Z
-updated: 2024-08-09T11:00:55.000Z
+date: 2025-01-11T17:14:54.121Z
+updated: 2025-01-18T17:52:58.228Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/3fc14c15f73df5f4c8b19f8291c51668294576df8
 
  Your Windows 11 PC provides several options for checking the device's uptime. Let’s go over all of them one by one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. How to Find System Uptime Using Task Manager
 
  Windows Task Manager is an advanced tool that provides useful information about your PC’s hardware and software. Here's how you can use it to find your computer’s uptime.
@@ -30,10 +27,11 @@ thumbnail: https://thmb.techidaily.com/3fc14c15f73df5f4c8b19f8291c51668294576df8
 1. Press**Ctrl + Shift + Esc** on your keyboard or use one of the[many ways to access Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) .
 2. In the**Performance** tab, click on**CPU** .
 3. Check the system uptime under the**Up time** section.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Check System Uptime Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-system-uptime-using-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Find System Uptime via the Settings App
 
@@ -43,10 +41,11 @@ thumbnail: https://thmb.techidaily.com/3fc14c15f73df5f4c8b19f8291c51668294576df8
 2. Select the**Network & internet** tab from the left sidebar.
 3. Click on**Advanced network settings** .
 4. Under the**Network adapters** section, click on the active network adapter and check the uptime mentioned next to**Duration** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![Check System Uptime Using Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-system-uptime-using-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note that this method displays your network adapter’s uptime. So, the information displayed may not be accurate if you have reset your network connection after boot.
 
@@ -63,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/3fc14c15f73df5f4c8b19f8291c51668294576df8
 7. Under the**General** tab, you’ll find the uptime next to**Duration** .  
 ![Check System Uptime Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-system-uptime-using-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to Check System Uptime With Command Prompt
 
  If you're an advanced Windows user, you can also use Command Prompt to check your computer’s uptime. Here’s how:
@@ -71,12 +74,13 @@ thumbnail: https://thmb.techidaily.com/3fc14c15f73df5f4c8b19f8291c51668294576df8
 2. Select**Terminal** from the list.
 3. Type the following command in the console and press**Enter** .  
 `systeminfo | find "System Boot Time"`  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check System Uptime Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-system-uptime-using-command-prompt.jpg)
 
  Once you run the above command, Command Prompt should display the time when your computer started operating. You can easily calculate the system uptime by subtracting the**System Boot Time** from the current time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. How to Check System Uptime With PowerShell
 
@@ -86,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/3fc14c15f73df5f4c8b19f8291c51668294576df8
 2. Type**Windows PowerShell** and press**Enter** .
 3. Paste the following command in the PowerShell window and press**Enter** .  
 `(get-date) - (gcim Win32_OperatingSystem).LastBootUpTime`  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check System Uptime Using Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-system-uptime-using-windows-powershell.jpg)
 
  PowerShell should display the number of days, hours, minutes, seconds, and milliseconds since the device was turned on.
@@ -96,22 +97,20 @@ thumbnail: https://thmb.techidaily.com/3fc14c15f73df5f4c8b19f8291c51668294576df8
  Like using PowerShell on Windows? Why not familiarize yourself with these[best PowerShell commands on Windows](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) ?
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Checking Your Device Uptime on Windows 11
 
  As we just saw, finding your Windows 11 PC’s uptime is fairly simple. You can use any of the methods listed above to find that information.
 
  The total uptime of your computer may not provide you with accurate information about how much time you spend in front of it. For that, you’ll need to check Power & battery usage in the Windows Settings app.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +119,20 @@ thumbnail: https://thmb.techidaily.com/3fc14c15f73df5f4c8b19f8291c51668294576df8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-camera-confusion-no-video-display-issue/"><u>[New] 2024 Approved Camera Confusion No Video Display Issue</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-gopro-hero5-silver-meets-sjcam-sj7/"><u>[New] 2024 Approved GoPro Hero5 Silver Meets SJCAM SJ7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-beyond-inshot-essential-laptop-editing-tools/"><u>[Updated] 2024 Approved Beyond Inshot Essential Laptop Editing Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-video-storytelling-adding-narration-step-by-step/"><u>[Updated] Mastering Video Storytelling Adding Narration Step-by-Step</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-strategies-for-splendid-colors-in-gopro-videos/"><u>2024 Approved Step-by-Step Strategies for Splendid Colors in GoPro Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-pristine-audio-on-the-move/"><u>Experience Pristine Audio on the Move</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-performance-resolving-windows-11-stuttering/"><u>Jumpstart Performance: Resolving Windows 11 Stuttering</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/macos-big-sur-update-exciting-compatibility-boost-for-dj-pros-using-dex-3-and-pcdj-tools/"><u>MacOS Big Sur Update - Exciting Compatibility Boost for DJ Pros Using DEX 3 & PCDJ Tools!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/master-the-art-of-video-rotation-using-vlc-media-player/"><u>Master the Art of Video Rotation Using VLC Media Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sneaky-storage-solutions-zip-archives-in-image-files-win11/"><u>Sneaky Storage Solutions: ZIP Archives in Image Files (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/square-up-your-windows-interface/"><u>Square Up Your Windows Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-the-intel-unison-app-that-wont-work-in-win11/"><u>Troubleshooting the Intel Unison App that Won't Work in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-your-journey-fixing-failed-discord-installation-on-pc/"><u>Unblocking Your Journey: Fixing Failed Discord Installation on PC</u></a></li>
+</ul></div>
 

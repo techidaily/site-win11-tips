@@ -1,7 +1,7 @@
 ---
 title: "Win11 Wonderland: The Art of Dossiers Design"
-date: 2025-01-11T17:00:56.154Z
-updated: 2025-01-12T22:08:30.529Z
+date: 2025-01-14T16:52:04.161Z
+updated: 2025-01-18T17:57:43.228Z
 tags:
   - windows10
   - windows11
@@ -36,11 +36,7 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
 ![Create New Folder in Windows 11 Using the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-the-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Create a New Folder Using File Explorer
@@ -55,10 +51,6 @@ To create a new folder using File Explorer's menu:
 4. Give your folder a suitable name, and then press**Enter** .  
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Create a New Folder With a Keyboard Shortcut
 
  If you prefer to work with the keyboard rather than a mouse, or if you simply want to create a new folder faster, you can use the**Ctrl + Shift + N** keyboard shortcut on Windows.
@@ -67,10 +59,14 @@ To create a new folder using File Explorer's menu:
 
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Create a New Folder With Command Prompt or PowerShell
@@ -89,11 +85,15 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-command-prompt.jpg)
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating Folders in Windows 11 Quickly
@@ -115,24 +115,18 @@ To create a new folder using File Explorer's menu:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-select-websites-propelling-youtube-media/"><u>[New] 2024 Approved Select Websites Propelling YouTube Media</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-techniques-for-captivating-visual-fb-ads/"><u>[New] 2024 Approved Techniques for Captivating Visual FB Ads</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-visionary-visual-effects-the-best-text-ideas-for-video-artistry/"><u>[New] In 2024, Visionary Visual Effects The Best Text Ideas for Video Artistry</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-a-blueprint-for-fixing-zero-x-eight-oh-three-one-f-in-windows-mail/"><u>Bridging the Gap: A Blueprint for Fixing Zero X Eight Oh Three One F in Windows Mail</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bring-back-successful-drag-operations-on-win11/"><u>Bring Back Successful Drag Operations on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bringing-back-memories-craft-a-windows-1198-vibe/"><u>Bringing Back Memories: Craft a Windows 11/98 Vibe</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bringing-google-chrome-to-life-with-windows-11/"><u>Bringing Google Chrome to Life with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-built-in-graphics-card-for-second-monitor/"><u>Bypassing Built-In Graphics Card for Second Monitor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-frozen-right-click-options-in-windows/"><u>Bypassing Frozen Right-Click Options in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/captivating-creations-top-editors-for-videos-on-your-win11-pc/"><u>Captivating Creations: Top Editors for Videos on Your Win11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/centralize-and-simplify-files-with-powertools/"><u>Centralize and Simplify Files With PowerTools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/changing-the-account-lockout-threshold-post-unsuccessful-accesses-in-windows-1011/"><u>Changing the Account Lockout Threshold Post Unsuccessful Accesses in Windows 10/11</u></a></li>
-<li><a href="https://win-popular.techidaily.com/customize-your-microsoft-windows-experience-a-comprehensive-walkthrough-of-control-panel-tweaks-from-yl-software-pros/"><u>Customize Your Microsoft Windows Experience: A Comprehensive Walkthrough of Control Panel Tweaks From YL Software Pros</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discourse-dissection-unveiling-the-ai-dialogue-divide-between-gpt-and-bingbot/"><u>Discourse Dissection: Unveiling the AI Dialogue Divide Between GPT and BingBot</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-master-the-switch-linking-instagram-with-facebook/"><u>In 2024, Master the Switch Linking Instagram with Facebook</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-profitability-techniques/"><u>In 2024, Snapchat Profitability Techniques</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-7-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 7 Making It Possible</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-15-video-transcoding-tools-for-macos-comprehensive-free-and-premium-options/"><u>Top 15 Video Transcoding Tools for macOS: Comprehensive Free and Premium Options</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-your-pc-crashes-due-to-grounding-expert-tips-and-tricks/"><u>Troubleshoot Your PC Crashes Due to Grounding - Expert Tips & Tricks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-key-tips-for-attracting-brands-as-youtubers-sponsors/"><u>[New] 2024 Approved Key Tips for Attracting Brands as Youtubers' Sponsors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-select-and-download-exclusive-tailored-audio-templates-for-2024/"><u>[New] Select & Download Exclusive Tailored Audio Templates for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elevating-your-viewing-experience-with-benq-sw320-monitor/"><u>2024 Approved Elevating Your Viewing Experience with BenQ SW320 Monitor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726225497208-gif-mp4-movavi/"><u>在線無限制地自由轉換 GIF成 MP4 - 使用Movavi技術</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-movie-scenes-as-single-image-snapshots-windows-10/"><u>Capturing Movie Scenes as Single Image Snapshots (Windows 10)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/downloadable-tool-convert-your-dts-video-streams-to-m4v-format-for-no-cost-moveavi/"><u>Downloadable Tool: Convert Your DTS Video Streams to M4V Format for No Cost - MoveAVI</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-fixes-resolving-issues-with-non-responsive-windows-defender-expert-tips-from-yl-computing/"><u>Effective Fixes: Resolving Issues with Non-Responsive Windows Defender - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harnessing-cookiebot-technology-for-enhanced-seo-performance/"><u>Harnessing Cookiebot Technology for Enhanced SEO Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-tecno-pop-7-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-gratuite-tod-mov-vervanger-allemaal-verschilend-gereed-tod-naar-mov-movavi-als-solutie/"><u>Online Gratuite TOD-MOV Vervanger: Allemaal Verschilend Gereed TOD Naar MOV - Movavi Als Solutie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-11-substitutes-for-adobe-after-effects-free-and-paid-options-available/"><u>Top 11 Substitutes for Adobe After Effects - Free & Paid Options Available</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasformare-i-tuoi-gif-in-immagini-png-gratuite-online-movavi/"><u>Trasformare I Tuoi GIF in Immagini PNG Gratuite Online - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mov-mkv/"><u>오픈소스로 속도가 빠는 MOV, MKV 영상 변환 - 모바이브리지</u></a></li>
 </ul></div>
 

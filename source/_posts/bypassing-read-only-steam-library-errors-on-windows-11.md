@@ -1,7 +1,7 @@
 ---
 title: Bypassing Read-Only Steam Library Errors on Windows 11
-date: 2024-07-29T08:15:10.335Z
-updated: 2024-07-30T08:15:10.335Z
+date: 2025-01-14T17:07:55.311Z
+updated: 2025-01-18T16:15:35.648Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,6 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 
  If you face the same predicament, don’t fret. Let's explore multiple methods to resolve this annoying error code and help you successfully install your games on Steam again.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Change the Steam Folder Attributes
 
  Steam needs to have both read and write permissions to make changes to any sub-folder inside the Steam folder. If the steamapps folder is set to "read-only," the error can pop up and prevent you from installing the game. Repeat the following steps to change the Steam folder attributes:
@@ -45,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 6. Closethe File Explorer window and reopenthe Steam client.
 7. Try to install the game and check if the error appears or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run the Steam App With Administrator Privileges
 
  Missing privileges can cause issues with some features in Steam. So, you must close and restart the Steam app with admin rights. Here’s how:
@@ -55,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 ![Run the Steam App With Administrator Privileges-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-the-steam-app-with-administrator-privileges-1.jpg)
 4. The User Account Control window will launch. Click on the **Yes** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Grant Full Ownership of the Steam Folder
 
  If you don’t have complete ownership of the Steam folder, you can face problems while installing a game or making changes to any file or folder. Repeat the following steps to gain complete ownership of the Steam folder:
@@ -69,16 +58,10 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 5. Click on the **Edit** button.
 6. Select your User Profile and click on the **Edit** button.
 7. Click on the **Full Control** checkbox to grant all the permissions for your user profile.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Grant Full Ownership of the Steam Folder-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/grant-full-ownership-of-the-steam-folder-1.jpg)
 8. Now, click on the **Apply** button.
 9. Lastly, click on the **OK** button and then close the Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Repair the Steam Library Folder
 
  Steam offers the option to repair the Steam library folders to fix issues with it. Here’s how to repair the folder using the Steam app:
@@ -87,20 +70,13 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 2. Click on the **Steam** button at the top left corner and then click on the **Settings** option in the context menu.
 3. Scroll down and click on the **Storage** option.
 4. Click on the **horizontal ellipsis** (three dots) button. Select the **Repair folder** option.  
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Repair the Steam Library Folder-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-the-steam-library-folder-1.jpg)
 5. The User Account Control window will pop up. Click on the **Yes** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. After the repair completes, click on the **Close** button.
 
 ## 5\. Re-Add the Steam Library Folder
@@ -115,8 +91,9 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 6. Close and relaunch Steam.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Flush the Steam Download Cache
 
  An outdated or corrupt download cache can cause interference while installing games or updating the Steam client. So, you must empty the Steam download cache using the settings. Repeat the following steps to do so:
@@ -127,18 +104,21 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 4. Find the **Clear Download Cache** option in the right pane. Click on the **Clear Cache** button.  
 ![Flush the Download Cache-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flush-the-download-cache-1.jpg)
 5. Steam will reconfirm your decision to clear the cache. Click on the **Confirm** button.
-6. The app will restart after purging the download cache. You will have to sign in again to your Steam account.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. The app will restart after purging the download cache. You will have to sign in again to your Steam account.
+
 ## 7\. Run a Check Disk Scan
 
  Hard Disk errors can be a reason due to which Steam is unable to add or modify files. You can [use the Check Disk utility in Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) to check your hard disk for errors and fix them. The Check Disk utility will scan the hard disk for errors and repair them, if possible.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Reinstall the Game on Another Drive
 
  If you are unable to install the game on the C drive, you must add another drive in the Steam Storage settings. Then, attempt the game installation in the newly added drive. Here’s how to do it:
@@ -168,15 +148,14 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 8. **Close** the Disk Management utility.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Your Steam Library Folder Writable Again on Windows
 
  These were the methods to fix the “Steam library folder not writable” error. Start by changing the file attributes and relaunching the Steam app with administrator rights. After that, repair the Steam library folder, flush the download cache, and run a check disk scan to fix disk errors.
 
  If you face the same predicament, don’t fret. Let's explore multiple methods to resolve this annoying error code and help you successfully install your games on Steam again.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -184,3 +163,25 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-beyond-the-lens-the-complete-selfie-confirmation-on-ig/"><u>[New] Beyond the Lens The Complete Selfie Confirmation on IG</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expert-advice-yt-clip-sharing-using-your-google-id/"><u>[New] Expert Advice YT Clip Sharing Using Your Google ID</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-apples-messaging-protocol-in-windows-10/"><u>Enabling Apple's Messaging Protocol in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-eliminate-non-playable-video-files-on-pc/"><u>How to Eliminate Non-Playable Video Files on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-separate-graphic-card-on-win-1011/"><u>How To Enable Separate Graphic Card on Win 10/11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro, Apples New iPhone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-asus-rog-phone-8-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Asus ROG Phone 8 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/inside-the-windows-n-enigma-which-version-to-purchase/"><u>Inside the Windows N Enigma: Which Version to Purchase?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-7-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your iPhone 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-instruction-office-works-installation-on-w11/"><u>Stepwise Instruction: Office Works Installation on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-installing-and-using-outlook-preview/"><u>The Ultimate Guide to Installing and Using Outlook Preview</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-ultimate-guide-to-updating-razers-deathadder-on-win10/"><u>The Ultimate Guide to Updating Razer's Deathadder on Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-window-11s-default-search-settings/"><u>Transforming Window 11'S Default Search Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-of-wsl-2-with-docker-integration/"><u>Unlock Full Potential of WSL 2 with Docker Integration</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-resume-operation-post-creators-patch/"><u>Win11 Resume Operation Post Creator's Patch</u></a></li>
+</ul></div>
+

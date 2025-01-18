@@ -1,7 +1,7 @@
 ---
 title: "The Definitive Guide to Creating a PermaDelete Tool: Windows Desktop Trash"
-date: 2025-01-07T01:38:43.249Z
-updated: 2025-01-13T00:41:21.745Z
+date: 2025-01-11T17:53:42.381Z
+updated: 2025-01-18T17:07:21.220Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 ![The Recycle Bin Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/recycle-bin-properties-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Yet, the Recycle Bin’s standard deletion method merely removes a hard drive reference pointer for a file. Doing so marks the drive space a deleted file occupies as available, but the data remains intact until it gets overwritten. This means that non-overwritten files removed with standard deletion can still be recovered with data recovery software. Our data recovery software guide tells you about some of the[best tools you can use for restoring files](https://www.makeuseof.com/best-data-recovery-software/) .
 
  However, file shredder apps combat data recovery software by thoroughly eradicating files. Those tools permanently erase files by overwriting their data on hard drives. They do that with various data erasure overwrite standards, such as Gutmann’s and Schneier’s algorithms.
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
  So, you’ll need[third-party file shredder software](https://www.makeuseof.com/best-file-shredder-programs/) if you want to permanently erase files beyond potential recovery. Free File Wiper and Multi Trash are apps that add file shredder bins to the Windows 11/10 desktop. Those are bins you can drag and drop files to for permanent erasure.
 
  Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
 
@@ -50,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 5. Unzip the**free\_file\_wiper.zip** archive as instructed in our guide for extracting ZIP files in Windows.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-compressed-file-tool.jpg)
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
@@ -70,11 +74,11 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
 
- You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
 
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
 
@@ -92,12 +96,16 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
@@ -108,15 +116,7 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
@@ -139,19 +139,20 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-optimizing-recording-quality-tips-and-tricks-for-ps3-gamers/"><u>[New] 2024 Approved Optimizing Recording Quality Tips and Tricks for PS3 Gamers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nhance-engagement-with-these-essential-freegame-hashtags-for-youtube-for-2024/"><u>[New] Enhance Engagement with These Essential FreeGame Hashtags for YouTube for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-giggle-garage-gratuitous-tools-to-tickle-your-brain/"><u>2024 Approved Giggle Garage Gratuitous Tools to Tickle Your Brain</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-key-methods-windows-11-uses-to-intrude-on-privacy/"><u>5 Key Methods Windows 11 Uses to Intrude on Privacy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-serenity-windows-sleep-mode-guide/"><u>Achieving Serenity: Windows Sleep Mode Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/automate-sync-and-conquer-to-dot-and-ifttt/"><u>Automate, Sync, and Conquer: To-Dot & IFTTT</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-tecno-pop-7-pro-by-drfone-android/"><u>Full Guide to Unlock Your Tecno Pop 7 Pro</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-y17s-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo Y17s Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-secrets-to-choosing-the-ultimate-free-online-srt-translators/"><u>In 2024, Secrets to Choosing the Ultimate Free Online SRT Translators</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-the-nintendo-switch-a-valid-platform-to-stream-from-netflix/"><u>Is The Nintendo Switch A Valid Platform To Stream From Netflix?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-multimedia-in-educational-practice-for-2024/"><u>Navigating Multimedia in Educational Practice for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719275215540-reduce-clutter-increase-efficiency-one-antivirus-rule/"><u>Reduce Clutter, Increase Efficiency: One Antivirus Rule</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719383078548-unfreeze-handbrake-on-widows-effortlessly/"><u>Unfreeze HandBrake on Widows, Effortlessly!</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>Updated Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-synergizing-brands-on-video-platforms/"><u>[New] 2024 Approved Synergizing Brands on Video Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-breakthrough-techniques-for-outstanding-youtube-openers-technique-1plus2-for-2024/"><u>[New] Breakthrough Techniques for Outstanding YouTube Openers (Technique 1+2) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-innovative-techniques-for-recording-instagram-story-highlights-for-2024/"><u>[New] Innovative Techniques for Recording Instagram Story Highlights for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-all-about-creating-compelling-twitresponses/"><u>[Updated] 2024 Approved All About Creating Compelling TwitResponses</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-androids-leading-downloader-choice-the-ultimate-top-10-list-of-fb-video-tools-for-2024/"><u>[Updated] Android's Leading Downloader Choice The Ultimate Top 10 List of FB Video Tools for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-2024/"><u>1. 2024 동영상 타임랩스 변환에 대한 최신 기술: 시각화 및 수학적 기술을 사용한 두 가지 유명한 방법</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-restarting-graphics-settings-in-win1011/"><u>Efficiently Restarting Graphics Settings in Win10/11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-upgrade-or-install-the-macos-sierra/"><u>How to Upgrade or Install the macOs Sierra</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-training-on-googles-automatic-transcription-tool/"><u>In-Depth Training on Google's Automatic Transcription Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/peak-cpu-and-memory-load-trackers/"><u>Peak CPU and Memory Load Trackers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reverse-sticky-note-misalignment-in-win11/"><u>Strategies to Reverse Sticky Note Misalignment in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11s-foundation-an-analysis-of-its-registry-data/"><u>Unveiling Windows 11’S Foundation: An Analysis of Its Registry Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-boot-optimization-managing-startup-items/"><u>Windows 11 Boot Optimization: Managing Startup Items</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workaround-for-not-being-ready-to-switch-to-win11/"><u>Workaround for Not Being Ready to Switch To Win11</u></a></li>
 </ul></div>
 

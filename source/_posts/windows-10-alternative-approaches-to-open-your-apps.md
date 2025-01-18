@@ -1,7 +1,7 @@
 ---
 title: "Windows 10: Alternative Approaches to Open Your Apps"
-date: 2025-01-06T02:15:20.090Z
-updated: 2025-01-12T20:47:04.227Z
+date: 2025-01-15T17:52:12.502Z
+updated: 2025-01-18T18:30:32.439Z
 tags:
   - windows10
   - windows11
@@ -33,21 +33,21 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 2. Type the name of the app or program you want to open in the text box and press**Enter** .  
 ![Open Apps and Programs Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-start-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Open Apps and Programs Using Its EXE File
 
 ![Open Apps and Programs Using Desktop Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-desktop-shortcuts.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you install an app or program on Windows, it often adds a shortcut to the EXE file on your desktop. This allows you to launch the app or program by double-clicking the shortcut.
 
  If the desktop shortcut isn't available, you can[find where the program is installed on Windows](https://www.makeuseof.com/windows-ways-to-find-programs-install-location/) and double-click on its EXE file to open it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Open Programs With the Run Tool
 
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
  For instance, if you were to open Paint, you'd type**mspaint.exe** in the Run dialog box and press**Enter** . Similarly, to open Chrome, you can type**chrome.exe** in the Run dialog box.
 
 ![Open Apps and Programs Using Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-run-dialog.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Open Programs via Task Manager
 
@@ -68,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![Open Apps and Programs Using Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-windows-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Open Apps and Programs via Command Prompt
@@ -80,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 3. Type**cd <file path>** in the Command Prompt window, and hit**Enter** to navigate to the folder that contains the app you want to launch. Make sure you replace**<file path>** with the actual path of the program.
 4. Type**start <filename.exe>** and hit**Enter** to launch the app.  
 ![Open Apps and Programs Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. How to Open Programs With Keyboard Shortcuts
 
@@ -93,15 +101,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 4. Hit**Apply** followed by**OK** .  
 ![Open Apps and Programs Using Keyboard Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-keyboard-shortcuts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, you can quickly launch the app or program by pressing the assigned key combination.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Many Ways to Open Apps and Programs on Windows
 
@@ -122,18 +122,18 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-best-10-web-based-hd-screen-capture-tools-for-2024/"><u>[New] Best 10 Web-Based HD Screen Capture Tools for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-short-track-olympics-highlights-from-22/"><u>[New] Short Track Olympics - Highlights From '22</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-leading-av-creators-digital-edition-list-for-2024/"><u>[Updated] Leading AV Creators Digital Edition List for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensible-guide-to-resetting-faulty-google-nearby-share/"><u>Comprehensible Guide to Resetting Faulty Google Nearby Share</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-blank-login-screen-in-windows-10-and-11/"><u>How to Fix a Blank Login Screen in Windows 10 & 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-huawei-p60-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Huawei P60 to Roku | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-over-reactivating-explore-in-windows-11os/"><u>Mastery over Reactivating Explore in Windows 11OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-operation-failure-error-0x0000011b-in-windows-11/"><u>Mitigating Operation Failure (Error: 0X0000011B) in Windows 11</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-online-video-advertising-maker-platforms-for-2024/"><u>New Online Video Advertising Maker Platforms for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-non-responsive-input-devices-in-windows/"><u>Overcoming Non-Responsive Input Devices in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723807937043-quick-and-easy-tutorial-on-youtube-song-downloads/"><u>Quick and Easy Tutorial on Youtube Song Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-and-techniques-for-resolving-failed-image-import-from-ios-devices/"><u>Tips and Techniques for Resolving Failed Image Import From iOS Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-joy-on-switch-9-best-ftp-game-selections/"><u>Unlock Joy on Switch: 9 Best FTP Game Selections</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-optimal-techniques-for-capturing-ppt-sessions/"><u>[Updated] Optimal Techniques for Capturing PPT Sessions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-winning-artistry-expedited-execution-of-edits-on-photos-in-windows-10-for-2024/"><u>[Updated] Winning Artistry Expedited Execution of Edits on Photos in Windows 10 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726222411252-ape-movavi/"><u>無料APEファイル変換ツールで高品質音楽を再生 - Movavi動的オンラインビデオコンバート</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-android-apps-for-free-photo-editing-in-may-2024-discover-the-top-picks/"><u>Best Android Apps for Free Photo Editing in May 2024: Discover the Top Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-gratuite-de-fichiers-3gp-vers-format-swf-avec-movavi/"><u>Conversion Gratuite De Fichiers 3GP Vers Format SWF Avec Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-flv-files-to-high-quality-flac-format-for-free-with-movavis-web-service/"><u>Convert FLV Files to High-Quality FLAC Format for Free with Movavi's Web Service</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/descargar-e-instalar-conversor-de-audio-libre-y-sin-costo-wav-a-mp4-con-movavi/"><u>Descargar E Instalar Conversor De Audio Libre Y Sin Costo: WAV a MP4 Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuiti-convertitore-live-streaming-mxf-softonic/"><u>Gratuiti Convertitore Live Streaming MXF - Softonic</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-y27s-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo Y27s</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-y55s-5g-2023-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo Y55s 5G (2023) Phone Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-honor-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Honor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-avi-in-mp4-gratuitamente-online-usando-movavi-metodo-facile-e-veloce/"><u>Trasforma I Tuoi AVI in MP4 Gratuitamente Online Usando Movavi - Metodo Facile E Veloce</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-happens-to-unused-ps-plus-titles/"><u>What Happens to Unused PS Plus Titles?</u></a></li>
 </ul></div>
 

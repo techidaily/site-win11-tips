@@ -1,7 +1,7 @@
 ---
 title: How to Initiate a Fresh Start in Windows 11
-date: 2024-08-08T11:02:36.120Z
-updated: 2024-08-09T11:02:36.120Z
+date: 2025-01-17T16:33:18.888Z
+updated: 2025-01-18T16:21:35.604Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
  The good news is that it's an easy process to boot your Windows 11 into a clean boot environment.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Clean Boot Windows 11
 
  A [clean boot](https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd) in Windows is a troubleshooting technique that starts the system with a minimal set of startup programs and drivers. It helps you figure out whether an additional program is the cause of this problem, or if it’s due to issues within the system files.
@@ -34,10 +35,11 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 1. Go to the **Start menu** search bar, type in “msconfig” and select **System Configuration** from the results.
 2. Switch to the **Services** tab, select **Hide all Microsoft Services**, and click on **Disable All**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![disabling all services from the system configuration tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/disabling-the-system-configuration.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you have to launch the Task Manager. Here's how you can do that:
 
@@ -45,10 +47,11 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 2. Now, one by one, disable each app under the **Startup** tab.
 3. Go back to **Startup** tab in **System Configuration** and select **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![disabling startup apps from task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/disabling-startup-apps.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On your next restart, Windows will be launched in a clean boot environment.
 
@@ -64,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 
  Repeat the procedure until you are left with the app that's causing trouble on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## How to Stop Clean Boot on Your Windows 11
 
  Whether the clean boot fixed your Windows 11 bugs or not, you have to get out of it eventually. To do that, follow the steps below:
@@ -74,20 +74,22 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 1. Head to the **Start menu** search bar, type in 'msconfig', and select **System Configuration**.
 2. Click on the **Services** tab, select the **Hide all Microsoft services** check box, and click the **Enable all** button.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/system-configuration-dialog-box.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, follow the steps below:
 
 1. Now click on **Startup > Open Task Manager**.
 2. Select every disabled application one by one and click on **Enable**.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enabling apps from task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it. Now, do a quick reboot, and your Windows 11 will boot normally from here on.
 
@@ -95,11 +97,23 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 
  The good news is that it's an easy process to boot your Windows 11 into a clean boot environment.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-behind-the-scenes-insider-knowledge-for-youtube-video-production/"><u>[Updated] 2024 Approved Behind the Scenes Insider Knowledge for YouTube Video Production</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-futuristic-windows-with-ai-assistance/"><u>Crafting Futuristic Windows with AI Assistance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-error-0x0000004e-on-windows-os/"><u>Eradicating Error 0X0000004E on Windows OS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-install-and-activate-revo-permission-manager-revouninstaller/"><u>How to Install and Activate Revo Permission Manager - RevoUninstaller</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-stepwise-guide-to-achieving-professional-grade-radial-effects/"><u>In 2024, Stepwise Guide to Achieving Professional-Grade Radial Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailoring-drop-dates-to-maximize-listener-interest/"><u>In 2024, Tailoring Drop Dates to Maximize Listener Interest</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/system-service-exception-on-windows-11-solved/"><u>System Service Exception on Windows 11 [Solved]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unearthing-windows-bsod-indicators-and-their-origins/"><u>Unearthing Windows BSOD Indicators & Their Origins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-arm-from-iso-file-to-fully-operational-os/"><u>Windows 11 ARM: From ISO File to Fully Operational OS</u></a></li>
+</ul></div>
+
