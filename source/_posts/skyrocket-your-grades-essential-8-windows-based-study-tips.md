@@ -1,7 +1,7 @@
 ---
 title: "Skyrocket Your Grades: Essential 8 Windows-Based Study Tips"
-date: 2025-01-13T16:29:28.764Z
-updated: 2025-01-18T17:44:11.458Z
+date: 2025-01-23T23:59:31.878Z
+updated: 2025-01-24T18:38:05.109Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Create an Organized Folder Structure
 
  Like any workstation, keeping your files nicely organized helps enhance your productivity. However, things may quickly get disorganized with Downloads, Documents, Pictures, and other folders. Your notes may be scattered across multiple folders, making it difficult to remember where files are located.
@@ -39,6 +35,11 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 2. You must first select a main location where all the folders will be saved. We recommend storing the main folder on a separate volume for easy access. Go to the location, create a new folder, and name it.  
 ![A Folder In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-folder-in-file-explorer.jpg)
 3. Go inside the folder you just created. Now, let’s create four different folders to organize the folder structure. We’ll use the PARA approach to name the folder. PARA refers to **Projects**, **Areas**, **Resources**, and **Archives**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![PARA Styled Folder Structure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/para-styled-folder-structure.jpg)
 
  Here is an overview of how the PARA approach can help organize student materials:
@@ -50,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
  Now that you have the structure, you can logically group related files.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set Up Google Drive for Cloud Sync
 
  As a student, you likely use Google Drive on your smartphone to store college notes, PDFs, or other such things. If you use your PC most of the time, setting up Google Drive will help you get the most out of its cross-platform functionality.
@@ -64,12 +61,21 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 2. Run the Google Drive installer file and click on **Install**.  
 ![Google Drive Installer Popup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-installer-popup.jpg)
 3. Click **Launch** and log in with your primary Google account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once logged in, right-click on the Google Drive icon on the taskbar. Click on the gear (settings) icon and then **Preferences**.  
 ![Google Drive More Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-more-options.jpg)
 5. Click on the **Add folder** button and select the main folder location that you created before.  
 
 ![Google Drive Preferences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences.jpg)
 6. Click on **Done** and then **Save** to finish the backup process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Google Drive Preferences Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences-options.jpg)
 
@@ -84,11 +90,7 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 ![Focus Session Option On Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/focus-session-option-on-windows11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Install Useful Browser Extensions
@@ -104,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 * [Picture-in-Picture:](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) If you prepare your digital notes from YouTube lectures, Picture-in-Picture is for you. This extension can keep YouTube lectures, music, or tutorials playing in a floating mini-player while multitasking.
 
  For non-Chromium based browsers, you can visit the official websites of the respective extensions to download supported add-ons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Annotate Your PDFs With Drawboard PDF
 
@@ -150,6 +148,10 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 ![Notion Page Example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/notion-page-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We already have a [beginner's guide to get started with Notion](https://www.makeuseof.com/beginners-guide-to-notion/). Besides, you can also browse [Notion templates for students](http://www.notion.so/templates/category/school) to start with an attractive setup.
 
 ## 8\. Install ChatGPT on Your PC
@@ -160,11 +162,11 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 ![ChatGPT Website Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-website-screenshot.jpg)
 
- Besides, if you don't know how to use ChatGPT for note-taking, you can refer to our guide on [how to use ChatGPT to take notes](https://www.makeuseof.com/use-chatgpt-to-take-notes/).
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Besides, if you don't know how to use ChatGPT for note-taking, you can refer to our guide on [how to use ChatGPT to take notes](https://www.makeuseof.com/use-chatgpt-to-take-notes/).
 
 ## Your Windows Productivity Hub Is Now Ready
 
@@ -184,18 +186,21 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/reating-a-prime-business-channel-top-picks-and-simple-steps/"><u>[New] Creating a Prime Business Channel Top Picks & Simple Steps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-comparing-videography-power-in-prohero-and-keymission/"><u>[Updated] Comparing Videography Power in ProHero and Keymission</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-masterclass-in-visual-enhancement-from-muted-sdr-to-stunning-hdri/"><u>[Updated] Masterclass in Visual Enhancement From Muted SDR to Stunning HDRI</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevate-your-social-media-presence-h-videos-reimagined-for-igtv/"><u>2024 Approved Elevate Your Social Media Presence H-Videos Reimagined for IGTV</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-halt-recommendations-no-more-suggests/"><u>2024 Approved How to Halt Recommendations No More Suggests</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-invisible-web-seo-secrets-for-podcasters/"><u>2024 Approved The Invisible Web SEO Secrets for Podcasters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-smudges-quick-windows-11-remedies-for-distorted-displays/"><u>Decoding Smudges: Quick Windows 11 Remedies for Distorted Displays</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-networks-configure-win11s-dns-client-service/"><u>Mastering Networks: Configure Win11's DNS Client Service</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-facebook-post-death-memories-and-termination/"><u>Navigating Facebook Post-Death: Memories and Termination</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventive-tactics-against-ms-store-on-windows-10/"><u>Preventive Tactics Against MS Store on Windows 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-secure-the-best-encryption-applications-of-the-year-153-chars/"><u>Win Secure: The Best Encryption Applications of the Year (153 Chars)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elevating-visual-communication-top-10-tools-for-vector-artists/"><u>[Updated] 2024 Approved Elevating Visual Communication Top 10 Tools for Vector Artists</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-exploring-manycams-latest-video-capture-innovations/"><u>[Updated] In 2024, Exploring ManyCam's Latest Video Capture Innovations</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-12-pro-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme 12 Pro 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/202n10-windows-mac-android-ios/"><u>全新202n年10月免費語音改編器 - Windows, Mac, Android, iOS 支持選項</u></a></li>
+<li><a href="https://article-helps.techidaily.com/crafting-magnetic-content-with-personalized-animated-gifs-for-2024/"><u>Crafting Magnetic Content with Personalized Animated GIFs for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-engagement-crafting-an-animated-subscribe-button-in-filmoras-step-by-step-guide-for-2024/"><u>Drive Engagement Crafting an Animated Subscribe Button in Filmora's Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-connection-guide-setting-up-your-phone-as-an-interchangeable-control-for-ocul/"><u>Easy Connection Guide: Setting Up Your Phone as an Interchangeable Control for Ocul</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-optional-enhancements-in-windows-11-a-complete-fix-guide/"><u>Effortless Optional Enhancements in Windows 11: A Complete Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-starcraft-ii-game-crashing-issues-on-desktop-computers/"><u>Fixes for Starcraft II Game Crashing Issues on Desktop Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-missing-alerts-on-desktops/"><u>How To Fix Missing Alerts on Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quiet-windows-update-announcements/"><u>Quiet Windows Update Announcements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-brightness-control-via-function-keys-on-win-11/"><u>Reestablishing Brightness Control via Function Keys on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-ccleaner-hiccups/"><u>Resolving Windows 11: CCleaner Hiccups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-tailor-icon-spacing-on-modern-and-older-win-oss/"><u>Title: Tailor Icon Spacing on Modern & Older WIN OSs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-unparalleled-development-potential-with-microsoft-discover-top-tier-talent-on-a-budget/"><u>Unlock Unparalleled Development Potential with Microsoft: Discover Top-Tier Talent on a Budget</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-six-key-reasons-for-choosing-win11-overseas-macos/"><u>Unveiling Six Key Reasons for Choosing Win11 Overseas macOS</u></a></li>
 </ul></div>
 

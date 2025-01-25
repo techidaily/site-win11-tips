@@ -1,7 +1,7 @@
 ---
 title: "Seamless Gaming: Resolving the E84 Error in Steam"
-date: 2025-01-11T18:26:46.034Z
-updated: 2025-01-18T16:08:16.202Z
+date: 2025-01-18T22:31:51.944Z
+updated: 2025-01-24T21:22:39.985Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Perform Some Preliminary Checks
 
  First, you should perform these basic fixes, as they may resolve the problem immediately:
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 * Check that your system clock is displaying the correct time. If it's not, check out[how to change the date and time on Windows](https://www.makeuseof.com/windows-11-change-date-time/) for more information.
 
  If the issue persists after applying the above checks and fixes, start applying the remaining fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Log Out of Your Steam Account on Other Devices
 
@@ -64,15 +72,7 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 ![Click on Reset My Password Option on Steam Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-click-on-reset-my-password-option-on-steam-website.jpg)
 9. Then, follow the on-screen instructions to reset your password.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After changing your password, restart your device once and try to sign in again with the new password. Hopefully, this time you won't encounter any errors. If resetting the account password does not resolve the issue, proceed to the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Add or Remove Launch Parameters
 
@@ -82,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 ![Open Steam Properties in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-open-steam-properties-in-windows.jpg)
 2. Go to the**Shortcut** tab in the**Steam Properties** window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Go to Shortcut Tab in the Steam Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-go-to-shortcut-tab-in-the-steam-properties-window.jpg)
 3. To modify the**Target** field, click at its end, add a space, and type**"-noreactlogin** .**"**
 4. Click**Apply** and then hit**OK** .  
@@ -94,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
  If you see that some launch parameters are already added to the Target field, consider removing them. According to some users on[GitHub](https://github.com/ValveSoftware/steam-for-linux/issues/9031) , Steam no longer supports the**"noreactlogin"** flag and suggests removing it. Remove this flag if it is already there. Taking this step will ensure that this extra parameter is not contributing to the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. When Nothing Else Works…
@@ -105,12 +101,16 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
  To confirm that the issue isn't with your Steam account, sign in to Steam using a different account (If you don't have another account, create one). If you successfully log in using the other account, it indicates that your primary account has an issue. So, contact Steam support through their[official Steam Support website](https://help.steampowered.com/en/) and ask them to investigate it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Whitelist Steam in All Active Security Apps
 
  Valve recommends whitelisting Steam's executable files in Windows' built-in or third-party security suites. So, go to Steam's installation folder, filter out all the executable files, and[whitelist them from Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) or any other third-party antivirus software you use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Rid of Steam's Error Code 84 on Windows
@@ -132,20 +132,22 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-mastery-in-making-single-stream-live-events-stand-out-for-2024/"><u>[Updated] Mastery in Making Single-Stream LIVE Events Stand Out for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-revisiting-yesteryears-social-stories-on-fb-device-guide/"><u>[Updated] Revisiting Yesteryear's Social Stories on FB Device Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/download-premium-hollywood-movies-at-no-cost-available-in-both-english-and-hindi-languages-get-your-copies-today/"><u>Download Premium Hollywood Movies at No Cost, Available in Both English and Hindi Languages – Get Your Copies Today!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/google-meet-capture-made-simple-for-mobile-users-for-2024/"><u>Google Meet Capture Made Simple for Mobile Users for 2024</u></a></li>
-<li><a href="https://discover-help.techidaily.com/gratis-sicherungsprogramme-fur-windows-881-vorteilhafte-features-von-aomei-backupper/"><u>Gratis Sicherungsprogramme Für Windows 8/8.1: Vorteilhafte Features Von AOMEI Backupper</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-configure-safe-storage-for-files-in-win1011/"><u>How to Configure Safe Storage for Files in Win10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ical-on-windows-setup-for-a-cross-platform-schedule/"><u>ICal on Windows: Setup for a Cross-Platform Schedule</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-7-plus-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 7 Plus to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/inside-look-windows-command-center/"><u>Inside Look: Windows' Command Center</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-broadcom-bluetooth-software-on-windows-10-8-and-7-systems/"><u>Installing Broadcom Bluetooth Software on Windows 10, 8 & 7 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-windows-11s-frozen-search-within-the-user-interface/"><u>Mending Windows 11'S Frozen Search Within the User Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-error-resolution-in-windows-11s-setup-process/"><u>Simplifying Error Resolution in Windows 11'S Setup Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-storage-merging-files-on-windows-11/"><u>Streamlining Storage: Merging Files on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailor-made-win11-keys-personal-setup-guide/"><u>Tailor-Made Win11 Keys: Personal Setup Guide</u></a></li>
-<li><a href="https://techidaily.com/the-metaverse-unveiled-understanding-its-depths-beyond-simple-vr-technology/"><u>The Metaverse Unveiled: Understanding Its Depths Beyond Simple VR Technology</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-breakdown-of-successful-podcast-writing-techniques-examples-included/"><u>[New] In 2024, Breakdown of Successful Podcast Writing Techniques (Examples Included)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-summit-elite-25-testing-analysis-for-2024/"><u>[Updated] Summit Elite 25 Testing Analysis for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-nine-all-inclusive-free-holiday-movies-streamed-on-youtube/"><u>2024 Approved Nine All-Inclusive Free Holiday Movies Streamed on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-your-input-cant-be-opened-vlc-error-on-windows/"><u>How to Fix the Your Input Can’t Be Opened VLC Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-auto-narration-in-windows-office-word/"><u>How To Reactivate Auto-Narration in Windows Office Word</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-zte-axon-40-lite-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve ZTE Axon 40 Lite Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-nikon-d500-review-breaking-boundaries-in-4k/"><u>In 2024, Nikon D500 Review Breaking Boundaries in 4K</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-windows-resemble-mac-os-essential-5-tactics/"><u>Making Windows Resemble Mac OS: Essential 5 Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-wi-fi-hotspot-functionality/"><u>Mastering Windows 11'S Wi-Fi Hotspot Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-machine-identification-sid-finder-in-win11/"><u>Mastery of Machine Identification: SID Finder in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-dotnet-restoration-in-windows-max-156/"><u>Quick DotNet Restoration in Windows (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-peak-load-issues-with-gpt-on-windowed-systems/"><u>Reducing Peak-Load Issues with GPT on Windowed Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/revolutionizing-group-discussions-via-channels-feature/"><u>Revolutionizing Group Discussions via Channels Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-system-changing-the-user-password-on-win-11/"><u>Secure Your System: Changing the User Password on Win 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-connectivity-issues-with-live-config-servers/"><u>Step-by-Step Solutions: Connectivity Issues with Live Config Servers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ribe-savvy-double-your-audience-in-pocket-change/"><u>Subscribe Savvy Double Your Audience in Pocket Change</u></a></li>
 </ul></div>
 

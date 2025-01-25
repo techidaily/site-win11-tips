@@ -1,7 +1,7 @@
 ---
 title: Pushing Past Disabled Script Constraints in Windows PS
-date: 2025-01-12T16:07:20.428Z
-updated: 2025-01-18T16:51:45.242Z
+date: 2025-01-21T19:40:59.579Z
+updated: 2025-01-24T22:05:54.051Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run PowerShell in Administrator Mode
@@ -76,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  Now that everything is clear, let’s explore how you can execute the relevant policies to tackle the "PowerShell cannot load" issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Change the Execution Policy to "Unrestricted"
 
  The best way to tackle the issue at hand is to change the execution policy to "unrestricted." But before that, you need to check how each execution policy is configured.
@@ -102,15 +98,15 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![Setting the execution policy on PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-the-execution-policy-on-powershell.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To change the execution policy to “Unrestricted” for all users, type the following command and press **Enter**:
 
 `Set-ExecutionPolicy Unrestricted -Scope LocalMachine`
 
  When you finish running the command, close PowerShell and restart your PC to save these changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Change the Execution Policy to "ByPass"
 
@@ -130,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Local Group Policy Editor (LGPE) also makes it easy for you to change the execution policy. In fact, this tool can also help you configure various system settings or troubleshoot tons of PC issues.
 
  Remember, the main aim is to change the execution policy such that you’ll be able to run your PowerShell scrips without a hassle. And by so doing, you’ll get rid of the “running scripts is disabled” error on PowerShell.
@@ -142,19 +142,11 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![Clicking the Turn on Script Execution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-turn-on-script-execution-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check the **Enabled** box. From there, click the **Execution Policy** drop-down menu and select **Allow local scripts and remote signed scripts**. This option is similar to the "RemoteSigned" option that we discovered earlier.
 
  If you want to run all scripts without restrictions, pick the **Allow all scripts** option from the "Execution Policy" drop-down menu.
 
  From there, click **Apply** and then click **OK** to save these changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Change the Execution Policy Using the Registry Editor
 
@@ -174,6 +166,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![Selecting the ExecutionPolicy value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-executionpolicy-value.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the value is missing, create it through these steps:
 
 1. Right-click on a blank space on the right-hand side.
@@ -185,6 +181,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
  Alternatively, type **ByPass** in the "Value data" section. This will allow PowerShell to execute any script without limitations.
 
  After entering your preferred value in the "Value data" section, press **OK** to save the changes. Finally, close the Registry Editor and then restart your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Run Your PowerShell Scripts Without Any Restrictions
 
@@ -206,21 +206,24 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-dial-down-the-velocity-of-your-snapchat-videos-for-2024/"><u>[New] How to Dial Down the Velocity of Your Snapchat Videos for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-the-lens-focus-techniques-for-storify-success/"><u>[New] In 2024, Mastering the Lens Focus Techniques for Storify Success</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-music-management-for-social-media-iphone-and-android-basics-for-2024/"><u>[New] Music Management for Social Media IPhone & Android Basics for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-longevity-in-the-clouds-top-10-drone-selections-for-2024/"><u>[Updated] Longevity in the Clouds Top 10 Drone Selections for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-under-the-lens-hero-4-meets-hero-5/"><u>2024 Approved Under the Lens Hero 4 Meets Hero 5</u></a></li>
-<li><a href="https://article-tips.techidaily.com/differentiating-between-metaverse-and-multiplemetaverse-worlds/"><u>Differentiating Between Metaverse & MultipleMetaverse Worlds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-disconnected-application-problems-in-win10/"><u>Eliminating Disconnected Application Problems in Win10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-steps-to-repairing-your-computer-or-device-a-comprehensive-guide/"><u>Essential Steps to Repairing Your Computer or Device: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/hero9-review-the-epitome-of-gopro-quality/"><u>HERO9 Review: The Epitome of GoPro Quality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-your-deactivated-key-on-win11/"><u>How to Reactivate Your Deactivated Key on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-filter-keys-a-comprehensive-windows-guide/"><u>Mastering Filter Keys: A Comprehensive Windows Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11-load-with-smart-media-management/"><u>Optimizing Windows 11 Load with Smart Media Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-game-changing-functionality-that-sways-me-away-from-new-m4-mac-minis-this-fall-exploring-apples-latest-offerings-zdnet/"><u>The Game-Changing Functionality That Sways Me Away From New M4 Mac Minis This Fall: Exploring Apple's Latest Offerings | ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-fixing-windows-alpha-key-problems-61-characters/"><u>Tips for Fixing Windows Alpha Key Problems (61 Characters)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-ffmpeg-competitors-the-ultimate-guide-to-converting-videos-seamlessly/"><u>Top FFmpeg Competitors: The Ultimate Guide to Converting Videos Seamlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-audit-examining-active-connections/"><u>Windows Audit: Examining Active Connections</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capturing-screenshots-like-a-pro-the-best-recorder-reviews/"><u>[New] Capturing Screenshots Like a Pro The Best Recorder Reviews</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/our-first-step-designing-attractive-videos-on-a-mac-for-2024/"><u>[New] Your First Step Designing Attractive Videos on a Mac for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-light-and-shadow-with-iphone-xs-new-lens-technology/"><u>[Updated] Mastering Light & Shadow with iPhone X's New Lens Technology</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-resolution-duel-comparing-gopro-hero-and-polaroid-cube/"><u>[Updated] Resolution Duel Comparing GoPro Hero and Polaroid Cube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-error-0x8009030e-in-hyper-v-virtualization-windows/"><u>Correcting Error 0X8009030E in Hyper-V Virtualization Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decorating-taskbar-step-by-step-on-adding-a-weather-indicator-to-windows-11/"><u>Decorating Taskbar: Step-by-Step on Adding a Weather Indicator to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-way-to-turn-onoff-in-hand-typing-windows/"><u>Easy Way to Turn On/Off In-Hand Typing Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-1011-searcher-that-skips-results/"><u>Fixing Windows 10/11 Searcher That Skips Results</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-samsung-galaxy-f54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Samsung Galaxy F54 5G? </u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-realme-c67-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Realme C67 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-discover-the-top-30-free-intro-creators-on-youtube/"><u>In 2024, Discover the Top 30 Free Intro Creators on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-racing-game-anthology-the-top-five/"><u>In 2024, Ultimate Racing Game Anthology The Top Five</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-microsofts-world-efficient-commands-at-your-fingertips/"><u>Navigating Microsoft's World: Efficient Commands at Your Fingertips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-no-mistakes-essential-errors-to-evade-in-windows-11/"><u>Navigating No Mistakes: Essential Errors to Evade in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-xp019-error/"><u>Overcoming Windows XP019 Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-windows-11-terminal-configuration/"><u>Overhauling Windows 11 Terminal Configuration</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-visual-glitches-updating-your-graphics-driver-for-forza-horizon-5/"><u>Solving Visual Glitches: Updating Your Graphics Driver for Forza Horizon 5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trailblazing-through-windows-10s-past-actions/"><u>Trailblazing Through Windows 10'S Past Actions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveil-the-covert-tracker-steps-to-activate-and-employ-the-secret-sidebar-bar/"><u>Unveil the Covert Tracker: Steps to Activate and Employ the Secret Sidebar Bar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Brisk Startups in Win11: Adjusting Boot Delay Period"
-date: 2024-07-29T08:12:42.253Z
-updated: 2024-07-30T08:12:42.253Z
+date: 2025-01-20T00:42:10.036Z
+updated: 2025-01-24T20:35:54.332Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 
  Fortunately, you can configure the wait time as per your choice. In this article, we'll explore four quick ways to change the boot menu timeout in Windows 11\. So, let's begin.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Change Boot Menu Timeout Using the Settings App
 
  The quickest way to configure the boot menu timeout is via the Settings app. Here's a step-by-step instructions to do that:
@@ -44,19 +41,12 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 1. Press the **Win** key to open the **Start Menu,** type **System Configuration** in the search bar, and select the same from the result.
 2. Switch to the **Boot** tab.
 3. Enter the value (seconds) in the **Timeout** section and check the **Make all boot settings permanent** option.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![Timeout option in msconfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/timeout-option.jpg)
 4. Click **Apply.**
 5. Click **Yes** to confirm your changes.  
 ![Yes option in msconfig window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/yes-option-1.jpg)
 6. Choose the **Restart** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Change Boot Menu Timeout Using the Command Prompt
 
  If you're an advanced Windows user, you can use Command Prompt to configure the boot menu timeout on your Windows PC. Here's how:
@@ -66,16 +56,18 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 `bcdedit`
 3. Type the following command and press Enter to change the timeout. Make sure to replace **`SECONDS`**with the new timeout.  
 `bcdedit /timeout SECONDS`  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Timeout change command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/timout-change-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it! From the next boot, the boot manager will appear for the specified duration of time.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Change Boot Menu Timeout Using the Boot Options
 
  Another efficient way to configure the boot menu timeout is through the Boot Manager. The Boot Manager, also known as the Boot Loader, is responsible for launching your operating system when you turn on your computer. Not only that, it enables you to select a specific operating system if you are using multiple operating systems on your device.
@@ -86,12 +78,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. In the Boot Manager, click on **Change defaults or choose other options**.  
 ![Change defaults or choose other options in the Boot menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-defaults-or-choose-other-options.jpg)
 3. Select the **Change the timer** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Change the timer option in the Boot menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-the-timer.jpg)
 4. Choose a time between the given options.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Choose time in the Boot Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-time.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Control Your System Boot Menu on Windows
 
@@ -99,11 +102,28 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Fortunately, you can configure the wait time as per your choice. In this article, we'll explore four quick ways to change the boot menu timeout in Windows 11\. So, let's begin.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-avi-viewer-mobile-and-desktop-edition/"><u>[New] Ideal AVI Viewer Mobile & Desktop Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leap-into-fitness-a-curated-selection-of-vr-treadmill-pros/"><u>[New] Leap Into Fitness A Curated Selection of VR Treadmill Pros</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-record-internal-audio-in-android-without-root-4-ways-for-2024/"><u>[New] Record Internal Audio in Android without Root [4 Ways] for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-driven-success-enhancing-your-websites-user-experience/"><u>Cookiebot-Driven Success: Enhancing Your Website's User Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-update-and-synchronization-service/"><u>Decoding Windows Update and Synchronization Service</u></a></li>
+<li><a href="https://program-issues.techidaily.com/detailed-solutions-for-players-experiencing-stalled-load-screens-during-dota-2-startup/"><u>Detailed Solutions for Players Experiencing Stalled Load Screens During Dota 2 Startup</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/die-besten-aomei-backup-software-produkte-handbucher-und-angebote-entdecken-ihre-schritt-fur-schritt-anleitung/"><u>Die Besten AOMEI Backup Software Produkte, Handbücher Und Angebote Entdecken - Ihre Schritt-Für-Schritt Anleitung!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-drive-downloads-streamlined-access-to-dropbox-and-google-drive/"><u>Direct Drive Downloads: Streamlined Access to Dropbox and Google Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-common-blue-screen-errors-vmware-win11-edition/"><u>Fixing Common Blue Screen Errors: VMware, Win11 Edition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-honor-v-purse-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Honor V Purse Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-limited-usb-controller-space-on-pcs/"><u>Resolving Limited USB Controller Space on PCs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/resolving-missing-sound-in-obs/"><u>Resolving Missing Sound in OBS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tools-to-enhance-your-desktop-writing-skills-windows/"><u>Top Tools to Enhance Your Desktop Writing Skills (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-mechanics-of-law-filters-on-windows-os/"><u>Understanding the Mechanics of LAW Filters on Windows OS</u></a></li>
+</ul></div>
+

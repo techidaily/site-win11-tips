@@ -1,7 +1,7 @@
 ---
 title: "Bring Back the Hourglass: Fixes for Missing Windows Server Time"
-date: 2024-07-29T08:11:09.217Z
-updated: 2024-07-30T08:11:09.217Z
+date: 2025-01-20T21:56:13.053Z
+updated: 2025-01-24T16:48:27.698Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 
  Fortunately, restoring the Windows Time Service is not complicated. This guide will discuss quickly restoring the missing Windows Time Service and setting the correct time on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Reboot Your PC
 
  Restart your computer before attempting any major troubleshooting. While it may sound simple, restarting the computer resolves minor errors and glitches that prevent the service from running. It flushes out temporary files and refreshes the operating system to ensure everything works correctly.
@@ -32,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 
  Once the computer restarts, check if Windows Time Service is available. If it's still missing, move on to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 2\. Change the Time Server
 
  If restarting the computer does not work, you must change the time server. Changing the time server synchronizes your system clock with an online one, displaying your computer's correct date and time.
@@ -46,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 3. Select **View by: Large icons** and click **Date and Time**.
 4. Switch to the **Internet Time** tab and click **Change settings**.
 5. Check the **Synchronize with an Internet time server** box and select a time server from the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Change the Time Server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-the-time-server.jpg)
 6. Click the **Update now** button to synchronize your computer with the time server.
 7. Once completed, click **OK** to save the changes and exit.
@@ -56,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
  After these steps, you should see the Windows Time Service running on your system. Check the time to ensure it is correct and make further adjustments.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Add More Time Servers
 
  If the Windows Time Service is still missing, you can try adding more time servers to the list. Multiple time servers increase the chance of finding an active server and keeping your system in sync. If one server goes down, your computer can automatically switch to another.
@@ -110,12 +102,13 @@ net start w32time
 
  After performing these steps, close the Command Prompt window and restart your system. You should see that the Windows Time Service is running, and your clock syncs with the time server.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Repair Corrupted System Files
 
 ![SFC Command Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-command-preview.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Corrupt system files can also cause Windows services to fail. So, if the Windows Time Service is still missing, try repairing corrupt system files. You can do this using the System File Checker tool. This tool scans your system for missing files and repairs the errors it finds.
 
@@ -123,26 +116,33 @@ net start w32time
 
  If you're not sure how to run either of these tools, check out how to repair corrupt Windows files with its built-in tools for instructions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Scan for Malware
 
  Sometimes, malware is to blame for Windows services acting a little odd. As such, it's worth [running a full system scan](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) and removing all detected threats.
 
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you feel your PC isn't as secure as it could be, you could try downloading one of the [best antivirus apps for Windows](http://www.makeuseof.com/windows-11-antivirus-apps/). These will both actively block malicious program from installing themselves on your PC, and remove any that are currently infesting your computer.
 
  For those who prefer a command-line approach, you can [use Windows PowerShell to scan Windows for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Restore the Missing Windows Time Service
 
  Hopefully, one or more of these tips worked for you. Missing Windows services can be a huge pain, but hopefully, one of these methods has brought back the Windows Time Service back to working order.
 
  Fortunately, restoring the Windows Time Service is not complicated. This guide will discuss quickly restoring the missing Windows Time Service and setting the correct time on your computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -150,3 +150,27 @@ net start w32time
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-hp-envy-27-review-where-4k-meets-usb-c-tech/"><u>[Updated] HP Envy 27 Review - Where 4K Meets USB-C Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-visual-potential-the-power-of-lut-transformations/"><u>2024 Approved Unlocking Visual Potential The Power of LUT Transformations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-blue-screen-error-tackling-iomap64-syscall-failures/"><u>Clearing Up Blue Screen Error: Tackling IOMap64 Syscall Failures</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/copia-zero-costo-di-hard-disk-da-parte-di-dell-con-clonadisk-prova-ora/"><u>Copia Zero Costo Di Hard Disk Da Parte Di Dell Con clonaDisk - Prova Ora!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-the-frustration-resurrect-panes-easy-steps-6-ways-to-restore-lost-windows-on-win-1011/"><u>Cut the Frustration, Resurrect Panes! Easy Steps (6 Ways) to Restore Lost Windows on Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-techniques-for-exceptional-windows-images/"><u>Cutting-Edge Techniques for Exceptional Windows Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-pc-5-innovative-apps-for-customizable-clock-screen-savers/"><u>Enhance Your PC: 5 Innovative Apps for Customizable Clock Screen Savers</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/expert-tips-for-successfully-resolving-failing-windows-11-system-restore-problems/"><u>Expert Tips for Successfully Resolving Failing Windows 11 System Restore Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leverage-disk-efficiency-windows-11-defrag-tips/"><u>Leverage Disk Efficiency: Windows 11 Defrag Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-android-performance-via-wsl-optimization-techniques/"><u>Maximizing Android Performance via WSL Optimization Techniques</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-14-ultra-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi 14 Ultra Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-issues-with-ease-how-to-leverage-the-apple-support-application/"><u>Solving iPhone Issues with Ease: How to Leverage the Apple Support Application</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-playing-origin-games-on-the-latest-windows-operating-systems/"><u>Step-by-Step Solutions for Playing Origin Games on the Latest Windows Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-correcting-mmc-snap-creation-issues/"><u>Steps for Correcting MMC Snap Creation Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-choice-mini-gaming-computers-a-buyers-guide/"><u>Top Choice Mini Gaming Computers: A Buyer's Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-operational-volume-shadow-copies-in-windows/"><u>Troubleshooting Non-Operational Volume Shadow Copies in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-obs-win-startup-issues/"><u>Troubleshooting OBS Win: Startup Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/verstehen-sie-prozessintelligenz-eine-einfuhrung-in-die-welt-von-abbyy/"><u>Verstehen Sie Prozessintelligenz - Eine Einführung in Die Welt Von ABBYY</u></a></li>
+</ul></div>
+

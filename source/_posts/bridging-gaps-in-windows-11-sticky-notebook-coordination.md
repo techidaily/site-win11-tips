@@ -1,7 +1,7 @@
 ---
 title: Bridging Gaps in Window's 11 Sticky Notebook Coordination
-date: 2024-07-29T08:10:37.499Z
-updated: 2024-07-30T08:10:37.499Z
+date: 2025-01-19T23:45:56.667Z
+updated: 2025-01-24T20:22:07.860Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 ![Terminate and Restart Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/terminate-and-restart-sticky-notes.jpg)
 5. Press **Win + S** to open Windows Search. Type Sticky Notes and press the **Enter** key to relaunch the app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 3\. Perform a Complete Shutdown
 
  Modern versions of Windows OS use [Fast Startup](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) which hibernates kernel-level processes and aids the PC to boot up quickly. But if these processes glitch, you can face issues with apps and services.
@@ -68,24 +61,19 @@ No advertising on the website.
 1. Open the Sticky Notes app and click on the **Gear** icon in the top right corner to open its settings.
 2. Click on the **Sign out** option.
 3. Now, click on the **Sign out** button. The Sticky Notes app will close automatically.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Sign Out and Sign In Again](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sign-out-and-sign-in-again.jpg)
 4. Relaunch the Sticky Notes app and open its Settings section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click on the **Sign in** button.
 6. Select the Microsoft account you use on your PC and click on the **Continue** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Sign Out and Sign In Again 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sign-out-and-sign-in-again-2.jpg)
 
  Now, make changes to any note in the app and check if the sync issues persist or not.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Allow Sticky Notes Through the Windows Firewall
 
  If the Sticky Notes app cannot bypass the Windows Firewall, it won’t be able to sync notes with other devices and the web. So, here's how to let it through:
@@ -94,12 +82,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Click on the **Allow an app or feature through Windows Defender Firewall** option.
 3. Click on the **Change settings** button.
 4. Locate the Microsoft Sticky Notes entry in the list. **Click** on both the **checkboxes** under the **Public** and Private columns.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Allow Sticky Notes in the Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/allow-sticky-notes-in-the-windows-firewall.jpg)
 5. Lastly, click on the **OK** button to apply the changes.
 6. **Close** the Control Panel window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Manually Sync Your Sticky Notes
 
@@ -111,6 +100,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Manually Sync the Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manually-sync-the-notes.jpg)
 4. Check if the notes sync and are available on another device or by opening the Outlook account in the web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Update Sticky Notes
 
  You cannot directly check for updates or update the Sticky Notes app using its settings section. Since it is a Microsoft app, you must use the Microsoft Store to check for updates and download and install them. Here’s how to do it:
@@ -119,11 +112,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Navigate to the bottom left area of the app and click on the **Library** icon.
 3. Click on the **Get Updates** button and check if an update is available for the Sticky Notes app.
 4. Then, click on the **Update** button next to the Sticky Notes app to download and install the latest update.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-sticky-notes.jpg)
 5. Close the Microsoft Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Run the Windows Store Apps Troubleshooter
 
@@ -132,21 +130,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Press the **Win** key, type **troubleshooter** in the search box, and press the **Enter** key.
 2. Click on the **Other troubleshooters** option.
 3. Scroll down and find the **Windows Store Apps troubleshooter**. Click on the **Run** button.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![Run the Microsoft Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-the-microsoft-store-apps-troubleshooter.jpg)
 4. Wait for the troubleshooter to find and fix issues with installed apps.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Run the Microsoft Store Apps Troubleshooter 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-the-microsoft-store-apps-troubleshooter-2.jpg)
 5. Close the troubleshooter window.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Repair or Reset Sticky Notes
 
  Sticky Notes comes pre-installed inWindows and also has an advanced settings page. So, you can repair the app to fix issues with it or reset it to wipe its cache and personal data. Here’s how to do it:
@@ -156,9 +153,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Navigate down to the **Reset** section. Firstly, click on the **Repair** button.
 4. Launch Sticky Notes and check if the app is able to sync the notes or not.
 5. If you still face sync issues with the app, revisit the Advanced options page and click on the **Reset** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Repair or Reset Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-or-reset-sticky-notes.jpg)
 
 ## 10\. Reinstall Sticky Notes
@@ -171,13 +165,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Reinstall sticky notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reinstall-sticky-notes.jpg)
 4. Visit the [Microsoft Sticky Notes page on the Microsoft Store](https://apps.microsoft.com/store/detail/microsoft-sticky-notes/9NBLGGH4QGHW). Download and install it on your PC and then sign in to your account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Make the Sticky Notes Sync Feature Functional Again
 
  These were the best methods to resolve the sync issues with Sticky Notes. Start with preliminary fixes and rule out network and firewall issues. Manually sync your data and update the app. Lastly, try out the advanced options and reinstall the app.
 
  But some users face an issue with the app, and their notes do not automatically sync in Windows 11\. The potential reasons for this issue can be internet issues, misconfigured app settings, or a corrupt or outdated app version. Try these methods to make the Sticky Notes sync feature functional again.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -185,3 +181,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-speed-kings-and-queens-key-moments-from-the-short-track-games/"><u>[New] In 2024, Speed Kings and Queens Key Moments From the Short Track Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-motion-systems-scrutiny-report/"><u>2024 Approved Total Motion Systems Scrutiny Report</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-solving-microsoft-msodll-file-not-found-problem/"><u>Diagnosing and Solving Microsoft mso.dll File Not Found Problem</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-12r-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus 12R FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bring-laughter-to-life-kapwing-creator/"><u>In 2024, Bring Laughter to Life – Kapwing Creator</u></a></li>
+<li><a href="https://win-forum.techidaily.com/launch-of-arc-browser-now-compatible-with-windows-10/"><u>Launch of Arc Browser: Now Compatible with Windows 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-choices-inside-tips-from-toms-hardware-experts/"><u>Mastering Technology Choices - Inside Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-policy-settings-for-users-a-guide-to-windows-11-and-11/"><u>Personalizing Policy Settings for Users: A Guide to Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-on-fixing-conflicts-between-multiple-apps-and-pc-audio/"><u>Tips on Fixing Conflicts Between Multiple Apps & PC Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tripled-speed-for-your-win11-start-boosting-launch-time/"><u>Tripled Speed for Your Win11 Start: Boosting Launch Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-your-excel-addressing-windows-speed-issues/"><u>Turbocharge Your Excel: Addressing Windows Speed Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-bluescreenview-usage/"><u>Unlocking the Secrets of BlueScreenView Usage</u></a></li>
+</ul></div>
+

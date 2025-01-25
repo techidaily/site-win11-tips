@@ -1,7 +1,7 @@
 ---
 title: "Charting New Territories: Top 7 Updates From Windows 11'S Filesystem"
-date: 2024-07-29T08:12:58.356Z
-updated: 2024-07-30T08:12:58.356Z
+date: 2025-01-22T18:40:24.060Z
+updated: 2025-01-24T19:59:03.586Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,12 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
  Windows File Explorer is one of the areas where Microsoft made some exciting additions that were absent in older versions. In this post, we will discuss all the noteworthy changes done to the File Explorer, some of which are yet to arrive in stable builds at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Home Section
 
  The File Explorer app has a new home section that replaces the Quick Access option in the Navigation pane. When you click on it, you will see three areas.
 
  The first one is "Quick Access," which lets you open all the Library folders in a few clicks. Below the Quick Access section lies the "Favorite" section, which showcases all the files you marked as favorites using the right-click context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Home Section in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/home-section-in-file-explorer.jpg)
 
  The last section on the Home page in File Explorer is the Recents section which displays all the recently opened files. So, all these sections appear neatly tucked on the Home page, effectively reducing cluttering in the Navigation pane.
@@ -42,20 +36,22 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
  The old details pane didn’t blend in with the rest of the File Explorer. But the new one presents all the information about a file in a far more palatable manner.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![New Side Pane in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-side-pane-in-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can easily spot its recent activity; check out its details without opening the Properties window. It also includes sharing the file using the inbuilt file-sharing methods or opening the Properties window without opening the right-click context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. File Explorer Tabs
 
  Tabs are great in any application with multiple files or folder locations. The File Explorer in Windows 11 and its predecessors lacked this feature, forcing users to create multiple windows to manage files in various locations. Microsoft eventually fixed this, making the overall app experience much better.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Tabs in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/tabs-in-file-explorer.jpg)
 
  You can easily create multiple apps in a single window and move files or folders across them. You can even [drag tabs from a File Explorer window](https://www.makeuseof.com/drag-tabs-out-file-explorer-windows-11/) to create a different window and drag that tab back to another File Explorer window as you do in the Chrome browser. This feature reduced reliance on third-party apps that market the same feature as a USP.
@@ -64,16 +60,21 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
  Like the Home section, another small add-on may soon arrive in File Explorer based on Windows Apps SDK in the Gallery section. At the time of writing, Microsoft is testing a [Gallery section in File Explorer](https://www.makeuseof.com/enable-gallery-file-explorer-windows-11/) that categorizes your PC's images. It pulls images from the Pictures and OneDrive folder and sorts them by date in descending order.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![New Gallery Section in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-gallery-section-in-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A nice scroll bar displays the start and end date of the images, and you can use it to move across hundreds of photos swiftly. Apart from the two default folders, you can add more folders to the collection to display images stored in other locations.
 
 ## 5\. An Improved Context Menu
 
  The right-click context menu was a significant surprise in Windows 11 but is gradually improving. You can find relevant options like Install whenever you right-click on an app installer file. The menu is also concise now, and you can view the full version when you click on the Show More options. Similarly, a few minor tweaks to the right-click context menu make it better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Microsoft 365 Products Integration
 
@@ -86,14 +87,11 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
  Microsoft is also experimenting with a new Home page in the Settings app, which will also offer a glance at the currently used OneDrive storage space.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Built-In File Archive Support
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![RAR Archive Support in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rar-archive-support-in-file-explorer.jpg)
 
  File Explorer has had ZIP archive support for a long time but lacked the same for other popular formats such as RAR and 7Z. But after a new feature upgrade to the Insider build in the Dev Channel, the [File Explorer app can view and extract archive formats](https://www.makeuseof.com/enable-archive-support-windows-11/). So, you wouldn’t have to download WinRar whenever you want to extract a RAR file.
@@ -104,11 +102,27 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
  Windows File Explorer is one of the areas where Microsoft made some exciting additions that were absent in older versions. In this post, we will discuss all the noteworthy changes done to the File Explorer, some of which are yet to arrive in stable builds at the time of writing.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-clear-recording-software-for-windows-10-users/"><u>[New] In 2024, Clear Recording Software for Windows 10 Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-alert-tones-selective-websites-guide/"><u>[Updated] Prime Alert Tones Selective Websites Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-seekers-manual-a-comprehensive-approach-to-purchasing-high-definition-monitors/"><u>2024 Approved The Seeker's Manual A Comprehensive Approach to Purchasing High-Definition Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-sticky-notes-placement-on-windows-desktops/"><u>Elevating Sticky Notes Placement on Windows Desktops</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-the-perfect-laptop-at-unbeatable-prices-during-oct-24-prime-day-deals-expert-picks-and-tips/"><u>Find the Perfect Laptop at Unbeatable Prices During Oct '24 Prime Day Deals | Expert Picks and Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/headset-face-off-rift-vive-and-playstations-vr-standards/"><u>Headset Face-Off Rift, Vive & PlayStation's VR Standards</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-seamless-tweet-integration-on-facebook-platform/"><u>In 2024, Seamless Tweet Integration on Facebook Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-summit-masterpiece-lab-check/"><u>In 2024, Summit Masterpiece Lab Check</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowering-resource-load-from-unrealcefsubprocess-to-enhance-pc-performance/"><u>Lowering Resource Load From UnrealCEFSubprocess to Enhance PC Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-vlc-key-mac-functions-explained/"><u>Mastering VLC Key Mac Functions Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-failed-remote-links-a-windows-guide/"><u>Reestablishing Failed Remote Links: A Windows Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/speed-up-your-multimedia-workflow-with-the-top-rated-avi-combiner-for-both-pcs-windows/"><u>Speed up Your Multimedia Workflow with the Top-Rated AVI Combiner for Both PCs (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-to-wipe-email-from-windowed-login/"><u>Tips & Tricks to Wipe Email From Windowed Login</u></a></li>
+</ul></div>
+

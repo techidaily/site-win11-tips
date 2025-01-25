@@ -1,7 +1,7 @@
 ---
 title: "Bring Light to Your PC: Top 5 Techniques for a Working Backlight"
-date: 2024-07-29T08:14:24.959Z
-updated: 2024-07-30T08:14:24.959Z
+date: 2025-01-19T16:02:18.221Z
+updated: 2025-01-24T22:17:13.085Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
  However, different apps, software updates, or hardware issues might stop your backlit keyboard from working. So if you’ve already restarted your computer or connected your keyboard to every USB port, and it’s still not working, it’s time you take a closer look at the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check if Your Keyboard Comes With the Backlit Feature
 
  Even if you’ve bought a new, fancy-looking keyboard, there’s a chance it doesn’t have the backlit feature. The same goes for your laptop. Go to the manufacturer’s website and check the product description for your keyboard or computer. This will save you from looking for an inexistent problem.
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  If the backlight doesn’t turn on, try the solutions we have listed below. Some of them might be a bit complicated, but we’ll walk you through the steps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Increase the Brightness Level
 
  There’s a chance you’ve set the brightness level too low, so it doesn’t make a difference after you turn on the keyboard backlight. The fastest way to increase the brightness level is to use your keyboard.
@@ -47,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 * Plug the keyboard into a different USB port. If its backlit feature is now working, you’ll have to [fix a malfunctioning USB port](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/).
 * Take a look at the keyboard cable and search for any damage.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## 4\. Check the Keyboard App
 
  If your laptop has a built-in backlit keyboard, check its app. Most of the time, the app will get installed at the same time as the keyboard drivers, but this may vary, depending on the manufacturer.
@@ -60,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![Backlit keyboard app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/keyboard-app-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Update Your Keyboard Drivers
 
  If your keyboard backlight is sensor-activated, and it doesn’t work anymore, there’s a chance an outdated or corrupt driver is causing the problem. To fix it, you should update your keyboard driver. Here is how you can do it:
@@ -68,10 +74,11 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 2. Expand the **Keyboard** menu.
 3. Right-click your keyboard driver and select **Update driver**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Update keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/update-keyboard-driver-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this didn't fix the problem, there are [more ways to fix a corrupt driver](http://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/).
 
@@ -83,10 +90,11 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 2. Select **Update & Security** and head to **Troubleshoot >** **Additional troubleshooters**.
 3. From **Find and fix other problems**, select **Keyboard > Run the troubleshooter**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Running the keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/keyboard-troubleshooter-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In Windows 11, go to **Settings > System >Troubleshoot > Other trouble-shooters** to access the Keyboard troubleshooter.
 
@@ -101,25 +109,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![Running the device troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Perform a Clean Boot
 
  If nothing worked until now, you should [perform a clean boot](https://www.makeuseof.com/how-perform-clean-boot-windows-10/)on your computer. This way, your system will start without any third-party app that might influence your backlit keyboard functionality. If your keyboard lights up, open Control Panel and take a look at the apps that you’ve installed lately since one of them is causing your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Backlit Keyboard Problems Resolved
 
  If a backlit keyboard is the missing piece of your dream setup, this guide will help you fix the problem. But if nothing worked, and you’re confident your keyboard comes with a backlit feature, you should look for the warranty certificate.
@@ -128,11 +121,23 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
  However, different apps, software updates, or hardware issues might stop your backlit keyboard from working. So if you’ve already restarted your computer or connected your keyboard to every USB port, and it’s still not working, it’s time you take a closer look at the problem.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveiling-changes-in-sony-bdp-s670/"><u>[New] 2024 Approved Unveiling Changes in Sony BDP-S670</u></a></li>
+<li><a href="https://win-news.techidaily.com/access-full-sphere-vr-content-for-download-directly-from-youtube-facebook-and-more/"><u>Access Full-Sphere VR Content for Download Directly From YouTube, Facebook & More</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-file-renaming-challenges-with-powertoys/"><u>Conquer File Renaming Challenges With PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convenient-sync-combining-onedrive-with-microsoft-id/"><u>Convenient Sync: Combining OneDrive with Microsoft ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-mini-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 mini to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-multiple-close-down-in-one-swift-action-on-windows/"><u>Master Multiple Close-Down in One Swift Action on Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476615020-one-airpod-louder-than-the-other-discover-4-effective-ways-to-rectify-this-issue/"><u>One AirPod Louder Than the Other? Discover 4 Effective Ways to Rectify This Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-chrome-file-handling-on-your-pc-windows-style/"><u>Streamline Chrome File Handling on Your PC, Windows Style</u></a></li>
+</ul></div>
+

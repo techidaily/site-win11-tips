@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Firewall Restrictions: Allow Browser Networking in Windows"
-date: 2024-07-29T08:13:26.219Z
-updated: 2024-07-30T08:13:26.219Z
+date: 2025-01-24T00:54:26.477Z
+updated: 2025-01-24T18:55:54.194Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
  When you're sure that neither Chrome nor any harmful software in your device is causing the trouble, you are good to grant Chrome exclusive access through the firewall.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Allow Chrome to Access the Network in Your Firewall Settings
 
  To allow Chrome to access the network in your firewall settings, follow the below steps:
@@ -42,35 +39,42 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 3. In the right pane, click **Windows Security**.  
 ![Opening Windows Security window by Clicking on Privacy and Security in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-3-Opening-Windows-Security-Option-by-Clicking-on-Privacy-and-Security-in-Windows-Settings-App.jpg)
 4. Click **Firewall & network protection**.
-5. On the right side of the **Windows Security** window, click on **Allow an app through firewall**.  
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. On the right side of the **Windows Security** window, click on **Allow an app through firewall**.  
 ![Clicking on Allow an App Through Firewall in Windows Security Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-4-Clicking-on-Allow-an-App-Through-Firewall-in-Windows-Security-Settings-in-Windows-Settings-App.jpg)
 
 1. Check if Chrome is already listed in the **Allowed applications** window. If it has already been added, select the app and click **Remove**. Afterward, add Chrome again by following the steps below. If Chrome has not been added yet, follow the steps below to add it for the first time.
 2. Click the **Change settings** button.
 3. Click on **Allow another app**.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clicking on Allow Another App Option to Add New App in Allowed Apps List of Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-5-Clicking-on-Allow-Another-App-Option-to-Add-New-App-in-Allowed-Apps-List-of-Windows-Firewall.jpg)
 4. In the **Add an app** window, click the **Browse** button.
-5. Select Chrome's executable file by going to **C: drive > Program Files > Google > Chrome > Application**.  
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Select Chrome's executable file by going to **C: drive > Program Files > Google > Chrome > Application**.  
 ![Selecting Chrome’s Executable File by Following the Path by Clicking on the Browse Button in Add an App Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-6-Selecting-Chrome’s-Executable-File-by-Following-the-Path-by-Clicking-on-the-Browse-Button-in-Add-an-App-Window.jpg)
 6. Once the path has been defined, click the **Add** button again.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Clicking on Add Button after Selecting Chrome’s Executable File to Whitelist It in Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-7-Clicking-on-Add-Button-after-Selecting-Chrome’s-Executable-File-to-Whitelist-It-in-Windows-Defender-Firewall.jpg)
 7. Make sure the **Public** and **Private** boxes are checked right next to Chrome.
 8. Click **Ok**.  
 ![Checking the Boxes for Public and Private Options Next to Google Chrome to Whitelist It in Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-8-Checking-the-Boxes-for-Public-and-Private-Options-Next-to-Google-Chrome-to-Whitelist-It-in-Windows-Defender-Firewall.jpg)
 
  You can also use [other ways to make an exception in Windows 11](https://www.makeuseof.com/windows-11-security-exclusions/). Once Chrome is added, try opening the webpage again. If the browser still throws the same error, your antivirus is likely to blame. Therefore, you should also add an exception to your antivirus program for Chrome.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Make an Exception for Chrome in an Antivirus
 
@@ -79,15 +83,14 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
  Check the documentation on the official websites of [Avast](https://support.avast.com/en-us/article/antivirus-scan-exclusions/#pc), [Malwarebytes](https://support.malwarebytes.com/hc/en-us/articles/360038479234-Exclude-detections-in-Malwarebytes-for-Windows), [McAfee](https://www.mcafee.com/support/?articleId=TS102056&page=shell&shell=article-view), and [Bitdefender](https://www.bitdefender.com/consumer/support/answer/13427/) for instructions on creating an exception for any program in each antivirus. If you use a different program than those listed above, refer to your antivirus documentation for instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Help Chrome Establish a Successful Connection
 
  Allowing Chrome exclusive access to firewall and antivirus should help the browser establish a successful connection. You would, therefore, visit the webpage where you encountered the error before. In case the issue persists, you can change your browser since there are many great options available.
 
  As the error suggests, it's possible that your antivirus or firewall has detected malware in your browser or that the website you're visiting isn't safe. In this article, we will show you how to proceed when you encounter this error and how to whitelist Chrome in firewall and antivirus settings.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -95,3 +98,27 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-igniting-interest-how-to-elevate-your-instagram-contents-impact/"><u>[New] 2024 Approved Igniting Interest How to Elevate Your Instagram Content's Impact</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ishowu-audio-capture-download-and-review/"><u>[New] 2024 Approved IShowU Audio Capture Download and Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-leveraging-descriptive-power-for-3-engaging-instagram-video-stories/"><u>[New] In 2024, Leveraging Descriptive Power for 3 Engaging Instagram Video Stories</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-interpreting-distinctions-360-content-and-virtual-reality/"><u>[Updated] Interpreting Distinctions 360° Content & Virtual Reality</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/3d-printing/"><u>3D Printing</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-ways-to-close-multiple-apps-simultaneously-on-windows/"><u>5 Ways to Close Multiple Apps Simultaneously on Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-sony-xperia-5-v-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 5 V</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-hotkeys-fastest-car-drivers-for-windows/"><u>Explore Hotkeys: Fastest Car Drivers for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-cab-structures-in-microsofts-windows-environment/"><u>Exploring CAB Structures in Microsoft's Windows Environment</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-for-heic-image-conversion/"><u>Optimizing Windows for Heic Image Conversion</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/rise-of-the-alternative-top-3-video-sharing-websites/"><u>Rise of the Alternative Top 3 Video Sharing Websites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shave-seconds-off-your-typing-time-7-latency-tips-for-windows-11/"><u>Shave Seconds Off Your Typing Time: 7 Latency Tips for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-steams-file-lock-up-predicament-on-pc/"><u>Solving Steam's File Lock-Up Predicament on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reset-blank-login-windows-1011/"><u>Strategies to Reset Blank Login Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-browsing-safety-with-aguard-feature-on-windows-11/"><u>Streamline Your Browsing Safety with Aguard Feature on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-common-onedrive-crashes-on-pc/"><u>Swift Solutions to Common OneDrive Crashes on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-power-control-disruption-due-to-deceptive-windows-apps/"><u>Tackling Power Control Disruption Due to Deceptive Windows Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-net-neutrality-an-essential-guide/"><u>Understanding Net Neutrality: An Essential Guide</u></a></li>
+</ul></div>
+

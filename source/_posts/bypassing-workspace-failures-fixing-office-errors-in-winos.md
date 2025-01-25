@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Workspace Failures: Fixing Office Errors in WinOS"
-date: 2024-07-29T08:13:08.783Z
-updated: 2024-07-30T08:13:08.783Z
+date: 2025-01-20T23:23:32.926Z
+updated: 2025-01-24T17:46:31.881Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
  Don’t worry, there’s no need to switch to the online versions of Office apps just yet. Below, we have listed some useful tips that should get the Office apps up and running on your Windows PC.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Configure the Microsoft Office Click-to-Run Service
 
  The "something went wrong" error typically appears when the Microsoft Office Click-to-Run Service is disabled on your system. Hence, the first thing you should do is make sure this service is configured to run automatically. Here's how to do it.
@@ -33,25 +34,16 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 4. Use the drop-down menu next to **Startup type** to select **Automatic**.
 5. Click the **Start** button if the service is not running.
 6. Click **Apply** followed by **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Configure the Microsoft Office Click To Run Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/configure-the-microsoft-office-click-to-run-service.jpg)
 
  After completing the above steps, try to open any Microsoft Office app and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Restart Your PC
 
  At times, Office apps may fail to open on Windows due to malfunctioning background processes or temporary glitches. In most cases, you can fix such issues by simply [restarting your PC](https://www.makeuseof.com/windows-restart-methods/).
 
  If the error persists even after a system reboot, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the Office Repair Tool
 
  Running the Office Repair tool is an effective way to fix all kinds of issues with Office apps, including the one discussed here. Here's how you can run the tool on your PC.
@@ -65,7 +57,15 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 7. Select the **Quick Repair** option and hit the **Repair** button.  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the process to complete and check if you can open your Office apps. If you still get the “Something went wrong” error, Microsoft recommends you perform an Online Repair. To do so, repeat the above steps and select the **Online Repair** option. This process may take longer to complete, but it’s most likely to fix the underlying issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Uninstall and Reinstall Microsoft Office
 
@@ -76,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 3. In the Programs and Features window, locate and select the Office product on the list.
 4. Click the **Uninstall** option at the top.
 5. Click **Uninstall** again to confirm, and then follow the on-screen prompts to finish removing the Office suite from your PC.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Uninstall Office From PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-office-from-pc.jpg)
 
  Once removed, use these steps to download and install Office apps on your PC:
@@ -89,10 +86,15 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 4. Select your preferred language and Office version.
 5. Click the **Install** button to download the Office setup file.
 6. Double-click the downloaded EXE file and follow the on-screen instructions to finish installing Microsoft Office on your PC.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Download Office Setup File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/download-office-setup-file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Start Using Office Apps Again
 
@@ -100,11 +102,31 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 
  Don’t worry, there’s no need to switch to the online versions of Office apps just yet. Below, we have listed some useful tips that should get the Office apps up and running on your Windows PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-best-mac-screen-recorder-with-audio/"><u>[New] Best Mac Screen Recorder with Audio</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illuminate-your-world-top-iphone-lights-techniques/"><u>[New] Illuminate Your World Top iPhone Lights Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-laugh-ledger-comedy-chronicles-from-twitters-best-videos/"><u>[Updated] 2024 Approved Laugh Ledger Comedy Chronicles From Twitter's Best Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-solo-podcast-production-for-top-spots/"><u>[Updated] Mastering Solo Podcast Production for Top Spots</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-action-to-archive-screencast-review-essentials/"><u>2024 Approved Action to Archive Screencast Review Essentials</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoiding-confusion-the-ultimate-trick-for-rectifying-wrongly-tagged-people-on-your-iphones-camera-roll/"><u>Avoiding Confusion: The Ultimate Trick for Rectifying Wrongly Tagged People on Your iPhone's Camera Roll</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-rid-of-highlighted-icon-in-windows-11/"><u>Get Rid of Highlighted Icon in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-lava-blaze-2-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Lava Blaze 2 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-new-steer-clear-of-these-8-windows-11-faux-pas/"><u>Navigating the New: Steer Clear of These 8 Windows 11 Faux Pas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/outlook-not-syncing-troubleshoot-windows-issues/"><u>Outlook Not Syncing? Troubleshoot Windows Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-opening-terminal-in-quake/"><u>Quick Guide: Opening Terminal in Quake</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-pasting-tips-for-pre-defined-text-in-win-1011/"><u>Quick Pasting Tips for Pre-Defined Text in Win 10/11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-osetupdll-file-absent-a-comprehensive-guide/"><u>Resolving 'oSetup.dll' File Absent: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-inactive-heat-reduction-policy-for-windows/"><u>Reviving Inactive Heat Reduction Policy for Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-refining-your-youtube-videos-after-publishing-for-2024/"><u>The Ultimate Guide to Refining Your YouTube Videos After Publishing for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-a-stuck-or-unresponsive-media-player-on-win11/"><u>Troubleshooting a Stuck or Unresponsive Media Player on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-the-definitive-guide-to-dns-cache-clearance/"><u>Windows 11: The Definitive Guide to DNS Cache Clearance</u></a></li>
+</ul></div>
+

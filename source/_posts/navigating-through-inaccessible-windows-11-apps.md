@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Inaccessible Windows 11 Apps
-date: 2025-01-12T18:19:03.318Z
-updated: 2025-01-18T17:42:38.175Z
+date: 2025-01-24T00:03:11.023Z
+updated: 2025-01-24T18:01:25.821Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Is the Mail and Calendar App Not Opening on Windows 11?
 
  One of the primary reasons the Mail and Calendar app is inaccessible on Windows 11 is the corrupt system files. The issue can also occur due to outdated Windows versions and temporary app glitches.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
  Fortunately, it's very easy to troubleshoot the problem. Below are all the working fixes you can try in the situation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart and Install Updates
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 ![Windows Check for update screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Check-for-updates.jpg)
 4. Windows will check for any pending updates and install them if available.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After updating to the latest OS version, check if you can open the app. If not, move on to the next solutions.
 
 ## 2\. Download the Latest Updates for Mail and Calendar
@@ -68,10 +60,6 @@ Here's how to update Mail and Calendar on Windows 11.
 3. Click on**Get updates** .  
 ![Microsoft Store app library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Get-updates.jpg)
 4. Microsoft Store will suggest updates for all the installed UWP apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Download the update available for Mail and Calendar.
 
@@ -90,6 +78,10 @@ Here's how to run the Windows Store Apps Troubleshooter.
 ![A screenshot of some of Windows 11's troubleshooters, including one for 'Windows Store Apps.'](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/other-app-troubleshooters-windows-11.jpg)
 5. The troubleshooting window will pop up and look for the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If any problem is found, follow the onscreen instructions to apply the potential fixes.
 
 ## 4\. Check Mail Sync Settings
@@ -106,17 +98,17 @@ Here's how to run the Windows Store Apps Troubleshooter.
 ![Manage option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/manage-option.jpg)
 4. Choose the**Change mailbox sync settings** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click the drop-down icon under**Download new content** and choose**as items arrive** option.
 6. Enable the toggle under the**Email, Calendar** and**Contacts** options.  
 ![Gmail sync settings in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gmail-sync-settings.jpg)
 7. Click**Done** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change Mail and Calendar Privacy Settings
@@ -128,8 +120,16 @@ Here's how to run the Windows Store Apps Troubleshooter.
 ![Calendar option in Privacy & security window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/calendar-option.jpg)
 3. Enable the toggle next to**Mail and Calendar** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Mail and Calendar toggle in Calendar window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mail-and-calendar-toggle.jpg)
 4. Next, click on the**Email** option in the App permission section, and enable the toggle next to**Mail and Calendar** in the following window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair the Mail and Calendar App
 
@@ -174,7 +174,7 @@ Here's how to do it.
 7. Click OK to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The third-party antivirus program can also cause the issue. Try to disable it and check if you can access the Mail and Calendar app.
@@ -190,10 +190,6 @@ Here's how to register the Mail and Calendar app.
 `Get-AppxPackage -allusers Microsoft.windowscommunicationsapps | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register &ldquo;$($_.InstallLocation)\AppXManifest.xml&rdquo;}`
 
  Wait until the command is executed. After that, reboot the system, and check for the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Remove Corruption From Your Computer
 
@@ -213,6 +209,10 @@ Here are the steps to run an SFC scan.
 `DISM /online /cleanup-image /scanhealth`
 
 Reboot the system once DISM finishes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Reinstall Mail and Calendar
 
@@ -243,22 +243,19 @@ Reboot the system once DISM finishes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-champion-captures-educations-audio-leaders-for-2024/"><u>[New] Champion Captures Education's Audio Leaders for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transformative-audio-techniques-for-media-professionals/"><u>[New] Transformative Audio Techniques for Media Professionals</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-build-funny-images-kapwings-meme-studio/"><u>[Updated] 2024 Approved Build Funny Images Kapwing’s Meme Studio</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-transforming-spoken-words-into-written-text-using-in-built-tools-of-office-suite-ms-word/"><u>[Updated] Transforming Spoken Words Into Written Text Using In-Built Tools of Office Suite - MS Word</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1-free-online-conversion-changing-pef-format-to-png-with-ease-moveavi/"><u>1. Free Online Conversion: Changing PEF Format to PNG with Ease - Moveavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modwma-movavi/"><u>無需付費的MOD到WMA格式線上轉化 - 利用Movavi優化</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-conversion-change-webp-images-to-tiff-format-with-movavi/"><u>Free Online Conversion - Change Webp Images to Tiff Format with Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-m4a-audio-files-into-mp4-format-with-ease-movavi/"><u>Free Online Converter: Change M4A Audio Files Into MP4 Format with Ease - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuit-gebaseerd-wav-format-converteren-met-raw-de-efficientheid-van-movavi/"><u>Gratuit Gebaseerd WAV-Format Converteren Met RAW: De Efficiëntheid Van Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guia-paso-a-paso-para-cambiar-formatos-dpx-a-png-sin-coste-mediante-movavi/"><u>Guía Paso a Paso Para Cambiar Formatos DPX a PNG Sin Coste Mediante Movavi</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60x-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme Narzo 60x 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-s17-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo S17 Activity | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/moverse-sin-costo-entre-formatos-ogg-y-wav-online-usando-el-servicio-de-movavi/"><u>Moverse Sin Costo Entre Formatos OGG Y WAV Online Usando El Servicio De Movavi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-running-driver-easy-in-its-lightweight-mode/"><u>The Ultimate Guide to Running Driver Easy in Its Lightweight Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-file-mp4-in-formato-aac-gratuitamente-con-il-servizio-di-conversione-online-di-moveavi/"><u>Trasforma I Tuoi File MP4 in Formato AAC Gratuitamente Con Il Servizio Di Conversione Online Di Moveavi</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtube-partnership-unlocked-break-through-at-10k-vistas-for-2024/"><u>YouTube Partnership Unlocked Break Through at 10K Vistas for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-expert-advice-on-screen-recorders-for-zoom-meetings/"><u>[Updated] In 2024, Expert Advice on Screen Recorders for Zoom Meetings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disentangling-the-s-mode-trap-in-windows-10-and-11/"><u>Disentangling the 'S Mode' Trap in Windows 10 & 11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-best-free-3gp-video-players-for-mac-and-various-windows-versions-comprehensive-review/"><u>Download Best Free 3GP Video Players for MAC and Various Windows Versions - Comprehensive Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-gamer-perks-lowest-priced-monitors-and-keyboards-for-2024/"><u>Essential Gamer Perks Lowest Priced Monitors & Keyboards for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-stubborn-windows-update-freeze-at-0-with-ease/"><u>Fixing a Stubborn Windows Update Freeze at 0% with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unlock-access-restricted-windows-files/"><u>How to Unlock Access-Restricted Windows Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ideal-picks-top-156-characters-windows-alternatives-for-nintendo/"><u>Ideal Picks: Top 156 Characters Windows Alternatives for Nintendo</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speaking-volumes-the-new-age-of-ai-interaction/"><u>Speaking Volumes: The New Age of AI Interaction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-boot-process-customizing-timeout-in-window-11/"><u>Streamlining Boot Process: Customizing Timeout in Window 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-non-empty-directories-warning-with-0x80070091-on-windows-11/"><u>Taming the Non-Empty Directories Warning with #0X80070091 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-for-using-system-restore-in-windows-11/"><u>The Complete Guide for Using System Restore in Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-guide-to-aspect-ratios-for-youtube-images-for-2024/"><u>The Ultimate Guide to Aspect Ratios for YouTube Images for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-14-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-price-on-hp-victus-15-for-gamers-snag-it-for-just-515-with-best-buys-exclusive-prime-day-offer/"><u>Unbeatable Price on HP Victus 15 for Gamers: Snag It for Just $515 with Best Buy's Exclusive Prime Day Offer</u></a></li>
 </ul></div>
 

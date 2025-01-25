@@ -1,7 +1,7 @@
 ---
 title: Break Away From Grouped Icons in Win 11
-date: 2024-07-29T08:12:49.833Z
-updated: 2024-07-30T08:12:49.833Z
+date: 2025-01-19T23:50:10.570Z
+updated: 2025-01-24T20:49:05.593Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
  What if you like the icons, but don't like how they group together? Let's have a look at how to disable taskbar icon grouping in Windows 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is Taskbar Icon Grouping?
 
 ![screenshot of multiple file explorer windows open in task bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_multiple_file_explorer_windows_open_in_taskbar.jpg)
@@ -32,11 +33,16 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
  This results in a cleaner and less cluttered taskbar, but one that gives you significantly less information. Some users [restore the old taskbar labels on Windows](https://www.makeuseof.com/windows-11-10-taskbar-labels/), but this takes up more space on your taskbar than the icons do.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Disable Taskbar Icon Grouping
 
 ![screenshot of windhawk main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_windhawk_main_screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The quickest way to disable this function is to use a program called Windhawk. Windhawk carries a number of quality-of-life modifications for Windows 11\.
 
@@ -48,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 
  You can also modify how the modification behaves by clicking **Details** and then **Settings.** You can enable or disable features like keeping the icons together, or to separate the pinned apps from the rest of the open windows.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Exploring the Other Taskbar Mods on Windhawk
 
 ![screenshot of taskbar search in windhawk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_taskbar_search_in_windhawk.jpg)
@@ -60,16 +63,18 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
  Since you're already modifying your taskbar, it can't hurt to look into these. Features that aren't usually supported by Windows, such as middle-clicking to close a taskbar window, can be found here, and are as simple to install as the above.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Achieve Supreme Taskbar Flexibility With Windhawk
 
  When it comes to tweaking your taskbar, the default Windows options can sometimes be lacking. While many modifications on Windhawk can be major changes, most that relate to the taskbar are minor or subtle changes. Regardless, these small alterations can greatly enhance the user experience.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: Can I Move the Taskbar Icons in Windows 11?
 
@@ -79,16 +84,11 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 
  You can [customize your taskbar in Windows 11](https://www.makeuseof.com/windows-11-customize-taskbar/) by right-clicking your taskbar, choosing Taskbar settings, and tweaking various options displayed on your screen. These options let you change your taskbar's functionality and appearance.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: How Do I Fix My Taskbar in Windows 11?
 
  You can [resolve issues with your Windows 11 taskbar](https://www.makeuseof.com/windows-11-taskbar-not-working-loading/) by restarting the Windows Explorer process. You can do that by opening Task Manager, right-clicking "Windows Explorer," and choosing "Restart."
 
  What if you like the icons, but don't like how they group together? Let's have a look at how to disable taskbar icon grouping in Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -96,3 +96,21 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-unlock-your-creative-potential-the-leading-12-sites-for-accessible-stock-photos/"><u>[New] In 2024, Unlock Your Creative Potential - The Leading 12 Sites for Accessible Stock Photos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nnovative-and-inexpensive-the-best-free-youtube-name-generators-for-2024/"><u>[New] Innovative & Inexpensive The Best Free YouTube Name Generators for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-capturing-the-action-overwatch-video-recordings/"><u>[Updated] In 2024, Capturing the Action Overwatch Video Recordings</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-kensun-mobile-tire-pump-a-combination-of-strength-and-portability/"><u>Evaluating the Kensun Mobile Tire Pump – A Combination of Strength and Portability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-executable-format-pe/"><u>Exploring Windows Executable Format (PE)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-make-word-open-email-attachments-in-read-only-by-default/"><u>Guidelines to Make Word Open Email Attachments in Read-Only by Default</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/integrating-apis-expanding-functionality-beyond-basic-html-for-2024/"><u>Integrating APIs Expanding Functionality Beyond Basic HTML for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-downloading-and-updating-microsoft-drivers-on-windows-1087/"><u>Quick Guide: Downloading and Updating Microsoft Drivers on Windows 10/8/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sparkle-your-screen-with-7-holiday-windows-tweaks/"><u>Sparkle Your Screen with 7 Holiday Windows Tweaks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-platforms-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Social Media Platforms: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trailblazing-tech-top-laptops-ifa-2023/"><u>Trailblazing Tech: Top Laptops IFA 2023</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-redmi-a2plus-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Redmi A2+ Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
+

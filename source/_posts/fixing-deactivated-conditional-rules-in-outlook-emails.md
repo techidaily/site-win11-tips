@@ -1,7 +1,7 @@
 ---
 title: Fixing Deactivated Conditional Rules in Outlook Emails
-date: 2025-01-15T18:25:43.067Z
-updated: 2025-01-18T17:45:35.430Z
+date: 2025-01-17T20:05:00.295Z
+updated: 2025-01-25T00:14:25.433Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Make Sure Outlook Rules Are Enabled
 
@@ -58,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 4. Select **Yes** when prompted.  
 ![Delete a Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-a-outlook-rule.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Reset the Outlook SRS File
 
  Microsoft Outlook stores essential account configuration in an SRS (Send and Receive Settings) file on your PC. If this file somehow becomes corrupted, Outlook rules won’t work. To fix this, you can force Outlook to recreate the SRS file by renaming the old file. Here's how.
@@ -72,11 +72,11 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 4. Press **F2** on your keyboard and [rename the file](https://www.makeuseof.com/windows-11-rename-files/) to **Outlook.srs.old**.  
 ![Rename Outlook SRS File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-outlook-srs-file.jpg)
 
- Restart Outlook after completing the above steps and check if your rules work as expected.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Restart Outlook after completing the above steps and check if your rules work as expected.
 
 ## 5\. Disable the Stop Processing More Rules Option
 
@@ -89,13 +89,13 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 4. Clear the **stop processing more rules** checkbox.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click **Finish** and then **Apply**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Configure Outlook Rules to Run on All Devices
@@ -107,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 3. Under **Select conditions**, uncheck the **on this computer only** box.
 4. Hit **Finish** followed by **Apply**.  
 ![Configure Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/configure-outlook-rule.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Activate Cached Exchange Mode
 
@@ -120,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 4. Click **More Settings** and select **Advanced**.
 5. Tick the **Use Cached Exchange Mode** checkbox.
 6. Hit **Apply** followed by **OK**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Run the Outlook Inbox Repair Tool
 
@@ -140,6 +140,10 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 
  Restart Outlook after this and check if the issue is still there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Update the Outlook App
 
  Using an outdated version of Outlook can also lead to such issues. If you have [disabled automatic updates for Office apps](https://www.makeuseof.com/windows-stop-automatic-office-updates/), use these steps to update the Outlook app.
@@ -149,15 +153,7 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 3. Click **Update Options > Update Now**.  
 ![Update Outlook App in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-outlook-app-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for Microsoft Office to check for new updates and install them. Following that, Outlook rules should start working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Reset All the Rules
 
@@ -168,6 +164,10 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 ![Delete Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-outlook-rules.jpg)
 
  Once Outlook deletes all the rules, head to **Manage Rules & Alerts** and set them up again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Manage Your Emails Efficiently With Outlook Rules
 
@@ -185,21 +185,15 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-best-skype-recorders-for-quality-compiled/"><u>[New] 2024 Approved Best Skype Recorders for Quality Compiled</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-enhance-your-virtual-journey-with-kinemaster-expertise-and-best-opponent-platforms/"><u>[New] 2024 Approved Enhance Your Virtual Journey with KineMaster Expertise & Best Opponent Platforms</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevate-your-iphone-x-experience-with-pro-animoji-use/"><u>[New] In 2024, Elevate Your iPhone X Experience with Pro Animoji Use</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tricks-to-perfect-time-lapses-using-samsung-cameras/"><u>[Updated] Tricks to Perfect Time-Lapses Using Samsung Cameras</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-insta-reels-with-tiktok-techniques-for-massive-shares/"><u>2024 Approved Mastering Insta Reels with TikTok Techniques for Massive Shares</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-windows-methods-to-record-conversations/"><u>Effective Windows Methods to Record Conversations</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-asus-rog-phone-7-ultimatemirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Asus ROG Phone 7 UltimateMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-start-saving-smiles-on-youtube-a-beginners-mac-tutorial/"><u>In 2024, Start Saving Smiles on YouTube A Beginner's Mac Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-guide-to-restore-lost-pin-after-win-11-crashes/"><u>Master Guide to Restore Lost PIN After Win 11 Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-browser-interactivity-enable-gesture-navigation-in-windows-11s-edge/"><u>Maximizing Browser Interactivity: Enable Gesture Navigation in Windows 11'S Edge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-and-streamline-commands-in-modern-windows-systems/"><u>Optimize and Streamline Commands in Modern Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/outpace-the-windowed-wired-limit-transcending-100mbps-on-windows-pcs/"><u>Outpace the Windowed Wired Limit: Transcending 100Mbps on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-connection-breakdown-with-mbs-services-in-windows-11/"><u>Resolving Connection Breakdown with MB's Services in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversal-of-read-only-settings-in-windows-11-storage/"><u>Reversal of Read-Only Settings in Windows 11 Storage</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-audio-fixes-resolving-issues-with-inadequate-speaker-volume-on-your-pc/"><u>Windows 10 Audio Fixes: Resolving Issues with Inadequate Speaker Volume on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuit-online-afconverteren-van-mod-naar-mp4-movavi/"><u>Gratuit Online Afconverteren Van MOD Naar MP4 - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-your-device-usage-options-in-windows-11/"><u>How to Change Your Device Usage Options in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-search-tool-in-windows-11-and-11-not-displaying-results/"><u>How to Fix the Search Tool in Windows 11 & 11 Not Displaying Results</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-user-access-changes-for-typical-windows-users/"><u>Implementing User Access Changes for Typical Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-your-typing-game-setting-up-custom-keys-for-fixed-text-in-win11/"><u>Perfect Your Typing Game: Setting Up Custom Keys for Fixed Text in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-sound-devices-error-on-audacity-windows-11/"><u>Resolving Sound Devices Error on Audacity (Windows 11)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/omplete-analysts-toolkit-for-tracking-youtube-audiences-and-money-flow/"><u>The Complete Analyst's Toolkit for Tracking YouTube Audiences & Money Flow</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721268126363-top-photo-repair-programs-for-windows-and-mac-computers-ranked/"><u>Top Photo Repair Programs for Windows & Mac Computers - Ranked!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/standing-legal-bounds-of-youtube-video-screencaps-for-2024/"><u>Understanding Legal Bounds of YouTube Video Screencaps for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210695951-9780876129517-zwiesprache-mit-gott/"><u>Zwiesprache mit Gott | Free Book</u></a></li>
 </ul></div>
 

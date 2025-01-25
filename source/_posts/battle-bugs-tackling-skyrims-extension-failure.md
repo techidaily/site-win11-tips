@@ -1,7 +1,7 @@
 ---
 title: "Battle Bugs: Tackling Skyrim's Extension Failure"
-date: 2024-08-08T10:54:21.943Z
-updated: 2024-08-09T10:54:21.943Z
+date: 2025-01-23T19:56:52.286Z
+updated: 2025-01-24T16:52:49.688Z
 tags:
   - windows10
   - windows11
@@ -21,24 +21,19 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
  In this article, we will discuss different fixes you can apply to make the Skyrim Script Extender work again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Are You Using a Cracked Version of Skyrim?
 
  If you have been playing Skyrim with a cracked or illegitimate version, the fixes below won't help. If that's the case, get a legitimate copy, and the problem may disappear. However, if you are using a genuine version and experiencing this issue, you should begin applying the fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 1\. Ensure the Mod Isn't Defective
 
  If the mod you enabled recently is corrupted, SKSE may not work. Maybe the mod you're using doesn't support the latest version of Skyrim or SKSE, or it hasn't been updated in a long time. In addition, incompatibility of recently added mods with other mods you're using can cause the same issue.
 
  So, if the problem has occurred after enabling a new mod, disable it and run the tool again. If disabling it fixes the problem, delete the mod, including files in its installation folder. Nonetheless, if the problem has occurred randomly, try enabling and disabling each mod separately to rule out any mod-related problems.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run SKSE as an Administrator
 
  By running SKSE as an administrator, you eliminate any possibility of your operating system restricting the tool's access to system files, preventing it from working correctly. You can run the tool as an administrator by right-clicking on its executable file and clicking**Run as administrator.**
@@ -46,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 ![Running SKSE as as Administrator in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Running-SKSE-as-as-Administrator-in-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Verify the Integrity of Game Files
 
  For peace of mind, you should verify the integrity of game files, which is Steam's built-in tool that repairs corrupted game files. Here are the steps you need to follow:
@@ -55,17 +51,16 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 1. Launch Steam.
 2. Go to the**Steam Library** .
 3. Right-click on Skyrim and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![Opening the Properties of Skyrim Game in the Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2-Opening-the-Properties-of-Skyrim-Game-in-the-Steam.jpg)
 4. In the left sidebar, click**Local Files** .
 5. In the right pane, click**Verify integrity of game files** .  
 ![Clicking on the Verify Integrity of Game Files under Local Files of Properties Window of a Game in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/3-Clicking-on-the-Verify-Integrity-of-Game-Files-under-Local-Files-of-Properties-Window-of-a-Game-in-Steam.jpg)
 
  If an integrity check fails to fix the problem, ensure the compatibility issue is not the cause.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Rule Out Compatibility Issues
 
@@ -76,9 +71,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Find the game's executable file.
 3. Right-click it, then select**Properties** .
 4. Note the game version under the**Details** tab.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Checking Product Version in the Details Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Checking-Product-Version-in-the-Details-Tab-of-Properties-Window.jpg)
 5. Visit the [SKSE downloads page](https://skse.silverlock.org/) and compare the build you're using with the game version.
 
@@ -91,9 +83,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Open Steam.
 2. Go to the**Steam Library** tab.
 3. Right-click on**Skyrim** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Opening the Properties of Skyrim Game in the Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/6-Opening-the-Properties-of-Skyrim-Game-in-the-Steam.jpg)
 4. On the left sidebar, click the**Updates** tab.
 5. Select**Only update this game when I launch it** from the**Automatic Updates** dropdown.  
@@ -101,7 +90,15 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 6. In the**Background Downloads** dropdown menu, select**Never allow background downloads** .  
 ![Selecting the Never Allow Background Downloads Option from the Background Downloads Dropdown Menu in Updates Settings of a Game in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/8-Selecting-the-Never-Allow-Background-Downloads-Option-from-the-Background-Downloads-Dropdown-Menu-in-Updates-Settings-of-a-Game-in-Steam.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Having set the automatic updates to start only when Skyrim is launched, you should never launch the game from Steam again. Doing so may result in the game being updated again, making it incompatible with your current SKSE build. Therefore, you should launch the game with SKSE itself or through a mod organizer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Use a Mod Organizer to Launch the Game
 
@@ -112,9 +109,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  For those not using any mod organizer, we recommend that you do so to eliminate compatibility issues. But what if you don't want to use mod organizers? Use the SKSE itself. To be prepared for compatibility issues in the future, always keep a backup of Skyrim.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## 7\. Defeat Compatibility Issues With a Backup
 
  If you occasionally run Skyrim without mods in Steam, Steam may automatically update the game, as we have configured it to do so. This means that running SKSE may cause the compatibility issue to occur again.
@@ -129,6 +123,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  That's it. When the compatibility issue arises after an update, go back to the backup location and replace the original game folder in the Steam directory with that backup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Ensure That the Firewalls or Antivirus Aren’t Interfering
 
  Because SKSE directly alters game files, it's common for your antivirus or Windows Defender firewall to consider it a threat. It may result in your firewall or antivirus program interfering with the communication process between SKSE and the game.
@@ -140,20 +138,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  If none of the fixes worked, you should reinstall Steam. Make sure you don't install it on the same drive as your operating system. The reason is that Windows security prevents SKSE from modifying game files, thereby blocking communication. Reinstall Steam in a different location; hopefully, doing so will fix the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try Your New Mods With SKSE64
 
  It can be genuinely deflating when Skyrim Script Extender fails to work when we are all set to try a newly released mod. Hopefully, applying the fixes discussed in this article will fix SKSE64 and allow you to enjoy your new mod. There is no doubt that mods can breathe new life into games, so it is worth trying them out.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,6 +158,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-pivoting-pictures-a-how-to-on-flipping-videos-for-viral-engagement/"><u>[New] In 2024, Pivoting Pictures A How-To on Flipping Videos for Viral Engagement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-joyful-account-access-instructions/"><u>[New] Joyful Account Access Instructions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/barnes-and-nobles-newest-gem-the-enhanced-screen-display-of-nook-glowlight-plus-reviewed-here/"><u>Barnes & Noble's Newest Gem - The Enhanced Screen Display of Nook GlowLight Plus Reviewed Here!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-windows-hello-fingerprint-sign-in-process/"><u>Configuring Windows Hello Fingerprint Sign-In Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevated-privileges-starting-your-powershell-session-right/"><u>Elevated Privileges: Starting Your PowerShell Session Right</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-exclusive-insiders-take-on-best-3d-blu-ray-players/"><u>In 2024, Exclusive Insider's Take on Best 3D Blu-Ray Players</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-exploring-vidmas-screen-capture-tool/"><u>In 2024, Exploring Vidma's Screen Capture Tool</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-14-pro-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 14 Pro Stuck On Activation Lock?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masked-management-eliminate-start-menus-power-icon/"><u>Masked Management: Eliminate Start Menu's Power Icon</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/profiting-from-gaming-channels-for-2024/"><u>Profiting From Gaming Channels for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-your-microsoft-store-credentials/"><u>Regain Your Microsoft Store Credentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-android-apk-installation-on-windows-11/"><u>Streamlining Android APK Installation on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-rectifying-windows-resolution-problems/"><u>The Ultimate Guide to Rectifying Windows Resolution Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-key-disparities-between-in-store-and-distant-windows-installs/"><u>Understanding Key Disparities Between In-Store & Distant Windows Installs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unpacking-truthgpt-the-groundbreaking-project-by-elon-musk/"><u>Unpacking TruthGPT: The Groundbreaking Project by Elon Musk</u></a></li>
+<li><a href="https://games-able.techidaily.com/where-are-steam-screenshots-saved/"><u>Where Are Steam Screenshots Saved?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-credentials-made-simple-the-ultimate-list-of-11-access-methods/"><u>Win11 Credentials Made Simple: The Ultimate List of 11 Access Methods</u></a></li>
+</ul></div>
 

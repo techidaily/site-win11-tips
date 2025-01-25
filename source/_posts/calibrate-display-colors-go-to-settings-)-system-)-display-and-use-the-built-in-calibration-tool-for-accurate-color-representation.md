@@ -1,7 +1,7 @@
 ---
 title: "Calibrate Display Colors: Go to 'Settings' > 'System' > 'Display' And Use the Built-In Calibration Tool for Accurate Color Representation"
-date: 2024-07-29T08:14:37.169Z
-updated: 2024-07-30T08:14:37.169Z
+date: 2025-01-17T17:51:40.955Z
+updated: 2025-01-25T01:06:52.210Z
 tags:
   - windows10
   - windows11
@@ -28,41 +28,38 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 
  In most cases, you cannot change external monitor brightness from Windows settings—you must manually adjust this setting. If the external monitor's brightness setting is unresponsive, check your monitor's manual to find the brightness buttons' location and how you can adjust it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Reboot Your Device
 
  If none of the methods for changing your display's brightness work, reboot your device once. Doing so will ensure that a temporary problem with your operating system isn't preventing you from changing the brightness. If rebooting your device does not make a difference, apply the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Update, Restart, or Reinstall the Drivers
 
  If restarting your computer didn't fix the issue, you should check for driver updates. This lets you determine whether corrupt or malfunctioning graphics drivers cause the problem. Follow these steps to update the relevant drivers:
 
 1. Right-click the Windows**Start** button and select**Device Manager** .
 2. Expand the**Monitors** category, right-click on the drivers listed there, and choose**Update driver** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Updating the Generic PnP Monitor Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/updating-the-generic-pnp-monitor-driver.jpeg)
 3. After that, expand the**Display adapters** category, right-click on the drivers listed there, and click**Update driver** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update Display Driver in Display Adapters Category of Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-update-display-driver-in-display-adapters-category-of-windows-device-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If updating the drivers does not resolve the issue, right-click on both drivers individually and select**Disable device** . To enable them again, right-click on each and select**Enable device** .
 
 ![Enable Display Device in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-enable-display-device-in-windows-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In case that doesn't work either, you should uninstall both drivers. To do that, right-click on both drivers individually and select**Delete device** . After that, reboot your device again, and Windows will reinstall them.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Uninstall Display Device in Windows Device Mananger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-uninstall-display-device-in-windows-device-mananger.jpg)
 
 ## 4\. Recharge Your Device
@@ -73,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 
  If your battery is low, you should recharge your computer. Once your battery reaches a healthy level, you can adjust the brightness as usual. Or if you experienced the problem when you turned on battery-saving mode, you should turn it off or change its settings to allow you to change your monitor's brightness.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## 5\. Repair Corrupted System Files
 
  Corrupt system files can impede many Windows features from working correctly and cause your device's brightness to freeze. So, you should rule out this possibility. Fortunately, Windows has a built-in tool—the System File Checker—to fix corrupt system files.
@@ -92,11 +86,16 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 2. Go to**System > Display** .  
 ![Go to Display Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-go-to-display-settings-in-windows-settings-app.jpg)
 3. Expand the**Brightness** menu and uncheck the boxes beside**Change brightness automatically when lighting changes** and **Help improve battery by optimizing the content shown and brightness** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![Change the Display Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-the-display-settings-in-windows-settings-app.jpg)
 4. After that, turn off the toggle next to**Night light** if it is turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Install Pending Windows Updates
 
@@ -116,14 +115,11 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 
  But if you're still having occasional trouble adjusting your monitor's brightness or are looking for a way to balance the brightness of multiple displays, you should check out the best brightness control apps on Windows to help you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,4 +128,22 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-uncovering-the-mysteries-of-photo-editing-in-canva/"><u>[New] 2024 Approved Uncovering the Mysteries of Photo Editing in Canva</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-nix-youtube-snippet-playback-on-all-devices/"><u>[New] Nix YouTube Snippet Playback on All Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-breaking-down-the-animation-process-a-movie-maker-approach/"><u>[Updated] Breaking Down the Animation Process A Movie Maker Approach</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-curate-a-facebook-playlist-via-phonetablet/"><u>[Updated] How to Curate a Facebook Playlist via Phone/Tablet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-track-lost-friends-on-instagram/"><u>[Updated] Track Lost Friends on Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-perfect-blend-of-relaxation-and-growth-podcast-multi-tasking-tips/"><u>2024 Approved The Perfect Blend of Relaxation and Growth Podcast Multi-Tasking Tips</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/master-your-snapchats-the-top-6-editing-apps-for-both-devices/"><u>Master Your Snapchats The Top 6 Editing Apps for Both Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-malwarebytes-connectivity-woes-on-1011-windows-pcs/"><u>Mastering Malwarebytes Connectivity Woes on 10/11 Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/premium-savings-with-w11-pro-key-dont-miss-out/"><u>Premium Savings with W11 Pro Key - Don't Miss Out</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-x0001-in-nvidias-geforce-for-windows-devices/"><u>Resolving Error X0001 in Nvidia's GeForce for Windows Devices</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/reversing-footage-in-a-snap/"><u>Reversing Footage in a Snap</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-photos-into-windows-slideshow-wonders-7-ways/"><u>Transform Your Photos Into Windows Slideshow Wonders (7 Ways)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-resolving-0x80049dd3-type-error/"><u>Troubleshooting Windows 11: Resolving 0X80049DD3 Type Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-of-wsl-2-in-windows-oses/"><u>Unlock Full Potential of WSL 2 in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-passwords-how-to-lengthen-windows-pins-efficiently/"><u>Winning at Passwords: How to Lengthen Windows Pins Efficiently</u></a></li>
+</ul></div>
 

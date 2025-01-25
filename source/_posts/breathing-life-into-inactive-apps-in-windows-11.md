@@ -1,7 +1,7 @@
 ---
 title: Breathing Life Into Inactive Apps in Windows 11
-date: 2024-07-29T08:12:54.969Z
-updated: 2024-07-30T08:12:54.969Z
+date: 2025-01-19T17:06:20.591Z
+updated: 2025-01-25T00:42:54.429Z
 tags:
   - windows10
   - windows11
@@ -21,13 +21,18 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
  If this happens to you, check out these effective solutions to get Mail and Calendar back on track.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is the Mail and Calendar App Not Opening on Windows 11?
 
  One of the primary reasons the Mail and Calendar app is inaccessible on Windows 11 is the corrupt system files. The issue can also occur due to outdated Windows versions and temporary app glitches.
 
  Fortunately, it's very easy to troubleshoot the problem. Below are all the working fixes you can try in the situation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Restart and Install Updates
 
@@ -38,13 +43,14 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 1. Press**Win + I** to open**Settings** .
 2. Click on**Windows Update** .
 3. Click on**Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Check for update screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Check-for-updates.jpg)
 4. Windows will check for any pending updates and install them if available.
 
  After updating to the latest OS version, check if you can open the app. If not, move on to the next solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Download the Latest Updates for Mail and Calendar
 
@@ -61,9 +67,6 @@ Here's how to update Mail and Calendar on Windows 11.
 
  After updating the application, reboot the system and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## 3\. Run the Windows Store Apps Troubleshooter
 
  The Windows Store app troubleshooter is a built-in utility that solves issues revolving around UWP apps. It is the go-to option whenever a UWP app becomes inaccessible or crashes randomly.
@@ -79,14 +82,6 @@ Here's how to run the Windows Store Apps Troubleshooter.
 
  If any problem is found, follow the onscreen instructions to apply the potential fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 4\. Check Mail Sync Settings
 
  Another quick way to fix the Mail and Calendar app not opening issue is to customize the mailbox sync settings. As it turns out, if the app is not synced with your account, you might face issues opening it or receiving new emails.
@@ -97,9 +92,6 @@ Here's how to run the Windows Store Apps Troubleshooter.
 2. Choose the**Email & accounts** option under the**Account** **settings** .  
 ![Email & accounts option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/email-accounts.jpg)
 3. Click the drop-down icon next to your email account and choose**Manage** from the menu that crops up.  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Manage option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/manage-option.jpg)
 4. Choose the**Change mailbox sync settings** option.
 5. Click the drop-down icon under**Download new content** and choose**as items arrive** option.
@@ -107,25 +99,25 @@ Here's how to run the Windows Store Apps Troubleshooter.
 ![Gmail sync settings in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gmail-sync-settings.jpg)
 7. Click**Done** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 5\. Change Mail and Calendar Privacy Settings
 
  You're likely to face the issue due to misconfigured privacy settings of the Mail and Calendar app. To fix this, follow these steps:
 
 1. In the Settings app, choose**Privacy & security** from the left sidebar.
 2. Under the**App permissions** section, click on the**Calendar** option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Calendar option in Privacy & security window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/calendar-option.jpg)
 3. Enable the toggle next to**Mail and Calendar** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Mail and Calendar toggle in Calendar window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mail-and-calendar-toggle.jpg)
 4. Next, click on the**Email** option in the App permission section, and enable the toggle next to**Mail and Calendar** in the following window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair the Mail and Calendar App
 
@@ -140,6 +132,10 @@ Here are the steps to repair the Mail and Calendar app.
 5. Choose**Advanced options** .
 6. Under the**Reset** section, click on**Repair.**  
 ![Mail and Calendar repair and reset screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Repair-Mail.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows will take a few seconds to repair the app. Once the process is complete, launch the Mail and Calendar, and check if you are still facing the problem.
 
@@ -166,17 +162,11 @@ Here's how to do it.
 4. Click on**Change settings** .
 5. Locate Mail and Calendar.
 6. Check both the**Private** and**Public** options for Mail and Calendar.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Windows Firewall allow an app through firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Mail-and-Calendar.jpg)
 7. Click OK to save the changes.
 
  The third-party antivirus program can also cause the issue. Try to disable it and check if you can access the Mail and Calendar app.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Re-Register the Mail And Calendar App
 
  Re-registering the Mail and Calendar app is another solution you can try in this situation. This method solves issues that lead to inaccessibility and sudden application crashes.
@@ -209,8 +199,9 @@ Here are the steps to run an SFC scan.
 Reboot the system once DISM finishes.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11\. Reinstall Mail and Calendar
 
  If none of the fixes helped solve the issue, you could consider reinstalling the Mail and Calendar app. You can reinstall Mail and Calendar by following the below steps.
@@ -221,18 +212,19 @@ Reboot the system once DISM finishes.
 
  Next, open the Microsoft Store, and download the Mail and Calendar app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Open Mail And Calendar With Ease
 
  It is pretty hard to pinpoint the exact reason behind the problem; thus, you might have to go through all the solutions to make the Mail and Calendar app accessible again. But if none of the solutions was helpful, you can consider using a third-party application.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -241,4 +233,24 @@ Reboot the system once DISM finishes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-fb-video-downloader-get-access-on-all-devices-2023/"><u>[New] 2024 Approved FB Video Downloader Get Access on All Devices, 2023</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ifunny-meme-journey-downloading-made-easy/"><u>[New] In 2024, The iFunny Meme Journey Downloading Made Easy</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-navigating-the-world-of-sound-effects-in-youtube-videos-for-2024/"><u>[Updated] Navigating the World of Sound Effects in YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-tapping-into-youtubes-earnings-how-much-do-you-make-from-adsense-per-kv-in-2024/"><u>[Updated] Tapping Into Youtube's Earnings How Much Do You Make From AdSense Per KV, In 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-ways-to-employ-chatgpt-responsibly-for-psychological-support/"><u>Best Ways to Employ ChatGPT Responsibly for Psychological Support</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/connectivity-checklist-webcammicro-pre-meeting-tips-windows/"><u>Connectivity Checklist: Webcam/Micro Pre-Meeting Tips (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decreasing-intense-cpu-consumption-fix-dropbox-in-windows/"><u>Decreasing Intense CPU Consumption: Fix Dropbox in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-restoring-nvidia-control-saving-functionality/"><u>Guidelines for Restoring Nvidia Control Saving Functionality</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Samsung ?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-relief-for-windows-time-management-issues/"><u>Immediate Relief for Windows Time-Management Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-poco-m6-pro-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Poco M6 Pro 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insider-tips-for-finding-gpo-settings-on-pc/"><u>Insider Tips for Finding GPO Settings on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-the-limited-scope-of-windows-11-s-mode-beneficial/"><u>Is the Limited Scope of Windows 11 S Mode Beneficial?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/jumpstarting-instagram-celebrity-status/"><u>Jumpstarting Instagram Celebrity Status</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/signature-virtual-experiences-on-screen-for-2024/"><u>Signature Virtual Experiences on Screen for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-counteract-camera-file-save-error-in-win11/"><u>Tips to Counteract Camera File Save Error in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-locked-windows-protection-in-windows-11/"><u>Unlocking Locked Windows Protection in Windows 11</u></a></li>
+</ul></div>
 

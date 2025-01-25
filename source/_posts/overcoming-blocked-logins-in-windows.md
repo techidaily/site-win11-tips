@@ -1,7 +1,7 @@
 ---
 title: Overcoming Blocked Logins in Windows
-date: 2025-01-11T16:14:05.619Z
-updated: 2025-01-18T17:28:06.631Z
+date: 2025-01-18T19:33:17.763Z
+updated: 2025-01-24T17:25:12.409Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
  Fortunately, you can fix this error by resetting the login PIN and a registry tweak to disable the account lockout option. Follow all the steps in the given order, and you should be able to fix the error and log in to your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Keep Your Device Powered On for Two Hours
 
  If you don't have an alternate sign-in option enabled or have forgotten the password, you'll need to wait for two hours and then try to sign in again with the sign-in PIN. Make sure your PC remains turned on for two hours for it to work.
@@ -46,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
  That said, if you can't wait for two hours, try to log in using an alternate sign-in option, such as a password or biometric authentication. To use the alternate sign-in option, click the dotted icon under the Sign-in options in the error screen to log in with your password.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reset the Account Password from the Sign-In Screen
@@ -63,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 3. Now, you must answer the three security questions and press **Enter**. If the password is correct, a password reset option will appear.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![reset account password windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-windows.jpg)
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
  If you don't have an alternate user account setup, [enable the built-in administrator account in Windows 11](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/). Skip to the later part of the article that shows how to enable the built-in administrator account without the need to sign in.
 
  Once you can sign in, follow these steps to check your account status.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check Your Account Status Using Local Users and Groups
 
@@ -102,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
  If both the options are already unchecked, proceed to the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Reset the Windows Account PIN
 
  Assuming the problem is due to a corrupt account PIN, a PIN reset can help you fix the problem. You can [change your account PIN in Windows](https://www.makeuseof.com/change-account-pin-windows/) from the Settings app. You'll need to authenticate the PIN change process with your current PIN, so keep that handy.
@@ -117,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 1. Open the Notepad app. Search for **Notepad** in Windows search and open the app.  
 ![script remove pin win user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sccript-remove-pin-win-user-account.jpg)
 2. Next, copy and paste the following script into the Notepad file:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `@echo off  
 powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'  
@@ -134,6 +126,11 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 3. Press **Ctrl + S** to open the Save dialog and name the file **Remove-Win-Account-PIN.bat**.  
 ![save remove win account pin batch script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/save-remove-win-account-pin-batch-script.jpg)
 4. Next, click the **Save as type** drop-down and select **All files**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Save** to create the batch script.
 
  To execute the script, double-click on it and click Yes when prompted by User Account Control.
@@ -159,6 +156,10 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 ![account lockout threshold gpedit windows modify o value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify-o-value.jpg)
 6. Click **Apply** and **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Edit the Account Lockout Policy Using Registry Editor
 
  You can also configure the account lockout policy on your machine via the Windows Registry. It is also helpful if you are using the Windows Home edition without Group Policy Editor.
@@ -179,7 +180,7 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 6. Type **0** in the **Value data** field and click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Close Registry Editor and reboot your computer to apply the changes.
@@ -204,24 +205,17 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/valuating-best-youtube-extractors-available-on-android-for-2024/"><u>[New] Evaluating Best YouTube Extractors Available on Android for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-premium-internet-voice-pads/"><u>[Updated] 2024 Approved Premium Internet Voice Pads</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-explore-virtual-realms-with-these-videos-for-2024/"><u>[Updated] Explore Virtual Realms with These Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-paramounts-best-vr-movies-to-watch-now/"><u>[Updated] Paramount's Best VR Movies to Watch Now</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/convert-your-mpeg-videos-into-dvd-format-using-the-ultimate-mpg-to-dvd-tool/"><u>Convert Your MPEG Videos Into DVD Format Using the Ultimate MPG to DVD Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/counteracting-frozen-display-windows-steam-guide/"><u>Counteracting Frozen Display: Windows Steam Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cutting-edge-techniques-to-upgrade-channel-descriptions-for-2024/"><u>Cutting-Edge Techniques to Upgrade Channel Descriptions for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deal-makers-delight-windows-10-612-lifetime-bf-discount/"><u>Deal-Makers' Delight: Windows 10, $6.12 Lifetime BF Discount</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-repairing-isdonedll-errors-in-windows-11-os/"><u>Guide to Repairing ISDone.dll Errors in Windows 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-proficiently-utilize-the-windows-print-device-manager/"><u>How To Proficiently Utilize the Windows Print Device Manager</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-12plus-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme 12+ 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/microsoft-tech-update-roundup-exciting-new-developments-from-this-weeks-surface-and-artificial-intelligence-event/"><u>Microsoft Tech Update Roundup: Exciting New Developments From This Week's Surface and Artificial Intelligence Event</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-wasted-cpu-by-ntoskrnlexe-processes/"><u>Minimizing Wasted Cpu by Ntoskrnl.exe Processes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-windows-11-easy-wi-fi-deletion-guide/"><u>Optimize Windows 11: Easy Wi-Fi Deletion Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sneaking-preview-into-unreleased-windows-capabilities-with-vivetool/"><u>Sneaking Preview Into Unreleased Windows Capabilities with ViVeTool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-isdonedll-failures-on-windows-1011/"><u>Troubleshooting ISDone.dll Failures on Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win1011-reactivating-unresponsive-adobe-photoshop/"><u>Win10/11: Reactivating Unresponsive Adobe Photoshop</u></a></li>
-<li><a href="https://win-studio.techidaily.com/zdnet-analysis-assessing-the-value-of-android-on-windows-11-setup/"><u>ZDNet Analysis: Assessing the Value of Android on Windows 11 Setup</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726222004928-2024-5/"><u>내 가이드를 통해 2024년에서 볼 수 있는 5개의 우수한 녹화 프로그래밍 기술</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-discovering-the-ultimate-gopro-camera-max-or-hero-11-in-2024/"><u>[New] Discovering The Ultimate GoPro Camera Max or Hero 11, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-and-obtaining-free-image-frame-content/"><u>[New] Finding and Obtaining Free Image Frame Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-how-to-record-with-your-macbooks-camera/"><u>[New] In 2024, How to Record with Your MacBook's Camera</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-integrated-marketing-campaigns-for-brand-and-video-platforms/"><u>[New] In 2024, Integrated Marketing Campaigns for Brand and Video Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-hero5-users-blueprint-for-incredible-time-lapse-videos/"><u>[Updated] The Hero5 User's Blueprint for Incredible Time-Lapse Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-away-from-tiktoks-silent-ban/"><u>Navigating Away From TikTok's Silent Ban</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-nooks-of-windows-store-avoiding-imposter-apps/"><u>Navigating the Nooks of Windows Store: Avoiding Imposter Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/protecting-your-privacy-a-curated-list-of-cam-covers-for-2024/"><u>Protecting Your Privacy A Curated List of Cam Covers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-unviewable-error-for-office-2016-users-on-windows-pc/"><u>Resolving 'Unviewable' Error for Office 2016 Users on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-improve-fps-and-reduce-latency-in-roblox/"><u>Strategies to Improve FPS & Reduce Latency in Roblox</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tp67-temperature-gun-by-thermopro-balancing-price-and-performance-in-our-review/"><u>TP67 Temperature Gun by ThermoPro: Balancing Price and Performance in Our Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-procedure-for-microsoft-stores-msix-extensions/"><u>Unveiling the Procedure for Microsoft Store's MSIX Extensions</u></a></li>
 </ul></div>
 

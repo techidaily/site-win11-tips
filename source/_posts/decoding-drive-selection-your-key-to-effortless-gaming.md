@@ -1,7 +1,7 @@
 ---
 title: "Decoding Drive Selection: Your Key to Effortless Gaming"
-date: 2025-01-11T18:06:34.740Z
-updated: 2025-01-18T16:02:14.218Z
+date: 2025-01-20T17:24:45.327Z
+updated: 2025-01-25T00:50:13.341Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart the Computer
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
  You might fail to change the installation drive in the Xbox app due to a temporary system glitch or bug. Luckily, you can quickly eliminate such bugs and glitches by restarting your computer.
 
  To restart, press the**Alt + F4** hotkeys to open the Shut Down Windows prompt, click the drop-down icon, choose**Restart** from the context menu, and then click**OK.** After restart, launch the Xbox app and check if you can choose a different drive to install games. If not, then it's time to dive into the advanced troubleshooting methods.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Change the Installation Directory in the Xbox App Settings
 
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 ![Change Folder in Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-folder.jpg)
 4. Choose the location where you want to install the game and then click the**Select Folder** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Customize the System Settings
 
  If editing the Xbox app settings wasn't helpful, you can edit the system settings and check if it makes a difference. Here's what you need to do:
@@ -65,10 +65,14 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
 ![New apps will save to section in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-apps-will-save-to-section.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it! Restart your computer and check if the problem continues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Restart Important Xbox Services
@@ -102,10 +106,6 @@ Xbox Live Networking Service`
 ![Delete option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-option.jpg)
 4. Click**Yes** to confirm your selection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Next, delete the**GamingServicesNet** folder as well in the left sidebar.
 
  Now, open the elevated PowerShell window (see how to[open Windows PowerShell as an administrator](https://www.makeuseof.com/windows-powershell-always-open-as-administrator/) ), type the following command, and press**Enter** .
@@ -114,11 +114,11 @@ Xbox Live Networking Service`
 
 ![Remove Gaming Services command in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-gaming-services.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After uninstalling the Gaming Services app, restart your computer. Then, open the Microsoft Store, search for and[download the Gaming Services](https://apps.microsoft.com/store/detail/gaming-services/9MWPM2CQNLHN?hl=en-us&gl=us) app again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair the Xbox App
 
@@ -160,21 +160,18 @@ To update the Xbox app, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-entry-into-the-world-of-google-meet-webinars/"><u>[New] 2024 Approved Entry Into the World of Google Meet Webinars</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-curating-tunes-a-comprehensive-guide-to-youtube-lists/"><u>[Updated] 2024 Approved Curating Tunes A Comprehensive Guide to YouTube Lists</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-turn-out-clearer-snaps-ranking-the-most-effective-online-editors/"><u>[Updated] 2024 Approved Turn Out Clearer Snaps Ranking the Most Effective Online Editors</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-elite-hd-video-preservation-devices-for-2024/"><u>[Updated] Elite HD Video Preservation Devices for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-proven-techniques-for-stunning-timelapses-in-gopro-studio/"><u>[Updated] Proven Techniques for Stunning Timelapses in GoPro Studio</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-xcover-7-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy XCover 7 Fingerprint Lock</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-visibility-the-art-of-crafting-youtube-channel-backlinks-for-2024/"><u>Boosting Visibility The Art of Crafting YouTube Channel Backlinks for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620244631-expert-tips-for-reviving-a-dead-phone-battery-proven-methods-to-bring-your-device-back-to-life/"><u>Expert Tips for Reviving a Dead Phone Battery: Proven Methods to Bring Your Device Back to Life!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/google-play-setup-a-comprehensible-path/"><u>Google Play Setup: A Comprehensible Path</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-device-awareness-in-power-mode-slumber/"><u>Leveraging Device Awareness in Power Mode Slumber</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-store-anomaly-zero-error-correction-guide/"><u>Microsoft Store Anomaly: Zero-Error Correction Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-peeky-tabs-strategies-for-edge-on-w11/"><u>No Peeky Tabs: Strategies for Edge on W11</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/pathfinder-wrath-of-the-righteous-not-loading-up-try-these-fixes-first/"><u>Pathfinder: Wrath of the Righteous Not Loading Up? Try These Fixes First</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-grayed-out-secure-boot-on-windows-bios-settings/"><u>Restoring Grayed-Out Secure Boot on Windows BIOS Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/switch-off-windows-record-of-launches/"><u>Switch Off Windows Record of Launches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wake-up-rituals-for-keyboard-and-mouse-in-1011-environments/"><u>Wake-Up Rituals for Keyboard & Mouse in 10/11 Environments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expert-tips-for-crafting-top-notch-video-hashtags/"><u>[New] 2024 Approved Expert Tips for Crafting Top-Notch Video Hashtags</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-recmaster-pro-in-depth-analysis-of-the-latest-release/"><u>[Updated] 2024 Approved Recmaster Pro In-Depth Analysis of the Latest Release</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-top-10-impactful-instagram-tags-for-maximum-reach/"><u>[Updated] 2024 Approved Top 10 Impactful Instagram Tags for Maximum Reach</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-9-best-video-calling-applications-safety-and-simplicity-focus/"><u>2024 Approved 9 Best Video Calling Applications Safety & Simplicity Focus</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-a05-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy A05 FRP Bypass Instantly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-manycam-compatible-webcams-top-picks-for-omegle-chatters/"><u>Best ManyCam-Compatible Webcams: Top Picks for Omegle Chatters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-your-locked-out-windows-11-account-pin-missing/"><u>Fix Your Locked Out Windows 11 Account - PIN Missing</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eliminate-obs-studio-error-windows-edition-strategy/"><u>How to Eliminate OBS Studio Error: Windows Edition Strategy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-erase-illustration-in-win-search/"><u>Methods to Erase Illustration in Win Search</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-steam-file-synchronization-failures-in-windows/"><u>Solving Steam File Synchronization Failures in Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/sony-xperia-xz-premium-high-res-video-capabilities-analyzed/"><u>Sony Xperia XZ Premium High-Res Video Capabilities Analyzed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-commands-prep-terminal-for-prominence/"><u>Supercharge Commands: Prep Terminal for Prominence</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-in-the-world-of-youtube-content-creation-for-2024/"><u>Thriving in the World of YouTube Content Creation for 2024</u></a></li>
 </ul></div>
 

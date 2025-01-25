@@ -1,7 +1,7 @@
 ---
 title: Streamlining the Windows 10/11 Search Mechanism
-date: 2025-01-15T17:40:01.946Z
-updated: 2025-01-18T18:19:31.947Z
+date: 2025-01-22T22:04:12.638Z
+updated: 2025-01-24T18:38:05.543Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/151496d9a19ba95beb3641cc868ae237a3532fbd9
 4. If selecting**Check for updates** doesn’t automatically install everything available, click the**Download and Install** buttons for any other updates (including version 22H2).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the Search Troubleshooting Tool
@@ -50,9 +50,17 @@ thumbnail: https://thmb.techidaily.com/151496d9a19ba95beb3641cc868ae237a3532fbd9
 ![The Run button for the Search and Indexing troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-run-button-for-the-search-and-indexing-troubleshooter.jpg)
 5. Click the**Can't start a search or see results** checkbox, and select the troubleshooter’s**Next** option. The **Files, folders, apps, or settings don't appear in results** checkbox is also a suitable option to select for troubleshooting this issue.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Search and Indexing troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-search-and-indexing-troubleshooter.jpg)
 
  The steps for opening the Search and Indexing troubleshooter in Windows 10’s Settings app aren’t exactly the same. Click**Update & Security** \>**Troubleshoot** in Windows 10’s Settings app. Selecting**Additional troubleshooters** will bring up the list. Then you can click**Run the troubleshooter** for Search and Indexing to open it from there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Select the Enhanced Search Option
 
@@ -67,10 +75,14 @@ thumbnail: https://thmb.techidaily.com/151496d9a19ba95beb3641cc868ae237a3532fbd9
 ![The Enhanced radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-enhanced-radio-button.jpg)
 5. Click the menu buttons for all excluded search folders listed below that option and select**Remove** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Remove option for excluded folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-remove-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Start the Windows Search Service
@@ -84,14 +96,14 @@ thumbnail: https://thmb.techidaily.com/151496d9a19ba95beb3641cc868ae237a3532fbd9
 4. Click the drop-down menu for the**Startup type** option to select the service’s**Automatic** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Windows Search Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-windows-search-properties-window.jpg)
 5. Press**Start** in the properties window if the search service isn’t running.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. To save the changed settings, click the**Apply** option.
@@ -121,24 +133,12 @@ thumbnail: https://thmb.techidaily.com/151496d9a19ba95beb3641cc868ae237a3532fbd9
 ![The Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-large-icons-button.jpg)
 3. Click**Indexing Options** to view that applet.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select**Advanced** in the Indexing Options window.
 5. Click**Rebuild** in the Index**Settings** tab.  
 ![The Rebuild button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-rebuild-option.jpg)
 6. Wait for the rebuilding to finish.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Select**OK** \>**Close** to exit the indexing applet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall Cortana
 
@@ -155,7 +155,7 @@ thumbnail: https://thmb.techidaily.com/151496d9a19ba95beb3641cc868ae237a3532fbd9
 7. Press**Enter** to execute the PowerShell command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Windows
@@ -185,17 +185,18 @@ thumbnail: https://thmb.techidaily.com/151496d9a19ba95beb3641cc868ae237a3532fbd9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-hit-the-high-notes-in-capturing-twitch-live-events-for-2024/"><u>[New] How to Hit the High Notes in Capturing Twitch Live Events for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ltimate-mic-selection-for-online-talent-for-2024/"><u>[New] Ultimate Mic Selection for Online Talent for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/barnes-and-nobles-nightlight-marvel-the-ultimate-review-of-nook-glowlight-n3-for-dark-reading-sessions/"><u>Barnes & Noble's Nightlight Marvel: The Ultimate Review of Nook GlowLight N°3 for Dark Reading Sessions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cross-continental-chatgpt-access-made-easy/"><u>Cross-Continental ChatGPT Access Made Easy</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-user-experience-with-dynamic-data-powered-by-the-advanced-cookiebot-platform/"><u>Enhanced User Experience with Dynamic Data: Powered by the Advanced Cookiebot Platform</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/flip-and-float-instagrams-guide-to-crafting-versatile-visual-content-for-2024/"><u>Flip and Float Instagram's Guide to Crafting Versatile Visual Content for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-installation-package-openness-in-ws11ws10-environments/"><u>Mastering Installation Package Openness in WS11/WS10 Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-fix-excel-notation-on-windows-notepad/"><u>Methods to Fix Excel Notation on Windows Notepad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-the-issue-of-one-channel-playback-with-windows-bluetooth/"><u>Rectifying the Issue of One-Channel Playback with Windows Bluetooth</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sketch-it-up-your-ultimate-guide-to-the-best-drawing-software-on-win10/"><u>Sketch It Up: Your Ultimate Guide to the Best Drawing Software on Win10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-printer-networking-hurdles-in-windows/"><u>Unraveling Printer Networking Hurdles in Windows</u></a></li>
-<li><a href="https://win-forum.techidaily.com/wmv-vers-avi-service-gratuit-et-facile-dutilisation-chez-convertio-video-online/"><u>WMV Vers AVI : Service Gratuit Et Facile D'utilisation Chez Convertio Video Online</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-revolutionize-online-transmission-essential-browsers-screen-capture-vendors-for-2024/"><u>[New] Revolutionize Online Transmission Essential Browsers' Screen Capture Vendors for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-filter-mastery-essential-skills/"><u>[Updated] 2024 Approved Instagram Filter Mastery - Essential Skills</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-quintessential-5-filters-for-depth-video/"><u>[Updated] In 2024, Quintessential 5 Filters for Depth Video</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-laptop-gadget-every-tech-aficionado-must-own-for-ultimate-cooling-performance-insights/"><u>Essential Laptop Gadget Every Tech Aficionado Must Own For Ultimate Cooling Performance - Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-can-you-determine-if-you-are-being-tracked-by-a-tiny-invisible-tracker/"><u>How Can You Determine if You Are Being Tracked by a Tiny, Invisible Tracker?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reinstate-taskbar-icon-banners/"><u>How to Reinstate Taskbar Icon Banners</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-honor-magic-5-lite-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Honor Magic 5 Lite? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-spotifys-connection-realms-a-win11-guide/"><u>Mastering Spotify's Connection Realms: A Win11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-nvidia-cp-access-denied-in-ws1110/"><u>Overcoming Nvidia CP Access Denied in WS11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconnecting-lost-razer-devices-with-synapse-in-windows-11/"><u>Reconnecting Lost Razer Devices with Synapse in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-overcoming-missing-items-problem-in-windows-11/"><u>Strategies for Overcoming 'Missing Items' Problem in Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-tier-windows-10-screen-capture-programs-unveiled/"><u>Top-Tier Windows 10 Screen Capture Programs Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-steam-access-post-captcha-error/"><u>Unlock Steam Access Post-CAPTCHA Error</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can’t Delete Temporary Files in Windows? Try These Fixes
-date: 2024-07-29T08:13:20.001Z
-updated: 2024-07-30T08:13:20.001Z
+date: 2025-01-24T01:18:26.306Z
+updated: 2025-01-25T00:04:46.545Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
 
  While temporary files are typically harmless, you may have your own reasons for deleting them. Here are some useful tips that should help remove any stubborn temporary files on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Use the Disk Cleanup Tool
 
 [Windows offers several options for clearing temporary files](http://www.makeuseof.com/windows-11-delete-temporary-files/) on your PC. If you are unable to delete temporary files via the Settings app or File Explorer, try using the Disk Cleanup tool instead.
@@ -36,12 +33,13 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
 5. Under **Files to delete**, use the checkboxes to select the files you want to remove.
 6. Click **OK** to proceed.
 7. Click the **Delete Files** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete Temp Files Using Disk Cleanup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-temp-files-using-disk-cleanup.jpg)
 
  Wait for a few moments until the Disk Cleanup tool clears all the temporary files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use Command Prompt
 
@@ -58,8 +56,9 @@ del /q /f /s %temp%\* && del /s /q C:\Windows\temp\*
  Wait for the above command to run and delete the temporary files.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Empty the SoftwareDistribution Folder
 
  Windows saves all the downloaded update files in the SoftwareDistribution folder before installing them. If a [Windows system update gets stuck](https://www.makeuseof.com/tag/windows-update-stuck/), the OS will not delete the temporary files associated with it.
@@ -74,12 +73,13 @@ del /q /f /s %temp%\* && del /s /q C:\Windows\temp\*
 C:\Windows\SoftwareDistribution\Download
 6. In the File Explorer window, press **Ctrl + A** to select all the files and click the **trash icon** at the top to delete them.
 7. Return to the Services window, right-click on the **Windows Update** service, and select **Start**.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-softwaredistribution-folder.jpg)
 
  If you run into issues while emptying the SoftwareDistribution folder, you can [force delete files in Windows](https://www.makeuseof.com/windows-11-delete-stubborn-files/) using Command Prompt or a third-party tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Edit Registry Files
 
@@ -94,21 +94,23 @@ C:\Windows\SoftwareDistribution\Download
 5. In the right pane, double-click the **LastAccess** key.
 6. Enter **0** in the Value data field.
 7. Click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Edit DWORD in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-dword-in-registry.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your PC after this and try to delete temporary files once again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Boot Into Safe Mode
 
  It's possible that a third-party program or background service is preventing Windows from erasing temporary files on your system. Booting your PC in safe mode can help you avoid any interference, as Windows will only run with essential drivers and services.
 
  Use one of the many ways to [boot into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) and try to delete temporary files one more time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Rid of Temporary Files on Windows
 
@@ -118,11 +120,33 @@ C:\Windows\SoftwareDistribution\Download
 
  While temporary files are typically harmless, you may have your own reasons for deleting them. Here are some useful tips that should help remove any stubborn temporary files on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-essentials-of-drafting-engaging-vlogger-speeches-for-2024/"><u>[Updated] Essentials of Drafting Engaging Vlogger Speeches for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-exceptional-sound-value-for-aspiring-asmr-artists/"><u>2024 Approved Exceptional Sound Value for Aspiring ASMR Artists</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-leverage-longer-vids-on-instagram-effectively/"><u>2024 Approved How to Leverage Longer Vids on Instagram Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/debugging-code-0xc0000142-on-windows-oses/"><u>Debugging Code 0XC0000142 on Windows OSes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210630768-9783986537524-dark-persuasion/"><u>DАRK PЕRSUАSION | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-system-performance-with-clean-media-consumption/"><u>Enhancing System Performance with Clean Media Consumption</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-for-windows-11s-software-distro-and-catroot2-restart/"><u>Essential Steps for Windows 11'S Software Distro and Catroot2 Restart</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-memory-allocation-by-antivirus-software/"><u>Fine-Tuning Memory Allocation by Antivirus Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/flvswfweb-movavi/"><u>FLVからSWFへの完全無償Web動画変換 - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/growth-tactics-for-windows-storage-preserve-information/"><u>Growth Tactics for Windows Storage, Preserve Information</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-breaking-down-discords-report-mechanism-for-clarity-and-action/"><u>In 2024, Breaking Down Discord’s Report Mechanism for Clarity and Action</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-revitalize-your-reels-selecting-the-best-5-enhancers/"><u>In 2024, Revitalize Your Reels Selecting the Best 5 Enhancers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/master-the-mind-discovering-elite-game-rooms/"><u>Master the Mind Discovering Elite Game Rooms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterclass-on-customizing-programs-for-windows-11-users/"><u>Masterclass on Customizing Programs for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-pubg-restoring-saving-settings-in-windows-systems/"><u>Mastering PUBG: Restoring Saving Settings in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-reopening-calendars-and-mail/"><u>Mastering the Art of Reopening Calendars and Mail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-resource-usage-settings-in-the-windows-subsystem/"><u>Navigating Resource Usage Settings in the Windows Subsystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11s-start-menu-uncluttered-by-ads/"><u>Win 11'S Start Menu - Uncluttered by Ads</u></a></li>
+</ul></div>
+

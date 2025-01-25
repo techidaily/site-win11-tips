@@ -1,7 +1,7 @@
 ---
 title: "Blue Screen Errors: Finding Their Windows Footprint"
-date: 2024-08-08T10:53:53.506Z
-updated: 2024-08-09T10:53:53.506Z
+date: 2025-01-20T18:05:10.844Z
+updated: 2025-01-24T17:09:18.946Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,14 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 
  In this guide, we will first discuss where are the BSOD files located in Windows and then how to identify them. Once you have located a BSOD file, we will show you how to read it properly to understand the potential causes of the error and resolve the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where Are the BSOD Log Files Located in Windows?
 
  You can find the BSOD log files in the Event Viewer, Control Panel, and Registry Editor in Windows. Below, we have listed the detailed steps for finding these files in all three of these utilities.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Find and Read the BSOD Log Files in the Event Viewer
 
  The Event Viewer is a tool developed by Microsoft for users to view system and program-related events in Windows. These events can include system errors, warnings, informational messages, and more. In other words, every issue you encounter (whether a minor glitch or a major crash) will be logged in the Event Viewer for later investigation and sharing with Microsoft.
@@ -36,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
  Here is how you can find the BSOD log files in the Event Viewer:
 
 1. Right-click on the Windows icon in the taskbar and choose **Event Viewer** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Choose Event Viewer in the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/event-viewer.jpg)
 2. Head over to the **Action** menu located at the top, and choose **Create Custom View** from the context menu.  
 ![Create a custom view in the Event viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/create-custom-view.jpg)
@@ -47,18 +45,17 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 4. Now, move to the Event Level section and choose **Error**.  
 ![Event level of the error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/error-event-level.jpg)
 5. Expand the dropdown for **Event Logs** and checkmark the box for **Windows Logs**.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Choose Windows logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-logs.jpg)
 
 1. Click **OK** to proceed.
 2. You will now be prompted to enter a name and description for the custom view you just created. Enter these details and click **OK**.  
 ![Create a filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/name-event-viewer.jpg)
 3. Once the view is created, you will be presented with a list of errors that occurred during the time frame you selected earlier. You can sort this information further in the Date and time section.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check the Event Viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/event-viewer-11.jpg)
 4. Next, locate the BSOD using details like the date and time again.
 5. Once you find the targeted log, click on it.
@@ -83,18 +80,21 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 6. Choose **New** \> **DWORD (32-bit) Value**.  
 ![Create a new DWORD value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dword-policies.jpg)
 7. Name this value as **DisplayParameters** and double-click on it.
-8. Under Value data, type 1 and click **OK**.  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+8. Under Value data, type 1 and click **OK**.  
 ![Change the Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/value-data-1.jpg)
 9. Once done, restart your PC.
 
  Upon reboot, you should be able to view the log files without any problems.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Find and Read the BSOD Log Files in the Control Panel
 
  The third way of finding and reading the BSOD log files is via the Control Panel. This approach offers a graphical representation of the log files using the Windows Reliability Monitor, unlike the methods we have explored previously.
@@ -109,19 +109,21 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 3. Click on **Maintenance** and then select **View reliability history**.  
 ![Check the reliability history of the system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/view-realability-history.jpg)
 4. You should now see a graph showing the reliability data. Look for red cross icons and blue (i) icons in the graph, as they show problematic events.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Reliability graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/realability-graph.jpg)
 5. Click on each of the icons to view its details. Keep repeating the process to locate the event you are looking for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will be presented with information like the faulting application path, its name, fault module timestamp, exception code, etc. If this app caused a BSOD crash, then you can try ending its process via the Task Manager or uninstalling the app if it is not necessary.
 
  It is also a good idea to copy this information and send it to Microsoft for review if you cannot find a solution online.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Learn How to Read Your BSOD Log Files and Resolve Your Crashes
 
  ​​​​​​Windows blue screen errors are nothing new, but since they only display messages like "Your PC encountered a problem" without describing the cause, it can be difficult to find a fix. Understanding how to read BSOD log files can not only help you identify the exact cause of the problem but also help you find the right solution.
@@ -130,12 +132,28 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 
  In this guide, we will first discuss where are the BSOD files located in Windows and then how to identify them. Once you have located a BSOD file, we will show you how to read it properly to understand the potential causes of the error and resolve the problem.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-mastering-youtube-shorts-templates-a-complete-guide/"><u>[New] 2024 Approved Mastering YouTube Shorts Templates A Complete Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-best-yoga-series-online-stay-active-and-healthy/"><u>[New] In 2024, Best Yoga Series Online - Stay Active & Healthy</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-10-ultimate-webcam-reviews-for-informed-buyers/"><u>[Updated] 10 Ultimate Webcam Reviews for Informed Buyers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-digital-domain-decisions-short-form-content/"><u>[Updated] In 2024, Digital Domain Decisions Short-Form Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-identifying-tech-giants-iphone-x-and-samsungs-face-recognition/"><u>[Updated] In 2024, Identifying Tech Giants IPhone X & Samsung's Face Recognition</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-essential-tactics-for-adding-vimeo-clips-to-powerpoint-slides/"><u>2024 Approved Essential Tactics for Adding Vimeo Clips to PowerPoint Slides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cryptic-file-migration-protecting-data-on-winos-platforms/"><u>Cryptic File Migration: Protecting Data on WinOS Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directx-a-comprehensive-update-and-download-handbook-for-pcs/"><u>DirectX: A Comprehensive Update and Download Handbook for PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-fuzz-to-fine-nine-tactics-for-window-11-visual-perfection/"><u>From Fuzz to Fine: Nine Tactics for Window 11 Visual Perfection</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-a15-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unlock-discord-install-glitches-on-windows-11/"><u>How to Unlock Discord Install Glitches on Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-xiaomi-civi-3-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Xiaomi Civi 3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-hello-fingerprint-scanner-hurdles/"><u>Overcoming Windows Hello Fingerprint Scanner Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-system-call-failure-in-win11/"><u>Strategies for Fixing System Call Failure in Win11</u></a></li>
+</ul></div>
 

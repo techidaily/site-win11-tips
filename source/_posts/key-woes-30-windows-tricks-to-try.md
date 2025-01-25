@@ -1,7 +1,7 @@
 ---
 title: Key Woes? 30 Windows Tricks to Try
-date: 2025-01-11T17:55:41.271Z
-updated: 2025-01-18T17:21:47.197Z
+date: 2025-01-20T01:03:25.124Z
+updated: 2025-01-24T21:38:54.579Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart Your Computer
@@ -47,10 +47,14 @@ msdt.exe -id DeviceDiagnostic
 3. The Hardware and Devices Troubleshooter will now open. Click**Next** to start the scan process, and follow the instructions on the screen.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you complete the above steps, restart your computer and check if the arrow keys are now working.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run the Keyboard Troubleshooter
@@ -61,6 +65,10 @@ msdt.exe -id DeviceDiagnostic
 2. In the Settings menu, click**System > Troubleshoot > Other troubleshooters** .
 3. Scroll down to the**Keyboard** section and click**Run** .  
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the process and then check if it solves the issue. If not, continue to the next solution.
 
@@ -81,14 +89,10 @@ msdt.exe -id DeviceDiagnostic
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 5. Choose**Search automatically for drivers** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait until the process is complete, then restart your computer. After the restart, check if the arrow keys are now working. If not, reinstall the keyboard driver and see if it works.
@@ -99,10 +103,6 @@ To reinstall the keyboard driver, follow these steps:
 2. When a popup menu appears, click**Uninstall** to confirm.
 
  After you uninstall it, restart your computer and the driver will be reinstalled automatically. Once your computer restarts, check if the arrow keys are now working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Arrows on the Keyboard Are Now Working
 
@@ -123,24 +123,21 @@ To reinstall the keyboard driver, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-decoding-youtube-income-how-much-does-each-1000-viewer-earn-in-2024/"><u>[New] Decoding YouTube Income How Much Does Each 1,000 Viewer Earn, In 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-a-deep-dive-into-an-individuals-3dr-experience-for-2024/"><u>[Updated] A Deep Dive Into an Individual's '3DR' Experience for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-monitor-mastery-understanding-the-benefits-of-ultrawide-vs-uhd-4k/"><u>[Updated] Monitor Mastery Understanding the Benefits of UltraWide vs UHD 4K</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/build-your-mark-affordable-logo-creation-with-tailored-templates/"><u>Build Your Mark Affordable Logo Creation with Tailored Templates</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-speaker-malfunctions-on-a-windows-10-machine/"><u>Diagnosing and Repairing Speaker Malfunctions on a Windows 10 Machine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicate-entryways-four-slick-steps-to-disable-a-user-on-win11/"><u>Eradicate Entryways: Four Slick Steps to Disable a User on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-data-recovery-offer-immediate-access-and-assurance/"><u>Exclusive Data Recovery Offer: Immediate Access & Assurance</u></a></li>
-<li><a href="https://common-error.techidaily.com/geforce-experience-wont-launch-heres-how-you-can-get-it-working-again/"><u>GeForce Experience Won't Launch? Here’s How You Can Get It Working Again!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-make-the-taskbar-bigger-or-smaller-on-windows-11/"><u>How to Make the Taskbar Bigger or Smaller on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-nokia-c300-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Nokia C300</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/how-to-tell-fake-instagram-followers-fast-and-free/"><u>How to Tell Fake Instagram Followers (Fast and Free)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launching-driver-verifier-via-control-panel-on-w11/"><u>Launching Driver Verifier via Control Panel on W11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-malfunctioning-huion-pen-fast-and-easy-fixes/"><u>Revive Your Malfunctioning Huion Pen: Fast and Easy Fixes!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-tasks-with-mspcm-toolbar-in-windows-11/"><u>Streamlining Tasks with MSPCM Toolbar in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-non-microsoft-tools-for-immediate-and-accurate-screen-sniping/"><u>Top Non-Microsoft Tools For Immediate and Accurate Screen Sniping</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-correcting-the-windows-cannot-install-service-packs-problem-in-windows-10-error-0x800705b4/"><u>Troubleshooting Tips: Correcting the 'Windows Cannot Install Service Packs' Problem in Windows 10 (Error 0X800705b4)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-service-management-on-windows-11/"><u>Unlock the Full Potential of Service Management on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/update-windows-11-admin-credentials-quickly/"><u>Update Windows 11 Admin Credentials Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-strategies-for-outlook-malfunctions/"><u>Winning Strategies for Outlook Malfunctions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-thriving-in-the-instagram-economy-a-guide-to-financially-sustaining-content-creation/"><u>[New] 2024 Approved Thriving in the Instagram Economy A Guide to Financially Sustaining Content Creation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-a-beginners-pathway-to-innovative-snapchat-expressions/"><u>[New] A Beginner's Pathway to Innovative Snapchat Expressions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-essential-strategies-for-spotify-advertising-success/"><u>[Updated] In 2024, Essential Strategies for Spotify Advertising Success</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-step-by-step-mastering-ppros-full-screen-preview/"><u>[Updated] In 2024, Step-by-Step Mastering PPro's Full Screen Preview</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-photography-with-quantum-hdr-tech/"><u>2024 Approved Pioneering Photography with Quantum HDR Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smilesliceart-funnyphotofacility/"><u>2024 Approved SmileSliceArt FunnyPhotoFacility</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-re-establish-steam-online-status-in-windows/"><u>How to Re-Establish Steam Online Status in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-win11-to-elevated-privileged-powershell-state/"><u>Navigate Win11 to Elevated Privileged PowerShell State</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-split-your-screen-double-the-fun-top-video-apps-for-mobile/"><u>New Split Your Screen, Double the Fun Top Video Apps for Mobile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-0x80070194-issues-on-onedrive-windows/"><u>Overcoming 0X80070194 Issues on OneDrive Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reignite-your-bluetooth-mouse-life-on-windows-1087/"><u>Reignite Your Bluetooth Mouse Life on Windows 10/8/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-device-stall-error-0x887a0006/"><u>Steps to Resolve Windows Device Stall Error 0X887A0006</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-disk-formatting-required-error-on-windows/"><u>Troubleshooting Disk Formatting Required Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-creativity-embedding-personalized-weather-icons-on-taskbar/"><u>Unleash Creativity: Embedding Personalized Weather Icons on Taskbar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-tackling-non-appearing-headphones-issue-in-sound-settings/"><u>Windows Tackling Non-Appearing Headphones Issue in Sound Settings</u></a></li>
 </ul></div>
 

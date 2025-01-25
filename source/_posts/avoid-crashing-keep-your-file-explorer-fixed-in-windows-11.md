@@ -1,7 +1,7 @@
 ---
 title: "Avoid Crashing: Keep Your File Explorer Fixed in Windows 11"
-date: 2024-08-08T10:54:11.726Z
-updated: 2024-08-09T10:54:11.726Z
+date: 2025-01-23T16:47:06.469Z
+updated: 2025-01-24T17:04:08.850Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 
  Frequent File Explorer crashes can disrupt your workflow and leave you frustrated. This post will discuss some useful tips to fix File Explorer crashes in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart the Windows Explorer Process
 
  Windows Explorer is a system process that provides the graphical interface for several utilities like File Explorer, taskbar, Start menu, and more. Temporary issues with the Windows Explorer process can sometimes cause File Explorer to close unexpectedly on Windows. Instead of rebooting the system entirely, you can simply restart the Windows Explorer process to fix issues with it. Here are the steps for the same.
@@ -30,20 +34,22 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 
  Your taskbar will disappear for a split second before reappearing, indicating the Windows Explorer process has rebooted. After that, File Explorer should work fine on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Clear File Explorer Cache
 
  File Explorer, like any other program, accumulates cache data to improve its performance. However, when this data becomes outdated or corrupt, it can lead to a variety of issues, including the one discussed here. You can try getting rid of the existing File Explorer cache to see if that helps. To do so, use these steps:
 
 1. Open the**Start menu** , search for**file explorer options** , and select the first result that appears.
 2. Under the**General** tab, click the**Clear** button next to**Clear File Explorer history** .  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Configure File Explorer Options
 
 [Issues with Quick Access in Windows 11](https://www.makeuseof.com/windows-11-fix-quick-access-not-showing-recent-files/) can also cause File Explorer to malfunction at times. If that's the case, you can configure File Explorer to open on This PC page to resolve the issue. Here are the steps you can follow.
@@ -52,17 +58,15 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 2. Click the**three-dot menu** icon at the top and select**Options** .
 3. In the**Folder Options** window, click the drop down menu next to**Open File Explorer to** and select**This PC** .
 4. Hit**Apply** followed by**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Configure File Explorer to Open to This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-file-explorer-to-open-to-this-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 4\. Disable Your Antivirus Program
 
  It’s always a good idea to protect your system with an antivirus program. However, not all antivirus programs are equally reliable. It’s possible that your third-party antivirus program is conflicting with File Explorer processes, resulting in abrupt crashes. To check for this possibility, you can temporarily disable your antivirus program by clicking its icon on the taskbar and selecting**Disable > Disable until the next restart** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Launch Folder Windows in a Separate Process
 
@@ -75,21 +79,19 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 5. Hit**Apply** followed by**OK** .  
 ![Launch Folder Windows in a Separate Process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/launch-folder-windows-in-a-separate-process.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Run the Windows Memory Diagnostic Tool
 
  You are likely to experience such File Explorer crashes if there is an issue with your PC’s RAM. Fortunately, Windows includes a useful Memory Diagnostic tool that can examine your RAM for any potential errors. Running the tool requires a system restart, so be sure to save all your work beforehand.
 
  Press**Win + R** to open the Run dialog box. Type**mdsched** in the box and press**Enter** . Click**Restart now and check for problems** in the Windows Memory Diagnostic window.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run Windows Memory Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-windows-memory-diagnostic-tool.jpg)
 
  Wait for the Windows Memory Diagnostic tool to scan your PC's RAM for errors. If it discovers any issues, take appropriate steps to troubleshoot those problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Troubleshoot in Clean Boot Mode
 
@@ -106,23 +108,17 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 * **Clear Temporary Files:** Having an excessive number of temporary files on your PC can have a negative impact on your system's performance. Hence, it’s a good idea to [delete temporary files in Windows 11](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
 * **Install Windows Updates:** Such issues can also occur due to a buggy or outdated Windows build. You can try [installing all the pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) and see if that solves your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Use File Explorer Again Without Any Interruptions
 
  So, this is how you can stop File Explorer from crashing on your Windows computer. In most cases, temporary glitches or an outdated File Explorer cache are the main culprits behind the issue. If not, you may have to resort to the other methods mentioned above to resolve the underlying issue.
 
  Not a fan of the default File Explorer in Windows 11? There are plenty of File Explorer alternatives worth trying out.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,6 +127,18 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-add-divine-chant-to-smartphone-notifications/"><u>[New] How to Add Divine Chant to Smartphone Notifications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-comprehensive-guide-to-legally-sharing-music-on-instagram/"><u>[New] The Comprehensive Guide to Legally Sharing Music on Instagram</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/evaluating-the-value-have-apples-2022-airpods-pro-held-up-over-time-insights-for-consumers-techreview/"><u>Evaluating the Value: Have Apple's 2022 AirPods Pro Held Up Over Time? Insights for Consumers - TechReview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-error-code-0xc0000001-in-windows/"><u>How To Address Error Code 0XC0000001 in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-microsoft-code-companion-into-your-workflow/"><u>Integrating Microsoft Code Companion Into Your Workflow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nearby-sharing-evaluation-google-versus-windows-protocol/"><u>Nearby Sharing Evaluation: Google Versus Windows Protocol</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triumphant-tech-reclamation-the-three-step-windows-fixes/"><u>Triumphant Tech Reclamation: The Three-Step Windows Fixes</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/wie-sie-ihr-tiktok-profil-wiederherstellen-konnen-ohne-dass-ein-benutzername-und-eine-e-mail-erforderlich-sind/"><u>Wie Sie Ihr TikTok Profil Wiederherstellen Können, Ohne Dass Ein Benutzername Und Eine E-Mail Erforderlich Sind?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-boot-struggles-here-are-5-secure-boot-remedies/"><u>Windows Boot Struggles? Here Are 5 Secure Boot Remedies</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beginning the Media Playback: Windows Media Player"
-date: 2024-08-08T10:54:33.662Z
-updated: 2024-08-09T10:54:33.662Z
+date: 2025-01-21T22:55:53.301Z
+updated: 2025-01-24T18:04:24.878Z
 tags:
   - windows10
   - windows11
@@ -18,22 +18,20 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
 
  If you're looking for an easy way to play and manage your media files in Windows 11, then Windows Media Player is what you need. It's a free built-in application that allows you to quickly access your audio, video, and photo files with just a few clicks. In this article, we'll show you how to open Windows Media Player in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Open Windows Media Player Using Search Tool
 
  If you're seeking information about how to open Windows Media Player on your computer, the Windows Search tool is a good place to start. To open Windows Media Player using the search tool, do the following:
 
 1. Press**Win + Q** on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Windows Media Player Using Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-search-tool.jpg)
 2. From here, type “**Windows Media Player Legacy** ” into the search bar.
 
  Upon doing this, you will see a list of related results; clicking on this will then open Windows Media Player automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## 2\. How to Open Windows Media Player Using Run Dialog Box
 
  The Run dialog box is one of the most useful tools on Windows. It's a quick and easy way to access frequently used programs and files without having to search through your computer's file system.
@@ -45,9 +43,6 @@ To open Windows Media Player using the Run command, do the following:
 
  That's it. This is how you can open Windows Media Player on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## 3\. How to Open Windows Media Player Via Task Manager
 
  Task Manager is a powerful Windows tool you can use to manage your computer's resources as well as close unresponsive programs, but it isn't limited to this. You can also use it to open applications, such as Windows Media Player, quickly and easily.
@@ -60,6 +55,10 @@ To open Windows Media Player using Task Manager, follow these steps:
 ![Open Windows Media Player Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-task-manager.jpg)
 4. Now in the text box, type**wmplayer.exe** and press Enter on your keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will open up Media Player, so you can enjoy all your media files without any trouble!
 
 ## 4\. How to Open Windows Media Player From File Explorer
@@ -70,8 +69,9 @@ To open Windows Media Player using Task Manager, follow these steps:
 2. From there, go to the address bar, type**wmplayer.exe** , and hit**Enter** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. How to Open Windows Media Player With the Start Menu
 
  The Start menu works as a central hub on your computer from where you can access the files and programs you have installed. To open Windows Media Player from the Start Menu, follow these steps:
@@ -83,8 +83,9 @@ To open Windows Media Player using Task Manager, follow these steps:
 4. Double-click**Windows Media Player Legacy** on the next page.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. How to Open Windows Media Player Using Control Panel
 
  The Control Panel is a feature on Windows that allows you to access and manage system settings easily. With the help of this tool, you can access almost any application you have installed.
@@ -97,9 +98,6 @@ To open Windows Media Player using Task Manager, follow these steps:
 ![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
 4. Now double-click**Windows Media Player Legacy** to launch the tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. How to Open Windows Media Player With a Desktop Shortcut
 
  Creating a desktop shortcut for Windows Media Player is one of the most convenient and efficient ways to start playing audio and video files. This can be very useful if you frequently open the Windows Media Player application on your computer. This way, you can quickly access the application without having to search your hard drive or a search engine.
@@ -107,11 +105,13 @@ To open Windows Media Player using Task Manager, follow these steps:
  To open Windows Media Player from a desktop shortcut, you must first create its shortcut. Here's how to do it.
 
 1. Right-click on your desktop area and select**New > Shortcut** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Create Desktop Shortcut of Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-desktop-shortcut-of-windows-media-player.jpg)
 2. In the text box, type the following path and click**Next** or press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 3. Give the shortcut a name and click**Finish** .
 
@@ -141,14 +141,11 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 
  After reading this article, you should now be familiar with nine different ways that you can use to open Windows Media Player on your Windows operating system. Try them out and choose the one that works for you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,6 +154,20 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-your-videography-youtube-enhancements-explained/"><u>[New] 2024 Approved Elevating Your Videography YouTube Enhancements Explained</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-steps-to-fame-8-free-courses-for-youtube-novices/"><u>[Updated] 2024 Approved First Steps to Fame 8 Free Courses for YouTube Novices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breakthrough-the-top-8-web-based-photo-blender/"><u>[Updated] Breakthrough The Top 8 Web-Based Photo Blender</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-luxe-setup-agg814-studio-kit-overview/"><u>Discover Luxe Setup: AGG814 Studio Kit Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-lock-and-unlock-the-function-fn-key-in-windows/"><u>How to Lock and Unlock the Function (Fn) Key in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-chrome-from-generating-new-tabs-on-windows/"><u>How to Stop Chrome From Generating New Tabs on Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-nubia-red-magic-8s-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Nubia Red Magic 8S Pro FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-mouse-access-in-win11-easy-way/"><u>Personalize Mouse Access in Win11 Easy Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-windows-display-3-streamlined-steps/"><u>Revive Windows Display: 3 Streamlined Steps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/swipe-right-on-virality-blend-tiktok-trends-into-insta-reels/"><u>Swipe Right on Virality Blend TikTok Trends Into Insta Reels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-disconnecting-your-onedrive-and-microsoft-profile/"><u>Techniques for Disconnecting Your OneDrive & Microsoft Profile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unreachable-settings-issue-with-nvidia-experience/"><u>Troubleshooting Unreachable Settings Issue with NVIDIA Experience</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-10-video-rotation-tools-for-seamless-playback-for-2024/"><u>Updated Top 10 Video Rotation Tools for Seamless Playback for 2024</u></a></li>
+</ul></div>
 

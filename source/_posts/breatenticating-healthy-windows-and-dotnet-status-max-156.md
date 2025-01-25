@@ -1,7 +1,7 @@
 ---
 title: Breatenticating Healthy Windows & DotNet Status (Max 156)
-date: 2024-07-29T08:13:01.907Z
-updated: 2024-07-30T08:13:01.907Z
+date: 2025-01-23T23:52:24.034Z
+updated: 2025-01-24T17:43:51.337Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 
 ## 1\. Run the .NET Framework Repair Tool
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![microsoft dot net framework repair tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microsoft-dot-net-framework-repair-tool.jpg)
 
  An easy way to repair your .NET Framework is to use the official .NET Framework Repair Tool provided by Microsoft on its official website. It is a handy utility that can check for common issues affecting the .NET Framework setup or updates and recommend fixes accordingly.
@@ -54,6 +51,10 @@ To run the .NET Framework Repair Tool
 6. Click**OK** .  
 ![turn windows features on or off disable NET framework 3_5 4_8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-disable-net-framework-3_5-4_8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will disable**.NET Framework** from your PC and show**Windows completed the requested changes** message. Click**Restart Now** to apply the changes.
 
 After the restart:
@@ -61,17 +62,19 @@ After the restart:
 1. Open Control Panel and click on**Turn Windows Features On or Off.**
 2. Select both the**.NET Framework 3.5** and**.NET Framework 4.8 Advanced Services** options.
 3. Click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![turn windows features on or off enable NET framework 3_5 4_8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-enable-net-framework-3_5-4_8.jpg)
 4. Next, click on**Let Windows update download the files for you** . This process may take some time, depending on your Internet connection speed.  
 ![turn windows features on or off enable NET framework 3_5 4_8 let windows update download files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-enable-net-framework-3_5-4_8-let-windows-update-download-files.jpg)
 5. Once the feature is enabled, click**Restart** to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. How to Repair .NET Framework Using PowerShell
 
  If the issue persists, try reinstalling .NET Framework on your Windows PC using[PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . You can use the shell application to perform a clean install of the .NET Framework and other associated tools. Here’s how to do it.
@@ -81,13 +84,13 @@ After the restart:
 3. In the PowerShell window, type the following cmdlet and press**Enter** :  
 `Get-Package -Name &ldquo;Microsoft .Net*&rdquo; | Uninstall-Package`
 4. PowerShell may prompt you to install**NuGet** – a packet manager necessary to perform this action. So, type**Y** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![uninstall dot net framework powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/uninstall-dot-net-framework-powershell.jpg)
 5. PowerShell will now start to uninstall the .NET Framework from your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![install microsoft dot net framework powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-microsoft-dot-net-framework-powershell.jpg)
 6. Next, type the following command to install the latest version of Microsoft .NET Framework:  
 `winget install Microsoft.dotNetFramework`
@@ -95,8 +98,9 @@ The powerful video editing program for your Windows PC</a>
 8. Restart your PC to apply the changes and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Manually Install an Older .NET Framework Version
 
  You can install only the latest version of .NET Framework using PowerShell. However, an app may sometimes require an older version of the .NET Framework to work. If reinstalling from the Optional Features dialog didn't help, you can manually install the framework from the .NET Framework download page.
@@ -112,9 +116,6 @@ To manually install older versions of the .NET Framework:
 
 ## 5\. Run the System File Checker Tool
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run system file check dism windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-system-file-check-dism-windows-11.jpeg)
 
  The System File Checker tool is a built-in system repair utility that finds and fixes missing or corrupted system files. You can use the tool to fix any system issues that may conflict with the .NET Framework.
@@ -131,21 +132,15 @@ To run the System File Checker tool:
 
  The SFC tool will now scan your system files for issues and replace any corrupted files as necessary. Wait for the verification process to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Many Ways to Repair .NET Framework on Windows
 
  The .NET framework in the Windows operating system is required to run some critical applications. When it runs into an error, some apps may ask you to install a specific version of .NET Framework to continue using the app. If you think you have the required version of .NET Framework installed, performing a repair can help you fix any .NET framework issues.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +149,18 @@ To run the System File Checker tool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-switching-onoff-comment-functionality-on-youtube/"><u>[New] Switching On/Off Comment Functionality on YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-how-to-add-subtitles-to-windows-media-player/"><u>2024 Approved How to Add Subtitles to Windows Media Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-unauthorized-file-savings-in-microsoft-os/"><u>Correcting Unauthorized File Savings in Microsoft OS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-a-compreomed-approach-for-making-tiktok-songs-your-ringtone/"><u>In 2024, A Compreomed Approach for Making TikTok Songs Your Ringtone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-12-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 12 Lock Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-ways-to-optimize-windows-11s-taskbar/"><u>Innovative Ways to Optimize Windows 11'S Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-download-velocity-within-microsofts-app-hub/"><u>Maximizing Download Velocity Within Microsoft’s App Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-of-windows-high-dpi-settings/"><u>Navigating the Maze of Windows High-DPI Settings</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/phrase-perfection-a-complete-guide-to-uk-speech/"><u>Phrase Perfection: A Complete Guide to UK Speech</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/seamless-streams-addressing-instagrams-video-snags/"><u>Seamless Streams Addressing Instagram's Video Snags</u></a></li>
+</ul></div>
 

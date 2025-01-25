@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11'S Security: Controlling Folder Permissions"
-date: 2025-01-15T16:10:31.967Z
-updated: 2025-01-18T17:22:59.761Z
+date: 2025-01-21T00:26:44.779Z
+updated: 2025-01-25T00:28:20.705Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn On Controlled Folder Access in Windows Security
 
  The Controlled folder access setting is buried within ransomware protection in the Windows Security app. However, it’s easy to find and turn that option on/off when you know where it is. This is how to turn on the Windows Security’s app Controlled folder access option.
@@ -35,19 +39,19 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 3. Click**Manage ransomware protection** to reach the**Controlled folder access** setting.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Controlled folder access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access.jpg)
 4. Now turn on the**Controlled folder access** option to enable that feature.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Controlled folder access protects your Documents, Videos, Pictures, and Music user folders when enabled. To view the list of protected user directories, click**Protected folder** . You can add more to the list by clicking the**Add protected folder** button, choosing a directory, and clicking**Select Folder** .
 
 ![The Add a protected folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-a-protected-folder-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn on Controlled Folder Access With PowerShell
 
@@ -75,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/computer-configuration-in-group-policy-editor.jpg)
 4. Double-click**Windows Components** to expand it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click the arrows for expanding**Microsoft Defender Antivirus** and**Microsoft Defender Exploit Guard** .
 
 1. Select**Controlled Folder Access** to view policy settings for that feature.
@@ -82,19 +90,15 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 ![The Controlled Folder Access policy in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access-in-group-policy-editor.jpg)
 3. Select the Configure Controlled folder access window’s**Enabled** radio button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Block** on the drop-down menu to select the strictest CFA mode. However, you can also select alternative**Audit Mode** ,**Block disk notification only** , and**Audit disk notification only** options for enabling controlled folder access.  
 ![The Configure the guard my folders feature drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/configure-controlled-folder-access.jpg)
 5. Select**Apply** in the Configure Controlled folder access window.
 
-6. Click the Configure Controlled folder access window’s**OK** button.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Click the Configure Controlled folder access window’s**OK** button.
 
 ## How to Turn on Controlled Folder Access From the Windows Context Menu
 
@@ -171,10 +175,6 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 ![The Delete key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-option-for-registry-key.jpg)
 4. Click**Yes** to erase that key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Set Controlled Folder Access Exceptions
 
  The problem with controlled folder access is that it can stop legitimate apps from accessing required files when they need to. That can be an especially big issue for Windows gaming since untrusted games often can’t save progress with controlled folder access enabled. In-game settings can also reset when that feature is turned on.
@@ -187,17 +187,17 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 ![The Add an allowed app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-an-allowed-app.jpg)
 4. Click**Browse all** **apps** on the menu that appears.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Browse all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-all-apps-option.jpg)
 5. Select the EXE (application) file for a game or other software you want to exclude from controlled folder access.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click**Open** to add the selected game or software.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable Controlled Folder Access for Greater Ransomware Protection
@@ -219,18 +219,20 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-mastering-the-moment-detailed-analysis-of-slomo-2024/"><u>[New] Mastering the Moment Detailed Analysis of SloMo, 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-top-3-hd-film-scrapers-on-fb/"><u>[Updated] 2024 Approved Top 3 HD Film Scrapers on Fb</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expedite-visuals-drawing-and-enhancing-with-windows-photos-app/"><u>2024 Approved Expedite Visuals Drawing & Enhancing with Windows Photos App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/aiffmp3-movavi-mp3/"><u>網路移動中的無限 AIFF至MP3 轉換 - 使用 Movavi 進行 MP3 音頻優化</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-m4r/"><u>線上靈活音樂格式轉換 - Movavi M4R自由版本</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convert-mp3-to-wav-files-free-lossless-audio-conversion-with-movavi/"><u>Convert MP3 to WAV Files Free - Lossless Audio Conversion with Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-nubia-red-magic-8s-proplus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Nubia Red Magic 8S Pro+ to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-key-insights-on-market-research-for-effective-business-decisions/"><u>In 2024, Key Insights on Market Research for Effective Business Decisions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-filming-with-simulated-environments-a-five-point-guide-by-movavi/"><u>Mastering the Art of Filming with Simulated Environments: A Five-Point Guide by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-offline-gratis-scambia-il-tuo-video-in-pdf-o-html-con-il-convertitore-di-file-online-gratuito/"><u>Movavi OFFLINE GRATIS: Scambia Il Tuo Video in PDF O HTML Con Il Convertitore Di File Online Gratuito</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-the-unknown-understanding-shadowbanning/"><u>Navigating the Unknown: Understanding Shadowbanning</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-storage-management-4-keyways-into-windows-11-disk-settings/"><u>Optimize Storage Management: 4 Keyways Into Windows 11 Disk Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-15-innovadoras-tecnicas-para-crear-collage-de-fotografias-con-eficacia-guia-de-movavi/"><u>Top 15 Innovadoras Técnicas Para Crear Collage De Fotografías Con Eficacia - Guía De Movavi</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-cheerful-account-creation-handbook/"><u>[New] Cheerful Account Creation Handbook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-choosing-pro-stream-vmix-vs-wirecast-battle/"><u>[Updated] In 2024, Choosing Pro Stream VMix Vs. Wirecast Battle</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-navigating-social-platforms-adopting-a-winning-strategy-on-tiktok/"><u>[Updated] Navigating Social Platforms Adopting a Winning Strategy on TikTok</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-fongo-top-canadian-voip-provider/"><u>Comprehensive Analysis of Fongo - Top Canadian VOIP Provider</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-the-win11-bluescreen-error-with-top-11-remedies/"><u>Conquer the Win11 Bluescreen Error with Top 11 Remedies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-browser-to-desktop-turning-sites-into-win-programs/"><u>From Browser to Desktop: Turning Sites Into Win Programs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-discovering-charismatic-faces-on-your-snaps/"><u>In 2024, Discovering Charismatic Faces on Your Snaps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-swift-periscope-broadcasts/"><u>In 2024, Mastering the Art of Swift Periscope Broadcasts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-outstanding-asmr-audio-experience-for-minimal-spending/"><u>In 2024, Outstanding ASMR Audio Experience for Minimal Spending</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-guide-efficiently-compress-files-on-windows-using-yl-software/"><u>Step-by-Step Guide: Efficiently Compress Files on Windows Using YL Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-opengl-driver-failure-in-windows-11/"><u>Steps to Rectify OpenGL Driver Failure in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-installing-virtualization-platform-hyper-v-on-w11-home/"><u>The Ultimate Guide to Installing Virtualization Platform Hyper-V on W11 Home</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-reclaiming-absent-pane-windows-6-ways/"><u>Win11 – Reclaiming Absent Pane Windows (6 Ways)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/window-world-wonders-per-screen-themes-for-multitaskers-on-windows/"><u>Window World Wonders: Per Screen Themes for Multitaskers on Windows</u></a></li>
 </ul></div>
 

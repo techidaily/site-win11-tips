@@ -1,7 +1,7 @@
 ---
 title: Capturing Sound in Win 11 Step-by-Step
-date: 2024-07-29T08:10:39.121Z
-updated: 2024-07-30T08:10:39.121Z
+date: 2025-01-19T01:23:41.473Z
+updated: 2025-01-24T18:46:47.708Z
 tags:
   - windows10
   - windows11
@@ -20,17 +20,14 @@ thumbnail: https://thmb.techidaily.com/d10871bf9176c5cb0128f25d3d2d16f8b628e764c
 
  Here, we show you steps for recording audio on your Windows 11 PC using both native and third-party apps.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## How to Record Audio With Your Microphone on Windows 11
 
  There are a couple of different ways you can go about recording your audio in Windows 11\. You can either use the built-in Sound Recorder app or a [third-party app like Audacity to record audio](https://www.makeuseof.com/tag/6-awesome-alternatives-to-audacity-for-recording-and-editing-audio/) using your PC’s microphone. Here's how.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Record Your Audio Using the Sound Recorder App
 
  The Sound Recorder app is simple to use and can record audio in a variety of popular formats, including MP3, M4A, WAV, FLAC, and WMA. Open the Sound Recorder app from the search menu and select your preferred audio input device using the drop-down menu in the bottom left corner.
@@ -44,8 +41,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Sound Recorder App Settings on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sound-recorder-app-settings-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Record Your Audio Using the Audacity App
 
  While the built-in Sound Recorder app from Microsoft gets the job done, it does not have many features. If you are looking for a more feature-rich audio recording app, you can download and use Audacity. It is a free app that can help you create and edit professional-quality audio recordings on your Windows computer.
@@ -54,11 +52,16 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Use the Audacity App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-the-audacity-app-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In addition to recording audio, Audacity also allows you to combine multiple tracks, [remove background noise from recordings](https://www.makeuseof.com/tag/remove-ambient-noise-audio-files-audacity/), delete vocals from music, and do a lot more. To learn more, check our dedicated guide on [how to use Audacity to record audio on Windows](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/).
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Record the Sound Coming From Your Windows 11 PC
 
  Do you want to record the sound coming out of your Windows 11 PC? Don't worry, you don't need to hold a microphone up to your computer's speakers, as Windows offers a convenient feature known as Stereo Mix for this purpose.
@@ -71,28 +74,19 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 4. Right-click on **Stereo Mix** and select **Enable**.
 5. Right-click on **Stereo Mix** again and choose **Set as Default Device**.
 6. Hit **Apply** followed by **OK** to save changes.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Set Stereo Mix as Default Device on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/set-stereo-mix-as-default-device-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After completing the above steps, open the Sound Recorder or Audacity app and set Stereo Mix as the default audio input device. Then, play a song, podcast, or lecture on your PC and record it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Easily Record Your Audio on Windows
 
  As we just saw, recording audio on your Windows 11 PC is both quick and easy. The built-in Sound Recorder app is perfect for creating simple recordings like voice memos. But if you need more features, like recording multiple tracks or editing your recordings, it's better to use a third-party app like Audacity.
 
  Here, we show you steps for recording audio on your Windows 11 PC using both native and third-party apps.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -100,3 +94,19 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-photo-editing-canvas-backdrop-eradication/"><u>[Updated] Advanced Photo Editing Canvas Backdrop Eradication</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-simplify-your-marine-movie-projects-top-7-hacks/"><u>[Updated] Simplify Your Marine Movie Projects Top 7 Hacks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/breaking-down-the-latest-from-apples-let-loose-features-of-the-m4-ipad-pro-13-inch-ipad-air-and-apple-pencil-pro-insights-by-zdnet/"><u>Breaking Down the Latest From Apple's 'Let Loose': Features of the M4 iPad Pro, 13-Inch iPad Air & Apple Pencil Pro | Insights by ZDNET</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/t-advice-for-embedding-youtube-playlists-with-ease/"><u>Expert Advice for Embedding YouTube Playlists with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-the-windows-0x0000011b-crash-problem/"><u>Mending the Windows 0X0000011B Crash Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-underperforming-systems-amidst-intel-errors/"><u>Navigating Through Underperforming Systems Amidst Intel Errors</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/rediscover-precious-moments-with-aura-waldens-immersive-memory-frames/"><u>Rediscover Precious Moments with Aura Walden's Immersive Memory Frames</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restart-tactics-for-fixing-microsoft-store-errors/"><u>Restart Tactics for Fixing Microsoft Store Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-a-non-reversible-trash-bin-for-files-a-windows-11-guide/"><u>Setting up a Non-Reversible Trash Bin for Files: A Windows 11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-the-complexities-of-error-code-0x800736cc/"><u>Simplifying the Complexities of Error Code 0X800736CC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-20-open-access-free-pubg-montages/"><u>Top 20 Open Access, Free PUBG Montages</u></a></li>
+</ul></div>
+

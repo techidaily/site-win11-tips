@@ -1,7 +1,7 @@
 ---
 title: Boosting Windows Discord's Inaccurate Search Results
-date: 2024-07-29T08:14:10.891Z
-updated: 2024-07-30T08:14:10.891Z
+date: 2025-01-18T19:48:32.094Z
+updated: 2025-01-24T23:15:13.550Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
  But what if the search feature breaks and fails to load any message you type in the search bar? It's frustrating, isn't it? Let's take a look at how to troubleshoot your Discord search function failing issue on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What's Causing Discord Search Issues on Windows?
 
  Several reasons may cause the Discord search to stop in the middle. To make sure the issue is with Discord's Windows client only, open Discord web and try searching there first.
@@ -46,14 +47,8 @@ Here's how you can check and fix your internet-related issues:
 
 1. Press**Win + X** on your keyboard to open the**Power User** or**WinX** **menu** .
 2. Select**Command Prompt (Admin)** from the list of options. You can also click the**Terminal (Admin)** option.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Power User Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-power-user-menu.jpg)
 3. Type**netsh winsock reset** into the command prompt or terminal and hit**Enter** . This will force Windows to reset Winsock.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Winsock Reset Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/winsock-reset-command.jpg)
 4. You can restart your PC and check if the Discord search feature works correctly.
 
@@ -71,11 +66,12 @@ Here's how you can check and fix your internet-related issues:
 
 * Open your Discord app and press**Ctrl + R** . This will force the Windows client to search for any latest updates.
 * Alternatively, you can click the**Show hidden icons** toggle on the taskbar. Find the**Discord** icon and right-click on it. Select**Check for Updates** option from the mini context-menu.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Discord Icon On Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-icon-on-taskbar.jpg)
 * The last way of updating Discord is by running it as an administrator. To do so, right-click**Discord** on the desktop and select**Run as administrator** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Your VPN or Proxy
 
@@ -89,8 +85,17 @@ Here's how you can check and fix your internet-related issues:
 2. Navigate to**Network & Internet > VPN** settings.  
 ![Network And Internet Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/network-and-internet-settings.jpg)
 3. Under**VPN connections** , click the**Disconnect** button next to your connected VPN.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows VPN Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-vpn-settings.jpg)
 4. Similarly, to disable a proxy, you can access the settings from**Network & Internet > Proxy** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This should fix the search feature and allow you to use all the search filters. However, if it is still not working, proceed further to try some advanced troubleshooting steps.
 
@@ -109,8 +114,9 @@ Below are the steps you need to perform to disable the Streamer Mode:
 4. If you want to disable streamer mode altogether, you can also uncheck the**Automatically enable or disable** option.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Clear Discord's AppData Cache Folder
 
  Discord stores its cache in the AppData folder. Over time, the Discord cache may get corrupted and cause issues like the search bar not working. There's nothing to worry about, as clearing the cache is as simple as deleting a folder.
@@ -122,18 +128,16 @@ Here's how you can clear Discord's cache files on Windows:
 3. Type**%appdata%** in the search bar and hit**Enter** . This will open the cache directory in File Explorer.  
 ![AppData Command In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/appdata-command-in-explorer.jpg)
 4. Locate the**discord** folder and right-click on it.
-5. Select the**Delete** option on the drop-down menu that appears. It will delete all the cache files generated by Discord.  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Select the**Delete** option on the drop-down menu that appears. It will delete all the cache files generated by Discord.  
 ![Discord Folder Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-folder-context-menu.jpg)
 
  That's it for your part. You can now restart your computer and relaunch Discord to check the search issue. Make sure to test in both cases: searching in an individual chat as well as in a server!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 6\. Reinstall the Discord Windows Client
 
  If the above solutions don't work, try reinstalling the Discord app. This will remove all the corrupted files and cookies data, which may have been causing the search problem.
@@ -142,21 +146,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 1. First, uninstall Discord properly using one of the[ways to remove Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 2. Go to the[Discord Downloads](https://discord.com/download) website and click**Download for Windows** . This will download an executable (EXE) file on your desktop.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Discord Downloads Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-downloads-website.jpg)
 3. Double-click the downloaded file to launch the Discord installer setup.
 4. Log in to your Discord account and try searching messages now via the search bar.
 
  Hopefully, this should help you quickly resolve any issues with Discord's search functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## 7\. Some Miscellaneous Fixes to Try
 
  If you've tried everything and still can't get Discord's search function to work, try the following miscellaneous fixes once.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Uninstall Your Discord Plugins
 
@@ -164,9 +166,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you think a plugin might be causing the issue, you can disable or uninstall it temporarily to see if it's the culprit behind the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Check Discord’s Server Status
 
  Sometimes, it's not just you – Discord's servers might be experiencing issues that affect the search function. To rule out this possibility, visit[Discord's server status](https://discordstatus.com/) page.
@@ -177,14 +176,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Hopefully, the mentioned troubleshooting measures should help you get the search option back in no time.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -193,4 +189,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-exclusive-mac-hd-scribing-plus-auditory-logging-solution/"><u>[New] 2024 Approved Exclusive Mac HD Scribing + Auditory Logging Solution</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unleashing-youtube-potential-with-effective-seo-methods-1-11/"><u>[New] 2024 Approved Unleashing YouTube Potential with Effective SEO Methods (1-11)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-harnessing-the-power-of-movie-maker-an-animators-best-friend/"><u>[New] In 2024, Harnessing the Power of Movie Maker An Animator’s Best Friend</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-opening-doors-creating-an-account-on-youtube/"><u>2024 Approved Opening Doors Creating an Account on YouTube</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/building-a-cohesive-tiktok-ending-spectacle-for-2024/"><u>Building a Cohesive TikTok Ending Spectacle for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-compatibility-essential-wsl-2-advice-for-pcs/"><u>Conquer Compatibility: Essential WSL 2 Advice for PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/edge-running-continuously-what-can-you-do/"><u>Edge Running Continuously: What Can You Do?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-tackling-excessive-c-drive-data-usage/"><u>Efficiently Tackling Excessive C: Drive Data Usage</u></a></li>
+<li><a href="https://fox-info.techidaily.com/guide-maximizing-apple-podcast-listing-chances-for-2024/"><u>Guide Maximizing Apple Podcast Listing Chances for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-apple-iphone-15-pro-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your Apple iPhone 15 Pro and iPad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reinstate-accurate-battery-life-meter-on-pcs-running-win-11/"><u>How to Reinstate Accurate Battery Life Meter on PCs Running Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-windows-audio-hardware-flaws/"><u>Identifying Windows Audio Hardware Flaws</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a18-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Oppo A18 Phone without Any Data Loss</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-exploration-the-fascinating-evolution-of-ios-from-its-inception-at-version-10-to-the-latest-180-release/"><u>In-Depth Exploration: The Fascinating Evolution of iOS From Its Inception at Version 1.0 to the Latest 18.0 Release</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-photography-in-windows-11-building-impressive-slide-shows-and-fixes/"><u>Mastering the Art of Photography in Windows 11: Building Impressive Slide Shows & Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-device-management-in-system-sleep/"><u>Proactive Device Management in System Sleep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slash-clutter-a-fast-way-to-remove-bloatware-in-win11/"><u>Slash Clutter: A Fast Way to Remove Bloatware in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-stop-keyboard-use-for-computer-running-windows/"><u>Steps to Stop Keyboard Use for Computer Running Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/voice-clarity-overcoming-skype-noise-issues/"><u>Voice Clarity Overcoming Skype Noise Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Bypassing Access Denied Saving Problems on Windows
-date: 2024-07-29T08:10:40.792Z
-updated: 2024-07-30T08:10:40.792Z
+date: 2025-01-24T00:57:36.745Z
+updated: 2025-01-24T21:38:10.505Z
 tags:
   - windows10
   - windows11
@@ -29,17 +29,10 @@ thumbnail: https://thmb.techidaily.com/77a0a1507f5da99a4dd0db6a1e358f4e656bf9fb2
 3. Select your username from the list and click on **Edit** to modify folder permissions.
 4. Tick the **Allow** checkbox next to **Full control**.
 5. Hit **Apply** followed by **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Folder Permissions window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Modify-Folder-Permissions.jpg)
 
  After modifying the folder permissions, you should be able to save files without any problems.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 2\. Change the Folder's Owner
 
  If changing the folder permissions does not help, you can make yourself the folder owner. This will allow you to freely access, modify, and save files in that folder. It's worth noting that you can only do this if you're [logged in with an administrative account](https://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/).
@@ -59,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/77a0a1507f5da99a4dd0db6a1e358f4e656bf9fb2
 
  Once you take ownership of the folder, the permission error should not appear again. If the above method doesn't work for some reason, you can use a [third-party tool to take ownership of a folder on Windows](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/). The best part is that these tools allow you to take ownership of multiple folders at once.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Run the App With Administrative Privileges
 
  Such an error could occur if the app or program you're using lacks the necessary permissions to access your PC's files. Most of the time, you can fix such issues by running the program with admin rights.
@@ -71,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/77a0a1507f5da99a4dd0db6a1e358f4e656bf9fb2
  If this method works, you can configure the app to always run with administrative privileges. If you need help with that, refer to our guide on [how to always run apps as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the Program Compatibility Troubleshooter
 
  Another thing you can do to fix this error is run the Windows Program Compatibility troubleshooter. It’ll automatically detect and fix any compatibility issues with your program and attempt to fix the error. Here’s how to run it.
@@ -80,14 +71,6 @@ thumbnail: https://thmb.techidaily.com/77a0a1507f5da99a4dd0db6a1e358f4e656bf9fb2
 1. Right-click on the problematic program and select **Troubleshoot compatibility**.
 2. In the Program Compatibility Troubleshooter window, select **Troubleshoot program**.
 3. Mark the checkbox that reads **The program requires additional permissions** and hit **Next**.  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Program Compatibility Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Program-Compatibility-Troubleshooter.jpg)
 4. Wait for the troubleshooter to do its thing, and then click the **Test the program** button.
 
@@ -98,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/77a0a1507f5da99a4dd0db6a1e358f4e656bf9fb2
  At times, antivirus software on your PC may become overly cautious and prevent apps from accessing specific folders. When that happens, Windows may show the "You don’t have permission to save in this location" error message.
 
  To fix this, you will need to go through your antivirus program’s settings and whitelist your app or program from there. Alternatively, you can also temporarily disable your antivirus program and then save your file. If you do this, make sure to re-enable your antivirus program afterward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Disable User Account Control
 
@@ -111,22 +98,20 @@ thumbnail: https://thmb.techidaily.com/77a0a1507f5da99a4dd0db6a1e358f4e656bf9fb2
 ![User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/User-Account-Control-Settings-window.jpg)
 4. Select **Yes** when the User Account Control prompt shows up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After disabling User Account Control, check to see if you can save files in the desired folder.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Save the File in a Different Location, Then Move It
 
  One way to bypass the "You don’t have permission to save in this location" error is to save your file in a different location and then move it to your desired folder. This is more of a workaround that you can use if the above methods don't work.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Create a New User Account
 
  It is possible that the error "You don't have permission to save in this location" is specific to your current user account. This can happen if some of the user account files associated with your account become corrupted. To check this possibility, try [switching to a different user account](https://www.makeuseof.com/windows-11-switch-user-accounts/) on your computer and see if you get the same error.
@@ -138,12 +123,17 @@ No advertising on the website.
 3. Click the **Add account** button.
 4. In the Microsoft account window, click on the **I don't have this person's sign-in information** link.
 5. Follow the on-screen prompts to create a new user account.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Sign in with your newly created account, and the error should not appear after that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Troubleshoot the Issue in Safe Mode
 
@@ -159,11 +149,25 @@ No advertising on the website.
 
  If you can't figure out what's causing the error, work your way through the following troubleshooting tips to fix the underlying issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-6-innovative-mc-survival-homes-for-2024/"><u>[New] 6 Innovative MC Survival Homes for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-nine-powerful-microphone-capture-options-decoded-for-2024/"><u>[New] Nine Powerful Microphone Capture Options Decoded for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-spacious-mini-cities-with-oriental-flair-for-2024/"><u>[New] Spacious Mini Cities with Oriental Flair for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-superrich-streamers-of-the-world/"><u>[Updated] In 2024, Superrich Streamers of the World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-restore-functionality-of-cortana-on-latest-version-windows-11/"><u>How to Restore Functionality of Cortana on Latest Version Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-revolutionize-your-pc-captures-with-these-top-tools/"><u>In 2024, Revolutionize Your PC Captures with These Top Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-white-screen-on-microsoft-appstore/"><u>Overcoming White Screen on Microsoft Appstore</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-realme-12-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Realme 12 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-silent-systems-voice-finding-sound-solutions/"><u>Restore Silent System's Voice: Finding Sound Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-joy-with-these-best-free-players-win/"><u>Streamline Joy with These Best FREE Players (Win)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unmasking-wacatacbmls-deception-in-your-windows-ecosystem/"><u>Unmasking Wacatac.B!ml's Deception in Your Windows Ecosystem</u></a></li>
+</ul></div>
+

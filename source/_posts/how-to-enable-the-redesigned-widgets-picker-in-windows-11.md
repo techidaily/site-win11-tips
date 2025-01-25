@@ -1,7 +1,7 @@
 ---
 title: How to Enable the Redesigned Widgets Picker in Windows 11
-date: 2025-01-15T16:38:08.514Z
-updated: 2025-01-18T16:39:33.038Z
+date: 2025-01-22T23:42:31.731Z
+updated: 2025-01-25T00:47:58.855Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Redesigned Widgets Picker in Windows 11?
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 ![Screenshot showing Windows 11 Widgets preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/widgets-preview-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Redesigned Widgets picker shows you a preview of what a widget will look like in the Widgets board before you pin it. Third-party widgets are also supported, meaning you can preview app widgets like Facebook and Spotify before pinning them.
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  Additionally, the updated Widgets picker also includes a link that will take you to the Microsoft Store Widgets page, where all the supported ones are listed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ViveTool And Why Do You Need It?
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  The redesigned Widgets picker is not entirely hidden in [Windows 11 Canary Build 25352](https://blogs.windows.com/windows-insider/2023/04/28/announcing-windows-11-insider-preview-build-25352/) (see what [the Canary Channel is about and how to use it](https://www.makeuseof.com/what-is-windows-insider-canary-channel/)) and Dev builds. Instead, the feature is available for limited Insiders. However, with ViveTool, the new Widgets preview experience can be enabled on all Windows PCs running Dev or Canary Build 25352 and above. We have a detailed guide on [downloading and using ViveTool to enable unreleased features](http://www.makeuseof.com/vivetool-windows-guide/).
 
  For convenience, set up ViveTool and its extracted contents in the **C:/ViVeTool** folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable the Redesigned Widgets Picker Using ViveTool
 
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  The ability to preview a widget before adding it to the Widgets board will not require ViveTool to be enabled when Microsoft makes it available for everyone. When it is rolled out to every Windows 11 user, you should get a preview whenever you pin a widget to the board.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will the New Widgets Preview Experience Be Available for Other Insider Channels?
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  The new Widgets picker was introduced to the Dev and Canary Channel, and it has a good chance of debuting in Beta builds and then eventually to the users running stable Windows 11\.
 
  However, things can go wrong, and Microsoft can scrap the feature before releasing it to other channels.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Redesigned Widgets Picker in Windows 11, Enabled
 
@@ -101,19 +101,15 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-androidiphone-mastery-discover-the-ultimate-top-8-app-set/"><u>[Updated] 2024 Approved Android/iPhone Mastery Discover the Ultimate Top 8 App Set</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-learn-about-free-recording-software-today-for-2024/"><u>[Updated] Learn About Free Recording Software Today for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-no-cost-nature-inspired-screen-images/"><u>[Updated] No-Cost, Nature Inspired Screen Images</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-step-into-windows-xp-a-filmmakers-companion/"><u>[Updated] Step Into Windows XP A Filmmaker's Companion</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anticipated-gadgets-of-computex-202n4-exposed-asus-rog-ally-and-snapdragon-x-laptops-but-no-gpu-news/"><u>Anticipated Gadgets of Computex 202N4 Exposed - Asus ROG Ally & Snapdragon X Laptops, but No GPU News</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/creative-camerawork-innovative-techniques-for-video-savvy-youtubers/"><u>Creative Camerawork Innovative Techniques for Video-Savvy YouTubers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-internal-error-in-remote-desktop-for-windows-os-1111-pro/"><u>Fixing the Internal Error in Remote Desktop for Windows OS 11/11 Pro</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-elevate-learning-top-15-youtube-experts-in-science/"><u>In 2024, Elevate Learning Top 15 YouTube Experts in Science</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-canon-dr-c225-software-compatible-with-windows-11-and-previous-versions/"><u>Latest Canon DR-C225 Software Compatible with Windows 11 and Previous Versions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-wsl-2-enhance-your-docker-operations-on-windows/"><u>Maximizing WSL 2: Enhance Your Docker Operations on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reconnecting-microphone-and-xbox-app-on-windows-1011/"><u>Reconnecting Microphone and Xbox App on Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-activate-rgb-in-windows-11/"><u>Steps to Activate RGB in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-asana-actions-for-fixing-windows-issues/"><u>Unblocking Asana: Actions for Fixing Windows Issues</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/fficient-ways-to-delete-previewed-content-from-youtubes-queue/"><u>[New] Efficient Ways to Delete Previewed Content From YouTube's Queue</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-ultimate-guide-to-maximum-fitness-mac-recordings-for-snapchat/"><u>2024 Approved Ultimate Guide to Maximum Fitness Mac Recordings for Snapchat</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-opinion-on-anthropicss-smart-photo-editor-performance-usability-and-more-reviewed/"><u>Expert Opinion on Anthropics's Smart Photo Editor - Performance, Usability, and More Reviewed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/fiery-friendship-keeping-your-snapstreak-hot-and-steady-for-2024/"><u>Fiery Friendship Keeping Your Snapstreak Hot and Steady for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-navigate-past-an-infinite-windows-update-countdown/"><u>How to Navigate Past an Infinite Windows Update Countdown</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-windows-10-tools-for-exquisite-video-editing/"><u>In 2024, Harnessing Windows 10 Tools for Exquisite Video Editing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-redmi-12-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Redmi 12 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/joining-forces-connecting-wp-plus-android-via-samsung-flow/"><u>Joining Forces: Connecting WP + Android via Samsung Flow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-generic-audio-device-unsupported-in-windows/"><u>Solutions for Generic Audio Device Unsupported in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-approach-to-windows-11-amd-graphics-driver-upgrades/"><u>Stepwise Approach to Windows 11 AMD Graphics Driver Upgrades</u></a></li>
 </ul></div>
 

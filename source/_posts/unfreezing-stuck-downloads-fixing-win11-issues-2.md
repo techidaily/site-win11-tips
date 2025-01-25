@@ -1,7 +1,7 @@
 ---
 title: "Unfreezing Stuck Downloads: Fixing WIN11 Issues (2)"
-date: 2025-01-16T17:33:09.195Z
-updated: 2025-01-18T16:33:01.711Z
+date: 2025-01-18T16:13:12.065Z
+updated: 2025-01-24T16:26:03.998Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Free Up Drive Storage Space
@@ -38,12 +38,16 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Command-Line Tools
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another possibility is that something has gone wrong with Windows' system files. So, try [repairing corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/), specifically the System File Checker and the Deployment Image Servicing and Management command-line tools.
 
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change the Current Location in the Website Data Settings
 
  This downloading issue can occur because the current location in Internet Properties isn’t set to a local C: drive. You can check and change that current location within Internet Properties as follows:
@@ -72,16 +72,16 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/general-tab.jpg)
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
 
 7. Then click **Yes** on the logoff prompt.
 
  We also recommend checking some security settings in Internet Properties. Click **Custom level** on the **Security** tab. Make sure the **File download** and **Font download** options are enabled there. If they’re not, select the **Enable** radio buttons for those settings and click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run an Antivirus Scan
 
@@ -104,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
 
  Windows Defender Firewall is a security utility that monitors inbound and outbound network traffic on your PC. This tool can affect file downloads when set to block connections. So, try [turning off Windows Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) to see if that makes a difference.
@@ -117,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Your Browser Software
@@ -143,7 +139,11 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download Files Again on Your Windows PC
@@ -164,20 +164,22 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-perfect-your-yt-thumbnails-with-these-mac-tips/"><u>[New] 2024 Approved Perfect Your YT Thumbnails with These Mac Tips</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-crafting-visual-stories-with-snapchat-photo-edits-for-2024/"><u>[New] Crafting Visual Stories with Snapchat Photo Edits for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-elite-action-cameras-best-15-handheld-choices/"><u>[Updated] In 2024, Elite Action Cameras Best 15 Handheld Choices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-linux-windows-and-mac-10-budget-video-player-options-for-2024/"><u>[Updated] Linux, Windows & Mac 10 Budget Video Player Options for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-lenovo-simple-recording-techniques/"><u>2024 Approved Lenovo Simple Recording Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-functionality-to-flair-windows-10s-transition-to-11/"><u>From Functionality to Flair: Windows 10'S Transition to 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-your-dream-laptop-with-these-ifa-2023-picks/"><u>Get Your Dream Laptop with These IFA 2023 Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-an-end-task-option-on-the-windows-11-taskbar/"><u>How to Enable an End Task Option on the Windows 11 Taskbar</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-to-maximizing-adobe-storages-and-exploring-more/"><u>In 2024, Step-by-Step to Maximizing Adobe Storages and Exploring More</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguard-your-pc-without-bitlockers-help-on-windows/"><u>Safeguard Your PC Without BitLocker's Help on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shortcuts-for-skipping-windows-sign-in-requirements/"><u>Shortcuts for Skipping Windows Sign-In Requirements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-fix-winerror-code-0x80780119/"><u>Step-By Step to Fix WinError Code: 0X80780119</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-note-12-pro-4gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Xiaomi Redmi Note 12 Pro 4Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-easiest-video-making-apps-for-mac-unleash-your-creativity-for-2024/"><u>Updated Easiest Video Making Apps for Mac Unleash Your Creativity for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wlanapidllnotfound-quick-tips-to-resolve-the-issue/"><u>WLanApiDllNotFound - Quick Tips to Resolve the Issue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-8-steps-in-recording-and-archiving-computer-audio/"><u>[New] 2024 Approved Top 8 Steps in Recording and Archiving Computer Audio</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-use-youtube-enhancements-to-improve-video-quality/"><u>[Updated] How to Use YouTube Enhancements to Improve Video Quality</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-capturing-stardust-the-premier-10-sites-for-hdr-skyscapes/"><u>2024 Approved Capturing Stardust The Premier 10 Sites for HDR Skyscapes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/can-microsofts-windows-surpass-apples-m1-chips-on-arm-architecture-expert-analysis/"><u>Can Microsoft's Windows Surpass Apple's M1 Chips on ARM Architecture - Expert Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-to-setting-up-powertoys-on-win11/"><u>Expert Guide to Setting Up PowerToys on Win11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-basics-what-does-output-impedance-mean/"><u>Exploring the Basics: What Does Output Impedance Mean?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-internal-audio-errors-in-audacity-for-windows-1111/"><u>Fixing Internal Audio Errors in Audacity for Windows 11/11</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-edge-over-competition-fixing-street-fighter-6s-latency-and-improving-your-online-matches/"><u>Getting Edge over Competition: Fixing Street Fighter 지오 6'S Latency & Improving Your Online Matches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-circumvent-direct-folder-name-challenges-on-windows-11/"><u>How to Circumvent Direct Folder Name Challenges on Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/network-security-detecting-open-tcpip-ports-in-windows/"><u>Network Security: Detecting Open TCP/IP Ports in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-db-links-overcoming-connection-failed-on-win-10-11/"><u>Restoring DB Links: Overcoming Connection Failed on Win 10, 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-resolving-error-0x800700e1-on-windows-11-systems/"><u>Solutions for Resolving Error 0X800700E1 on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-installer-problems-on-microsoft-store/"><u>Solving Installer Problems on Microsoft Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-jumbled-symbols-in-os-taskbar-display/"><u>Solving Jumbled Symbols in OS Taskbar Display</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/swiftly-address-iphone-photography-blur/"><u>Swiftly Address iPhone Photography Blur</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-financial-success-through-youtubes-viewer-count-for-2024/"><u>Unlocking Financial Success Through Youtube's Viewer Count for 2024</u></a></li>
 </ul></div>
 

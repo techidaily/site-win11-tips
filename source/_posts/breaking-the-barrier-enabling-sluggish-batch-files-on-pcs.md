@@ -1,7 +1,7 @@
 ---
 title: "Breaking the Barrier: Enabling Sluggish Batch Files on PCs"
-date: 2024-07-29T08:13:16.482Z
-updated: 2024-07-30T08:13:16.482Z
+date: 2025-01-21T00:36:58.296Z
+updated: 2025-01-24T16:26:00.083Z
 tags:
   - windows10
   - windows11
@@ -46,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 1. Copy the complete code present in your BAT file. A simple way is to press **Ctrl + A** and then **Ctrl + C**.
 2. Open the [ChatGPT website](https://chat.openai.com) and log in with your Google account.
 3. Copy and paste the following prompt in the textbox: **Please correct all the syntax errors in the following .BAT file code: CODE**. Once you copy it, replace **CODE** with the actual code from your BAT file.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![ChatGPT Prompt For BAT File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-for-bat-file.jpg)
 4. Press **Enter** or the **Send** button. Now ChatGPT will try to remove all the possible syntax errors and provide you with the modified version.
 5. Copy and replace the edited version with the code inside your BAT file.  
@@ -57,15 +54,16 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
  To avoid such syntax error situations in the future, we recommend learning [how to create a batch file](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Disable Your Antivirus Temporarily
 
  Sometimes, antivirus software detects normal applications and files as a system threat (due to false detection). In these cases, a good practice is to disable the antivirus or exclude such files from the settings.
 
  If you're using the default one that ships with Windows, here's [how to disable the Windows Security app](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) for help. Remember to enable it again after running your BAT file to protect your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Include the BAT in the Antivirus Exclusion List
 
  Another way around the antivirus issue is by adding your BAT file to the list of antivirus exclusions. This allows specific files to bypass the regular antivirus scan.
@@ -74,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
  If you're not using third-party antivirus software, check out [how to set Windows Security exclusions](https://www.makeuseof.com/windows-11-security-exclusions/) for a quick fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Adjust .BAT File Association
 
  Have you ever noticed that when you open a .TXT file, Notepad pops up, or when you open a .PNG or .JPG, the Windows Photos app opens? This is because of file association. Similarly, BAT files have a default program file association, i.e., with the Command Prompt.
@@ -87,14 +82,13 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
 1. Press the **Win + I** keys to open the **Settings** app.
 2. Click on **Apps**, then select **Default apps**.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Apps Settings Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-apps-settings-screen.jpg)
 3. Scroll to the last and click on**Choose default by file type**.  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Windows Default Apps Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-default-apps-settings.jpg)
 4. Locate **.bat** in the list and click on **Choose a default**.  
 ![BAT File Association Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bat-file-association-settings.jpg)
@@ -103,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
  And that's it! Now, your .BAT files should open with the Command Prompt instead of getting deleted instantly.
 
  There are multiple file types in the same Settings section. If you want to change the default apps for launching a specific file type, you can do so. For example, if you use Drawboard as a PDF viewer, click on **.pdf** and select it as a default app for all your PDF files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Take Ownership of the Batch File
 
@@ -114,9 +112,6 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
  Remember that taking ownership carries risk. Here's why: if the file comes from an unknown source (a random website) and you take ownership, you may unknowingly execute harmful code. So, double-check the code and the file source before taking ownership.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Modify the ComSpec System Variable
 
  Don't be confused by the technical term "**ComSpec**." Simply put, the ComSpec system variable is a title or name given to the path of the Command Prompt (i.e.,%SystemRoot%\\system32\\cmd.exe). So, whenever a Windows app or program wants to open or access the Command Prompt, it uses the ComSpec system variable to open it instantly.
@@ -131,20 +126,28 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 2. Type **sysdm.cpl** in the textbox and click **OK** to execute it.  
 ![Sysdm Command In RUN App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sysdm-command-in-run-app.jpg)
 3. From the tab menu, navigate to Advanced and click the **Environment Variables** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Under **System variables**, double-click on **ComSpec**.  
 ![System Variables List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-variables-list.jpg)
 5. On the **Edit Environment Variable** window, ensure the variable value matches **%SystemRoot%\\system32\\cmd.exe**. If the value is different in your case, correct that.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ComSpec System Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/comspec-system-variable.jpg)
 6. Click **OK** to apply the changes.
 
  Hopefully, now your BAT file will run as expected. As a final note, always exercise caution when adjusting any system variable. For additional safety, note down the original value before making any changes.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Resolve All Your BAT File Issues on Windows
 
  We've pointed out every possible solution for all your Windows BAT or Batch file-related issues. So, try them once and run any batch files without errors.
@@ -153,11 +156,29 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
  Regardless of the issue, this guide will provide methods for resolving all your BAT file issues. We will also highlight why BAT files sometimes do not run on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-strategies-for-writing-persuasive-vlog-show-narratives/"><u>[Updated] 2024 Approved Strategies for Writing Persuasive Vlog Show Narratives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-budget-deals-on-high-quality-gopros/"><u>[Updated] Budget Deals on High-Quality GoPros</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-masterclass-in-live-streaming-integrating-dslr-into-your-digital-space/"><u>[Updated] In 2024, Masterclass in Live Streaming Integrating DSLR Into Your Digital Space</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/bypassing-videography-errors-with-simple-fixes/"><u>Bypassing Videography Errors with Simple Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/commanding-control-in-windows-11-filtering-tasks-and-implementing-new-theme-vibes/"><u>Commanding Control in Windows 11: Filtering Tasks & Implementing New Theme Vibes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/desktop-icon-disappearance-issue-in-windows-11-heres-the-solution/"><u>Desktop Icon Disappearance Issue in Windows 11? Here's the Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-pc-accessibility-restoring-ea-server-link/"><u>Enhancing PC Accessibility: Restoring EA Server Link</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-ralink-bluetooth-driver-compatibility-challenges-in-windows-11-systems/"><u>Fix Guide: Ralink Bluetooth Driver Compatibility Challenges in Windows 11 Systems</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harnessing-the-strength-of-cookiebot-to-boost-online-success/"><u>Harnessing the Strength of Cookiebot to Boost Online Success</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-make-a-good-podcast-trailer/"><u>How To Make A Good Podcast Trailer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-of-your-broken-logitech-mouse-scroll-wheel-step-by-step-solution/"><u>How To Restore Functionality of Your Broken Logitech Mouse Scroll Wheel | Step by Step Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-issues-with-cut-and-paste-in-win-11/"><u>Overcoming Issues with Cut & Paste in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-mending-windows-registry-errors/"><u>Quick Guide to Mending Windows Registry Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-free-image-carousels-in-win11-step-by-step/"><u>The Ultimate Guide to Free Image Carousels in Win11, Step by Step</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-scanners-compromised-biometrics-or-busted/"><u>Windows Scanners Compromised: Biometrics or Busted?</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Boosting File Management in Windows 11
-date: 2024-08-08T10:54:21.024Z
-updated: 2024-08-09T10:54:21.024Z
+date: 2025-01-21T19:19:46.881Z
+updated: 2025-01-24T22:30:37.344Z
 tags:
   - windows10
   - windows11
@@ -21,17 +21,15 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Does Windows Need Built-In Support for Archive Formats?
 
  For a long time, if you download an archive file (RAR, 7Z, TAR, or any other format) on Windows 11 or older versions, you simply couldn't double-click to open the archive. Moreover, it was impossible to extract the files using File Explorer.
 
  Some archive formats like ZIP files can be viewed and extracted using File Explorer. But that still leaves a lot of archive formats inaccessible without a third-party archive manager tool.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Lack of support for other archive formats in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/lack-of-support-for-other-archive-formats-in-windows-11.jpg)
 
  However, Microsoft changed that in the Insider Dev build 23493\. This update allowed users to try out the inbuilt support to handle a variety of archive formats. So, you won’t need your trusty WinRar or 7-Zip apps to open archives in Windows 11\.
@@ -55,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
  The update also introduced [Dynamic Lighting to Windows 11](https://www.makeuseof.com/enable-dynamic-lighting-windows-11/). This feature lets you control all your RGB lighting devices connected to your Windows PC without a third-party app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable and Use Archive Support in Windows 11
 
  At the time of writing, the archive support feature is only available in Windows Insider build 23493 of the Dev channel.
@@ -71,35 +70,35 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
  Or, you can **right-click** on the archive file and then click on the **Extract all** option from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Extract .tar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, pick an appropriate location to extract the file and click on the **Extract** button. Voila! You can now easily access the archive contents without any third-party archive manager tool.
 
 ![Extract .tar files in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But this doesn't spell the end for third-party apps You will still need tools like WinRar if you want to compress files or folders into a format other than ZIP, as Windows can only compress files and folders into the ZIP format.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![Winrar customization while compressing a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/winrar-customization-while-compressing-a-file.jpg)
 
  You may experience performance issues while extracting the contents of the newly supported archive formats. It is because the feature is still in the experimental phase and will be gradually polished before it reaches the Release Preview and stable channels.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Easily Handle Other Archive Formats on Windows
 
  The support for many commonly used archive formats is a welcome addition to the Windows OS. It will surely trim down the dependence on WinRar and other tools to some extent. But there are still plenty of use cases for archive manager software, like compressing files to other formats, adding passwords, and choosing compression methods and other options.
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -107,4 +106,21 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-captivating-cinematic-experience-video-filters-for-pcmobile/"><u>2024 Approved Captivating Cinematic Experience Video Filters for PC/Mobile</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-grayed-out-delete-pin-option-in-windows-11/"><u>Breaking Grayed-Out Delete PIN Option in Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/deep-into-unreal-worlds-with-these-titles-for-2024/"><u>Dive Deep Into Unreal Worlds with These Titles for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-for-adding-kali-to-your-windows-os/"><u>Expert Advice for Adding Kali to Your Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-mastering-windows-customization-via-alomware/"><u>Expert Tips for Mastering Windows Customization via AlomWare</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-note-12r-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-moto-g-stylus-5g-2023-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola Moto G Stylus 5G (2023) Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-depth-text-customization-using-win-11s-snip-tool/"><u>In-Depth Text Customization Using Win 11'S Snip Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-on-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Engagement on Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventive-measures-for-unrecognized-hard-drives-in-windows-11-systems/"><u>Preventive Measures for Unrecognized Hard Drives in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-cybersecurity-adding-trusted-websites-in-windows-11/"><u>Streamline Cybersecurity: Adding Trusted Websites in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-strategies-to-clear-server-not-found-in-apex-legends-(156-chars/"><u>Top Strategies to Clear Server Not Found in Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-reno-11-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo Reno 11 5G Users</u></a></li>
+</ul></div>
 

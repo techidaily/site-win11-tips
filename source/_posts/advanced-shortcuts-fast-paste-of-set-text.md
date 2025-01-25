@@ -1,7 +1,7 @@
 ---
 title: "Advanced Shortcuts: Fast Paste of Set Text"
-date: 2024-08-08T10:53:55.450Z
-updated: 2024-08-09T10:53:55.450Z
+date: 2025-01-23T00:23:36.693Z
+updated: 2025-01-24T21:25:31.813Z
 tags:
   - windows10
   - windows11
@@ -28,26 +28,27 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 2. Click the**QuickTextPaste\_x64.zip** download link.
 3. Press the**Windows** logo +**E** keyboard buttons to open the file manager and go to the directory the QuickTextPaste ZIP downloaded.
 4. Follow the steps in this guide about [unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-compressed-window.jpg)
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
-6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
 ![The QuickTextPaste window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-quicktextpaste-window.jpg)
 7. Select the keys to include within your hotkey on the two drop-down menus at the bottom of the QuickTextPaste window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Press the**Add** button. You should see your new hotkey listed within the Keyboard Shortcuts column.
 
  You can now try out your new custom paste hotkey. Click QuickTextPaste’s**To-Tray** button to minimize the app to the system tray area. Open Notepad, or any other text editor or word processor, to paste in. Then press whatever custom hotkey you set up to paste in its predefined text snippet.
 
  To set up some program hotkeys, input**run: <application file name>** within the**Add** text box. For example, input**run: msedge.exe** to set up an Edge hotkey. Select the key combination for running the software in the drop-down menus.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A run Edge hotkey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-edge-hotkey.jpg)
 
  QuickTextPaste has a 4,000-character limit for text snippets. However, that’s not an especially big restriction. You can probably fit up to 600 words within a 4,000-character limit.
@@ -67,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
 2. Click**Add** to bring up a Hot Key window.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
 3. Next, press the arrow (**<**) button for the**Command** box.
 4. Select**Macro** and the**Paste text** option.  
@@ -78,18 +76,6 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 6. Select one or more**Ctrl** ,**Alt** ,**Win** , and**Shift** checkboxes.
 7. Input a letter key within the text box to set the hotkey.
 8. Enter a title for the hotkey in the**Description** box.  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hot-key-window.jpg)
 9. Select**OK** to add the new custom paste hotkey.
 
@@ -101,19 +87,28 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Creating Other Hotkeys With HotkeyP
 
  It’s also worth exploring the other options for creating hotkeys HotkeyP offers beyond pasting pre-defined text. For example, you can set up custom hotkeys for various system functions like shutting down, logging off, emptying the Recycle Bin, and opening the Programs and Features applet among others. To do so, click the**arrow (<)** button and**System** on the Hot Key window to choose one of those hotkey functions.
 
 ![The System hotkey options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-hotkey-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
 
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
 
  Custom hotkeys for pasting pre-defined text will certainly come in handy for filling out web forms and drafting letters or emails. You can set up custom keyboard shortcuts for pasting your name, postcode, phone number, email address, tax reference number, passwords, and much more with QuickTextPaste and HotkeyP. They’re good apps to utilize for creating software hotkeys as well.
@@ -124,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,6 +126,26 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-sims-4-gameplay-capture/"><u>[Updated] In 2024, The Ultimate Guide to Sims 4 Gameplay Capture</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-quick-views-snap-and-share/"><u>2024 Approved FB Quick Views Snap & Share</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ideal-pairings-prime-mac-software-for-video-snatching/"><u>2024 Approved Ideal Pairings Prime Mac Software for Video Snatching</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-image-handling-top-6-methods-for-resizing-in-win-11/"><u>Elevate Your Image Handling: Top 6 Methods for Resizing in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/employing-windows-tools-for-top-linux-performance/"><u>Employing Windows Tools for Top Linux Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-power-down-magic-for-w10w11-on-standby/"><u>Harnessing Power-Down Magic for W10/W11 on Standby</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hidden-pc-folders-exposed-in-windows-11/"><u>Hidden Pc Folders Exposed in Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-a1x-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Oppo A1x 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-connect-your-airpods-to-windows/"><u>How to Effortlessly Connect Your AirPods to Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-constructing-an-intriguing-trailer-blueprint/"><u>In 2024, Constructing an Intriguing Trailer Blueprint</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-demystifying-the-process-of-checking-subs/"><u>In 2024, Demystifying The Process of Checking Subs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-a14-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy A14 5G FRP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-comic-reading-a-guide-to-win11-mastery/"><u>Optimizing Comic Reading: A Guide to Win11 Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personal-touches-changing-windows-screenshot-settings/"><u>Personal Touches: Changing Windows Screenshot Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-old-bios-color-schemes/"><u>Reinvigorating Old BIOS Color Schemes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-windows-operatic-install-with-easy-fixes/"><u>Revive Your Windows Operatic Install with Easy Fixes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-8-strategies-to-finish-all-games-in-your-library/"><u>Top 8 Strategies to Finish All Games in Your Library</u></a></li>
+</ul></div>
 

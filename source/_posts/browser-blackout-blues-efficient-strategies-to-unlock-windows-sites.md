@@ -1,7 +1,7 @@
 ---
 title: "Browser Blackout Blues: Efficient Strategies to Unlock Windows Sites"
-date: 2024-07-29T08:10:32.998Z
-updated: 2024-07-30T08:10:32.998Z
+date: 2025-01-20T01:22:15.862Z
+updated: 2025-01-25T00:41:31.393Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/5a94426a32501655e657a3254c012c85eb00e68b9
 
  Aside from that, Windows Defender Firewall restrictions or adding URL addresses to the Windows Hosts file can also prevent websites from opening. If you are tired of this issue and wish to access your favorite sites again, here are a few fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 1\. Perform Some Preliminary Checks
 
  You should perform the following preliminary checks first, as they may help you resolve the issue quickly:
@@ -36,14 +32,8 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  If the above checks don't work and some websites fail to load, begin applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use a Different Device
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![two laptops placed side by side on a wooden table](https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00df3f1d4defd5e8c6891f82cb.jpg)
 
  If you are using a managed device, quite possibly at work or school, and some websites aren't opening, your device administrator may have blocked access to these websites. So, it's essential to rule out this possibility.
@@ -52,9 +42,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  In this case, you can ask your administrator to unblock those websites. However, if the same websites don't open on your other device, or if you're experiencing this issue on a personal device, your ISP might have blocked those sites.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use a Different Internet Connection
 
 ![Wi-Fi Router Symbol With a Good Looking Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/wifi-routers-versus-wireless-access-points-explained-1.jpg)
@@ -68,18 +55,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ##
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable VPN or Windows Proxy Settings
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![a user using vpn on windows laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vpn-usage.jpg)
 
  If you use a VPN or proxy server to conceal your online activity, they can also contribute to this problem. The benefit of proxy servers is that they allow you to access websites blocked in your region by skirting around regional blocks.
@@ -93,6 +73,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. Type**"Command Prompt"** in Windows Search and open the**Command Prompt** app.  
 ![Running Command Prompt as an Administrator on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Running-Command-Prompt-as-an-Administrator-on-Windows.jpg)
 2. Enter the following commands one by one, pressing**Enter** after each:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `netsh winsock reset  
 netsh int ip reset  
 ipconfig /release  
@@ -101,17 +86,21 @@ ipconfig /flushdns`
 
  If the problem persists after running the above commands, you should change your DNS server.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Change Your DNS Server
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![DNS Server Cables Connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/DNS-Server-Cables.jpg)
 
  The Domain Name System (DNS) translates human-readable domain names into IP addresses. That's how your browser loads web pages. If some domains are blocked by your ISP, your browser won't be able to translate them into the required IP address. Consequently, they won't load.
 
  The best way to exclude this possibility is to[change your DNS server on Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) , especially if you haven't changed it since you got your current device. Changing the DNS bypasses the restrictions imposed by your ISP, so you'll be able to access the blocked websites.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Ensure The Website Isn't Blocked in the Windows Hosts File
 
@@ -122,6 +111,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Right-click on the**Hosts** file and click**Open with** .  
 ![Clicking on the Open With Button by Right-clicking on the Hosts File in the Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Clicking-on-the-Open-With-Button-by-Right-clicking-on-the-Hosts-File-in-the-Windows-File-Explorer.jpg)
 3. Then, select**Notepad** to open the**Hosts** file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If websites have been blocked using the Hosts file, the domain names of these websites would have probably been added at the end of this file.
 5. If you find those websites added here, delete them all.  
 ![Tweaking the Hosts File by Deleting the Address Blocked in Windows 11 Hosts File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-3-Tweaking-the-Hosts-File-by-Deleting-the-Address-Blocked-in-Windows-11-Hosts-File.jpeg)
@@ -133,14 +127,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If the administrator hasn't blocked websites or you are experiencing this problem on a personal device, the above fixes will likely resolve the issue. Consequently, you will be able to access those websites again.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +140,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-capture-life-in-all-directions-11-excellence-in-multi-angle-cameras-for-2024/"><u>[New] Capture Life in All Directions #11 Excellence in Multi-Angle Cameras for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-exploring-screenflow-features-a-mac-developers-perspective/"><u>[New] In 2024, Exploring ScreenFlow Features – A Mac Developer's Perspective</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-gameplay-with-best-gadgets/"><u>[New] Mastering Gameplay with Best Gadgets</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-compilation-of-announced-psvr-2-titles-everything-revealed/"><u>Complete Compilation of Announced PSVR 2 Titles - Everything Revealed!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-folder-formation-techniques-for-win11-users/"><u>Efficient Folder Formation Techniques for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-projection-without-pin-in-windows-11/"><u>Effortless Projection without PIN in WIndows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-real-savings-are-ad-supported-streaming-subscriptions-economical/"><u>Exploring the Real Savings: Are Ad-Supported Streaming Subscriptions Economical?</u></a></li>
+<li><a href="https://games-able.techidaily.com/friendly-face-off-15-must-play-mobile-gaming-matchups/"><u>Friendly Face-Off: 15 Must-Play Mobile Gaming Matchups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-save-action-plan-top-6-solutions-to-ppt-issues-in-win11/"><u>Immediate Save Action Plan: Top 6 Solutions to PPT Issues in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-display-clarity-with-gpu-reset-in-windows-11/"><u>Improve Display Clarity with GPU Reset in Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bringing-your-sony-camcorder-videos-to-life-advanced-editing-techniques/"><u>In 2024, Bringing Your Sony Camcorder Videos to Life Advanced Editing Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-clearing-vacant-directories-on-windows/"><u>Master the Art of Clearing Vacant Directories on Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-windows-upgrades-home-to-pro-pathway/"><u>Mastering Windows Upgrades: Home to Pro Pathway</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/method-for-removing-non-standard-login-profiles-in-win-11/"><u>Method for Removing Non-Standard Login Profiles in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-normalcy-to-windows-11-taskbar/"><u>Restoring Normalcy to Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-setup-integrating-gmail-into-outlook-on-windows-pcs/"><u>Streamlined Setup: Integrating Gmail Into Outlook on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-display-driver-not-starting-in-windows-1011/"><u>Troubleshooting Display Driver Not Starting in Windows 10/11</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/unveiling-microsofts-controversial-strategy-another-reason-for-user-discontent-analysis-by-zdnet/"><u>Unveiling Microsoft’s Controversial Strategy: Another Reason for User Discontent? - Analysis by ZDNet</u></a></li>
+</ul></div>
 

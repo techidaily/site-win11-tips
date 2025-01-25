@@ -1,7 +1,7 @@
 ---
 title: Breathe Life Into Your Locked Windows Screen Saver
-date: 2024-07-29T08:14:03.143Z
-updated: 2024-07-30T08:14:03.143Z
+date: 2025-01-22T19:39:14.757Z
+updated: 2025-01-24T17:56:57.496Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
  Just when you’re about to change the screen saver on your Windows device, the system settings start malfunctioning. You realize that the screen saver settings are grayed out—making it hard for you to change your current screen saver.
 
  Fortunately, we’ve got all the solutions you need. So, let’s dive in and check out the four ways to resolve this issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use the Local Group Policy Editor
 
@@ -57,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
  So, by disabling the “Force specific screen saver” feature, the "screen saver" drop-down menu in the Screen Saver Settings window won't be grayed out.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Use the Registry Editor
 
 ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
@@ -75,9 +80,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  Next, click the **Control Panel** key (folder) from the options within the "Windows" key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Clicking the Control Panel key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-control-panel-key.jpg)
 
  If the "Control Panel" key is missing, here’s how you can create it:
@@ -98,18 +100,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  To enable the “ScreenSaveActive” option in the Registry Editor, double-click on this option and then set the "Value data" as **1**. From there, press **OK** and then restart your device to save the changes.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Change the Power Settings
 
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
@@ -128,9 +118,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 2. Scroll down to the **Power management** section.
 3. Click the **Change power settings** option.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clicking the Change power settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-change-power-settings-option.jpg)
 
  Select the **Change plan settings** option on the "Power Options" screen. This will display the "Edit Plan Settings" screen.
@@ -141,9 +128,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 2. Click the drop-down menus next to these options and select **Never** for all the options.
 3. Click the **Save Changes** button.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clicking the Save Changes button on the Edit plan settings screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-save-changes-button-on-the-edit-plan-settings-screen.jpg)
 
  Next, configure the advanced power settings through these steps:
@@ -156,20 +140,26 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
 ![Selecting the Display option in the Power Options screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-display-option-in-the-power-options-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, expand the "Desktop background settings" option and select **Never** for all the options in this section. Finally, click **Apply** and then click **OK** to save these changes.
 
  Want to restore your power settings to their defaults at a later stage?
 
  Simply navigate to the "Power Options" screen as per the previous steps and then click the **Restore plan defaults** button. Finally, click **Apply** and then click **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clicking the Restore plan defaults button in the Power Options screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-restore-plan-defaults-button-in-the-power-options-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Change the Power Settings via the Control Panel
 
  In some rare instances, you might not be able to access the power settings via the Screen Saver Settings window. So, this means you’d have to configure the power settings directly via the Control Panel.
@@ -181,24 +171,25 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 3. Select **Power Options** from the menu items.
 4. Click **Change plan settings** from the options. This will take you to the "Edit Plan Settings" screen.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![The Edit Plan Settings on the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-edit-plan-settings-on-the-control-panel.jpg)
 
  From there, you can edit all the necessary power settings using the tips we covered in the previous section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Get Rid of System Corruption or Update Your PC
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![Computer antivirus illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Computer-antivirus-illustration.jpg)
 
  Still struggling to resolve the "grayed out screen saver settings" issue? If so, then maybe the error is caused by corrupted system files. In this case, you can [repair corrupt Windows files with built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) like DISM and SFC.
 
  And if all else fails, [update your Windows device](https://www.makeuseof.com/update-windows-manually/) and see if that helps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You've Successfully Restored Your Screen Saver Settings
 
@@ -208,11 +199,27 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  Fortunately, we’ve got all the solutions you need. So, let’s dive in and check out the four ways to resolve this issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-foremost-quintet-of-cutting-edge-photo-tech/"><u>[New] 2024 Approved Foremost Quintet of Cutting-Edge Photo Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-windows-10s-native-features-to-cut-videos-instantly/"><u>[New] Master Windows 10'S Native Features to Cut Videos Instantly</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-boost-views-top-10-free-tools-for-custom-youtube-thumbnails/"><u>[Updated] Boost Views Top 10 Free Tools for Custom YouTube Thumbnails</u></a></li>
+<li><a href="https://some-tips.techidaily.com/agility-vs-ai-growth-why-they-struggle-together-according-to-recent-research-insights-from-zdnet/"><u>Agility vs AI Growth: Why They Struggle Together According to Recent Research - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-off-a-solution-for-windows-users/"><u>Bluetooth Off: A Solution for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reviving-deadlocked-downloads-in-windows-11-3/"><u>Guide to Reviving Deadlocked Downloads in Windows 11 (3)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-off-screen-windows-essential-techniques-for-win11/"><u>Restoring Off-Screen Windows: Essential Techniques for Win11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simple-win-steps-for-fishy-sounds-alteration-for-2024/"><u>Simple Win Steps for Fishy Sounds Alteration for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-unblock-access-of-closed-email-folders/"><u>Step-by-Step Guide to Unblock Access of Closed Email Folders</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/tecno-camon-30-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Tecno Camon 30 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-top-tech-problems-in-hearts-of-iron-4-solutions-revealed/"><u>Troubleshooting Top Tech Problems in Hearts of Iron 4 - Solutions Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11s-guide-to-recover-from-dxgi-device-failure/"><u>Win 11'S Guide to Recover From DXGI Device Failure</u></a></li>
+</ul></div>
+

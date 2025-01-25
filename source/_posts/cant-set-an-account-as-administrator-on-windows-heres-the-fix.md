@@ -1,7 +1,7 @@
 ---
 title: Can't Set an Account as Administrator on Windows? Here's the Fix
-date: 2024-07-29T08:11:15.110Z
-updated: 2024-07-30T08:11:15.110Z
+date: 2025-01-19T18:59:56.970Z
+updated: 2025-01-25T00:06:50.659Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 
  Below, we explore various effective fixes to resolve this problem permanently.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Modify the User Account Control (UAC) Settings
 
  User Account Control (UAC) is a security feature that prevents users from making unauthorized changes to the computer. It typically appears as a dialog box, prompting you to confirm the action by clicking the "Yes" or "No" option.
@@ -34,16 +31,21 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 3. In the following window, navigate to **System and Security** \> **Security and Maintenance**.
 4. Choose **Change User Account Control settings**.
 5. In the dialog that appears, move the slider to the desired level (recommended: notify only when apps try to make changes to your computer) and click **OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The User Account Control Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-uac-settings.jpg)
 
  Once done, close the Command Prompt and check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Activate the Built-In Administrator Account
 
 ![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-built-in-admin-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows comes with a hidden administrator account that can allow you to have full control over the system. This account is typically disabled by default for security reasons but if you are having trouble switching to an administrator account, enabling the built-in Administrator account can be beneficial.
 
@@ -69,9 +71,6 @@ net user administrator /active:yes
 
  This should successfully activate the built-in administrator account. You can now access the Settings app again and check if you can switch the account type easily now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 3\. Make the Changes in Safe Mode
 
  It's possible that a background process or application is causing interference with system processes, which could be preventing you from switching to an administrator account.
@@ -82,24 +81,11 @@ net user administrator /active:yes
 
 ## 4\. Disable Your Antivirus Program
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you are using a third-party security program on your computer, it might be preventing you from switching to an admin account because of security reasons.
 
@@ -107,11 +93,12 @@ Key features:
 
  If this works, you can consider [switching to a better security program for your Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) to prevent issues like this from occurring in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Create a New Administrator Account
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Finally, if none of the methods above have helped you, you can try creating a new administrator account in Windows
 
  This will help with any corruption issues in the current account, as well as help you determine if the permission-related problems were user-specific. It is, however, important to note that you will require admin access to the system to proceed with the steps in this method, so you must enable the built-in administrator account beforehand.
@@ -128,20 +115,20 @@ Key features:
 7. Once the account is created, click on the **Change account type** button associated with the newly created account.  
 ![The Change account type button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-account-type-option.jpg)
 8. Expand the Account type dropdown and choose **Administrator** from the menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Click **OK** to save the changes.
 
  You can now log into the new administrator account and begin using it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Enjoy Administrative Access to Your Windows System
 
  The inability to change an account type to Administrator in Windows can be caused by a number of reasons, such as misconfigured User Account Control (UAC) settings or underlying system issues. However, with the right troubleshooting methods, you can overcome the account type change challenge and enjoy administrative access to the system.
 
  Below, we explore various effective fixes to resolve this problem permanently.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -149,3 +136,27 @@ Key features:
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-expert-tips-for-seamless-instagram-streaming-using-obs/"><u>[Updated] 2024 Approved Expert Tips for Seamless Instagram Streaming Using OBS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates/"><u>[Updated] 2024 Approved How Much Money Can You Make via YouTube Ad Revenue and CPM Rates?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-inside-the-drone-an-in-depth-review-of-dji-phantom-3-pro-for-2024/"><u>[Updated] Inside the Drone An In-Depth Review of DJI Phantom 3 Pro for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-chill-bites-analysis-in-depth-review-of-ice-cream-recorder/"><u>2024 Approved Chill Bites Analysis In-Depth Review of Ice Cream Recorder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dont-skip-the-savings-commit-to-regular-windows-backup/"><u>Don't Skip the Savings: Commit to Regular Windows Backup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevating-visual-fidelity-introduction-to-4k/"><u>Elevating Visual Fidelity: Introduction to 4K</u></a></li>
+<li><a href="https://howto.techidaily.com/hands-on-with-the-apple-iphone-15-pro/"><u>Hands-On With the Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-other-application-uses-from-disrupting-sound/"><u>How to Stop 'Other Application Uses' From Disrupting Sound</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-update-bios-in-windows-11/"><u>How to Update BIOS in Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962199836-how-to-update-your-asus-dvd-drives-with-official-drivers-free-downloads/"><u>How to Update Your ASUS DVD Drives with Official Drivers - FREE Downloads!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instructive-path-to-setup-windows-for-in-hand-typing/"><u>Instructive Path to Setup Windows for In-Hand Typing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-inactive-outlook-delivery-reports-on-desktop/"><u>Overcoming Inactive Outlook Delivery Reports on Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-windows-queries-using-everythingapp/"><u>Quick Windows Queries: Using EverythingApp</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-opengl-error-code-3-on-windows-and-nvidia-gpus/"><u>Remedy for OpenGL Error Code 3 on Windows & Nvidia GPUs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y100-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y100</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-artificial-intelligence-applications-for-enhancing-content-creation-efficiency/"><u>Top 8 Artificial Intelligence Applications for Enhancing Content Creation Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-the-upcoming-expiry-message-on-w10-and-w11/"><u>Troubleshooting the “Upcoming Expiry” Message on W10 & W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-power-of-windows-fixes-for-unresponsive-keyboard-shortcuts-and-combinations/"><u>Unlock the Power of Windows: Fixes for Unresponsive Keyboard Shortcuts and Combinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-high-resolution-quests-expert-techniques-for-playing-classics-in-hd-on-windows/"><u>Winning at High-Resolution Quests: Expert Techniques for Playing Classics in HD on Windows</u></a></li>
+</ul></div>
+

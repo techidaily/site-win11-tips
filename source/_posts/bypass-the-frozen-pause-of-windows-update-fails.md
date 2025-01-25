@@ -1,7 +1,7 @@
 ---
 title: Bypass the Frozen Pause of Windows Update Fails
-date: 2024-07-29T08:12:49.007Z
-updated: 2024-07-30T08:12:49.007Z
+date: 2025-01-22T21:55:40.334Z
+updated: 2025-01-24T20:56:44.624Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 
  But, it is not difficult to get the Windows Update Troubleshooter working again—as you will discover by exploring the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Restart Your Computer
 
  You may have rebooted your phone at times to fix some lags and stuck applications. And you probably know that restarting your Windows PC works in the same way—it can fix issues like an unresponsive app and glitches too.
@@ -33,14 +30,6 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 
  Then try running the Windows Update Troubleshooter to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 2\. Clear the DNS Cache
 
  When you run the Windows Update Troubleshooter, it checks for Windows update issues, diagnoses, and resolves problems, resets Windows Update components, clears temporary files, and more. To do all this, it needs a stable internet connection.
@@ -52,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
  But you can clear or flush the DNS cache to resolve security and internet connectivity issues. Check out[how to flush the DNS cache on Windows](https://www.makeuseof.com/flush-dns-cache-windows/) for more information on how to do this.
 
  If the process is successful, you will get the confirmation message of the DNS Resolver Cache being successfully flushed. Now try running the Windows Update Troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Restart Windows Cryptographic Services
 
@@ -65,6 +58,11 @@ To fix this, you can try restarting Cryptographic Services.
 2. In the**Services** app, look for**Cryptographic** **Services** and double-click on it to open its**Properties** .  
 ![Windows Cryptographic Services in the Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-cryptographic-services.jpg)
 3. In**Properties** , click the**Stop** button to stop Cryptographic Services.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
 4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
 ![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
@@ -82,6 +80,10 @@ To fix this, you can try restarting Cryptographic Services.
 
  After these scans finish running, try running the Windows Update Troubleshooter again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Update System Drivers
 
  Computer drivers enable Windows and its components to communicate and function efficiently. So it's good for you to[know what drivers are and why you should keep them updated](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) .
@@ -94,17 +96,19 @@ To fix this, you can try restarting Cryptographic Services.
 2. Click**Windows Update** in**Settings** and then on the right pane select**Advanced options** .  
 ![Advanced Options in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options-windows-update.jpg)
 3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
 4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Configure Troubleshooting in Group Policy Editor
 
  The Windows Update Troubleshooter may be stuck if the troubleshooting service is disabled in the Group Policy Editor.
@@ -122,23 +126,14 @@ To edit and enable the Scripted Diagnostics policy:
 4. In the**Group Policy Editor** , navigate to**Scripted Diagnostics** using the following path:  
 `Computer Configuration > Administrative Templates > System > Troubleshooting and Diagnostics > Scripted Diagnostics`
 5. In the left pane, click on**Scripted Diagnostics** to open its three items.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Open Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-scripted-diagnostics-policy.jpg)
 6. Double-click on the first item and select the**Enable** option in the window that opens.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable Each Item in Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-items-of-scripted-diagnostics-policy.jpg)
 7. Finally, tap on**Apply** and then**OK** .
 8. Repeat steps 5 and 6 for the other two items of Scripted Diagnostics.
 
  Now close the Group Policy Editor and run the Windows Update Troubleshooter.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Get the Windows Update Troubleshooter Working Again to Fix Update Errors
 
  It's important to have the Windows Update Troubleshooter running fine. Try the above fixes if it ever gets stuck or stops working. And ensure you can install essential updates to enjoy a smooth and secure Windows experience.
@@ -151,8 +146,6 @@ To edit and enable the Scripted Diagnostics policy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +153,20 @@ To edit and enable the Scripted Diagnostics policy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/arrative-mastery-essential-tactics-for-youtube-success/"><u>[New] Narrative Mastery Essential Tactics for YouTube Success</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-satirize-a-guide-to-parody-production/"><u>2024 Approved How to Satirize A Guide to Parody Production</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-error-dual-software-misalignment/"><u>Correcting Windows Error: Dual Software Misalignment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empowering-users-cutting-edge-enhanced-run-utility-for-windows-1011/"><u>Empowering Users: Cutting-Edge Enhanced Run Utility for Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disguise-taskbars-search-in-windows-11/"><u>How To Disguise Taskbar's Search in Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-a-step-by-step-guide-to-crafting-facebook-visual-stories/"><u>In 2024, A Step-by-Step Guide to Crafting Facebook Visual Stories</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/journey-through-a-sea-of-top-tier-ms-store-apps/"><u>Journey Through a Sea of Top-Tier MS Store Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-look-for-task-managers-launch-screen-win11/"><u>New Look for Task Manager's Launch Screen (Win11)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-slow-boot-up-problems-in-star-wars-battlefront-ii-pc-gaming-experience/"><u>Overcoming Slow Boot-Up Problems in Star Wars Battlefront II PC Gaming Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transcend-media-limits-selecting-top-alternatives-from-flv-to-youtubes-for-2024/"><u>Transcend Media Limits Selecting Top Alternatives From FLV to YouTubes for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-why-cant-i-start-a-game-of-red-dead-redemption-2/"><u>Troubleshooting: Why Can't I Start a Game of Red Dead Redemption 2?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-ip-port-inspection-strategies/"><u>Windows IP Port Inspection Strategies</u></a></li>
+</ul></div>
 

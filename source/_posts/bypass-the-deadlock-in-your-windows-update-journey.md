@@ -1,7 +1,7 @@
 ---
 title: Bypass the Deadlock in Your Windows Update Journey
-date: 2024-07-29T08:14:20.330Z
-updated: 2024-07-30T08:14:20.330Z
+date: 2025-01-19T22:41:34.928Z
+updated: 2025-01-24T22:49:10.224Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
  Below, we have listed the most effective troubleshooting methods you can try to fix this issue for good.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Wait for the Process to Complete
 
  It may take longer for some Windows updates to install, so before you begin troubleshooting, ensure that the update is stuck and not in between operations.
@@ -62,21 +63,15 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 5. In the Properties dialog, click on the **Stop** button.  
 ![Stop button in Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/win10-windows-update-properties-stop.jpg)
 6. Wait for a few seconds before hitting the **Start** button again.
-7. Expand the dropdown for Startup type and choose **Automatic** from the list.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Expand the dropdown for Startup type and choose **Automatic** from the list.  
 ![Startup type of service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-update-automatic-startup-type.jpg)
 8. Click **Apply** \> **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Scan for Viruses
 
  Your operating system might also be infected with a virus or corruption error that is preventing you from installing the latest updates.
@@ -85,16 +80,14 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 
  However, if you are unable to use the basic Windows features and applications installed, then you must first [boot into Repair Mode](https://www.makeuseof.com/fix-windows-11-stuck-preparing-windows/). Once you are in the Repair Mode, head over to **Troubleshoot** \> **Advanced options**. Then, choose **Command Prompt** from the list of options and run the scans.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If these utilities find any issues, they will attempt to resolve them without requiring your input. After the scans, check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 5\. Run the Windows Update Troubleshooter
 
  Another troubleshooting method that has helped users fix the issue is running the Windows Update troubleshooter. This is a built-in utility that is specifically designed by Microsoft to fix issues regarding Windows updates.
@@ -103,18 +96,20 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 
 1. Press **Win** \+ **I** to open Windows Settings.
 2. Choose **Troubleshoot** from the left pane and click on **Other troubleshooters** on the right side of the window.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/other-troubleshooters-1.jpg)
 3. In the following window, look for Windows Update troubleshooter and click on the **Run** button associated with it.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Run button for Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-update-troubleshooter.jpg)
 4. The troubleshooter will now begin scanning the system for potential errors. If it finds issues, it will recommend fixes. In that case, click on **Apply this fix**.
 5. If not, click **Close the troubleshooter** and move to the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Boot Into Safe Mode
 
@@ -131,12 +126,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Restart button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-startup-settings-restart.jpg)
 4. Hit the F5 key on the keyboard to proceed. This will launch the Safe Mode successfully.
 5. In Safe Mode, restart your PC the normal way (**Start menu** \> **Sign out** \> **Restart**).  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Restart Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-safe-mode-restart.jpg)
 
  Upon reboot, the issue should no longer appear. You can now check if the updates are successfully installed. If not, you can try any one of [the different methods to update Windows manually](https://www.makeuseof.com/update-windows-manually/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resume the Update Process on Windows 11
 
@@ -146,11 +142,33 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Below, we have listed the most effective troubleshooting methods you can try to fix this issue for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-determining-facebook-video-orientation-choices-ahead/"><u>[New] In 2024, Determining Facebook Video Orientation Choices Ahead</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-top-14-youtube-gaming-video-ideas-to-boost-gaming-channels/"><u>[New] In 2024, Top 14 YouTube Gaming Video Ideas to Boost Gaming Channels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-video-multitasking-in-chromes-pip-mode-on-all-devices/"><u>[New] Navigating Video Multitasking in Chrome’s PIP Mode on All Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-capturing-perfect-sounds-our-top-6-recommendations-for-livestreamers/"><u>[Updated] 2024 Approved Capturing Perfect Sounds Our Top 6 Recommendations for Livestreamers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tiktok-to-twitter-strategy-for-maximum-engagement/"><u>2024 Approved TikTok-to-Twitter Strategy for Maximum Engagement</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/come-ottimizzare-la-risoluzione-dei-tuoi-video-hd-e-4k-su-pc-e-mac/"><u>Come Ottimizzare La Risoluzione Dei Tuoi Video HD E 4K Su PC E Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-windows-11-cannot-open-file-issue-for-writing/"><u>Counteracting Windows 11: Cannot Open File Issue for Writing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-it-admin-access-limited-error-in-winsec/"><u>Disabling IT Admin Access Limited Error in WinSec</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-space-management-in-windows-revealed/"><u>Efficient Space Management in Windows, Revealed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/enhancing-fb-videos-with-background-tracks-a-guide-for-2024/"><u>Enhancing FB Videos with Background Tracks A Guide for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-mp3-file-modification-a-step-by-step-guide-for-2024/"><u>Mastering MP3 File Modification A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-moving-your-onedrive-on-win-11/"><u>Mastering the Art of Moving Your OneDrive on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/outdated-systems-alert-windows-781-support-cuts-off-by-microsoft/"><u>Outdated Systems Alert: Windows 7/8.1 Support Cuts Off by Microsoft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remote-pc-management-via-ios-and-android/"><u>Remote PC Management via iOS and Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/revolutionize-design-with-the-top-tier-plugins-for-ae-for-2024/"><u>Revolutionize Design with the Top-Tier Plugins for AE for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-recover-lost-control-functionality-in-windows-11/"><u>Steps to Recover Lost Control Functionality in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sticky-notes-management-on-windows-1110/"><u>Sticky Notes Management on Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-techniques-to-reconstruct-damaged-windows-registry-sections/"><u>Unveiling Techniques to Reconstruct Damaged Windows Registry Sections</u></a></li>
+</ul></div>
+

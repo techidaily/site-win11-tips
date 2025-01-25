@@ -1,7 +1,7 @@
 ---
 title: Strategies for Java VM Initialization Fixes on Windows
-date: 2025-01-11T17:22:18.819Z
-updated: 2025-01-18T18:16:29.352Z
+date: 2025-01-19T00:55:08.525Z
+updated: 2025-01-25T01:23:26.299Z
 tags:
   - windows10
   - windows11
@@ -42,12 +42,16 @@ To check the Java version installed on Windows:
 4. The output will list the JDK version installed on your computer and the installation date.
 5. If you have recently installed an update, check if the information checks out. If not, try to install the latest version available from the[Java website](https://www.oracle.com/in/java/technologies/downloads/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. End the Java Process in Task Manager
 
 ![end java process task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-java-process-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the error is triggered when installing Java, check if a Java process is running in the background. You can use Task Manager to find and end background processes that may prevent you from installing the Java Runtime Environment or the development kit.
@@ -57,7 +61,7 @@ To check the Java version installed on Windows:
 3. Select and click**End Task** to close the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run Java as an Administrator
@@ -72,10 +76,6 @@ To check the Java version installed on Windows:
 
  To remedy this issue, you can increase the Java heap size. You can do this by modifying the**Runtime Parameters** from**Java Runtime Environment Settings** or changing the**\_JAVA\_OPTIONS** variable value to your preference.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Increase Java Heap Size by Manually Modifying Variables
 
 To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
@@ -84,9 +84,18 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![edit the system environmental variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-the-system-environmental-variables.jpg)
 2. Next, select**Edit the system environment variables** to open**System Properties** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the**Advanced** tab, click**Environment Variables** .  
 ![The Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-variables-button.jpg)
 4. In the**System Variables** section, click**New** . It is important to select the correct section.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows new system variable java options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-new-system-variable-java-options.jpg)
 5. Type**\-JAVA\_OPTIONS** in the**Variable name** field.
 
@@ -96,7 +105,7 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
  Next, launch the app that shows the error and check if the error is resolved. If not, open**Environmental Variables** again. Select the -**JAVA\_OPTIONS** variable and click**Edit** . In the**Value data** field, type**\-Xmx1024M** to increase the memory size to 1**024 MB (1GB)** . Click**OK** and check for any improvements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Increase Java Heap Size Using the Java Control Panel
@@ -115,10 +124,6 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![Java runtime environment settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-runtime-environment-settings.jpg)
 7. Click**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Uninstall and Reinstall Java
 
 ![uninstall java Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-java.jpg)
@@ -134,10 +139,6 @@ To clean install Java:
 5. Restart your computer to apply the changes.
 6. Next, go to the[Java Downloads page](https://www.java.com/en/download/manual.jsp/) and download the latest version available for your operating system. Make sure to download the correct version (32-bit/64-bit), depending on the system architecture.
 7. Run the installer and click**Install** . Follow the on-screen instructions to complete the installation and restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Install Java in a WindowsClean Boot State
 
@@ -164,16 +165,14 @@ To clean install Java:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-understanding-cropping-settings-in-digital-editors/"><u>[Updated] 2024 Approved Understanding Cropping Settings in Digital Editors</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/becoming-a-social-media-storyteller-on-facebook-for-2024/"><u>Becoming a Social Media Storyteller on Facebook for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-on-picking-the-right-nvidia-driver-type/"><u>Expert Tips on Picking the Right Nvidia Driver Type</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/game-on-solving-your-origin-software-errors-for-an-uninterrupted-experience/"><u>Game On! Solving Your Origin Software Errors for an Uninterrupted Experience</u></a></li>
-<li><a href="https://article-tips.techidaily.com/how-to-digitize-your-old-photos-and-turn-them-into-videos-for-2024/"><u>How to Digitize Your Old Photos and Turn Them Into Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-store-error-code-0x80131500/"><u>How to Fix the Microsoft Store Error Code 0X80131500</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-best-10-animated-text-software-for-stunning-visuals/"><u>New In 2024, Discover the Best 10 Animated Text Software for Stunning Visuals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-chromes-sudden-shutdown-a-windows-guide/"><u>Preventing Chrome's Sudden Shutdown: A Windows Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23-fe-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 FE Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-restore-your-pcs-renderer-state-in-overwatch-2/"><u>Steps to Restore Your PC's Renderer State in Overwatch 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unraveling-destiny-2s-202e-fix-for-the-infamous-broccoli-crash-error/"><u>Unraveling Destiny 2'S 202E Fix for The Infamous Broccoli Crash Error</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-seamless-media-switching-your-ultimate-guide-for-srt-conversion-for-2024/"><u>[New] Seamless Media Switching Your Ultimate Guide for SRT Conversion for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-masterful-approach-to-creating-attractive-yt-summaries/"><u>[Updated] In 2024, Masterful Approach to Creating Attractive YT Summaries</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-search-comments-on-youtube-quickly/"><u>2024 Approved How to Search Comments on YouTube Quickly?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/commanding-your-pcs-performance-horizon-with-cpu/"><u>Commanding Your PC's Performance Horizon with CPU</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-a-fully-active-windows-11-system/"><u>Ensuring a Fully-Active Windows 11 System</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-x100-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo X100 Pro Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-microsoft-store-crashes-with-error-0x80073cf3/"><u>Tackling Microsoft Store Crashes with Error 0X80073CF3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-elderly-directx-experience-via-advanced-dxvk-support/"><u>Transforming Elderly DirectX Experience via Advanced DXVK Support</u></a></li>
 </ul></div>
 

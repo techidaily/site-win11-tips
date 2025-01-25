@@ -1,7 +1,7 @@
 ---
 title: Bypassing Windows Permission Issues Easily
-date: 2024-07-29T08:10:49.139Z
-updated: 2024-07-30T08:10:49.139Z
+date: 2025-01-23T19:41:51.415Z
+updated: 2025-01-24T21:02:17.485Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,12 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  How can we determine what is causing this error and fix it? In this article, we'll examine the reasons behind this error and suggest fixes to prevent it from occurring again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Why Does the “You Don’t Have Permission to Access / On This Server” Error Occur?
 
  The major causes of the "you don't have permission to access / on this server" include a server-side issue with the website you are trying to access, interference from the browser's cache and cookies, a website not being accessible in your geographical location, an interference from your ISP or merely using a proxy server on your Windows device.
 
  To fix the "you don't have permission to access / on this server" issue on your browser, you need to clear the browser's cache and cookies, enable or disable a VPN, change the DNS, delete your browser history, or disable any proxy network you're using. There may also be a need to reset or reinstall the browser if the major fixes do not work.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## First, Rule Out Server-Side Issues
 
  First, you should verify that the problem isn't coming from the server that hosts the website or webpage you're trying to access. To eliminate this possibility, use another browser on your device and try accessing the website again.
@@ -43,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 * If you encounter the same error on another laptop, even when connected to a different internet connection, it is likely a server-side issue, so you should wait until the administrator fixes it.
 
  Once you're confident there is no server-side issue, apply the appropriate fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Next, Apply Preliminary Checks
 
@@ -59,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  If switching browsers resolves the error, indicating a browser-specific issue, apply the following fixes:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### 1\. Clear the History, Cache, and Cookies on Your Browser
 
 ![an image showing a processing progress bar, an hourglass and cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Manually-and-Automatically-Clear-Browser-History-Featured.jpg)
@@ -72,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  We have guides on clearing browsing data in[Chrome](https://www.makeuseof.com/clear-browsing-data-google-chrome/) ,[Firefox](https://www.makeuseof.com/clear-cache-firefox/) , and[Edge](https://www.makeuseof.com/how-to-clear-microsoft-edge-cache-browsing-data/) . When clearing the data, check the boxes for cache and cookies too. If you're using another browser, refer to its official website for instructions about cleaning it up.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Reset Your Browser
 
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
@@ -83,12 +75,13 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  Every browser has a different reset process. For the most-used browsers, we have a guide on[how to reset Chrome and Firefox](https://www.makeuseof.com/tag/reset-chrome-firefox/) . If you are using a different browser, refer to the official guidelines provided by that particular browser.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Fix Network Related Issues
 
  If changing the network connection fixes the problem on your device, and you want to use your primary network, then apply these fixes:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Disable or Enable Your VPN
 
@@ -99,18 +92,20 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 Proceed to the next step if either of these changes does not help.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Change Your DNS
 
  Sometimes your ISP blocks you from accessing certain types of web content. If the site you're accessing also falls under the blocked content, you'll likely encounter errors. Changing your DNS can help eliminate this possibility. If you're unfamiliar with the process, check out[our guide on how to change DNS in Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Disable Any Proxy Servers You Are Using
 
 ![storage servers placed on top of one another in a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/storage-servers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Do you prefer to browse the web privately and always keep your proxy server on at all times? If so, the proxy server could be causing the interference. The best way to determine whether this is the case is to disable it and see if it fixes the issue. Our guide explains[how to turn off or disable the proxy setting](https://www.makeuseof.com/windows-11-disable-proxy/) if you've never done it before.
 
@@ -118,18 +113,19 @@ Proceed to the next step if either of these changes does not help.
 
  The Windows firewall or antivirus can prevent you from accessing specific URLs. To prevent that from happening, whitelist the browser in firewall settings. Don't know where to begin? Check out our guide on[how to whitelist any app through a Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix Annoying Browser Errors on Windows
 
  Random errors can upset us when accessing our favorite content. Hopefully, after applying the fixes in this article, you should be able to fix the annoying "you don't have permission to access / on this server" error. If the error persists on your default browser, you should switch to another browser and make it your default.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +134,26 @@ Proceed to the next step if either of these changes does not help.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-from-stills-to-movement-examining-the-action-potential-of-camplus/"><u>[New] 2024 Approved From Stills to Movement Examining the Action Potential of Cam+</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-profit-potential-unlocked-how-to-enroll-in-youtubes-membership/"><u>[Updated] In 2024, Profit Potential Unlocked How to Enroll in YouTube's Membership</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mapping-out-instagram-deactivations/"><u>2024 Approved Mapping Out Instagram Deactivations</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/como-realizar-efectivamente-la-copia-de-seguridad-de-su-carpeta-con-facil-guia-del-usuario/"><u>Cómo Realizar Efectivamente La Cópia De Seguridad De Su Carpeta Con Fácil Guía Del Usuario</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explaining-the-significance-of-an-x-on-windows-directories/"><u>Explaining the Significance of an “X” On Windows Directories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-vanishing-alerts-on-tabs/"><u>Fixing Windows' Vanishing Alerts on Tabs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-note-12-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Xiaomi Redmi Note 12 5G Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-open-microsoft-paint-in-windows-11/"><u>How to Open Microsoft Paint in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-net-runtime-error-on-your-pc/"><u>How to Resolve .NET Runtime Error on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/ifas-big-unveil-top-laptop-selections-of-2023/"><u>IFA's Big Unveil - Top Laptop Selections of 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-wintoys-an-efficient-and-comprehensive-guide-to-a-versatile-window-utility/"><u>Mastering 'WinToys': An Efficient and Comprehensive Guide to a Versatile Window Utility</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-a25-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy A25 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/staying-one-step-ahead-of-windows-minimize-effect/"><u>Staying One Step Ahead of Windows Minimize Effect</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-rejuvenating-dormant-input-devices-in-windows/"><u>Steps for Rejuvenating Dormant Input Devices in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-steam-authentication-delays-using-rust-and-windows/"><u>Streamlining Steam Authentication Delays Using Rust and Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-childrens-tablets-approved-by-parents-insights-from-zdnet/"><u>Top-Rated Children’s Tablets Approved by Parents - Insights From ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-find-x6-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Find X6 Pro FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-short-term-suspension-of-windows-11s-defense/"><u>Understanding Short-Term Suspension of Windows 11'S Defense</u></a></li>
+</ul></div>
 

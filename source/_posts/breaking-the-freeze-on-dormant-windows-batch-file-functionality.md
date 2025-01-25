@@ -1,7 +1,7 @@
 ---
 title: Breaking the Freeze on Dormant Windows Batch File Functionality
-date: 2024-07-29T08:11:23.783Z
-updated: 2024-07-30T08:11:23.783Z
+date: 2025-01-22T17:07:08.311Z
+updated: 2025-01-25T00:15:37.395Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
  Regardless of the issue, this guide will provide methods for resolving all your BAT file issues. We will also highlight why BAT files sometimes do not run on your Windows computer.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Do BAT Files Get Deleted Instantly on Windows?
 
  BAT is an extension type (similar to EXE, JPG, or PDF files) that includes a series of instructions or commands. There could be various reasons why a BAT file might refuse to run on Windows, such as:
@@ -51,24 +52,21 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 3. Copy and paste the following prompt in the textbox: **Please correct all the syntax errors in the following .BAT file code: CODE**. Once you copy it, replace **CODE** with the actual code from your BAT file.  
 ![ChatGPT Prompt For BAT File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-for-bat-file.jpg)
 4. Press **Enter** or the **Send** button. Now ChatGPT will try to remove all the possible syntax errors and provide you with the modified version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Copy and replace the edited version with the code inside your BAT file.  
 ![ChatGPT Prompt Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-output.jpg)
 6. After making the necessary changes, save your BAT file and rerun it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To avoid such syntax error situations in the future, we recommend learning [how to create a batch file](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) properly.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Disable Your Antivirus Temporarily
 
  Sometimes, antivirus software detects normal applications and files as a system threat (due to false detection). In these cases, a good practice is to disable the antivirus or exclude such files from the settings.
@@ -76,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
  If you're using the default one that ships with Windows, here's [how to disable the Windows Security app](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) for help. Remember to enable it again after running your BAT file to protect your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Include the BAT in the Antivirus Exclusion List
 
  Another way around the antivirus issue is by adding your BAT file to the list of antivirus exclusions. This allows specific files to bypass the regular antivirus scan.
@@ -85,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
  To add the BAT file to the exclusion list, navigate to your antivirus settings or options menu. Look for a section titled **Exclusions**, **Whitelist**, or something similar. Then, add your BAT file to the exclusion list.
 
  If you're not using third-party antivirus software, check out [how to set Windows Security exclusions](https://www.makeuseof.com/windows-11-security-exclusions/) for a quick fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Adjust .BAT File Association
 
@@ -96,14 +99,13 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
 1. Press the **Win + I** keys to open the **Settings** app.
 2. Click on **Apps**, then select **Default apps**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows Apps Settings Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-apps-settings-screen.jpg)
 3. Scroll to the last and click on**Choose default by file type**.  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Windows Default Apps Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-default-apps-settings.jpg)
 4. Locate **.bat** in the list and click on **Choose a default**.  
 ![BAT File Association Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bat-file-association-settings.jpg)
@@ -138,23 +140,13 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 ![Sysdm Command In RUN App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sysdm-command-in-run-app.jpg)
 3. From the tab menu, navigate to Advanced and click the **Environment Variables** button.
 4. Under **System variables**, double-click on **ComSpec**.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![System Variables List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-variables-list.jpg)
 5. On the **Edit Environment Variable** window, ensure the variable value matches **%SystemRoot%\\system32\\cmd.exe**. If the value is different in your case, correct that.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ComSpec System Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/comspec-system-variable.jpg)
 6. Click **OK** to apply the changes.
 
  Hopefully, now your BAT file will run as expected. As a final note, always exercise caution when adjusting any system variable. For additional safety, note down the original value before making any changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Resolve All Your BAT File Issues on Windows
 
  We've pointed out every possible solution for all your Windows BAT or Batch file-related issues. So, try them once and run any batch files without errors.
@@ -163,11 +155,30 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
  Regardless of the issue, this guide will provide methods for resolving all your BAT file issues. We will also highlight why BAT files sometimes do not run on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/astering-the-art-of-selecting-free-music-for-videos/"><u>[New] Mastering the Art of Selecting Free Music for Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-leveraging-tweet-sharing-for-facebook-audience/"><u>[Updated] 2024 Approved Leveraging Tweet Sharing for Facebook Audience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-smooth-recording-techniques-for-gears-5s-battlegrounds/"><u>[Updated] Smooth Recording Techniques for Gears 5'S Battlegrounds</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/iuoajombuplusifpusnewtmownseapnplusinoplusavkeajipluswgijog5zub5asn5oqa5ben6lplusf6ycf5ouv5pwr57ek6kab5pah5lu244cnig/"><u>「電腦保存危機解救手冊: 四大技巧迅速拯救緊要文件」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-cambiar-facilmente-tu-musica-con-el-convertidor-mp3-a-ogg-gratuitamente-en-la-web-de-movavi/"><u>Cómo Cambiar Fácilmente Tu Música Con El Convertidor MP3 a Ogg Gratuitamente en La Web De Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-enhanced-settings-in-windows-11/"><u>Deciphering Enhanced Settings in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-programs-for-successful-laptop-os-change-from-apples-macos/"><u>Essential Programs for Successful Laptop OS Change From Apple's MACOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-yesteryear-to-today-reviving-gaming-with-shader-technology/"><u>From Yesteryear to Today: Reviving Gaming with Shader Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-discord-overlay-not-working-on-windows/"><u>How to Fix the Discord Overlay Not Working on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-features-for-comics-exploration/"><u>Leveraging Windows 11 Features for Comics Exploration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-data-sharing-on-pc-a-curated-list-of-leading-tools/"><u>Simplified Data Sharing on PC: A Curated List of Leading Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/snip-and-save-learn-the-techniques-of-screenshotting-sequences-in-movies-or-vids/"><u>Snip and Save: Learn the Techniques of Screenshotting Sequences in Movies or Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-address-erroneous-cpu-usage-readings-in-windows-monitoring-tool/"><u>Strategies to Address Erroneous CPU Usage Readings in Windows Monitoring Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/test-if-your-device-complies-with-windows-11-standards/"><u>Test if Your Device Complies with Windows 11 Standards</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/unveiling-wave-editor-secrets-for-first-time-audio-professionals-for-2024/"><u>Unveiling Wave Editor Secrets for First-Time Audio Professionals for 2024</u></a></li>
+</ul></div>
+

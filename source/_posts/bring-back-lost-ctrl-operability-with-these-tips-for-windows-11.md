@@ -1,7 +1,7 @@
 ---
 title: Bring Back Lost Ctrl Operability with These Tips for Windows 11
-date: 2024-07-29T08:12:26.649Z
-updated: 2024-07-30T08:12:26.649Z
+date: 2025-01-18T16:49:24.311Z
+updated: 2025-01-24T19:16:14.280Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 
  If the Ctrl key is not working on your Windows computer, you've come to the right place. This guide explains how to troubleshoot and repair the Ctrl key on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Why Isn't the Ctrl Key Working on Windows 11?
 
  If the Ctrl key on your Windows computer stops working, you may have trouble executing commands and shortcuts. Here are some of the most common reasons why this might happen:
@@ -34,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 
  Now that you know all the prime reasons that can contribute to the issue, let’s check out how to eliminate them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  If the Ctrl key on your keyboard isn't functioning, your first course of action should be to [restart your Wiindows computer](https://www.makeuseof.com/windows-restart-methods/). This action will eliminate any potential bugs or glitches responsible for the problem. Before restarting, ensure that you save any active documents or work to prevent any data loss.
@@ -44,16 +45,14 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 
  To verify whether physical damage is the prime reason behind the problem, access a [keyboard test website](https://www.makeuseof.com/test-keyboard-online-tools/) and press the Ctrl key to check if it registers the action on the site.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Keyboard layout on a Keyboard Testing website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-layout.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the website doesn't recognize the Ctrl key input, it's probable that your keyboard has sustained damage. There might be debris or other particles that are responsible for the issue. In that case, use a gentle brush or a microfiber cloth to cleanse the affected area. If you need help, check out our guide on how to [clean beneath keyboard keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Use the Windows Troubleshooter
 
  Your Windows computer has a set of troubleshooters to eliminate different system-related issues. If a key on your keyboard is not functioning correctly, you can use the keyboard troubleshooter.
@@ -62,13 +61,14 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 
 1. Press the **Win + I** hotkey to open the Settings menu.
 2. Choose **System** from the left sidebar, and then **Troubleshoot** from the right pane.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Troubleshoot option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/troubleshoot-option.jpg)
 3. Choose **Other troubleshooters.**
 4. Click the **Run** button next to Keyboard.  
 ![Keyboard troubleshooter in the setting menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Keyboard-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The troubleshooter will now look for any issues with your keyboard and try to fix them. However, if the keyboard troubleshooter fails to fix the issue, run the Hardware and Devices troubleshooter instead. For that, follow these instructions:
 
@@ -80,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 
  The Hardware and Device troubleshooter will look for any available issues and fix them without much user input. After that, restart your computer and check for the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 4\. Change Keyboard Accessibility Settings
 
  Oftentimes, your keyboard accessibility settings can affect the proper functioning of modifier keys, including the Ctrl key. In this case, you will have to disable your keyboard accessibility settings to solve the issue. Here’s how to do that:
@@ -90,6 +87,11 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 1. Open Settings, choose **Accessibility** from the left sidebar, and select **Keyboard** from the right pane.  
 ![Keyboard option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-option.jpg)
 2. Turn off the toggle next to the **Sticky keys** and **Filter keys**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Sticky keys option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sticky-keys-option.jpg)
 
  After that, restart your computer and check for the issue. If it continues, you can re-enable the sticky and filter keys.
@@ -105,39 +107,31 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 3. Expand the **Keyboards** section.
 4. Right-click on your keyboard driver and choose **Uninstall** **device**.
 5. Click **Uninstall** to confirm your selection.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![Uninstall option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option.jpg)
 
  Now, restart your computer. Upon restart, Windows will automatically reinstall the keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Download the Latest Windows Update
 
  The issue may also arise from minor bugs or glitches in your current Windows version. To fix this, [manually update Windows](https://www.makeuseof.com/update-windows-manually/) to the latest build.
 
  Upon completing the update installation, restart your system and verify the functionality of the Ctrl key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Run SFC and DISM Scans
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Sfc scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scan.jpg)
 
  Problems with crucial system files on your PC can also affect the proper functioning of the Ctrl key. If the issue arises due to corruption in these important system files, you can run SFC and DISM scans.
 
  To learn how to run these scans, check out [how to repair corrupt Windows files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Perform a Clean Boot
 
@@ -151,11 +145,27 @@ No advertising on the website.
 
  If the Ctrl key is not working on your Windows computer, you've come to the right place. This guide explains how to troubleshoot and repair the Ctrl key on your computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-a-practical-pathway-for-profit-tracking-the-straightforward-steps-to-analyze-youtube-earnings/"><u>[Updated] A Practical Pathway for Profit Tracking The Straightforward Steps to Analyze YouTube Earnings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-essential-guide-to-best-10-zero-cost-high-quality-tools-srt/"><u>[Updated] In 2024, Essential Guide to Best 10 Zero-Cost, High-Quality Tools (Srt)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-secure-and-simple-photovideo-sharing-with-ios-for-2024/"><u>[Updated] Secure and Simple Photo/Video Sharing with IOS for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-align-video-elements-in-your-playback-directory/"><u>2024 Approved Align Video Elements in Your Playback Directory</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-moonlight-shots-on-iphone/"><u>2024 Approved Mastering Moonlight Shots on iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-memorable-tweets-using-ai-assistance/"><u>Crafting Memorable Tweets Using AI Assistance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-update-issue-x8019/"><u>Eradicating Windows Update Issue X8019</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-edge-webview2-process-consuming-your-windows-memory/"><u>How to Fix the Microsoft Edge WebView2 Process Consuming Your Windows Memory</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-yuzu-emulator-fps-window-users/"><u>Maximize Yuzu Emulator FPS, Window Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-network-info-via-powershell-in-windows/"><u>Navigating Network Info via PowerShell in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-the-basics-customizing-windows-11-for-you/"><u>Revamping the Basics: Customizing Windows 11 for You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-files-enable-controlled-access-in-windows-11/"><u>Secure Your Files: Enable Controlled Access in Windows 11</u></a></li>
+</ul></div>
+

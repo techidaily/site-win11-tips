@@ -1,7 +1,7 @@
 ---
 title: "Transform Windows 11 Use: Adding an Enhanced Run Toolkit"
-date: 2025-01-11T17:22:02.201Z
-updated: 2025-01-18T17:13:34.471Z
+date: 2025-01-18T17:24:02.441Z
+updated: 2025-01-24T17:53:14.877Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add an Alternative Run Accessory to Windows With Run-Command
 
  Run-Command is a portable alternative to Run that improves upon the functionality of that accessory in many ways. As it is portable software, you can utilize it in many Windows platforms without installation. All you need to do to add Run-Command to Windows 11/10 is download and extract that software as follows:
@@ -41,17 +37,9 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The Extract Compressed (Zipped) folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window2.jpg)
 6. Then double-click the**Run-Command\_x64.exe** in that software’s unzipped folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can utilize Run-Command instead of Run. Input any command you would usually enter in Run into Run-Command. Then click**Run** or**Run as administrator** to open the app with the command entered. This app’s**Run as administrator** option is the first notable difference most users will probably notice.
 
 ![The Run-Command app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-command-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Another difference you’ll quickly notice is that Run-Command includes 13 shortcut icons. Clicking those shortcuts will open some of the most useful Windows tools. These are the utilities and windows you can access with those Run-Command shortcuts:
 
@@ -78,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 ![The Manage Favorites window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/manage-favorites-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So, what we have here is an alternative Run app in which you can add shortcuts for opening all your favorite software packages. How utterly brilliant; but why hasn’t Microsoft added such a feature to Windows’ native Run app? The Redmond developers should have added a shortcut menu to Run long ago.
 
  When Run-Command is running, you can access it with the**Windows** key +**R** keyboard shortcut that usually[opens the native Run accessory](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Run-Command remains running with its window closed. So, you can press the**Windows** +**R** hotkey to re-open Run-Command whenever you need it.
@@ -85,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
  However, you can change that keyboard shortcut to something else if preferred. To do so, click the**Options** menu; select**Hot-Key** on that menu to bring up a small window. Then select a key combination in the drop-down menus and click**OK** .
 
 ![The Options menu in Run-Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/options-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
@@ -113,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Getting Familiar With PowerToys Run
@@ -134,18 +122,30 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
 ![The $ command for accessing Control Panel applets and Settings pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can disable or enable plugins via the**PowerToys Run** tab. Scroll down to the**Plugins** section of that tab to view those options. You can click the**On** or**Off** switches to enable/disable them.
 
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make the Most of the Your Enhanced Run Accessory in Windows 11/10
@@ -167,17 +167,24 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-optimal-gear-for-enhanced-live-video-quality/"><u>[New] 2024 Approved Optimal Gear for Enhanced Live Video Quality</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-captivating-animations-creating-gifs-from-your-favorite-youtube-videos/"><u>[Updated] 2024 Approved Crafting Captivating Animations Creating GIFs From Your Favorite YouTube Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-effortless-visual-transitions-using-instagram-chroma-keying/"><u>[Updated] 2024 Approved Effortless Visual Transitions Using Instagram Chroma Keying</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-pathways-to-youtube-stardom-in-video-games-for-2024/"><u>[Updated] Pathways to YouTube Stardom in Video Games for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp4wmvmovavi/"><u>網路直通無限 - 優質MP4到WMV自由轉換：Movavi頂尖解決方案</u></a></li>
-<li><a href="https://extra-information.techidaily.com/augmented-realms-blending-tech-and-entertainment/"><u>Augmented Realms Blending Tech & Entertainment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-ultimate-12-free-collages-applications-for-your-pc-with-our-expert-recommendations/"><u>Discover the Ultimate 12 Free Collages Applications for Your PC with Our Expert Recommendations</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-11-pro-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 11 Pro Without Previous Owner?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-uploading-impeccable-content-on-youtube/"><u>In 2024, The Ultimate Guide to Uploading Impeccable Content on YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-zet-omhet-voor-mxf-files-eenvoudigheid-en-kostenloosheid-met-movavi-solutions/"><u>Online Zet Omhet Voor MXF Files: Eenvoudigheid en Kostenloosheid Met Movavi Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/veezie-3gp-in-gratis-online-wav-vormaat-met-movavi-konverteren-efficient/"><u>Veezie 3GP in Gratis Online WAV-Vormaat Met Movavi - Konverteren Efficiënt</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726221995080-mp4-mjpeg-movavi/"><u>오픈 소스에서 제공 무용 MP4-MJPEG 전환 - MOVAVI</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/etailed-insights-into-youtubes-perfected-aspect-ratios-for-2024/"><u>[New] Detailed Insights Into YouTube's Perfected Aspect Ratios for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-diverting-photographs-extracting-scenes-as-stills-in-photos-app-for-2024/"><u>[New] Diverting Photographs Extracting Scenes as Stills in Photos App for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-elevating-windows-10-photos-visuals-through-personalized-filtersmusic-for-2024/"><u>[New] Elevating Windows 10 Photos Visuals Through Personalized Filters/Music for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transformative-strategies-for-youtube-live-enthusiasts/"><u>[New] Transformative Strategies for YouTube Live Enthusiasts</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-concealed-context-commands-windows-edition/"><u>Crafting Concealed Context Commands, Windows Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-seamless-looping-videos-a-comprehensive-guide-with-6-techniques/"><u>Creating Seamless Looping Videos: A Comprehensive Guide with 6 Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-stalled-function-keys-for-brightness-control-in-windows-11/"><u>Enabling Stalled Function Keys for Brightness Control in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-techniques-for-leveraging-windows-11s-start-screen/"><u>Essential Techniques for Leveraging Windows 11'S Start Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-face-id-failures-here-are-the-ultimate-14-strategies-for-iphone-users/"><u>Experiencing Face ID Failures? Here Are the Ultimate 14 Strategies for iPhone Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-se-2022-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone SE (2022) Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-your-systems-inner-workings/"><u>Initiating Your System's Inner Workings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-system-call-issues-in-win11/"><u>Mastering the Resolution of System Call Issues in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-gaming-experience-on-windows-hardware/"><u>Optimizing Your Gaming Experience on Windows Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reduce-memory-consumption-by-connected-devices-software/"><u>Strategies to Reduce Memory Consumption by Connected Devices Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unite-windows-devices-for-streamlined-transcoding-operations-using-tdarr/"><u>Unite Windows Devices for Streamlined Transcoding Operations Using Tdarr</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-the-iphone-16-pro-isnt-worth-it-when-you-have-a-trusty-iphone-14-insights-from-zdnet/"><u>Why the iPhone 16 Pro Isn't Worth It When You Have a Trusty iPhone 14 - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-chronology-continuity-transition-with-a-windows-7-product-key/"><u>Windows Chronology Continuity: Transition with a Windows 7 Product Key</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reversing Windows 11'S Default Search Bar to Icon Format
-date: 2025-01-12T16:22:13.722Z
-updated: 2025-01-18T16:09:27.261Z
+date: 2025-01-20T01:42:10.731Z
+updated: 2025-01-24T17:50:46.720Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Happened to the Windows 11 Taskbar Search Icon?
 
 ![screenshot of the new taskbar search icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_new_search_taskbar_icon.jpg)
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
  Thankfully, there's a catch-all solution to many of these design changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Restoring Features with ViVeTool
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 ![screenshot of ViVeTool in system 32](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_vivetool_in_system_32.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ViVeTool is what we'll be using to change this feature back, and it can be found on the[GitHub page for ViVeTool](https://github.com/thebookisclosed/ViVe/releases/tag/v0.3.2) . In order to properly use this program, it needs to be extracted into the right location: System32.
@@ -58,12 +54,16 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
  When you're ready, extract the downloaded ZIP for ViVeTool into your System32 folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Restore the Windows 11 Search Bar Icon
 
 ![screenshot of the quick command menu opening windows terminal in admin mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_quick_command_windows_terminal_admin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Begin by launching an admin-level terminal window. To do this, right-click on the start menu icon, and hit**Windows Terminal - Admin** . Make sure you click**Yes** to the User Account Control window.
 
@@ -76,7 +76,7 @@ Next, input the following code into the terminal window:
  Then, all you have to do is restart. Your search icon should return to its original style.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Features Change, Even if You Don’t Want Them To
@@ -100,24 +100,20 @@ Next, input the following code into the terminal window:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-cineblend-app-seamless-video-mashups-for-instagram-for-2024/"><u>[New] CineBlend App Seamless Video Mashups for Instagram for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-comprehensive-tutorial-for-zoom-and-gmail-users/"><u>[Updated] Comprehensive Tutorial for Zoom and Gmail Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/basic-recorder-your-windows-10-companion/"><u>Basic Recorder - Your Windows 10 Companion</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/data-restoration-techniques-for-external-storage-devices/"><u>Data Restoration Techniques for External Storage Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-how-copilot-key-upgrades-your-windows-11-experience/"><u>Discovering How Copilot Key Upgrades Your Windows 11 Experience</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-installation-amd-radeon-rx-460-driver-download-guide/"><u>Effortless Installation: AMD Radeon RX 460 Driver Download Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-experience-with-these-top-7-tips-36/"><u>Elevate Your Windows Experience with These Top 7 Tips (36)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-data-security-adding-passwords-to-windows-text/"><u>Enhancing Data Security: Adding Passwords to Windows Text</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-guide-enhance-windows-bluetooth-device-with-full-sound-features/"><u>Fix Guide: Enhance Windows Bluetooth Device with Full Sound Features</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-creators-guide-to-the-top-9-affordable-video-editing-apps/"><u>In 2024, The Creator's Guide to the Top 9 Affordable Video Editing Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-package-accessibility-a-step-by-step-windows-solution/"><u>Mastering Package Accessibility: A Step-by-Step Windows Solution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proven-techniques-to-connect-airpods-with-windows/"><u>Proven Techniques to Connect AirPods with Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/retrogame-enhancement-via-retroarchs-advanced-shading-features/"><u>RetroGame Enhancement via RetroArch’s Advanced Shading Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-correcting-unreachable-windows-network/"><u>Steps for Correcting Unreachable Windows Network</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-eliminate-user-specific-ms-errors/"><u>Steps to Eliminate User-Specific MS Errors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-paper-clip-maximizer-dilemma-exploring-its-connection-with-artificial-intelligence/"><u>Understanding the Paper Clip Maximizer Dilemma: Exploring Its Connection with Artificial Intelligence</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-solutions-how-to-restore-a-disabled-apple-device/"><u>Unlocking Solutions: How to Restore a Disabled Apple Device</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-10-must-try-video-editing-apps-for-kids-featuring-free-and-paid-choices/"><u>Updated 2024 Approved 10 Must-Try Video Editing Apps for Kids, Featuring Free and Paid Choices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-step-by-step-creating-fade-inout-sequences-for-dynamic-audio/"><u>Updated 2024 Approved Step-by-Step Creating Fade In/Out Sequences for Dynamic Audio</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-elevate-your-tiktok-game-expert-mac-video-editing-guide/"><u>[New] 2024 Approved Elevate Your TikTok Game Expert Mac Video Editing Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-periscope-pro-the-in-depth-usage-guidebook/"><u>[Updated] Periscope Pro The In-Depth Usage Guidebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprerante-tactics-bring-alive-dormant-wsreset-utility/"><u>Comprerante Tactics: Bring Alive Dormant WSReset Utility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-efficiency-tips-for-lowering-news-and-interests-apps-usage-load/"><u>Enhancing Efficiency: Tips for Lowering News & Interests App's Usage Load</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-impact-of-vector-databases-on-next-generation-artificial-intelligence-systems/"><u>Exploring the Impact of Vector Databases on Next-Generation Artificial Intelligence Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-lava-yuva-3-pro-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Lava Yuva 3 Pro Without PUK Codes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-free-7-best-apps-to-go-live-on-youtube-from-iphone-or-android/"><u>In 2024, FREE 7 Best Apps to Go Live on YouTube From iPhone or Android</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-onedrive-sync-top-tips-for-seamless-data-transfer-on-windows-11/"><u>Mastering OneDrive Sync: Top Tips for Seamless Data Transfer on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-crear-enlaces-afiliados-y-profundizar-tu-seo-efectivamente/"><u>Movavi: Crear Enlaces Afiliados Y Profundizar Tu SEO Efectivamente</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-photo-fail-resolving-windows-camera-errors/"><u>Overcoming Photo Fail: Resolving Windows Camera Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-reliable-security-on-stalled-systems/"><u>Restoring Reliable Security on Stalled Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-troubleshooting-file-downloads-in-windows-os/"><u>Tips for Troubleshooting File Downloads in Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-windows-10-issues-efficiently-with-sfc-and-dism-repair-methods/"><u>Troubleshoot Windows 10 Issues Efficiently With SFC and DISM Repair Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-guide-5-steps-to-revive-defender-engine-status/"><u>Troubleshooting Guide: 5 Steps to Revive Defender Engine Status</u></a></li>
 </ul></div>
 

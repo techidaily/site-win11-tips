@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Windows 11 Usability: Integrating an Augmented Run Toolkit"
-date: 2025-01-12T17:34:26.412Z
-updated: 2025-01-18T18:30:22.332Z
+date: 2025-01-24T00:36:11.041Z
+updated: 2025-01-24T18:48:18.756Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add an Alternative Run Accessory to Windows With Run-Command
@@ -41,16 +41,12 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 ![The Extract Compressed (Zipped) folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window2.jpg)
 6. Then double-click the**Run-Command\_x64.exe** in that software’s unzipped folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can utilize Run-Command instead of Run. Input any command you would usually enter in Run into Run-Command. Then click**Run** or**Run as administrator** to open the app with the command entered. This app’s**Run as administrator** option is the first notable difference most users will probably notice.
 
 ![The Run-Command app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-command-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another difference you’ll quickly notice is that Run-Command includes 13 shortcut icons. Clicking those shortcuts will open some of the most useful Windows tools. These are the utilities and windows you can access with those Run-Command shortcuts:
@@ -74,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
 ![The Favorites menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-favorites-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can remove shortcuts added and edit the menu by clicking the**Manage Favorites** option. Select a shortcut in the Manage Favorites window and click the**X** button to remove it. Or you can click a folder button there to add new subfolders to the menu to move your shortcuts in. To edit a shortcut’s title, select it and click the rename button.
 
 ![The Manage Favorites window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/manage-favorites-window.jpg)
@@ -91,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 ![The Options menu in Run-Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/options-menu.jpg)
 
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
 
@@ -106,16 +102,12 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 7. To open PowerToys, click**Start** and**All apps** (in Windows 11). Select PowerToys on the menu
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Select the PowerToys**Run** tab.
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
 ![The Enable PowerToys Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-powertoys-run-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now press the**Alt** +**Space** hotkey to bring up a**Start typing** box. Then input the name of the software you want to launch inside PowerToys Run. Select a matching application within the results shown to open its window.
 
@@ -133,11 +125,19 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
 ![A file search command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-file-search-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To open a website with PowerToys Run, input the**//** plugin followed by a site URL. For example, try opening Bing by inputting**//www.bing.com** inside the tool’s command box. Then select the result (or press**Enter**) to open that search engine in your default browser.
 
  Another good thing about PowerToys is that you can utilize it for calculations. Input an**\=** before a sum in the PowerToys Run command box to activate the calculator. For example, entering**\=55+125** will display a 180 result. You can do calculations by inputting the**+** (addition),**\*** (multiplication),**/** (division), and**–** (subtraction) operators.
 
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
@@ -168,18 +168,20 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-elite-e-learning-platforms-beyond-udemy-explored/"><u>[New] In 2024, Elite E-Learning Platforms Beyond Udemy Explored</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-peak-of-data-preservation-cloud-service-guide-for-2024/"><u>[New] The Peak of Data Preservation Cloud Service Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-craft-professional-soundscapes-for-podcasts-in-garageband-for-2024/"><u>[Updated] Craft Professional Soundscapes for Podcasts in GarageBand for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-chatbot-language-bias-revealed-by-stanford-research-the-struggle-with-non-english-languages-zdnet/"><u>AI Chatbot Language Bias Revealed by Stanford Research - The Struggle with Non-English Languages | ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-windows-gpo-a-complete-guide-for-users/"><u>Deciphering Windows GPO: A Complete Guide for Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dismiss-incompatible-prerequisite-message-in-win11/"><u>Dismiss Incompatible Prerequisite Message in Win11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-solving-surface-pro-wi-fi-connection-problems/"><u>Expert Tips on Solving Surface Pro Wi-Fi Connection Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-disabling-games-on-windows-11-list/"><u>Guide to Disabling Games on Windows 11 List</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-choice-devices-turn-pics-to-films/"><u>In 2024, Prime Choice Devices Turn Pics to Films</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-wins-most-unusual-error-codes/"><u>Solutions for Win's Most Unusual Error Codes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/stop-the-stutter-top-fixes-for-optimizing-the-sims-4-gameplay-pc-a-2024-how-to-guide/"><u>Stop the Stutter: Top Fixes for Optimizing The Sims 4 Gameplay (PC) – A 2024 How-To Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-resource-occupied-errors-152-chars/"><u>Strategies to Overcome 'Resource Occupied' Errors (152 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-secrets-of-win-11-gaming-top-seven-strategies-for-gamers/"><u>Unlock the Secrets of Win 11 Gaming: Top Seven Strategies for Gamers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-dos-and-donts-in-night-portraits/"><u>[Updated] Dos and Don'ts in Night Portraits</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-harnessing-adobe-curves-to-shape-your-images/"><u>[Updated] In 2024, Harnessing Adobe Curves to Shape Your Images</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-guide-to-free-aesthetic-iphone-image-editing-software/"><u>[Updated] The Ultimate Guide to FREE, Aesthetic iPhone Image Editing Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-reasons-why-you-shouldnt-trust-chatgpt-for-medical-advice/"><u>5 Reasons Why You Shouldn’t Trust ChatGPT for Medical Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/craft-strong-passwords-in-a-flash-wins-7-favorites/"><u>Craft Strong Passwords in a Flash: Win's 7 Favorites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experts-top-magsafe-wallets-of-the-year-the-ultimate-guide-to-choosing-your-perfect-companion-zdnet-insights/"><u>Experts' Top MagSafe Wallets of the Year: The Ultimate Guide to Choosing Your Perfect Companion | ZDNET Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-ms-offices-problematic-error-code-0x80041015/"><u>How to Eradicate MS Office's Problematic Error Code: 0X80041015</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-seamlessly-use-multiple-displays-with-windows-11/"><u>How to Seamlessly Use Multiple Displays with Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/inside-toms-electronics-hub-what-you-need-to-know/"><u>Inside Tom's Electronics Hub: What You Need To Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-web-space-with-fresh-os-installation/"><u>Navigating Web Space with Fresh OS Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-state-a-guide-for-windows-11s-error-22/"><u>Overcoming Disabled State: A Guide for Windows 11'S Error 22</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-dll-rockalldlldll-issue/"><u>Overcoming Missing DLL: Rockalldll.dll Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revise-revisions-6-windows-programs-for-timestamp-tweaks/"><u>Revise Revisions: 6 Windows Programs for Timestamp Tweaks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-manor-lords-game-crashes-on-your-computer/"><u>Troubleshooting Tips: Resolving Manor Lords Game Crashes on Your Computer</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-media-impact-with-facebook-twitter-instagram-and-youtube-analysis/"><u>Understanding Social Media Impact with Facebook, Twitter, Instagram, and YouTube Analysis</u></a></li>
 </ul></div>
 

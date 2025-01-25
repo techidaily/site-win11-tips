@@ -1,7 +1,7 @@
 ---
 title: "Building SFX Archives: A Windows 11 Guide for Beginners"
-date: 2024-07-29T08:11:26.320Z
-updated: 2024-07-30T08:11:26.320Z
+date: 2025-01-22T17:25:16.320Z
+updated: 2025-01-24T22:34:52.374Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/df6d6f7af97a6f2a263dcbc0519760a864ba0996c
 2. Type**IExpress** within the search box.
 3. Right-click the**IExpress** search result and open that wizard with elevated permissions by selecting**Run as administrator** .
 4. Click the**Create new Self Extraction Directive** **file** radio button.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Create new Self Extraction Directive file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-self-extracting-option.jpg)
 5. Select the**Extract files only** option and**Next** .  
 ![The Extract files only option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-files-only.jpg)
@@ -42,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/df6d6f7af97a6f2a263dcbc0519760a864ba0996c
 ![The Prompt user with radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/prompt-user-with-radio-button.jpg)
 3. Click**Next** and select the**Do not display license** radio button.
 4. Select**Next** again and then click the**Add** button. Hold the**Ctrl** key to choose all the files you want to include within the archive and click**Open** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Add file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-package-option.jpg)
 5. Click**Next** to proceed to a Show window step. Select the**Default** (recommended) option there.
 6. Then select**Next** again to go to the finish message step. As it’s not especially important to have a finishing message, select the**No message** radio button.
@@ -55,13 +49,19 @@ Now we can get started using IExpress Wizard:
 2. Input**SFX archive** in the**File name** box to match the one entered at step six and click**Save** .  
 ![The Save as window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/save-as-window.jpg)
 3. Press**Next** to reach the options for saving a SED. Click the**Don’t Save** option there.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Create new Self Extraction Directive file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-new-self-extracting-archive-option.jpg)
 4. Click**Next** twice more to create the archive.
 5. Wait for the package creation process to finish. Then click the Finish button on the IExpress wizard window.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Testing the SFX Archive Made With IExpress
 
  Now try extracting the files from your new self-extracting archive. Open the folder you selected to save the archive in. Then double-click the SFX archive.exe archive package.
@@ -81,16 +81,20 @@ Now we can get started using IExpress Wizard:
 3. Open the 7-Zip File Manager software, and navigate to a folder that includes some files to include in the archive within 7-Zip’s window.
 4. Select multiple files to add to an SFX archive by holding the**Ctrl** key.
 5. Click the**Add** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Add button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-zip-file-manager-window.jpg)
 6. Select the**Create SFX archive** checkbox.  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Add to Archive window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-to-archive-window.jpg)
 7. Click the**Archive** box’s ellipses button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Choose a folder to save the SFX archive in and click**Open** .
 9. Input a file name within the**Archive** box.
 10. Press the**OK** button to create your new self-extracting archive.
@@ -101,20 +105,18 @@ Testing the SFX File With 7-ZIP
 
 ![A 7-Zip self-extracting archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-zip-archive.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to set a password for the archive, you can do so within 7-Zip’s "Add to archive" window. Input some text in the**Enter password** box there. Then users will need to input a password after double-clicking the self-extracting archive. The archive will have an AES-256 encryption method set.
 
  By default, compression is set to a standard level five. However, you can change that by clicking the**Compression** level drop-down menu. Select**Maximum** or**Ultra** on that menu to increase the compression. However, those compression options are also the slowest.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![The Compression Level drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/compression-level-options.jpg)
 
  You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Share Your Files Within Self-Extracting SFX Archives
 
  It’s easy to set up self-extracting SFX archives with both IExpress and 7-Zip. Creating such archives will enable you to attach more files to emails because they reduce the overall attachment data sizes. Furthermore, recipients of such archives won’t need any extraction software installed to open them up.
@@ -127,8 +129,6 @@ Testing the SFX File With 7-ZIP
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +136,26 @@ Testing the SFX File With 7-ZIP
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-effective-usage-of-hashtags-by-advertisers-on-fb/"><u>[New] Effective Usage of Hashtags by Advertisers on FB</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-making-time-move-backwards-a-step-by-step-guide-for-instagram-videos/"><u>[New] In 2024, Making Time Move Backwards A Step-by-Step Guide for Instagram Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-revitalized-interview-questions-for-listener-involvement/"><u>[New] Revitalized Interview Questions for Listener Involvement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sonys-bdp-s6700-a-modernized-take/"><u>[New] Sony's BDP-S6700 A Modernized Take</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-threefold-mastery-in-copy-for-social-media-campaigns-increasing-impact-with-every-word-for-2024/"><u>[New] Threefold Mastery in Copy for Social Media Campaigns – Increasing Impact with Every Word for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-essential-audio-interface-guide-for-podcasters/"><u>[Updated] 2024 Approved Essential Audio Interface Guide for Podcasters</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-secret-to-social-success-innovative-square-videography-tactics/"><u>[Updated] In 2024, The Secret to Social Success Innovative Square Videography Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-browser-performance-low-ram-and-cpu-demand-analysis/"><u>Comparing Browser Performance: Low RAM and CPU Demand Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-viewing-guide-watching-movies-on-your-windows-1011-pc/"><u>DVD Viewing Guide: Watching Movies on Your Windows 10/11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-up-fixing-steam-file-limitation-issues/"><u>Easing Up: Fixing Steam File Limitation Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-download-and-install-windows-11-arm-with-iso/"><u>How to Download and Install Windows 11 ARM With ISO</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-this-years-prime-pc-vr-tech/"><u>In 2024, Unveiling This Year's Prime PC VR Tech</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-innovations-in-smart-homes-for-202/"><u>Leading Innovations in Smart Homes for 202</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-file-systems-adding-dropbox-google-drive-drives-in-windows/"><u>Navigating File Systems: Adding Dropbox, Google Drive Drives in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-invalid-profile-error-in-windows-1011/"><u>Overcoming 'Invalid Profile' Error in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-0x8007007e-failure/"><u>Overcoming Windows 0X8007007E Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remediation-of-error-messages-on-ge-sharing-feature/"><u>Remediation of Error Messages on GE Sharing Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-enable-smartfilter-security-feature/"><u>Windows 10/11: Enable SmartFilter Security Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-to-achieve-perfect-prints-from-powerpoint-on-pcs/"><u>Winning Strategies to Achieve Perfect Prints From PowerPoint on PCs</u></a></li>
+</ul></div>
 

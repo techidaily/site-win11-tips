@@ -1,7 +1,7 @@
 ---
 title: Bring Back Successful Drag Operations on Win11
-date: 2024-07-29T08:13:44.265Z
-updated: 2024-07-30T08:13:44.265Z
+date: 2025-01-23T00:43:25.402Z
+updated: 2025-01-24T20:13:03.840Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
 
  While that’s convenient, there can be times when the drag and drop feature stops working on your Windows 11 computer. If you are facing the same problem, here are some solutions that will help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Start With Some Generic Fixes
 
  It's a good idea to try some generic Windows fixes before spending time on any advanced solutions.
@@ -31,13 +35,18 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
 * **Try Clean Boot:** It’s possible that a rouge third-party app or program on your PC is causing the drag and drop feature to malfunction. If that’s the case, [booting your PC in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) will help you verify that.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Use the Esc Key
 
  At times, Windows may freeze on the last drag and drop operation and stop responding to new actions. If it's just a one-off glitch, simply resetting the drag and drop gesture should do the trick.
 
  Left-click and hold the file or folder you want to drag and click the **Esc** key. Then, release the left click on your mouse, and check if you can drag and drop items after that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Restart the Problematic App
 
@@ -45,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
 
  Press **Ctrl + Shift + Esc** to open the Task Manager. In the **Processes** tab, locate and select the faulty app or program, and click the **End task** option at the top.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Close Programs Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-programs-using-task-manager.jpg)
 
  Reopen your app and check if the issue still occurs.
@@ -64,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
 4. Click **Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Update or Reinstall Mouse Drivers
 
  Outdated or damaged mouse or touchpad drivers can also cause drag and drop to stop working in Windows 11\. If that’s the case, updating the relevant drivers should help solve the problem.
@@ -76,13 +86,14 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
 4. Right-click on your mouse or touchpad device and select **Update driver**.  
 ![Update Mouse Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-mouse-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Follow the on-screen prompts to finish updating the driver.
 
  If the issue remains even after this, you can try uninstalling the mouse driver from your PC. If you need help with that, check our guide on [how to uninstall drivers in Windows 11](https://www.makeuseof.com/windows-11-uninstall-drivers/). After removing the driver, restart your PC, and Windows will automatically reinstall the missing driver during the boot process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## 6\. Check Your Mouse for Issues
 
  Issues with your mouse can also make it seem like the drag and drop feature is not working on Windows 11\. Try disconnecting your mouse and reconnecting it to see if that works. If you’re using a wireless mouse, swap the old batteries or charge it.
@@ -104,48 +115,35 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
 `HKEY_CURRENT_USER\Control Panel\Desktop`
 5. In the right pane, double-click the **DragHeight** entry and change its value data to **4**. Then, click **OK**.
 6. Similarly, set the value of the **DragWidth** entry value to **4**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![Drag and Drop Registry Entries on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/drag-and-drop-registry-entries-on-windows.jpg)
 
  Restart your PC after making the above changes and see if the drag and drop feature works after that.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Effortlessly Move Your Files With Drag and Drop Functionality on Windows
 
  Drag and drop is one of those Windows 11 features that once you start using it, you can’t go back. Hence, it can be inconvenient when the feature stops working on your PC. We hope that going through the above tips has helped you fix the problem and put you at ease.
 
  While the default drag and drop action can help you move items quickly, you can also modify it to copy or create shortcuts for files and folders on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQ
 
 ### Q: How Do You Drag Maximized Windows in Windows 11?
 
  You drag maximized Windows in Windows 11 by pressing and holding down the Windows key and pressing an arrow key (right, left, up, or down arrow key). This changes your current window's position on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Q: How Do You Change Drag and Drop From Copy to Move in Windows 11?
 
  You can change drag-and-drops's action from copy to move by holding down the Shift key while dragging and dropping your files. This makes Windows move your files instead of copying them to a folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q: How Do You Drag and Drop From One Computer to Another?
 
  You can drag and drop files from one computer to another by opening your target computer's shared folder on your main computer and dragging your files and folders onto that folder window. This copies your computer's files to your chosen computer.
 
  While that’s convenient, there can be times when the drag and drop feature stops working on your Windows 11 computer. If you are facing the same problem, here are some solutions that will help.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -153,3 +151,27 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-top-5-best-hdmi-21-gaming-monitors-ps5-compatible/"><u>[New] 2024 Approved Top 5 Best HDMI 2.1 Gaming Monitors [PS5 Compatible]</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-guide-safe-iphone-recovery-through-itunes-without-compromising-data/"><u>Complete Guide: Safe iPhone Recovery Through iTunes Without Compromising Data</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-a78-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo A78 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-stealthy-camera-alerts-on-windows-11/"><u>Disabling Stealthy Camera Alerts on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-extend-your-win11-menu-with-portables/"><u>Effortlessly Extend Your Win11 Menu With Portables</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-countering-cant-get-mail-errors-in-mail-app-of-windows-11/"><u>Expert Guide: Countering Can't Get Mail Errors in Mail App of Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ideal-iphone-and-android-gopro-apps-cutting-edge-edits/"><u>Ideal iPhone & Android GoPro Apps Cutting-Edge Edits</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-t2-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo T2 5G without App | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pushing-the-limits-with-gopro-film-techniques/"><u>In 2024, Pushing the Limits with GoPro Film Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unveiled-top-5-visual-treats-on-social-medias-giant/"><u>In 2024, Unveiled Top 5 Visual Treats on Social Media's Giant</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478764407-lost-all-iconography-on-ios-device-heres-how-to-restore-them/"><u>Lost All Iconography on iOS Device? Here's How to Restore Them!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-11-common-windows-11-issues/"><u>Navigating 11 Common Windows 11 Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-format-issue-with-unopenable-files-in-windows-vlc/"><u>Solving Format Issue with Unopenable Files in Windows, VLC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-remove-busy-status-from-resources-on-windows-11/"><u>Strategies to Remove 'Busy' Status From Resources on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sudo-integration-in-windows-the-evolution/"><u>Sudo Integration in Windows: The Evolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-defective-zip-operations-in-win-11-os/"><u>Tackling Defective ZIP Operations in Win 11 OS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-new-earnings-threshold-youtubes-500-rule-for-2024/"><u>The New Earnings Threshold YouTube's $500 Rule for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-revised-sony-s3700-experience-for-2024/"><u>Unveiling the Revised Sony S3700 Experience for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-system-efficiency-sleep-vs-hibernate-vs-shutdown/"><u>Windows System Efficiency: Sleep Vs. Hibernate Vs. Shutdown</u></a></li>
+</ul></div>
+

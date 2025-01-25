@@ -1,7 +1,7 @@
 ---
 title: Tackling Windows 10/11'S Error 0X80073D26 in Xbox App
-date: 2025-01-15T17:30:29.872Z
-updated: 2025-01-18T16:27:47.639Z
+date: 2025-01-20T17:48:41.379Z
+updated: 2025-01-25T01:39:44.860Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Windows Store App Troubleshooting Tool
 
  This isn’t the most likely solution for error 0x80073D26, but it’s worth trying since Microsoft Store is a UWP app. Running the Windows Store App troubleshooter might detect a Microsoft Store issue and provide a fix. These are the steps for running the Windows Store App troubleshooting utility:
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 
 ![The Windows Store Apps window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-app-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can run the same troubleshooter tool in Windows 10, but the steps for accessing it are a bit different. Click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters** in Windows 10’s Settings app. Then select **Windows Store Apps** \> **Run the troubleshooter** to get troubleshooting.
 
 ## 2\. Repair and Reset the Microsoft Store App
@@ -51,7 +51,11 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Edit the Registry
@@ -86,13 +90,13 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 ![The remove-app package command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-app-package-command.jpg)
 6. Close out of PowerShell to restart Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Reopen Powershell and execute the following command:  
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`
 8. Then click the **Get** button for installing Gaming Service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Perform Some Generic Windows Fixes for Errors
 
@@ -105,7 +109,7 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
  To begin with, try repairing system files to see if there are any issues. You can do that by executing a System File Checker scan within the Command Prompt. That tool will check for and repair corrupted system files detected when you run its command. To apply this potential fix, follow the instructions in our [how to run the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Set Windows to Clean Boot
@@ -113,7 +117,7 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another possibility is that a software conflict might be causing error 0x80073D26 to occur on your PC. Setting Windows to clean boot by disabling third-party startup items will likely eliminate such a potential cause. That will stop third-party apps and services that could be conflicting with the Microsoft Store from automatically starting.
@@ -123,10 +127,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 ### Reinstall the Microsoft Store
 
 ![The remove Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-microsoft-store-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Some users might need to reinstall the Microsoft Store to fix error 0x80073D26\. Such a resolution might be necessary for fixing wider issues with the Microsoft Store app other potential solutions don’t address.
 
@@ -142,11 +142,11 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-setup-window2.jpg)
 
- You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
 
 ## Enjoy the Best Xbox Game Pass Games Available on the Microsoft Store
 
@@ -164,22 +164,24 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevating-your-chromebooks-zoom-experience/"><u>2024 Approved Elevating Your Chromebook's Zoom Experience</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/comprehensive-guide-to-macxdvds-end-user-contractual-stipulations/"><u>Comprehensive Guide to MacXDVD's End-User Contractual Stipulations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-from-mkv-to-mov-by-movavi/"><u>Free Online Converter From MKV to MOV by Movavi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-online-converter-transform-webp-images-into-animated-gifs-with-movavi/"><u>Free Online Converter: Transform WebP Images Into Animated GIFs with Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-mp4-and-avi-video-converter-by-movavi-convert-videos-without-cost/"><u>Free Online MP4 & AVI Video Converter by Movavi: Convert Videos without Cost</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/garantir-la-securite-de-lensemble-de-votre-reseau-avec-une-sauvegarde-facile-sans-effort/"><u>Garantir La Sécurité De L'ensemble De Votre Réseau Avec Une Sauvegarde Facile Sans Effort !</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-ogg-to-wmv-omzetting-online-kort-en-gemakkelijk-met-movavi/"><u>Gratis Ogg-to-Wmv Omzetting Online - Kort en Gemakkelijk Met Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-online-converter-von-aifc-to-m4a-mit-movavi-beginnen-sie-jetzt/"><u>Gratis Online Converter Von AIFC-to-M4A Mit Movavi - Beginnen Sie Jetzt</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-and-update-sas-software-in-windows-10-8-or-7/"><u>How to Install and Update SAS Software in Windows 10, 8 or 7</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-storytelling-free-soundtrack-options-available/"><u>In 2024, Elevate Storytelling - Free Soundtrack Options Available</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/los-mejores-programas-para-presentaciones-en-windows-11-top-14-seleccionados-para-el-ano-nuevo/"><u>Los Mejores Programas Para Presentaciones En Windows 11 - Top 14 Seleccionados Para El Año Nuevo</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/microsoft-and-ai-merge-for-next-gen-bing-searches/"><u>Microsoft and AI Merge for Next-Gen Bing Searches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ouroboros-uma-lista-com-10-estrategias-inteligentes-utilizando-ia-para-elevar-a-qualidade-dos-seus-videos/"><u>Ouroboros: Uma Lista Com 10 Estratégias Inteligentes Utilizando IA Para Elevar a Qualidade Dos Seus Vídeos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pioneering-physical-activity-bests-in-virtual-treadmills/"><u>Pioneering Physical Activity Bests in Virtual Treadmills</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifique-sua-experiencia-de-conversao-de-audio-visual-ferramenta-moveis-e-eficiente-para-videos-avi-oficinas-de-movie/"><u>Simplifique Sua Experiência De Conversão De Áudio-Visual: Ferramenta Móveis E Eficiente Para Vídeos AVI - Oficinas De Movie</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-file-3g2-in-formati-compatibili-3gp-gratuitamente-su-movavi/"><u>Trasforma I Tuoi File .3G2 in Formati Compatibili 3GP Gratuitamente Su Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726030074470-sd/"><u>お勧めの音楽コンバーターでSDカード保存方法 - 詳細解析</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-audio-archive-collect-and-examine-music-files/"><u>[New] Audio Archive Collect & Examine Music Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-elite-sound-recording-tools-11-selection-for-2024/"><u>[Updated] Elite Sound Recording Tools - #11 Selection for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-exclusive-nintendo-switch-fighter-lineups-max-156/"><u>[Updated] In 2024, Exclusive Nintendo Switch Fighter Lineups (Max 156)</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-realme-c67-4g-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Realme C67 4G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-advantages-of-the-arctic-freezer-36-a-milestone-in-economical-air-cooling-technology/"><u>Exploring the Advantages of the Arctic Freezer 36: A Milestone in Economical Air Cooling Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-active-directory-print-failures-on-windows-11-os/"><u>Fixing Active Directory Print Failures on Windows 11 OS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-se-2020-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-x-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your iPhone X</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-review-for-dji-phantom-3-standard/"><u>In 2024, Review for DJI Phantom 3 Standard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-task-scheduler-fails-in-windows/"><u>Overcome Task Scheduler Fails in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prevent-edit-mode-configure-ms-word-to-open-email-attachments-in-reading-layout/"><u>Prevent Edit Mode: Configure MS Word To Open Email Attachments In Reading Layout</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-unknown-not-initialized-error-in-windows-os/"><u>Solving 'Unknown Not Initialized' Error in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-pc-display-rgb-control-guide-for-win11/"><u>Tailoring Your PC Display: RGB Control Guide for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-virtual-machines-refining-your-windows-11-experience/"><u>Top Virtual Machines Refining Your Windows 11 Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-windows-steam-link-issues-effectively/"><u>Unblocking Windows Steam Link Issues Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-to-fixing-non-working-win-plus-printer/"><u>Unlocking The Secrets to Fixing Non-Working Win + Printer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-gems-of-windows-11-mouse-settings/"><u>Unveiling the Hidden Gems of Windows 11 Mouse Settings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-first-step-to-a-profitable-youtube-experience-for-2024/"><u>Your First Step to a Profitable Youtube Experience for 2024</u></a></li>
 </ul></div>
 

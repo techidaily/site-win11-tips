@@ -1,7 +1,7 @@
 ---
 title: Bridge Between Android/iOS and Windows Mic Functionality
-date: 2024-07-29T08:12:18.991Z
-updated: 2024-07-30T08:12:18.991Z
+date: 2025-01-19T21:40:06.675Z
+updated: 2025-01-24T21:09:44.504Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
  We'll show you different ways to use your phone as a microphone. The instructions herein work for both Windows 10 and Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use Your Phone as a Microphone for PC
 
  One of the best ways to achieve this is by using [WO Mic](https://wolicheng.com/womic/). With this program, you can use USB, Bluetooth, or Wi-Fi to connect your smartphone's microphone to your computer.
@@ -35,12 +32,17 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
  Launch the PC program (if you get a missing DLL error, install the [VC runtime redistributable from Microsoft](https://aka.ms/vs/16/release/vc%5Fredist.x86.exe)). Go to **Connection > Connect** and choose a **Transport type**.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect wo mic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/connect-wo-mic.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We'll detail the steps for all the different options below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Connect via Bluetooth
 
@@ -68,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 2. Tap **Transport** and select **Bluetooth**.
 3. Go back to the previous screen and tap the **play icon** to begin transmitting your voice.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### 2\. Connect via USB
 
  Connecting via USB is the best option for most people because it's more stable than a wireless connection and the latency is lower. This method only works for Android.
@@ -90,18 +89,20 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 2. Tap **Transport** and select **USB**.
 3. Go back to the previous screen and tap the **play icon** to activate your phone's microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![wo mic android app settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/wo-mic-android-app-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![wo mic android app main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/wo-mic-android-app-main-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Connect via Wi-Fi
 
  For this method, both your phone and computer need to be connected to the same Wi-Fi network.
@@ -113,10 +114,11 @@ Close
 3. Click **Show available networks**.
 4. Click the one you wish to use, then click **Connect**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows 11 available wifi networks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/windows-11-available-wifi-networks.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the mobile WO Mic app:
 
@@ -155,9 +157,6 @@ Close
 2. Leave the **Soft AP IP address** field at its default.
 3. Click **Connect**.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is Windows Not Detecting Your Voice?
 
  You shouldn't run into any problems, but if you follow the above instructions and [Windows isn't detecting the microphone](https://www.makeuseof.com/tag/fix-microphone-problems-windows-10/), there's an easy fix:
@@ -195,11 +194,33 @@ Close
 
  We'll show you different ways to use your phone as a microphone. The instructions herein work for both Windows 10 and Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-the-best-laptops-for-video-editing-you-should-know/"><u>[New] 2024 Approved The Best Laptops For Video Editing You Should Know</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-songwriters-journey-top-15-video-tips-for-music-creators/"><u>[New] 2024 Approved The Songwriter's Journey Top 15 Video Tips for Music Creators</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-explore-online-communities-with-youtube-monetization-opportunities/"><u>[Updated] In 2024, Explore Online Communities with YouTube Monetization Opportunities</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-smoothly-stitching-images-together/"><u>[Updated] Smoothly Stitching Images Together</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitters-visual-treats-free-video-to-gif-transformation/"><u>2024 Approved Twitter's Visual Treats Free Video to Gif Transformation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/chill-vibes-top-idle-pc-experiences/"><u>Chill Vibes Top Idle PC Experiences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-your-windows-experience-effective-cmd-shortcuts-in-win11/"><u>Command Your Windows Experience: Effective Cmd Shortcuts in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-windows-10-dual-software-compatibility-error/"><u>Fix 'Windows 10: Dual Software Compatibility Error'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-win11s-msresourcetext-problem/"><u>How to Tackle Win11's MsResource/Text Problem</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-xsplits-prowess-in-streaming-the-obs-counterargument/"><u>In 2024, XSplit's Prowess in Streaming? The OBS Counterargument</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insights-into-windows-reserved-memory-functions/"><u>Insights Into Windows Reserved Memory Functions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-rndis-driver-management-in-windows-your-comprehensive-guide-to-flawless-setup-and-update/"><u>Mastering RNDIS Driver Management in Windows - Your Comprehensive Guide to Flawless Setup and Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimalist-web-expeditions-top-7-browser-options-with-lower-ram-demands/"><u>Minimalist Web Expeditions: Top 7 Browser Options With Lower RAM Demands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp3-to-cd-transforming-music-with-windows-and-imgburn-technique/"><u>Mp3 to CD: Transforming Music with Windows and ImgBurn Technique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-workflow-with-essential-command-shortcuts-for-win11-users/"><u>Optimize Workflow with Essential Command Shortcuts for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-microsoft-store-error-0x80073cf3-on-win1111/"><u>Troubleshooting Microsoft Store Error 0X80073cf3 on Win11/11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphones-display-the-seven-typical-concerns-addressed/"><u>Troubleshooting Your iPhone's Display: The Seven Typical Concerns Addressed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-power-of-powershell-4-fixes-to-disable-policy-error/"><u>Unlocking the Power of PowerShell: 4 Fixes to Disable Policy Error</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-hidden-controls-for-taskbar-time/"><u>Unveiling the Hidden Controls for Taskbar Time</u></a></li>
+</ul></div>
+

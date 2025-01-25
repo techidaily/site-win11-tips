@@ -1,7 +1,7 @@
 ---
 title: Bringing Old Games Back to Life with RetroArch Shaders
-date: 2024-07-29T08:11:58.506Z
-updated: 2024-07-30T08:11:58.506Z
+date: 2025-01-19T16:57:49.612Z
+updated: 2025-01-24T20:03:09.281Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 
  However, since we are talking about emulation and retro gaming, the most popular are "CRT shaders". Those aim to make our modern flat-panel monitors look like the CRT screens on which we originally played the emulated games back in the day.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Different “Types” of Shaders in RetroArch
 
  RetroArch supports various graphic APIs. As we will see later, it also comes with shaders in multiple languages. And not all of them are compatible with all APIs.
@@ -46,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 
 **CG** should be your last option, as they are officially considered old, deprecated, and not even supported by some versions of RetroArch.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Before Choosing a Shader
 
  Before moving to the shaders themselves, let's go over some other options in RetroArch that are just as important for how your emulated games will look.
@@ -58,26 +59,24 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 1. While using RetroArch's full-screen menu, move to**Settings** and enter the**Drivers** submenu.  
 ![Retroarch Settings Drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-settings-drivers.jpg)
 2. Move to the**Video** option and choose the video driver for the graphics API you want to use (which, in our case, will be**Vulkan**).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![Retroarch Settings Drivers Video Vulkan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-settings-drivers-video-vulkan.jpg)
 3. Return to the RetroArch menu's top level and launch any game you wish to play. In this article, we will use classic games for Sony's first PlayStation console with the**Beetle PSX-HW** emulation core.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Retroarch Selecting PSX Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-selecting-psx-game.jpg)
 4. With the game up and running, return to RetroArch's menu (by default, it's accessible by pressing F1 on your keyboard). You will find yourself on a menu for the active game. Scroll down and choose the**Options** entry.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
-![Retroarch Active Game Menu Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-active-game-menu-options.jpg)
-5. Scroll down to find the**Texture Filtering** entry. Although it's unrelated to the shaders we will see next, it's just as important for how your games look. Set its value to**Nearest** to have your game's graphics look as close to the original hardware as possible,**Bilinear** or**3-point** if you want to make them look smoother through playing, and**SABR** ,**xBR** , or**JINC2** for more advanced smoothing algorithms that make games look more cartoonish.  
-![Retroarch Active Game Menu Options Texture Filtering JINC2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-active-game-menu-options-texture-filtering-jinc2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Retroarch Active Game Menu Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-active-game-menu-options.jpg)
+5. Scroll down to find the**Texture Filtering** entry. Although it's unrelated to the shaders we will see next, it's just as important for how your games look. Set its value to**Nearest** to have your game's graphics look as close to the original hardware as possible,**Bilinear** or**3-point** if you want to make them look smoother through playing, and**SABR** ,**xBR** , or**JINC2** for more advanced smoothing algorithms that make games look more cartoonish.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Retroarch Active Game Menu Options Texture Filtering JINC2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-active-game-menu-options-texture-filtering-jinc2.jpg)
+
 ## DIY Retrogame Remastering With RetroArch's Shaders
 
  Using shaders in RetroArch is as easy as selecting them through its menu. What's hard is finding the best one for what you prefer, making the games you like look how you remember them—and then tweaking them further to perfect RetroArch's visual output.
@@ -89,33 +88,33 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 2. Choose**Load Shader Preset** to load a shader.  
 ![Retroarch Active Game Menu Shaders Load Shader Preset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-active-game-menu-shaders-load-shader-preset.jpg)
 3. Move to the last folder,**shaders\_slang** , and enter it.  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Retroarch Active Game Menu Shaders Slang Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-active-game-menu-shaders-slang-folder.jpg)
 4. To help you make sense of its shader collection, RetroArch has them grouped in folders according to their type. For this article, we will go for a CRT shader to make games look like they did when displayed on old CRT monitors. You can find those shaders in the**CRT** subfolder.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Retroarch Active Game Menu Shaders Slang CRT folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-active-game-menu-shaders-slang-crt-folder.jpg)
 5. RetroArch offers many CRT shaders, each replicating different CRT screen "looks". Some merely add scanlines to mimic how CRT monitors looked uneven, with every other line a darker color. Others combine more effects like glow, blurring, color distortion, etc.  
 ![Retroarch Active Game Menu Shaders Slang CRT Royale Shader File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-active-game-menu-shaders-slang-crt-royale-shader-file.jpg)
 6. We went for the**CRT Royale** shader, which stacks various effects to achieve a look akin to Sony's old Trinitron TVs.  
 ![Retroarch Active Game Chrono Cross With CRT Royale Shader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-active-game-chrono-cross-with-crt-royale-shader.jpg)
 7. You don't like how a game looks with the shader you chose? Return to the**Shaders** menu and flick the**Video Shader** toggle back to off and back to on. This action should unload your active shader and allow you to choose a new one.  
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Retroarch Active Game Menu Switching Shaders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-active-game-menu-switching-shaders.jpg)
 8. If you find a shader you mostly like but feel looks a tad "off", don't seek further alternatives: tweak it! Return to the**Shaders** menu and scroll further down. The shader you chose will probably offer some options to tweak how it looks. For example, the**CRT Royale** shader is a package of various shaders you can tweak individually. By doing so, you can customize the amount of**bloom** , the impact of the**scanlines** , and so on.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Retroarch Active Game Menu Shaders CRT Royale Shader Customization](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-active-game-menu-shaders-crt-royale-shader-customization.jpg)
 9. After you tweak a shader's configuration, you won't see any change in your game's graphics. For that, you'll have to scroll up near the top of the same menu and select**Apply Changes** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Retroarch Active Game Menu Shaders Apply Changes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-active-game-menu-shaders-apply-changes.jpg)
 
 ## Can You Use Multiple Shaders, and Is It Even Worth Doing?
@@ -125,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
  For example, you might further improve the visuals of your games by combining a**CRT** with an**anti-aliasing** shader, but not by trying to stack three different CRT shaders on top of each other. In an extreme example, by stacking scanlines on top of scanlines, you might end up looking at a black screen instead of improved visuals.
 
  Shaders are great for making your games look the way you remember them, but they can't help you beat that final level boss. Don't fret, we won't tell anyone if you check our guide on[how to use RetroArch to make old games easier to beat](https://www.makeuseof.com/how-to-use-retroarch-cheat-retro-games/) !
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Retro Games, the Way You Remember Them
 
@@ -140,8 +143,6 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +150,23 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-shots-to-screens-the-importance-of-camera-lenses-in-vlogs-for-2024/"><u>[Updated] From Shots to Screens The Importance of Camera Lenses in Vlogs for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-youtubes-updated-monetization-playbook/"><u>2024 Approved YouTube's Updated Monetization Playbook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/4-gamers-discount-extravaganza-up-to-1000-off-dont-miss-out/"><u>4 Gamer's Discount Extravaganza! Up To $1,000 Off - Don't Miss Out!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/advanced-drive-reconstruction-software-restore-deletions-and-regain-access-to-lost-segments/"><u>Advanced Drive Reconstruction Software: Restore Deletions and Regain Access to Lost Segments</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-lenovo-ideapad-320-the-epitome-of-beauty-convenience-and-renowned-keyboard-layout-reviewed/"><u>Exploring the Lenovo Ideapad 320: The Epitome of Beauty, Convenience and Renowned Keyboard Layout Reviewed</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/identifying-your-electronics-a-guide-to-finding-devices-vid-and-pid-information/"><u>Identifying Your Electronics: A Guide to Finding Device's VID & PID Information</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-map-integration-microsoft-meets-google/"><u>Master the Art of Map Integration: Microsoft Meets Google</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-bring-back-missing-windows-patch-service/"><u>Methods to Bring Back Missing Windows Patch Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-domain-services-printing-issues-in-windows-oses/"><u>Navigating Through Domain Services Printing Issues in Windows OSes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/prime-authors-draft-platform-for-2024/"><u>Prime Author's Draft Platform for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-smooth-files-transfer-on-win11-systems-2/"><u>Re-Establishing Smooth Files Transfer on WIN11 Systems (2)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-the-default-menu-with-advanced-move-and-copy-options/"><u>Revamping the Default Menu with Advanced Move and Copy Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-sail-away-from-marooned-xbox-issue-on-windows-11/"><u>Setting Sail Away From Marooned Xbox Issue on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-a-printer-driver-in-windows-os/"><u>Step-by-Step Guide: Removing a Printer Driver in Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-touchscreen-laptop-reviews-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Ranking Touchscreen Laptop Reviews: In-Depth Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-zoom-quality-addressing-code-1132-concerns/"><u>Win 10/11 Zoom Quality: Addressing Code 1132 Concerns</u></a></li>
+</ul></div>
 

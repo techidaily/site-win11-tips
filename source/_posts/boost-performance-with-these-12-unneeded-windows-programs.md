@@ -1,7 +1,7 @@
 ---
 title: Boost Performance with These 12 Unneeded Windows Programs
-date: 2024-08-08T10:54:26.687Z
-updated: 2024-08-09T10:54:26.687Z
+date: 2025-01-19T19:49:18.417Z
+updated: 2025-01-24T20:09:22.259Z
 tags:
   - windows10
   - windows11
@@ -26,16 +26,21 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 
  On Windows 11, click the three-dot button and choose**Uninstall** to remove a program. On Windows 10, just click the entry to show the**Uninstall** button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows 10 Uninstall Store App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/Windows-10-Uninstall-Store-App.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Those still on Windows 8.1 or (the unsupported) Windows 7 can click on the Start button and search for**Programs and Features** . This will open a similar list where you can review everything currently installed on your system and uninstall unneeded apps.
 
  Depending on the software, the app might uninstall immediately or require you to advance through some dialog boxes. See our [guide to uninstalling programs on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) for more info.
 
  Now, let's look at what apps you should uninstall from Windows—remove any of the below if they're on your system!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. QuickTime
 
@@ -47,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 
 ## 2\. CCleaner
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of ccleaner 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_cccleaner.jpg)
 
  CCleaner was once a trusted Windows app for cleaning junk, but its reputation went downhill after it was acquired by Avast. Past issues include forced updates without permission, data collection that enabled itself even if you disabled the function, and the software distributing malware unknowingly.
@@ -64,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 
 ## 4\. uTorrent
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uTorrent Download Page 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/uTorrent-Download-Page-2021.png)
 
  uTorrent was once considered the gold standard of torrenting software. However, it's had a host of issues over the years that make it untrustworthy now.
@@ -75,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 
  There's no reason to bother with uTorrent. We think [qBittorrent](https://www.qbittorrent.org/) is [the best torrent client](https://www.makeuseof.com/tag/best-torrent-clients/) , as it's free of all this nonsense.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Adobe Flash Player and Shockwave Player
 
  Adobe Flash Player is no longer supported by Adobe or browsers as of January 2021\. Though it's blocked in all modern browsers now, you should still uninstall local copies of Flash. This will keep you safe from any future security issues since Adobe isn't updating it anymore.
@@ -94,18 +90,20 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 
 ## 7\. Microsoft Silverlight
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Silverlight Not Supported](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Silverlight-Not-Supported.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Silverlight is a web framework, similar to Adobe Flash, that once enabled rich media content in your browser. Years ago, these plugins were necessary on a lot of websites. But now they're deprecated and no longer useful. Looking at [W3Techs](https://w3techs.com/technologies/details/cp-silverlight/all/all) again, we see that around 0.02 percent of websites use Silverlight as of this writing.
 
  Modern browsers don't even work with Silverlight; Chrome and Firefox haven't supported it for years, and it was never compatible with Edge. Silverlight is only officially supported in [Internet Explorer, which Microsoft retired](https://www.makeuseof.com/internet-explorer-11-end-meaning/) in mid-2022\. You won't lose anything by uninstalling Silverlight.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. All Toolbars and Junk Browser Extensions
 
  When you're wondering what else to uninstall from Windows 10 or 11, another obvious candidate is junk in your browser. While toolbars were once a far more prevalent problem, modern versions of Chrome and other browsers have thankfully fought back and mostly eradicated them. However,[spammy extensions are still in the wild](http://www.makeuseof.com/tag/chrome-extensions-uninstall-right-now/) .
@@ -118,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 
  If you're a diehard Coupons.com user, you can leave this one installed so you can access its discounts. Everyone else should uninstall this program and use another coupon site that doesn't require installing anything.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Manufacturer Bloatware
 
  Unless you're running a premium device like the Surface Pro, or you installed Windows from scratch on a new desktop, chances are your computer came with lots of preinstalled junk from the manufacturer. Laptops from HP, Dell, Toshiba, Lenovo, and more are prone to this issue.
@@ -129,27 +131,26 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
  When in doubt, anything from the manufacturer is probably not necessary. But it's always good to double-check.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11\. Windows 10 and Windows 11 Bloatware
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![Windows Uninstall Start Menu Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-Uninstall-Start-Menu-Apps.png)
 
  Having to remove manufacturer bloatware is annoying enough, but Microsoft includes a fair bit of its own in modern versions of Windows in the form of Store apps. Thankfully, you can uninstall most of these unnecessary programs without much hassle.
 
  Some of the default Modern apps, like Xbox and Weather, are useful to some people but not others. Others, like Candy Crush Saga, are junk you should remove. See how to get rid of this junk in our [Windows 10 bloatware removal guide](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) , or our [overview of uninstalling bloatware in Windows 11](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 12\. WinRAR
 
  While having a file extraction and compression tool around is certainly useful, WinRAR is not the best choice for the job. The app has become a bit of a punchline due to its old-school "shareware" license. You can download a "trial" of WinRAR for free, which asks you to pay after using it for some time. However, the app never locks you out, even if you don't pay, so you can use it indefinitely.
 
  Despite this, there's really no reason to use WinRAR anyway.[7-Zip](https://www.7-zip.org/) is a free and simple tool that covers most people's needs. Whatever you do, please don't waste money on WinRAR.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Uninstall These Programs From Windows
 
@@ -157,14 +158,11 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 
  It's a good idea to do regular cleaning on your system to remove old or junky Windows programs. Some might be "zombie apps" that pose a security risk.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,6 +171,22 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-reaction-videos-a-comprehensive-overview/"><u>[New] Twitter Reaction Videos A Comprehensive Overview</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pro-tools-comparison-obs-and-twitch-studio-for-2024/"><u>[Updated] Pro Tools Comparison OBS and Twitch Studio for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-asuss-proart-pa-329q-a-comprehensive-evaluation-of-a-top-tier-monitoring-solution/"><u>2024 Approved Asus’s ProArt PA 329Q A Comprehensive Evaluation of a Top-Tier Monitoring Solution</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-nubia-z50s-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nubia Z50S Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/display-depth-discussion-choosing-between-ultrawide-and-uhd-4k/"><u>Display Depth Discussion Choosing Between UltraWide & UHD 4K</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-jotting-down-made-simple-in-win11/"><u>Effortless Jotting Down Made Simple in Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/in-depth-diagnosis-and-repair-strategies-for-malfunctioning-beyond-the-wire-mics/"><u>In-Depth Diagnosis and Repair Strategies for Malfunctioning Beyond The Wire Mics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-google-maps-a-windows-users-manual/"><u>Integrating Google Maps: A Windows User's Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-conundrum-how-to-solve-cant-get-mail-error-in-windows-11/"><u>Overcoming the Conundrum: How to Solve 'Can’t Get Mail' Error in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-google-pixel-7a-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Google Pixel 7a</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/sonic-visuals-on-the-move-a-deep-dive-into-sonys-xperia-xz-for-2024/"><u>Sonic Visuals on the Move - A Deep Dive Into Sony's Xperia XZ for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-counteract-misleading-anti-virus-alerts-by-chrome/"><u>Strategies to Counteract Misleading Anti-Virus Alerts by Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-mouse-secrets-on-windows-11/"><u>Unlocking Mouse Secrets on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-screen-sharing-feature-after-connection-failure/"><u>Unlocking Screen Sharing Feature After Connection Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-seamless-auto-restart-when-idle/"><u>Windows 10/11: Seamless Auto Restart When Idle</u></a></li>
+</ul></div>
 

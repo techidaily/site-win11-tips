@@ -1,7 +1,7 @@
 ---
 title: "Bypassing the Obstacle: Dealing with Device Error 22 on Windows 11"
-date: 2024-07-29T08:13:05.453Z
-updated: 2024-07-30T08:13:05.453Z
+date: 2025-01-22T01:18:09.644Z
+updated: 2025-01-24T22:04:04.237Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
  Fortunately, it's very easy to fix the error code 22 on Windows. Let's look at what the error code 22 means on Windows, some common reasons why it occurs, and how to quickly fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the “This Device Is Disabled (Code 22)” Error on Windows?
 
  When you connect an external device to your computer for the first time, Windows installs the driver that is compatible with the device. The device driver then establishes a connection between the removable device and Windows. This allows Windows to identify the device and use it properly.
@@ -38,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
  Now that you have a brief knowledge about the "this device is disabled (Code 22)" error, let's explore solutions that will help you fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Enable the Device in the Device Manager
 
  One of the simplest ways to fix error code 22 is to manually enable the device throwing the error. To do that, open the **Device Manager** (check how to [launch Device Manager on Windows](https://www.makeuseof.com/windows-open-device-manager/)), right-click on the problematic device, and choose **Properties**. Then, click the **Enable Device** button.
@@ -47,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 ![Enable device option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-device-option.jpg)
 
  The Device Manager will refresh, and the device will be back online. Check if you still get the error message. If yes, try the next solution on the list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check for Physical Damage on the Device
 
@@ -64,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  Your computer will now check the Microsoft servers for updates to your current operating system, including its drivers. If any updates are found, they will be downloaded and installed automatically. Otherwise, you will see a message that says **You're up to date**.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use the Hardware and Device Troubleshooter
 
  Windows comes with several troubleshooters that can help you fix different problems. One of them is the Hardware and Devices troubleshooter, which, as the name suggests, helps to fix hardware issues.
@@ -77,12 +80,17 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  Then, check the **Apply repairs automatically** option and click **Next** to step through it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Apply repairs automatically option of Hardware troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Apply-repairs-automatically.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the wizard completes, the troubleshooter will let you know of any issues it found and how to fix them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Clear Your Computer's CMOS
 
@@ -101,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  So, make sure to update the BIOS to prevent any hardware-related issues on your system. Check out our guide on [updating BIOS in Windows](http://www.makeuseof.com/tag/update-uefi-bios-windows/) to find out how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 7\. Perform a Clean Boot
 
  The next solution on the list is to [perform a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/). This will help you rule out third-party applications that might be causing the error.
@@ -117,16 +121,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you are still struggling with the error, you can [try a system restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) to see if that fixes your problem. This will restore your computer to a prior point in time, which is useful if the issue started recently.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Error Code 22 in Windows
 
  There's nothing more frustrating than not being able to use an external device because your Windows PC is not recognizing it. The "this device is disabled (code 22)" error is one such issue that can prevent you from using an external device that's connected to your system. Fortunately, you can quickly troubleshoot this error using the above solutions.
 
  Fortunately, it's very easy to fix the error code 22 on Windows. Let's look at what the error code 22 means on Windows, some common reasons why it occurs, and how to quickly fix it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -134,3 +133,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/conquering-mac-with-windows-11-the-parallels-technique/"><u>Conquering Mac with Windows 11: The Parallels Technique</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-practical-brilliance-with-the-google-pixel/"><u>Discovering Practical Brilliance with the Google Pixel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-setup-positioning-quick-access-tools-in-win11-interface/"><u>Effortless Setup: Positioning Quick Access Tools in Win11 Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/end-the-extra-speed-deactivating-mouse-accel-on-windows-11/"><u>End the Extra Speed: Deactivating Mouse Accel on Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experts-weigh-in-the-complete-review-of-googles-voice-communication-platform/"><u>Experts Weigh In: The Complete Review of Google's Voice Communication Platform</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-camon-20-pro-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Camon 20 Pro 5GFRP Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-linux-side-of-windows-uninterrupted-by-win-11/"><u>Keeping Linux Side of Windows Uninterrupted by Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-rearranging-onedrive-storage-in-win10/"><u>Mastering the Art of Rearranging OneDrive Storage in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-operational-failure-in-win11-code-0x0000011b/"><u>Overcoming Operational Failure in Win11 (Code 0X0000011B)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stuck-in-the-stream-7-ways-to-reopen-reluctant-websites-on-win-os/"><u>Stuck in the Stream? 7 Ways to Reopen Reluctant Websites on Win OS</u></a></li>
+<li><a href="https://article-files.techidaily.com/transcoding-excellence-from-xml-ssa-to-srt-mastery/"><u>Transcoding Excellence From XML, SSA to SRT Mastery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-how-to-deal-with-libeay32dll-not-found-issues-on-your-computer/"><u>Troubleshooting Guide: How to Deal With libeay32.dll Not Found Issues on Your Computer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-s23-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy S23 IMEI without Root A Comprehensive Guide</u></a></li>
+</ul></div>
+

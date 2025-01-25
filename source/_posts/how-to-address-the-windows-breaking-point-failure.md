@@ -1,7 +1,7 @@
 ---
 title: How to Address the Windows Breaking Point Failure
-date: 2025-01-15T18:24:56.143Z
-updated: 2025-01-18T18:07:27.313Z
+date: 2025-01-19T23:32:55.104Z
+updated: 2025-01-24T22:58:15.873Z
 tags:
   - windows10
   - windows11
@@ -54,6 +54,10 @@ Follow these steps to run the DISM and System File Checker tools:
 3. ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dism-scan-health-restore-health-command-prompt-1.jpg)  
  Next, type the following command and press**Enter** to scan your PC's health:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Dism /Online /Cleanup-Image /ScanHealth`
 4. Once done, type the following command to repair the system image:  
 `Dism /Online /Cleanup-Image /RestoreHealth`
@@ -62,10 +66,6 @@ Follow these steps to run the DISM and System File Checker tools:
 `sfc /scannow`
 7. This process can take some time to complete. Once the verification reaches 100%, it will display the result and any actions taken.
 8. Type**exit** and press**Enter** to close Command Prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check Your Hard Drive for Errors With CHKDSK
 
@@ -102,12 +102,12 @@ To run the CHKDSK tool:
 ![Windows memory diagnostic tool restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tool-restart.jpg)
 5. Your computer will restart and boot into the Windows Memory Diagnostic Tool menu, and the system will start a test automatically.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows memory diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tooljpg.jpg)
 6. You can also perform**Basic, Standard, or Extended** test manually. To do this, press**F1** to access the**Options** menu and select from the**Basic, Standard, and Extended** option under the**Test Mix** section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
 8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
@@ -117,7 +117,7 @@ To run the CHKDSK tool:
  A corrupted user profile may cause the "the exception breakpoint has been reached" error. To fix the error, you can[create a new user local user profile on Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) and give it administrator privilege. Sign into your new user profile and launch the app to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Update or Uninstall the Problematic App
@@ -135,20 +135,20 @@ To uninstall an application on Windows:
 4. Type the name of your app in the search bar.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
 5. Next, click**the three-dots menu** next to the app name and**Uninstall** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click on**Uninstall** again to confirm the action.
 7. Once uninstalled, download the app installer and install the app. Restart your PC and check for any improvements.
 
  Note that, at times, the issue can be with a specific version of the app. To fix this, try to install an older version of the app to see if that works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the "The Exception Breakpoint Has Been Reached" Error on Windows
 
@@ -169,20 +169,24 @@ To uninstall an application on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-how-to-manual-for-creating-an-inclusive-and-productive-skype-chat-room-accessible-by-both-windows-and-mac-users-for-2024/"><u>[New] How-To Manual for Creating an Inclusive and Productive Skype Chat Room Accessible by Both Windows & Mac Users for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-mastering-light-and-shadow-in-hdr-portraiture-for-2024/"><u>[New] Mastering Light and Shadow in HDR Portraiture for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-navigating-the-seas-of-success-utilizing-social-blade-for-youtube-data/"><u>[New] Navigating the Seas of Success Utilizing Social Blade for YouTube Data</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hear-divine-voices-downloading-and-altering-ringtone-audio/"><u>[Updated] Hear Divine Voices Downloading & Altering Ringtone Audio</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-metaverse-reflections-a-pioneering-collection-of-thoughts/"><u>[Updated] Metaverse Reflections A Pioneering Collection of Thoughts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-pinnaclepix-z7-pro-elevate-your-photos-dimensions-for-2024/"><u>[Updated] PinnaclePix Z7 Pro Elevate Your Photo's Dimensions for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1-free-online-converter-transform-wma-to-mp3-with-movavi/"><u>1. Free Online Converter: Transform WMA to MP3 with Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cortical-remapping-occurs-as-the-brain-adapts-to-changes-in-sensory-input-or-motor-function-following-nerve-damage/"><u>Cortical Remapping Occurs as the Brain Adapts to Changes in Sensory Input or Motor Function Following Nerve Damage.</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-your-iphone-shots-free-swift-red-eye-elimination-techniques/"><u>In 2024, Revolutionize Your iPhone Shots Free, Swift Red-Eye Elimination Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/istruzioni-semplici-per-ottenere-foto-trasparenti-sfondo-senza-problemi/"><u>Istruzioni Semplici per Ottenere Foto Trasparenti Sfondo Senza Problemi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-download-graca-conversor-de-formatos-em-massa-para-3gp-e-3g2-online-gratuito/"><u>Movavi: Download Graça - Conversor De Formatos Em Massa Para 3GP E 3G2 (Online Gratuito)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/qt-mp4-online-movavi/"><u>QT 프로필을 MP4로 바꾸는 방법: Online 무료 송금제 - Movavi</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-complete-guide-to-earnings-via-video-ads-on-youtube-for-2024/"><u>The Complete Guide to Earnings via Video Ads on YouTube for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/toutes-les-etapes-pour-convertir-un-fichier-vob-en-mp4-gratuitement-guide-detaille-avec-movavi/"><u>Toutes Les Étapes Pour Convertir Un Fichier VOB en MP4 Gratuitement - Guide Détaillé Avec Movavi</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/ultimate-replacement-for-tubechop-optimized-for-mac-and-windows-systems/"><u>Ultimate Replacement for TubeChop: Optimized for MAC & WINDOWS Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-accurate-tilt-controls-high-end-phonecamera-mounts/"><u>[New] Accurate Tilt Controls High-End Phone/Camera Mounts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-adobes-quick-guide-for-perfect-photo-colors/"><u>[New] Adobe's Quick Guide for Perfect Photo Colors</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-striking-the-perfect-balance-in-profile-videos/"><u>[New] Striking the Perfect Balance in Profile Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-summit-elite-production-space-25/"><u>[New] Summit Elite Production Space 25</u></a></li>
+<li><a href="https://article-files.techidaily.com/behind-the-scenes-to-the-best-free-meme-designs/"><u>Behind-The-Scenes to the Best FREE Meme Designs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-the-best-free-upgrades-for-car-software-health/"><u>Elevate Windows: The Best Free Upgrades for Car Software Health</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-windows-terminals-quake-mode/"><u>Enabling Windows Terminal's Quake Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-your-snipsnap-glitches-with-these-9-simple-fixes/"><u>Fix Your SnipSnap Glitches with These 9 Simple Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-make-microsoft-edge-faster-w10w11/"><u>How to Make Microsoft Edge Faster W10/W11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-google-pixel-fold-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Google Pixel Fold?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-an-app-on-windows-10-and-11/"><u>How to Reset an App on Windows 10 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-an-android-tablet-as-a-second-screen-in-windows-11/"><u>How to Use an Android Tablet as a Second Screen in Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 11 Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ps5xbox-gaming-monitors-the-5-most-exciting-choices/"><u>In 2024, PS5/Xbox Gaming Monitors The 5 Most Exciting Choices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722898189991-is-it-time-to-switch-to-an-rtx-gpu/"><u>Is It Time To Switch to an RTX GPU?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-glitch-effect-with-filmora/"><u>New How to Make Glitch Effect with Filmora</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-overcoming-steam-errors-on-games-in-windows-11/"><u>Quick-Fix Guide: Overcoming Steam Errors on Games in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-monitor-duality-issues-on-pcs/"><u>Resolving Monitor Duality Issues on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-fn-keys-in-windows-1011-a-step-by-step-guide/"><u>Tailoring FN Keys in Windows 10/11: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ease-of-Use Tactics for Stuck Windows Update
-date: 2025-01-14T18:17:36.719Z
-updated: 2025-01-18T17:55:26.920Z
+date: 2025-01-21T17:44:18.863Z
+updated: 2025-01-24T16:55:33.772Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart Your Computer
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
 
  If the process is successful, you will get the confirmation message of the DNS Resolver Cache being successfully flushed. Now try running the Windows Update Troubleshooter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Restart Windows Cryptographic Services
 
  At times, an erratic or stopped Windows Cryptographic Services can cause problems in the smooth running of the Windows Update Troubleshooter.
@@ -67,6 +63,10 @@ To fix this, you can try restarting Cryptographic Services.
 2. In the**Services** app, look for**Cryptographic** **Services** and double-click on it to open its**Properties** .  
 ![Windows Cryptographic Services in the Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-cryptographic-services.jpg)
 3. In**Properties** , click the**Stop** button to stop Cryptographic Services.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
 4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
@@ -100,15 +100,11 @@ To fix this, you can try restarting Cryptographic Services.
 3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
 4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
 
@@ -127,6 +123,10 @@ To edit and enable the Scripted Diagnostics policy:
 ![Open Group Policy Editor Via Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-group-policy-editor-via-run.jpg)
 3. Click**Yes** on the UAC prompt. The**Group Policy Editor** will open.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In the**Group Policy Editor** , navigate to**Scripted Diagnostics** using the following path:  
 `Computer Configuration > Administrative Templates > System > Troubleshooting and Diagnostics > Scripted Diagnostics`
 5. In the left pane, click on**Scripted Diagnostics** to open its three items.  
@@ -134,7 +134,7 @@ To edit and enable the Scripted Diagnostics policy:
 6. Double-click on the first item and select the**Enable** option in the window that opens.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Enable Each Item in Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-items-of-scripted-diagnostics-policy.jpg)
@@ -164,22 +164,22 @@ To edit and enable the Scripted Diagnostics policy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-behind-the-curtain-top-10-hidden-features-of-vlc-player/"><u>[Updated] In 2024, Behind the Curtain Top 10 Hidden Features of VLC Player</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-music-sticker-how-to-get-the-music-sticker-on-instagram/"><u>[Updated] Instagram Music Sticker How to Get the Music Sticker on Instagram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-exceptional-economically-priced-asmr-gear/"><u>2024 Approved Explore Exceptional, Economically-Priced ASMR Gear</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-14-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone 14 Pro Max</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-set-up-your-iphone-vpn-connection-follow-this-guide-and-fix-it-in-just-7-steps/"><u>Can't Set Up Your iPhone VPN Connection? Follow This Guide and Fix It in Just 7 Steps!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-a-trustworthy-hardware-delete-function-window/"><u>Crafting a Trustworthy Hardware Delete Function Window</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-file-saving-woes-top-6-strategies-for-windows-users/"><u>Mastering File Saving Woes: Top 6 Strategies for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-diverse-windows-partition-union/"><u>Mastering the Art of Diverse Windows Partition Union</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cutting-through-the-noise-final-cut-pro-vs-lumafusion-comparison/"><u>New In 2024, Cutting Through the Noise Final Cut Pro vs LumaFusion Comparison</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-defective-functionality-to-netflix-on-pc/"><u>Restoring Defective Functionality to Netflix on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stealthy-operations-for-windows-zone-visibility/"><u>Stealthy Operations for Windows Zone Visibility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-adding-dolby-atmos-to-your-pc/"><u>Step-By-Step: Adding Dolby Atmos to Your PC</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-20-fonts-for-captivating-youtube-thumbnails/"><u>Top 20 Fonts for Captivating YouTube Thumbnails</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfreeze-reset-and-restore-shift-key/"><u>Unfreeze, Reset, and Restore Shift Key.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unwavering-file-elimination-in-windows-11s-trash-bin-setup/"><u>Unwavering File Elimination in Windows 11'S Trash Bin Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212478609-xbox-one-audio-woes-discover-how-to-restore-headset-functionality-today/"><u>Xbox One Audio Woes? Discover How to Restore Headset Functionality Today!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-first-steps-in-using-zooms-group-rooms/"><u>[New] 2024 Approved First Steps in Using Zoom's Group Rooms</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-essential-sites-for-high-end-vector-images/"><u>[Updated] Essential Sites for High-End Vector Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guiding-imovie-content-from-home-studio-to-youtube-hub-for-2024/"><u>[Updated] Guiding iMovie Content From Home Studio to YouTube Hub for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-finest-choices-free-streaming-tools-suitable-everywhere/"><u>2024 Approved Finest Choices Free Streaming Tools Suitable Everywhere</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boosting-efficiency-creating-speed-driven-google-collages-for-2024/"><u>Boosting Efficiency Creating Speed-Driven Google Collages for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/commanding-your-digital-files-linking-dropbox-googledrive-to-c/"><u>Commanding Your Digital Files: Linking Dropbox, GoogleDrive to C</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-restoring-disabled-package-registrations-on-windows/"><u>Guide to Restoring Disabled Package Registrations on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-windows-handle-sound-data-separation/"><u>How Does Windows Handle Sound Data Separation?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insights-into-the-functionality-of-windows-iscsi-initiator/"><u>Insights Into the Functionality of Windows iSCSI Initiator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-github-desktop-seamlessly-on-windows-11-systems/"><u>Integrating GitHub Desktop Seamlessly on Windows 11 Systems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/keeping-memories-above-ground-selecting-the-best-cloud-storage/"><u>Keeping Memories Above Ground Selecting the Best Cloud Storage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-your-workspace-a-guide-to-switching-window-angle-by-90-degrees/"><u>Navigate Your Workspace: A Guide to Switching Window Angle by 90 Degrees</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-asus-rog-phone-8-pro-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-stop-excessive-cpu-consumption-caused-by-wudfhostexe-on-windows-11/"><u>Resolved: How to Stop Excessive CPU Consumption Caused by wudfhost.exe on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-system-editing-registry-access-in-win11/"><u>Securing Your System: Editing Registry Access in Win11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-your-amazon-kindle-paperwhites-clock/"><u>Step-by-Step Guide: Setting Your Amazon Kindle Paperwhite's Clock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-troubleshoot-and-stop-non-specific-audio-on-win-10/"><u>Steps to Troubleshoot and Stop 'Non-Specific Audio' On Win 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Adjusting Buffer Rates to Minimize Lag with VLC
-date: 2024-08-08T10:54:22.868Z
-updated: 2024-08-09T10:54:22.868Z
+date: 2025-01-20T18:16:41.709Z
+updated: 2025-01-24T22:03:44.883Z
 tags:
   - windows10
   - windows11
@@ -20,14 +20,15 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 
  Fortunately, there’s no need to settle for a subpar experience as it is possible to fix this annoying issue. Here we show you seven easy ways for fixing video lag in the VLC media player for Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Check the File Format
 
  Although VLC media player supports nearly every popular video format available, it does not support them all. If the video you're attempting to play is in an unsupported format, you may experience lag.
 
  You can [visit VLC's official webpage](https://www.videolan.org/vlc/features.html) to check all the file formats it supports. If your video is in an unsupported format, you’ll have to convert it first. If you need help with that, check our guide on [how to convert videos for free](https://www.makeuseof.com/how-to-convert-video-files-free-winx-video-converter/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disable Hardware Acceleration
 
@@ -40,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 3. Select the**Input / Codes** tab at the top.
 4. Use the drop-down menu next to**Hardware-accelerated decoding** to select**Disable** .
 5. Click on**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Disable Hardware Acceleration in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-hardware-acceleration-in-vlc.jpg)
 
 Restart the VLC app after this and see if the video plays smoothly.
@@ -67,14 +65,12 @@ Restart the VLC app after this and see if the video plays smoothly.
 1. In the VLC app, click the**Tools** menu at the top and select**Preferences** . Alternatively, you can press**Ctrl + P** to quickly open the VLC Preferences window.
 2. Switch to the**Input / Codes** tab.
 3. Click the drop-down menu next to**Skip H.264 in-loop deblocking filter** and select**All** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Skip In-Loop Deblocking Filter in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/skip-in-loop-deblocking-filter-in-vlc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Change the Caching Value
 
  When you use VLC to stream a video from the web, it caches some of the content for faster playback. If you're experiencing video lag while streaming, you can try increasing the network and file cache sizes to fix the issue.
@@ -105,8 +101,9 @@ To reset your VLC media player preferences, use these steps:
 Restart the VLC media player and check if the videos still lag.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Update or Reinstall VLC Media Player
 
  App updates are critical for any app, and VLC is no exception. If the video playback issues in the VLC media player are caused by a bug, installing newer updates should help.
@@ -126,30 +123,29 @@ To check for pending updates in the VLC media player:
 3. Click on**Installed apps** .
 4. Scroll through the list or use the search bar at the top to quickly locate**VLC media player** on the list. Click the**three-dot menu icon** next to it and select**Uninstall** .
 5. Select**Uninstall** once again to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Uninstall VLC Media Player on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-vlc-media-player-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once removed, open Microsoft Store on your PC and search for the VLC app. Then, click the**Install** button to download the app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Enjoy Smooth Video Playback in VLC for Windows Again
 
  Such issues with the VLC app can ruin your experience. Hopefully, the solutions above have helped you resolve the video lag issue in VLC for Windows, and you are now at ease.
 
  Although VLC is a popular media player for Windows, it is not your only option. There are plenty of excellent media player apps available for Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,6 +154,19 @@ To check for pending updates in the VLC media player:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-swiftly-get-your-favorite-skype-tones-from-here/"><u>[New] Swiftly Get Your Favorite Skype Tones From Here</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-transformative-instagram-edits-professional-strategies-for-2024/"><u>[Updated] Transformative Instagram Edits Professional Strategies for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-discovering-the-wonders-of-a-vr-device/"><u>2024 Approved Discovering the Wonders of a VR Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-editors-guide-to-top-10-fcp-plug-ins/"><u>2024 Approved The Ultimate Editor's Guide to Top 10 FCP Plug-Ins</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazingly-clear-and-bright-displays-at-unbeatable-prices-top-lightweight-laptops-revealed-by-zdnet/"><u>Amazingly Clear and Bright Displays at Unbeatable Prices - Top Lightweight Laptops Revealed by ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/aufgeraumte-laptop-festplatte-vor-dem-weiterverkauf-einfache-schritt-fur-schritt-anleitung/"><u>Aufgeräumte Laptop Festplatte Vor Dem Weiterverkauf: Einfache Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-windows-media-player-on-pc-a-step-by-step-guide/"><u>Launching Windows Media Player on PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-widest-use-of-windows-pcs-through-advanced-tdarr-integration/"><u>Make Widest Use of Windows PCs Through Advanced Tdarr Integration</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722958139850-mastering-the-setup-seamless-integration-of-wacom-intuos-3-drivers-into-your-microsoft-based-pc-workstation-a-comprehensive-guide/"><u>Mastering the Setup: Seamless Integration of Wacom Intuos 3 Drivers Into Your Microsoft-Based PC Workstation – A Comprehensive Guide!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/maximizing-viewership-techniques-for-selecting-featured-channels/"><u>Maximizing Viewership Techniques for Selecting Featured Channels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-rufus-and-tpmsecure-boot-in-win11/"><u>The Ultimate Guide to Rufus and TPM/Secure Boot in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-clean-canvas-the-ad-free-promise/"><u>Windows 11'S Clean Canvas: The Ad-Free Promise</u></a></li>
+</ul></div>
 

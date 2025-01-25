@@ -1,7 +1,7 @@
 ---
 title: Eliminating Error 0X8007045D in Windows 10/11
-date: 2025-01-17T18:31:01.543Z
-updated: 2025-01-18T17:55:02.666Z
+date: 2025-01-22T00:30:08.096Z
+updated: 2025-01-24T21:28:20.950Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are the Main Causes of the Windows 0x8007045d Error?
 
  You'll usually encounter the 0x8007045d error while copying single or multiple files through an external source—usually a USB stick or a CD/DVD drive. Here's how the error can appear, often in a dialog box:
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 * Error 0x8007045D: The request could not be performed because of an I/O device error.
 
  The error mostly occurs when your computer fails to find or read your files. It can be caused by a host of other reasons as well, be it software or hardware; however, more often than not, the underlying issue is an inability to read files or some error in copying them. So let's look at all the methods you can try to fix the error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Perform a Windows Update
 
@@ -53,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 ![windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you're done, check and see if the 0x8007045d error persists.
 
 ## 2\. Restart Your PC
@@ -66,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
  In this case, too, you can try a restart and see if it fixes the 0x8007045d error.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use an Alternate USB Slot
@@ -80,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
  Did you download your files from an external source? If the 0x8007045d error popped up when trying to open a downloaded file, there might have been a glitch during the download, and now you've got yourself a corrupt or incomplete file.
 
  If that's the case, it's best to download your files from the original source and try your hand at the installation (or copying) of them again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run the Hardware and Device Windows Troubleshooter
 
@@ -96,7 +88,15 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 ![hardware and device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-device.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As soon as it finds the error, the tool will fix it right then and there. Check and see if the Windows 0x8007045d error is still present.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Copy Your Files From the USB Drive Onto Your PC
 
@@ -115,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The update wizard will launch. If the drivers were the problem, this should fix your error. Alternatively, you can search for the driver manufacturer and manually download the drivers from its website.
@@ -141,19 +141,22 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-effective-storytelling-through-youtube-and-facebook/"><u>[Updated] Effective Storytelling Through YouTube and Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-file-not-writable-ones-on-pcs/"><u>Demystifying 'File Not Writable' Ones on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-the-role-of-ram-reservation-on-windows/"><u>Demystifying the Role of RAM Reservation on Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dive-into-a-sea-of-stunning-visuals-pexels/"><u>Dive Into a Sea of Stunning Visuals Pexels</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/download-erotic-content-from-mofos-in-various-formats-convert-to-mp4movavi/"><u>Download Erotic Content From Mofos in Various Formats - Convert to MP4/MOV/AVI</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-msi-b350-toms-tomahawk-drivers-compatible-with-windows-11-and-windows-n-operating-systems/"><u>Essential MSI B350 TOM'S TOMAHAWK Drivers - Compatible with Windows 11 and Windows N Operating Systems</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/honor-x8b-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Honor X8b ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-address-the-absence-of-an-audio-hardware-device-on-your-windows-pc/"><u>How to Address the Absence of an Audio Hardware Device on Your Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-sidestep-windows-11-expiration-soon-issue/"><u>How to Sidestep Windows 11 'Expiration Soon' Issue</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-quick-guide-mastering-screenshot-and-screen-record-on-mac/"><u>In 2024, Quick Guide Mastering Screenshot & Screen Record on Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-to-absent-configurations-in-win11s-control-panel/"><u>Navigate to Absent Configurations in Win11's Control Panel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-code-x800700e9-in-xbox-games-access/"><u>Overcoming Error Code X800700E9 in Xbox Games Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmasking-and-mending-errors-in-win10win11-secure-software/"><u>Unmasking & Mending Errors in Win10/Win11 Secure Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-choosing-between-gopro-hero-5-and-nikkor-km-170/"><u>[Updated] Choosing Between GoPro HERO 5 and Nikkor KM-170</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-join-youtube-mcn-or-not-ultimate-guide-for-2024/"><u>[Updated] Join YouTube MCN or Not ULTIMATE Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp3-wav-4/"><u>最適な MP3 から WAV への自由変換アプリを探しているなら、これが4つのお勧めです！</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beating-vpn-obstacles-a-comprehensive-guide-to-fixing-error-code-800-for-clients-and-servers/"><u>Beating VPN Obstacles: A Comprehensive Guide to Fixing Error Code 800 for Clients and Servers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-guide-dealing-with-windows-update-code-0x712/"><u>Easy Guide: Dealing with Windows Update Code 0X712</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/effiziente-sicherung-ihrer-dropbox-folders-durch-verschlusselung-mit-einem-passwort/"><u>Effiziente Sicherung Ihrer Dropbox-Folders Durch Verschlüsselung Mit Einem Passwort</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-out-of-memory-glitches-for-hogwarts-legacy-gaming/"><u>Fixing Out of Memory Glitches for Hogwarts Legacy Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leapfrog-past-slow-downloads-with-utorrent-on-windows/"><u>Leapfrog Past Slow Downloads with uTorrent on Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/macos-mastery-secure-and-simplified-data-removal-with-stellar-file-eraser-5s-schedule-feature/"><u>MacOS Mastery: Secure and Simplified Data Removal with Stellar File Eraser 5'S Schedule Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-system-fixes-establishing-quick-troubleshooter-access/"><u>Optimizing System Fixes: Establishing Quick Troubleshooter Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-spotify-connect-issues-on-windows-10-and-11/"><u>Overcoming Spotify Connect Issues on Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-setup-guide-for-bing-ai-on-windows-11-menu-bar/"><u>Quick Setup Guide for Bing AI on Windows 11 Menu Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconciling-code-0x0001-in-geforce-for-windows-11-users/"><u>Reconciling Code 0X0001 in GeForce for Windows 11 Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/sparkle-with-style-triple-highlight-techniques-for-insta-for-2024/"><u>Sparkle with Style Triple Highlight Techniques for Insta for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-innovative-open-source-ai-art-makers/"><u>Top Innovative Open Source AI Art Makers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-audio-capture-on-screen/"><u>Ultimate Audio Capture on Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-paths-to-printer-control-on-windows-11-max-56-chars/"><u>Unveiling the Paths to Printer Control on Windows 11 (Max 56 Chars)</u></a></li>
 </ul></div>
 

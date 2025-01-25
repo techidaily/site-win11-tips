@@ -1,7 +1,7 @@
 ---
 title: Bypassing Frozen Program Error in Windows Security
-date: 2024-07-29T08:13:51.023Z
-updated: 2024-07-30T08:13:51.023Z
+date: 2025-01-20T17:26:30.011Z
+updated: 2025-01-24T16:23:53.479Z
 tags:
   - windows10
   - windows11
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
  If you don’t experience the error after rebooting, then it is likely a temporary glitch on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 2\. Scan for Malicious Programs
 
  If restarting your computer doesn’t work, the next step is to run a full antivirus scan on your system. Chances are that the application is blocked due to a virus, malware or another malicious program.
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
  If you prefer command line tools, you can [scan and remove malicious components using Windows PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). You should also use a [reputable anti-spyware program](https://www.makeuseof.com/windows-11-antivirus-apps/) to check for malicious programs that could be causing the error.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the Program as an Administrator
 
  Some programs require administrator privileges to function properly. If you try to launch them without elevated access, Windows will block their execution and display the error message. In such a case, you can right-click on the app’s shortcut or the executable file and select **Run as administrator**.
@@ -45,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
  If it runs successfully, you can adjust the app properties to [always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/). Don't forget to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable the SmartScreen Filter
 
  SmartScreen is a security feature that protects your computer from unknown and potentially malicious applications. If it’s enabled, SmartScreen may block an application from running. To disable the feature, follow these steps.
@@ -60,15 +55,16 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
  This will stop the system from blocking apps, but you should be careful with any programs you download. Once you do it, close the Windows Security app and try running the application again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Modify the Group Policy Settings
 
  The group policy editor allows you to adjust security settings on Windows and control which applications are blocked. If the other steps didn’t work, you can try to modify the group policy settings and unblock the application that triggered the error. Here's how to do it:
 
 1. Press **Win + X** on your keyboard and select **Run** from the menu list.
 2. Type **gpedit.msc** and press Enter to open the Local Group Policy Editor.  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![User Account Control Run all administrators in Admin Approval Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/user-account-control-run-all-administrators-in-admin-approval-mode.jpg)
 3. Once you're in the Local Group Policy Editor window, navigate to the following:  
 `Local Computer Policy > Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Options.`
@@ -78,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
  Keep in mind that modifying group policy settings can leave your computer vulnerable to malicious applications. Therefore, you should only do it as a last resort and revert the change as soon as you’re done.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Tweak the Registry Editor
 
  If you're running Windows Home edition, you can tweak the Registry Editor to adjust the User Account Control settings and unblock the application. Here's what you need to do:
@@ -93,15 +90,16 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 ![Disable the EnableLUA key in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-the-enablelua-key-in-registry-editor.jpg)
 6. Click **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After making the changes, close the Registry Editor and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reset Windows Update Components
 
  If the issue persists, you can reset the Windows Update components, which means restarting certain services that manage the update process and enable you to launch the application.
@@ -180,11 +178,33 @@ net start cryptsvc`
 
  There are several reasons why this error occurs. It includes outdated security software, the firewall interfering with the program, or the application not trusted by Windows. Read this guide to learn more about this error.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-pinnacle-of-picture-perfection-10-screens/"><u>[New] In 2024, Pinnacle of Picture Perfection – #10 Screens</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-laughlinelab-picchuckleworkshop/"><u>[Updated] LaughLineLab PicChuckleWorkshop</u></a></li>
+<li><a href="https://win-data.techidaily.com/comment-resoudre-le-dilemme-de-la-commande-ctrlplusc-qui-arrete-de-repondre/"><u>Comment Résoudre Le Dilemme De La Commande Ctrl+C Qui Arrête De Répondre ?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confronting-the-challenge-of-filedirectory-corrupted-on-oses/"><u>Confronting the Challenge of File/Directory Corrupted on OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-down-background-computation-load/"><u>Cutting Down Background Computation Load</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-regain-original-typing-positions-on-windows-11-devices/"><u>Guide to Regain Original Typing Positions on Windows 11 Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-successfully-boot-armored-core-vi-fires-of-rubicon-without-errors/"><u>How to Successfully Boot Armored Core VI: Fires of Rubicon Without Errors?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-8-plus-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 8 Plus to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-9-signs-for-a-full-pc-reboot/"><u>Identifying 9 Signs for a Full PC Reboot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-disclosure-insights-into-the-google-podcast-app/"><u>In 2024, Full Disclosure Insights Into the Google Podcast App</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/les-4-meilleures-videos-de-rip-a-partager-pour-macos-monterey-des-fichiers-vfd-libres-en-202ebra/"><u>Les 4 Meilleures Vidéos De Rip À Partager Pour MacOS Monterey : Des Fichiers VFD Libres en 202Ebra</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-pc-troubleshooting-uncovering-and-resolving-error-codes-via-command-prompt/"><u>Mastering PC Troubleshooting: Uncovering & Resolving Error Codes via Command Prompt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/right-click-menu-evolution-integrating-program-helpers/"><u>Right-Click Menu Evolution: Integrating Program Helpers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sleek-software-sabotaging-windows-11-performance-secretly/"><u>Sleek Software Sabotaging Windows 11 Performance Secretly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/state-of-decay-2-stability-guide-for-2n-overcoming-the-crashing-dilemma/"><u>State of Decay 2 Stability Guide for 2N - Overcoming the Crashing Dilemma</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-remedy-for-windows-zoom-crash-error-1132/"><u>Swift Remedy for Windows Zoom Crash - Error 1132</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-nokia-c12-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Nokia C12 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wizardry-managing-peak-and-low-cpu-states/"><u>Windows Wizardry: Managing Peak and Low CPU States</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows Issues with Disrupted Discord Game Tracking
-date: 2025-01-12T16:52:51.578Z
-updated: 2025-01-18T18:28:34.761Z
+date: 2025-01-18T22:53:07.420Z
+updated: 2025-01-24T19:26:14.438Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## But First, Some Preliminary Checks
 
  First, apply these preliminary checks before performing more advanced fixes:
@@ -43,13 +39,25 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
  If the above preliminary checks don't resolve the issue, begin applying the following fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run Discord as an Administrator
 
  First, you should run Discord as an administrator. By doing so, the application will get administrative privileges, allowing it to access even those system files that would otherwise be restricted, which may fix the issue. To run Discord as an administrator, right-click on the Discord app icon and hit **Run as administrator**.
 
 ![Clicking on the Run as Administrator Option by Right-clicking on the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Clicking-on-the-Run-as-Administrator-Option-by-Right-clicking-on-the-Discord-App-on-Windows-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Play the game again and see if Discord's game detection feature detects it this time. If not, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Ensure That Discord's Activity Status Feature Is Enabled
 
@@ -62,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 4. Switch the toggle next to **Display current activity as a status message** to the right.  
 ![Switching the Toggle for Display Current Activity as a Status Message Setting to the Right by Clicking on Activity Privacy under Activity Settings in Discord User Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Switching-the-Toggle-for-Display-Current-Activity-as-a-Status-Message-Setting-to-the-Right-by-Clicking-on-Activity-Privacy-under-Activity-Settings-in-Discord-User-Settings-1.jpg)
 5. Let the changes take effect by relaunching Discord.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Move on to the next fix if the activity status feature was already enabled or if enabling the feature makes no difference.
 
@@ -83,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
  Discord can't detect game mods, just like it won't detect pirated games. Likewise, if you are using any cheat software to get an advantage in the game, Discord may not detect it due to its real-time file tempering. Considering that, do not modify the game or enable cheat software, and it will help Discord detect your game better.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Update Discord
 
  An outdated Discord app can also cause unexpected problems. Typically, the Discord app checks for updates and installs them when you run it, but there are times when it doesn't, especially when you have stopped Discord from updating automatically.
@@ -102,19 +110,11 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 ![Clicking on Check for Updates by Right-clicking on Discord in the Windows System Tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/8-Clicking-on-Check-for-Updates-by-Right-clicking-on-Discord-in-the-Windows-System-Tray.jpg)
 3. Relaunch Discord, and hopefully, the updates will be automatically installed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Ensure Your Antivirus or Firewall Isn't Blocking Discord's Game Detection
 
  Your antivirus or Windows Defender Firewall can also prevent Discord from detecting the game. Discord won't be able to detect the game if its access to it has been restricted. To rule out this possibility, you must whitelist Discord in the Windows Defender Firewall or antivirus settings.
 
  If you use the antivirus that comes included with Windows, check out our article on [how to whitelist files in Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you aren't familiar with the process. If you use a third-party program, each antivirus software has a different process for whitelisting an app in its settings. Refer to the official website or documentation of your antivirus for more information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Manually Add the Game to Discord
 
@@ -126,22 +126,22 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 ![Clicking on the Registered Games Option Under Activity Settings in User Settings in the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/9-Clicking-on-the-Registered-Games-Option-Under-Activity-Settings-in-User-Settings-in-the-Discord-App-on-Windows.jpg)
 4. Next to "Not seeing your game?", click on **Add it**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. In the box, paste the path to the game's executable file.  
 ![Pasting the Path to the Game’s Executable File in the Box under Add it Option in the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/11-Pasting-the-Path-to-the-Game’s-Executable-File-in-the-Box-under-Add-it-Option-in-the-Discord-App-on-Windows.jpg)
 6. Select the game from the search results.
 
  By following the above instructions, you will be able to add the game to Discord manually and show up as you are playing it now. Even though it's handy, you'll have to add the game every time you play it and remove it when you're done. Reinstalling Discord will help you overcome this problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reinstall Discord
 
  If none of the fixes work and you get tired of adding the games manually, you can reinstall Discord. So, [uninstall the app from your Windows device](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/), visit the [Discord website](https://discord.com/download), and download the app. After downloading, install the app; hopefully, a fresh installation will resolve the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix Discord's Game Detection
@@ -164,15 +164,22 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-escapes-dodging-edgenuity-online-course-videos-easily/"><u>[New] Quick Escapes Dodging Edgenuity Online Course Videos Easily</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-ios-auditory-options/"><u>2024 Approved Top 10 iOS Auditory Options</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-techniques-for-iphones-in-virtual-space-for-2024/"><u>Comprehensive Techniques for iPhones in Virtual Space for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-remedying-error-0x8007000d-on-pcs/"><u>Deciphering and Remedying 'Error 0X8007000D' On PCs</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-data-handlers-to-drivers-of-innovation-facebook-employees/"><u>From Data Handlers to Drivers of Innovation - Facebook Employees</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How Can I Create My Pokemon Overworld Maps On Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-add-trusted-sites-on-windows-11/"><u>How to Add Trusted Sites on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-inactive-wsreset-troubleshooting-steps/"><u>Navigating Through Inactive WSReset Troubleshooting Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionize-keyboard-use-redefine-functionality-via-fn-keys-on-windows-11/"><u>Revolutionize Keyboard Use: Redefine Functionality via FN Keys on Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-10-sites-to-download-copyright-free-meditation-music/"><u>Top 10 Sites to Download Copyright-Free Meditation Music</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-initiating-your-adventure-in-av1/"><u>[New] 2024 Approved Initiating Your Adventure in AV1</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-crafting-content-masterpieces-select-the-ultimate-androidpc-apps/"><u>[Updated] 2024 Approved Crafting Content Masterpieces Select the Ultimate Android/PC Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cut-to-perfection-10-premier-online-video-editors-ranked-for-2024/"><u>[Updated] Cut to Perfection 10 Premier Online Video Editors Ranked for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-launchpad-for-novice-gopro-owners-must-have-gear-guide/"><u>2024 Approved Launchpad for Novice GoPro Owners - Must-Have Gear Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-essential-fixes-for-non-working-subscription-sharing-among-relatives/"><u>5 Essential Fixes for Non-Working Subscription Sharing Among Relatives</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oneplus-nord-n30-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track OnePlus Nord N30 5G without App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-dark-screens-on-win1011-instantly/"><u>Conquering Dark Screens on Win10/11 Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enjoy-the-ultimate-windows-experience-with-the-2023-microsoft-store-editors-choice-apps/"><u>Enjoy the Ultimate Windows Experience With the 2023 Microsoft Store Editor’s Choice Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-fixing-the-common-failure-in-importing-photos-from-ipads/"><u>Expert Tips: Fixing the Common Failure in Importing Photos From iPads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-labor-day-discount-save-700-on-the-newest-2022-ipad-pro-exclusive-deal-inside/"><u>Massive Labor Day Discount: Save $700 on the Newest 2022 iPad Pro - Exclusive Deal Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-biometric-use-for-domains-on-windows-11/"><u>Optimizing Biometric Use for Domains on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-w11-printer-problems-caused-by-ad-ds-errors/"><u>Overcoming W11 Printer Problems Caused by AD DS Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-file-transfer-capability-to-utorrent-on-win/"><u>Restoring File Transfer Capability to uTorrent on Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-looter-shooter-start-up-snags-lol/"><u>Sidestep Looter Shooter Start-Up Snags (LOL)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-and-hardware-reviews/"><u>Tom's Tech Insights & Hardware Reviews</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-dvd-to-digital-how-to-convert-dvd-to-digital-video-file-formats/"><u>Updated In 2024, DVD to Digital How to Convert DVD to Digital Video File Formats?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-windows-canary-channel-how-to-start-using-it/"><u>What Is the Windows Canary Channel? How to Start Using It</u></a></li>
 </ul></div>
 

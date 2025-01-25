@@ -1,7 +1,7 @@
 ---
 title: "Disarming Elevation Prompt Obstacle: WinError 740 Solution"
-date: 2025-01-16T17:39:03.913Z
-updated: 2025-01-18T16:28:24.683Z
+date: 2025-01-18T01:26:04.398Z
+updated: 2025-01-24T18:42:57.132Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Affected Programs With Admin Rights
 
  The error 740 message mentions the need for operation elevation. That’s a hint to try running affected programs with elevated (administrator) rights. Check out this guide on [always running apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to set affected EXE files to run with elevated rights.
 
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-as-an-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set Programs to Run in Compatibility Mode
 
@@ -42,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 4. Press the **Apply** \> **OK** buttons to set the compatibility mode setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn Off the User Account Control Feature
@@ -50,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
  User Account Control is the security feature that throws up notifications when programs try to make changes. UAC could be a potential cause of error 740 when it’s set very high. So, try turning off UAC before running affected apps. Our [guide to disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) tells you how to turn off that feature.
 
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/user-account-control-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Adjust Folder Permission Settings
 
@@ -88,16 +92,16 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 ![Security Options within Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/security-options.jpg)
 5. Double-click the **User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode** policy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select the **Elevate without prompting** option on the drop-down menu.  
 ![The Elevate without prompting option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elevate-without-prompting.jpg)
 7. Click **Apply** to set the **Elevate without prompting policy**.
 
 8. Select **OK** to close the policy setting’s window.
 9. Then reboot Windows after closing Group Policy Editor.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Disable Admin Approval Mode
 
@@ -109,17 +113,17 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 3. Click the **Disabled** radio button if this policy is enabled.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![the-enabled-radio-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enabled-radio-button.jpg)
 4. Select **Apply** to turn off Admin Approval Mode.
 
-5. To close the policy window, select the **OK** option.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. To close the policy window, select the **OK** option.
 
 ## 7\. Disable Third-Party Antivirus Software Packages
 
@@ -129,14 +133,10 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If disabling the security software works, you don’t necessarily have to turn the security software off whenever you want to run the application file. Your antivirus software will probably include an exclusion list to which you can add trustworthy program file exceptions. Add the affected EXE file there to exclude it from the antivirus protection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Migrate to a New Admin User Account
@@ -163,16 +163,24 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/comprehensive-techniques-for-iphones-in-virtual-space/"><u>Comprehensive Techniques for iPhones in Virtual Space</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/exclusive-win-audio-experience/"><u>Exclusive Win Audio Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/first-aid-starting-with-windows-canary-channel/"><u>First Aid: Starting with Windows' Canary Channel</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-restore-a-pc-from-windows-11-installation-failure/"><u>How To Restore a PC From Windows 11 Installation Failure</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-70-lite-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 70 Lite 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/invisible-layers-for-your-facebook-images/"><u>Invisible Layers for Your Facebook Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-steams-failed-vac-check-error/"><u>Resolving Steam's Failed VAC Check Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/slash-clutter-not-performance-unnecessary-windows-applications-you-can-delete/"><u>Slash Clutter, Not Performance: Unnecessary Windows Applications You Can Delete</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-update-failure-code-windows-1011-error-0x80246007/"><u>Solving Update Failure Code: Windows 10/11 Error 0X80246007</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-home-theater-system-with-smart-connectivity-a-user-friendly-guide/"><u>Transform Your Home Theater System With Smart Connectivity: A User-Friendly Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-uncluttered-recorder-screen-log-for-win10/"><u>[New] In 2024, Uncluttered Recorder Screen Log for Win10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streaming-mastery-record-hulu-playback-on-multiple-systems-for-2024/"><u>[New] Streaming Mastery Record Hulu Playback on Multiple Systems for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-master-the-art-of-youtubing-with-pro-tools/"><u>[Updated] Master the Art of YouTubing with Pro Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-moto-z2-unpacked-a-smartphones-triumph/"><u>[Updated] Moto Z2 Unpacked A Smartphone's Triumph</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-progopro-enhancing-footage-and-stability/"><u>[Updated] ProGoPro Enhancing Footage & Stability</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-your-potential-with-these-powerful-snapchat-strategies/"><u>[Updated] Unleash Your Potential with These Powerful Snapchat Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-edge-win11s-lead-over-macos/"><u>Discover the Edge: Win11's Lead over MacOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-methods-for-taking-notes-in-windows-11/"><u>Free Methods for Taking Notes in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-enabling-windows-notepad-with-excel-views/"><u>Guide: Enabling Windows Notepad with Excel Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-slow-loading-xbox-app-on-pc/"><u>How to Fix a Slow-Loading Xbox App on PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-ai-with-cbt-maximizing-outcomes-using-chatgpt/"><u>Integrating AI with CBT: Maximizing Outcomes Using ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-amds-graphics-in-windows-for-maximum-speed/"><u>Mastering AMD's Graphics in Windows for Maximum Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-tone-playback-issue-in-windows/"><u>Overcoming Disabled Tone Playback Issue in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-your-windows-alerts-a-win-11-guide/"><u>Personalize Your Windows Alerts: A Win 11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pioneering-taskbar-innovation-in-windows-11-with-6-suggestions/"><u>Pioneering Taskbar Innovation in Windows 11 with 6 Suggestions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resident-evil-village-pc-performance-issues-resolved-understanding-the-frame-rate-drop/"><u>Resident Evil Village PC Performance Issues Resolved: Understanding the Frame Rate Drop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-windows-11-install-failures-expert-tips-and-tricks/"><u>Troubleshooting Windows 11 Install Failures: Expert Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-personalize-your-functional-keys/"><u>Win 10/11: Personalize Your Functional Keys</u></a></li>
 </ul></div>
 

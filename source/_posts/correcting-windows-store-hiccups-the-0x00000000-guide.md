@@ -1,7 +1,7 @@
 ---
 title: "Correcting Windows Store Hiccups: The 0X00000000 Guide"
-date: 2025-01-12T18:22:53.519Z
-updated: 2025-01-18T18:10:39.882Z
+date: 2025-01-21T20:46:52.548Z
+updated: 2025-01-24T23:09:29.636Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,16 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 4. Click the **Run** option for starting the Windows Store Apps troubleshooter.  
 ![The Run Windows Store Apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-run-button.jpg)
 5. Then select to apply any potential solution presented within Windows Store Apps.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-apps-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In Windows 10, the steps for opening Windows Store Apps aren’t quite the same. Click the **Update & Security** category in Windows 10’s Settings app and select the **Troubleshoot** tab. Then you can click an **Additional troubleshooter** navigation option to reach the list of troubleshooting utilities.
 
@@ -50,11 +59,15 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-window-1.jpg)
 5. Open the **Startup type** menu by clicking on it and selecting **Automatic**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Settings for the Microsoft Store Install Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/microsoft-install-service-properties-window.jpg)
 6. Then select **Start** in the Microsoft Store Install Service Properties window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Select **Apply** to save the selected settings for the service.
@@ -72,19 +85,11 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
  There are a few Windows-based fixes you can try that fix general Windows Store issues. So, give these a try:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Run the System File Checker Command
 
  Error 0x00000000 can occur because of a wider PC issue with corrupted system files. You can address such a potential cause by running the System File Checker utility. Our [post about running the SFC tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to apply this potential solution within the Command Prompt.
 
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sfc-scannow-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’s also recommended to run a Deployment Image Servicing Management scan along with the SFC tool. That utility services and repairs the system image. You can run the Deployment Image Servicing Management tool by executing this command:
 
@@ -97,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 ![The Use a proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-use-a-proxy-server-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reinstall the Microsoft Store
@@ -108,25 +113,17 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
  However, you cannot simply uninstall the Microsoft Store in Settings and download the app from a web source. Instead, you’ll need to remove that app and reinstall it again by inputting PowerShell commands. Our article about [how to reinstall Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) includes step-by-step instructions for applying this potential error 0x00000000 solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Set Up a New Windows User Account
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/add-account-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You might need to fix error 0x00000000 because of a corrupted user account. Setting up a fresh new user account would then be a probable fix. Note that you can create a new user account and transfer the data from the old one to it.
 
  Our guide on [creating a new Windows user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) explains how to apply such a potential resolution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Perform a Windows System Restore
 
@@ -137,6 +134,10 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
  Check out this guide to [setting up and utilizing Windows System Restore points](https://www.makeuseof.com/windows-11-create-restore-point/) for instructions about how to perform a system restore.
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-restore-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Do an In-Place Windows Upgrade
 
@@ -168,18 +169,20 @@ Screenshot captured by Jack Slater - No attribution required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-imageclarity-converter-high-res-for-all-systems/"><u>[New] 2024 Approved ImageClarity Converter - High Res for All Systems</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-the-merits-of-sns-hdr-vs-its-industry-contenders/"><u>[New] In 2024, The Merits of SNS HDR Vs. Its Industry Contenders</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-sleeper-strikers-top-10-undetected-fb-memes/"><u>[Updated] 2024 Approved Sleeper Strikers Top 10 Undetected FB Memes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-earn-with-periscope-a-first-time-guide-to-gaining-cash/"><u>[Updated] Earn with Periscope A First-Time Guide to Gaining Cash</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-full-exploration-of-the-sj7s-high-definition-star-cameras-for-action/"><u>2024 Approved Full Exploration of the SJ7's High-Definition Star Cameras for Action</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/best-practices-for-nocturnal-photography-success-for-2024/"><u>Best Practices for Nocturnal Photography Success for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-updating-asus-pce-ac56-drivers-for-windows-1087-issues-fixed/"><u>Comprehensive Guide to Updating ASUS PCE-AC56 Drivers for Windows 10/8/7 [ISSUES FIXED]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-restoring-performance-to-unresponsive-bose-headphonesspeakers/"><u>Expert Advice on Restoring Performance to Unresponsive Bose Headphones/Speakers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/m4r-a-wav-sin-costo-el-poder-de-la-conversion-online-por-movavi/"><u>M4R a WAV Sin Costo: El Poder De La Conversión Online Por Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-flac-mp3/"><u>Movavi의 웹사이트에서 FLAC 파일을 MP3로 가용성 향상: 원격 무료 바이트 정렬과 전환</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-and-gratis-omzetten-van-ogg-naar-webm-mit-movavi-efficient-professioneel/"><u>Online & Gratis Omzetten Van OGG Naar WEBM Mit Movavi - Efficiënt Professioneel</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/online-access-to-spider-man-no-way-home-a-comprehensive-guide/"><u>Online Access to Spider-Man: No Way Home – A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ogg-aiff-movavi/"><u>제인드콤프리즈에서 비용 없이 OGG, AIFF 역학을 연결하기 위한 Movavi의 유일한 해결책</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-steps-to-record-voice-memo-on-iphone/"><u>[Updated] In 2024, Steps to Record Voice Memo on iPhone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-videography-splitter-verdict-top-cam-or-not-for-2024/"><u>[Updated] Videography Splitter Verdict Top Cam or Not for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/are-reviews-on-goods-and-services-for-cash-in-2024/"><u>Are Reviews on Goods & Services for Cash, In 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-color-grading-plugins-top-15-luts-for-action-cams/"><u>Best Color Grading Plugins Top 15 LUTs For Action Cams</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-update-overcome-previous-lag-and-frame-rate-hiccups/"><u>Cyberpunk 2077 Update: Overcome Previous Lag and Frame Rate Hiccups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fastening-your-purchase-speed-for-ms-store-products/"><u>Fastening Your Purchase Speed for MS Store Products</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-your-iphones-camerascape-woes-a-guide-to-overcoming-7-prevalent-problems/"><u>How to Repair Your iPhone's Camerascape Woes - A Guide to Overcoming 7 Prevalent Problems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/inter-system-sharing-made-simple-with-nearby-share/"><u>Inter-System Sharing Made Simple with Nearby Share</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-fullscreen-failsures-in-sonic-gameplay-on-w11/"><u>Navigating Fullscreen Failsures in Sonic Gameplay on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-lost-steam-games-images-in-windows/"><u>Restoring Lost Steam Games Images in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-dealing-with-no-click-space-in-win11/"><u>Strategies for Dealing with No-Click Space in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-outlook-integration-fix-non-sync-issue/"><u>Unlock Windows Outlook Integration: Fix Non-Sync Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-efficient-methods-to-resolve-common-anydesk-errors-in-os/"><u>Unlocking Efficient Methods to Resolve Common AnyDesk Errors in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-simple-steps-for-changing-windows-11-name/"><u>Unveiling the Simple Steps for Changing Windows 11 Name</u></a></li>
 </ul></div>
 

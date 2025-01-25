@@ -1,7 +1,7 @@
 ---
 title: Can't Select or Highlight Text in a PDF on Windows? Here's How to Fix It
-date: 2024-07-29T08:10:44.931Z
-updated: 2024-07-30T08:10:44.931Z
+date: 2025-01-24T01:31:22.264Z
+updated: 2025-01-25T01:11:31.875Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,22 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
  Are you having trouble selecting or highlighting text in a PDF document? Don't fret; it's simple to fix. In this article, you'll learn what may cause text selection or highlighting to stop working on a PDF and how to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Can't You Select or Highlight Text in a PDF?
 
  In most cases, you won't be able to select or highlight text if you're dealing with a scanned PDF rather than a regular one. Other possible causes include the highlight feature being disabled in your PDF editor, the file being restricted or fully encrypted by someone else, and, last but not least, issues with your PDF viewer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Ways to Fix the Select and Highlight Features Not Working on PDFs
 
  As mentioned above, several factors could contribute to the issue. So, let's discuss how to find the root cause and fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Perform Some Preliminary Checks
 
  Before moving on to the main fixes, perform the following preliminary checks first:
@@ -47,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
  If the above checks fail to pinpoint the problem, move on to the following major fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Ensure It's Not a Scanned File
 
  Not all PDFs are created by following general norms, creating a PDF file from scratch, or converting an existing text document into PDF format. Sometimes, scanned images are bundled and merged into a PDF file. Such a file can be described as a scanned PDF. They differ from standard PDFs in that editing them is usually not possible.
@@ -60,23 +59,20 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
 1. Visit[PDF24](https://tools.pdf24.org/en/ocr-pdf) or a similar site that uses OCR to recognize the text in files.
 2. Click on the**Choose files** button.  
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clicking on the Choose File Button on PDF OCR Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/1-6.jpg)
 3. Upload the scanned PDF file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Allow the tool to complete its processing.
 5. Download the converted version of the PDF file.  
 ![Downloading the Converted Version of the PDF File From the PDF OCR Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/2-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Ensure the PDF Is Not Restricted
 
@@ -84,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
  So, confirm whether the PDF's author has placed certain restrictions on it. If he has, request an unrestricted version of the PDF file. Alternatively, you can remove the restrictions set on the PDF on your own. Several online tools allow you to remove constraints, such as[Online2pdf](https://online2pdf.com/remove-pdf-restrictions) .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Check the Software for Issues
 
  Despite this being fairly obvious, you may occasionally be unable to highlight text in PDF files because of a deep-rooted issue in your PDF viewer. To confirm this, open up a different PDF and select the text to highlight. If it doesn't work on the other file, too, it's a software issue.
@@ -95,14 +88,15 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
  Restart the software, update it, repair corrupt files, and apply other relevant fixes depending on the software you have to resolve the primary issue. Once the primary problem with the software is resolved, the feature will resume working normally.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Reinstall the PDF Viewer Software
 
  Did switching the PDF viewer resolve the issue? If so, there is a problem with your primary software. To fix the unforeseen problem the software is experiencing, you should uninstall and reinstall it. Reinstalling the software may undo any customizations you have already made. So, keep that in mind before you do that.
 
  Need help uninstalling software? Refer to our guides on[uninstalling software on Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and[Windows 10](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Highlight Your PDF Text Again on Windows
 
@@ -114,8 +108,6 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +115,17 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-immediate-mp3-download-from-facebook-media-posts/"><u>[New] 2024 Approved Immediate MP3 Download From Facebook Media Posts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-explore-engaging-exchange-zones/"><u>[Updated] Explore Engaging Exchange Zones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ranking-apples-most-valuable-gif-tools/"><u>[Updated] Ranking Apple's Most Valuable GIF Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/deconstructing-digital-dimensions-the-trios-unique-traits-vr-ar-and-mr/"><u>Deconstructing Digital Dimensions The Trio's Unique Traits (VR, AR, & MR)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-parsing-glitches-error-0xc00ce556-guide/"><u>Fixing Parsing Glitches: Error 0xC00CE556 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-scripts-error-resolution-made-easy/"><u>Mastering Windows Scripts: Error Resolution Made Easy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-sluggish-windows-apps-for-seamless-web-linkage/"><u>Revitalize Sluggish Windows Apps for Seamless Web Linkage</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-gameplay-solve-computer-based-civ5-issues/"><u>Streamlining Gameplay: Solve Computer-Based CIV5 Issues</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unveiling-the-best-tools-to-snip-on-your-mac/"><u>Unveiling the Best Tools to Snip on Your Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-users-should-try-outlook-update/"><u>Why Windows Users Should Try Outlook Update</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steps for Ending Others' Session in Windows 11
-date: 2025-01-16T18:10:58.872Z
-updated: 2025-01-18T18:13:34.679Z
+date: 2025-01-18T20:16:37.201Z
+updated: 2025-01-24T23:07:06.721Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Sign Out Other Users Using the Task Manager](#sign-out-other-users-using-the-task-manager)
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 * Be sure to consider any unsaved work before logging off a user.
 
  Each active user session on your PC means your computer's resources are shared with others, which can impact system performance. If someone is not actively using their session, you can log off the idle user from your account to reclaim those system resources.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Sign Out Other Users Using the Task Manager
 
@@ -70,17 +70,13 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 ![Command Prompt With Query Session Command Running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/command-prompt-with-query-session-command-running-on-windows-11.jpeg)
 5. Type the following command to sign out the specified user. Replace **2** below with the user account ID you want to sign out:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Logoff 3`
 6. Upon successful execution, Windows will sign out the specified user account.  
 ![Command Prompt With Logoff Command Running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/command-prompt-with-logoff-command-running-on-windows-11.jpg)
 7. Once done, type **exit** and press Enter to close the Command Prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Log Off Other Users Using Process Explorer
@@ -96,20 +92,24 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 ![Process Explorer Exe File Run as Administrator Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-exe-file-run-as-administrator-option-in-windows-11.jpg)
 3. Open the **ProcessExplorer** folder, right-click on **procexp64.exe**, and select **Run as administrator**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Process Explorer App User Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-option-selected-in-windows-11.jpg)
 4. In the **Process Explorer** window, click **Users** to view all the active user sessions.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Process Explorer App User Account Logoff Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-account-logoff-option-selected-in-windows-11.jpg)
 5. Hover your cursor over the user account name and select **Logoff**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Process Explorer will sign out the selected user account from your computer. If you get an [access denied error](https://www.makeuseof.com/windows-11-fix-access-denied-error/), run the procexp64.exe executable with administrator privileges and try again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ask Other Users Before You Sign Them Out
@@ -126,18 +126,20 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-sharpen-your-streams-top-5-video-enhancers/"><u>[New] 2024 Approved Sharpen Your Streams Top 5 Video Enhancers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rom-raw-footage-to-youtube-a-step-by-step-process-unveiled/"><u>[New] From Raw Footage to YouTube A Step-by-Step Process Unveiled</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-elite-presenter-tagline-generator-20-for-2024/"><u>[Updated] Elite Presenter Tagline Generator 2.0 for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-explore-the-finest-ios-solutions-for-psp-emulation/"><u>[Updated] In 2024, Explore the Finest iOS Solutions for PSP Emulation</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1726029933477-usb/"><u>表面を使った簡単ガイド：USB接続による映像録画手段</u></a></li>
-<li><a href="https://fox-links.techidaily.com/asus-mg28uq-elevating-your-visual-experience-to-new-heights-for-2024/"><u>ASUS MG28UQ Elevating Your Visual Experience to New Heights for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diminish-windows-aural-amplification-feature/"><u>Diminish Windows Aural Amplification Feature</u></a></li>
-<li><a href="https://blog-min.techidaily.com/faq-why-isnt-winx-dvd-ripper-extracting-the-full-film-solutions-inside/"><u>FAQ: Why Isn't WinX DVD Ripper Extracting the Full Film? Solutions Inside</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-install-microsofts-pc-manager/"><u>Steps to Install Microsoft's PC Manager</u></a></li>
-<li><a href="https://article-helps.techidaily.com/strategic-brand-integrations-within-youtube-realms-for-2024/"><u>Strategic Brand Integrations Within YouTube Realms for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/traverse-times-tapestry-with-public-domain-art/"><u>Traverse Time's Tapestry with Public Domain Art</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-fixing-win11-camera-issue-with-error-a00f4289/"><u>Unraveling the Mystery: Fixing Win11 Camera Issue with Error A00F4289</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win10-repairing-directionally-inconsistent-headphone-output/"><u>Win10: Repairing Directionally Inconsistent Headphone Output</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-amplify-your-iphone-films-with-free-audio-additions-discover-three-ways/"><u>[New] Amplify Your iPhone Films with Free Audio Additions – Discover Three Ways</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-best-book-trailers-for-impact/"><u>[Updated] 2024 Approved Best Book Trailers for Impact</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-thorough-analysis-for-easy-dynamic-range-photography/"><u>[Updated] 2024 Approved Thorough Analysis for Easy Dynamic Range Photography</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-subscription-wins-unlock-monetization-benefits/"><u>[Updated] Subscription Wins Unlock Monetization Benefits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-security-guard-offline-warning/"><u>Counteracting Security Guard Offline Warning</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/guide-to-optimal-file-protection-techniques-in-windows-by-yl-software-experts/"><u>Guide to Optimal File Protection Techniques in Windows by YL Software Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-passwords-to-text-files-in-windows-1110/"><u>How to Add Passwords to Text Files in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-windows-terminal-background-image/"><u>How to Change the Windows Terminal Background Image</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-god-mode-on-windows-11/"><u>How to Enable God Mode on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-ethernet-not-working-issues-on-windows-11-and-7/"><u>How to Fix Ethernet Not Working Issues on Windows 11 & 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamped-version-of-noctuas-nh-d15-g2-now-features-quieter-operation-and-extra-cooling-fins/"><u>Revamped Version of Noctua's NH-D15 G2 Now Features Quieter Operation & Extra Cooling Fins</u></a></li>
+<li><a href="https://win11.techidaily.com/shazam-tutorial-how-to-identify-music-in-videos-across-android-ios-and-pcs/"><u>Shazam Tutorial: How to Identify Music in Videos Across Android, iOS, and PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-data-consistency-in-two-windows-with-advanced-synchronization-using-aoemi/"><u>Simplify Data Consistency in Two Windows with Advanced Synchronization Using AOEMi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surpassing-procreate-top-5-windows-drawers-reviewed/"><u>Surpassing Procreate: Top 5 Windows Drawers Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-absent-cameras-not-shown-in-dm/"><u>Troubleshoot Absent Cameras Not Shown In DM</u></a></li>
 </ul></div>
 

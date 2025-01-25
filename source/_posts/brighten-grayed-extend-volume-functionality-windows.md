@@ -1,7 +1,7 @@
 ---
 title: Brighten Grayed Extend Volume Functionality, Windows
-date: 2024-07-29T08:10:57.113Z
-updated: 2024-07-30T08:10:57.113Z
+date: 2025-01-20T21:52:43.777Z
+updated: 2025-01-24T20:51:18.721Z
 tags:
   - windows10
   - windows11
@@ -21,9 +21,9 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
  If this is happening to you, try the below solutions for a grayed-out "extend volume" option on Windows
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is the Extend Volume Option Grayed Out on Windows?
 
  If you see the extend volume option is grayed out in the Disk Management tool, there are a few possible reasons:
@@ -34,9 +34,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Now that you know all the possible culprits behind the issue, let's check out all the solutions that can help fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Convert the Partition to an NTFS File System
 
  Windows only supports certain [file systems](https://www.makeuseof.com/tag/from-fat-to-ntfs-to-zfs-file-systems-demystified-makeuseof-explains/) for partitions. If the partition you want to extend is formatted in a file system incompatible with Windows, you will not be able to extend it.
@@ -49,11 +46,16 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Choose **NTFS** from the File system drop-down menu. Then, click **OK**.  
 ![File system option in Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-system-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The formatting process may take some time, depending on the amount of data on the partition. Once done, restart your computer and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Delete a Partition and Create Unallocated Space
 
  The "extend volume" option will gray out if there is no unallocated space next to the partition you want to extend. To create unallocated space, you will have to delete a partition that is next to the partition you want to extend.
@@ -70,23 +72,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![list disk command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-disk-command-2.jpg)
 4. Select the disk that you want to extend. For example, if you want to extend disk 0, type **select disk 0** and press **Enter**.
 5. Type **list partition** and press **Enter**. This will list all the partitions on the disk.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![list partition command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-partition.jpg)
 6. In the Type column, look for the partition that says **Recovery**. Note the partition number. For example, if the partition number is 4, type **select partition 4** and press **Enter**. This will select the recovery partition.
-7. To delete the recovery partition, type **delete partition override** and press **Enter**.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. To delete the recovery partition, type **delete partition override** and press **Enter**.  
 ![delete partition override command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-partition-override.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will see the message **DiskPart successfully deleted the selected partition**. This indicates that the recovery partition has been deleted.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![DiskPart successfully deleted the selected partition message in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/diskpart-successfully-deleted-the-selected-partition.jpg)
 
  Next, open the Disk Management tool, and you will see an unallocated space next to the partition you want to extend. Right-click on the partition, choose **Extend** **Volume**, and then click **Next**.
@@ -101,11 +102,31 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  If this is happening to you, try the below solutions for a grayed-out "extend volume" option on Windows
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unveiling-hidden-gems-instagrams-download-secrets/"><u>[New] 2024 Approved Unveiling Hidden Gems Instagram's Download Secrets</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mastering-youtube-to-mpeg-format-change/"><u>[New] In 2024, Mastering YouTube to MPEG Format Change</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ynthesizing-google-trends-insights-for-videography-ideas-for-2024/"><u>[New] Synthesizing Google Trends Insights for Videography Ideas for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-free-youtube-to-mp3-converters-you-should-know-onlinewinmac-for-2024/"><u>[Updated] Best Free YouTube to MP3 Converters You Should Know [Online/Win/Mac] for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-tecno-camon-20-pro-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Tecno Camon 20 Pro 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/can-i-view-all-shared-videos-and-photos-on-messenger-in-2024/"><u>Can I View All Shared Videos And Photos on Messenger, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-non-operational-print-service-windows/"><u>Correcting Non-Operational Print Service Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-error-0x80072efd-on-windows-store-apps/"><u>Disabling Error 0X80072EFD on Windows Store Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-precision-photography-without-shake/"><u>In 2024, Precision Photography without Shake</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-the-most-of-every-second-boost-windows-11s-launch-time/"><u>Make the Most of Every Second: Boost Windows 11'S Launch Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-rectify-synapse-non-detection-of-razers-in-win/"><u>Methods to Rectify Synapse Non-Detection of Razers in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-workspace-mastery-over-hidden-windows-in-windows-11/"><u>Reclaim Your Workspace: Mastery Over Hidden Windows in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-pc-not-valid-warning-on-windows-11/"><u>Remedy for PC Not Valid Warning on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-approach-to-overcoming-microsoft-teams-error-80080300-on-windows/"><u>Step-by-Step Approach to Overcoming Microsoft Teams Error 80080300 on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/swift-solution-to-lidadll-glitch/"><u>Swift Solution to Lida.dll Glitch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-text-ideas-into-podcast-form/"><u>Transforming Text Ideas Into Podcast Form</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-responsive-windows-11-settings-search-bar/"><u>Troubleshooting Non-Responsive Windows 11 Settings Search Bar</u></a></li>
+</ul></div>
+

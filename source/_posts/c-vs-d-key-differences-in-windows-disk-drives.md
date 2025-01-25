@@ -1,7 +1,7 @@
 ---
 title: "C vs D: Key Differences in Windows Disk Drives"
-date: 2024-07-29T08:11:35.758Z
-updated: 2024-07-30T08:11:35.758Z
+date: 2025-01-18T23:21:04.853Z
+updated: 2025-01-24T21:34:31.778Z
 tags:
   - windows10
   - windows11
@@ -36,23 +36,25 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 
 ![A screenshot showing Windows (C:) in the File Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/drive-c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The C drive is typically denoted as **(C:)**, **Windows (C:)**, or **Local Disk (C:)**. You can access your local disk C: by clicking **My Computer** (on older Windows versions) or **This PC** (on newer Windows versions) in File Explorer. To open File Explorer on your computer, press the **Windows key + E.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Characteristics of the C: Drive
 
  This is your Windows computer's primary drive or partition. Here are the features of the C: drive:
 
 * The C: drive provides storage space for your operating system and system files. This local drive is integral, enabling your computer to boot and function.
 * Typically, the C: drive houses all the applications (with their file data) you or the manufacturer installs, including other related system files. All your computer's software and files are on the C: drive. Therefore, most programs and software are installed into the local disk C: by default.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Local Drive C Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/local-drive-c-components.jpg)
 * While it is possible to use the D: drive or C: drive for games and other non-essential apps, some app components must be installed on your primary drive to function properly, as it houses your OS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * If the drive C: is an SSD, it'll likely be faster than an external HDD assigned the letter D. However, a heavily fragmented drive C: with numerous read and write operations may be slower than a D: drive with fewer operations. But this will vary greatly based on each computer's specifications.
 * Although the primary partition or drive is automatically assigned letter C, you can [swap drive letter C for another letter](https://www.makeuseof.com/tag/change-drive-letter-windows/), as it’s not set in stone. However, it’s typically not worth the hassle!
 
@@ -60,11 +62,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ## What Is the Local Drive D?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![USB stick, disc, and SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recover-sd-card-data.jpg)
 
 Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/image-photo/sd-card-flash-drive-usb30-cd-1337495969)
@@ -77,10 +74,15 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Otherwise, your D: drive can be a removable flash drive or memory card—any additional local drive you connect to your computer after the drive (C:). Once the letter D is taken, your Windows computer will assign the letter E (up to Z) to any other local disk you attach to your device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![A screenshot showing Windows (C:) and a USB Drive (D:) in the File Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/drive-d-and-c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Characteristics of the D: Drive
 
@@ -89,13 +91,14 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 * Drive D: is typically the next storage device connected to your computer after the C: drive. Some people use it as a backup or recovery device, while others use it to store personal files like photos, videos, audio files, documents, and APKs. If drive C: crashes, your data in drive D: will remain safe.
 * You can also use this drive to store large apps, like games, that need additional storage space and aren’t vital to your device’s operation.
 * Depending on your computer’s makeup, the drive D: could be a partition of an internal hard drive, a secondary internal hard drive, an internal disc drive (CD, DVD, or Blu-ray), or an external flash drive.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![USB drives placed in hand with MacBook and iMac in backgrounds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/usb-drives-placed-in-hand-with-macbook-and-imac-in-backgrounds.jpg)
 * Unlike Drive C: you can easily change the alphabet assigned to this secondary drive—with fewer consequences. But, there’s hardly any need to.
 
  Similar to the C: drive, the "D" here isn't indicative of anything on its own. However, the letter D is usually assigned to any storage device that's installed after the drive containing your Windows OS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What About macOS and Linux Computers?
 
@@ -103,9 +106,6 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Drives containing a Linux or macOS operating system are mounted at **/** (the system root) instead of C: as in Windows computers. Other drives and storage devices can be mounted in arbitrary folders. For instance, external storage devices on Linux computers are typically accessed at **/mount** instead of a D: drive or E: drive.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## C: Drive vs. D: Drive: Which Should You Use?
 
  The C drive is the local disk from which your operating system runs. It houses all your computer's default programs, applications, and system files. Meanwhile, the D drive is a secondary hard drive on which you can store data that isn’t vital for your computer’s operations.
@@ -114,11 +114,26 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Let's compare both drives to see if their differences change your storage preferences.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/2024-approved-an-intro-to-quantum-hdr-innovations/"><u>2024 Approved An Intro to Quantum HDR Innovations</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-the-art-of-acquiring-insta-ringtunes-the-ultimate-checklist/"><u>2024 Approved Mastering the Art of Acquiring Insta-Ringtunes The Ultimate Checklist</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-on-doing-a-full-windows-1-10-reset-with-revo-uninstaller-pros-features/"><u>Expert Tips on Doing a Full Windows 1지원 10 Reset with Revo Uninstaller Pro's Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/far-cry-6-stability-enhancements-avoid-game-crashes-for-a-smooth-experience/"><u>Far Cry 6 Stability Enhancements: Avoid Game Crashes for a Smooth Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-easy-ways-to-make-a-great-educational-video-for-youtube/"><u>In 2024, Easy Ways to Make a Great Educational Video for YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/initiating-efficient-conversations-on-snapchat-with-three-steps-for-2024/"><u>Initiating Efficient Conversations on Snapchat with Three Steps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-synapse-device-detection-on-windows-1011/"><u>Solving Synapse Device Detection on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-desktop-incorporating-widgets-into-windows-11/"><u>Tailor Your Desktop: Incorporating Widgets Into Windows 11</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/top-rated-no-cost-disk-imaging-applications-for-windows-11-complete-review/"><u>Top Rated No-Cost Disk Imaging Applications for Windows 11 (Complete Review)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transforme-fotografias-monocromaticas-em-coloridas-com-sua-mao-usando-o-processo-4-etapas/"><u>Transforme Fotografias Monocromáticas Em Coloridas Com Sua Mão Usando O Processo 4 Etapas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unzip-all-how-to-handle-multiple-zip-files-on-your-system/"><u>Unzip All: How to Handle Multiple ZIP Files on Your System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-10-how-to-reconnect-to-wi-fi/"><u>Win 10: How to Reconnect to Wi-Fi?</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Streamlined Photo Navigation in Modern Windows Explorer
-date: 2025-01-16T17:14:05.602Z
-updated: 2025-01-18T16:18:03.337Z
+date: 2025-01-17T23:52:36.227Z
+updated: 2025-01-24T23:44:12.467Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,17 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 
  The Gallery section displays images from the Pictures and OneDrive folders and lists them by date. It has nice, rounded corners around each image in the Gallery section, which makes it feel like a part of the overall Windows 11 design. It appears right below the Home option in the left pane.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Gallery in File Explorer in Windows 11
 
  Repeat the following steps to enable the new Gallery section in File Explorer:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Update to the Appropriate Windows Insider Build
 
@@ -62,15 +70,7 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 ![Enable Gallery in File Explorer in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-gallery-in-file-explorer-in-windows-11-2.jpg)
 8. Restart your computer for the changes made by Vivetool to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Once your computer boots up, press**Win + E** to open File Explorer. You will see a new**Gallery** option in the left pane below the**Home** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to View the Gallery in File Explorer
 
@@ -81,7 +81,7 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
  The gallery app allows you to adjust the view of the image tiles to accommodate more or less in a single window. You can use the View option in the menu bar of File Explorer to change the image tile size. If you click on any image, it will open in a separate app window (Photos app or any other app that you use).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add or Remove Locations From Gallery in Windows File Explorer
@@ -91,10 +91,6 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 1. To add a folder to the Gallery, go to the menu bar and click on the**Locations** option. A new pop-up window will open and list all the folders that the Gallery section is pulling images from. Click on the**Add** button.  
 ![Adding a Folder to Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adding-a-folder-to-gallery-in-windows-file-explorer.jpg)
 2. Now select any folder or sub-folder with images and click on the**Include Folder** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. The selected folder will appear in the list of available folders. Click on the**OK** button.
 4. File Explorer gallery will now display the images present inside the newly added folder as well.
@@ -108,7 +104,11 @@ To remove a folder from Gallery, repeat the following steps:
 4. Lastly, click on the**OK** button to finalize the changes. The Gallery section won’t display any images from the excluded folder from now onwards.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Problems With the Gallery Section in Windows File Explorer
@@ -136,24 +136,20 @@ To remove a folder from Gallery, repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-digital-duality-merge-images-onlinepc/"><u>[New] 2024 Approved Digital Duality Merge Images Online/PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-a-new-era-in-adventure-recording-the-ultra-30-review/"><u>[New] A New Era in Adventure Recording The Ultra 30 Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fun-frenzy-youtube-writers-of-joyful-entertainment-for-2024/"><u>[New] Fun Frenzy YouTube’ Writers of Joyful Entertainment for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premium-drone-fleet-the-ultimate-cinematic-allies/"><u>[New] Premium Drone Fleet The Ultimate Cinematic Allies</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-tailored-tunes-creating-custom-youtube-playlists/"><u>[New] Tailored Tunes Creating Custom Youtube Playlists</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-building-a-brand-in-the-metaverse-ecosystem/"><u>[Updated] Building a Brand in the Metaverse Ecosystem</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unleash-your-typographic-vision-in-after-effects-mastery/"><u>[Updated] Unleash Your Typographic Vision in After Effects Mastery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-chrome-glitches-a-guide-for-windows-users/"><u>Clearing Chrome Glitches: A Guide for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-correct-an-erroneous-identifier-error-in-windows-os/"><u>Guide to Correct an ‘Erroneous Identifier’ Error in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-the-absence-of-windows-hello-scanner-error/"><u>Guiding Through the Absence of Windows Hello Scanner Error</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-a-comprehensive-guide-to-mac-screenshot-conversion/"><u>In 2024, A Comprehensive Guide to Mac Screenshot Conversion</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-peeling-back-the-curtain-on-youtubes-content-popularity-index/"><u>In 2024, Peeling Back the Curtain on YouTube's Content Popularity Index</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insight-into-win11s-network-provisioning-via-netstat-command-line/"><u>Insight Into Win11's Network Provisioning via Netstat Command-Line</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/powerpoint-audio-troubleshooting-non-operational-mic/"><u>PowerPoint Audio Troubleshooting: Non-Operational Mic</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reimagine-desktop-management-crafting-personalized-snap-layouts/"><u>Reimagine Desktop Management: Crafting Personalized Snap Layouts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-dysfunctional-windows-registry-entries/"><u>Restoring Dysfunctional Windows Registry Entries</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-art-of-pinpointing-perfect-pexels-photographs-for-2024/"><u>The Art of Pinpointing Perfect Pexels Photographs for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbo-drives-efficient-data-alignment-for-win11-users/"><u>Turbo Drives: Efficient Data Alignment for Win11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-windows-msvcr110dll-gap/"><u>Understanding & Fixing Windows' Msvcr110.dll Gap</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-free-online-platform-convert-any-fb-video-into-a-song/"><u>[New] 2024 Approved Free Online Platform Convert Any FB Video Into a Song</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-enthralling-epics-essential-channel-building-tactics/"><u>[New] In 2024, Enthralling Epics Essential Channel-Building Tactics</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-9-powerful-applications-for-saving-youtube-content-on-android-for-2024/"><u>[Updated] 9 Powerful Applications for Saving YouTube Content on Android for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-money-matters-finns-financial-framework/"><u>[Updated] In 2024, Money Matters Finn's Financial Framework</u></a></li>
+<li><a href="https://article-posts.techidaily.com/beyond-3d-a-comparative-guide-to-metaverse-and-omniverse-realities-for-2024/"><u>Beyond 3D A Comparative Guide to Metaverse and Omniverse Realities for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/bridging-the-gap-between-sound-waves-and-storage-space-a-guide-to-downloading-audio-programs-onto-computers-for-2024/"><u>Bridging the Gap Between Sound Waves and Storage Space A Guide to Downloading Audio Programs Onto Computers for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/compact-powerful-and-discreet-why-the-size-matters-when-choosing-a-personal-safety-device-expert-insights-on-top-brands/"><u>Compact, Powerful and Discreet - Why the Size Matters When Choosing a Personal Safety Device – Expert Insights on Top Brands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-audio-device-connectivity-issue/"><u>Correcting Windows Audio Device Connectivity Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-dock-for-captured-images/"><u>Deciphering the Dock for Captured Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elusive-sites-secure-solutions-7-fixes-for-unresponsive-browsers/"><u>Elusive Sites, Secure Solutions: 7 Fixes for Unresponsive Browsers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-tecno-camon-30-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Tecno Camon 30 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purple-panic-quick-fixes-for-distorted-windows-display/"><u>Purple Panic! Quick Fixes for Distorted Windows Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-reinstating-notification-banners/"><u>Steps for Reinstating Notification Banners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-user-data-the-guide-to-obtaining-sids-in-win11/"><u>Unlocking User Data: The Guide to Obtaining SIDs in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-win-error-31-a-systematic-fix-guide/"><u>Unlocking WIN Error 31: A Systematic Fix Guide</u></a></li>
 </ul></div>
 

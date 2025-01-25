@@ -1,7 +1,7 @@
 ---
 title: Boosting Your Windows 11'S Performance on 5G Networks
-date: 2024-07-29T08:10:59.670Z
-updated: 2024-07-30T08:10:59.670Z
+date: 2025-01-17T21:57:09.127Z
+updated: 2025-01-24T22:18:25.271Z
 tags:
   - windows10
   - windows11
@@ -32,25 +32,20 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
 2. From the left pane, select **Windows Update**.
 3. Click the **Check for updates** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-windows-1.jpg)
 
  Now, if you don’t want to miss any more updates, you can [have Windows get the latest features as soon as they become available](https://www.makeuseof.com/how-to-get-latest-updates-windows-11/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check the Credentials
 
  Before diving deep into the troubleshooting process, make sure you enter the correct password and username when connecting to the 5GHz band. Even if you’re using the same router, the network administrator might’ve set different passwords for the 2.4 GHz and 5GHz Wi-Fi bands.
 
  If you’ve previously connected your phone to the same network, you can check our guide on [how to view saved Wi-Fi passwords on Android](https://www.makeuseof.com/tag/how-to-view-passwords-for-saved-wi-fi-networks-on-android/) to find out the password.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 3\. Run the Network & Internet Troubleshooter
 
  It can be really frustrating whenever you run into a network problem on your computer. Fortunately, Windows has a built-in troubleshooter to help you fix it, including when you can’t connect to 5GHz Wi-Fi.
@@ -60,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
 3. From the **Other** list, click the **Run** button next to **Network and Internet**.
 4. Wait for Windows to find the issue and follow the on-screen instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![Run the network and internet troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/network-troubleshooter-1.jpg)
 
 ## 4\. Restart Your Router
@@ -81,11 +73,19 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
 
 ![Manage known networks in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/forget-network-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Set 5GHz as Your Preferred Band
 
  The 2.4GHz has better coverage, so it makes sense if you don’t want to remove it from your computer. However, you can [have Windows switch from 2.4 to 5 GHz](https://www.makeuseof.com/how-to-switch-from-24ghz-to-5ghz-in-windows-10/) if you want to enjoy higher speeds.
 
  If you aren’t that close to the router and the signal is getting weak, you should manually switch back to the 2.4 GHz band.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Update the Network Driver
 
@@ -98,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
 ![Update the Wi-Fi driver in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-wifi-driver-1.jpg)
 
  If Windows is showing **The best drivers for your device are already installed** message, head to the manufacturer's website and check if there are any updates available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Install a Different Wi-Fi Driver Version
 
@@ -112,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
 
 ![Use a different Wi-Fi driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/different-wi-fi-driver-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## 9\. Enable IPv6
 
  Internet Protocol version 6 (or IPv6) is the newest version of Internet Protocol (or IP) and newer routers and networks are already using it. If IPv6 is turned off on your Windows computer, it might lead to conflict, which is why you can’t connect to the 5GHz band.
@@ -128,21 +129,20 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
 5. Click **OK** to save the new network settings.
 6. Restart your computer and try to connect to the 5GHz Wi-Fi band.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Internet protocol settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ipv6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Use a Dual Band USB Wi-Fi Dongle
 
  If you already own a Dual Band Wi-Fi Dongle, you can use it to solve the connectivity issue. However, if you plan on buying one, it might be better to just stick with using the 2.4GHz band as [Wi-Fi dongles don’t have the best performance](https://www.makeuseof.com/tag/reasons-wireless-dongle-performance-sucks/).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11\. Reset the Network Settings
 
  If you can’t find anything wrong on your computer, there’s a chance that improper network settings are stopping you from connecting to the 5GHz band. In this case, you should [reset your network settings to their default values](https://www.makeuseof.com/reset-network-settings-windows-11/). Before doing so, it’s best to save any work in progress as Windows will ask you to restart your device once the reset is complete.
@@ -150,9 +150,9 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
 ![Network settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Connect Windows 11 to 5GHz Wi-Fi Again
 
  Fixing Windows network issues can be a frustrating task, especially when you can’t find any logical reasons for them. However, we hope the above fixes helped you, and now you’re connected to 5GHZ Wi-Fi.
@@ -161,11 +161,26 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
 
  If you’re sure your computer supports 5GHz connections but have no success when trying to connect to 5GHz Wi-Fi, go through the solutions below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-quick-shot-guide-for-chromebook-users/"><u>2024 Approved Quick Shot Guide for Chromebook Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-syncing-with-symphonies-music-on-whatsapp-status/"><u>2024 Approved Syncing with Symphonies Music on WhatsApp Status</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dell-g5-5090-review-a-comprehensive-analysis-on-its-superiority-as-a-cost-effective-gaming-platform-and-customization-possibilities/"><u>Dell G5 5090 Review - A Comprehensive Analysis on Its Superiority as a Cost-Effective Gaming Platform and Customization Possibilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/end-unwanted-messages-a-simple-guide-to-blocking-spam-texts-on-iphone-quick-tips/"><u>End Unwanted Messages: A Simple Guide to Blocking Spam Texts on iPhone - Quick Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-microsoft-store-crash-overcoming-server-hiccups-on-windows-11/"><u>Fixing Microsoft Store Crash: Overcoming Server Hiccups on Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210258133-9786077132615-la-oracion-en-la-psicoterapia/"><u>La oración en la psicoterapia | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pump-up-windows-pcs-for-seamless-high-performance-transcoding-workflows-by-tdarr/"><u>Pump Up Windows PCs for Seamless, High-Performance Transcoding Workflows by Tdarr</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-erase-the-blue-screen-with-error-740-in-winos/"><u>Quick Guide to Erase the Blue Screen with Error 740 in WINOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstate-colorful-volume-adjustment-on-windows-10/"><u>Reinstate Colorful Volume Adjustment on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-absent-drive-in-microsoft-os/"><u>Reinstating Absent Drive in Microsoft OS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-newest-player-in-ai-chatter-googles-bard-poses-serious-competition-for-chatgpt/"><u>The Newest Player in AI Chatter: Google's Bard Poses Serious Competition for ChatGPT</u></a></li>
+</ul></div>
+

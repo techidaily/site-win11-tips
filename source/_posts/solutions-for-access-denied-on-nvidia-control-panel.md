@@ -1,7 +1,7 @@
 ---
 title: Solutions for Access Denied on Nvidia Control Panel
-date: 2025-01-11T16:59:34.853Z
-updated: 2025-01-18T16:54:35.631Z
+date: 2025-01-17T16:13:34.775Z
+updated: 2025-01-24T16:42:29.534Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the NVIDIA Control Panel as an Administrator
 
  Firstly, try running the NVIDIA Control Panel with elevated admin permissions, which has worked for some users. To do that, press the**Windows** logo +**S** keyboard buttons and input NVIDIA Control Panel. Right-click NVIDIA Control Panel and select**Run as administrator** .
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-as-administrator-option2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Should this potential fix work, then it would be better to set the NVIDIA Control Panel to always run with administrative rights. However, that UWP app is located within a protected folder. You’ll need to[take ownership of the WindowsApps folder](https://www.makeuseof.com/windows-10-11-own-folder/) to set permanent admin rights for the NVIDIA Control Panel.
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 ![The Repair and Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-reset-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Start or Restart the NVIDIA Display Container Service
@@ -82,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 ![The Perform a clean installation checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perform-a-clean-installation.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Roll Back the NVIDIA Driver
@@ -92,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
  If the**Roll Back** option is grayed out, you might still be able to roll back to a previous NVIDIA graphics driver with the System Restore utility. Rolling Windows back to a restoration point restores drivers installed before the selected date. However, that will only work if your PC has a restore point that predates the driver update.
 
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/roll-back-driver-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This[post about creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) tells you how to roll back Windows. Select a restore point that will restore the previous NVIDIA graphics driver. You can click**Scan for affected** programs in System Restore to check if a chosen restoration point will restore an NVIDIA graphics driver.
 
@@ -109,15 +101,27 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 ![The Hidden items checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hidden-items-option.jpg)
 4. Clear Explorer’s address bar to input the following path:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `C:\ProgramData\NVIDIA Corporation`
 5. Then right-click the DRS folder and select**Properties** .
 6. Click the**Previous Versions** tab.  
 ![The Previous Versions tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/previous-version-tab.jpg)
 7. Select the most recent folder version shown in that tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click the**Restore** button.
 
  To select the same**Hidden Items** option in Windows 10, you’ll need to open the**View** tab in Explorer. Then select the checkbox labeled**Hidden Items** on that tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Turn Off the Game Bar
 
@@ -127,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 2. Click the**Gaming** category.
 3. Then turn off the**Enable Xbox Game Bar** option.  
 ![The Xbox Game Bar setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-xbox-game-bar-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Change Your Settings in the NVIDIA Control Panel Again
 
@@ -151,18 +151,22 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-triller-vs-tiktok-similarities-and-differences-a-complete-guide/"><u>[Updated] 2024 Approved Triller Vs. TikTok - Similarities & Differences - A Complete Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unlimited-potential-with-best-in-class-pp-templates/"><u>[Updated] Unlimited Potential with Best-in-Class PP Templates</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/forget-your-finstas-quickly-iosandroid-advice-for-2024/"><u>Forget Your Finstas Quickly IOS/Android Advice for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improve-notification-for-full-batteries-on-windows/"><u>Improve Notification for Full Batteries on Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-tecno-spark-20-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Tecno Spark 20 Pro</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-integrate-streamlabs-with-ease-into-your-macs-obs/"><u>In 2024, Integrate Streamlabs with Ease Into Your Mac’s OBS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-the-most-of-windows-outlook-a-calendar-customization-tutorial/"><u>Making the Most of Windows Outlook - A Calendar Customization Tutorial</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-the-best-text-to-audio-converters-of-all-times/"><u>New In 2024, The Best Text-to-Audio Converters of All Times</u></a></li>
-<li><a href="https://windows11.techidaily.com/perfect-speech-capture-on-a-windows-device/"><u>Perfect Speech Capture on a Windows Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-experience-with-emoji-15-in-windows-11/"><u>Streamline Your Experience with Emoji 15 in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbocharge-windows-downloads-for-a-smoother-valorant-experience/"><u>Turbocharge Windows Downloads for a Smoother Valorant Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-stop-default-search-menu-activation/"><u>Windows 11: Stop Default Search Menu Activation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-exclusive-templates-for-tiktok-backdrops/"><u>[New] Unveiling Exclusive Templates for TikTok Backdrops</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-earnings-average-income-per-video-ad/"><u>[New] YouTube Earnings Average Income per Video Ad?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-monochrome-moments-to-multicolor-movies/"><u>[Updated] From Monochrome Moments to Multicolor Movies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-download-vimeo-videos-withwithout-software-100-useful/"><u>2024 Approved How to Download Vimeo Videos With/Without Software [100% Useful]</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-pinnacle-writing-in-cinemas-diverse-segments/"><u>2024 Approved Pinnacle Writing in Cinema's Diverse Segments</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/embrace-easy-and-timely-meals-for-your-furry-friend-with-arfs-automatic-feeder/"><u>Embrace Easy and Timely Meals for Your Furry Friend with Arf’s Automatic Feeder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-frozen-task-manager-in-windows-operations/"><u>Fixing Frozen Task Manager in Windows Operations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-method-forcefully-erase-windows-11-printers/"><u>Instant Method: Forcefully Erase Windows 11 Printers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-wifi-from-windows-11-list/"><u>Removing Wifi From Windows 11 List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-windows-services-explorer-an-essential-manual-for-7-key-fixes/"><u>Reviving Windows Services Explorer: An Essential Manual for 7 Key Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simply-streamlined-steps-for-new-windows-11-dossiers/"><u>Simply Streamlined Steps for New Windows 11 Dossiers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-soundscape-in-windows-fixing-soundcard-irritations/"><u>Smooth Soundscape in Windows: Fixing Soundcard Irritations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-your-onedrive-writings-windows-11-adjustments/"><u>Steering Your OneDrive' Writings: Windows 11 Adjustments</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-oppo-reno-11-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo Reno 11 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-shadows-rejecting-impostor-software-from-windows-store/"><u>Unveiling Shadows: Rejecting Impostor Software From Windows Store</u></a></li>
 </ul></div>
 

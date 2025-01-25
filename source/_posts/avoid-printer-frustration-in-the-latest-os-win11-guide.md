@@ -1,7 +1,7 @@
 ---
 title: "Avoid Printer Frustration in the Latest OS: Win11 Guide"
-date: 2024-08-08T10:53:36.111Z
-updated: 2024-08-09T10:53:36.111Z
+date: 2025-01-21T17:23:02.396Z
+updated: 2025-01-24T22:51:04.762Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 
  Even after months of tinkering by the Microsoft team, if this issue is keeping you from printing important documents, you might want to look at this compilation of some tried and tested methods known to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Perform Basic Checks and Fixes
 
  Apply the following preliminary checks and fixes first, as they may resolve the issue right away:
@@ -36,18 +40,12 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 
  If none of the aforementioned basic checks and fixes resolves the issue, you can start applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Run the Printer Troubleshooter
 
  Start investigating the problem by running the Printer troubleshooter. It's a built-in utility in Windows that helps users diagnose issues with their printers and provides suggestions for fixing them.
 
  To run the troubleshooter, open **Settings > System > Troubleshoot > Other troubleshooters** . Here, you will find the**Printer** troubleshooter among the list of Windows troubleshooters. Click on the**Run** button next to it to activate it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![list of Windows troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/list-of-windows-troubleshooters.jpg)
 
  After that, follow the on-screen instructions to assist the troubleshooter in diagnosing the printer's problem. If there are any software issues impeding your printing process, the troubleshooter will likely show you how to fix them.
@@ -61,7 +59,16 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 3. Right-click on**Microsoft Print to PDF** and select**Update driver** .  
 ![menu of options on Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/device-manager-options-list.jpg)
 4. Selecting**Search automatically for updated driver software** in Windows 11 runs a check through your PC for updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update drivers Microsoft print to pdf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/update-drivers-microsoft-print-to-pdf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If it shows the best device driver already installed, you can still give the manual option a try. To do this:
 
@@ -81,14 +88,8 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 2. Type "**services.msc** " and press enter.
 3. In services, find**Print spooler** and double-click on it.
 4. Proceed by clicking on**Stop** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![print spooler properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/print-spooler-properties.jpg)
 5. Then follow the path**C:\\Windows\\system32\\spoolsv.exe** and delete all the files present in the folder.  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![content in spool folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/spool-folder.jpg)
 6. Now, all you have to do is go back to**Services** and manually start the print spooler service again.
 7. Restart your PC.
@@ -102,25 +103,25 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 3. Under the**Printers** panel, right-click on your PDF printer and select**Set as default.**  
 ![devices and printers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/devices-and-printers.jpg)
 4. Then, head over to**Properties > Ports** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Scroll through the list and select the port type that matches your connection.
 6. Select**Configure Port > Apply > OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![different ports in printer properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/printer-properties-list.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Disable the Windows Defender Firewall
 
  If your problem is still not solved the most probable culprit could be the Windows Defender firewall. It's possible that your firewall has been configured too strictly, preventing the printer from interacting properly. So, turning off the firewall could fix the probem.
 
  If you have never disabled the firewall before, check out our guide on [how to temporarily disable the Microsoft Defender firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Check for New Windows Updates
 
  Windows releases updates periodically to fix existing bugs within the operating system. If you keep the updates paused or don't let them install on time, you're likely to run into unforeseen issues. To ensure that's not the case, see if there is a new update available. If there is, you should install it immediately.
@@ -135,8 +136,9 @@ Here's how you can check that:
  Windows will automatically search for updates, and if any new version is available, it will be installed, thus resolving your printer error.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Remove Your Last Windows 11 Update
 
  Ironically, a new Windows update can also invite bugs that render your printer useless. If you noticed your printer stopped working right after a recent Windows update, you will need to delete the update from your computer.
@@ -147,9 +149,6 @@ Here's how you can check that:
 
  If the latest Windows 11 update was the culprit, reversing it should do the trick and kickstart the printer once again.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Run System Restore
 
  If the problem began as soon as you upgraded to Windows 11, and you've exhausted all other alternatives, there's one final solution–the Windows System Restore. Using this method restores Windows to a previous restore point where you know your printer was functional without any error.
@@ -160,11 +159,13 @@ To go back to a restore point:
 2. Open the Control panel by clicking on its icon.
 3. Type**"Recovery"** in the Control Panel’s search box, and go to the Recovery settings.
 4. Select**O** **pen System Restore** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![advanced recovery tools in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/advanced-recovery-tools1.jpg)
 5. The System Restore dialogue box will launch open. Click on**Next** to proceed forward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select the restore point to restore your computer back to when your printer was functioning without a hitch.
 7. Again, click on**Next** and then**Finish** to confirm your restore point.
 8. It will confirm one last time if you wish to proceed with the system restore process. Move your cursor to**Yes** and click.
@@ -181,8 +182,6 @@ To go back to a restore point:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,6 +189,26 @@ To go back to a restore point:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-creation-to-consumption-igtv-vs-youtube-explained-for-you-for-2024/"><u>[New] From Creation to Consumption IGTV Vs. YouTube Explained for You for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-free-tools-roundup-leading-online-video-capture-tech/"><u>[Updated] 2024 Approved Free Tools Roundup Leading Online Video Capture Tech</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mastering-audio-adjustment-on-youtube-devices-for-2024/"><u>[Updated] Mastering Audio Adjustment on YouTube Devices for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/automate-m2-drive-installation-on-win/"><u>Automate M.2 Drive Installation on Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-busy-messages-on-windows-11-disks/"><u>Dealing with Busy Messages on Windows 11 Disks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-windows-key-locations-for-software-installs/"><u>Discovering Windows: Key Locations for Software Installs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-top-tier-computer-gear-insight/"><u>Expert Reviews by Tom - Top-Tier Computer Gear Insight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/explore-top-5-innovative-features-of-ios-18-developer-preview-a-must-read/"><u>Explore Top 5 Innovative Features of iOS 18 Developer Preview: A Must-Read</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-apples-desk-to-windows-domain-windows-11-via-parallels/"><u>From Apple's Desk to Windows' Domain: Windows 11 via Parallels</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-reigning-tiktoks-on-twitter-a-viral-analysis/"><u>In 2024, Reigning TikToks on Twitter A Viral Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-onedrive-sync-with-windows-live-id/"><u>Mastering OneDrive Sync with Windows Live ID</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximize-your-ai-potential-with-our-picks-of-the-top-7-chatgpt-chrome-extensions/"><u>Maximize Your AI Potential with Our Picks of the Top 7 ChatGPT Chrome Extensions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-steam-save-issues-on-your-system/"><u>Overcoming Steam Save Issues on Your System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rebalancing-high-life-impact-on-windows-operations/"><u>Rebalancing High-Life Impact on Windows Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windowss-spotify-connectivity-glitches-a-guide/"><u>Solving Windows's Spotify Connectivity Glitches: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealthy-innovation-unveiled-asus-s15-reviewed-excellently/"><u>Stealthy Innovation Unveiled: Asus S15 Reviewed Excellently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-bypass-now-need-windows-password-warning/"><u>Steps to Bypass Now Need Windows Password Warning</u></a></li>
+</ul></div>
 

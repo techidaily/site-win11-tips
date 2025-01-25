@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Monitor Space: Eliminate Windows Overscan"
-date: 2025-01-17T16:32:30.441Z
-updated: 2025-01-18T17:12:08.449Z
+date: 2025-01-18T21:32:30.475Z
+updated: 2025-01-25T01:19:50.167Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disconnect and Reconnect the Display
 
  Overscanning problems on Windows can arise from a poorly connected [HDMI or DisplayPort](https://www.makeuseof.com/displayport-vs-hdmi/) cable. This can cause the screen image to appear stretched or cut off. Hence, the first thing you should do is disconnect and reconnect the display.
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 3. Click the drop-down menu next to **Display resolution** to select the correct resolution from the list. If you don’t know the appropriate display resolution for your display, refer to the product manual or experiment with different options.  
 ![Change Display Resolution in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-display-resolution-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When attempting this fix, some users report having their screen resolution settings appear grayed out. If such is the case for you too, check our guide on [fixing inaccessible screen resolution settings on Windows](https://www.makeuseof.com/windows-inaccessible-screen-resolution-settings/).
 
 ## 3\. Change the Display Scale
@@ -57,7 +57,15 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 3. Click the drop-down menu next to **Scale** to select the **Recommended** value.  
 ![Change Display Scale on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-display-scale-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After changing the display scale, disconnect and reconnect the display and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Use the Graphics Control Panel
 
@@ -76,14 +84,6 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 7. Click **X** to close the window.  
 ![Fix Overscanning Using the Intel Graphics Command Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fix-overscanning-using-the-intel-graphics-command-center.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix Overscanning Using the NVIDIA Control Panel
 
 1. Open the **NVIDIA Control Panel** using the search menu.
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 ![Fix Overscanning Using the NVIDIA Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fix-overscanning-using-the-nvidia-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix Overscanning via AMD Radeon Settings
@@ -106,17 +106,21 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 3. Move the slider next to **HDMI Scaling** to make the display fit the screen.  
 ![Fix Overscanning via AMD Radeon Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fix-overscanning-via-amd-radeon-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you make the necessary adjustments using the above steps, the issue should not occur again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Adjust Your Monitor’s Display Settings
 
  Most modern monitors include settings that let you customize display parameters like resolution, aspect ratio, scaling, and more. You can access the On-Screen Display (OSD) menu using the physical buttons or a remote.
 
  Look for settings such as "Auto Adjust," "Screen Fit," "1:1," or "Scaling" on the menu. Experiment with different options and see if they help resolve overscanning or overscaling issues on your Windows PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Run the Display Calibration Tool
 
@@ -126,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 2. Type **Calibrate Display Color** in the search box and select the first result that appears.
 3. In the **Display Color Calibration** window, follow the on-screen prompts.  
 ![Calibrate Display on Windows Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calibrate-display-on-windows-computer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Complete the calibration process and see if the overscanning issue still occurs on Windows.
 
@@ -146,11 +146,11 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 6. Click **Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
 
- Wait for the troubleshooter to find and fix any issues, and see if the issue persists.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Wait for the troubleshooter to find and fix any issues, and see if the issue persists.
 
 ## 8\. Try Some Generic Fixes
 
@@ -177,24 +177,24 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unlocking-full-potential-the-laptop-recording-manual/"><u>[New] 2024 Approved Unlocking Full Potential The Laptop Recording Manual</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-cross-platform-soundtrack-strategy-for-facebook-profiles/"><u>[New] In 2024, Cross-Platform Soundtrack Strategy for Facebook Profiles</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-stay-true-to-your-story-dont-drown-in-false-like-floods/"><u>[New] In 2024, Stay True to Your Story, Don't Drown in False Like Floods</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-unleashing-the-full-potential-of-free-countdown-tools/"><u>[Updated] Unleashing the Full Potential of Free Countdown Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/empower-your-windows-experience-with-ai-through-vivetool/"><u>Empower Your Windows Experience with AI Through ViveTool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-window-management-skills-using-keyboard-in-win11/"><u>Enhance Your Window Management Skills Using Keyboard in Win11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-back-to-clear-communication-fixing-zoom-sound-issues-on-windows-and-mac/"><u>Get Back To Clear Communication: Fixing Zoom Sound Issues On Windows & Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205693301-google-chrome-lagging-or-freezing-restart-immediately/"><u>Google Chrome Lagging or Freezing? Restart Immediately</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-handle-runtime-errors-when-malwarebytes-cant-call-proc/"><u>How to Handle Runtime Errors when Malwarebytes Can't Call Proc</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-gionee-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Gionee Lock Screen Password?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-smart-shopping-for-data-stores-the-lowdown-on-price/"><u>In 2024, Smart Shopping for Data Stores The Lowdown on Price</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-pathway-to-perfect-pitches-insights-from-magix-maker/"><u>In 2024, The Pathway to Perfect Pitches Insights From Magix Maker</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-windows-shields/"><u>Navigating the World of Windows Shields</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-device-interaction-post-windows-sleep-mode/"><u>Optimizing Device Interaction Post-Windows Sleep Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pro-typers-playbook-custom-keys-for-pre-set-snippet-pasting-in-windows-11/"><u>Pro-Typers' Playbook: Custom Keys for Pre-Set Snippet Pasting in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-monitor-configuration-on-desktops/"><u>Reversing Monitor Configuration on Desktops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-fix-unsignaled-update-files-on-pcs/"><u>Steps to Fix Unsignaled Update Files on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/terminal-and-powershell-dissecting-their-unique-characteristics/"><u>Terminal & PowerShell: Dissecting Their Unique Characteristics</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/win-at-watching-basketball-top-15-ways-to-stream-nba-games/"><u>Win at Watching Basketball Top 15 Ways to Stream NBA Games</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-mastering-youtube-link-building-strategies/"><u>[New] 2024 Approved Mastering YouTube Link-Building Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-does-money-flow-into-shopping-guides-vids/"><u>[New] Does Money Flow Into Shopping Guides Vids?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-editing-excellence-the-ultimate-guide-to-top-notebooks-for-2024/"><u>[New] Editing Excellence The Ultimate Guide to Top Notebooks for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elite-roundup-best-tools-mimicking-3ds-on-pc/"><u>[Updated] Elite Roundup Best Tools Mimicking 3Ds on PC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-streaming-gopro-on-social-platforms-a-step-by-step-guide-for-2024/"><u>[Updated] Streaming GoPro on Social Platforms A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-10-best-terraria-mods/"><u>[Updated] Top 10 Best Terraria Mods</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-spontaneous-tab-creation-by-chromium-on-windows/"><u>Disabling Spontaneous Tab Creation by Chromium on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-using-compressed-windows-archive-cab-files/"><u>Mastering the Art of Using Compressed Windows Archive (CAB) Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-a-new-era-the-windows-11-plus-android-second-screen-fusion/"><u>Navigating a New Era: The Windows 11 + Android Second Screen Fusion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-split-display-glitches/"><u>Navigating Split Display Glitches</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/nikon-1-j5-4k-camera-review/"><u>Nikon 1 J5 4K Camera Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-file-save-restrictions-on-microsoft-pcs/"><u>Overcoming File Save Restrictions on Microsoft PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-device-hang-error-x887a0006-on-windows-11/"><u>Overcoming the Device Hang Error: X887A0006 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-avoiding-invisible-displays-in-pc-gaming/"><u>Solutions for Avoiding Invisible Displays in PC Gaming</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ultimate-screenshot-and-recorder-windows-10/"><u>Ultimate Screenshot & Recorder, Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-win-11-tweaks-seven-essential-steps-to-elevate-your-playstyle/"><u>Ultimate Win 11 Tweaks: Seven Essential Steps to Elevate Your Playstyle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-clear-sounds-in-windows-11-via-action-centers-mixer-feature/"><u>Unlock Clear Sounds in Windows 11 via Action Center's Mixer Feature</u></a></li>
 </ul></div>
 

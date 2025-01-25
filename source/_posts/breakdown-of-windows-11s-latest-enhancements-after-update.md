@@ -1,7 +1,7 @@
 ---
 title: Breakdown of Windows 11'S Latest Enhancements After Update
-date: 2024-07-29T08:13:13.955Z
-updated: 2024-07-30T08:13:13.955Z
+date: 2025-01-18T00:59:25.490Z
+updated: 2025-01-24T19:15:53.616Z
 tags:
   - windows10
   - windows11
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 
 ## Breakdown of Windows 11'S Latest Enhancements After Update
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Windows 11 users can now enjoy the benefits of Windows Copilot, a sophisticated AI virtual assistant that can perform tasks such as calculations and provide weather forecasts.
@@ -24,8 +28,9 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
  Microsoft has rolled out a slew of new features for Windows 11\. Contrary to expectations, an optional Moment 4 update added many of the new features the 23H2 build update was expected to introduce to Windows 11\. Moment 4 dropped more than 100 new features for users to discover. These are some of the more noteworthy.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is It the Moment 4 or Windows 11 23H2 Update?
 
  The September 26, 2023, release of the Moment 4 update caused some confusion about the Windows 11 23H2 update. It was previously anticipated the Windows 11 23H2 update would introduce all new features in the fourth quarter of 2023\. However, many of those features became available for Windows 11 version 22H2 as part of the Moment 4 package.
@@ -42,23 +47,18 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 
  As a replacement for an old Windows feature, some users might not consider Windows Copilot to be new. However, it is a sophisticated AI tool that can do more than Cortana. For example, Windows Copilot has options for summarizing, rewriting, and explaining documents. Plus, you can select different conversational style options in Copilot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. A Cloud Backup Tool
 
  Windows Backup is a new cloud backup app that the Moment 4 Update introduced to Windows 11\. This tool enables you to back up files and folders to OneDrive cloud storage. It’s a straightforward tool that lets you back up folders, documents, pictures, and Windows settings to a OneDrive cloud storage account.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Windows Backup app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-backup-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This feature can come in handy for backing up and restoring files and settings when migrating from one Windows 11 PC to another. Check out our [guide to the Windows Backup feature](https://www.makeuseof.com/windows-11-new-backup-feature-guide/) for details about how to utilize that app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. RGB Lighting Settings
 
  Windows 11 users can access RGB settings for devices (such as illuminated Razer Chroma) in a Dynamic Lighting section of the Settings app. These are the new RGG lighting settings available in Windows 11:
@@ -70,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 
  You should be able to find those new settings via the search tool. Input **dynamic lighting** into the search tool. Then select the **Change lighting colors** search result to bring up the Dynamic Lighting section of the **Personalization** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Taskbar Label Settings
 
  Taskbar labels show you the titles for software windows minimized to the taskbar. Of course, that’s not exactly a new feature since Windows platforms dating back to 1995 had taskbar labels until Microsoft removed them from Windows 7\.
@@ -81,18 +78,20 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 
 ![The Combine taskbar buttons and hide labels option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/combine-taskbar-buttons.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can access these new settings by right-clicking Windows 11’s taskbar and selecting **Taskbar settings**. Click **Taskbar behaviors** and the **Combine taskbar** **buttons and hide labels** drop-down menu. Selecting **Never** will enable window taskbar labels.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Extended Compression Support
 
  The Moment 4 update extended Windows 11’s archive support, which was previously limited to ZIP. You can now extract RAR, TAR, and 7Z archives with Windows 11’s extraction utility. However, please note that you can’t create those archive formats with Windows 11’s archive utility at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## 6\. An Updated Paint App
 
  Windows 11 now has an updated Paint app. The revamped Paint app includes an option for removing backgrounds from images. Clicking **Remove background** erases the backdrop from a picture.
@@ -115,11 +114,26 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
 
  Microsoft has rolled out a slew of new features for Windows 11\. Contrary to expectations, an optional Moment 4 update added many of the new features the 23H2 build update was expected to introduce to Windows 11\. Moment 4 dropped more than 100 new features for users to discover. These are some of the more noteworthy.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-aggregated-insights-on-10-superior-video-call-apps-for-2024/"><u>[New] Aggregated Insights on 10 Superior Video Call Apps for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/elightful-no-cost-access-to-youtubes-nine-full-length-yule-celebrations/"><u>[New] Delightful, No-Cost Access to YouTube's Nine Full-Length Yule Celebrations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-guide-to-video-cuts-windows-edition-made-simple/"><u>[New] The Ultimate Guide to Video Cuts Windows Edition, Made Simple</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-tinytake-screen-recorder-review/"><u>[New] TinyTake Screen Recorder Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/beneath-the-surface-instagrams-hidden-reality-for-viewers/"><u>Beneath the Surface Instagram’s Hidden Reality for Viewers</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-ps-console-remotes-to-nintendo-switch/"><u>Connecting PS Console Remotes to Nintendo Switch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-decades-old-password-in-windows-error/"><u>Deciphering Decades-Old Password in Windows Error</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-vivo-y78-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Vivo Y78 5G</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-ideal-7-video-players-for-apple-devices/"><u>In 2024, Ideal 7 Video Players for Apple Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-steam-disconnect-issues/"><u>Overcoming Windows Steam Disconnect Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-uac-dynamics-from-an-admins-perspective/"><u>Transforming Windows UAC Dynamics From an Admin's Perspective</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-error-xc0f1103f-in-geforce-experience-win-1011/"><u>Unraveling Error XC0F1103F in GeForce Experience Win 10/11</u></a></li>
+</ul></div>
+

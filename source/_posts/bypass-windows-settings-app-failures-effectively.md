@@ -1,7 +1,7 @@
 ---
 title: Bypass Windows Settings App Failures Effectively
-date: 2024-07-29T08:12:20.674Z
-updated: 2024-07-30T08:12:20.674Z
+date: 2025-01-18T23:13:29.362Z
+updated: 2025-01-24T21:24:36.554Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/48eff568c35933b40401a65faa40dbe7bb6a58eb4
  App crashes can be caused by a number of things, such as a faulty background process, an outdated system, or corruption in the system. In this guide, we will discuss the troubleshooting methods you can try if the Settings app keeps crashing on your Windows system.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is the Settings App Crashing on Windows?
 
  If the Settings app is crashing on Windows, it may be because of one of the following reasons:
@@ -35,8 +36,9 @@ thumbnail: https://thmb.techidaily.com/48eff568c35933b40401a65faa40dbe7bb6a58eb4
  Now that we know about the potential causes behind the issue, let’s have a look at the troubleshooting methods you can try to fix the problem once and for all.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Restart Your PC
 
  This might seem too simple to work, but resetting the computer at times can eliminate any temporary bugs or corruption issues, resolving the error in the process.
@@ -54,11 +56,12 @@ Here is all that you need to do:
 1. [Open the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and choose the**Windows Updates** option from the left pane.
 2. Click on the**Check for Updates** button in the following window and wait for the system to look for the available updates.
 3. Once the updates are displayed, install them one by one by clicking on the**Download & Install** button. down  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click on the Download & install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-windows-update-download-and-install.jpg)
 4. After the updates are installed, restart your system and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In some rare cases, the issue can also start occurring after installing an update. This typically happens when the update itself was corrupt. If this scenario applies to you, you can[uninstall the installed Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) and then check if that makes any difference.
 
@@ -80,9 +83,6 @@ Follow these steps to proceed:
 
  Alternatively, you can also choose an updated driver manually by choosing the**Browse my computer for drivers** option in the 4th step. If an outdated driver is a culprit, this should resolve the problem in no time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Reset or Re-Register the Settings App
 
  Another easy way to get rid of the corruption issues within the apps is by resetting them to their default state or by re-registering them.
@@ -93,16 +93,15 @@ Here is all that you need to do:
 
 1. Click on the Windows icon on your taskbar and right-click on the**Settings** icon.
 2. Choose**App settings** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![Choose App Settings from the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/taskbar-windows-icon-app-settings.jpg)
 3. In the following window, head over to the**Reset** section. You will have two options here; Repair and Reset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. First, click on**Repair** and once the process is completed, check if the problem is fixed.
 5. If not, click on**Reset** and follow the on-screen instructions to proceed.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![Repair or reset the application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/app-settings-reset-and-repair.jpg)
 
 To re-register the app, follow these steps:
@@ -116,6 +115,10 @@ Get-AppxPackage *windows.immersivecontrolpanel* | Reset-AppxPackage
 
 Hopefully, this should fix the problem once and for all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Windows Settings App Crash Issue, Now Resolved
 
  System apps like the Settings app can crash unexpectedly, which is annoying. It's generally a temporary corruption issue that causes them, so fortunately fixing them is quite simple. The solution mentioned above should help you fix the Settings app crashing issue for good. If the error appears again, you can consider reporting the issue to the Microsoft support team. They will help you identify the real cause of the problem and suggest a relevant fix.
@@ -126,8 +129,6 @@ Hopefully, this should fix the problem once and for all.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +136,24 @@ Hopefully, this should fix the problem once and for all.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-10-best-photo-grid-apps-to-make-your-pictures-stand-out/"><u>[New] 2024 Approved 10 Best Photo Grid Apps to Make Your Pictures Stand Out</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-one-frame-at-a-time-how-to-extract-images-from-windows-10-movie-files/"><u>2024 Approved One Frame at a Time How To Extract Images From Windows 10 Movie Files</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/acancel-free-setup-for-wi-fi-connected-printers/"><u>Acancel-Free Setup for Wi-Fi Connected Printers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/controlling-windows-spotlight-picture-with-precision/"><u>Controlling Window's Spotlight Picture with Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cr2-image-to-jpg-a-step-by-step-windows-tutorial/"><u>Cr2 Image to JPG: A Step-by-Step Windows Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-addressing-windows-error-0x80040610-in-outlook/"><u>Expert Tips for Addressing Windows Error 0X80040610 in Outlook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-guide-to-prolonging-gopro-power-source-lifespan/"><u>In 2024, A Guide to Prolonging GoPro Power Source Lifespan</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-advanced-strategies-for-recording-and-saving-gameplay-on-ps4/"><u>In 2024, Advanced Strategies for Recording and Saving Gameplay on PS4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-minecraft-wi-fi-gaming-hurdles-on-pc/"><u>Navigating Minecraft Wi-Fi Gaming Hurdles on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-how-to-swiftly-toggle-fn-key-on-windows/"><u>Quick Fix: How to Swiftly Toggle Fn Key on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-outlook-crash-steps-for-windows-users/"><u>Solving Outlook Crash: Steps for Windows Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/step-by-step-looping-iphones-videos-effortlessly-for-2024/"><u>Step-by-Step Looping iPhones Videos Effortlessly for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unblocking-the-path-to-play-how-to-fix-game-not-starting-issues/"><u>Unblocking the Path to Play: How to Fix Game Not Starting Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unearthing-windows-11s-inner-workings-its-registry-details/"><u>Unearthing Windows 11’S Inner Workings: Its Registry Details</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-poco-c65-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Poco C65 Phone Network-Ready</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-activating-audio-mixing-via-action-center/"><u>Windows 11: Activating Audio Mixing via Action Center</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winxvideo-ai-ritmo-di-velocita-accelerato-con-gpu-per-la-conversione-video-e-audio/"><u>Winxvideo AI - Ritmo Di Velocità Accelerato Con GPU per La Conversione Video E Audio</u></a></li>
+</ul></div>
 

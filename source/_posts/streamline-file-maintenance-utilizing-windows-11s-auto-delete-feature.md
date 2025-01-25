@@ -1,7 +1,7 @@
 ---
 title: "Streamline File Maintenance: Utilizing Windows 11’S Auto Delete Feature"
-date: 2025-01-12T16:16:23.374Z
-updated: 2025-01-18T17:35:26.748Z
+date: 2025-01-22T16:15:14.159Z
+updated: 2025-01-24T20:14:54.701Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 4. Under **Temporary Files**, set up your desired time frames fore deleting files in the recycle bin and files in your Downloads folder.  
 ![storage sense in windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/storage-sense-in-windows-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Not all files in the Downloads folder will be deleted after the set time; just those that haven't been opened. This means if you download a file and want to open it later, it will still be deleted after the set time. If you turn this setting on, you should move anything out of the Downloads folder that you intend to keep.
 
  If you want, you can always turn off the setting by simply disabling the **Storage Sense** button later on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Deleted Old Files or Folders With the Command Prompt
 
@@ -59,11 +59,11 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 ![command prompt on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/command-prompt-on-windows.jpg)
 
- Your files will be removed as quickly as soon as you hit the above commands.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Your files will be removed as quickly as soon as you hit the above commands.
 
 ## 3\. Use Task Scheduler on Windows
 
@@ -78,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 ![task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/task-scheduler.jpg)
 5. In the **Name** box, enter a name for the task.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Now, in the **General** tab, under the **Security options** section, select the **Run whether the user is logged on or not** option.
 7. Make sure the **Do not store password** checkbox is unselected.
 8. Click on the **Triggers** tab and select the **New** button.
@@ -90,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 10. Under the **Settings** section, set up the timings of the tasks you'd like to run. Finally, click on **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, head to the **Actions** tab and click on the **New** button. From the **Actions** drop-down menu, select the **Start a program** option.
@@ -100,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 `ForFiles`
 
 ![new action tab on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-tab-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Similarly, in the **Add arguments** box, type in the following command:
 
@@ -117,11 +117,11 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 ![new action setting on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-setting-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's it—finalize the changes by clicking **OK** once again, and you will be done in no time. From here forward, your files will be automatically deleted within the specified time. Of course, if you later change your mind you can always reverse this setting by simply deleting the new folder your created in first step (which in our case, will be **New Folder 1**).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Auto-Deleting Old Files or Folders on a Windows Computer
 
@@ -141,15 +141,20 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-superior-satire-picture-styler/"><u>[New] In 2024, Superior Satire Picture Styler</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-premium-steadicam-options-for-high-quality-dslr-shoots/"><u>[Updated] Premium Steadicam Options for High-Quality DSLR Shoots</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-tutorial-capturing-conversations-from-slack-for-windowsmac-and-iosandroid-devices/"><u>Easy Tutorial: Capturing Conversations From Slack for Windows/Mac and iOS/Android Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-edit-your-fax-cover-using-windows-11-tools/"><u>How to Edit Your Fax Cover Using Windows 11 Tools</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Nokia C22? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/microsoft-decides-against-replacing-windows-11s-show-desktop-feature-what-you-need-to-know/"><u>Microsoft Decides Against Replacing Windows 11'S Show Desktop Feature: What You Need to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sharpen-skills-and-speed-up-valorant-tips-for-top-performance/"><u>Sharpen Skills & Speed Up: Valorant Tips for Top Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-faulty-volume-shadows-in-win/"><u>Troubleshooting Faulty Volume Shadows in Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-and-purge-windows-empties-a-compre-cooking-instruction/"><u>Uncover & Purge Window's Empties: A Compre Cooking Instruction</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-30-second-color-fixes-for-aspiring-photo-pros/"><u>[New] 30-Second Color Fixes for Aspiring Photo Pros</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-color-correction-leveraging-look-up-tables-from-cg-central/"><u>[Updated] Streamlining Color Correction Leveraging Look-Up Tables From CG Central</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-x50iplus-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-ideal-tools-for-saving-your-online-video-presence/"><u>2024 Approved Ideal Tools for Saving Your Online Video Presence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-expression-activating-newest-emojis-in-win11/"><u>Enhance Expression: Activating Newest Emojis in Win11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-your-images-with-focus-effects/"><u>Enhance Your Images with Focus Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enhance-dedicated-system-ram-for-graphic-tasks/"><u>How to Enhance Dedicated System RAM for Graphic Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-samsung-flow-to-connect-your-windows-pc-and-galaxy-phone/"><u>How to Use Samsung Flow to Connect Your Windows PC and Galaxy Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-f54-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy F54 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-strategies-for-dampening-aerial-drone-vibration-artifacts/"><u>In 2024, Strategies for Dampening Aerial Drone Vibration Artifacts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-and-organize-win11-desktop-quickly/"><u>Personalize & Organize Win11 Desktop Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-control-of-windows-timers-beat-failures/"><u>Regain Control of Windows Timers, Beat Failures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tittlinga-14-at-grafiklopande-top-fotbollsprogram-alternativ-for-windows-10-2024/"><u>Tittlinga 14 Åt Grafiklöpande - Top Fotbollsprogram Alternativ För Windows 10, 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-code-0x887a0006-graphics-issue/"><u>Troubleshooting Code 0X887A0006: Graphics Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-power-settings-save-charges/"><u>Understanding Power Settings - Save Charges!</u></a></li>
 </ul></div>
 

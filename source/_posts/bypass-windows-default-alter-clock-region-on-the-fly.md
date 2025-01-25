@@ -1,7 +1,7 @@
 ---
 title: "Bypass Windows' Default: Alter Clock Region On-the-Fly"
-date: 2024-07-29T08:10:51.597Z
-updated: 2024-07-30T08:10:51.597Z
+date: 2025-01-18T22:51:38.129Z
+updated: 2025-01-24T22:29:50.072Z
 tags:
   - windows10
   - windows11
@@ -18,14 +18,15 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
  Did you ever experience being in a different time zone while working on your Windows computer? You've checked Windows time settings and noticed that it's not set to your current location. Suddenly, you realize that the time zone is greyed out, and you can’t configure it automatically. What do you do next? There are several scenarios where Windows cannot automatically set the time zone, and here's how to fix them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Restart Your PC
 
  The first step when troubleshooting any Windows-related issue is to restart the computer. It seems obvious, but it often solves the problem. Rebooting flushes out cached data that could cause time zone problems. It also resets various temporary services that may prevent Windows from automatically setting the time zone.
 
  To restart your computer, save all your work and close any running applications. After that, open the Start menu and click **Restart**. Once your computer restarts, check if that fixes the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Turn on Location Services in the Settings
 
@@ -37,12 +38,13 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 2. From the left navigation panel, click **Privacy & security**.
 3. Under the **App permissions** section, select **Location**.
 4. Make sure the **Location services** option is enabled. If it's not, switch the toggle to turn it on.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![Enable Location Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-location-services.jpg)
 
  Now restart your computer and check if Windows can set the time zone automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Set the Windows Time Service to Automatic
 
@@ -57,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 3. Scroll down in the Services window and locate the **Windows Time** service.
 4. Right-click the service and select **Properties**.
 5. In the Properties window, set the **Startup type** to **Automatic**.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Windows Time Service Status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-time-service-status.jpg)
 6. Now check the **Service status**. If it reads **Stopped**, click the **Start** button to start the service.
 7. Click **Apply** and **OK** to save the changes.
@@ -86,11 +85,12 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\location`  
  You can also copy and paste the path into the Registry Editor address bar. Now press Enter and this directs you to the Location key.
 8. Move to the right pane and double-click the **Value** (REG\_SZ) value.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Edit Registry to change the location setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/edit-registry-to-change-the-location-setting.jpg)
 9. In the Edit String window, type **Allow** in the **Value data** field and click OK.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, close the Registry Editor and restart your PC. Windows should detect the time zone automatically and set it correctly.
 
@@ -103,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 3. On the left navigation panel, browse to the following path:  
 `Computer Configuration > Administrative Templates > Windows Components > Location and Sensors > Windows Location Provider`
 4. Go to the right pane and double-click on **Turn off Windows Location Provider**.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn off Windows Location Provider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-windows-location-provider.jpg)
 5. In the pop-up window, check the **Not Configured** option.
 6. Click **Apply** and **OK** to save the changes.
@@ -126,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
  Once done, close the Command Prompt and restart your computer to check if it solves the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Try Some Generic Windows Fixes
 
  There are also generic fixes you can try:
@@ -135,14 +136,12 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 3. **Update Windows:** Finally, [update Windows to the latest version](https://www.makeuseof.com/update-windows-manually/) to ensure you have all the latest fixes and security patches.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows Can Now Automatically Set the Time Zone
 
  We hope the article helped you resolve timing issues on your Windows computer. It may occur due to missing or corrupted system files or incorrect time zone settings. Make sure to try these solutions and perform a System Restore if the problem persists.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -150,3 +149,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-ai-powered-image-processing-hub-for-2024/"><u>[New] AI-Powered Image Processing Hub for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-annual-roundup-top-no-money-video-editing-software-reviewed/"><u>[New] In 2024, Annual Roundup Top No-Money Video Editing Software Reviewed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unlocking-the-secrets-to-collecting-fb-gifs-a-comprehensive-manual/"><u>[Updated] 2024 Approved Unlocking the Secrets to Collecting FB GIFs A Comprehensive Manual</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-demystifying-recmeisters-advanced-screen-capture-technology-for-2024/"><u>[Updated] Demystifying Recmeister's Advanced Screen Capture Technology for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-screen-recording-made-simple-5-essential-strategies-for-minecraft-mac/"><u>2024 Approved Screen Recording Made Simple 5 Essential Strategies for Minecraft (Mac)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-the-essential-windows-key-with-confidence/"><u>Command the Essential Windows Key with Confidence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-dynamic-images-carousel-in-win11-effortlessly/"><u>Creating Dynamic Images Carousel in Win11 Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decreasing-cpu-impact-from-ntoskrnlexe/"><u>Decreasing CPU Impact From Ntoskrnl.exe</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-depths-of-innovation-in-ratchet-and-clanks-latest-adventure/"><u>Exploring the Depths of Innovation in Ratchet & Clank's Latest Adventure</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-fuel-the-spark-essential-themes-for-youtube-success/"><u>In 2024, Fuel the Spark Essential Themes for YouTube Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-horizons-for-pc-users-features-in-win11-feb-2023-patch/"><u>New Horizons for PC Users - Features in Win11 FEB 2023 Patch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/scribing-success-best-writing-aids-for-windows-pc/"><u>Scribing Success: Best Writing Aids for Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocketing-system-performance-through-vram-upgrade-on-windows/"><u>Skyrocketing System Performance Through VRAM Upgrade on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-from-cr2-to-jpg-format-with-windows-ease/"><u>Transition From CR2 to JPG Format with Windows Ease</u></a></li>
+</ul></div>
+

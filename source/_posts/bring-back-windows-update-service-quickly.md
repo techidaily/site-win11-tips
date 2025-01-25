@@ -1,7 +1,7 @@
 ---
 title: Bring Back Windows Update Service Quickly
-date: 2024-07-29T08:11:29.782Z
-updated: 2024-07-30T08:11:29.782Z
+date: 2025-01-23T18:04:52.689Z
+updated: 2025-01-24T22:02:09.993Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
  If you’re baffled by the sudden disappearance of the Windows Update service, fret not. This guide contains some potential fixes that should help restore the Windows Update service in no time.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Run the Windows Update Troubleshooter
 
  Both Windows 10 and 11 include a few troubleshooters to help you with common system-level issues. One of them is the Windows Update troubleshooter. While it does not guarantee to bring back the Windows Update service, it’s a troubleshooter worth trying nonetheless.
@@ -33,12 +30,13 @@ To run the Windows Update troubleshooter:
 2. In the**System** tab, select**Troubleshoot** .
 3. Go to**Other troubleshooters** .
 4. Click the**Run** button next to**Windows Update** .  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-windows-update-troubleshooter.jpg)
 
  Wait for the troubleshooter to scan your computer and do its thing. If any issues are detected, it will try to fix them on its own.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Scans
 
@@ -56,8 +54,9 @@ To run the Windows Update troubleshooter:
  After the scan is complete, restart your PC. Following that,[open the Services app](https://www.makeuseof.com/windows-11-open-services-app/) and see if you can find the Windows Update service.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Scan for Malware
 
  If the Windows Update service is still missing, you might be dealing with a virus or malware infection. To check for this possibility, you'll have to run a full system scan using the built-in Windows Security app. Here are the steps for the same.
@@ -67,10 +66,11 @@ To run the Windows Update troubleshooter:
 3. Under**Current Threats** , click**Scan options** .
 4. On the next screen, select the**Full scan** option.
 5. Click the**Scan now** button.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scan for Malware on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-malware-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for Windows to finish scanning the computer and, if threats are found, apply the recommended fixes.
 
@@ -166,14 +166,20 @@ To run the Windows Update troubleshooter:
 
 `
 12. Click the**File** menu in the top left corner and select**Save as** .  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Saving Notepad Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/saving-notepad-document.jpg)
 13. Save the file with**.reg** extension.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 14. Double-click the reg file to run it. Select**Yes** if the User Account Control prompt appears.
 
  Restart your computer after this and see if the Windows Update service appears in the Services app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Factory Reset Windows
 
@@ -192,9 +198,6 @@ To reset your Windows computer:
 
  Using the Settings app isn't the only way to reset Windows. If you want to take a different approach, check out these[various methods to factory reset your Windows computer](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Restoring the Missing Windows Update Service
 
  It is vital to keep your Windows computer updated to the most recent version. However, you might have trouble doing so if the Windows Update service vanishes from your computer. Hopefully, one or more fixes in this guide have helped restore the missing Windows Update service, and you are able to install updates as before.
@@ -205,8 +208,6 @@ To reset your Windows computer:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +215,16 @@ To reset your Windows computer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-bringing-your-outdoor-experiences-home-gopro-livestreams-on-facebookperiscope/"><u>[Updated] Bringing Your Outdoor Experiences Home GoPro Livestreams on Facebook/Periscope</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/deloitte-exploite-lintelligence-artificielle-avec-abbyy-ocr-a-son-service-de-decouverte-electronique-etend-les-caracteristiques-techniques/"><u>Deloitte Exploite L'Intelligence Artificielle Avec ABBYY OCR À Son Service De Découverte Électronique, Étend Les Caractéristiques Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-motorola-razr-40-ultra-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Motorola Razr 40 Ultra Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-mend-winerror-0x80072746-in-windows-mail/"><u>How to Mend WinError 0X80072746 in Windows Mail</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-nubia-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Nubia ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-high-cpu-impact-of-windows-extender/"><u>Mitigating High CPU Impact of Windows Extender</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-unidentified-lsassexe-problem-in-windows-10/"><u>Steps to Fix Unidentified lsass.exe Problem in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-black-screen-dilemma-on-win10-and-11-swiftly/"><u>Tackling the Black Screen Dilemma on Win10 & 11 Swiftly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-gionee-f3-pro-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Gionee F3 Pro for Parents | Dr.fone</u></a></li>
+</ul></div>
 

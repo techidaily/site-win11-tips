@@ -1,7 +1,7 @@
 ---
 title: "Control Settings: Fast Entry Pathways on Windows"
-date: 2025-01-15T16:55:16.658Z
-updated: 2025-01-18T16:14:37.748Z
+date: 2025-01-22T19:00:05.030Z
+updated: 2025-01-24T22:27:38.633Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Access the Control Panel via the Windows Start Menu Search Bar
 
  One of the best ways to access Windows features is through the Start Menu search bar. So, let's show you how to use this tool to access the Control Panel:
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 ![Opening the Control Panel via the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/opening-the-control-panel-via-the-start-menu-search-bar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, follow these steps:
@@ -60,11 +56,7 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 ![Opening the Control Panel Via the Run Command Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Run-Command-Dialog-Box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Access the Control Panel via the Windows Start Menu
@@ -88,11 +80,11 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 ![Opening the Control Panel Via the Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Quick-Access-Menu.png)
 
- Finally, type **Control Panel** in the search box and press **Enter**.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Finally, type **Control Panel** in the search box and press **Enter**.
 
 ## 5\. Access the Control Panel via the File Explorer Address Bar
 
@@ -105,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  Alternatively, type **C:\\Windows\\System32** in the File Explorer address bar and click **control.exe** or **control** in the next window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Access the Control Panel via the Task Manager
 
  The Task Manager also offers an easy way to access the Control Panel. Here’s how you can use it:
@@ -118,6 +106,14 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 3. Type **Control Panel** in the search box and press **Enter**.
 
 ![Opening the Control Panel Via the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Task-Manager.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Access the Control Panel via Windows Settings
 
@@ -129,7 +125,11 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 ![Opening the Control Panel Via the System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-System-Settings.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Access the Control Panel via the Command Prompt or PowerShell
@@ -163,10 +163,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 ![Clicking the control option in the System32 Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-control-option-in-the-system32-folder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Access the Control Panel Using a Desktop Shortcut
 
  Do you have a Desktop shortcut for the Control Panel? If so, then click on it to easily access the Control Panel!
@@ -178,6 +174,10 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 3. Type **%windir%\\system32\\control.exe** in the **location box** and click **Next** to continue.
 
 ![Creating a Control Panel desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/creating-a-control-panel-desktop-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the next window, type **Control Panel** in the name field and then click **Finish** to save the shortcut. Now, you can easily access the Control Panel anytime by clicking on its Desktop shortcut.
 
@@ -213,21 +213,18 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-essential-guide-integrating-virtual-backgrounds-for-webcasters/"><u>[New] In 2024, Essential Guide Integrating Virtual Backgrounds for Webcasters</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-from-concept-to-completion-an-instagram-video-strategy-manual/"><u>[Updated] In 2024, From Concept to Completion An Instagram Video Strategy Manual</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726223515996-oggwmv-movavi/"><u>網路上無需付費，遞送Ogg格式到WMV - 利用Movavi轉檔工具</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp4-flv-movavi/"><u>網路直接 MP4 自由轉換成 FLV - 使用Movavi媒體編輯工具</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp3ogvmovavi/"><u>在線自由轉換MP3到OGV的方法：介紹Movavi 影片編解碼器</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bmp-a-tiff-trasformazione-on-line-senza-costi-con-movavi/"><u>BMP a TIFF: Trasformazione On-Line Senza Costi Con Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-nokia-c02-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Nokia C02 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/gamings-finest-top-12-tycoon-games-ensuring-hours-of-fun-for-2024/"><u>Gaming's Finest - Top 12 Tycoon Games Ensuring Hours of Fun for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-simplifying-meeting-execution-combining-slacks-ease-with-filmora-writes/"><u>In 2024, Simplifying Meeting Execution Combining Slack's Ease With Filmora' Writes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/jp2tiff-movavi/"><u>JP2/TIFFファイルの無料オンライン変換サービス - Movavi</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/top-10-must-knows-before-elevating-systems/"><u>Top 10 Must-Knows Before Elevating Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformez-vos-fichiers-aiff-en-format-wma-sans-frais-sur-movavi-en-ligne/"><u>Transformez Vos Fichiers AIFF en Format WMA Sans Frais Sur Movavi en Ligne</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-successful-remote-steam-connectivity/"><u>Unlocking Successful Remote Steam Connectivity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-mini-marvel-a-comprehensive-look-at-xbox-series-s-specs-and-capabilities/"><u>Unveiling the Mini Marvel: A Comprehensive Look at Xbox Series S Specs and Capabilities</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-y77t-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo Y77t? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movaviwmawebm/"><u>すべてが自由！MovaviによるWMAファイルをWEBMに驚くべき瞬間移動</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-digital-dynamo-women-the-fastest-growing-female-channel-owners/"><u>[New] 2024 Approved Digital Dynamo Women The Fastest-Growing Female Channel Owners</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-enhancing-content-reach-keeping-creative-commons-engagement-high/"><u>[New] In 2024, Enhancing Content Reach Keeping Creative Commons Engagement High</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/treamer-soundscape-the-top-5-headset-guidebook-for-2024/"><u>[New] Streamer Soundscape The Top 5 Headset Guidebook for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-ultimate-compilation-budget-friendly-editing-tools/"><u>[Updated] 2024 Approved The Ultimate Compilation Budget-Friendly Editing Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unmasked-photos-simple-blur-solutions-with-piscart/"><u>[Updated] In 2024, Unmasked Photos Simple Blur Solutions with PiscArt</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-harmonic-transition-blends/"><u>Achieving Harmonic Transition Blends</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/bovendrkende-woorden-gratis-de-definitieve-handleiding-om-al-je-mapafbeeldingen-in-windows-negen-te-herstellen-en-je-visueel-voorrangig-te-maken-met-negen-b147/"><u>Bovendrĳkende Woorden: [Gratis ]! De Definitieve Handleiding Om Al Je Mapafbeeldingen in Windows Negen Te Herstellen en Je Visueel Voorrangig Te Maken Met Negen Betere Technische Stappen!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-rid-of-the-redundant-essential-app-removals-in-windows/"><u>Get Rid of the Redundant: Essential App Removals in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-enable-end-task-option-in-windows-11-settings/"><u>Guide to Enable End Task Option in Windows 11 Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-networks-secretive-windows-wireless-hiding/"><u>Keep Networks Secretive: Windows Wireless Hiding</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oppo-k11-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Oppo K11 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-affordability-the-nokia-71s-outstanding-screen-and-photography-offerings/"><u>Unveiling the Power of Affordability: The Nokia 7.1'S Outstanding Screen and Photography Offerings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-settings-how-to-prevent-discord-startup/"><u>Windows Settings: How To Prevent Discord Startup</u></a></li>
 </ul></div>
 

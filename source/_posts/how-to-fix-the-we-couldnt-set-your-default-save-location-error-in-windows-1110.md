@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “We Couldn't Set Your Default Save Location” Error in Windows 11/10
-date: 2025-01-14T17:20:34.496Z
-updated: 2025-01-18T18:11:10.722Z
+date: 2025-01-18T16:25:53.859Z
+updated: 2025-01-24T22:50:50.384Z
 tags:
   - windows10
   - windows11
@@ -32,11 +32,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![The Account type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-account-type-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Rename the WindowsApps Directory
@@ -50,16 +46,12 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-button.jpg)
 5. Rename the folder to **WindowsApps.old** and press **Enter**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Thereafter, try changing the default save location for apps again via Settings.
 
  If that still doesn’t work, then proceed to the next resolution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Delete or Rename the WpSystem Folder
@@ -80,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![The Hide protected operating system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hide-protected-operating-system-files.jpg)
 4. Select the **Show hidden files, folders and drives** radio button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Apply** to save the new Explorer settings.
 
 1. Select the drive you need to set as the default save location for apps.
@@ -87,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 3. Click **Security > Advanced** to bring up an Advanced Security Settings window.  
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/security-tab.jpg)
 4. Press the **Continue** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Next, click **Add** to view a Permission Entry window.
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 5. Then select the **OK** options on the Permission Entry and Advanced Security Settings windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Close all remaining open windows. Then, restart your PC and try changing the default save location.
@@ -123,24 +123,20 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-hd-mastery-in-action-top-5-screen-recorders-reviewed/"><u>[New] 2024 Approved HD Mastery in Action Top 5 Screen Recorders Reviewed</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-cooking-crusaders-youtube-stars-serving-up-deliciousness/"><u>[New] Cooking Crusaders YouTube Stars Serving Up Deliciousness</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-ultimate-voice-changer-for-valorant-gamers-free-to-use/"><u>[New] Ultimate Voice Changer for Valorant Gamers – Free to Use</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-eternal-void-a-complete-ban-on-youtube-short-video-feature-for-2024/"><u>[Updated] Eternal Void A Complete Ban on YouTube Short Video Feature for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-picture-by-picture-insta-gallery/"><u>[Updated] Picture by Picture Insta Gallery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/202362024/"><u>2023年度人気！動画画像分割手法ベストセレクション6つ（2024年版）</u></a></li>
-<li><a href="https://facebook.techidaily.com/balancing-jokes-with-news-on-facebook/"><u>Balancing Jokes with News on Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/descargas-gratuitas-para-convertir-archivos-aiff-a-wma-sin-problemas-guia-de-movavi/"><u>Descargas Gratuitas Para Convertir Archivos AIFF a WMA Sin Problemas: Guía De Movavi</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discovering-social-gaming-in-the-metaverse/"><u>Discovering Social Gaming in the Metaverse</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-conversion-change-mp4-audio-files-to-flv-format-with-ease/"><u>Free Online Conversion: Change MP4 Audio Files to FLV Format with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-conversion-convert-3gp-files-to-mpeg-with-movavi/"><u>Free Online Conversion: Convert 3GP Files to MPEG with Movavi</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) with a Mask On</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726225145348-movavi-m4a/"><u>Movaviのお使いレコード: 弾かずにオンラインでM4Aファイルを変換してください</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp4-a-aiff-trasformare-i-formati-di-file-audio-gratuitamente-con-mediahuman-converter/"><u>MP4 a AIFF: Trasformare I Formati Di File Audio Gratuitamente Con MediaHuman Converter</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamlined-video-calls-synchronizing-zoom-and-gmail-for-better-communication/"><u>Streamlined Video Calls Synchronizing Zoom & Gmail for Better Communication</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-15-editors-headlines-of-2024-a-comprehensive-guide/"><u>Top 15 Editor's Headlines of 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformez-vos-chansons-mp3-en-format-wma-sans-frais-a-laide-du-service-de-convertisseur-en-ligne-de-movavi/"><u>Transformez Vos Chansons MP3 en Format WMA Sans Frais À L'aide Du Service De Convertisseur en Ligne De Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726030252225-youtube/"><u>オンラインストリーミング動画の効率的なアーカイブ: YouTube ビデオ録画ガイド</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mkvavi/"><u>ダイナミックなオンライン動画フォーマット変更 - 今すぐMKVをAVIに自由に変換！</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-best-ai-photo-editor/"><u>[New] 2024 Approved Best AI Photo Editor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-androids-path-to-virtual-reality-tips-and-tricks/"><u>[New] Android's Path to Virtual Reality Tips and Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellent-face-changing-software-iphone-and-android/"><u>[New] Excellent Face-Changing Software, iPhone & Android</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-revolutionizing-audio-documentation-the-art-of-call-recording/"><u>[Updated] Revolutionizing Audio Documentation The Art of Call Recording</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-oppo-find-x7-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Oppo Find X7 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-intels-onboard-video-a-walkthrough/"><u>Eliminate Intel's Onboard Video: A Walkthrough</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/hashtag-hype-unveiling-twitters-toptiktok-videos-for-2024/"><u>Hashtag Hype Unveiling Twitter's #TopTikTok Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-python-servers-into-windows-networks/"><u>Integrating Python Servers Into Windows Networks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-rectify-unresponsive-ccleaner-on-windows-os/"><u>Methods to Rectify Unresponsive CCleaner on Windows OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplify-your-inbox-discover-the-simple-method-that-eliminates-clutter-without-complicated-strategies-or-extra-email-addresses/"><u>Simplify Your Inbox: Discover the Simple Method That Eliminates Clutter Without Complicated Strategies or Extra Email Addresses!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-cure-windows-store-error-0x80072efd/"><u>Steps to Cure Windows Store Error 0X80072EFD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reconnect-intermittent-ps4-controller-on-windows-system/"><u>Steps to Reconnect Intermittent PS4 Controller on Windows System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-scroll-start-zoom-7-methods-to-tame-wheel-woes/"><u>Stop Scroll, Start Zoom: 7 Methods to Tame Wheel Woes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209785244-9781788173940-surrender/"><u>Surrender | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-pcs-command-landscape-pick-terminal/"><u>Transform Your PC's Command Landscape: Pick Terminal</u></a></li>
 </ul></div>
 

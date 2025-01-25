@@ -1,7 +1,7 @@
 ---
 title: "Best Browser Practices: Optimal Memory/CPU Use on Three Platforms"
-date: 2024-08-08T10:53:24.904Z
-updated: 2024-08-09T10:53:24.904Z
+date: 2025-01-20T17:59:32.881Z
+updated: 2025-01-24T22:36:43.739Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
  In this article, we'll compare the RAM and CPU resources consumed by different browsers on Windows, macOS, and ChromeOS; so you can see which browser uses the least resources on your device.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Will the Test Be Conducted?
 
  For easier comparison, we will run the same processes on all browsers and keep them consistent across all devices. A YouTube video, WhatsApp Web, a Reddit video, and a blog-based website will be the processes we will run on each browser.
@@ -33,13 +34,14 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
  For example, a browser using more RAM on a Windows device from a specific manufacturer might use less RAM on a device with more efficient RAM. To provide a baseline, we will list the specifications of the devices used in the test.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Browser Uses the Least Memory and CPU Resources on a Windows Device?
 
  For Windows, we will analyze the resource consumption of Edge, Opera, Firefox, and Chrome browser to determine which one you should use. The following image shows the specifications of the Windows device we are running this test on:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Specifications of a Windows Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/specifications-of-a-windows-laptop.jpg)
 
  Here are the RAM and CPU consumption figures for all browsers on a Windows device when running one YouTube video, WhatsApp Web, a blog site, and a Reddit video:
@@ -61,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
  For [the Chromebook operating system, ChromeOS](https://www.makeuseof.com/what-is-chrome-os/), we will analyze the resource consumption of Opera, Firefox, and Chrome. Microsoft Edge is not available by default, so we'll exclude this browser. The following image shows the specifications of the Chromebook we are running this test on:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Lenovo Yoga N23 Chromebook Specifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lenovo-yoga-n23-chromebook-specifications.jpg)
 
  After running the same processes on ChromeOS as we did on Windows, here's the breakdown of resources consumed by different browsers:
@@ -81,8 +80,9 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 **Verdict:** If your Chromebook's processor isn't powerful, you can choose Opera. Chrome is a good choice for users having limited memory at their disposal.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Browser Consumes the Least RAM and CPU on macOS?
 
  For macOS, we will analyze the resource consumption of Safari, Opera, Firefox, and Chrome. In the following image, you can see the specifications of the macOS device we are using for the test:
@@ -102,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 **Verdict:** Considering Safari consumes the least CPU and RAM resources, it should be the default browser for all Apple users. As an alternative to it, your next best choice should be Chrome rather than Firefox or Opera.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## What About Using Less Popular Browsers?
 
  Although we have tested the resources consumed by popular and mainstream browsers, you can also choose [less popular or private browsers](https://www.makeuseof.com/tag/2-anonymous-web-browsers-completely-private-secure/) if they are more efficient.
@@ -112,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
  Browsers such as Brave, DuckDuckGo, and Vivaldi consume a minimum number of resources yet offer nearly the same features as mainstream browsers. Thus, you can use a less popular browser if you find it less resource-intensive.
 
  But how can you test which browser consumes the least resources, aside from those we have already tested?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Test Other Browsers' Resource Consumption Yourself
 
@@ -121,11 +122,12 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 2. Open the relevant resource monitoring app on your device: Task Manager in Windows, [Activity Monitor in macOS](https://www.makeuseof.com/tag/activity-monitor-mac-equivalent-ctrlaltdelete/), and Diagnostics in ChromeOS.
 3. Launch the browser you wish to test the resource consumption of and run a few processes on it.
 4. Observe how many resources your browser consumes in the monitoring app.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Resources Consumption of Brave Browser in Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resources-consumption-of-brave-browser-in-task-manager-on-windows.jpg)
 5. To compare this browser's resource consumption with others, run the same processes on other browsers and compare their results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use the Most Efficient Browser
 
@@ -135,12 +137,27 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
  In this article, we'll compare the RAM and CPU resources consumed by different browsers on Windows, macOS, and ChromeOS; so you can see which browser uses the least resources on your device.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-adept-approaches-for-capturing-high-impact-presentations/"><u>[New] 2024 Approved Adept Approaches for Capturing High-Impact Presentations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-is-it-time-to-upgrade-to-an-itop-equipped-system/"><u>[New] 2024 Approved Is It Time to Upgrade to an ITop-Equipped System?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-decoding-the-divergence-360-film-vs-virtual-reality/"><u>[New] In 2024, Decoding the Divergence 360° Film Vs. Virtual Reality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-influential-edge-mastering-sponsorship-and-promotion-on-social-media/"><u>[Updated] 2024 Approved The Influential Edge Mastering Sponsorship and Promotion on Social Media</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-v-purse-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor V Purse Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-developer-insider-content-private/"><u>Keeping Developer Insider Content Private</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mend-windows-11-extra-monitor-issue/"><u>Mend Windows 11 Extra Monitor Issue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-y55s-5g-2023-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo Y55s 5G (2023) Phone? Unlock It Now</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-ultimate-gag-reel-collection-comical-cells-and-cell-blocks-on-facebook-for-2024/"><u>The Ultimate Gag Reel Collection Comical Cells and Cell Blocks on Facebook for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-ultimate-list-of-easy-filming-cameras-for-starters/"><u>The Ultimate List of Easy Filming Cameras for Starters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-your-windows-environment-the-gpo-overhaul-process/"><u>Transforming Your Windows Environment: The GPO Overhaul Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-potential-the-top-7-ways-to-optimize-windows-11-use/"><u>Unlocking Potential: The Top 7 Ways to Optimize Windows 11 Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-workings-of-microsofts-phone-link-app/"><u>Unveiling the Workings of Microsoft’s Phone Link App</u></a></li>
+</ul></div>
 

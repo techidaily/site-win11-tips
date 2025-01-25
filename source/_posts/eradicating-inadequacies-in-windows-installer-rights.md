@@ -1,7 +1,7 @@
 ---
 title: Eradicating Inadequacies in Windows Installer Rights
-date: 2025-01-13T17:01:57.569Z
-updated: 2025-01-18T16:06:32.316Z
+date: 2025-01-22T19:26:53.403Z
+updated: 2025-01-24T18:28:50.464Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-as-administrator-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Unblock the Setup File
 
  In addition, check if the installer file is blocked before running it. To do that, right-click the program’s setup file and select**Properties** .
@@ -55,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  You might be able to bypass the “installer has insufficient privileges” error by selecting to install the software in a different directory. Many users install software packages in the Program Files folder. So, try selecting to install a program at a completely different folder path from the one specified in the error message.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Start or Restart Windows Installer
 
  Installation issues can arise because of Windows Installer service issues. Or that service might not even be running. So, check that service and either start or restart it depending on whether it’s running or not. You can start or restart Windows Installer like this:
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 3. If Windows Installer is running, select its**Restart** context menu option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can double-click the**Windows Installer** service to view its properties window and restart it from there. Click**Start** if the service is already stopped, or, select**Stop > Start** to restart.
@@ -81,7 +81,11 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 ![The Never notify option in UAC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/never-notify-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Disable All User Account Control Policy Settings
@@ -97,17 +101,17 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 4. Select**Disabled** to turn off that policy setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Apply** \>**OK** to save the policy setting you’ve selected.  
 ![The Enabled radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-enabled-radio-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, repeat steps three to five above for all the User Account Control policy settings. Exit Group Policy Editor and restart your PC after disabling all UAC policy settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Turn Off Third-Party Security Apps
 
@@ -121,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Try Installing Software After Clean Booting
 
  Clean booting means disabling all third-party apps and services that start with Windows. This troubleshooting method can prevent software conflicts by eliminating unneeded apps and services running in the background. In this case, a clean boot might disable an app or service that’s hindering the software installation process.
@@ -129,10 +137,6 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-services-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Uninstall Older Software Versions
 
  The “installer has insufficient privileges” has been reported to occur by users trying to install new versions of software already on their PCs.
@@ -140,10 +144,6 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
  If there’s an older version of the software you can’t install already on your PC, then try uninstalling the preceding version first. This guide on[uninstalling software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) includes various methods for removing programs.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Your Windows 11/10 Software Installed
 
@@ -166,20 +166,24 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-boosting-viewership-mastery-in-youtube-shorts-design/"><u>[Updated] Boosting Viewership Mastery in YouTube Shorts Design</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-7-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 7 Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-nokia-c110-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decode-your-pc-secrets-of-finding-windows-1011-keys/"><u>Decode Your PC: Secrets of Finding Windows 10/11 Keys</u></a></li>
-<li><a href="https://program-issues.techidaily.com/experience-the-epic-battle-god-of-war-ps4-port-delivers-as-a-stunning-pc-fps-title/"><u>Experience the Epic Battle: God of War PS4 Port Delivers as a Stunning PC FPS Title</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-xiaomi-14-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Xiaomi 14 Pro to Another | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-the-ultimate-video-cropping-techniques-for-2024/"><u>Mastering Instagram The Ultimate Video Cropping Techniques for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-running-cmd-with-elevated-rights/"><u>Mastering Windows: Running CMD with Elevated Rights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-admin-command-challenges-in-windows/"><u>Navigating Admin Command Challenges in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-non-working-windows-alt-codes-51-characters/"><u>Navigating Non-Working Windows ALT Codes (51 Characters)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-elevating-your-media-adding-compelling-audio-elements-to-videos/"><u>New Elevating Your Media Adding Compelling Audio Elements to Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/post-update-anomalies-restoring-your-discord-on-windows/"><u>Post-Update Anomalies: Restoring Your Discord On Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-5-methods-verifying-windows-11-devices-availability/"><u>Top 5 Methods: Verifying Windows 11 Devices' Availability</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-the-best-18-mkv-players-for-cross-platform-use-on-mac-windows-nkdv-ipadiphone-and-android-systems/"><u>Ultimate Guide to the Best 18 MKV Players for Cross-Platform Use on Mac, Windows Nkdv, iPad/iPhone, and Android Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-home-vs-pro-which-is-best-for-you/"><u>Windows 11 Home Vs. Pro: Which Is Best for You?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-filmora-tutorial-converting-avi-to-gif-seamlessly/"><u>[Updated] In 2024, Filmora Tutorial Converting AVI to GIF Seamlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/critical-review-do-windows-11s-gadgets-merit-attention/"><u>Critical Review: Do Windows 11'S Gadgets Merit Attention?</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-zte-nubia-z60-ultra-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting ZTE Nubia Z60 Ultra Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-office-activation-on-windows-apps/"><u>Fixing Failed Office Activation on Windows Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oneplus-11-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On OnePlus 11 5G?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-locate-and-manage-windows-batch-files/"><u>How to Locate & Manage Windows Batch Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-end-webcams-the-perfect-match-for-zoom-engagement/"><u>In 2024, High-End Webcams The Perfect Match for Zoom Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/neutralize-non-meeting-prerequisites-signs-in-win11/"><u>Neutralize Non-Meeting Prerequisites Signs in Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-error-systemprofiledesktop-unavailable-message-on-windows/"><u>Overcoming the Error: Systemprofile Desktop Unavailable Message on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unresponsive-spotify-windows-errors/"><u>Overcoming Unresponsive Spotify Windows Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-sluggish-and-inoperative-windows-programs/"><u>Quick Fixes for Sluggish and Inoperative Windows Programs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-steps-clearing-up-the-mystery-of-the-black-screen-when-using-discords-share-feature/"><u>Solution Steps: Clearing Up the Mystery of the Black Screen When Using Discord's Share Feature</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-pro-6-driver-download/"><u>Speedy Pro 6 Driver Download</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-removing-the-persistent-win11-error-code/"><u>Swiftly Removing the Persistent Win11 Error Code</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-iphone-experts-guide-to-capturing-and-reducing-pace-in-footage-for-2024/"><u>The iPhone Expert’s Guide to Capturing and Reducing Pace in Footage for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-rectify-non-displaying-searches-in-win-1011/"><u>Tips to Rectify Non-Displaying Searches in Win 10/11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-failed-game-starts-by-verifying-integrity-of-game-data/"><u>Troubleshooting Failed Game Starts by Verifying Integrity of Game Data</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-low-fps-and-stuttering-in-splitgate-effective-solutions-you-must-try/"><u>Troubleshooting Low FPS & Stuttering in Splitgate - Effective Solutions You Must Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-addressing-high-dpi-display-problems/"><u>Understanding and Addressing High-DPI Display Problems</u></a></li>
 </ul></div>
 

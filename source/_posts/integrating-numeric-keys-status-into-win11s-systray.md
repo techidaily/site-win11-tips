@@ -1,7 +1,7 @@
 ---
 title: Integrating Numeric Keys Status Into Win11's SysTray
-date: 2025-01-16T16:01:07.063Z
-updated: 2025-01-18T18:15:58.212Z
+date: 2025-01-22T17:08:17.658Z
+updated: 2025-01-24T16:36:03.831Z
 tags:
   - windows10
   - windows11
@@ -40,12 +40,12 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 5. ![The Use Trial Version radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-use-trial-version-radio-button.jpg)
 6. Click **Install** in the next window.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Install option for TrayStatus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-install-option.jpg)
 7. Press **Finish** with the **Launch Now** checkbox selected to run SystemTray.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you should see Caps and Num Lock key indicators in the Windows system tray area, which are enabled within the software’s settings by default after installation. The **1** icon is the Num Lock indicator, and the **a** status indicator is for Caps Lock. The **a** indicator becomes a capital **A** when Caps Lock is on. The **1** indicator has a white or black background when Num Lock is on.
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  Click on the drop-down menu to select **Light Icons** or **Dark Icons** options. Light is better for dark Windows themes. However, dark indicators will likely be more visible on a light Windows taskbar. Select **Apply** to set your new settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Num, Caps, and Scroll Lock Indicators With AddLEDs
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 ![AddLEDs' system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/addled-indicators.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you prefer to remove a few indicators, right-click one of the AddLEDs icons in the system tray. Then move the mouse cursor over **Show** to deselect the selected indicator options there.
@@ -86,14 +86,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![Icon Profile settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/icon-profile-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To set a beep sound for your lock keys, select the **Others** submenu on AddLEDs' context menu. Click **Sound** to enable that option. Then you’ll hear a beep whenever you press the lock keys.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Num, Caps, and Scroll Lock Indicators With Keyboard LEDs
@@ -112,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  What looks more like a battery icon with three boxes will appear in your system tray after starting Keyboard LEDs. Those boxes go red when you turn on Num, Caps, and Scroll Lock. The left box is for Num, the central box is for Caps, and the right one is the Scroll Lock indicator.
 
 ![Keyboard LEDs' system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-indicator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To configure the indicators, right-click the Keyboard LEDs icon to select **Settings**. You can choose different colors for each indicator box by clicking the color drop-down menus for the **Led 1**, **2**, and **3** drop-down menus. Click the button drop-down menus to change the lock key indicator for each box.
 
@@ -139,24 +139,21 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-live-tv-saving-made-simple-with-free-software-tools-for-2024/"><u>[New] Live TV Saving Made Simple with Free Software Tools for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-google-podcast-mastery-from-creation-to-publication/"><u>[Updated] Google Podcast Mastery From Creation to Publication</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-insights-into-the-world-of-touch-and-movement-detection/"><u>[Updated] In 2024, Insights Into the World of Touch and Movement Detection</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-stunning-images-with-the-latest-iphone-camera-features-for-2024/"><u>[Updated] Stunning Images with the Latest iPhone Camera Features for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combat-non-wi-fi-usb-failures-with-easy-fixes-for-windows/"><u>Combat Non-Wi-Fi USB Failures with Easy Fixes for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-strategies-for-overcoming-error-1152-on-windows-xp10/"><u>Efficient Strategies for Overcoming Error 1152 on Windows XP/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gaining-control-four-effective-tactics-for-account-disabling-on-win11/"><u>Gaining Control: Four Effective Tactics for Account Disabling on Win11</u></a></li>
-<li><a href="https://games-able.techidaily.com/google-play-pass-generally-fantastic-except/"><u>Google Play Pass: Generally Fantastic Except...</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-honor-100-pro-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Honor 100 Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-microsoft-365-bug-30015-26-in-windows-computers/"><u>Overcoming Microsoft 365 Bug 30015-26 in Windows Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-10-lost-network-signal/"><u>Overcoming Windows 10: Lost Network Signal</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/resolving-skewed-online-video-quality-for-2024/"><u>Resolving Skewed Online Video Quality for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-device-not-found-on-windows-systems/"><u>Solutions for Device Not Found on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/spotlight-on-speeding-up-your-pcs-outlook/"><u>Spotlight on Speeding Up Your PC's Outlook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-windows-with-custom-sizes-on-win11/"><u>Streamlining Windows with Custom Sizes on Win11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-chatgpt-integrations-for-effortless-pdf-editing/"><u>Top 10 ChatGPT Integrations for Effortless PDF Editing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/trasforma-i-tuoi-file-ts-gratuitamente-con-lutilita-online-di-movavi/"><u>Trasforma I Tuoi File TS Gratuitamente Con L'utilità Online Di Movavi!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrading-legacy-uefi-features/"><u>Upgrading Legacy UEFI Features</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-asus-rog-phone-8-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Asus ROG Phone 8 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-practical-guide-to-downloading-audio-content-from-pinterest/"><u>[New] A Practical Guide to Downloading Audio Content From Pinterest</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-optimal-no-audio-recording-practices/"><u>[New] Optimal No-Audio Recording Practices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-chrome-os-tts-tools-top-5-online-speech-converters/"><u>[Updated] 2024 Approved Best Chrome OS TTS Tools Top 5 Online Speech Converters</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-foundation-of-a-great-facebook-presence-mastering-covers-for-2024/"><u>[Updated] The Foundation of a Great Facebook Presence Mastering Covers for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-toggle-picture-in-picture-feature-for-youtube-app/"><u>[Updated] Toggle Picture-in-Picture Feature for Youtube App</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/capture-kings-warzone-for-2024/"><u>Capture Kings Warzone for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-ancient-windows-aspects-in-11th-gen-os/"><u>Exploring Ancient Windows Aspects in 11Th Gen OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-symphonic-switch-up-reimagining-your-musical-lists/"><u>In 2024, Symphonic Switch-Up Reimagining Your Musical Lists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-free-tools-for-flawless-srt-conversion/"><u>In 2024, Top Free Tools for Flawless SRT Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-window-tweaks-essential-hotkeys-unveiled/"><u>Quick Window Tweaks: Essential Hotkeys Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguarding-through-setup-turn-on-tpm-secure-boot-for-w11/"><u>Safeguarding Through Setup: Turn On TPM, Secure Boot for W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-fixes-for-the-black-screen-on-win11/"><u>Swift Fixes for the Black Screen on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-creation-and-modification-dates-on-windows-folders/"><u>Tailoring Creation & Modification Dates on Windows Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-tutorial-for-reinitializing-windows-11-programs/"><u>The Essential Tutorial for Reinitializing Windows 11 Programs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-motorola-edge-40-neo-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Motorola Edge 40 Neo Location | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-application-run-averages-definitions-and-deployment/"><u>Unveiling Application Run Averages: Definitions & Deployment</u></a></li>
 </ul></div>
 

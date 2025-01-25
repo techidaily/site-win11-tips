@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Navigating Disks on Modern Windows OSes
-date: 2025-01-11T16:41:21.050Z
-updated: 2025-01-18T17:11:44.377Z
+date: 2025-01-18T21:52:31.385Z
+updated: 2025-01-24T22:51:36.938Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Windows Disk Management?](#what-is-windows-disk-management)
@@ -29,16 +33,16 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 * [Use the Run Dialog to Open Disk Management](#use-the-run-dialog-to-open-disk-management)
 * [Open Disk Management From the Control Panel](#open-disk-management-from-the-control-panel)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Disk Management is a Windows tool that allows you to set up your new storage drive and manage existing ones.
 * Windows offers many ways to open Disk Management. While the search tool makes finding it easy, other methods have their own advantages.
 
  Unlike external drives, you cannot just connect a new internal SSD and start using it right away on Windows. You'll need to go through an initial setup process using a utility called Disk Management. Whatever you need this tool for, we'll teach you how to open it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Windows Disk Management?
 
@@ -47,14 +51,6 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
  When you physically connect a new internal drive to your PC, Windows sees it as a blank disk with no allocated space. Therefore, it doesn't show up in the File Explorer. You can use Disk Management to create a partition and thus make your new drive usable in the operating system.
 
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Search for Disk Management in Windows
 
@@ -73,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
 ![Opening Disk Management from Quick Access menu on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/opening-disk-management-from-quick-access-menu-on-windows-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
 
 ## 3\. Use the Run Dialog to Open Disk Management
@@ -88,10 +80,14 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Open Disk Management From the Control Panel
 
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 4. Under **Windows Tools** (or **Administrative Tools** on Windows 10), you'll see multiple options for disk drives. Click **Create and format hard disk partitions** to open Disk Management.
 
 ![Control Panel with Windows Tools highlighted in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/control-panel-with-windows-tools-highlighted-in-windows-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Don't make the mistake of clicking **Administrative/Windows Tools**; that will open File Explorer instead.
 
@@ -124,16 +124,24 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-best-matches-top-ten-gimbals-for-quality-shoots/"><u>[New] 2024 Approved Best Matches Top Ten Gimbals for Quality Shoots</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebook-tutorial-how-to-create-facebook-account/"><u>[New] 2024 Approved Facebook Tutorial How to Create Facebook Account</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1716070012460-updated-in-2024-record-your-mac-view-in-minutes/"><u>[Updated] In 2024, Record Your Mac View in Minutes!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-audio-integrity-audacity-and-windows-interface/"><u>Enhancing Audio Integrity: Audacity & Windows Interface</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-14-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 14 Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oneplus-12-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do OnePlus 12 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/key-vr-film-experiences-to-witness/"><u>Key VR Film Experiences to Witness</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-baseline-for-windows-11-terminal/"><u>Reinstating Baseline for Windows 11 Terminal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-built-in-keyboard-from-a-windows-machine/"><u>Removing Built-In Keyboard From a Windows Machine</u></a></li>
-<li><a href="https://fox-making.techidaily.com/the-influence-of-opium-conflicts-on-chinese-society-a-comprehensive-analysis-from-yl-software/"><u>The Influence of Opium Conflicts on Chinese Society: A Comprehensive Analysis From YL Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-power-of-shortcut-commands-with-windows-narrator/"><u>Unraveling the Power of Shortcut Commands with Windows Narrator</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-accelerate-your-facebook-video-journey-in-depth-app-and-extension-guide/"><u>[New] 2024 Approved Accelerate Your Facebook Video Journey In-Depth App & Extension Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-navigate-your-first-successful-windows-11-sound-capture-for-2024/"><u>[New] Navigate Your First Successful Windows 11 Sound Capture for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-smoothly-lowering-sound-levels-using-garageband/"><u>[New] Smoothly Lowering Sound Levels Using Garageband</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-ways-to-record-and-save-itunes-videos/"><u>[Updated] In 2024, Best Ways to Record and Save iTunes Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-ideal-voice-modification-programs-for-dynamic-virtual-personalities/"><u>2024 Approved Ideal Voice-Modification Programs for Dynamic Virtual Personalities</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/authenticity-through-customer-produced-videos/"><u>Authenticity Through Customer-Produced Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explaining-and-fixing-lsa-malfunctions-in-xpvista/"><u>Explaining and Fixing LSA Malfunctions in XP/Vista</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-updater-problem-code-0x8019-on-pc/"><u>Fixing Updater Problem - Code 0X8019 on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-0x0000004e-error-in-windows-11-and-11/"><u>How to Fix the 0X0000004E Error in Windows 11 and 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-review-and-tutorial-s-video-show-app/"><u>In 2024, Full Review & Tutorial 'S Video Show App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-obtain-pristine-photo-sets-for-free-use/"><u>In 2024, Obtain Pristine Photo Sets for Free Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-access-windows-lately-used-documents/"><u>Mastering Access: Windows' Lately Used Documents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quell-frenetic-file-explorer-opens/"><u>Quell Frenetic File Explorer Opens</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/recupera-le-tue-foto-perdute-gratuitamente-con-il-migliore-software-di-windows/"><u>Recupera Le Tue Foto Perdute Gratuitamente Con Il Migliore Software Di Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-best-in-class-evaluating-the-top-8-sub-to-srt-convertors/"><u>The Best in Class Evaluating the Top 8 Sub to SRT Convertors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-systems-savior-top-13-methods-to-revive-your-pc/"><u>The System's Savior: Top 13 Methods to Revive Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-extract-issue-win-xp10s-error-1152/"><u>Troubleshooting Extract Issue: Win XP/10's Error 1152</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-11s-restricted-mode/"><u>Understanding Windows 11'S Restricted Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-security-with-trustworthy-site-listing-in-windows-11/"><u>Upgrade Security with Trustworthy Site Listing in Windows 11</u></a></li>
 </ul></div>
 

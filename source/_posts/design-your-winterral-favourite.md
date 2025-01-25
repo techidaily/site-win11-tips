@@ -1,7 +1,7 @@
 ---
 title: Design Your WinTerral Favourite
-date: 2025-01-12T18:33:31.759Z
-updated: 2025-01-18T16:10:38.977Z
+date: 2025-01-23T21:06:54.790Z
+updated: 2025-01-24T22:13:51.324Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Change Windows Terminal Background Image
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
  Using the default option is the simplest way to change your background image while editing the settings.json file provides more control and customization options. Below, we will guide you through each option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Change Windows Terminal Background Image via Its Options
@@ -63,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
  If you want to switch to the default image,[reset the Windows Terminal to its default settings](https://www.makeuseof.com/windows-11-reset-terminal-settings/) . This will automatically restore your background to the default image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Change the Windows Terminal Background Image via Windows File Explorer
 
  Manually editing settings.json is another great way to customize your Windows Terminal background image. For this, you need to open the settings.json file in any text editor, such as Notepad. Here's how to do it:
@@ -85,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 ![How to Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-change-windows-terminal-background-image-from-windows-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then paste this path into the**backgroundImage** section of settings.json. Remember to include a comma (**,**) after the path, as shown in the image above.
@@ -95,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
  You can adjust the image transparency using the same method. Simply input values for the**backgroundImageOpacity** parameters to modify the settings. These additional settings allow you to personalize your Windows Terminal background image even further.
 
  Restart Windows Terminal for the changes to take effect. In this way, you can easily customize your Windows Terminal background image using the settings.json file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change the Windows Terminal Background Image Using the Run Command
 
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 4. Scroll down to the**backgroundImage** section and replace the image path with your own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Then press**Ctrl + S** on your keyboard to save the changes.
@@ -137,21 +137,19 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-speedy-drawing-in-photos-a-win10-guide-to-efficient-edits/"><u>[New] Speedy Drawing in Photos A Win10 Guide to Efficient Edits</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-deep-dive-into-the-lenovo-thinkpad-x1-titanium-yoga-uniting-power-users-and-flexibility-seekers-in-one-device/"><u>A Deep Dive Into the Lenovo ThinkPad X1 Titanium Yoga: Uniting Power Users & Flexibility Seekers in One Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-opinions-on-the-ideal-video-editing-laptops-of-2023-in-depth-analysis-and-ratings-zdnet/"><u>Expert Opinions on the Ideal Video Editing Laptops of 2023: In-Depth Analysis and Ratings - ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-need-current-pass-alert-on-microsoft-windows-11/"><u>Fixing Need Current Pass Alert on Microsoft Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/forcible-disconnectivity-of-windows-printers/"><u>Forcible Disconnectivity of Windows Printers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-dialing-into-smooth-audio-edits-with-reaper/"><u>In 2024, Dialing Into Smooth Audio Edits with Reaper</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-steams-bp-display-glitches/"><u>Overcoming Steam's BP Display Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-hurdle-of-winscomrssvdll-errors-on-pc/"><u>Overcoming the Hurdle of WinscomrssvDll Errors on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pre-purchase-wisdom-the-most-important-windows-laptop-tips/"><u>Pre-Purchase Wisdom: The Most Important Windows Laptop Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-notification-for-windows-11-webcamera-access/"><u>Securing Notification for Windows 11 WebCamera Access</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-solutions-for-a-defective-logitech-g433-mic-now-working/"><u>Step-by-Step Solutions for a Defective Logitech G433 Mic - Now Working!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-regedit-not-found-message/"><u>Steps to Address Regedit Not Found Message</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-update-error-code-0x8024800c/"><u>Tackling Windows Update Error Code: 0X8024800C</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tame-your-gadgets-how-to-ensure-your-ipad-stays-silent-when-your-iphone-rings/"><u>Tame Your Gadgets: How to Ensure Your iPad Stays Silent When Your iPhone Rings</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-pro-gamers-screen-capture-strategy-for-xbox-one-for-2024/"><u>The Pro Gamer's Screen Capture Strategy for Xbox One for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-completed-32-bit-applications-print-driver-host-stops-functioning/"><u>Troubleshooting Completed: 32 Bit Application's Print Driver Host Stops Functioning</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-gif-recorder-for-mac/"><u>[Updated] Best Gif Recorder for Mac</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-discover-the-elite-online-stores-where-gifts-meet-individuality/"><u>[Updated] In 2024, Discover the Elite Online Stores Where Gifts Meet Individuality</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/choosing-smartly-in-depth-analysis-of-apple-watch-series-9-and-fitbit-charge-6/"><u>Choosing Smartly: In-Depth Analysis of Apple Watch Series 9 and Fitbit Charge 6</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comprendiendo-el-descarte-de-datos-en-dispositivos-usb-y-su-pase-a-la-papelera/"><u>Comprendiendo El Descarte De Datos en Dispositivos USB Y Su Pase a La Papelera</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-11-update-hiccup-error-0xc1900101/"><u>Eliminating Windows 11 Update Hiccup: Error 0xC1900101</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/face-off-googles-and-windows-approach-to-local-file-sharing/"><u>Face-Off: Google's and Windows' Approach to Local File Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-usb-stick-not-transferring-data-on-windows/"><u>How to Fix a USB Stick Not Transferring Data on Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-x9b-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor X9b?</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/quick-guide-how-to-securely-back-up-selected-folders-on-your-windows-10-pc/"><u>Quick Guide: How to Securely Back Up Selected Folders on Your Windows 10 PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-nokia-g310-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Nokia G310 has been deleted.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-defender-error-0x80004004-quickly/"><u>Resolving Windows Defender Error 0X80004004 Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-eliminate-fatal-windows-11-error/"><u>Step-by-Step Guide to Eliminate Fatal Windows 11 Error</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-value-of-the-lg-24lh4430-series-budget-friendly-and-reliable-for-your-home-theater-needs/"><u>The Value of the LG 24LH4430 Series: Budget-Friendly and Reliable for Your Home Theater Needs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-fps-enhancement-choosing-the-best-extensions-for-2024/"><u>Ultimate FPS Enhancement Choosing the Best Extensions for 2024</u></a></li>
 </ul></div>
 

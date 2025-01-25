@@ -1,7 +1,7 @@
 ---
 title: Boosting Taskbar Performance on Win11
-date: 2024-08-08T10:54:31.836Z
-updated: 2024-08-09T10:54:31.836Z
+date: 2025-01-23T17:20:38.911Z
+updated: 2025-01-24T17:11:45.851Z
 tags:
   - windows10
   - windows11
@@ -21,22 +21,25 @@ thumbnail: https://thmb.techidaily.com/e80f8e773e8554c0c3bc3af8f08cf584d0a96cf13
  In a surprising move, Microsoft removed the Teams icon and the option to adjust its presence on the Taskbar, as seen in a new Insider Dev build. Along with that, there are a couple of changes to the Search Box as well. Curious? Let’s begin.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are the Enhanced Taskbar Settings in Windows 11?
 
  The first major change is the removal of the [Microsoft Teams](https://www.makeuseof.com/what-is-microsoft-teams-my-day/) chat icon from the Taskbar. Until now, there was only an option to hide the tool from the Taskbar. Despite its popularity in the business landscape, the Teams app has very little usage for the rest of Windows users. So, completely removing the icon and its traces from the Settings app is a change that most users will like.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Old Taskbar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-taskbar-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But that won’t remove the Teams app entirely. You will have to uninstall it manually to get rid of it. The Search Box is also getting a few improvements. It will get a dedicated section in the Taskbar setting with an option to launch whenever you hover over it. All these hidden changes can be revealed using the ViveTool.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable Multiple Taskbar Settings in Windows 11
 
  At the time of writing, the above-mentioned Taskbar changes exist in the Windows Insider Dev build 23466\. Remember that there are now two separate channels, [Canary](https://www.makeuseof.com/what-is-windows-insider-canary-channel/) and Dev in the Insider program.
@@ -53,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/e80f8e773e8554c0c3bc3af8f08cf584d0a96cf13
  vivetool /enable /id:43572692  
  vivetool /enable /id:41950597`
 5. **Close** the Command Prompt.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable New Taskbar Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-new-taskbar-features.jpg)
 6. **Restart** your PC to apply the changes made by ViveTool.
 
@@ -64,26 +64,26 @@ thumbnail: https://thmb.techidaily.com/e80f8e773e8554c0c3bc3af8f08cf584d0a96cf13
 1. Right-click on the Taskbar to open the context menu. Click on the **Taskbar settings** option.
 2. The first change that you will observe is that the Chat option is no longer present under the Taskbar Items section. The same goes for its presence on the Taskbar.
 3. Scroll down to the **Search** section. Click on the **Search box** option, and you can select the full, condensed view, or completely disable the search box.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![New Taskbar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-taskbar-settings.jpg)
 4. After enabling the new Search Box features, it will automatically open when your hover the cursor over it. If you want to disable this action, click on the **toggle** next to the **Open search on hover (when available)** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Search Box will also display a small icon related to a current important event in the world. When you open the Search Box or click on the event icon, you will see an expanded section describing the event and the options to learn more and use [Bing’s AI-powered chatbot](https://www.makeuseof.com/ways-bing-ai-improving/) feature.
 
 ![Search Box Events Popup in Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/search-box-events-popup-in-windows-11-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Teams Chat Icon Is Gone For Good
 
  Not everyone needs the pre-packaged apps in Windows 11 that Microsoft is so confident about. Removing the Teams Chat icon is a commendable change, and we hope that it makes it to the final preview and stable channels as well. Apart from that, the changes to Taskbar settings will make it customizable for end users.
 
  In a surprising move, Microsoft removed the Teams icon and the option to adjust its presence on the Taskbar, as seen in a new Insider Dev build. Along with that, there are a couple of changes to the Search Box as well. Curious? Let’s begin.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -91,4 +91,22 @@ thumbnail: https://thmb.techidaily.com/e80f8e773e8554c0c3bc3af8f08cf584d0a96cf13
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-convert-your-youtube-files-effortlessly-to-webm/"><u>[New] 2024 Approved Convert Your YouTube Files Effortlessly to WebM</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-innovative-fb-video-editors-the-best-20-tools-for-effective-ads/"><u>[Updated] In 2024, Innovative FB Video Editors The Best 20 Tools for Effective Ads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-leveraging-github-desktop-in-windows-development/"><u>Essential Guide to Leveraging GitHub Desktop in Windows Development</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-deal-premium-refurbished-128gb-microsoft-surface-laptop-for-only-320-shop/"><u>Get the Deal: Premium Refurbished 128GB Microsoft Surface Laptop for Only $320 Shop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-hdd-not-installed-problems-a-windows-11-boot-up-woes-guide/"><u>Handling HDD Not Installed Problems: A Windows 11 Boot-Up Woes Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-s23-ultra-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy S23 Ultra Without PUK Codes</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-to-game-greatness-top-five-techniques-for-macos-enthusiasts/"><u>Journey to Game Greatness: Top Five Techniques for macOS Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-file-management-in-windows-with-these-top-5-tips/"><u>Master File Management in Windows with These Top 5 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-browser-use-memory-and-cpu-on-windowsmacoschromeos/"><u>Optimal Browser Use: Memory & CPU on Windows/macOS/ChromeOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-securely-moving-images-from-pc-to-iphone-using-windows-11-or-10/"><u>Step-by-Step Guide: Securely Moving Images From PC to iPhone Using Windows 11 or 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-windows-pcs-from-stuck-in-bios-boot-menu/"><u>Stop Windows PCs From Stuck in BIOS Boot Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-unlocking-sound-with-xbox-on-windows/"><u>Strategies for Unlocking Sound with Xbox on Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-big-screen-at-your-fingertips-with-fb-and-twt/"><u>The Big Screen at Your Fingertips with FB & Twt</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mac-video-editor-reviews-find-the-perfect-tool-for-your-needs/"><u>Updated Mac Video Editor Reviews Find the Perfect Tool for Your Needs</u></a></li>
+</ul></div>
 

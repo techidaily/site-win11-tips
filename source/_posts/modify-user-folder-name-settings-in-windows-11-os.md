@@ -1,7 +1,7 @@
 ---
 title: Modify User Folder Name Settings in Windows 11 OS
-date: 2025-01-12T17:35:56.085Z
-updated: 2025-01-18T16:12:27.497Z
+date: 2025-01-17T23:45:18.411Z
+updated: 2025-01-24T20:09:51.661Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
  Windows, by default, will use the first five characters of your user account name as the profile folder name. If you don’t like the user profile folder name, you can change it using a registry hack. Here, we show you how to change the name of the user profile folder in Windows 11\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But First, Some Potential Issues That May Arise From These Steps
@@ -60,11 +60,11 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 ![Add other user account in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-other-user-account-windows-11.png)
 5. Next, click on **I don’t have this person’s sign-in information.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Creating a local user account without a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/create-local-user-account-without-Microsoft-account.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Click on **Add a user** **without a Microsoft account.**
 2. Type a name for the user account. Leave the password field empty and click **Next**.
@@ -73,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 5. Click **OK** to save the changes.
 
  Now, you can log in with your new administrator account. To do this, click **Start**, then click on the user profile name, and select **Sign out.** Next, sign in with the new administrator account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Change the User Profile Folder Name Using the Registry Editor
 
@@ -93,17 +89,22 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 ![User accounts properties.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-accounts-properties.jpg)
 5. In the **User Properties** dialog, you’ll see your **User name** and **Full name.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Type a name for your user name, click **OK** and **Apply**.  
 ![user account user name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-acount-user-name.jpg)
 2. Close the **User Account** dialog and perform a restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Next, open the Command Prompt. To do this, press **Win + R,** type **cmd,** and click **OK**.  
 ![SID command prompt user account.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/SID-command-prompt-user-account.png)
 4. In the Command Prompt window, type the following command to view **SID (Security Identifier)** for all user accounts:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `wmic useraccount get name,SID`
 5. Here, note the **SID** for the user account you want to change the user profile folder name. In this case, the **SID** for the username **tashr** is **S-1-5-21-200486166-247335145-1769094253-1001.**
 
@@ -125,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 8. Select your **user profile** and press **F2** to rename it. Enter a new name for your user profile (it must match the user name entered in the Registry Editor).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Click away and then click **Continue** to save the changes.
@@ -148,18 +149,18 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nlock-the-power-of-cutting-for-beginner-editors-for-2024/"><u>[New] Unlock the Power of Cutting for Beginner Editors for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-streamlabs-rival-in-the-eye-of-a-streamer/"><u>[Updated] In 2024, Streamlabs' Rival in the Eye of a Streamer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-characters-with-windows-11-map-tool/"><u>Explore Characters with Windows 11 Map Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-completely-uninstall-wsl-on-windows-11-and-11/"><u>How to Completely Uninstall WSL on Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-get-into-and-out-of-the-windows-terminals-focus-mode/"><u>How to Get Into and Out of the Windows Terminal’s Focus Mode</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-streamlining-multimedia-experiences-through-youtube-music-links/"><u>In 2024, Streamlining Multimedia Experiences Through YouTube Music Links</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/organizing-and-naming-pro-level-windows-approach-max-156/"><u>Organizing & Naming: Pro-Level Windows Approach (Max 156)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-vpn-connection-woes-on-your-iphone-with-7-powerful-strategies/"><u>Overcome VPN Connection Woes on Your iPhone with 7 Powerful Strategies</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-strategy-for-detecting-deleting-and-defending-your-phone-from-android-ransomware-threats/"><u>Step-by-Step Strategy for Detecting, Deleting, and Defending Your Phone From Android Ransomware Threats</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-5-tips-for-maximizing-wsl-2-in-windows/"><u>Top 5 Tips for Maximizing WSL 2 in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-purpose-of-an-x-symbol-for-your-drives/"><u>Understanding the Purpose of an X Symbol for Your Drives</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-innovations-in-audio-production-adding-subtle-fading-techniques-to-your-toolkit/"><u>Updated 2024 Approved Innovations in Audio Production Adding Subtle Fading Techniques to Your Toolkit</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-youtube-gamers-broadcasting-journey/"><u>[New] In 2024, From Novice to Pro YouTube Gamers' Broadcasting Journey</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-syncing-sound-and-visuals-a-movie-maker-technique/"><u>[Updated] Syncing Sound and Visuals A Movie Maker Technique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-exception-reached-glitches-with-effective-tactics/"><u>Combat Exception Reached Glitches with Effective Tactics</u></a></li>
+<li><a href="https://fox-links.techidaily.com/full-spectrum-assessment-dji-phantom-4-unveiled/"><u>Full Spectrum Assessment DJI Phantom 4 Unveiled</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/green-screen-resources-no-price-tag-for-2024/"><u>Green Screen Resources – No Price Tag for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-resolving-nvidia-opengl-error-3-in-winxps/"><u>Guide to Resolving Nvidia OpenGL Error 3 in WinXPs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-errors-during-utorrent-setup-in-windows/"><u>Navigating Through Errors During uTorrent Setup in Windows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/0-youtube-cameras-from-novices-to-experts-for-2024/"><u>Top 10 YouTube Cameras, From Novices to Experts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-4-fixes-for-when-your-dns-server-isnt-working-properly/"><u>Top 4 Fixes for When Your DNS Server Isn’t Working Properly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-winxdvd-mastery-a-step-by-step-tutorial/"><u>Ultimate WinXDVD Mastery: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-effect-of-removing-windows-11-taskbar-chat-on-users/"><u>Understanding the Effect of Removing Windows 11 Taskbar Chat on Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-tab-control-postpone-edges-first-push/"><u>Windows 11 Tab Control: Postpone Edge's First Push</u></a></li>
 </ul></div>
 

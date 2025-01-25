@@ -1,7 +1,7 @@
 ---
 title: "Fixing FTP: Restoring File Transfer on Windows 11 PCs"
-date: 2025-01-15T16:31:28.630Z
-updated: 2025-01-18T18:17:01.217Z
+date: 2025-01-20T22:31:40.005Z
+updated: 2025-01-24T23:44:48.204Z
 tags:
   - windows10
   - windows11
@@ -33,14 +33,6 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Run the SFC and DISM Command-Line Tools
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
@@ -48,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
  Another possibility is that something has gone wrong with Windows' system files. So, try [repairing corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/), specifically the System File Checker and the Deployment Image Servicing and Management command-line tools.
 
  The SFC tool patches up corrupted files and DISM addresses system image issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Select a Different Download Location in Your Browser
 
@@ -68,12 +64,12 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/general-tab.jpg)
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Then click **Yes** on the logoff prompt.
 
@@ -92,17 +88,25 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
 
  Third-party antivirus apps shouldn't stop you from downloading any files. However, they can interfere with downloads when set to the highest protection settings. To check if a third-party security app is causing this issue, right-click on its antivirus system tray icon and select an option for temporarily disabling its shield. Then try to download a file in your browser again.
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
 
@@ -111,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 ![The Turn off Windows Defender Firewall (not recommended) radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-firewall-options.jpg)
 
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reset Your Browser Software
 
@@ -126,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 3. Press the **Restore settings** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click **Reset** inside the confirmation prompt.
@@ -138,14 +146,6 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
  However, the "Reset this PC" tool does have an option for keeping user files. So, there’s no need to back up your user files before a reset. Follow the instructions in this [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) article to apply this potential fix with the Reset this PC utility.
 
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Download Files Again on Your Windows PC
 
@@ -165,21 +165,16 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-keep-your-spotify-experience-recommendation-free/"><u>[New] 2024 Approved Keep Your Spotify Experience Recommendation-Free</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-laying-the-groundwork-for-av1-understanding/"><u>[New] Laying The Groundwork for AV1 Understanding</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-rotation-revelations-maximizing-media-experience-with-vlc/"><u>2024 Approved Rotation Revelations Maximizing Media Experience with VLC</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-trimming-tactics-for-time-strapped-youtubers/"><u>2024 Approved Trimming Tactics for Time-Strapped YouTubers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-the-codes-of-user-identities-in-win11/"><u>Deciphering the Codes of User Identities in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-discords-auto-start-and-update-check-on-windows/"><u>Disabling Discord's Auto-Start and Update Check on Windows</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ted-viewership-status-symbolized-by-buttons-for-2024/"><u>Elevated Viewership Status Symbolized by Buttons for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhanced-efficiency-embrace-windows-11-tiny/"><u>Enhanced Efficiency: Embrace Windows 11 Tiny</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/get-your-imessage-history-from-iphone-onto-windows-11-easily/"><u>Get Your iMessage History From iPhone Onto Windows 11 Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/getting-acquainted-with-bluescreenview-a-quick-primer/"><u>Getting Acquainted with BlueScreenView: A Quick Primer</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-a1x-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo A1x 5G Device</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-webp-conversion-to-jpeg-for-2024/"><u>Mastering the Art of WebP Conversion to JPEG for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/next-gen-escapades-upcoming-best-playstation-vr-games-to-try-for-2024/"><u>Next-Gen Escapades Upcoming Best PlayStation VR Games to Try for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-visuals-in-application-guard-for-edge-os/"><u>Optimizing Visuals in Application Guard for Edge OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-process-for-running-sfc-on-windows-pcs/"><u>Step-by-Step Process for Running SFC on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-updater-0x8024a205-malfunction-on-pcs/"><u>Tackling Updater 0X8024a205 Malfunction on PCs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-crafting-digital-worlds-the-essential-software-list-for-animators/"><u>[New] Crafting Digital Worlds The Essential Software List for Animators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-artistry-behind-capturing-evening-light-and-people/"><u>[New] In 2024, The Artistry Behind Capturing Evening Light and People</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-rhythmic-revelations-songs-that-will-echo-yes/"><u>[New] Rhythmic Revelations Songs That Will Echo 'Yes'</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/isualconstruct-pro/"><u>[New] VisualConstruct Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-6s-plusipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone 6s Plus/iPad/iPod</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-ios-18-a-step-by-step-guide-to-tailoring-your-iphones-control-center-insights/"><u>Mastering iOS 18: A Step-by-Step Guide to Tailoring Your iPhone's Control Center - Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-win-11-context-menu-clutter/"><u>Reducing Win 11 Context Menu Clutter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-frozen-itunes-on-windows-machines/"><u>Reviving Frozen iTunes on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-approach-to-opening-windows-11-calculator/"><u>Strategic Approach to Opening Windows 11 Calculator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11s-system-interface/"><u>Unveiling Windows 11'S System Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-creating-quick-fixes-shortcuts-guide/"><u>Win 11: Creating Quick Fixes Shortcuts Guide</u></a></li>
 </ul></div>
 

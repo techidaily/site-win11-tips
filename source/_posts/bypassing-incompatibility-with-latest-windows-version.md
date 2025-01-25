@@ -1,7 +1,7 @@
 ---
 title: Bypassing Incompatibility with Latest Windows Version
-date: 2024-07-29T08:12:59.170Z
-updated: 2024-07-30T08:12:59.170Z
+date: 2025-01-17T22:37:28.445Z
+updated: 2025-01-24T20:59:56.986Z
 tags:
   - windows10
   - windows11
@@ -20,14 +20,6 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 
  You will most likely encounter this error if the app detects your system hardware incompatible with Windows 11\. Fortunately, there are workarounds to get around this annoying error that may prevent you from upgrading to Windows 11 successfully.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is the Windows 11 Upgrade Error Message?
 
 The full error message reads:
@@ -57,16 +49,21 @@ Additionally, you may also see the following error:
 
 ![pc health check upgrade windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/pc-health-check-upgrade-windows-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You may also encounter said error when installing Windows 11 through a bootable drive or setup file from the mounted ISO.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What Is UEFI Boot Mode?
 
  UEFI (Unified Extensible Firmware Interface) is a booting method designed to replace BIOS (Basic Input Output System). In the legacy boot, the system uses BIOS firmware for booting.
 
  In general, installing Windows using the newer UEFI mode is recommended as it comes with more security features such as Secure Boot than the legacy BIOS mode. You can[learn more about BIOS](https://www.makeuseof.com/tag/the-bios-explained-boot-order-video-memory-saving-resets-and-optimum-defaults-si/) here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes the "PC Can't Run Windows 11 Error?"
 
@@ -84,9 +81,6 @@ Additionally, you may also see the following error:
 
 ## 1\. Enable Secure Boot in Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable Secure Boot UEFI Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Secure-Boot-enabled.png)
 
 Follow these steps to enable Secure Boot compatibility in Windows 10.
@@ -103,8 +97,9 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
  Once you have enabled Secure Boot and UEFI in Boot Mode, make sure TPM 1.2/2.0 is also enabled for your PC. So, don't close the BIOS setup menu yet.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Enable TMP 1.2/2.0 to fix the "This PC Can't Install Windows 11 Error"
 
 ![Enable Trusted Platform Module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Enable-TPM-2-0-BIOS.png)
@@ -119,9 +114,9 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
  That's it. You have successfully enabled Secure Boot compatibility and TMP 2.0 on Windows 10\. Restart your PC, run the PC Health Checkup tool, or install Windows 11 to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Bypass TPM 2.0 and Secure Boot Requirement Using Registry Editor
 
  If your PC doesn't support Secure Boot and TPM 2.0, you can bypass the restriction using a workaround. To do this, we will modify the registry entry, allowing you to upgrade without Secure Boot and TPM 2.0 requirements.
@@ -138,9 +133,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![registry editor mosetup new value bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-bypass-windows-11-restriction.jpg)
 5. Rename the value as**AllowUpgradeWithUnsupportedTPMorCPU.**
 6. Right-click on the newly created value and select**Modify** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![registry editor mosetup new value 1 bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-1-bypass-windows-11-restriction.jpg)
 7. In the Value data field, type**1** and click**OK** to save the changes.
 8. Close the Registry Editor and try to install Windows 11 using the media creation tool or ISO. The upgrade should complete without the error.
@@ -158,20 +150,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  If the bootable drive does not show up in the Boot Manager after enabling Secure Boot, ensure it is formatted with the UEFI system in Rufus. If not, create a bootable drive again with the target system set to UEFI (CMS).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the This PC Can't Run Windows 11 Error
 
  Windows computers with the BIOS legacy firmware enabled won't be able to install Windows 11\. Fortunately, you can easily fix the error by tweaking your BIOS setup utility to enable UEFI firmware mode to enable Secure Boot and TPM 2.0.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,4 +170,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-efficiently-archive-skype-conversations-for-future-reference/"><u>[New] 2024 Approved Efficiently Archive Skype Conversations for Future Reference</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dive-into-youtubes-best-practices-for-playlist-design/"><u>[New] In 2024, Dive Into Youtube's Best Practices for Playlist Design</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-tapping-into-youtubes-creative-commons-for-video-creators/"><u>[New] In 2024, Tapping Into YouTube's Creative Commons for Video Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-photovideo-imports-in-windows-11-deep-dive/"><u>Decoding Photo/Video Imports in Windows 11 Deep Dive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-anti-phishing-protection-on-windows-filters/"><u>Enabling Anti-Phishing Protection on Windows Filters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-your-window-11-experience-with-these-6-top-android-apps/"><u>Enhancing Your Window 11 Experience with These 6 Top Android Apps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-vivo-s18-pro-by-drfone-android/"><u>Full Guide to Unlock Your Vivo S18 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-y100i-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo Y100i Phone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-pioneering-the-igtv-landscape-uploading-expert-tips/"><u>In 2024, Pioneering the IGTV Landscape Uploading Expert Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-transforming-zoom-calls-enhance-your-visuals-here/"><u>In 2024, Transforming Zoom Calls Enhance Your Visuals Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-administrative-access-for-win11-and-10-homes-edition/"><u>Mastering Administrative Access for Win11 & 10 Homes Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-wins-in-windows-11-easily/"><u>Navigating the World of Wins in Windows 11 Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/screen-scribblers-top-8-notetaking-apps-for-windows-desktops/"><u>Screen Scribblers: Top 8 Notetaking Apps for Windows Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-loading-failures-of-text-messages-on-discord-pc/"><u>Solving Loading Failures of Text Messages on Discord PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enhance-usb-capacity-on-desktops/"><u>Steps to Enhance USB Capacity on Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-the-flawless-slide-showprint-top-tips-from-powerpoint-and-pcs/"><u>The Art of the Flawless Slide Showprint: Top Tips From PowerPoint & PCs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-realme-11-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme 11 Pro FRP</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-the-perfect-cable-modem-and-wi-fi-router/"><u>Ultimate Guide to Choosing the Perfect Cable Modem and Wi-Fi Router</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-to-fix-discords-setup-errors/"><u>Winning Strategies to Fix Discord's Setup Errors</u></a></li>
+</ul></div>
 

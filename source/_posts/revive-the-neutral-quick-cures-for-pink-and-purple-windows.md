@@ -1,7 +1,7 @@
 ---
 title: "Revive the Neutral: Quick Cures for Pink and Purple Windows"
-date: 2025-01-17T18:22:55.800Z
-updated: 2025-01-18T16:10:15.346Z
+date: 2025-01-21T23:18:43.874Z
+updated: 2025-01-25T00:24:56.022Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Quick Fixes for a Windows Desktop That Turns Pink or Purple
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Before you try the detailed solutions, you might want to check out a couple of quick fixes first.
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
  For example, are you experiencing this issue on an external display device? If so, then check your cables and ensure that everything is connected properly. Also, ensure that your display cables aren’t damaged.
 
  In some cases, restarting your Windows device could help. Perform any one of the many[ways to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) and see if that fixes this.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Restart File Explorer
 
@@ -59,6 +55,10 @@ Let’s take a look at the steps for restarting File Explorer:
 
 ![Restarting the Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Restarting-the-Windows-File-Explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disable the Color Filters
 
  The "desktop color" issue might also be caused by the way you’ve configured the color filters on your device.
@@ -71,6 +71,10 @@ In this instance, here’s how you can resolve the problem:
 4. Turn off the**Turn on color filters** button on the right-hand side. Finally, uncheck the**Allow the shortcut key to toggle filter on or off** box.
 
 ![Turning off the Turn on color filters button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Turn-on-color-filters-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Configure the Night Light Settings
 
@@ -88,7 +92,7 @@ To get rid of the problem, follow these steps:
 ![Turning off the Night light button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Night-light-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, follow these steps if you want to tweak some additional night light settings:
@@ -101,7 +105,7 @@ To get rid of the problem, follow these steps:
 ![Adjusting the Night light colors strength](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Adjusting-the-Night-light-colors-strength.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Update or Reinstall the Windows Display Drivers
@@ -125,10 +129,6 @@ Let’s first check out how you can update the display drivers:
 3. Navigate to the**Action** tab and select**Scan for hardware changes** .
 4. Close the Device Manager when the process is complete.
 5. Restart your PC to apply these changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Use the Built-In Windows Troubleshooters
 
@@ -158,10 +158,6 @@ Let’s first check out how you can update the display drivers:
 
 ![Running the System Maintenance Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-System-Maintenance-Troubleshooter-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Scan and Remove Malware From Your PC
 
  In some rare instances, malware might be the reason you’re experiencing the issue at hand. In this case, you can resolve the problem by scanning and removing harmful programs from your PC.
@@ -176,6 +172,10 @@ Here are the steps you need to follow:
 6. Choose your preferred scan option and then press the**Scan now** button.
 
 ![Scanning a PC with the Windows Security tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/Scanning-a-PC-with-the-Windows-Security-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Use a System Restore Point
 
@@ -215,20 +215,20 @@ Here are the steps you need to follow:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-obs-driven-instagram-live-stream/"><u>[New] In 2024, OBS-Driven Instagram Live Stream</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-media-sound-conversion/"><u>[Updated] 2024 Approved Social Media Sound Conversion</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-digital-artistry-creating-vibrant-gifs-for-social-media/"><u>2024 Approved Digital Artistry Creating Vibrant GIFs for Social Media</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-visuals-through-selective-zooming/"><u>Enhancing Visuals Through Selective Zooming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-windows-11-taskbar-operability/"><u>Ensuring Windows 11 Taskbar Operability</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-s23-tactical-edition-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy S23 Tactical Edition Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://win11.techidaily.com/ideal-vm-setup-recommendations-for-windows-11-innovators/"><u>Ideal VM Setup Recommendations for Windows 11 Innovators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovating-on-notification-settings-for-full-charges/"><u>Innovating on Notification Settings for Full Charges</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/introducing-efficient-command-execution-via-keys-w11-edition/"><u>Introducing Efficient Command Execution via Keys, W11 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-uninstall-errors-in-windows-11-operating-system/"><u>Overcoming Uninstall Errors in Windows 11 Operating System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-easy-multi-archive-extraction-for-windows-users/"><u>Quick and Easy Multi-Archive Extraction for Windows Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-honor-x50i-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Honor X50i</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-windows-11-printer-issues-and-solutions-quickly/"><u>Unlock Windows 11 Printer Issues & Solutions Quickly</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unbiased-review-of-vn-video-editor-apk-worth-your-time/"><u>Updated Unbiased Review of VN Video Editor APK Worth Your Time?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/usb-boot-media-creation-made-simple-tutorial-on-3-win-11-steps/"><u>USB Boot Media Creation Made Simple – Tutorial on 3 Win 11 Steps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-aviation-longevity-top-10-endurance-drones/"><u>[Updated] 2024 Approved Aviation Longevity Top 10 Endurance Drones</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-enrich-your-brain-with-these-15-ultimate-science-youtubes-for-2024/"><u>[Updated] Enrich Your Brain with These 15 Ultimate Science Youtubes for 2024</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/ai-tegakiflexicaptureocr-abbyy/"><u>「日本語手作りの文字をAIが解読: TegakiとFlexiCapture、コゲントラボがOCRサービスで最先端へ」 - ABBYYブログ</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-artistry-the-top-new-additions-to-paint-suite/"><u>Crafting Artistry: The Top New Additions to Paint Suite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-windows-script-policy-4-key-fixes-for-powershell-load-issues/"><u>Elevating Windows Script Policy: 4 Key Fixes for PowerShell Load Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-data-accuracy-in-winrar-with-six-checksum-methods/"><u>Ensuring Data Accuracy in WinRAR with Six Checksum Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/exclusive-guide-to-priceless-cam-screen-recorders/"><u>Exclusive Guide to Priceless Cam Screen Recorders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-a-defective-msvcr110dll-file-in-os/"><u>Fixing a Defective msvcr110.dll File in OS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-easy-your-guide-to-agentdeployment-on-agentgpt/"><u>Quick and Easy: Your Guide to AgentDeployment on AgentGPT</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/seamless-addition-youtube-videos-into-google-slides-for-2024/"><u>Seamless Addition YouTube Videos Into Google Slides for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-guide-to-windows-11-terminal-redoing/"><u>Simple Guide to Windows 11 Terminal Redoing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/techs-elite-showdown-googles-gemini-versus-openais-chatgpt/"><u>Tech's Elite Showdown: Google's Gemini Versus OpenAI’s ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-professional-way-of-keeping-windows-calls-logged/"><u>The Professional Way of Keeping Windows Calls Logged</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-changing-default-browser-on-windows-11/"><u>Tips for Changing Default Browser on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-lava-yuva-3-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Lava Yuva 3 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

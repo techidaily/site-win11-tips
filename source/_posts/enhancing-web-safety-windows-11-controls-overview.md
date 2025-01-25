@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Web Safety: Windows 11 Controls Overview"
-date: 2025-01-17T17:52:45.307Z
-updated: 2025-01-18T16:15:55.408Z
+date: 2025-01-21T20:53:18.965Z
+updated: 2025-01-24T20:44:14.596Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create an Account for Your Child on Windows 11
@@ -41,11 +41,11 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
 ![Create child account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/child-account-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Since you will not use this account too often, you should learn[how to start using a password manager](https://www.makeuseof.com/how-to-start-using-password-manager/) to remember its credentials.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up Windows 11's Parental Control Feature
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 ![Parental control settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/parental-control-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will bring up the Microsoft Family Safety website. Click the**Sign in to Family Safety** and enter your Microsoft account credentials. There you’ll see every account connected to your Microsoft account, including your child’s account.
@@ -83,17 +83,21 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
 ![How to limit screen time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/edit-time-limit-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There, use the slider to set how long they can use their device. Also, you can decide between which hours they can access the device. To save the schedule, click**Finished** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Use Parental Control to Filter Content
 
  In the**Content Filters** tab, you can restrict which websites and apps your child can access. To keep your kids safe online, you can enable filters for inappropriate websites and searches or allow access only to approved websites.
 
 ![How to filter content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/filter-content-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Also, you can block certain websites, if you think they might be inappropriate for your child.
 
@@ -102,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 ### How to Use Parental Control to Overview Spending
 
  In the**Spending** category, you can add money or a credit card to the account. You can also set that every purchase needs to be approved by you. Additionally, you can get a notification for every purchase.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Keep Your Kids Safe on Windows 11
 
@@ -126,21 +126,18 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/rom-script-to-screen-methods-of-inserting-dialogue-into-online-videos-for-2024/"><u>[New] From Script to Screen Methods of Inserting Dialogue Into Online Videos for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-the-wanderlust-chronicles-setting-up-for-success-as-a-travel-vlogger/"><u>[New] In 2024, The Wanderlust Chronicles Setting Up for Success as a Travel Vlogger</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-convert-talk-to-text-the-costless-alternative/"><u>[Updated] Convert Talk to Text The Costless Alternative</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1-mastering-icon-hiding-on-video-three-effective-methods-to-keep-your-brand-intact/"><u>1. Mastering Icon Hiding on Video: Three Effective Methods to Keep Your Brand Intact</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-begin-a-new-era-of-editing-with-xps-video-suite/"><u>2024 Approved Begin a New Era of Editing with Xp's Video Suite</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-from-zero-to-youtube-creating-a-stellar-new-chanel/"><u>2024 Approved From Zero to YouTube Creating a Stellar New Chanel</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-methods-for-effective-image-pairing/"><u>2024 Approved Innovative Methods for Effective Image Pairing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726225811433-mp2-mp4-movavi/"><u>線上自由MP2 MP4轉換服務 - 利用Movavi便捷格式修改</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/akvariat-modulokonverter-szinte-ot-rendbe-nyujto-kifejezesei-a-windowsmac-kovetszett-mxf-mp4-ararozasnal/"><u>Akváriát Módulokonverter: Szinte Öt Rendbe Nyújtó Kifejezései A Windows/Mac Követszett MXF MP4-Árarozásnál</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convert-videos-from-mp4-to-wmv-or-vice-versa-quick-and-reliable-online-tool/"><u>Convert Videos From MP4 to WMV or Vice Versa - Quick & Reliable Online Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/copiar-e-colar-em-videos-no-formato-f4v-ferramenta-on-line-gratuitaria-do-movavi/"><u>Cópiar E Colar Em Vídeos No Formato F4V - Ferramenta On-Line Gratuitária Do Movavi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/demonstration-faltbare-bremse-fur-geschutzte-dvds-mit-rippenkonstruktion-schritt-fur-schritt-anleitungen-und-bilder/"><u>Demonstration: Faltbare Bremse Für Geschützte DVDs Mit Rippenkonstruktion - Schritt-Für-Schritt Anleitungen Und Bilder</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-vivo-t2-pro-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Vivo T2 Pro 5G.</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-headerfooter-settings-in-pre-conversion-for-optimal-flipbook-outputs/"><u>Mastering Header/Footer Settings in Pre-Conversion for Optimal FlipBook Outputs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/png-or-jpg-a-detailed-comparison-for-optimal-image-resolution-and-quality/"><u>PNG or JPG: A Detailed Comparison for Optimal Image Resolution and Quality.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/webppngmovavimobile/"><u>WebP画像からPNGへの高効率変換手順【Movavi・Mobile】</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-10-groundbreaking-examples-of-the-metaverse-unpacked/"><u>[New] 10 Groundbreaking Examples of the Metaverse Unpacked</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-s23-fe-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy S23 FE to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-video-format-changer-tools-in-201ninth-convert-high-definition-hd-from-ultra-hd4k-to-standard-definitions-like-full-hd720p/"><u>Best Video Format Changer Tools in 201^[Ninth] - Convert High Definition (HD) From Ultra HD/4K to Standard Definitions Like Full HD/720p</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boosting-views-with-captivating-intros-filmed-in-imovie/"><u>Boosting Views with Captivating Intros Filmed in iMovie</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/download-and-convert-youtube-content-instantly-for-flash-player-with-no-costs-involved/"><u>Download & Convert YouTube Content Instantly for Flash Player with No Costs Involved</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-on-lifting-your-chatgpt-ban/"><u>Expert Advice on Lifting Your ChatGPT Ban</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hearth-warming-hear-from-happy-customers/"><u>Hearth-Warming Hear From Happy Customers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-chatgpt-transforms-the-art-of-crafting-novels-a-guide-with-9-key-points/"><u>How ChatGPT Transforms the Art of Crafting Novels: A Guide with 9 Key Points</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-windows-applications-transforming-videos/"><u>Leading Windows Applications Transforming Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-for-removing-printers-in-windows-11/"><u>Quick Tips for Removing Printers in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-image-saving-failures-in-win11-camera-app/"><u>Remedying Image Saving Failures in Win11 Camera App</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/snapshot-savvy-embellishing-photos-with-the-cartoon-lens-for-2024/"><u>Snapshot Savvy Embellishing Photos with the Cartoon Lens for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-app-launch-issues-windows-11s-error-xc000003e/"><u>Unraveling the Mystery of App Launch Issues: Windows 11'S Error XC000003E</u></a></li>
 </ul></div>
 

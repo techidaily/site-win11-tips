@@ -1,7 +1,7 @@
 ---
 title: "Pro Tools: Proficiently Using PowerShell for Archive Operations"
-date: 2025-01-12T16:14:22.420Z
-updated: 2025-01-18T16:44:05.001Z
+date: 2025-01-18T00:29:52.901Z
+updated: 2025-01-25T00:16:07.835Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Zip Files Using Command Prompt
 
  You can zip files through Command Prompt using the tar command. It's a command line tool that helps you to extract files and create archives. However, this command only works in Windows 10 or later.
@@ -38,16 +42,8 @@ Here's how to zip files using Command Prompt:
 ![Place of the file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/place.jpg)
 4. Type**dir** and press**Enter** . It'll show the files inside the selected folder.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Dir command in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dir.jpg)
 5. To zip all the files inside the selected folder, type the following command and press**Enter** . Replace '**Compressed** ' with the name you want to give your folder where the zip file will be stored. Also, replace '**FileExt** ' with the extension of the file you're zipping.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `tar -a -c -f Compressed.zip *.FileExt`  
 ![Tar command in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tar.jpg)
@@ -57,7 +53,7 @@ Here's how to zip files using Command Prompt:
 ![Compressing one file in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/compressing-one-file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Zip Files Using Windows PowerShell
@@ -79,7 +75,7 @@ Here's how to zip files using Windows PowerShell:
 ![Zipping 2 files at once](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Unzip Files Using Command Prompt
@@ -93,7 +89,7 @@ Here's how to zip files using Windows PowerShell:
 ![Unzipping file in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping-file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You've successfully unzipped the file.
@@ -106,6 +102,10 @@ You've successfully unzipped the file.
 2. Type the following command and press**Enter** . Make sure to replace <**file** **destination** \> and <**target** **location** \> with the location of the zip file and the place where you want the file to be unzipped, respectively.  
 `Expand-Archive -LiteralPath <file destination> -DestinationPath <target location>`  
 ![Unzipping file in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Save Up Space on Windows 11 by Zipping Your Files
 
@@ -128,20 +128,22 @@ You've successfully unzipped the file.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-gif-creation-tools-reviewed-by-industry-vets/"><u>[New] In 2024, Best GIF Creation Tools Reviewed by Industry Vets</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-jest-jamboree-the-most-entertaining-youtubers-to-watch/"><u>[Updated] 2024 Approved Jest Jamboree The Most Entertaining YouTubers to Watch</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-depth-tips-to-revolutionize-youtube-summary-writing-for-2024/"><u>[Updated] In-Depth Tips to Revolutionize YouTube Summary Writing for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-infusing-youtube-soundtracks-within-multimedia-for-2024/"><u>[Updated] Infusing YouTube Soundtracks Within Multimedia for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-stepwise-guide-switch-between-normal-and-pip-views-in-youtube-app/"><u>2024 Approved Stepwise Guide Switch Between Normal and PIP Views in YouTube App</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-using-laptopsmobile-for-google-meet-join/"><u>2024 Approved Using Laptops/Mobile for Google Meet Join</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/a-filmmakers-guide-seamless-editing-and-uploading-360-degree-footage-for-youtube/"><u>A Filmmaker's Guide Seamless Editing & Uploading 360-Degree Footage for YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-edge-widget-development-strategies-for-windows-11-upgrades/"><u>Cutting-Edge Widget Development: Strategies for Windows 11 Upgrades</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/infusing-vintage-directx-software-with-modern-dxvk-features/"><u>Infusing Vintage DirectX Software with Modern DXVK Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-whisper-converting-speech-to-text-on-windows/"><u>Mastering Whisper: Converting Speech to Text on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-missing-file-error-on-windows-11/"><u>Overcoming Missing File Error on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-invalid-profile-warning-on-pc-win1011-advice/"><u>Remedying 'Invalid Profile' Warning on PC: Win10/11 Advice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-resetting-validity-of-user-profiles-on-win11-oses/"><u>Steps for Resetting Validity of User Profiles on Win11 OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-digital-preservation-backing-up-your-epic-games-data/"><u>The Art of Digital Preservation: Backing Up Your Epic Games Data</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-guide-to-softening-volume-levels-on-lumafusion/"><u>[New] In 2024, The Guide to Softening Volume Levels on Lumafusion</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-enhancing-viewing-experience-mastering-netflixs-floating-window-feature/"><u>[Updated] In 2024, Enhancing Viewing Experience Mastering Netflix's Floating Window Feature</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-film-excerpts-for-cutting-edge-creatives/"><u>Essential Film Excerpts for Cutting Edge Creatives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/examining-the-impact-of-eliminating-taskbar-chat-from-windows-11/"><u>Examining the Impact of Eliminating Taskbar Chat From Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-common-phasmophobia-vr-problems-for-seamless-playtime/"><u>Fixing Common Phasmophobia VR Problems for Seamless Playtime</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-your-public-ip-a-cli-technique-guide/"><u>Identifying Your Public IP: A CLI Technique Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-downloading-igtv-made-simple-iphone-and-android-users-bible/"><u>In 2024, Downloading IGTV Made Simple IPhone & Android Users' Bible</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-exploration-of-morphvox-for-precise-sound-alteration-for-2024/"><u>In-Depth Exploration of MorphVOX for Precise Sound Alteration for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-access-setup-boosting-morning-routine-windows-and-notepad/"><u>Optimal Access Setup: Boosting Morning Routine, Windows & Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-guide-to-discovering-your-pcs-gpu-version/"><u>Rapid Guide to Discovering Your PC's GPU Version</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/self-verification-on-instagram-what-does-it-mean-for-us-for-2024/"><u>Self-Verification on Instagram - What Does It Mean for Us for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-incorporating-copymove-actions-in-windows-menu/"><u>Step-by-Step: Incorporating Copy/Move Actions in Windows Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-vlc-file-read-error/"><u>Tackling Windows VLC: File Read Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/task-triumphs-leading-windows-programs-to-boost-your-output/"><u>Task Triumphs: Leading Windows Programs to Boost Your Output</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-must-have-apps-for-real-time-video-translation-for-2024/"><u>Updated Must-Have Apps for Real-Time Video Translation for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-over-warmth-and-coolness-in-windows-colors/"><u>Winning over Warmth and Coolness in Windows Colors</u></a></li>
 </ul></div>
 

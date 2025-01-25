@@ -1,7 +1,7 @@
 ---
 title: Guide to Fix Windows 11 'Get Support' Glitch
-date: 2025-01-15T17:25:26.367Z
-updated: 2025-01-18T16:44:06.024Z
+date: 2025-01-20T17:27:41.857Z
+updated: 2025-01-24T20:22:54.245Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Begin With Some General Fixes
 
  Here are some quick tips on how to fix the Get Help app not working issues quickly:
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
  Note that these fixes can't help you if your issue is serious. In that case, try the following troubleshooting methods.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Repair or Reset the Get Help App
 
  In some situations, the Get Help app may be corrupt. For example, if your computer is infected by malware, it may force some Windows apps to malfunction. If this is your case, please first [disinfect your Windows computer](https://www.makeuseof.com/best-malware-removal-tools-pc/).
@@ -56,20 +48,24 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 ![Windows Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-settings-search-results.jpg)
 3. Search for **Get Help** in the list of apps and click on the three-dot menu. Then click on **Advanced options**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Get Help In Installed Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-installed-apps.jpg)
 4. Now, scroll to the bottom and click **Repair**. If the repair fails, you can use the **Reset** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here's the best part: This process isn't exclusive to the Get Help app. So, you can also apply the above steps to other malfunctioning Windows apps
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Troubleshoot Network-Related Issues
 
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 * Restarting your router or modem to rectify minor network hiccups.
 * Connecting to a different network, as specific network configurations might disrupt certain apps.
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable VPN or Proxy Temporarily
 
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 2. Choose the **Disconnect** button to turn off the VPN.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
@@ -110,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 1. You can use the Services app to manage all the Windows services. To open that, press **Win + R** and type **services.msc**.  
 ![Services Command On Run App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/services-command-on-run.jpg)
 2. Now press **Enter** to launch the Services app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. You'll see a list of all the services currently available in your system. Locate the **Diagnostic Policy Service** and right-click on its name.
 4. Select **Restart** from its context menu.  
@@ -140,10 +144,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
 
 ## No More Blank Screen in the Get Help App
@@ -164,17 +164,22 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-transforming-realities-into-engaging-documentaries-through-scriptwriting/"><u>[New] In 2024, Transforming Realities Into Engaging Documentaries Through Scriptwriting</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-smilescape-turn-daily-life-into-hilarious-stories/"><u>[New] SmileScape Turn Daily Life Into Hilarious Stories</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-how-the-affordable-349-ipad-stole-the-show-at-apples-innovative-let-loose-event-according-to-zdnet-coverage/"><u>Discover How the Affordable $349 iPad Stole the Show at Apple's Innovative Let Loose Event, According to ZDNET Coverage</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-infinix-hot-30i-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Infinix Hot 30i.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-a-broken-logitech-g733-microphone-a-step-by-step-guide/"><u>Effective Fixes for a Broken Logitech G733 Microphone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guaranteeing-remote-device-connections-on-windows-systems/"><u>Guaranteeing Remote Device Connections on Windows Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flexible-cam-mount-revolutionary-positioning-control/"><u>In 2024, Flexible Cam Mount Revolutionary Positioning Control</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-upgrade-rectification-error-0x80246007-in-win11/"><u>Mastering the Art of Upgrade Rectification: Error 0X80246007 in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-to-activate-end-task-feature-in-windows-11/"><u>Navigating to Activate End Task Feature in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proactive-measures-for-error-0x800700e1-on-windows-11-devices/"><u>Proactive Measures for Error 0X800700E1 on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speed-up-victory-top-tips-for-cs-go-gaming/"><u>Speed Up Victory: Top Tips for CS GO Gaming</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-sticking-with-your-old-phone-means-losing-out-discover-the-benefits-of-switching-to-iphone-15-insights-from-apple/"><u>Why Sticking with Your Old Phone Means Losing Out: Discover the Benefits of Switching to iPhone 15 - Insights From Apple</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-srt-file-sharing-on-social-platforms/"><u>[Updated] Mastering SRT File Sharing on Social Platforms</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-microsoft-surface-laptop-go-critique-the-perfect-mix-of-mobility-and-power/"><u>Affordable Microsoft Surface Laptop Go Critique: The Perfect Mix of Mobility & Power</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-rainbow-six-extraction-drivers-issues-on-your-pc-top-solutions-revealed/"><u>Fixing 'Rainbow Six Extraction' Drivers Issues on Your PC - Top Solutions Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-an-enhanced-run-tool-to-windows-11-and-11/"><u>How to Add an Enhanced Run Tool to Windows 11 & 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-honor-play-40c-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-comparing-social-platforms-facebook-live-vs-youtube-live-and-twitter-periscope/"><u>In 2024, Comparing Social Platforms Facebook LIVE Vs. YouTube Live & Twitter Periscope</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-standard-stellar-eraser-complete-guide-for-mobile-devices/"><u>Mac Standard Stellar Eraser: Complete Guide for Mobile Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-11-search-functionality-top-11-tips/"><u>Maximizing Windows 11 Search Functionality: Top 11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-windows-gaming-setup-with-playnite-and-emulators/"><u>Optimize Your Windows Gaming Setup with Playnite and Emulators</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-showdown-in-depth-analysis-and-review-s10plus-vs-samsung-galaxy-s2/"><u>Samsung Showdown: In-Depth Analysis and Review - S10+ Vs Samsung Galaxy S2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-windows-from-starting-spotify-automatically/"><u>Stop Windows From Starting Spotify Automatically</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathway-out-of-windows-11-and-10s-s-constraints/"><u>The Pathway Out of Windows 11 and 10'S S Constraints</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-11-hack-for-flawless-rdc-connection/"><u>The Ultimate Windows 11 Hack for Flawless RDC Connection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-internet-links-maximize-win11s-performance/"><u>Transform Your Internet Links: Maximize Win11's Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-creativity-a-guide-to-30-video-inspirations-for-2024/"><u>Unleash Your Creativity A Guide to 30 Video Inspirations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-a-guide-to-instant-definition-lookup/"><u>Windows 11: A Guide to Instant Definition Lookup</u></a></li>
 </ul></div>
 

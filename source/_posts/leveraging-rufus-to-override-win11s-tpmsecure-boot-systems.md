@@ -1,7 +1,7 @@
 ---
 title: Leveraging Rufus to Override Win11's TPM/Secure Boot Systems
-date: 2025-01-11T16:34:03.848Z
-updated: 2025-01-18T16:22:08.733Z
+date: 2025-01-22T00:27:15.482Z
+updated: 2025-01-24T16:46:43.540Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Rufus the Tool for the Job?
 
  In Rufus version 3.2 and above, you can create a tweaked Windows 11 bootable media. The main attraction is that it can remove the 4GB RAM, TPM 2.0, and Secure Boot requirements while creating the bootable USB drive.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
  Apart from that, it can also remove the infuriating requirement of signing in using a Microsoft Account before setting up your Windows 11 PC. These two requirements deter a lot of users from trying out Windows 11, but Rufus can now bypass both of these. All you need to do is configure Rufus to create a bootable USB drive.
 
  Apart from these two tweaks, Rufus can also speed up the installation process by avoiding the setup pages for tracking, [disabling BitLocker encryption](https://www.makeuseof.com/windows-10-disable-or-suspend-bitlocker/), and settings the same language and region options as the computer you are using to create a bootable USB drive. So, you can prepare a Windows 11 bootable drive that takes less time to install and set up on a new system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Create a Bootable USB Drive Which Bypasses Windows 11 Requirements Using Rufus
 
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 5. Next, click on the **Partition scheme** option. Select **MBR** if you want to use this USB drive on a system with BIOS or UEFI. Leave the Target system and Partition scheme untouched if you plan to use this bootable USB drive on a UEFI system.  
 ![Create a Bootable USB Drive Using Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/create-a-bootable-usb-drive-using-rufus.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Navigate to the bottom of Rufus' window and click on the **Start** button.
 2. A Windows User Experience box will open. Here, you can apply all the customizations you want to the Windows 11 bootable USB drive. Click on the checkbox in front of the **Remove requirement for 4GB+ RAM, Secure Boot, and TPM 2.0** option.
 3. Similarly, select the **Remove requirement for an online Microsoft account** checkbox and **Disable data collection (Skip privacy questions)** checkbox.  
@@ -61,11 +57,15 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 4. Click on the **OK** button. Rufus will generate a warning about deleting all data on the USB drive.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Create a Bootable USB Drive Using Rufus 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/create-a-bootable-usb-drive-using-rufus-3.jpg)
 5. Lastly, click on the **OK** button and wait for Rufus to create the bootable Windows 11 USB drive. Eject the drive after you see a “**Ready**” message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install the Modified Windows 11 on Your System
 
@@ -77,14 +77,14 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 ![Install the Modified Windows 11 on Your System](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system.jpg)
 4. Click on the **I don’t have the product key** option.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Install the Modified Windows 11 on Your System 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-2.jpg)
 5. Select the version of Windows 11 you want to install (Home, Pro, Enterprise, or Education) and click on **Next**.  
 
 ![Install the Modified Windows 11 on Your System 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Accept the EULA and click on the **Next** button. Then, click on the **Custom** option.
 2. Pick the drive where you want to install Windows 11\. Click on the **Format** button to format the drive and click on **Next**.
@@ -96,11 +96,11 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 ![Install the Modified Windows 11 on Your System 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-5.jpg)
 6. Windows will prepare your system for the first boot. After a short while you will boot to the desktop.  
 
-![Windows 11 up and running on an unsupported system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-up-and-running-on-an-unsupported-system.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Windows 11 up and running on an unsupported system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-up-and-running-on-an-unsupported-system.jpg)
 
 ## Benefits of Using Rufus to Create a Custom Windows 11 Installation Media
 
@@ -128,17 +128,21 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-how-to-change-your-voice-in-free-fire-game-free-solution-included/"><u>[New] How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-free-vs-paid-gaming-entrances-top-12-insights-for-youtube-gamers/"><u>[New] In 2024, Free vs Paid Gaming Entrances Top 12 Insights for YouTube Gamers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-worldwide-leaders-in-short-video-download-hubs-free/"><u>[Updated] Worldwide Leaders in Short Video Download Hubs (FREE)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-screen-scrapers-companion-easy-steps-to-save-tweets-visuals/"><u>2024 Approved Screen Scrapers' Companion Easy Steps to Save Tweets' Visuals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-package-fail-message-a-windows-10-11-solution-guide/"><u>Decoding the 'Package Fail' Message: A Windows 10, 11 Solution Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-android-software-for-windows-desktop-owners/"><u>Essential Android Software for Windows Desktop Owners</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-new-ui-in-windows-11/"><u>Exploring New UI in Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Plus with a Mask On</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-selection-7-best-mac-video-apps/"><u>In 2024, Ideal Selection 7 Best Mac Video Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-method-for-incorporating-linktree-in-tiktok-profiles/"><u>In 2024, Optimal Method for Incorporating Linktree in TikTok Profiles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revisiting-past-times-altering-windows-file-timestamps/"><u>Revisiting Past Times: Altering Windows File Timestamps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unveiling-false-numbers-the-risks-of-manipulated-youtube-viewership-for-2024/"><u>Unveiling False Numbers The Risks of Manipulated YouTube Viewership for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhance-youtubes-conversations-with-emojis/"><u>[Updated] 2024 Approved Enhance Youtubes' Conversations with Emojis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chromatic-coherence-helper/"><u>[Updated] Chromatic Coherence Helper</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-facebook-call-recording-a-step-by-step-guide-for-2024/"><u>[Updated] Mastering Facebook Call Recording A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-mastery-how-to-design-your-vr-alter-egos-efficiently/"><u>2024 Approved Step-by-Step Mastery How to Design Your VR Alter Egos Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/end-non-responsive-scrolls-in-microsoft-excel-2019/"><u>End Non-Responsive Scrolls in Microsoft Excel 2019</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/horizon-harmony-best-online-spots-for-high-res-sky-views/"><u>Horizon Harmony Best Online Spots for High-Res Sky Views</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-k11-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-infinix-hot-40-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Infinix Hot 40 Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-linux-within-the-windows-domain/"><u>Leveraging Linux Within the Windows Domain</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mouse-and-keyboard-pace-on-windows-1011-7-tips/"><u>Mastering Mouse and Keyboard Pace on Windows 10/11 (#7 Tips)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-ppt-saving-issues-top-6-tricks-in-windows-11/"><u>Mastering PPT Saving Issues: Top 6 Tricks in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-failed-startup-of-display-driver-on-windows-11/"><u>Tackling Failed Startup of Display Driver on Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-iphone-face-id-issues-with-these-14-effective-solutions/"><u>Troubleshoot iPhone Face ID Issues with These 14 Effective Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-successful-onedrive-cloud-operations/"><u>Unlocking Successful OneDrive Cloud Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-control-fixing-steam-disk-write-errors/"><u>Winning Back Control: Fixing Steam Disk Write Errors</u></a></li>
 </ul></div>
 

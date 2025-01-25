@@ -1,7 +1,7 @@
 ---
 title: "Blackout Brilliance: Using Dark Settings in Microsoft Paint"
-date: 2024-08-08T10:53:30.543Z
-updated: 2024-08-09T10:53:30.543Z
+date: 2025-01-20T00:06:34.953Z
+updated: 2025-01-24T22:02:23.585Z
 tags:
   - windows10
   - windows11
@@ -20,43 +20,40 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  But Microsoft is finally testing a dark mode version of the Paint app along with new feature add-ons in the Insider program. Curious? Let’s discuss what the app has to offer now.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Do You Need a Dark Mode in Microsoft Paint?
 
  Currently, if you apply a dark theme on your Windows 11 PC, most elements will turn completely black to adapt to the change in the color scheme. But some elements like the old Control Panel dialog box, Windows tools, and so on, don’t adapt to this change.
 
  It is perfectly understandable because Microsoft is slowly removing the dependency on Control Panel and migrating everything to the Settings app. But the Paint app still looks stark white and is an eyesore, especially while using it at night.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![Paint app and file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/paint-app-and-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So, the new dark mode will help it blend in with the rest of the UI and also bring it on par with other built-in image and video editing apps like Photos and ClipChamp. Photos app received an overhaul with useful features like [slideshow and Spot Fix](https://www.makeuseof.com/slideshow-spot-fix-feature-photos-app-windows-11/) which reduce the dependency on third-party apps.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Get the Microsoft Paint App With Dark Mode
 
  Microsoft’s Paint app version 11.2304.17.0 supports dark mode and contains other improvements and feature additions. If you are a Windows Insider participant ([Dev or Canary](https://www.makeuseof.com/what-is-windows-insider-canary-channel/)) keep an eye out for new updates in your respective channels.
 
  But if you don’t want to wait, you can directly download the aforementioned version of Paint from the Store.Rg-adguard website.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Downloading New Paint app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/downloading-new-paint-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Firstly, go to the official Microsoft Store webpage for the Paint app. Copy the webpage URL and visit the [Store.Rg-adguard website](https://store.rg-adguard.net/). Paste the link in the search box and select the Fast or Slow option.
 
  After that, click on the checkmark icon. The latest Photos app build will begin downloading on your PC. Install the app and then follow the steps mentioned in the next section.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Switch to Dark Mode in Microsoft Paint
 
  You can switch to dark mode in Paint in two ways:
@@ -67,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
 ![enable Dark mode in Paint app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-dark-mode-in-paint-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Other Major Improvements With the Dark Mode Paint App
 
  Apart from the dark mode support, the Paint app has had another pestering issue that lingered for decades. The zoom feature doesn’t have a drop-down list with some default zoom sizes.
@@ -78,11 +72,19 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
 ![New Zoom Feature in Paint app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-zoom-feature-in-paint-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also fit the image into the window with just one click. It is helpful when you work with large-resolution images which Paint has difficulty displaying in the preview window.
 
  Go to the bottom right area in the Paint app and click on the **Fit to window** button. The image will be zoomed in or out to fit the Paint display window.
 
 ![New Fit to window Feature in Paint app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-fit-to-window-feature-in-paint-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Other major improvements include some changes to the Image Properties section in the app and accessibility support.
 
@@ -92,12 +94,25 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  But Microsoft is finally testing a dark mode version of the Paint app along with new feature add-ons in the Insider program. Curious? Let’s discuss what the app has to offer now.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-junior-jams-and-junction-gaming-for-2024/"><u>[New] Junior Jams & Junction Gaming for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-effective-content-marketing-instagrams-podcast-spotlight/"><u>[Updated] In 2024, Effective Content Marketing Instagram's Podcast Spotlight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-windows-updates-an-offline-journey-150-chars/"><u>Conquering Windows Updates: An Offline Journey (150 Chars)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvd-vs-blu-ray-vs-numerisation-le-choix-economique-pour-les-amateurs-de-films/"><u>DVD vs Blu-Ray vs Numérisation - Le Choix Économique Pour Les Amateurs De Films</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-denied-application-alerts-on-windows-device/"><u>Fixing 'Denied' Application Alerts on Windows Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/framing-photos-and-videos-playing-with-text-deformation/"><u>Framing Photos & Videos Playing With Text Deformation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-14-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 14 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastery-in-momentum-regaining-erased-reddit-posts/"><u>Mastery in Momentum Regaining Erased Reddit Posts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-boost-for-your-vms-top-6-windows-improvements/"><u>Quick Boost for Your VMs: Top 6 Windows Improvements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-boot-perfecting-your-win11-program-order/"><u>Quick Boot: Perfecting Your Win11 Program Order</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-weak-windows-11-signals-an-essential-checklist-of-8-steps/"><u>Tackling Weak Windows 11 Signals: An Essential Checklist of 8 Steps</u></a></li>
+</ul></div>
 

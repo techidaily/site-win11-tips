@@ -1,7 +1,7 @@
 ---
 title: Capturing Critical Windows User Alerts in Action
-date: 2024-07-29T08:13:27.956Z
-updated: 2024-07-30T08:13:27.956Z
+date: 2025-01-22T20:59:11.180Z
+updated: 2025-01-24T23:47:41.868Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
  No tools seem to work with the desktop dimming feature: be it ShareX, Snipping Tool, or PrintScreen shortcut. Is there even a way around it? This guide will explain how to capture a screenshot of a User Account Control notification on Windows
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Disable the Screen Dimming Feature on Windows
 
  The reason you can't take a screenshot of UAC prompts is due to the dimming effect that UAC applies to the screen when a notification pops up. This dimming effect isn't just for show; it's UAC's way of preventing malicious apps from making changes to your PC. This same system is what's blocking your screenshotting tool.
@@ -30,36 +31,36 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
  To disable the desktop dimming feature, refer to our guide on[how to disable the desktop dimming feature on Windows](https://www.makeuseof.com/windows-disable-dimmed-secure-desktop/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Grab a Screenshot of UAC
 
  The desktop dimming feature isn’t active on your system now. So, you won’t face any issues when you attempt to take a screenshot on Windows. Just Press the**Win + PrintScreen** combination to grab a screenshot of the UAC window. You can even use some[tips to capture screenshots the right way on Windows](https://www.makeuseof.com/windows-screenshot-guide/) to get your image picture-perfect.
 
  Now that the dimming feature is gone, you can use any tool you like to capture UAC messages. The Snipping Tool will be able to capture the screen (both audio and video) without any issues, and this also goes for any of[the best screenshot apps and tools on Windows](https://www.makeuseof.com/tag/best-screenshot-tools-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![UAC Dimming Feature Disabled on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uac-dimming-feature-disabled-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, as we covered above, make sure to re-enable the desktop dimming feature in User Account Control Settings after you finish your screenshotting session. As annoying as it may be, the blur effect is still UAC's first line of defense against malware.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Capture UAC Screenshots Easily on Windows
 
  Windows uses User Account Control to keep you informed about any app that wants administrative access. But the screen dining overlay makes it difficult to grab screenshots for system administrators and technical writers. However, you can temporarily disable the screen dimming feature, take screenshots, and then re-enable it afterward to protect your PC again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -68,4 +69,24 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-real-time-conquests-unveiled-7-epic-strategy-titles-reviewed-for-2024/"><u>[New] Real-Time Conquests Unveiled 7 Epic Strategy Titles Reviewed for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-webcam-applications-in-windows-our-choices-for-2024/"><u>[Updated] Essential Webcam Applications in Windows Our Choices for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-cutting-edge-analysis-editpro-x-video-editor-2023/"><u>2024 Approved Cutting-Edge Analysis EditPro X - Video Editor 2023</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-remedying-frozen-asana-windows-instances/"><u>Diagnosing and Remedying Frozen Asana Windows Instances</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-pc-security-without-bitlocker-top-4-methods/"><u>Ensuring PC Security without BitLocker: Top 4 Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-using-ping-in-windows-environments/"><u>Essential Guide to Using Ping in Windows Environments</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-add-music-to-instagram-reels-in-2024/"><u>How to Add Music to Instagram Reels, In 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-optimal-orientation-for-fb-content-creation/"><u>In 2024, Optimal Orientation for FB Content Creation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-office-excel-scroll-hiccups-windows/"><u>Overcome Office Excel Scroll Hiccups (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-your-preferred-ms-store-programs-on-windows-devices/"><u>Restore Your Preferred MS Store Programs on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-lack-of-access-to-network-router-site/"><u>Tackling Lack of Access to Network Router Site</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-non-responsive-ctrl-keys-on-modern-windows-11-pcs/"><u>Tackling Non-Responsive Ctrl Keys on Modern Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/universal-accessibility-for-win11s-sticky-notes-feature/"><u>Universal Accessibility for Win11's Sticky Notes Feature</u></a></li>
+<li><a href="https://article-tips.techidaily.com/what-separates-panoramic-from-immersion-filmmaking/"><u>What Separates Panoramic From Immersion Filmmaking?</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-back-fast-solve-star-wars-bf2-mouse-lags/"><u>Win Back Fast: Solve Star Wars BF2 Mouse Lags</u></a></li>
+</ul></div>
 

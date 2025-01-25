@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows: How to Run SFC Command"
-date: 2025-01-14T18:30:34.490Z
-updated: 2025-01-18T18:02:56.711Z
+date: 2025-01-20T17:10:02.495Z
+updated: 2025-01-24T18:27:58.098Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,17 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 ![Run Command Prompt Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Using-Windows-Search.jpg)
 3. Click**Yes** in the UAC prompt to allow Command Prompt to make changes to your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In Command Prompt, enter the below command, and then hit the**Enter** key:  
 `SFC /scannow`
 
  If you’re unfamiliar with operating system files, please read our guide on[what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our[beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Happens After I Run the System File Checker?
@@ -54,14 +58,10 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Other SFC Commands You Can Run on Windows
 
@@ -74,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 | /verifyfile | Run this command if you only want to check a particular system file for problems. Even if SFC finds an issue with the file, it will not repair it. For example, Here’s the full command for checking the**user32.dll** file:**SFC /verifyfile=c:\\windows\\system32\\user32.dll** |
 | /offbootdir | Run this command to tell the SFC which directory contains a bootable version of Windows. You need to do this every time you use the tool outside of Windows. For example, to select the**E:** drive on your PC, enter**/offbootdir=e:\\**                                         |
 | /offwindir  | Run this command to tell the SFC which folder in the directory — the one you specified with the**SFC /offbootdir** command — contains Windows. For example, enter**/offwindir=e:\\windows** to tell the System File Checker that Windows is on the**E:** drive.                   |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Run an Offline SFC Scan on Windows
 
@@ -101,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
 ![cbs log file on Windows that has been opened in Notepad with the SR tag part showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cbs-log-sfc-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don’t want to bother with searching through the**CBS.log** file for the entries with the**\[SR\]** tag, you can extract them to a file called**sfcdetails.txt** . To do that, open Command Prompt as an administrator, and run the below command:
 
 `findstr /c:"[SR]" %windir%\logs\cbs\cbs.log >sfcdetails.txt`
@@ -117,11 +109,19 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
 ![the sfc details text file on Windows opened in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re doing an offline scan, you can enable logging by simply specifying the file path with the following command structure:
 
 `/offlogfile=[offline log file path]`
 
  Just replace**offline log file path** in the square brackets with the actual path you want to store the offline log file in the offline directory. Then, insert this entire command after the**/windir** command when running an offline SFC scan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Running the System File Checker, Demystified
 
@@ -144,24 +144,19 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-affordable-audio-capture-tools-ranked-1-to-10-for-2024/"><u>[New] Affordable Audio Capture Tools Ranked #1 to #10 for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-beginners-guide-to-iphone-video-capture/"><u>[New] In 2024, Beginner's Guide to Iphone Video Capture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/asus-bw-16d1x-u-blu-ray-burner-analysis-elegant-design-and-minor-imperfections/"><u>Asus BW-16D1X-U Blu-Ray Burner Analysis: Elegant Design & Minor Imperfections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-blank-game-listings-on-windows-with-discord/"><u>Fixing Blank Game Listings on Windows with Discord</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-a-device-which-does-not-exist-was-specified-error-in-windows-11-and-11/"><u>How to Fix the “A Device Which Does Not Exist Was Specified” Error in Windows 11 & 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-90-by-fonelab-android-recover-music/"><u>How to restore wiped music on 90</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-90-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor 90 Pro Phone Pattern Lock</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/m3-macbook-pro-upgrade-experience-seamless-multi-display-support-just-as-the-air-version/"><u>M3 Macbook Pro Upgrade: Experience Seamless Multi-Display Support Just as the Air Version!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-mouseclicklock-a-guide-to-smoother-windows-navigation/"><u>Mastering MouseClickLock: A Guide to Smoother Windows Navigation</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/melodious-memories-capturing-songs-in-your-snaps/"><u>Melodious Memories Capturing Songs in Your Snaps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-entry-not-found-error-in-windows/"><u>Quick Fix for Entry Not Found Error in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-steam-auth-timeout-in-rust/"><u>Quick Fix for Steam Auth Timeout in Rust</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-tests-verifying-webcam-and-microphone-on-windows-pcs/"><u>Quick Tests: Verifying Webcam & Microphone on Windows PCs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-complete-checklist-for-youtubes-resolution-width-and-height-settings-for-2024/"><u>The Complete Checklist for YouTube's Resolution, Width & Height Settings for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-essential-manual-on-motion-detection-techniques-for-2024/"><u>The Essential Manual on Motion Detection Techniques for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-impact-of-ignoring-win-11-notification-pushes/"><u>The Impact of Ignoring Win 11 Notification Pushes</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/why-does-your-gpu-keep-failing-uncover-the-reasons-with-yl-computing/"><u>Why Does Your GPU Keep Failing? Uncover the Reasons with YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/window-wonders-find-the-best-8-video-trimmer-apps-here/"><u>Window Wonders: Find the Best 8 Video Trimmer Apps Here</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-resolving-the-disappearance-of-shorts-thumbnails/"><u>[New] Resolving the Disappearance of Shorts Thumbnails</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/op-edits-made-easy-a-newbies-guide-to-video-trimming-and-enhancing/"><u>[New] Top Edits Made Easy A Newbie's Guide to Video Trimming & Enhancing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unraveling-virtual-physical-coexistence-what-is-mixed-reality/"><u>[New] Unraveling Virtual-Physical Coexistence What Is Mixed Reality?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-clashing-kings-the-top-battle-royale-games/"><u>[Updated] Clashing Kings The Top Battle Royale Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-top-picks-for-high-resolution-4k-panels/"><u>[Updated] Explore Top Picks for High-Resolution 4K Panels</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-perfect-playtime-footage-with-nvidia/"><u>[Updated] Perfect Playtime Footage with NVIDIA</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-xcover-7-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy XCover 7? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-narzo-n53-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme Narzo N53 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enhance-windows-11s-menu-by-excluding-options/"><u>How to Enhance Windows 11'S Menu by Excluding Options</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-xiaomi-redmi-k70-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Xiaomi Redmi K70</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-slate-with-these-top-note-aids/"><u>Optimize Your Slate with These Top Note Aids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-recover-unlinked-devices-in-windows/"><u>Steps to Recover Unlinked Devices in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-least-memory-hungry-browsers-on-windows-platforms/"><u>Unveiling the Least Memory-Hungry Browsers on Windows Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wi-fi-woes-no-more-12-fixes-for-unseen-networks-in-microsoft-os/"><u>Wi-Fi Woes No More: 12 Fixes for Unseen Networks in Microsoft OS</u></a></li>
 </ul></div>
 

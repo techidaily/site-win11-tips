@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Freeze: Windows Update Savior Guide"
-date: 2024-07-29T08:12:48.202Z
-updated: 2024-07-30T08:12:48.202Z
+date: 2025-01-23T22:28:51.958Z
+updated: 2025-01-24T23:45:13.393Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/7c98b3aa443d56db5acb03366d8aa2c1ee75e1644
 
  Then try running the Windows Update Troubleshooter to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Clear the DNS Cache
 
  When you run the Windows Update Troubleshooter, it checks for Windows update issues, diagnoses, and resolves problems, resets Windows Update components, clears temporary files, and more. To do all this, it needs a stable internet connection.
@@ -42,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/7c98b3aa443d56db5acb03366d8aa2c1ee75e1644
 
  If the process is successful, you will get the confirmation message of the DNS Resolver Cache being successfully flushed. Now try running the Windows Update Troubleshooter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Restart Windows Cryptographic Services
 
  At times, an erratic or stopped Windows Cryptographic Services can cause problems in the smooth running of the Windows Update Troubleshooter.
@@ -55,18 +56,26 @@ To fix this, you can try restarting Cryptographic Services.
 
 1. Search for**Services** in**Windows Search** and click on the**Services app** under**Best match** . Or use one of the[many ways to open Services](https://www.makeuseof.com/windows-11-open-services-app/) .
 2. In the**Services** app, look for**Cryptographic** **Services** and double-click on it to open its**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Cryptographic Services in the Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-cryptographic-services.jpg)
 3. In**Properties** , click the**Stop** button to stop Cryptographic Services.  
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
 4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
 5. Then click**Apply** and then**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now close Services and try running the Windows Update Troubleshooter again.
 
@@ -81,8 +90,9 @@ To fix this, you can try restarting Cryptographic Services.
  After these scans finish running, try running the Windows Update Troubleshooter again.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Update System Drivers
 
  Computer drivers enable Windows and its components to communicate and function efficiently. So it's good for you to[know what drivers are and why you should keep them updated](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) .
@@ -93,15 +103,8 @@ To fix this, you can try restarting Cryptographic Services.
 
 1. Right-click the**Windows icon** on the taskbar and select**Settings** from the menu.
 2. Click**Windows Update** in**Settings** and then on the right pane select**Advanced options** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![Advanced Options in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options-windows-update.jpg)
 3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
 4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
 
@@ -124,9 +127,6 @@ To edit and enable the Scripted Diagnostics policy:
 4. In the**Group Policy Editor** , navigate to**Scripted Diagnostics** using the following path:  
 `Computer Configuration > Administrative Templates > System > Troubleshooting and Diagnostics > Scripted Diagnostics`
 5. In the left pane, click on**Scripted Diagnostics** to open its three items.  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![Open Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-scripted-diagnostics-policy.jpg)
 6. Double-click on the first item and select the**Enable** option in the window that opens.  
 ![Enable Each Item in Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-items-of-scripted-diagnostics-policy.jpg)
@@ -147,8 +147,6 @@ To edit and enable the Scripted Diagnostics policy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +154,18 @@ To edit and enable the Scripted Diagnostics policy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensive-list-of-premier-streaming-services/"><u>[New] Comprehensive List of Premier Streaming Services</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-yt-treasure-hunt-accessing-previously-deleted-content/"><u>[New] In 2024, YT Treasure Hunt Accessing Previously Deleted Content</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-premier-business-cloud-data-solutions/"><u>[Updated] In 2024, Premier Business Cloud Data Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211350754-9780062321152-a-practical-guide-to-vibrational-medicine/"><u>A Practical Guide to Vibrational Medicine | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-obs-glitches-a-comprerancial-manual-for-win-11-users/"><u>Eliminating OBS Glitches: A Comprerancial Manual for Win 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-biometrics-access-domain-users-edition-in-w11/"><u>Managing Biometrics Access: Domain Users Edition in W11</u></a></li>
+<li><a href="https://win-updates.techidaily.com/navigating-through-user-account-settings-with-windows-control-panel-a-guide-by-yl-software/"><u>Navigating Through User Account Settings with Windows Control Panel: A Guide by YL Software</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-5-best-tools-to-help-you-distort-audio/"><u>New 5 Best Tools to Help You Distort Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-creativity-with-the-fresh-features-in-microsoft-paint/"><u>Reimagining Creativity with the Fresh Features in Microsoft Paint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-system-speed-hdd-optimization-with-windows-11/"><u>Revamp System Speed: HDD Optimization with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-solutions-to-type-quickly-in-microsofts-latest-os/"><u>Unveiling Solutions to Type Quickly in Microsoft's Latest OS</u></a></li>
+</ul></div>
 

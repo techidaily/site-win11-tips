@@ -1,7 +1,7 @@
 ---
 title: Reigniting Stalled WSReset Utility in Windows Systems
-date: 2025-01-16T18:26:30.108Z
-updated: 2025-01-18T17:23:08.517Z
+date: 2025-01-17T22:49:10.689Z
+updated: 2025-01-24T20:46:02.507Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
  To resolve this issue, [ensure you're using a Windows admin account](https://www.makeuseof.com/check-windows-account-admin-rights/), then try running WSReset.exe again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the Windows Store App Troubleshooter
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 4. On the troubleshooter page, scroll down to **Windows Store Apps** and click **Run**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-store-apps-troubleshooter.jpg)
 
  As the troubleshooter scans, it detects and fixes any existing issues. Once that's done, restart your computer again and try running WSReset.exe again.
@@ -66,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 ## 3\. Repair and Reset Windows Store
 
  If WSReset.exe is still not working, chances are the Windows Store app might be corrupted or not functioning correctly. In that case, try [repairing and resetting the Windows Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/). This will restore the application to its default settings and often solves errors
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Remove the Latest Windows Updates
 
@@ -87,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
  Follow the onscreen instructions and restart your computer when it's done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Clear the Microsoft Store Cache via the Registry
 
  If you're still having issues with WSReset.exe, clear the Microsoft Store cache via the registry. This wipes out temporary files, settings, or preferences that may cause this issue.
@@ -102,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 ![List all user account via command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/list-all-user-account-via-command-prompt.jpg)
 6. Next, open the Registry Editor. For this, click on **Start** \> type **regedit** in the search box, then select it from the results list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. If the UAC pop-up appears, click **Yes** to continue.
 8. When the Registry Editor opens, navigate to the following registry key:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore`  
@@ -115,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 10. Right-click on it and select **Delete**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 11. If a confirmation pop-up appears, click **Yes**. This will clear the Microsoft Store cache.
@@ -136,7 +136,7 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
  You could also [run System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to fix errors and replace corrupt files. If none of the above-mentioned steps work, [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/) and restore your computer to an earlier point when it was working fine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Resolving the WSReset.exe Issue on Windows
@@ -155,19 +155,18 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-extending-the-frame-in-depth-slomo-app-assessment-2024/"><u>[New] Extending the Frame In-Depth SloMo App Assessment, 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-your-simple-route-to-youtubes-srt-extraction/"><u>[New] In 2024, Your Simple Route to YouTube's SRT Extraction</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-your-comprehensible-guide-to-economical-webinars-on-youtube/"><u>[Updated] In 2024, Your Comprehensible Guide to Economical Webinars on YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-techniques-for-effortless-documentation-of-your-online-classesmeets/"><u>[Updated] Top Techniques for Effortless Documentation of Your Online Classes/Meets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726222742531-movaviwavogg/"><u>線上免費Movavi音效格式轉換：如何由wav改為ogg</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-review-of-top-tier-free-video-editing-tools-find-your-perfect-match-on-desktop-or-web/"><u>A Review of Top-Tier Free Video Editing Tools - Find Your Perfect Match on Desktop or Web!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-guide-to-twistedwave-exploring-its-advantages-disadvantages-unique-traits-and-applications/"><u>Comprehensive Guide to TwistedWave: Exploring Its Advantages, Disadvantages, Unique Traits & Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/downloadador-de-videos-on-line-gratuito-converter-filmes-ogm-a-movicao-do-site-de-servicos-online/"><u>Downloadador De Vídeos On-Line Gratuito - Converter Filmes OGM: A Movição Do Site De Serviços Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-convert-nsv-video-format-to-mpeg-free-with-movavis-web-tools/"><u>How to Convert NSV Video Format to MPEG FREE with Movavi's Web Tools</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-high-definition-showdown-projection-systems-versus-tv-in-4k-world/"><u>In 2024, High-Definition Showdown Projection Systems versus TV in 4K World</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-superior-image-quality-the-power-of-youtubes-av1-settings/"><u>In 2024, Superior Image Quality The Power of YouTube's AV1 Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-easy-webm-to-gif-converter-for-free-at-movavis-web-service/"><u>Quick & Easy Webm to Gif Converter for FREE at Movavi's Web Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-bmp-files-into-jpg-gratis-using-movavis-web-based-tool/"><u>Transform Your BMP Files Into JPG Gratis Using Movavi's Web-Based Tool!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-tailoring-the-last-push-how-to-edit-a-vimeo-video/"><u>[New] In 2024, Tailoring the Last Push How to Edit a Vimeo Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-affordable-aerial-acrobats-best-bargain-drones-for-(500/"><u>[Updated] Affordable Aerial Acrobats Best Bargain Drones for <$500</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-techniques-for-seamless-blending-of-hdr-photographs-in-lightroom-for-2024/"><u>[Updated] Techniques for Seamless Blending of HDR Photographs in Lightroom for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enabled-personalized-experience/"><u>Cookiebot-Enabled Personalized Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-best-practices-for-combining-android-with-w11/"><u>Exploring the Best Practices for Combining Android with W11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/six-proven-techniques-for-pinpointing-your-pcs-brand-and-version/"><u>Six Proven Techniques for Pinpointing Your PC's Brand & Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-troubled-network-discoverability-in-windows/"><u>Taming Troubled Network Discoverability in Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-6s-plus-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 6s Plus Activation Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-rationale-behind-wasd-configuration-in-windows/"><u>The Rationale Behind WASD Configuration in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-wi-fi-signal-loss-deciphering-ambiguous-actions-in-windows/"><u>Troubleshooting Wi-Fi Signal Loss: Deciphering Ambiguous Actions in Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/utilizing-microsoft-word-for-efficient-management-of-extended-text-files/"><u>Utilizing Microsoft Word for Efficient Management of Extended Text Files</u></a></li>
 </ul></div>
 

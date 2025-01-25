@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Failure of Auto-Detection of Windows Proxies
-date: 2025-01-14T18:01:27.372Z
-updated: 2025-01-18T18:26:28.916Z
+date: 2025-01-20T00:12:55.864Z
+updated: 2025-01-24T18:27:06.316Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,13 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![Windows 10 Proxy Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Proxy-Settings-Menu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For those who do connect with a proxy, such as people in a business or school environment, you might want to check with your system administrator to make sure you have the correct proxy details here. They'll be able to speak to any issues specific to your network.
 
  After this, try reconnecting to the network again and getting online. If you still get the error, turn off**Automatically detect settings** in the proxy options and try once more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What's a Proxy Server?
 
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
  On Windows 11, go to**Settings > Network & internet** and choose**Wi-Fi** or**Ethernet** depending on the connection you're using. Then click your network name. If you don't see**Automatic (DHCP)** next to both**IP assignment** and**DNS server assignment** , click the**Edit** button next to both and set them to this value.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Update or Roll Back Your Network Driver
@@ -96,10 +96,14 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 ![Windows 10 Device Manager Update Roll Back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Device-Manager-Update-Roll-Back.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to[manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset Network Configuration via the Command Prompt
 
@@ -121,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![Windows 10 firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/firewall-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You should next make sure you don't have a firewall, VPN, or security suite interfering with your network connection. Perhaps your chosen software had an update that changed an option you weren't aware of, or you just installed a new app that changed proxy settings for some reason.
 
  Try disabling your firewall, VPN, and antivirus software one at a time, then see if the error goes away. If it does, the issue lies with one of those apps. You'll need to configure them to avoid interfering with regular network activity.
@@ -145,25 +145,25 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![choose a specific restore point and click on next](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/click-on-a-restore-point.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note that using a restore point will remove any programs and drivers you've installed since making that restore point. You can click**Scan for affected programs** on a restore point to see what effect it will have. Using a System Restore won't affect any of your personal files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Reset Your Network Settings
 
 ![Windows 10 Network Reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Network-Reset.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After trying everything above, you should resort to a full reset of your network configuration in Windows. You've already spent a lot of time working on this, and a reset should clear whatever persistent problem is blocking your connection with this "cannot detect proxy settings" error.
 
  Thankfully, Windows 10 makes it easy to reset your whole configuration. Open**Settings > Network & Internet** . On the**Status** tab, find**Network reset** at the bottom and click it. On Windows 11, this is under **Settings > Network & internet > Advanced network settings > Network reset** instead.
 
  Be aware that this will remove all network information from your computer, so you'll need to reconnect to saved networks again. If you're OK with this, click**Reset now** . Your computer will perform the reset, then restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows Could Not Detect Proxy Settings: Resolved
 
@@ -186,20 +186,18 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-speed-racers-remarkable-22-run/"><u>[New] 2024 Approved Speed Racers' Remarkable '22 Run</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nlock-the-potential-of-youtube-videos-the-ultimate-chapter-addition-technique/"><u>[New] Unlock the Potential of YouTube Videos The Ultimate Chapter Addition Technique</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unleash-your-youtube-channels-full-potential-with-profitable-trailers/"><u>[Updated] Unleash Your YouTube Channels' Full Potential with Profitable Trailers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/a-closer-look-detailed-test-on-lg-ud88-w-oled-screen-for-2024/"><u>A Closer Look Detailed Test on LG UD88-W OLED Screen for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-steam-downloads-halting-speed-fluctuations/"><u>Enhance Steam Downloads: Halting Speed Fluctuations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-typing-adjusting-keyboards-on-windows-11-os/"><u>Enhance Typing: Adjusting Keyboards on Windows 11 OS</u></a></li>
-<li><a href="https://fox-links.techidaily.com/exploring-best-stream-software-is-xsplit-outshining-obs/"><u>Exploring Best Stream Software - Is XSplit Outshining OBS?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/genuine-or-ghost-a-guide-to-spotting-windows-app-fraudsters/"><u>Genuine or Ghost? A Guide to Spotting Windows App Fraudsters</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-seamlessly-observe-the-most-praised-youtube-comments/"><u>In 2024, How to Seamlessly Observe the Most Praised YouTube Comments</u></a></li>
-<li><a href="https://win11.techidaily.com/key-techniques-for-win10-blue-screen-resolution/"><u>Key Techniques for Win10 Blue Screen Resolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-pc-adobe-woes/"><u>Mastering Windows PC Adobe Woes</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-editing-like-a-pro-tips-and-tricks-for-sony-camcorder-video-editors/"><u>New In 2024, Editing Like a Pro Tips and Tricks for Sony Camcorder Video Editors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-onedrive-cloud-errors-in-windows-os/"><u>Resolving OneDrive Cloud Errors in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-silent-pc-audio-solutions-ready/"><u>Troubleshoot Silent PC Audio – Solutions Ready!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-convenience-the-elite-list-of-key-finders/"><u>Unlocking Convenience: The Elite List of Key Finders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-experts-selection-best-full-screen-recorders-for-pc-and-mac/"><u>[New] In 2024, Expert's Selection Best Full-Screen Recorders for PC and Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-ultimate-vr-player-guide-unveiling-the-best-pc-streamers/"><u>[New] The Ultimate VR Player Guide Unveiling the Best PC Streamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-comprehensive-guide-to-mastering-facetune-app-features/"><u>[Updated] The Comprehensive Guide to Mastering Facetune App Features</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-transforming-brands-a-list-of-20-keymarketing-phrases-for-2024/"><u>[Updated] Transforming Brands A List of 20 Keymarketing Phrases for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/3-best-methods-for-moving-your-data-from-an-old-smartphone-to-a-new-one/"><u>3 Best Methods for Moving Your Data From an Old Smartphone to a New One</u></a></li>
+<li><a href="https://article-tips.techidaily.com/breaking-down-asus-pa32u-a-4k-professional-review-for-2024/"><u>Breaking Down ASUS PA32U A 4K Professional Review for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-stop-default-search-functionality-opens-in-win11/"><u>Guide: Stop Default Search Functionality Opens in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hush-win11s-file-explorer-tab-interruptions/"><u>Hush Win11's File Explorer Tab Interruptions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-run-history-failure/"><u>Overcoming Windows Run History Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-11-microsoft-store-error-0x80073cf3/"><u>Remedying Windows 11 Microsoft Store Error 0X80073cf3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-windows-11s-default-usb-suspend/"><u>Sidestep Windows 11'S Default USB Suspend</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steam-disk-readwrite-issue-a-win-friendly-guide/"><u>Steam Disk Read/Write Issue: A Win-Friendly Guide</u></a></li>
 </ul></div>
 

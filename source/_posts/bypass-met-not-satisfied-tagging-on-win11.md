@@ -1,7 +1,7 @@
 ---
 title: Bypass Met Not Satisfied Tagging on Win11
-date: 2024-07-29T08:13:57.715Z
-updated: 2024-07-30T08:13:57.715Z
+date: 2025-01-19T20:05:26.569Z
+updated: 2025-01-24T23:57:27.814Z
 tags:
   - windows10
   - windows11
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 
 ## Bypass Met Not Satisfied Tagging on Win11
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Windows 11 has stricter hardware requirements, resulting in a "System requirements not met" watermark for unsupported hardware.
@@ -29,172 +26,6 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 
  This may not be a concern if you use the OS in a virtual machine. But a watermark can stick out like a sore thumb for most people. Fortunately, you can remove the system requirements not met watermark with a registry hack and the Group Policy Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
-## Why Does Windows 11 Show the "System Requirements Not Met" Watermark?
-
- Microsoft Windows 11 has a much [stricter hardware requirement](https://www.makeuseof.com/can-your-pc-run-windows-11/) than its predecessors. If your system does not meet the minimum system requirement, including TPM 2.0, the installation will stop abruptly.
-
- However, with the problem came many workarounds that allowed you to [bypass the restriction and install Windows 11](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) on unsupported hardware.
-
- While Microsoft initially allowed installation on unsupported hardware with a warning about security issues and lack of future updates, it has now [decided to put a permanent watermark](https://www.makeuseof.com/microsoft-windows-11-unsupported-watermark/) to remind the users that their system is not supported. A similar message may also appear in the Settings app.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 1\. Remove the "System Requirement Not Met" Watermark Using the Registry Editor
-
- If you see the "system requirements not met" watermark on your PC, you can remove it by modifying a DWORD value in Registry Editor.
-
- As modifying the Windows Registry involves risk, [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before making any changes using the Registry Editor.
-
- Follow these steps to remove the "System requirement not met" watermark in Windows 11:
-
-1. Press **Win + R** to open the **Run** dialog.
-2. Type **regedit** and click **OK** to open the Registry Editor.
-3. In the Registry Editor, navigate to the following path. You can also copy and paste the path in the Registry Editor address bar for quick navigation.  
-HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
-4. In the right pane, right-click on the **SV2 DWORD** value and select **Modify**.
-5. Enter **0** into the value data field.  
-![Edit sv2 value to remove the system requirement not met watermark.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/edit-sv2-value-remove-system-requirement-not-met-watermark.jpg)
-6. Click **OK** to save the changes.
-7. Close the Registry Editor and restart your PC to apply the changes. After restarting, Windows 11 will no longer show the unsupported hardware watermark.
-
- If you don’t have the UnsupportedHardwareNotificationCache key, you must create a new one and set its value. To do this:
-
-1. In Registry Editor, right-click the **Control** key (**HKEY\_CURRENT\_USER\\Control Panel**) and select **New > Key.**
-2. Next, rename the key as **UnsupportedHardwareNotificationCache.**  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Create new key for unsupported hardware notification cache.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/create-new-key-unsupported-hardware-notification-cache.jpeg)
-3. Next, right-click on the new key and select **New > DWORD (64-bit)** value.
-4. Rename the value as **SV2**.
-5. Next, modify the **SV2 DWORD** value and set its **Value data** to **2**.
-6. Click **OK** to save the changes.
-
- The watermark may reappear with new updates. So, you must repeat the steps after installing the update to keep your desktop clean.
-
-## 2\. Remove the System Requirement Not Met Message Using the Group Policy Editor
-
- You can use the Group Policy Editor to turn off the System requirements not met message in Windows 11\. To achieve this, we’ll need to modify the **Hide messages when Windows system requirements are not met** Group Policy and set it to enabled.
-
- Only the Windows 11 Pro, Enterprise, and Education edition comes with the Local Group Policy Editor installed by default. If running the Home edition, follow these steps to [enable the Group Policy Editor in Windows Home](http://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/).
-
- To turn off the System requirement not message using GPedit:
-
-1. Press **Win + R** to open the **Run** dialog.
-2. Type **gpedit.msc** and click **OK** to open **Group Policy Editor**. Click **Yes** if prompted by **User Account Control**.
-3. In Group Policy Editor, navigate to the following location:  
-`Local Computer Policy > Computer Configuration > Administrative Templates > System`
-4. In the right pane, scroll down and locate the **Hide messages when Windows system requirements are not met** policy.  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Group policy editor Hide messages when Windows system requirements are not met](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met.jpg)
-5. Next, select and double-click on the policy to open its properties.
-6. Select **Enabled** to enable the policy setting.  
-![Group policy editor Hide messages when Windows system requirements are not met enable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met-enable.jpg)
-7. Click **Apply** and **OK** to save the changes.
-
- Now, you need to restart your computer to apply the changes. After the restart, the "minimum system requirements are not met message" will not be displayed on the desktop.;
-
- If you need to revert the changes, open the **Hide messages when Windows system requirements are not met** policy again and set it to **Not Configured**.
-
-## Removing the "System Requirement Not Met" Watermark in Windows 11
-
- If you have bypassed the TPM secure boot requirement to install Windows 11, you will likely see the System requirement not met watermark on your PC. Fortunately, you can remove the watermark by modifying a Windows registry entry or configuring a group policy using GPedit.
-
- If you are running Windows 11 on unsupported hardware, the newer operating system version will show a "System requirement not met" watermark in the bottom left corner of your screen.
-
- This may not be a concern if you use the OS in a virtual machine. But a watermark can stick out like a sore thumb for most people. Fortunately, you can remove the system requirements not met watermark with a registry hack and the Group Policy Editor.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Why Does Windows 11 Show the "System Requirements Not Met" Watermark?
-
- Microsoft Windows 11 has a much [stricter hardware requirement](https://www.makeuseof.com/can-your-pc-run-windows-11/) than its predecessors. If your system does not meet the minimum system requirement, including TPM 2.0, the installation will stop abruptly.
-
- However, with the problem came many workarounds that allowed you to [bypass the restriction and install Windows 11](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) on unsupported hardware.
-
- While Microsoft initially allowed installation on unsupported hardware with a warning about security issues and lack of future updates, it has now [decided to put a permanent watermark](https://www.makeuseof.com/microsoft-windows-11-unsupported-watermark/) to remind the users that their system is not supported. A similar message may also appear in the Settings app.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## 1\. Remove the "System Requirement Not Met" Watermark Using the Registry Editor
-
- If you see the "system requirements not met" watermark on your PC, you can remove it by modifying a DWORD value in Registry Editor.
-
- As modifying the Windows Registry involves risk, [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before making any changes using the Registry Editor.
-
- Follow these steps to remove the "System requirement not met" watermark in Windows 11:
-
-1. Press **Win + R** to open the **Run** dialog.
-2. Type **regedit** and click **OK** to open the Registry Editor.
-3. In the Registry Editor, navigate to the following path. You can also copy and paste the path in the Registry Editor address bar for quick navigation.  
-HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
-4. In the right pane, right-click on the **SV2 DWORD** value and select **Modify**.
-5. Enter **0** into the value data field.  
-![Edit sv2 value to remove the system requirement not met watermark.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/edit-sv2-value-remove-system-requirement-not-met-watermark.jpg)
-6. Click **OK** to save the changes.
-7. Close the Registry Editor and restart your PC to apply the changes. After restarting, Windows 11 will no longer show the unsupported hardware watermark.
-
- If you don’t have the UnsupportedHardwareNotificationCache key, you must create a new one and set its value. To do this:
-
-1. In Registry Editor, right-click the **Control** key (**HKEY\_CURRENT\_USER\\Control Panel**) and select **New > Key.**
-2. Next, rename the key as **UnsupportedHardwareNotificationCache.**  
-![Create new key for unsupported hardware notification cache.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/create-new-key-unsupported-hardware-notification-cache.jpeg)
-3. Next, right-click on the new key and select **New > DWORD (64-bit)** value.
-4. Rename the value as **SV2**.
-5. Next, modify the **SV2 DWORD** value and set its **Value data** to **2**.
-6. Click **OK** to save the changes.
-
- The watermark may reappear with new updates. So, you must repeat the steps after installing the update to keep your desktop clean.
-
-## 2\. Remove the System Requirement Not Met Message Using the Group Policy Editor
-
- You can use the Group Policy Editor to turn off the System requirements not met message in Windows 11\. To achieve this, we’ll need to modify the **Hide messages when Windows system requirements are not met** Group Policy and set it to enabled.
-
- Only the Windows 11 Pro, Enterprise, and Education edition comes with the Local Group Policy Editor installed by default. If running the Home edition, follow these steps to [enable the Group Policy Editor in Windows Home](http://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/).
-
- To turn off the System requirement not message using GPedit:
-
-1. Press **Win + R** to open the **Run** dialog.
-2. Type **gpedit.msc** and click **OK** to open **Group Policy Editor**. Click **Yes** if prompted by **User Account Control**.
-3. In Group Policy Editor, navigate to the following location:  
-`Local Computer Policy > Computer Configuration > Administrative Templates > System`
-4. In the right pane, scroll down and locate the **Hide messages when Windows system requirements are not met** policy.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
-![Group policy editor Hide messages when Windows system requirements are not met](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met.jpg)
-5. Next, select and double-click on the policy to open its properties.
-6. Select **Enabled** to enable the policy setting.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Group policy editor Hide messages when Windows system requirements are not met enable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met-enable.jpg)
-7. Click **Apply** and **OK** to save the changes.
-
- Now, you need to restart your computer to apply the changes. After the restart, the "minimum system requirements are not met message" will not be displayed on the desktop.;
-
- If you need to revert the changes, open the **Hide messages when Windows system requirements are not met** policy again and set it to **Not Configured**.
-
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Removing the "System Requirement Not Met" Watermark in Windows 11
-
- If you have bypassed the TPM secure boot requirement to install Windows 11, you will likely see the System requirement not met watermark on your PC. Fortunately, you can remove the watermark by modifying a Windows registry entry or configuring a group policy using GPedit.
-
- If you are running Windows 11 on unsupported hardware, the newer operating system version will show a "System requirement not met" watermark in the bottom left corner of your screen.
-
- This may not be a concern if you use the OS in a virtual machine. But a watermark can stick out like a sore thumb for most people. Fortunately, you can remove the system requirements not met watermark with a registry hack and the Group Policy Editor.
-
 ## Why Does Windows 11 Show the "System Requirements Not Met" Watermark?
 
  Microsoft Windows 11 has a much [stricter hardware requirement](https://www.makeuseof.com/can-your-pc-run-windows-11/) than its predecessors. If your system does not meet the minimum system requirement, including TPM 2.0, the installation will stop abruptly.
@@ -219,15 +50,17 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 5. Enter **0** into the value data field.  
 ![Edit sv2 value to remove the system requirement not met watermark.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/edit-sv2-value-remove-system-requirement-not-met-watermark.jpg)
 6. Click **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Close the Registry Editor and restart your PC to apply the changes. After restarting, Windows 11 will no longer show the unsupported hardware watermark.
 
  If you don’t have the UnsupportedHardwareNotificationCache key, you must create a new one and set its value. To do this:
 
 1. In Registry Editor, right-click the **Control** key (**HKEY\_CURRENT\_USER\\Control Panel**) and select **New > Key.**
 2. Next, rename the key as **UnsupportedHardwareNotificationCache.**  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create new key for unsupported hardware notification cache.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/create-new-key-unsupported-hardware-notification-cache.jpeg)
 3. Next, right-click on the new key and select **New > DWORD (64-bit)** value.
 4. Rename the value as **SV2**.
@@ -236,9 +69,6 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 
  The watermark may reappear with new updates. So, you must repeat the steps after installing the update to keep your desktop clean.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Remove the System Requirement Not Met Message Using the Group Policy Editor
 
  You can use the Group Policy Editor to turn off the System requirements not met message in Windows 11\. To achieve this, we’ll need to modify the **Hide messages when Windows system requirements are not met** Group Policy and set it to enabled.
@@ -271,8 +101,87 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
  This may not be a concern if you use the OS in a virtual machine. But a watermark can stick out like a sore thumb for most people. Fortunately, you can remove the system requirements not met watermark with a registry hack and the Group Policy Editor.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Why Does Windows 11 Show the "System Requirements Not Met" Watermark?
+
+ Microsoft Windows 11 has a much [stricter hardware requirement](https://www.makeuseof.com/can-your-pc-run-windows-11/) than its predecessors. If your system does not meet the minimum system requirement, including TPM 2.0, the installation will stop abruptly.
+
+ However, with the problem came many workarounds that allowed you to [bypass the restriction and install Windows 11](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) on unsupported hardware.
+
+ While Microsoft initially allowed installation on unsupported hardware with a warning about security issues and lack of future updates, it has now [decided to put a permanent watermark](https://www.makeuseof.com/microsoft-windows-11-unsupported-watermark/) to remind the users that their system is not supported. A similar message may also appear in the Settings app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 1\. Remove the "System Requirement Not Met" Watermark Using the Registry Editor
+
+ If you see the "system requirements not met" watermark on your PC, you can remove it by modifying a DWORD value in Registry Editor.
+
+ As modifying the Windows Registry involves risk, [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before making any changes using the Registry Editor.
+
+ Follow these steps to remove the "System requirement not met" watermark in Windows 11:
+
+1. Press **Win + R** to open the **Run** dialog.
+2. Type **regedit** and click **OK** to open the Registry Editor.
+3. In the Registry Editor, navigate to the following path. You can also copy and paste the path in the Registry Editor address bar for quick navigation.  
+HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
+4. In the right pane, right-click on the **SV2 DWORD** value and select **Modify**.
+5. Enter **0** into the value data field.  
+![Edit sv2 value to remove the system requirement not met watermark.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/edit-sv2-value-remove-system-requirement-not-met-watermark.jpg)
+6. Click **OK** to save the changes.
+7. Close the Registry Editor and restart your PC to apply the changes. After restarting, Windows 11 will no longer show the unsupported hardware watermark.
+
+ If you don’t have the UnsupportedHardwareNotificationCache key, you must create a new one and set its value. To do this:
+
+1. In Registry Editor, right-click the **Control** key (**HKEY\_CURRENT\_USER\\Control Panel**) and select **New > Key.**
+2. Next, rename the key as **UnsupportedHardwareNotificationCache.**  
+![Create new key for unsupported hardware notification cache.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/create-new-key-unsupported-hardware-notification-cache.jpeg)
+3. Next, right-click on the new key and select **New > DWORD (64-bit)** value.
+4. Rename the value as **SV2**.
+5. Next, modify the **SV2 DWORD** value and set its **Value data** to **2**.
+6. Click **OK** to save the changes.
+
+ The watermark may reappear with new updates. So, you must repeat the steps after installing the update to keep your desktop clean.
+
+## 2\. Remove the System Requirement Not Met Message Using the Group Policy Editor
+
+ You can use the Group Policy Editor to turn off the System requirements not met message in Windows 11\. To achieve this, we’ll need to modify the **Hide messages when Windows system requirements are not met** Group Policy and set it to enabled.
+
+ Only the Windows 11 Pro, Enterprise, and Education edition comes with the Local Group Policy Editor installed by default. If running the Home edition, follow these steps to [enable the Group Policy Editor in Windows Home](http://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/).
+
+ To turn off the System requirement not message using GPedit:
+
+1. Press **Win + R** to open the **Run** dialog.
+2. Type **gpedit.msc** and click **OK** to open **Group Policy Editor**. Click **Yes** if prompted by **User Account Control**.
+3. In Group Policy Editor, navigate to the following location:  
+`Local Computer Policy > Computer Configuration > Administrative Templates > System`
+4. In the right pane, scroll down and locate the **Hide messages when Windows system requirements are not met** policy.  
+![Group policy editor Hide messages when Windows system requirements are not met](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met.jpg)
+5. Next, select and double-click on the policy to open its properties.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+6. Select **Enabled** to enable the policy setting.  
+![Group policy editor Hide messages when Windows system requirements are not met enable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met-enable.jpg)
+7. Click **Apply** and **OK** to save the changes.
+
+ Now, you need to restart your computer to apply the changes. After the restart, the "minimum system requirements are not met message" will not be displayed on the desktop.;
+
+ If you need to revert the changes, open the **Hide messages when Windows system requirements are not met** policy again and set it to **Not Configured**.
+
+## Removing the "System Requirement Not Met" Watermark in Windows 11
+
+ If you have bypassed the TPM secure boot requirement to install Windows 11, you will likely see the System requirement not met watermark on your PC. Fortunately, you can remove the watermark by modifying a Windows registry entry or configuring a group policy using GPedit.
+
+ If you are running Windows 11 on unsupported hardware, the newer operating system version will show a "System requirement not met" watermark in the bottom left corner of your screen.
+
+ This may not be a concern if you use the OS in a virtual machine. But a watermark can stick out like a sore thumb for most people. Fortunately, you can remove the system requirements not met watermark with a registry hack and the Group Policy Editor.
+
 ## Why Does Windows 11 Show the "System Requirements Not Met" Watermark?
 
  Microsoft Windows 11 has a much [stricter hardware requirement](https://www.makeuseof.com/can-your-pc-run-windows-11/) than its predecessors. If your system does not meet the minimum system requirement, including TPM 2.0, the installation will stop abruptly.
@@ -297,17 +206,111 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 5. Enter **0** into the value data field.  
 ![Edit sv2 value to remove the system requirement not met watermark.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/edit-sv2-value-remove-system-requirement-not-met-watermark.jpg)
 6. Click **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Close the Registry Editor and restart your PC to apply the changes. After restarting, Windows 11 will no longer show the unsupported hardware watermark.
 
  If you don’t have the UnsupportedHardwareNotificationCache key, you must create a new one and set its value. To do this:
 
 1. In Registry Editor, right-click the **Control** key (**HKEY\_CURRENT\_USER\\Control Panel**) and select **New > Key.**
 2. Next, rename the key as **UnsupportedHardwareNotificationCache.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![Create new key for unsupported hardware notification cache.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/create-new-key-unsupported-hardware-notification-cache.jpeg)
 3. Next, right-click on the new key and select **New > DWORD (64-bit)** value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+4. Rename the value as **SV2**.
+5. Next, modify the **SV2 DWORD** value and set its **Value data** to **2**.
+6. Click **OK** to save the changes.
+
+ The watermark may reappear with new updates. So, you must repeat the steps after installing the update to keep your desktop clean.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 2\. Remove the System Requirement Not Met Message Using the Group Policy Editor
+
+ You can use the Group Policy Editor to turn off the System requirements not met message in Windows 11\. To achieve this, we’ll need to modify the **Hide messages when Windows system requirements are not met** Group Policy and set it to enabled.
+
+ Only the Windows 11 Pro, Enterprise, and Education edition comes with the Local Group Policy Editor installed by default. If running the Home edition, follow these steps to [enable the Group Policy Editor in Windows Home](http://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/).
+
+ To turn off the System requirement not message using GPedit:
+
+1. Press **Win + R** to open the **Run** dialog.
+2. Type **gpedit.msc** and click **OK** to open **Group Policy Editor**. Click **Yes** if prompted by **User Account Control**.
+3. In Group Policy Editor, navigate to the following location:  
+`Local Computer Policy > Computer Configuration > Administrative Templates > System`
+4. In the right pane, scroll down and locate the **Hide messages when Windows system requirements are not met** policy.  
+![Group policy editor Hide messages when Windows system requirements are not met](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met.jpg)
+5. Next, select and double-click on the policy to open its properties.
+6. Select **Enabled** to enable the policy setting.  
+![Group policy editor Hide messages when Windows system requirements are not met enable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met-enable.jpg)
+7. Click **Apply** and **OK** to save the changes.
+
+ Now, you need to restart your computer to apply the changes. After the restart, the "minimum system requirements are not met message" will not be displayed on the desktop.;
+
+ If you need to revert the changes, open the **Hide messages when Windows system requirements are not met** policy again and set it to **Not Configured**.
+
+## Removing the "System Requirement Not Met" Watermark in Windows 11
+
+ If you have bypassed the TPM secure boot requirement to install Windows 11, you will likely see the System requirement not met watermark on your PC. Fortunately, you can remove the watermark by modifying a Windows registry entry or configuring a group policy using GPedit.
+
+ If you are running Windows 11 on unsupported hardware, the newer operating system version will show a "System requirement not met" watermark in the bottom left corner of your screen.
+
+ This may not be a concern if you use the OS in a virtual machine. But a watermark can stick out like a sore thumb for most people. Fortunately, you can remove the system requirements not met watermark with a registry hack and the Group Policy Editor.
+
+## Why Does Windows 11 Show the "System Requirements Not Met" Watermark?
+
+ Microsoft Windows 11 has a much [stricter hardware requirement](https://www.makeuseof.com/can-your-pc-run-windows-11/) than its predecessors. If your system does not meet the minimum system requirement, including TPM 2.0, the installation will stop abruptly.
+
+ However, with the problem came many workarounds that allowed you to [bypass the restriction and install Windows 11](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) on unsupported hardware.
+
+ While Microsoft initially allowed installation on unsupported hardware with a warning about security issues and lack of future updates, it has now [decided to put a permanent watermark](https://www.makeuseof.com/microsoft-windows-11-unsupported-watermark/) to remind the users that their system is not supported. A similar message may also appear in the Settings app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 1\. Remove the "System Requirement Not Met" Watermark Using the Registry Editor
+
+ If you see the "system requirements not met" watermark on your PC, you can remove it by modifying a DWORD value in Registry Editor.
+
+ As modifying the Windows Registry involves risk, [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before making any changes using the Registry Editor.
+
+ Follow these steps to remove the "System requirement not met" watermark in Windows 11:
+
+1. Press **Win + R** to open the **Run** dialog.
+2. Type **regedit** and click **OK** to open the Registry Editor.
+3. In the Registry Editor, navigate to the following path. You can also copy and paste the path in the Registry Editor address bar for quick navigation.  
+HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
+4. In the right pane, right-click on the **SV2 DWORD** value and select **Modify**.
+5. Enter **0** into the value data field.  
+![Edit sv2 value to remove the system requirement not met watermark.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/edit-sv2-value-remove-system-requirement-not-met-watermark.jpg)
+6. Click **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+7. Close the Registry Editor and restart your PC to apply the changes. After restarting, Windows 11 will no longer show the unsupported hardware watermark.
+
+ If you don’t have the UnsupportedHardwareNotificationCache key, you must create a new one and set its value. To do this:
+
+1. In Registry Editor, right-click the **Control** key (**HKEY\_CURRENT\_USER\\Control Panel**) and select **New > Key.**
+2. Next, rename the key as **UnsupportedHardwareNotificationCache.**  
+![Create new key for unsupported hardware notification cache.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/create-new-key-unsupported-hardware-notification-cache.jpeg)
+3. Next, right-click on the new key and select **New > DWORD (64-bit)** value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Rename the value as **SV2**.
 5. Next, modify the **SV2 DWORD** value and set its **Value data** to **2**.
 6. Click **OK** to save the changes.
@@ -337,21 +340,15 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 
  If you need to revert the changes, open the **Hide messages when Windows system requirements are not met** policy again and set it to **Not Configured**.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Removing the "System Requirement Not Met" Watermark in Windows 11
 
  If you have bypassed the TPM secure boot requirement to install Windows 11, you will likely see the System requirement not met watermark on your PC. Fortunately, you can remove the watermark by modifying a Windows registry entry or configuring a group policy using GPedit.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -360,4 +357,17 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-to-gif-a-simple-no-download-guide-for-video-creators/"><u>[Updated] YouTube-to-GIF A Simple, No-Download Guide for Video Creators</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-speedy-steps-screenshot-simplification-on-dell/"><u>2024 Approved Speedy Steps Screenshot Simplification on Dell</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-honor-magic-vs-2-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Honor Magic Vs 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disable-unwanted-features-to-lower-memory-usage/"><u>Disable Unwanted Features to Lower Memory Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-missing-piece-regain-access-to-windows-11-enhancements/"><u>Fixing the Missing Piece: Regain Access to Window's 11 Enhancements</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/integrating-masks-and-filters-to-improve-google-meet-engagement/"><u>Integrating Masks and Filters to Improve Google Meet Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win-xp7-for-group-policies/"><u>Navigating Win XP/7 for Group Policies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simplifying-driver-updates-a-user-friendly-approach-to-epson-software-for-windows-devices/"><u>Simplifying Driver Updates: A User-Friendly Approach to Epson Software for Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-non-connecting-wi-fi-usb-on-windows-devices/"><u>Solving Non-Connecting Wi-Fi USB on Windows Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/tiktok-user-birthday-visualization-pixels-type-elapsed-for-2024/"><u>TikTok User Birthday Visualization Pixels, Type, Elapsed for 2024</u></a></li>
+</ul></div>
 

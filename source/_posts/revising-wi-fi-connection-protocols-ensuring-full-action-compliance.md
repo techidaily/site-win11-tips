@@ -1,7 +1,7 @@
 ---
 title: "Revising Wi-Fi Connection Protocols: Ensuring Full Action Compliance"
-date: 2025-01-12T18:08:19.953Z
-updated: 2025-01-18T16:44:36.743Z
+date: 2025-01-21T22:06:50.395Z
+updated: 2025-01-24T16:11:29.543Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disable the NCSI Probe From Windows Registry
@@ -55,14 +55,14 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![NoActiveProbe key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/no-active-probe.jpg)
 5. Double-click on this newly created value and change its value data to 1\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now, create another value the same way and name it as DisablePassivePolling.
 7. Double-click on **DisablePassivePolling** and change its value data to 1 as well.  
 ![DisablePassivePolling key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-passive-polling.jpg)
 8. Click **OK** to save the changes and exit the Registry Editor.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9. Finally, restart your computer and upon reboot, check if the problem is resolved.
 
@@ -81,6 +81,10 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![Network connectivity test policy in GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/network-connectivity-test-policy.jpg)
 6. Checkmark the box with **Enabled** and click **Apply** \> **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Next, head over to the following location:  
 ​​​​​​​​​​​​​​Computer Configuration\Administrative Templates\Network
 8. Select **Network Connectivity Status Indicator** \> **Specify passive polling**.  
@@ -88,16 +92,12 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 9. Choose **Enabled** and click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 10. Close the Group Policy Editor and restart your computer.
 
  Hopefully, upon reboot, the issue will no longer appear.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run the Internet Connection Troubleshooter
 
@@ -114,10 +114,6 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 
 6. In case the troubleshooter fails to identify the culprit, click on **Close the troubleshooter** option and move to the next method below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Disable Fast Startup
 
  You might also be facing the issue if the fast startup feature is interfering with network-related processes in Windows. If this feature is enabled on your computer, disabling it might help fix the underlying error as this will allow the system to completely shut down, which can help in refreshing network settings and resolving any network-related issues.
@@ -133,6 +129,10 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 6. Uncheck the box associated with **Turn on fast startup (recommended)**.  
 ![Disable Fast Startup on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fast-startup-on-windows.jpg)
 7. Click on the **Save changes** button and exit Control Panel. Check if the issue is now resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Try These Additional Generic Fixes
 
@@ -158,21 +158,17 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-learn-to-optimize-google-meet-host-plus-participant-without-spending-a-dime/"><u>[New] Learn to Optimize Google Meet (Host + Participant) Without Spending a Dime</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-beyond-illusion-vr-timeline-explored/"><u>[Updated] In 2024, Beyond Illusion VR Timeline Explored</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-horizon-capture-setup-vr/"><u>2024 Approved Horizon Capture Setup VR</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-next-gen-windows-with-meaningful-improvements/"><u>Crafting Next-Gen Windows with Meaningful Improvements</u></a></li>
-<li><a href="https://win-blog.techidaily.com/discover-the-power-of-movavi-all-features-in-one-place-the-ultimate-guide/"><u>Discover the Power of Movavi - All Features in One Place: The Ultimate Guide</u></a></li>
-<li><a href="https://win-news.techidaily.com/effizientes-verfahren-zum-klonen-von-linux-festplatten-unter-windows/"><u>Effizientes Verfahren Zum Klonen Von Linux-Festplatten Unter Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-adjust-application-size-with-a-press-on-windows-11/"><u>Effortlessly Adjust Application Size with a Press on Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-use-gopro-time-lapse/"><u>How to Use GoPro Time Lapse</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-playthrough-smooth-sailing-troubleshooting-guide-for-the-king-of-fighters-xv/"><u>PC Playthrough Smooth Sailing: Troubleshooting Guide for 'The King of Fighters XV'</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reignite-lost-bluetooth-with-these-essential-win-11-solutions/"><u>Reignite Lost Bluetooth with These Essential Win 11 Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-setup-rgb-lighting-windows-11/"><u>Tips to Setup RGB Lighting Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-honor-magic-v2-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Honor Magic V2 Location | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-steams-read-only-library-error-on-win-11/"><u>Troubleshooting Steam's Read-Only Library Error on Win 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-increasing-iphone-ringtone-and-calls-loudness/"><u>Troubleshooting Tips: Increasing iPhone Ringtone & Calls Loudness</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-the-location-of-desktop-wallpaper-images/"><u>Uncover the Location of Desktop Wallpaper Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-storage-management-for-your-apps/"><u>Windows Storage Management for Your Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-transforming-instagram-footage-into-square-stories-using-imovie-tips/"><u>[Updated] Transforming Instagram Footage Into Square Stories Using iMovie Tips</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-mini-gaming-rigs-for-enthusiasts-and-gamers-alike/"><u>Best Mini Gaming Rigs for Enthusiasts and Gamers Alike</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/camera-confusion-no-video-display-issue/"><u>Camera Confusion No Video Display Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deactivate-app-launch-history-on-pc/"><u>Deactivate App Launch History on PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-updated-drivers-for-enhanced-performance-with-nvidias-gtx-1650-super-on-windows-11/"><u>Download & Install Updated Drivers for Enhanced Performance with NVIDIA's GTX 1650 Super on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-amd-rx-480-gpu-drivers-with-simplicity/"><u>Download and Update AMD RX 480 GPU Drivers with Simplicity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-error-0x8019-in-windows/"><u>Eradicating Error 0X8019 in Windows</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-mac-maintenance-with-scheduled-secure-file-and-folder-deletion-discover-stellar-file-eraser-standard-edition/"><u>Revolutionize Mac Maintenance with Scheduled Secure File & Folder Deletion - Discover Stellar File Eraser Standard Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-handbook-to-windows-law-filters/"><u>The Complete Handbook to Window's LAW Filters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-reactivate-windows-11-ms-store-apps/"><u>Troubleshooting: Reactivate Windows 11 MS Store Apps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/vllo-feedback-compilation-for-2024/"><u>VLLO Feedback Compilation for 2024</u></a></li>
 </ul></div>
 

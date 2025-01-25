@@ -1,7 +1,7 @@
 ---
 title: Change Display Axis in Windows Interface
-date: 2024-07-29T08:12:30.855Z
-updated: 2024-07-30T08:12:30.855Z
+date: 2025-01-19T21:04:13.434Z
+updated: 2025-01-24T21:15:43.688Z
 tags:
   - windows10
   - windows11
@@ -30,17 +30,10 @@ thumbnail: https://thmb.techidaily.com/1908e28912e98a1754462ccee93c018243200352c
 2. Head over to **System > Display**.
 3. Click the drop-down menu next to **Display orientation** to select from the available options: **Landscape**, **Portrait**, **Landscape (flipped)**, and **Portrait (flipped)**.
 4. Click the **Keep changes** button to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Change the Display Orientation Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-the-display-orientation-using-the-settings-app.jpg)
 
  Once you have completed the above steps, Windows will rotate your screen 90 degrees, 180 degrees, or 270 degrees, depending on the option you select.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 2\. Change Windows Display Orientation via the Graphics Control Panel
 
  Apart from the system settings, you can also use the built-in graphics control panel to change the display orientation on Windows. However, the exact steps for doing so will depend on the type of [graphics card installed on your PC](https://www.makeuseof.com/check-graphics-card-model-windows-11/).
@@ -48,18 +41,24 @@ thumbnail: https://thmb.techidaily.com/1908e28912e98a1754462ccee93c018243200352c
  Here's how you can rotate your screen using the Intel Graphics Command Center and the NVIDIA Control Panel.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Change the Display Orientation Using the Intel Graphics Command Center
 
 1. Click the magnifying icon on the taskbar or use the **Win + S** keyboard shortcut to open the search menu.
 2. Type **Intel Graphics Command Center** in the box and press **Enter**.
 3. Select the **Display** tab from the left pane.
 4. Under the **General** tab, click the drop-down menu next to **Rotation** to select your preferred display orientation.  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Change the Display Orientation Using the Intel Graphics Command Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-the-display-orientation-using-the-intel-graphics-command-center.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change the Display Orientation Using the NVIDIA Control Panel
 
@@ -68,23 +67,12 @@ thumbnail: https://thmb.techidaily.com/1908e28912e98a1754462ccee93c018243200352c
 3. Click the **Rotate display** option.
 4. Select your preferred orientation in the right pane.
 5. Click the **Apply** button to save the changes.  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change the Display Orientation Using the NVIDIA Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-the-display-orientation-using-the-nvidia-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Change Windows Display Orientation With Keyboard Shortcuts
 
  Another quick way to rotate your Windows computer's screen is to use keyboard shortcuts. This method can be especially useful if you frequently need to switch between different display orientations.
@@ -98,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/1908e28912e98a1754462ccee93c018243200352c
 
  It's important to note that the above keyboard shortcuts may not work on all Windows computers. If they do not work on your PC, you can use the Settings app or the built-in Graphics Control Panel to make the necessary adjustments.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Changing the Display Orientation on Windows Is Easy
 
  Knowing how to change the display orientation on Windows can be helpful if you have a laptop with a rotatable screen or an external monitor that allows rotation.
@@ -106,11 +98,28 @@ thumbnail: https://thmb.techidaily.com/1908e28912e98a1754462ccee93c018243200352c
 
  Here, we share three methods for changing the display orientation on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-uncovering-every-shared-element-in-a-chat-on-messenger/"><u>[New] In 2024, Uncovering Every Shared Element in a Chat on Messenger</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-zoom-in-google-meet-best-ways/"><u>[Updated] 2024 Approved How to Zoom in Google Meet [Best Ways]</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-essential-tips-for-advanced-editing-in-gopro-studio/"><u>[Updated] In 2024, Essential Tips for Advanced Editing in GoPro Studio</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cinema-journey-iphone-users-best-choice-for-films/"><u>2024 Approved Cinema Journey IPhone Users' Best Choice for Films</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104340272-built-in-internal-wi-fi-and-bt-wont-stop-in-win10-need-help/"><u>Built-In Internal Wi-Fi and BT Won't Stop in Win10 – Need Help</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-keep-unwanted-content-away-from-your-computer-and-phone/"><u>How to Keep Unwanted Content Away From Your Computer and Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-noisy-speakers-settings-in-windows/"><u>Navigating Noisy Speakers Settings in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pc-access-to-snapchat-uncovered-comprehensive-guide-for-windows-and-mac-users/"><u>PC Access to Snapchat Uncovered – Comprehensive Guide for Windows and Mac Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-plugged-inspection-failure-for-windows-users/"><u>Reversing Plugged Inspection Failure for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-the-not-responding-spotify-issue-in-win-oses/"><u>Solutions for the Not Responding Spotify Issue in Win OSes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-simulating-quantum-leaps-in-film-for-2024/"><u>The Art of Simulating Quantum Leaps in Film for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-setup-for-using-android-as-a-second-screen-in-w11/"><u>The Ultimate Setup for Using Android as a Second Screen in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-1053-service-unresponsive-on-windows/"><u>Troubleshooting Error 1053: Service Unresponsive on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-steps-for-disconnected-pc-accessories/"><u>Troubleshooting Steps for Disconnected PC Accessories</u></a></li>
+</ul></div>
+

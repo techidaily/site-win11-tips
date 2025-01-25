@@ -1,7 +1,7 @@
 ---
 title: "Cease Unintentional Restarts: Windows 11 Guide"
-date: 2024-07-29T08:11:04.901Z
-updated: 2024-07-30T08:11:04.901Z
+date: 2025-01-21T00:55:33.800Z
+updated: 2025-01-24T22:41:00.302Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
  No matter the reason, here are a few troubleshooting tips to help you stop the shutdown box from popping up.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Update Windows 11
 
  The shutdown box might be a temporary system glitch caused by an outdated Windows version. To update your operating system, press the **Windows key + I** to bring up the Settings menu. There, head to **Windows Update** and click the **Check for updates** button.
@@ -32,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
  If there’s a new version available, Windows will display the **Updates available to download** message. In this case, click **Download now**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Run the System Maintenance Troubleshooter
 
  If the shutdown box is still popping up after updating the Windows version, you should give the System Maintenance troubleshooter a chance to fix the problem for you.
@@ -47,18 +49,20 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 5. In the System Maintenance window, click **Advanced** and check the **Apply repairs automatically** option.
 6. Click **Next** to run the troubleshooter.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Run System Maintenance troubleshooter in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-maintenance-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Perform Some Generic Windows-Based Fixes
 
  Whenever something goes awry with Windows, there are always a few tricks you can try to see if they fix it. These include:
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Scan Your System for Malware
 
  If the shutdown box constantly popping up isn’t the only issue you’re dealing with, you might be dealing with a malware infestation.
@@ -69,19 +73,17 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 
  The shutdown box might keep opening if some of your system files are corrupted or missing. The easiest way to search and automatically fix them is to [run the SFC and DISM scans](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Start Windows in Safe Mode
 
  When [starting Windows in Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/), your system starts with a set of basic programs and drivers. This way, you can determine if a third-party app is the one causing the shutdown box to open by itself.
 
  If you no longer encounter the same issue while in Safe Mode, you should check the list of installed apps and remove the problematic one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix the Windows Shutdown Box Appearing By Itself
 
@@ -91,11 +93,26 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 
  No matter the reason, here are a few troubleshooting tips to help you stop the shutdown box from popping up.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-recording-device-feedback-guide/"><u>[New] In 2024, Recording Device Feedback Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-seamless-tweet-integration-on-facebook-platform-for-2024/"><u>[New] Seamless Tweet Integration on Facebook Platform for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-srt-to-txt-mastery-the-2023-guide-for-rapid-changeover/"><u>2024 Approved SRT to TXT Mastery The 2023 Guide for Rapid Changeover</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-guide-stabilizing-horizon-forbidden-west-full-gameplay-on-windows/"><u>Complete Guide: Stabilizing 'Horizon Forbidden West' Full Gameplay on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-ai-imagery-via-paint-cocreator-on-win11/"><u>Creating AI Imagery via Paint Cocreator on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-persistent-edge-in-windows-11/"><u>Dealing with Persistent Edge in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-artificial-intelligence-the-synergy-of-abbyy-and-uipath-in-advancing-automation/"><u>Enhancing Artificial Intelligence: The Synergy of ABBYY and UiPath in Advancing Automation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratis-online-f4v-naar-avi-converteren-met-movavi-konvertierer/"><u>Gratis Online F4V Naar AVI Converteren Met Movavi Konvertierer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-reno-10-proplus-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo Reno 10 Pro+ 5G Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-auto-color-adjustment-for-win11-applications/"><u>Mastering Auto-Color Adjustment for Win11 Applications</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-exploration-making-and-investigating-system-reports/"><u>Windows Exploration: Making & Investigating System Reports</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Breaking Into Browsing After Your Windows Launch
-date: 2024-07-29T08:13:59.420Z
-updated: 2024-07-30T08:13:59.420Z
+date: 2025-01-21T23:51:00.499Z
+updated: 2025-01-24T23:53:52.292Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
  Fortunately, installing a browser without another browser is possible on Windows. Start by selecting the browser you want to install because in most cases, you'll only be able to download the most popular browsers. We explain how you can download a browser without using a browser in this guide.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Use the Microsoft Store
 
  Before you move forward with this method, note that Google Chrome is unavailable on the Microsoft Store. If you want to install Chrome, skip to the next method.
@@ -32,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
  To install a browser, start by launching the Microsoft Store. Search for Microsoft Store in the Start Menu and search for the browser you want to install. Select the browser and click**Install** . Wait for the browser to finish installing.
 
  When installing a browser, be sure to check the publisher to avoid installing fake apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Install Browsers Using Commands
 
@@ -45,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 
 Let's talk about how you can use these to download a browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use Winget
 
  If you're running Windows 10 v1809 or later, Winget is one of the easiest ways to download a browser without a browser. Start by launching PowerShell by searching for it in the Start Menu. Then, execute one of the following commands based on the browser you want to download:
@@ -57,9 +66,6 @@ Let's talk about how you can use these to download a browser.
 
  Exit the PowerShell window after the browser has been installed and you'll be ready to start browsing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Download a Browser Using the Curl Command
 
  Launch PowerShell by searching for it in the Start Menu. Navigate to the desktop by executing the following command:
@@ -72,18 +78,12 @@ Let's talk about how you can use these to download a browser.
 
 Paste the link in quotation marks like so:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![installing chrome using the curl command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-curl.jpg)
 
  The command essentially asks Curl to navigate to a specific URL, make a download request, follow HTTP redirects, and save the files as download.exe.
 
  Once the file has been downloaded, run the installation wizard to complete the installation process.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Download a Browser Using Chocolatey
 
  Chocolatey is a third-party package manager that functions similarly to Windows' winget and[Ubuntu's APT](https://www.makeuseof.com/tag/beginners-guide-installing-software-ubuntu-apt/) . It's a tool that helps install and uninstall apps using PowerShell or Command Prompt.
@@ -108,11 +108,16 @@ Next, run the following command:
 
 ![installing chrome using chocolatey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-choco.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once the process is complete, you can start using the new browser.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use a Invoke-WebRequest PowerShell Script
 
  PowerShell is a command-line environment you can use to download files from the internet. This means you can also download browsers a browser's setup file using PowerShell and run the installation without using another browser.
@@ -129,9 +134,6 @@ Run the following command in PowerShell:
 
 `Invoke-WebRequest link -o download.exe`
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![installing chrome using powershell scripting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-powershell-script.jpg)
 
  Replace the word link with the link to your browser's setup file. Once you execute the command, you'll see PowerShell downloading the file. Once the download is complete, exit PowerShell and run the download.exe file stored on your desktop. Follow the installation wizard's instructions and you're set.
@@ -140,14 +142,11 @@ Run the following command in PowerShell:
 
  Hopefully, you were able to download a browser and install it using one of these methods. Windows offers a ton of options to get things done. Take your pick when installing a browser without a browser. What matters is installing a browser you think best suits your needs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,4 +155,21 @@ Run the following command in PowerShell:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-tailor-sharespread-content-adobe-memes-for-2024/"><u>[Updated] Tailor Sharespread Content Adobe Memes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-80s-cinematic-elements-for-modern-editing/"><u>[Updated] Top 80S Cinematic Elements for Modern Editing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-10-youtube-download-apps-best-in-class-compatibility/"><u>2024 Approved Top 10 YouTube Download Apps - Best in Class Compatibility</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/delving-into-twitter-archives-processes-explained-for-2024/"><u>Delving Into Twitter Archives Processes Explained for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/echoes-of-romance-classic-italian-flirting-techniques/"><u>Echoes of Romance: Classic Italian Flirting Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-zero-to-art-starting-up-ms-paint-in-win11/"><u>From Zero to Art: Starting up MS Paint in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-repair-windows-11-assistance-tool/"><u>Guide to Repair Windows 11 Assistance Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-tweaking-your-digital-environment-windows-11-default-actions/"><u>Guide to Tweaking Your Digital Environment: Windows 11 Default Actions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-your-pcs-aware-elements-during-sleep/"><u>Guiding Your PC's Aware Elements During Sleep</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-cutting-edge-5-online-media-recording-units/"><u>In 2024, Cutting-Edge 5 Online Media Recording Units</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-astro-a40s-microphone-problem-step-by-step-guide/"><u>Solving Your Astro A40's Microphone Problem - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-screen-freezes-in-games-now-easily/"><u>Stop Screen Freezes in Games, Now Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-hardware-problem-detectors-in-windows/"><u>Unraveling Hardware Problem Detectors in Windows</u></a></li>
+</ul></div>
 

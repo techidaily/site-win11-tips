@@ -1,7 +1,7 @@
 ---
 title: Installation Steps for Google Play on Win11
-date: 2025-01-13T18:14:56.026Z
-updated: 2025-01-18T18:22:03.185Z
+date: 2025-01-22T22:09:24.837Z
+updated: 2025-01-24T16:00:23.129Z
 tags:
   - windows10
   - windows11
@@ -54,12 +54,16 @@ To uninstall WSA:
 5. Click the**three dots** and select**Uninstall** . Click**Uninstall** again to confirm the action.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Enable Developer Mode in Windows 11
 
 ![enable-developer-mode-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/enable-developer-mode-windows-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Developer Mode allows you to sideload apps and access other developer features, including remote installation apps via SSH services.
 
@@ -71,12 +75,16 @@ To enable Developer Mode:
 4. Toggle the switch for**Developer Mode** and set it to**On** . Click**Yes** to confirm the action.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 3: Enable Virtual Machine to Run Android Apps
 
 ![enable windows hypervisor platform windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/enable-windows-hypervisor-platform-windows-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You need to[enable and configure Virtual Machine Platform and Windows Hypervisor Platform](https://www.makeuseof.com/windows-11-enable-hyper-v/) to run Windows Subsystem for Android on Windows 11\. Skip this step if you have installed WSA previously.
 
@@ -106,10 +114,6 @@ To install WSL and a Linux distro on Windows 11:
 
  Now you’ll see a Linux\\Ubuntu folder in File Explorer’s left pane.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 5: Setup Magisk and Windows Subsystem for Android
 
  The next set of steps involve downloading a Gitbub repository, MagiskOnWSALocal, to integrate Magisk root and Google Apps into WSA.
@@ -121,18 +125,10 @@ To install WSL and a Linux distro on Windows 11:
 ![download install magiskonWSA github command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/download-install-magiskonwsa-github-command-prompt.jpg)
 4. Open the Ubuntu terminal and type the following command followed by the GitHub URL:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `git clone https://github.com/LSPosed/MagiskOnWSALocal.git`
 5. Press**Enter** to close the GitHub repository to the Linux user account on your computer.  
 ![run script magiskonwsa local install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-script-magiskonwsa-local-install.jpg)
 6. Next, type the following command to move to the scripts folder. This will change the directory to the specified folder.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `cd MagiskOnWSALocal  
 cd scripts`
@@ -147,19 +143,27 @@ cd scripts`
 ![intro to magiskonWSA](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/intro-to-magiskonwsa.jpg)
 2. Next, select**X64 X86\_64** for**Build Arch** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![build arch masigkonwsa local](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/build-arch-masigkonwsa-local.jpg)
 3. Next, for**WSA release** type, select**Retail Stable Channel** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![WSA retail type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wsa-retail-type.jpg)
 4. Select**No** in the**Do you want to** **Root WSA dialog** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select**Yes** in the**Do you want to install GApps** dialog.  
 ![which GApps you want to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/which-gapps-you-want-to-install.jpg)
 6. Select**OpenGApps** in the**Which GApps do you want to install** dialog.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Next, in the**Do you want to keep Amazon Appstore** dialog, select**Yes** or**No** , depending on your requirement.
 8. Select**No** in the**Do you want to compress the output** dialog.
@@ -187,10 +191,6 @@ or
 5. Next, go to your installation drive**C:\\** and create a new folder named**WSA** .  
 ![WSA folder Windows C drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wsa-folder-windows-c-drive.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Paste the copied files into the**WSA** folder.
 2. Close**File Explorer** .
 3. Press the**Win** key and type**cmd** . Right-click on**Command Prompt** and select**Run as administrator** .  
@@ -198,7 +198,7 @@ or
 4. In the Command Prompt window, type the following command to change the directory to the WSA folder:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `cd C:\WSA`
@@ -221,7 +221,7 @@ To enable Developer mode on Windows Subsystem for Android:
  Now you can install Android apps on Windows 11 from Google Play Store. That said, some apps may still not work properly due to the region and licensing restrictions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Installing the Google Play Store on Windows 11
@@ -245,24 +245,19 @@ To enable Developer mode on Windows Subsystem for Android:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/-journey-through-time-best-history-youtubes-for-scholars-and-enthusiasts/"><u>[New] A Journey Through Time Best History YouTubes for Scholars & Enthusiasts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-5-apps-for-turning-spotify-listens-into-youtube-videos/"><u>[New] Top 5 Apps for Turning Spotify Listens Into YouTube Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-gaming-channel-evolution-best-14-video-ideas-on-youtube-for-2024/"><u>[Updated] Gaming Channel Evolution Best 14 Video Ideas on YouTube for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unlocking-faster-more-effective-vocal-alterations-for-pubg-players/"><u>[Updated] Unlocking Faster, More Effective Vocal Alterations for PUBG Players</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-viral-visionaries-the-10-highest-viewed-twitters-today/"><u>2024 Approved Viral Visionaries The 10 Highest-Viewed Twitters Today</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-poco-x5-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/opusmp3movavi/"><u>完全無料でオンラインでOPUSからMP3に簡単変換！Movaviで楽しめますように</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bahsedecegimiz-12-milyar-ucretli-surdurulebilir-3d-daha-acik-animation-programu/"><u>Bahsedeceğimiz 12 Milyar Ücretli Sürdürülebilir 3D Daha Açık Animation Programu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversione-gratuita-online-da-3gp-a-mjpeg-con-movavi/"><u>Conversione Gratuita Online: Da 3GP a MJPEG Con Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-mp4-upgrader-effortlessly-convert-videos-from-vcddvd-format/"><u>Free Online MP4 Upgrader: Effortlessly Convert Videos From VCD/DVD Format</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-sculpt-striking-signs-with-stock-designs-at-no-cost/"><u>In 2024, Sculpt Striking Signs with Stock Designs at No Cost</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/integrating-automatic-speech-conversion-into-powerpoint-presentations-for-2024/"><u>Integrating Automatic Speech Conversion Into PowerPoint Presentations for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-online-transforma-tus-archivos-flac-a-ogg-sin-costo-alguno/"><u>Movavi Online: Transforma Tus Archivos FLAC a Ogg Sin Costo Alguno</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavis-cost-free-tool-transforming-dpx-photos-into-png-format-online/"><u>Movavi's Cost-Free Tool: Transforming DPX Photos Into PNG Format Online</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-setting-up-gmail-as-a-backup-destination-with-aomei-backupper/"><u>Step-by-Step Guide: Setting Up Gmail as a Backup Destination with AOMEI Backupper</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-11-free-and-premium-2d-animation-programs-of-2024-a-comprehensive-guide/"><u>Top 11 Free & Premium 2D Animation Programs of 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-13-aplicativos-de-captura-de-webcam-mais-usados-para-windows-10-guia-do-movavi/"><u>Top 13 Aplicativos De Captura De Webcam Mais Usados Para Windows 10 - Guia Do Movavi</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-customer-relationship-management-crm-systems-optimal-choices-for-small-and-medium-businesses-insights-by-zdnet/"><u>Top Customer Relationship Management (CRM) Systems : Optimal Choices for Small and Medium Businesses - Insights by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-file-swf-in-formato-mp4-libero-e-gratuito-tramite-il-servizio-online-di-movavi/"><u>Trasforma I Tuoi File SWF in Formato MP4 Libero E Gratuito Tramite Il Servizio Online Di Movavi</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-live-broadcasters-dilemma-which-tool-triumphs-obs-or-streamlabs-for-2024/"><u>[New] Live Broadcasters' Dilemma Which Tool Triumphs – OBS or Streamlabs for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-exploring-the-essence-of-youtube-live-imagery-language/"><u>[Updated] 2024 Approved Exploring the Essence of YouTube Live Imagery Language</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capturing-your-macs-display-live-easy-steps-included-for-2024/"><u>[Updated] Capturing Your Mac's Display Live - Easy Steps Included for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-mobile-instagram-videos-velocity-tips/"><u>[Updated] Enhancing Mobile Instagram Videos' Velocity (Tips)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-monetize-youtube-video-the-ultimate-guide-to-ad-revenue/"><u>[Updated] Monetize YouTube Video | The Ultimate Guide to Ad Revenue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dodging-delayed-wow-windows-installation/"><u>Dodging Delayed WoW Windows Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-navigate-office-environment-with-windows-11s-outlook-preview/"><u>Effortlessly Navigate Office Environment with Windows 11'S Outlook Preview</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-garmins-latest-innovation-the-vivosmart-evolved-with-enhanced-battery-and-stress-metrics-tracking/"><u>Explore Garmin's Latest Innovation: The Vivosmart Evolved with Enhanced Battery and Stress Metrics Tracking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-remedying-writing-failures-in-windows-11/"><u>Guide to Remedying Writing Failures in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-format-required-discrepancy-in-windows/"><u>How to Address 'Format Required' Discrepancy in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-windows-connection-change-nat-type-efficiently-in-win1110/"><u>Optimize Your Windows Connection: Change NAT Type Efficiently in Win11/10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-vivo-y27s-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Vivo Y27s to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-and-fixing-the-root-of-virtualbox-usb-device-disconnection/"><u>Uncovering and Fixing the Root of VirtualBox USB Device Disconnection</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/your-path-to-beaming-beauty-expertise-starting-an-online-show/"><u>Your Path to Beaming Beauty Expertise Starting an Online Show</u></a></li>
 </ul></div>
 

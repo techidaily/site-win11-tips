@@ -1,7 +1,7 @@
 ---
 title: Scouring System Files After Win-Blue Codes
-date: 2025-01-16T16:31:16.843Z
-updated: 2025-01-18T17:55:24.311Z
+date: 2025-01-19T01:26:07.633Z
+updated: 2025-01-25T01:27:48.186Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where Are the BSOD Log Files Located in Windows?
 
  You can find the BSOD log files in the Event Viewer, Control Panel, and Registry Editor in Windows. Below, we have listed the detailed steps for finding these files in all three of these utilities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Find and Read the BSOD Log Files in the Event Viewer
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 2. Head over to the **Action** menu located at the top, and choose **Create Custom View** from the context menu.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Create a custom view in the Event viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/create-custom-view.jpg)
@@ -54,6 +54,11 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 
 ![Check the logged section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/custom-time.jpg)
 4. Now, move to the Event Level section and choose **Error**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Event level of the error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/error-event-level.jpg)
 5. Expand the dropdown for **Event Logs** and checkmark the box for **Windows Logs**.  
 
@@ -63,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 2. You will now be prompted to enter a name and description for the custom view you just created. Enter these details and click **OK**.  
 ![Create a filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/name-event-viewer.jpg)
 3. Once the view is created, you will be presented with a list of errors that occurred during the time frame you selected earlier. You can sort this information further in the Date and time section.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Check the Event Viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/event-viewer-11.jpg)
 4. Next, locate the BSOD using details like the date and time again.
@@ -98,14 +99,10 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 ![Change the Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/value-data-1.jpg)
 9. Once done, restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Upon reboot, you should be able to view the log files without any problems.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Find and Read the BSOD Log Files in the Control Panel
@@ -124,16 +121,20 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 ![Check the reliability history of the system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/view-realability-history.jpg)
 4. You should now see a graph showing the reliability data. Look for red cross icons and blue (i) icons in the graph, as they show problematic events.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Reliability graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/realability-graph.jpg)
 5. Click on each of the icons to view its details. Keep repeating the process to locate the event you are looking for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will be presented with information like the faulting application path, its name, fault module timestamp, exception code, etc. If this app caused a BSOD crash, then you can try ending its process via the Task Manager or uninstalling the app if it is not necessary.
 
  It is also a good idea to copy this information and send it to Microsoft for review if you cannot find a solution online.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Learn How to Read Your BSOD Log Files and Resolve Your Crashes
 
@@ -153,20 +154,20 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-captivate-with-time-lapse-artistry-on-samsung-phones/"><u>[New] In 2024, Captivate with Time-Lapse Artistry on Samsung Phones</u></a></li>
-<li><a href="https://facebook.techidaily.com/examining-whats-stirring-up-debate-in-facebook-documents/"><u>Examining What's Stirring Up Debate in Facebook Documents</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/expert-analysis-on-overheating-cpus-by-yl-software-professionals/"><u>Expert Analysis on Overheating CPUs by YL Software Professionals</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harnessing-royalty-free-graphics-a-compreeved-guide/"><u>Harnessing Royalty-Free Graphics A Compreeved Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-edge-advanced-photo-editing-strategies/"><u>Instagram Edge Advanced Photo Editing Strategies</u></a></li>
-<li><a href="https://fox-info.techidaily.com/leading-choices-no-fee-versatile-live-streaming-tools-for-every-device/"><u>Leading Choices No-Fee, Versatile Live Streaming Tools for Every Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-javascript-failure-resolution-in-windows-11s-discord/"><u>Mastering JavaScript Failure Resolution in Windows 11'S Discord</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/mastering-snapchat-sharing-with-twitter-videos/"><u>Mastering Snapchat Sharing with Twitter Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-troubled-waters-help-for-your-windows-woes/"><u>Navigating Troubled Waters: Help for Your Windows Woes</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-to-rdr2-memory-errors-boost-your-page-file-size-now/"><u>Quick Solutions to RDR2 Memory Errors: Boost Your Page File Size Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/realigning-malfunctioning-windows-rules-for-outlook-emails/"><u>Realigning Malfunctioning Windows Rules for Outlook Emails</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setup-a-new-baseline-for-touch-input-on-your-win-11-pc/"><u>Setup a New Baseline for Touch Input on Your Win 11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-7-best-free-volume-boosters-for-windows/"><u>The 7 Best Free Volume Boosters for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbocharge-windows-gaming-with-yuzus-speeds/"><u>Turbocharge Windows Gaming with Yuzu's Speeds</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-avatar-abstraction-artistry-sculpting-your-playful-image/"><u>[Updated] In 2024, Avatar Abstraction Artistry Sculpting Your Playful Image</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-inside-look-polaroids-bold-move-into-action-camera-tech-for-2024/"><u>[Updated] Inside Look Polaroid's Bold Move Into Action Camera Tech for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-step-up-your-streams-advanced-practices-for-capturing-vr-playtimes/"><u>[Updated] Step Up Your Streams Advanced Practices for Capturing VR Playtimes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-12-pro-maxipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone 12 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-your-ubisoft-connect-speeds-ultimate-tips-and-tricks/"><u>Boosting Your Ubisoft Connect Speeds: Ultimate Tips and Tricks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/comprehensive-analysis-of-top-6-hdmi-enabled-monitors-for-2024/"><u>Comprehensive Analysis of Top 6 HDMI-Enabled Monitors for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conducting-system-administration-through-the-terminal/"><u>Conducting System Administration Through the Terminal</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-the-memory-could-not-be-written-error-on-windows/"><u>How to Fix the The Memory Could Not Be Written Error on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-or-update-canon-pixma-ts3222-printer-software-easy-and-quick-guide/"><u>Install or Update Canon PIXMA TS3222 Printer Software, Easy and Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-commands-setting-up-win-shortcuts-swiftly/"><u>Master Your Commands: Setting up WIN Shortcuts Swiftly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-tailored-snap-layouts-with-powertoys/"><u>Mastering the Art of Tailored Snap Layouts with PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-correct-error-code-0x80073cf3-in-microsoft-store-win11/"><u>Tips to Correct Error Code 0X80073CF3 in Microsoft Store Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win1011-wont-react-keyboardmouse-remedies-needed/"><u>Win10/11 Won't React? Keyboard/Mouse Remedies Needed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-or-11-wont-wake-from-sleep-with-keyboard-or-mouse-what-to-do/"><u>Windows 11 or 11 Won't Wake From Sleep With Keyboard or Mouse? What to Do</u></a></li>
 </ul></div>
 

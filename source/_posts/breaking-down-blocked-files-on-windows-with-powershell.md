@@ -1,7 +1,7 @@
 ---
 title: Breaking Down Blocked Files on Windows With PowerShell
-date: 2024-07-29T08:13:48.485Z
-updated: 2024-07-30T08:13:48.485Z
+date: 2025-01-22T16:52:06.571Z
+updated: 2025-01-24T17:49:52.880Z
 tags:
   - windows10
   - windows11
@@ -19,16 +19,18 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
  So you’ve downloaded files onto a directory on your PC, but Windows doesn’t trust them? This is understandable because some files from the internet can harm your computer, but what if you know for sure that the files are safe? Luckily there’s an easy PowerShell command you can use to unblock all of them.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Unblock Multiple Files Using PowerShell on Windows?
 
  You can easily unblock a file by right-clicking on it and going to**Properties** — If you're on Windows 11, you'll need to click**Show more options** first before you can see the**Properties** option in the context menu. And once you're there, select the**General** tab and tick**Unblock** at the bottom in the**Security** section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![unblocking a file in Properties on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unblock-file-properties-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But what if you have more than one file you need to unblock? Doing this one by one can get tedious. Alternatively, you can execute a single PowerShell command to unblock multiple files in a directory. Here is the command structure you need to use:
 
@@ -36,46 +38,41 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
  Just replace**path** in the square brackets with the file path of the directory that has the blocked files. You can grab the file path of the directory by right-clicking on it and selecting**Copy as path** .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![copying file path on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-as-path-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With the file path handy, follow the instructions below to use the unblock command in PowerShell:
 
 1. Press**Win + S** to open Windows Search.
 2. Type**powershell** in the search box and when the program appears in the search results, right-click on it and select**Run as administrator** . For more ways to open it, please read our guide on[ways to open PowerShell on Windows](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 3. Enter the unblock command in PowerShell and hit the**Enter** key to run it. This is what it looks like on our computer:  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![entering the unblock file command in PowerShell on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-shell-unblock-files-command.jpg)
 4. You will be asked to confirm each file you want to unblock, so type either**Y** for**Yes** or**N** for**No** and hit the**Enter** key. This confirmation step is due to the**\-confirm** portion of the command. It is completely optional, and you can omit it or type**A** to confirm all the files in the directory.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![confirming files to unblock in PowerShell on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-shell-unblock-files-confirm.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There’s a way you can tell Windows to always trust files you download from the internet. To do that, please read our guide on[how to stop Windows 10 from blocking your downloaded files](https://www.makeuseof.com/stop-windows-10-from-blocking-your-downloaded-files/) . The instructions in the tutorial use the Registry Editor and Local Group Policy Editor, so they should also work on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Now You Know How to Unblock Files You Know Are Safe
 
  With the instruction above unlocking a bunch of downloaded files in a directory should be easier. Keep in mind that you shouldn’t do this on files you don’t trust. The last thing you want to do is put your Windows PC at risk unnecessarily
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -84,4 +81,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-from-conference-call-to-online-showcase-google-meet-on-youtube/"><u>[New] 2024 Approved From Conference Call to Online Showcase Google Meet on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-connecting-with-the-world-how-to-use-roku-for-fb-live/"><u>[New] In 2024, Connecting With The World How to Use Roku for FB Live</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-skyrocketing-to-million-dollar-views-best-hashtags/"><u>[New] In 2024, Skyrocketing to Million-Dollar Views Best Hashtags</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-brand-storytelling-through-the-eyes-of-customer-voices/"><u>[Updated] In 2024, Brand Storytelling Through the Eyes of Customer Voices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-unveiling-the-secrets-of-a-fresh-twitter-account/"><u>[Updated] In 2024, Unveiling the Secrets of a Fresh Twitter Account</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-best-script-innovation-place/"><u>2024 Approved Best Script Innovation Place</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-in-one-source-for-apple-devices-specs-owners-manuals-and-troubleshooting-advice-find-it/"><u>All-in-One Source for Apple Devices: Specs, Owner's Manuals & Troubleshooting Advice - Find It !</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-dark-screen-customization-for-your-notepad-windowed-edition/"><u>Effortless Dark Screen Customization for Your Notepad, Windowed Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-graphics-capability-within-application-guard-mode/"><u>Elevating Graphics Capability Within Application Guard Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/establishing-print-capabilities-in-edge-shield-mode/"><u>Establishing Print Capabilities in Edge Shield Mode</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-nook-glowlight-4-a-comprehensive-user-guide/"><u>In-Depth Analysis of the Nook GlowLight 4 - A Comprehensive User Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-notepad-aesthetics-choosing-windows-11s-themes-and-typefaces/"><u>Mastering Notepad Aesthetics: Choosing Windows 11'S Themes & Typefaces</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/mastering-video-editing-replacing-audio-tracks-a-comprehensive-guide-part-1/"><u>Mastering Video Editing Replacing Audio Tracks - A Comprehensive Guide (Part 1)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-past-windows-11s-s-mode-lockdown/"><u>Navigating Past Windows 11'S 'S Mode' Lockdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/professional-photography-editing-tips-for-isolation/"><u>Professional Photography Editing Tips for Isolation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionizing-workflow-with-7-pinnacle-windows-11-tools/"><u>Revolutionizing Workflow with 7 Pinnacle Windows 11 Tools</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211153864-9781662477058-suicide-is-not-an-option/"><u>Suicide is Not an Option | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-6-fixes-for-windows-display-troubles/"><u>Top 6 Fixes for Windows Display Troubles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-calendar-viewing-experience-with-windows-outlook-tips/"><u>Transform Your Calendar Viewing Experience with Windows Outlook Tips</u></a></li>
+</ul></div>
 

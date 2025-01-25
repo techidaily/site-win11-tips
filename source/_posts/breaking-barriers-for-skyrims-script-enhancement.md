@@ -1,7 +1,7 @@
 ---
 title: Breaking Barriers for Skyrim's Script Enhancement
-date: 2024-07-29T08:13:18.273Z
-updated: 2024-07-30T08:13:18.273Z
+date: 2025-01-17T22:53:08.409Z
+updated: 2025-01-24T23:29:56.465Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 
  In this article, we will discuss different fixes you can apply to make the Skyrim Script Extender work again.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Are You Using a Cracked Version of Skyrim?
 
  If you have been playing Skyrim with a cracked or illegitimate version, the fixes below won't help. If that's the case, get a legitimate copy, and the problem may disappear. However, if you are using a genuine version and experiencing this issue, you should begin applying the fixes.
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 
  So, if the problem has occurred after enabling a new mod, disable it and run the tool again. If disabling it fixes the problem, delete the mod, including files in its installation folder. Nonetheless, if the problem has occurred randomly, try enabling and disabling each mod separately to rule out any mod-related problems.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run SKSE as an Administrator
 
  By running SKSE as an administrator, you eliminate any possibility of your operating system restricting the tool's access to system files, preventing it from working correctly. You can run the tool as an administrator by right-clicking on its executable file and clicking**Run as administrator.**
@@ -49,19 +43,22 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 1. Launch Steam.
 2. Go to the**Steam Library** .
 3. Right-click on Skyrim and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Opening the Properties of Skyrim Game in the Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2-Opening-the-Properties-of-Skyrim-Game-in-the-Steam.jpg)
 4. In the left sidebar, click**Local Files** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the right pane, click**Verify integrity of game files** .  
 ![Clicking on the Verify Integrity of Game Files under Local Files of Properties Window of a Game in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/3-Clicking-on-the-Verify-Integrity-of-Game-Files-under-Local-Files-of-Properties-Window-of-a-Game-in-Steam.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If an integrity check fails to fix the problem, ensure the compatibility issue is not the cause.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Rule Out Compatibility Issues
 
  Just like running an incompatible mod can lead to SKSE not working correctly, the same can be said about running SKSE with an incompatible game version. Follow these steps to rule out this possibility:
@@ -71,17 +68,11 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 2. Find the game's executable file.
 3. Right-click it, then select**Properties** .
 4. Note the game version under the**Details** tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Checking Product Version in the Details Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Checking-Product-Version-in-the-Details-Tab-of-Properties-Window.jpg)
 5. Visit the[SKSE downloads page](https://skse.silverlock.org/) and compare the build you're using with the game version.
 
  If the SKSE's build is compatible with the game version, you can move on to the next fix. Otherwise, download the compatible build to resolve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Stop Skyrim From Automatically Updating
 
  If downloading the compatible version of SKSE fixes the problem, be sure to stop Skyrim from automatically updating to avoid encountering incompatibility issues again. Follow these steps to halt Skyrim's automatic updates:
@@ -89,15 +80,26 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 1. Open Steam.
 2. Go to the**Steam Library** tab.
 3. Right-click on**Skyrim** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Opening the Properties of Skyrim Game in the Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/6-Opening-the-Properties-of-Skyrim-Game-in-the-Steam.jpg)
 4. On the left sidebar, click the**Updates** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**Only update this game when I launch it** from the**Automatic Updates** dropdown.  
 ![Selecting the Only Update This Game When I Launch It Option From the Automatic Updates Dropdown in the Updates Settings of a Game in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Selecting-the-Only-Update-This-Game-When-I-Launch-It-Option-From-the-Automatic-Updates-Dropdown-in-the-Updates-Settings-of-a-Game-in-Steam.jpg)
 6. In the**Background Downloads** dropdown menu, select**Never allow background downloads** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Selecting the Never Allow Background Downloads Option from the Background Downloads Dropdown Menu in Updates Settings of a Game in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/8-Selecting-the-Never-Allow-Background-Downloads-Option-from-the-Background-Downloads-Dropdown-Menu-in-Updates-Settings-of-a-Game-in-Steam.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Having set the automatic updates to start only when Skyrim is launched, you should never launch the game from Steam again. Doing so may result in the game being updated again, making it incompatible with your current SKSE build. Therefore, you should launch the game with SKSE itself or through a mod organizer.
 
@@ -122,11 +124,12 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 ![Copying the Game Folder by Right-clicking on the Skyrim Game Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/9-Copying-the-Game-Folder-by-Right-clicking-on-the-Skyrim-Game-Folder-in-Windows-File-Explorer.jpg)
 3. Paste the game files to another location on your computer. You can also use one of the methods in our guide on[how to back up Windows data to the cloud](https://www.makeuseof.com/tag/backup-windows-computer-cloud/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. When the compatibility issue arises after an update, go back to the backup location and replace the original game folder in the Steam directory with that backup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Ensure That the Firewalls or Antivirus Aren’t Interfering
 
  Because SKSE directly alters game files, it's common for your antivirus or Windows Defender firewall to consider it a threat. It may result in your firewall or antivirus program interfering with the communication process between SKSE and the game.
@@ -138,20 +141,18 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
  If none of the fixes worked, you should reinstall Steam. Make sure you don't install it on the same drive as your operating system. The reason is that Windows security prevents SKSE from modifying game files, thereby blocking communication. Reinstall Steam in a different location; hopefully, doing so will fix the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try Your New Mods With SKSE64
 
  It can be genuinely deflating when Skyrim Script Extender fails to work when we are all set to try a newly released mod. Hopefully, applying the fixes discussed in this article will fix SKSE64 and allow you to enjoy your new mod. There is no doubt that mods can breathe new life into games, so it is worth trying them out.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +161,22 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-lava-blaze-2-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Lava Blaze 2 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/advanced-horizon-pro-exclusive-nextjs-and-tailwind-css-framework-at-creative-tim/"><u>Advanced Horizon PRO: Exclusive NextJS & Tailwind CSS Framework at Creative Tim</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/erase-microsoft-defender-record-trail-windows-edition-guide/"><u>Erase Microsoft Defender Record Trail: Windows Edition Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-audacitys-unresponsive-error-in-win-oses/"><u>Guiding Through Audacity's Unresponsive Error in Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-and-fix-windows-operating-pause-issues/"><u>How to Stop and Fix Windows Operating Pause Issues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oneplus-open-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For OnePlus Open</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-x-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone X to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-6s-plus-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 6s Plus Properly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-microsofts-artificomedial-intelligence-hub/"><u>Navigating Through Microsoft's Artificomedial Intelligence Hub</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-update-tutorial-for-your-logitech-g502-controller-mouse/"><u>Quick Update Tutorial for Your Logitech G502 Controller Mouse</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-m365-error-code-30015-26-on-computers/"><u>Steps to Correct M365 Error Code 30015-26 on Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-error-0x8007251d-in-microsofts-activation-process/"><u>Tackling Error 0X8007251D in Microsoft's Activation Process</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-performance-analysis-the-impressive-capabilities-of-the-netgear-nighthawk-c7000-wireless-router/"><u>Top Performance Analysis: The Impressive Capabilities of the Netgear Nighthawk C7000 Wireless Router</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-facebooks-openness-portal-a-guide-to-platform-clarity/"><u>Unveiling Facebook's Openness Portal: A Guide to Platform Clarity</u></a></li>
+</ul></div>
 

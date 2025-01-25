@@ -1,7 +1,7 @@
 ---
 title: Examining Windows 11 Widgets - Enhancement or Overkill?
-date: 2025-01-12T16:44:55.902Z
-updated: 2025-01-18T17:01:56.364Z
+date: 2025-01-19T01:03:45.602Z
+updated: 2025-01-24T22:46:36.819Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are Widgets on Windows 11?
@@ -36,12 +36,16 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 ![Windows 11 widgets sliding-in from the left of the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-11-Widgets-Screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Widgets are essentially a minified version of apps and services that are already set up on your Windows 11 system. They allow you to quickly glance over things that matter to you, like stocks, news, weather, and sports, without opening each app or website individually.
 
  The weather widget you use will be an extension of Microsoft Weather. Similarly, the news widget will be powered by various news feeds globally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Widgets Can I Add to Windows 11?
 
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
  Of course, everyone's use cases are different, so the widgets you may find interesting may be different from the ones I listed here and vice versa.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Pros and Cons of Using Widgets on Windows
 
  Fortunately, you don’t need special skills to set up widgets on Windows 11\. It’s a simple point-and-click exercise, and you can start by checking out [how to add widgets to the Windows 11 desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  More importantly, the widgets panel isn’t very convenient. It has a clunky design, and I personally would find widgets more helpful if I could pin them to my desktop. Fortunately, you can use a [third-party app to pin widgets to the desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
  Widgets are certainly a step in the right direction, but [Microsoft can improve upon Windows 11's widgets](https://www.makeuseof.com/ways-microsoft-improve-windows-11-widgets/) to make them more accessible and useful for us all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our Verdict: Are Windows 11's Widgets Worth It?
@@ -96,18 +96,24 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-drift-into-drone-fun-kid-and-novice-guide-for-2024/"><u>[Updated] Drift Into Drone Fun Kid and Novice Guide for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-must-know-youtube-directives-for-successful-channels/"><u>[Updated] Must-Know YouTube Directives for Successful Channels</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-elite-edits-premier-4k-display-options-for-videographers/"><u>2024 Approved Elite Edits Premier 4K Display Options for Videographers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-motorola-moto-g34-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Motorola Moto G34 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customization-strategies-altering-functional-keys-in-windows-1011/"><u>Customization Strategies: Altering Functional Keys in Windows 10/11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-advanced-computer-innovations-trusted-recommendations-from-toms-technology-hub/"><u>Discover Advanced Computer Innovations - Trusted Recommendations From Tom's Technology Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-using-extra-monitors-without-graphic-chipset/"><u>Guide to Using Extra Monitors Without Graphic Chipset</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-charting-the-course-to-prodigy-status-for-ajey-carryminati/"><u>In 2024, Charting the Course to Prodigy Status for Ajey (CarryMinati)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/portraying-paradoxes-effects-for-time-travel-films/"><u>Portraying Paradoxes Effects for Time Travel Films</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-fixing-fall-guys-freezes-and-lag-issues-in-pc-version/"><u>Solved: Fixing 'Fall Guys' Freezes and Lag Issues in PC Version</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-the-asus-clickpad-driver-for-your-windows-machine/"><u>Step-by-Step Guide to Downloading the ASUS Clickpad Driver for Your Windows Machine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-geforce-now-error-xc0f1103f-in-windows-11/"><u>Steps to Resolve GeForce Now Error Xc0f1103f in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-virtualization-potential-with-hyper-v-on-windows-11/"><u>Unleash Virtualization Potential with Hyper-V on Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-dark-knight-versus-shining-savior/"><u>[New] 2024 Approved Dark Knight Versus Shining Savior</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-e-identity-revamp-personal-cartoon-character-blueprint/"><u>[New] E-Identity Revamp Personal Cartoon Character Blueprint</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-deep-dive-into-polarr-photo-editor-comprehensive-review/"><u>[New] In 2024, Deep Dive Into Polarr Photo Editor Comprehensive Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-highlights-download-methods-and-creating-tips/"><u>[New] Instagram Highlights Download Methods and Creating Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-strategic-use-of-twitters-wayback-machine-features/"><u>[Updated] Strategic Use of Twitter's Wayback Machine Features</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/4-reasons-why-you-should-learn-a-language-in-your-fifties-50s-sixties-60s-seventies-70s-and-beyond/"><u>4 Reasons Why You Should Learn a Language in Your Fifties (50S), Sixties (60S), Seventies (70S) & Beyond</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confronting-the-unusual-windows-pink-flash-error/"><u>Confronting the Unusual WINDOWS Pink Flash Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-windows-user-sign-in-overcoming-failures/"><u>Enabling Windows User Sign-In: Overcoming Failures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-steps-for-silent-iphones-receiving-calls/"><u>Essential Troubleshooting Steps for Silent iPhones Receiving Calls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-windows-11-to-efficiently-handle-media-content/"><u>Guiding Windows 11 to Efficiently Handle Media Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fixes-tackling-windows-services-non-responsiveness-error-1053/"><u>Immediate Fixes: Tackling Windows Services Non-Responsiveness (Error 1053)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-tackle-intermittent-fb-reels-display/"><u>In 2024, Tackle Intermittent FB Reels Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lost-audio-reconnect-windows-microphone-to-work-in-google-meet/"><u>Lost Audio? Reconnect Windows Microphone to Work in Google Meet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-how-to-overcome-error-code-0x80072efd-in-win1110/"><u>Mastering How to Overcome Error Code 0X80072EFD in Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-video-modelling-essentials-in-the-win11-app-collection/"><u>Pro Video Modelling Essentials in the Win11 App Collection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-windows-error-zerosevenzeronine/"><u>Remedy for Windows Error ZeroSevenZeroNine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-synergy-of-win-credentials-with-ms-online-identity/"><u>Seamless Synergy of WIN Credentials with MS Online Identity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ate-leaderboard-locator-youtubes-most-pop-videos/"><u>Ultimate Leaderboard Locator YouTube's Most Pop Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oppo-a78-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo A78 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

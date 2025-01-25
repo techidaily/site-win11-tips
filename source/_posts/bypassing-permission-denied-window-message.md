@@ -1,7 +1,7 @@
 ---
 title: Bypassing Permission Denied Window Message
-date: 2024-07-29T08:12:35.157Z
-updated: 2024-07-30T08:12:35.157Z
+date: 2025-01-21T16:25:57.187Z
+updated: 2025-01-24T20:39:58.805Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
  How can we determine what is causing this error and fix it? In this article, we'll examine the reasons behind this error and suggest fixes to prevent it from occurring again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Why Does the “You Don’t Have Permission to Access / On This Server” Error Occur?
 
  The major causes of the "you don't have permission to access / on this server" include a server-side issue with the website you are trying to access, interference from the browser's cache and cookies, a website not being accessible in your geographical location, an interference from your ISP or merely using a proxy server on your Windows device.
@@ -52,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
  If the above preliminary checks do not help, proceed to the main fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix Browser-Specific Issues
 
  If switching browsers resolves the error, indicating a browser-specific issue, apply the following fixes:
@@ -60,20 +61,18 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
 ![an image showing a processing progress bar, an hourglass and cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Manually-and-Automatically-Clear-Browser-History-Featured.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Faithie/Depositphotos
 
  Piled-up browsing history and cache overflow could be the primary causes of the error we're discussing. Thus, to fix the "you don't have permission to access / on this server" error, you should first clear your browser's browsing history, cache, and cookies.
 
  We have guides on clearing browsing data in[Chrome](https://www.makeuseof.com/clear-browsing-data-google-chrome/) ,[Firefox](https://www.makeuseof.com/clear-cache-firefox/) , and[Edge](https://www.makeuseof.com/how-to-clear-microsoft-edge-cache-browsing-data/) . When clearing the data, check the boxes for cache and cookies too. If you're using another browser, refer to its official website for instructions about cleaning it up.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### 2\. Reset Your Browser
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
 
  Did you recently change your browser settings and then encounter the error? If so, you should revert the changes. To do this, you should reset your browser. A browser reset restores all customizations and changes to the default.
@@ -84,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
  If changing the network connection fixes the problem on your device, and you want to use your primary network, then apply these fixes:
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Disable or Enable Your VPN
 
  First, ensure that the website's server hasn't blocked your IP address. Enabling a VPN connection is the best way to do this. With a VPN connection, you can mask your real IP address, which might be blocked on the website where this error occurs. It also helps you eliminate the possibility of specific content being unavailable in your area.
@@ -96,21 +92,20 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 Proceed to the next step if either of these changes does not help.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Change Your DNS
 
  Sometimes your ISP blocks you from accessing certain types of web content. If the site you're accessing also falls under the blocked content, you'll likely encounter errors. Changing your DNS can help eliminate this possibility. If you're unfamiliar with the process, check out[our guide on how to change DNS in Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Disable Any Proxy Servers You Are Using
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![storage servers placed on top of one another in a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/storage-servers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Do you prefer to browse the web privately and always keep your proxy server on at all times? If so, the proxy server could be causing the interference. The best way to determine whether this is the case is to disable it and see if it fixes the issue. Our guide explains[how to turn off or disable the proxy setting](https://www.makeuseof.com/windows-11-disable-proxy/) if you've never done it before.
 
@@ -118,18 +113,19 @@ Proceed to the next step if either of these changes does not help.
 
  The Windows firewall or antivirus can prevent you from accessing specific URLs. To prevent that from happening, whitelist the browser in firewall settings. Don't know where to begin? Check out our guide on[how to whitelist any app through a Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix Annoying Browser Errors on Windows
 
  Random errors can upset us when accessing our favorite content. Hopefully, after applying the fixes in this article, you should be able to fix the annoying "you don't have permission to access / on this server" error. If the error persists on your default browser, you should switch to another browser and make it your default.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +134,20 @@ Proceed to the next step if either of these changes does not help.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-leading-edge-social-media-movie-batch/"><u>[New] 2024 Approved Leading Edge Social Media Movie Batch</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-5-tools-for-enhancing-web-videos/"><u>[Updated] Top 5 Tools for Enhancing Web Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-mastery-essential-steps-for-sdr-to-hdr-upconversion/"><u>2024 Approved HDR Mastery Essential Steps for SDR-to-HDR Upconversion</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-silence-turn-off-controller-shakes-xbox/"><u>Game on, Silence: Turn Off Controller Shakes Xbox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-image-capture-fail-in-windows-os/"><u>How to Address Image Capture Fail in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-unresponsive-windows-folders-double-clicked/"><u>How to Rectify Unresponsive Windows Folders, Double-Clicked</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailor-made-tunes-for-chrome-companions/"><u>In 2024, Tailor-Made Tunes for Chrome Companions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-rgb-settings-in-windows-11/"><u>Master RGB Settings in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-display-issues-windows-11-tech-tips/"><u>Reviving Display Issues: Windows 11 Tech Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-persistent-steam-stalls-tips-for-smooth-gameplay/"><u>Solving Persistent Steam Stalls: Tips for Smooth Gameplay</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-tutorial-on-acquiring-asus-wireless-adapter-drivers/"><u>The Ultimate Tutorial on Acquiring ASUS Wireless Adapter Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-potential-with-these-10-windows-powertoy-features/"><u>Unleash Potential with These 10 Windows PowerToy Features</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bringing More to the Table: Reimagining Windows 11'S Widget Framework"
-date: 2024-07-29T08:10:48.321Z
-updated: 2024-07-30T08:10:48.321Z
+date: 2025-01-19T20:41:59.640Z
+updated: 2025-01-24T18:43:21.692Z
 tags:
   - windows10
   - windows11
@@ -21,17 +21,11 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
  In this article, we are putting together a list of features Microsoft adds to Widgets capability to make it even more personalized and usable for users.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Allow Users to Open the Widgets Panel From the Right Side
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![Windows 11 widgets sliding-in from the left of the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-11-Widgets-Screen.jpg)
 
  If you have Widgets enabled on Windows 11 taskbar, you will notice that the panel opens from the left side of your screen. This should not be the only option. It would be nice to see Windows 11 showing Widgets on the right side of the display, just like in macOS. However, Microsoft should keep both left and right-opening options and not replace one with the other.
@@ -40,11 +34,12 @@ No advertising on the website.
 
  Widgets in Windows 11 will be far more customizable with these simple changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Turn Off the Ability to Open the Widgets Panel on Mouse Hover
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot showing Widgets panel openning on Mouse hover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mouse-hover.jpg)
 
  The Widgets experience is enabled by default in Windows 11\. To open it, you can hover your mouse over the Widgets icon. A mouse hover is arguably the simplest method of displaying the Widgets panel. However, it can be inconvenient at times.
@@ -52,6 +47,10 @@ No advertising on the website.
  The Widgets icon is placed right beside the**Start** button in the Taskbar. And when trying to click the**Start** , you might end up accidentally hovering your mouse over the Widgets icon, thus opening the Widgets board even though you didn't want to. To address this issue, Microsoft should modify the behavior and add the ability to turn off the mouse hover gesture for Widgets. Windows 11 can offer a clickable Widgets icon in the taskbar as an alternative to mouse hover.
 
  Again, Microsoft should keep the mouse hover and click option for the Widgets icon to give users more control over the functionality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Allow Windows 11 Users to Turn Off the News Section in Widgets Panel
 
@@ -61,13 +60,13 @@ No advertising on the website.
 
  However, not everyone wants to be a news junkie. And even if you are someone who keeps a close eye on what's happening around the world, you may not always want the panel to fill with news content. Either way, Microsoft should add the ability to turn off the news article section. If it is not possible to permanently turn off the news section, there needs to be a way to disable it for a few minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 4\. Add More Widgets to the Widgets Board
 
 ![Screenshot showing Windows 11 Widgets panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-widgets.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft recently added support for third-party widgets in Windows 11\. Companies like Meta and Spotify have already introduced their widgets to the operating system after Microsoft added third-party support.
 
@@ -79,14 +78,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Meanwhile, you can[pin your favorite widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) using a third-party app called Widget Launcher.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Add Multi-Account Support to the Widgets Panel
 
  You can use widgets with or without signing into the Widgets Panel with your Microsoft account. However, it does not support multi-account.
 
  A Widgets Panel with support for multi-account would mean that you can seamlessly switch between different accounts in the Widgets board whenever you like. Each account will offer you a unique Widgets panel, as you can personalize each differently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Allow Users to Change the Default Browser for Widgets
 
@@ -94,9 +94,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  To offer greater flexibility, Microsoft should allow users to change the default browser for Widgets. Here is our guide on[changing the default browser on Windows 11](https://www.makeuseof.com/windows-11-change-default-browser/) if you are unfamiliar with the steps.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 8\. Fixing Bugs And Improving Reliability
 
  The Widgets experience in Windows 11 won't be satisfactory if it is buggy and unreliable. All the efforts Microsoft puts into making Widgets more customizable and feature-rich will go in vain if the company does not address bugs promptly. The software giant must address bugs in Widgets as early as possible besides continuing its work towards adding new features, thus ensuring a more reliable experience.
@@ -111,14 +108,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  However, all the improvements should not come at the expense of increased background activity, thus lowering performance. New features in Widgets should not impact the fluidity and smoothness of the experience.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +121,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ramecraft-videocutter-for-2024/"><u>[New] FrameCraft VideoCutter for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-visual-wit-workshop-make-memes-with-kapwing/"><u>[Updated] Visual Wit Workshop Make Memes with Kapwing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-the-iphones-full-potential-with-10-composition-principles/"><u>2024 Approved Unleashing the iPhone's Full Potential with 10 Composition Principles</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-iphone-wont-connect-to-itunes-on-windows-11-solutions-guide/"><u>Fix: IPhone Won't Connect to iTunes on Windows 11 - Solutions Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-principles-for-activating-windows-11s-higher-power/"><u>Guiding Principles for Activating Windows 11'S Higher Power</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-enhancing-film-aesthetics-with-luts-technology/"><u>In 2024, Enhancing Film Aesthetics with Luts Technology</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s18-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S18 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/manipulate-your-search-and-highlight-settings-in-windows-11/"><u>Manipulate Your Search & Highlight Settings in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-your-pc-choose-best-timeclock-saver-apps/"><u>Speed Up Your PC: Choose Best Time/Clock Saver Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-fixes-for-flapping-windows-task-timer/"><u>Swift Fixes for Flapping Windows Task Timer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-10-fixes-reconnect-your-controller-with-steam-on-pc/"><u>Top 10 Fixes: Reconnect Your Controller with Steam on PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978662616-update-your-nvidia-quadro-rtx-n-to-latest-version-with-these-easy-steps-driver-downloads-included/"><u>Update Your NVIDIA Quadro RTX N to Latest Version with These Easy Steps - Driver Downloads Included</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-on-your-iphoneipad-the-ultimate-downloading-guide/"><u>Youtube on Your iPhone/iPad The Ultimate Downloading Guide</u></a></li>
+</ul></div>
 

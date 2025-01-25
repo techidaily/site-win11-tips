@@ -1,7 +1,7 @@
 ---
 title: Bridging Tasks & Power in Win11 Shortcut Setup
-date: 2024-07-29T08:13:34.704Z
-updated: 2024-07-30T08:13:34.704Z
+date: 2025-01-18T19:26:23.845Z
+updated: 2025-01-24T18:18:03.549Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
  So, let's look at how to add these quick shortcuts to your Windows menu. Let's get started!
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Adding Shortcuts Next to Power Buttons
 
  If you look at the default Windows 11 Start Menu, you'll find the area next to the Power Button empty. While a clean, clutter-free design is undoubtedly desirable, adding folder shortcuts will improve your PC's functionality.
@@ -36,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
  However, you can only add specific icons beside the Power Button. They are**Settings** ,**File Explorer** ,**Documents** ,**Downloads** ,**Music** ,**Pictures** ,**Videos** ,**Network** , and**Personal folder** . Moreover, the small size of the Start menu itself can make things congested if you try and add all nine shortcuts at once. Other than this, the Start menu shortcut is a handy tool.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Shortcuts Next to Power Buttons on Windows 11
 
  Now that we've peeked into the benefits of adding shortcuts next to Power Buttons on Windows 11, let's look at how you can do it as well.
@@ -51,36 +53,35 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 
  You'll see a total of nine icons that you can add to your Start menu. Toggle the switch for all the icons you want to add next to the Power button.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![folders section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/folders-section.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As soon as you toggle on the switch, new icons of the respective folders will appear next to your Power button menu.
 
  For instance, in this example, we'll toggle on the switches for**File Explorer** ,**Documents** , and**Music** folder. This is how your customized Windows 11 Start menu will look like:
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows 11 start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding Shortcuts Next to Power Buttons on Windows 11
 
  And that's how you can easily tweak your Start menu and drop in shortcuts next to the Power button on your Windows. After you've made the changes, make sure you verify it by clicking on the Start menu.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -89,4 +90,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-versus-tiktok-whats-the-real-difference/"><u>[New] In 2024, Snapchat Versus TikTok What's The Real Difference?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-optimal-and-economical-selecting-the-top-free-webm-playback-options/"><u>[New] Optimal and Economical Selecting the Top Free WebM Playback Options</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-12-no-cost-high-end-video-apps-for-seamless-viewing-experience-pc-and-tabletsmartphone-for-2024/"><u>[New] Top 12 No-Cost High-End Video Apps for Seamless Viewing Experience (PC & Tablet/Smartphone) for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-standard-pixels-to-dynamic-range-extremes-a-transformation-journey/"><u>[Updated] From Standard Pixels to Dynamic Range Extremes A Transformation Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-the-power-of-youtube-shorts-expert-filming-and-editing-techniques/"><u>[Updated] In 2024, Harness the Power of YouTube Shorts Expert Filming and Editing Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-pc-experience-through-win-pct-techniques/"><u>Enhance Your PC Experience Through Win PCT Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-windows-11-audio-recording/"><u>Essential Tips for Windows 11 Audio Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-quieting-windows-folder-interaction/"><u>Guide to Quieting Windows Folder Interaction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-your-wireless-mouse-work-again-in-windows-world/"><u>Making Your Wireless Mouse Work Again in Windows World</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-10-popular-cartoon-characters-that-should-top-your-list-2023-updated/"><u>New 2024 Approved 10 Popular Cartoon Characters That Should Top Your List 2023 Updated</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/simplified-setup-for-long-lasting-performance-inside-the-acurite-pro-weather-station-01036m-analysis/"><u>Simplified Setup for Long-Lasting Performance - Inside the AcuRite Pro Weather Station 01036M Analysis</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-quintessential-ten-hexa-flights-for-2024/"><u>The Quintessential Ten Hexa-Flights for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-photo-flexibility-6-techniques-for-images-on-windows-11/"><u>Unlock Photo Flexibility: 6 Techniques for Images on Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nubia-red-magic-9-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nubia Red Magic 9 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+</ul></div>
 

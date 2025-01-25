@@ -1,7 +1,7 @@
 ---
 title: Navigational Tools for Locating Program Storage on PC
-date: 2025-01-13T17:55:56.561Z
-updated: 2025-01-18T16:58:08.488Z
+date: 2025-01-18T22:59:12.956Z
+updated: 2025-01-24T16:21:10.223Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Find the Location of a Program Using the Start Menu
 
  One of the easiest methods of finding the install location of a program is through the**Start** menu. Here’s what you need to do:
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 4. You should now be in the installation folder of the program.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Find the Installation Folder of a Program Using Its Desktop Shortcuts
@@ -52,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 3. Click on the**Shortcut** tab, and you will find the installation path in the**Target** field.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Locate the Folder Where a Program Is Installed Using Task Manager
@@ -64,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 1. Launch the**Task Manager** by right-clicking the**Start** menu and selecting**Task Manager** from the context menu.  
 ![task manager details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/task-manager-details.jpg)
 2. Once the Task Manager is up and running, click on the**Details** tab to get a list of all[currently running background processes](https://www.makeuseof.com/windows-pc-too-many-background-processes/) and applications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. After locating the program you need, right-click and then click on**Open file location** .
 4. A new File Explorer window will open up, and you will have found the program's installation directory.
@@ -86,11 +86,11 @@ To find where a program is located using the File Explorer:
 3. Navigate to**Program Files > Program Files (x86)** and then scroll the list of folders until you find one with the program name you’re looking for.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Finding a Program's Install Location Is Easy
@@ -114,24 +114,20 @@ To find where a program is located using the File Explorer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-ultimate-checklist-for-instagram-selfies/"><u>[New] 2024 Approved The Ultimate Checklist for Instagram Selfies</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-boosting-stream-consistency-with-obs-fixes/"><u>[New] In 2024, Boosting Stream Consistency with OBS Fixes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-master-facebook-seo-essential-techniques-to-skyrocket-engagement/"><u>[Updated] Master Facebook SEO Essential Techniques to Skyrocket Engagement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-functionality-of-large-language-models-in-ai-technology/"><u>Decoding the Functionality of Large Language Models in AI Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/design-focused-windows-11-start-menu/"><u>Design-Focused Windows 11 Start Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-fixes-activating-sleeping-wsreset-process/"><u>Effective Fixes: Activating Sleeping WSReset Process</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-steam-cloud-conflicts/"><u>Eradicating Steam Cloud Conflicts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/graphical-integration-with-application-guard-on-edge/"><u>Graphical Integration with Application Guard on Edge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unset-custom-search-rules-in-windows-11/"><u>How to Unset Custom Search Rules in Windows 11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-innovative-listening-techniques-for-students-with-macs/"><u>In 2024, Innovative Listening Techniques for Students with Macs</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-review-discover-the-multifaceted-functions-of-the-samsung-gear-s3-frontier-smartwatch/"><u>In-Depth Review: Discover the Multifaceted Functions of the Samsung Gear S3 Frontier Smartwatch</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/navigate-the-art-of-film-with-xps-easy-tools-for-2024/"><u>Navigate the Art of Film with XP's Easy Tools for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-setup-for-steam-deck/"><u>Navigate Through Windows Setup for Steam Deck</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventive-measures-against-windows-notepad-freezes/"><u>Preventive Measures Against Windows Notepad Freezes</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-fall-guys-starter-problems-a-comprehensive-troubleshooting-tutorial/"><u>Solving Fall Guys Starter Problems – A Comprehensive Troubleshooting Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-covert-world-hiding-wi-fi-signals-in-windows/"><u>The Covert World: Hiding Wi-Fi Signals in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-for-win-based-file-conversions/"><u>The Ultimate Guide for Win-Based File Conversions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-correcting-malfunctioned-read-aloud-feature-in-office-suite/"><u>Tips & Tricks: Correcting Malfunctioned Read Aloud Feature in Office Suite</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/transform-your-videography-youtubes-secret-to-stunning-greenscreens/"><u>Transform Your Videography YouTube's Secret to Stunning Greenscreens</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/alternate-escapades-where-the-gta-v-lives-are-missing-for-2024/"><u>Alternate Escapades - Where the GTA V Lives Are Missing for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/critical-review-of-samsungs-digital-photography-advancements/"><u>Critical Review of Samsung's Digital Photography Advancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-browser-memory-top-7-eco-friendly-alternatives-unveiled/"><u>Decoding Browser Memory: Top 7 Eco-Friendly Alternatives Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-error-code-microsoft-marketplace-0x80131500/"><u>Disabling Error Code: Microsoft Marketplace #0X80131500</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-tutorial-on-transforming-your-youtube-content-using-factorypro-software/"><u>Easy Tutorial on Transforming Your YouTube Content Using FactoryPro Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-code-0x800f0831-error-in-modern-windows/"><u>Fixing Code 0X800F0831 Error in Modern Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/next-gen-broadcast-tools-outperforming-streamlabs-obs-for-2024/"><u>Next-Gen Broadcast Tools Outperforming StreamLabs OBS for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-how-to-repair-a-nonfunctional-astro-a20-microphone/"><u>Quick Solutions: How to Repair a Nonfunctional Astro A20 Microphone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-to-rejuvenate-your-qbittorrent-status/"><u>Quick-Fix Guide to Rejuvenate Your qBittorrent Status</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-remote-play-issue-in-windows/"><u>Resolving Remote Play Issue in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11s-camera-app-crash-code-afc-error/"><u>Resolving Windows 11'S Camera App Crash: Code AFC Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/swiftly-settling-down-after-installer-failure/"><u>Swiftly Settling Down After Installer Failure</u></a></li>
+<li><a href="https://article-posts.techidaily.com/understanding-snapchats-high-value-content/"><u>Understanding Snapchat's High-Value Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-aggregatorhostexe-do-on-windows-os-safety-analysis/"><u>What Does AggregatorHost.exe Do on Windows OS? Safety Analysis</u></a></li>
 </ul></div>
 

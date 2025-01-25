@@ -1,7 +1,7 @@
 ---
 title: Bypassing Permission Errors on Windows Systems
-date: 2024-07-29T08:14:41.506Z
-updated: 2024-07-30T08:14:41.506Z
+date: 2025-01-22T17:50:22.700Z
+updated: 2025-01-24T19:30:31.850Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ec
 
  To fix the "you don't have permission to access / on this server" issue on your browser, you need to clear the browser's cache and cookies, enable or disable a VPN, change the DNS, delete your browser history, or disable any proxy network you're using. There may also be a need to reset or reinstall the browser if the major fixes do not work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## First, Rule Out Server-Side Issues
 
  First, you should verify that the problem isn't coming from the server that hosts the website or webpage you're trying to access. To eliminate this possibility, use another browser on your device and try accessing the website again.
@@ -39,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ec
  Once you're confident there is no server-side issue, apply the appropriate fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Next, Apply Preliminary Checks
 
  First, apply the following preliminary checks before attempting any of the fixes below:
@@ -52,15 +57,16 @@ thumbnail: https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ec
 
  If the above preliminary checks do not help, proceed to the main fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix Browser-Specific Issues
 
  If switching browsers resolves the error, indicating a browser-specific issue, apply the following fixes:
 
 ### 1\. Clear the History, Cache, and Cookies on Your Browser
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![an image showing a processing progress bar, an hourglass and cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Manually-and-Automatically-Clear-Browser-History-Featured.jpg)
 
  Image Credit: Faithie/Depositphotos
@@ -70,8 +76,9 @@ thumbnail: https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ec
  We have guides on clearing browsing data in[Chrome](https://www.makeuseof.com/clear-browsing-data-google-chrome/) ,[Firefox](https://www.makeuseof.com/clear-cache-firefox/) , and[Edge](https://www.makeuseof.com/how-to-clear-microsoft-edge-cache-browsing-data/) . When clearing the data, check the boxes for cache and cookies too. If you're using another browser, refer to its official website for instructions about cleaning it up.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Reset Your Browser
 
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
@@ -92,44 +99,33 @@ thumbnail: https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ec
 
 Proceed to the next step if either of these changes does not help.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### 2\. Change Your DNS
 
  Sometimes your ISP blocks you from accessing certain types of web content. If the site you're accessing also falls under the blocked content, you'll likely encounter errors. Changing your DNS can help eliminate this possibility. If you're unfamiliar with the process, check out[our guide on how to change DNS in Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) .
 
 ### 3\. Disable Any Proxy Servers You Are Using
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![storage servers placed on top of one another in a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/storage-servers.jpg)
 
  Do you prefer to browse the web privately and always keep your proxy server on at all times? If so, the proxy server could be causing the interference. The best way to determine whether this is the case is to disable it and see if it fixes the issue. Our guide explains[how to turn off or disable the proxy setting](https://www.makeuseof.com/windows-11-disable-proxy/) if you've never done it before.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ensure the Firewall Isn't Causing the Problem
 
  The Windows firewall or antivirus can prevent you from accessing specific URLs. To prevent that from happening, whitelist the browser in firewall settings. Don't know where to begin? Check out our guide on[how to whitelist any app through a Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix Annoying Browser Errors on Windows
 
  Random errors can upset us when accessing our favorite content. Hopefully, after applying the fixes in this article, you should be able to fix the annoying "you don't have permission to access / on this server" error. If the error persists on your default browser, you should switch to another browser and make it your default.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +134,22 @@ Proceed to the next step if either of these changes does not help.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-data-oasis-explorers-discovering-best-cloud-services/"><u>[Updated] 2024 Approved Data Oasis Explorers Discovering Best Cloud Services</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-innovative-iphone-close-up-tips-for-astounding-photos/"><u>2024 Approved Innovative iPhone Close-Up Tips for Astounding Photos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asrock-ab350-pro4-secure-free-driver-download-and-installation-guide-for-windows-users/"><u>ASRock AB350 Pro4: Secure Free Driver Download & Installation Guide for Windows Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/oduction-strategies-for-online-content-proliferation-for-2024/"><u>Co-Production Strategies for Online Content Proliferation for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deactivating-sleep-on-new-windows-keys-and-mice/"><u>Deactivating Sleep on New Windows: Keys & Mice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discerning-intel-processor-generation-using-windows-tactics/"><u>Discerning Intel Processor Generation Using Windows Tactics</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-correct-semaphore-timeout-issue-error-0x80l0079/"><u>How to Troubleshoot and Correct Semaphore Timeout Issue (Error 0X80L0079)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-surface-computers-latest-firmware-updates/"><u>Navigating Surface Computers' Latest Firmware Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-solving-cannot-read-from-disk-in-win1110/"><u>Quick Guide: Solving 'Cannot Read From Disk' In Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-default-energy-management-in-win-11/"><u>Re-Establishing Default Energy Management in Win 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722773801949-stay-motivated-with-fitbit-versa-3s-inbuilt-gps-and-comprehensive-health-apps/"><u>Stay Motivated with Fitbit Versa 3'S Inbuilt GPS & Comprehensive Health Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-shadows-reversing-a-devices-dark-mode/"><u>Switching Shadows: Reversing a Device's Dark Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-unseen-power-button-mastering-windows-11-discretion/"><u>The Unseen Power Button: Mastering Windows 11 Discretion</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/troubleshooting-sony-a6400-lost-video-viewing/"><u>Troubleshooting Sony A6400 Lost Video Viewing</u></a></li>
+</ul></div>
 

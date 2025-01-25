@@ -1,7 +1,7 @@
 ---
 title: "How to Add the D: Drive to File Explorer's Navigation Pane"
-date: 2025-01-11T18:27:46.046Z
-updated: 2025-01-18T18:32:07.276Z
+date: 2025-01-22T00:29:49.296Z
+updated: 2025-01-24T21:36:22.653Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before You Proceed…
 
  We are going to [create a Registry file](https://www.makeuseof.com/windows-registry-file-guide/) to add the D: drive to the Navigation Pane. This file will make changes to the Windows registry, and you need to be careful [not to mess up the Windows Registry](https://www.makeuseof.com/tag/not-accidentally-mess-windows-registry/). A slip-up could make Windows unusable.
@@ -30,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
  Furthermore, we highly recommend that you learn how to [back up and restore the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/). That way, you have a way of returning it to the state it was in before you made any changes that broke it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Add the D: Drive to the Navigation Pane in File Explorer?
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ![The Notepad search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/notepad-search-result.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then copy and paste the below text into Notepad:
@@ -83,18 +87,18 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ![saving a registry file in Notepad on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/save-reg-file-add-drive-nav-pane.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, double-click the Registry file you just created and click **Yes** on the UAC prompt. You’ll then be asked if you want to continue with the merge, so click **Yes**. Afterward, press **Win + E** to open File Explorer.
 
 ![the D drive showing in the bottom section of the Navigation pane on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/d-drive-nav-pane.jpg)
 
- The D: drive should now be visible in the bottom part of the Navigation pane.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The D: drive should now be visible in the bottom part of the Navigation pane.
 
 ## How Do I Remove the D: Drive From the Navigation Pane in File Explorer?
 
@@ -111,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Now the D: drive should be gone from the navigation pane in File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create an Easier Way to Access the D: Drive on Your Windows Computer
 
  With this guide, you will remove an extra step when accessing the D: drive on your Windows computer. Once you have created the registry files, adding and removing the D: drive from the Navigation pane will be easy. While the registry files are safe, don’t forget to create a backup of your Registry or a system restore point for good measure.
@@ -129,15 +129,21 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-understanding-youtubes-social-media-protocols/"><u>[Updated] 2024 Approved Understanding YouTube's Social Media Protocols</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-masterful-filmmaking-moves-with-kinemaster/"><u>[Updated] Masterful Filmmaking Moves with Kinemaster</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-optimal-viewing-experience-selecting-between-ultrawide-and-uhd-4k/"><u>[Updated] Optimal Viewing Experience Selecting Between UltraWide and UHD 4K</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Without Passcode?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-pc-query-speed-using-everythingapp/"><u>Optimize PC Query Speed Using EverythingApp</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-xperia-10-v-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Xperia 10 V, is it possible?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/professional-lenses-and-cameras-for-youtubers-for-2024/"><u>Professional Lenses & Cameras for Youtubers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolve-photo-capture-failures-in-windows-os/"><u>Resolve Photo Capture Failures in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-taskbar-utility-adding-directories-to-windows-11-menu/"><u>Transform Taskbar Utility: Adding Directories to Windows 11 Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-chatgpt-integration-steps/"><u>Windows ChatGPT Integration Steps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-converting-youtube-journeys-into-animated-expressions-a-comprehensive-guide-for-mobiledesktop-users/"><u>[Updated] Converting YouTube Journeys Into Animated Expressions A Comprehensive Guide for Mobile/Desktop Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-streamlining-production-processes-a-magix-video-pro-x-perspective/"><u>[Updated] In 2024, Streamlining Production Processes A Magix Video Pro X Perspective</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-laughter-layouts-design-meme-magic-on-kapwing/"><u>[Updated] Laughter Layouts Design Meme Magic on Kapwing</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/cookiebot-enhanced-experience-optimize-your-website-with-cutting-edge-analytics/"><u>Cookiebot-Enhanced Experience: Optimize Your Website with Cutting-Edge Analytics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-disk-space-management-using-windows-autodelete-functionality/"><u>Effective Disk Space Management Using Windows' AutoDelete Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-chromes-incorrect-system-time-windows-wide/"><u>Fixing Chrome's Incorrect System Time Windows-Wide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-live-sound-input-for-obs-on-windows-11/"><u>How to Enable Live Sound Input for OBS on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-14-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone 14 Pro Max</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-y200-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo Y200</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/mastering-torrent-sharing-how-to-install-and-utilize-elementum-burst-alongside-gaia/"><u>Mastering Torrent Sharing: How To Install & Utilize Elementum Burst Alongside Gaia</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-startup-icons-in-task-manager/"><u>Overcoming Missing Startup Icons in Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obscured-wireless-connections-windows/"><u>Overcoming Obscured Wireless Connections Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sham-tech-outsmarted-keep-your-data-secure-from-fakes/"><u>Sham Tech Outsmarted: Keep Your Data Secure From Fakes!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-windows-11-snipping-tool-edits/"><u>The Ultimate Guide to Windows 11 Snipping Tool Edits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-outlook-preview-setup-steps/"><u>Unveiling Windows' Outlook Preview Setup Steps</u></a></li>
 </ul></div>
 

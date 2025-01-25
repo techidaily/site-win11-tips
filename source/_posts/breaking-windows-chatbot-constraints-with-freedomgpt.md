@@ -1,7 +1,7 @@
 ---
 title: Breaking Windows ChatBot Constraints with FreedomGPT
-date: 2024-07-29T08:14:11.704Z
-updated: 2024-07-30T08:14:11.704Z
+date: 2025-01-18T18:57:50.636Z
+updated: 2025-01-24T19:44:28.277Z
 tags:
   - windows10
   - windows11
@@ -35,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
  That's why many companies have forbidden using ChatGPT internally, and why it's generally considered a bad idea to share sensitive information with it.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. OpenAI Sets Limits on How You Use ChatGPT
 
  Are you among those who believe that ChatGPT is getting progressively worse? Does it seem to perform slower than before, and the answers it provides becoming less useful? It's not your imagination.
@@ -48,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
  There are two solutions to those problems you can pay for a subscription, or you can try an alternative like FreedomGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set Up FreedomGPT
 
  FreedomGPT aims to simplify and democratize the use of AI by the masses. Its unbelievably easy installation proves that it could someday achieve that goal.
@@ -71,14 +73,8 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 ![FreedomGPT Available Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-available-model.jpg)
 2. You can store downloaded AI models anywhere. Still, saving them within FreedomGPT's folder or a subfolder is best to keep things tidy.
 3. Even the most compact AI models can be multiple gigabytes in size, so it may take a while to download your chosen model. Fortunately, FreedomGPT will show you a download progress bar.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![FreedomGPT Downloading Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-downloading-model-1.jpg)
 4. Once you've downloaded an AI mode, a new button will appear on the left, allowing you to **Select** which downloaded AI model you'd like to use.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![FreedomGPT AI Model Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-ai-model-selection-1.jpg)
 
 ## How to Chat With FreedomGPT
@@ -86,27 +82,31 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
  Fortunately, if you're familiar with ChatGPT, you'll notice that FreedomGPT's UI is very similar.
 
 1. The first thing you will see after choosing an AI model are some examples of prompts you can try out and information on its capabilities and limitations. If you want to try out one of the example prompts, click on it. However, you can type anything you wish in the input field at the bottom of FreedomGPT's window.  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![FreedomGPT Interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-interface-1.jpg)
 2. Press **Enter** after typing your prompt, and it will show up in FreedomGPT's conversation view. The AI model's response will appear below your prompt. If you don't like how it's going, you can cut a response short by clicking on the **Stop Responding** button, which appears while a reply is produced.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![FreedomGPT Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-chatting-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Switch Models in FreedomGPT
 
  If you want to try another AI model, you don't have to exit and rerun FreedomGPT. You can switch models from within the app.
 
 1. At the top left of FreedomGPT's window is the current AI model's name. Click on it to access the model management panel.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![FreedomGPT Active Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-active-model-1.jpg)
 2. The model management panel is identical to the screen you saw when you first ran FreedomGPT. You can switch to another model from this panel by clicking on **Select** before its name or **Download** and install more models.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![FreedomGPT Switch Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-switch-models-1.jpg)
 
 ## Talk to an AI Whenever You Like With FreedomGPT
@@ -115,11 +115,29 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Unlike ChatGPT, which is only usable through your browser when connected to the internet, FreedomGPT is an alternative you can install on your computer. You can then chat with it about anything you want without sharing your data with others.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-gear-up-with-our-12-tycoon-titles-your-gaming-passport-to-success-for-2024/"><u>[Updated] Gear Up with Our #12 Tycoon Titles - Your Gaming Passport to Success for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-activate-or-deactivate-video-commenting-in-youtube/"><u>[Updated] In 2024, How To Activate or Deactivate Video Commenting in YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-luminances-stand-in-the-hdr-landscape/"><u>[Updated] In 2024, Luminance's Stand in the HDR Landscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/controlling-biometrics-for-domain-admins-on-windows-11/"><u>Controlling Biometrics for Domain Admins on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-underperforming-machines-addressing-intel-hd-specs-issues/"><u>Correcting Underperforming Machines: Addressing Intel HD Specs Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-read-only-windows-file-constraints/"><u>Easing Read-Only Windows File Constraints</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-max-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone 11 Pro Max Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-12plus-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12+ 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefining-user-expectations-in-windows-11/"><u>Redefining User Expectations in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-vanished-5ghz-connection-link-in-windows-11-swiftly/"><u>Restore Vanished 5GHz Connection Link in Windows 11 Swiftly</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-blank-spaces-in-the-windows-11-search-tool/"><u>Tackling Blank Spaces in the Windows 11 Search Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-activatedeactivate-built-in-keyboard-for-windows-10-users/"><u>The Ultimate Guide to Activate/Deactivate Built-In Keyboard for Windows 10 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-your-pcs-boot-process-with-windows-11s-fast-startup-feature/"><u>Turbocharge Your PC's Boot Process With Windows 11'S Fast Startup Feature</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-8-screen-recorders-list/"><u>Ultimate 8 Screen Recorders List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-against-steam-login-time-outs-in-rust-on-pc/"><u>Winning Strategies Against Steam Login Time-Outs in Rust on PC</u></a></li>
+</ul></div>
+

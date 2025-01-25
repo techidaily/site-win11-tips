@@ -1,7 +1,7 @@
 ---
 title: Adjusting Default Screen Saver in Windows 11
-date: 2024-08-08T10:54:16.432Z
-updated: 2024-08-09T10:54:16.432Z
+date: 2025-01-17T18:58:14.932Z
+updated: 2025-01-24T23:22:21.026Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
  But how do you customize these default screensavers? Check out the steps below and get yourself a screensaver that reflects your personality and character.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Customize Windows 11 3D Text and Photos Screensavers with Screen Saver Settings
 
  The Screen Saver Settings window is where you can set your screensaver. It also has a Settings button that'll let you customize them. However, 3D Text and Photos are the only default screensavers for which Windows 11 has some built-in settings.
@@ -33,14 +37,20 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 5. Select the**3D Text** or**Photos** screensaver on the menu.  
 ![The Screen Saver Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screen-saver-settings.jpg)
 6. After selecting one of those two screensavers, you can customize it by pressing the**Settings** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Apply** to set your chosen screensaver.
 
  Clicking**Settings** for 3D Text will bring up a 3D Text Settings window. There you can change the screensaver's text by clicking the**Custom Text** radio button and inputting different text in the box. Or you can choose**Time** to show a 3D digital clock instead. Press the**Font** button to select a different font and style.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The 3D Text Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-text-settings-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Below are some motion settings you can alter to change how the 3D text rotates. Click the**Rotation Type** drop-down menu to choose a different rotation style setting. Drag the**Rotation Bar** slider's left and right to change how quickly the text rotates.
 
@@ -48,21 +58,18 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
  To change the texture of the text, you'll first need to download a BMP texture file from a suitable source (or convert a JPEG file to [Bitmap image format](https://www.makeuseof.com/what-is-a-bitmap-image/) ). Websites like Unsplash, Pixabay, and Freepik have a multitude of texture backgrounds you can download. Click the**Texture** \>**Custom Texture** settings in the 3D Text window. Press the**Choose Texture** button to select your downloaded BMP file.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![The 3D text screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-text-screensaver.jpg)
 
  If you choose the Photos screensaver, clicking its**Settings** button will open a window from which you can change the slideshow's folder and speed. Press the**Browse** button on that window to select a different image folder. Choose a**Fast** ,**Medium** , or**Slow** option on the**Slideshow** **speed** drop-down. Then click**Save** to apply the settings.
 
 ![The Photos screen saver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photos-screensaver-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Wait time** and**On resume** are the only options you can change for the Photos and 3D Text screensavers outside the settings windows. Adjust the**Wait time** value to set a longer or shorter idle activation time for the screensaver. If you prefer to return to a log-in screen after resuming, select the**On resume** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## How to Customize Bubbles, Mystify, and Ribbons with Winaero ScreenSavers Tweaker
 
  Clicking the**Settings** buttons for the Bubbles, Mystify, and Ribbons screensavers in Windows 11 won't open any options for them. To customize those screensavers, download and launch the freeware Winaero Screensaver Tweaker software. That portable app lets you tweak hidden options for Bubbles, Mystify, and Ribbons in Windows platforms dating back to Vista. This is how you can download and launch Winaero Screensaver Tweaker:
@@ -71,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 2. Click the**Download Windows Screensavers** Tweaker link.
 3. Open whatever directory includes the**System\_Screensavers\_Tweaker.zip** file by pressing**Windows key** +**E** and navigating to it within File Explorer.
 4. Extract the**System\_Screensavers\_Tweaker.zip** file as instructed within our [how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![The Extract Compressed Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/extract-compressed-window.jpg)
 5. Next, open the extracted screensavertweaker folder.
 6. Click the Windows 8 and x64 subfolders.
@@ -85,14 +89,14 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Below the bars, there are some checkbox settings you enable or disable. Selecting**Opaque Bubbles** will display non-transparent bubbles in the screensaver. You can omit the desktop wallpaper from the screensaver by choosing the Don't use**Desktop as Background** checkbox.
 
  Select the**Ribbons** tab to customize that screensaver. There you can reduce or increase the number of ribbons by dragging the slider on the**Number of Ribbons** bar. To make the ribbons broader or narrower, drag the**Ribbon Width** bar's slider.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![The Ribbons screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ribbons-settings.jpg)
 
  The ribbons blur and fade in the screensaver by default. However, you can change that by deselecting the**Apply Blur and Fade** checkbox. Then ribbons will fill up the screen without fading away.
@@ -107,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Customize Windows 11's Screensavers for Better Effect
 
  Even though they're no longer essential, the default Windows 11 screensavers still look groovy. So, it's worth setting one of those screensavers to liven up your PC when idle. You can refine their look according to preference by tweaking the customization settings outlined above.
@@ -121,8 +121,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,6 +128,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-selection-of-high-caliber-free-luts/"><u>[New] Exclusive Selection of High-Caliber Free LUTs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-many-viewers-to-target-for-a-youtube-earning-journey-in-2024/"><u>[New] How Many Viewers to Target for a YouTube Earning Journey, In 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-video-upload-your-guide-to-igtv/"><u>[Updated] 2024 Approved Mastering Video Upload Your Guide to IGTV</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-key-to-viral-instagram-posts/"><u>[Updated] 2024 Approved The Key to Viral Instagram Posts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-amplify-your-voice-expert-insights-on-podcast-editing-in-garageband/"><u>[Updated] Amplify Your Voice Expert Insights on Podcast Editing in GarageBand</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-6-online-communities-catering-to-the-commercial-world/"><u>[Updated] In 2024, Top 6 Online Communities Catering to the Commercial World</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastery-in-motion-choosing-your-path-for-vimeo-download-tools-for-2024/"><u>[Updated] Mastery in Motion Choosing Your Path for Vimeo Download Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-labyrinth-of-windows-11s-file-structure/"><u>Decoding the Labyrinth of Windows 11'S File Structure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-productivity-linking-gmail-and-outlook-on-windows/"><u>Enhancing Productivity: Linking Gmail and Outlook on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-driver-verifier-tool-in-win11/"><u>Initiating Driver Verifier Tool in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lockdown-options-enabledisable-snapshots-on-windows/"><u>Lockdown Options: Enable/Disable Snapshots on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-oppo-reno-9a-by-fonelab-android-recover-data/"><u>Recover lost data from Oppo Reno 9A</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalizing-windows-folder-display-methods/"><u>Revitalizing Window's Folder Display Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-pinnacle-of-voice-recording-a-comprehensive-tome/"><u>The Pinnacle of Voice Recording A Comprehensive Tome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unmasking-and-untangling-solving-windows-11s-webcam-error-a00f4289/"><u>Unmasking and Untangling: Solving Windows 11'S Webcam Error A00F4289</u></a></li>
+</ul></div>
 
