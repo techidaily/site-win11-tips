@@ -31,8 +31,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cbs-log-sfc-windows.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-details-file.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg">
-<meta property="article:published_time" content="2025-01-31T02:50:51.519Z">
-<meta property="article:modified_time" content="2025-02-01T05:15:54.470Z">
+<meta property="article:published_time" content="2025-01-26T10:10:34.671Z">
+<meta property="article:modified_time" content="2025-02-02T13:43:46.186Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -718,15 +718,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-01-31 10:50:51</span>
-        <span class="mobile">2025-01-31 10:50:51</span>
+        <span class="desktop">2025-01-26 18:10:34</span>
+        <span class="mobile">2025-01-26 18:10:34</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-02-01 13:15:54</span>
-            <span class="mobile">2025-02-01 13:15:54</span>
+            <span class="desktop">2025-02-02 21:43:46</span>
+            <span class="mobile">2025-02-02 21:43:46</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -799,19 +799,21 @@
 </blockquote>
 <h2 id="How-to-Run-a-System-File-Checker-Scan-on-Windows"><a href="#How-to-Run-a-System-File-Checker-Scan-on-Windows" class="headerlink" title="How to Run a System File Checker Scan on Windows"></a>How to Run a System File Checker Scan on Windows</h2><p> To use the SFC, you need to run a single command in Command Prompt. Here’s how:</p>
 <ol>
-<li><p>Press<strong>Win + S</strong> to open Windows Search and type<strong>command prompt</strong> in the search box.</p>
-</li>
-<li><p>This will bring up<strong>Command Prompt</strong> in the search result. Click on the<strong>Run as administrator</strong> option.<br><img  
+<li>Press<strong>Win + S</strong> to open Windows Search and type<strong>command prompt</strong> in the search box.</li>
+<li>This will bring up<strong>Command Prompt</strong> in the search result. Click on the<strong>Run as administrator</strong> option.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Using-Windows-Search.jpg"
                       alt="Run Command Prompt Using Windows Search"
-                ></p>
-</li>
-<li><p>Click<strong>Yes</strong> in the UAC prompt to allow Command Prompt to make changes to your computer.</p>
-</li>
-<li><p>In Command Prompt, enter the below command, and then hit the<strong>Enter</strong> key:<br><code>SFC /scannow</code></p>
-</li>
+                ></li>
+<li>Click<strong>Yes</strong> in the UAC prompt to allow Command Prompt to make changes to your computer.</li>
+</ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<ol start="4">
+<li>In Command Prompt, enter the below command, and then hit the<strong>Enter</strong> key:<br><code>SFC /scannow</code></li>
 </ol>
 <p> If you’re unfamiliar with operating system files, please read our guide on<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-system-files-guide/" >what system files are on Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> . And to learn everything you need to know about Command Prompt, you can check out our<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/" >beginner’s guide to Command Prompt <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</p>
 <h2 id="What-Happens-After-I-Run-the-System-File-Checker"><a href="#What-Happens-After-I-Run-the-System-File-Checker" class="headerlink" title="What Happens After I Run the System File Checker?"></a>What Happens After I Run the System File Checker?</h2><p> After the System File Checker completes its scan, it will display a message in the Command Prompt window with the results.</p>
@@ -822,10 +824,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg"
                       alt="the results of an sfc scan in Command Prompt on Windows"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read “Windows Resource Protection found corrupt files but was unable to fix some of them.” And if SFC encounters a problem, the message will say “Windows Resource Protection could not perform the requested operation.”</p>
 <h2 id="Other-SFC-Commands-You-Can-Run-on-Windows"><a href="#Other-SFC-Commands-You-Can-Run-on-Windows" class="headerlink" title="Other SFC Commands You Can Run on Windows"></a>Other SFC Commands You Can Run on Windows</h2><p> The<strong>SFC &#x2F;scannow</strong> isn’t the only System File Checker Command you can run. Here are a couple more and what they do:</p>
 <table>
@@ -857,7 +855,7 @@
 </tr>
 </tbody></table>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="How-to-Run-an-Offline-SFC-Scan-on-Windows"><a href="#How-to-Run-an-Offline-SFC-Scan-on-Windows" class="headerlink" title="How to Run an Offline SFC Scan on Windows"></a>How to Run an Offline SFC Scan on Windows</h2><p> There are a few scenarios that warrant the use of the SFC without logging into Windows. One such scenario is if the operating system files are so corrupted that Windows cannot start.</p>
@@ -866,7 +864,7 @@
 <p><code>SFC /scannow /offbootdir=d:\ /offwindir=d:\windows</code></p>
 <p> That above command will tell SFC to look for Windows in the<strong>Windows</strong> folder on the<strong>D:</strong> drive. But keep in mind that the Windows version on the bootable media needs to be the same as the one installed on your PC for the scan and repair to be successful.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="How-to-Find-the-SFC-Log-File-On-Windows"><a href="#How-to-Find-the-SFC-Log-File-On-Windows" class="headerlink" title="How to Find the SFC Log File On Windows"></a>How to Find the SFC Log File On Windows</h2><p> After the SFC does its thing, it will log the results of the scan and any repairs it made into a text file called<strong>CBS.log</strong> . To open it, press<strong>Win + R</strong> to open Windows Run, enter the below text, and click<strong>OK</strong> :</p>
@@ -878,10 +876,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cbs-log-sfc-windows.jpg"
                       alt="cbs log file on Windows that has been opened in Notepad with the SR tag part showing"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> If you don’t want to bother with searching through the<strong>CBS.log</strong> file for the entries with the<strong>[SR]</strong> tag, you can extract them to a file called<strong>sfcdetails.txt</strong> . To do that, open Command Prompt as an administrator, and run the below command:</p>
 <p><code>findstr /c:&quot;[SR]&quot; %windir%\logs\cbs\cbs.log &gt;sfcdetails.txt</code></p>
 <p> You can find<strong>sfcdetails.txt</strong> by heading to<strong>This PC &gt; Local Disk (C:) &gt; Windows &gt; System32</strong> .</p>
@@ -891,6 +885,10 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-details-file.jpg"
                       alt="the sfc details text file in File Explorer on Windows 11"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> You’ll see that the log file contains entries from the System File Checker only.</p>
 <p><img  
                      lazyload
@@ -898,13 +896,13 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg"
                       alt="the sfc details text file on Windows opened in Notepad"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> If you’re doing an offline scan, you can enable logging by simply specifying the file path with the following command structure:</p>
 <p><code>/offlogfile=[offline log file path]</code></p>
 <p> Just replace<strong>offline log file path</strong> in the square brackets with the actual path you want to store the offline log file in the offline directory. Then, insert this entire command after the**&#x2F;windir** command when running an offline SFC scan.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Running-the-System-File-Checker-Demystified"><a href="#Running-the-System-File-Checker-Demystified" class="headerlink" title="Running the System File Checker, Demystified"></a>Running the System File Checker, Demystified</h2><p> We have only just begun to scratch the surface of what you can do with the System File Checker on Windows 10 and 11. However, now that you know<strong>how to run SFC</strong> (both in and out of Windows), you can use the tool effectively to troubleshoot problems with operating system files.</p>
 <p> Using the SFC effectively is a necessary skill for every Windows user, and it’s just one of the many tools you can use to fix problems on your Windows computer.</p>
 <p><ins class="adsbygoogle"
@@ -920,21 +918,20 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://fox-boxes.techidaily.com/new-in-2024-film-quality-faceoff-hero-black-and-keymission-camera/"><u>[New] In 2024, Film Quality Faceoff HERO Black and Keymission Camera</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-guidance.techidaily.com/2024-approved-iphotovidsyncer-seamless-imageplusvideo-playback/"><u>2024 Approved IPhotoVidSyncer Seamless Image+Video Playback</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tech-revival.techidaily.com/customize-and-explore-openais-new-gpt-shopping-experience/"><u>Customize and Explore: OpenAI's New GPT Shopping Experience</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://games-able.techidaily.com/easy-steps-remove-and-re-download-ps5-titles/"><u>Easy Steps: Remove & Re-Download PS5 Titles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/echoes-in-silence-no-longer-updating-windows-xp-7-and-81/"><u>Echoes in Silence: No Longer Updating Windows XP, 7 & 8.1</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-initiate-a-pristine-booting-cycle-in-windows-11/"><u>Effortlessly Initiate a Pristine Booting Cycle in Windows 11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/elevate-your-gaming-experience-with-fbx-recording-tips-for-2024/"><u>Elevate Your Gaming Experience with FBX Recording Tips for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-11-key-customization-techniques-explored/"><u>Elevate Your Windows 11: Key Customization Techniques Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-delayed-defense-in-star-wars-battlefront-2/"><u>Eliminate Delayed Defense in Star Wars Battlefront 2</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blue-screen-error.techidaily.com/how-to-fix-syntpsys-blue-screen-of-death-error-in-windows/"><u>How to Fix SYNTP.SYS Blue Screen of Death Error in Windows</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-m34-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy M34 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prioritize-your-page-marks-with-easy-tips/"><u>Prioritize Your Page Marks with Easy Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-chromes-abrupt-stop-on-a-windows-system/"><u>Solving Chrome's Abrupt Stop on a Windows System</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/forming-video-tutorials-into-playable-animated-gifs-online-for-2024/"><u>Transforming Video Tutorials Into Playable Animated GIFs Online for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://mondly-stories.techidaily.com/unlock-global-opportunities-through-language-training/"><u>Unlock Global Opportunities Through Language Training</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-info.techidaily.com/new-in-2024-dive-into-periscope-no-cost-entry-and-user-account-setup-steps/"><u>[New] In 2024, Dive Into Periscope No Cost Entry & User Account Setup Steps</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/new-youtube-studio-audit-earnings-review/"><u>[New] YouTube Studio Audit Earnings Review</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-recording.techidaily.com/updated-2024-approved-speaker-breakdown-latest-models/"><u>[Updated] 2024 Approved Speaker Breakdown Latest Models</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://techno-recovery.techidaily.com/1-siemens-at-ces-revolutionizing-business-sectors-through-arvr-and-artificial-intelligence-insights-from-zdnet/"><u>1. Siemens at CES: Revolutionizing Business Sectors Through AR/VR and Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cant-change-the-brightness-of-your-windows-11-pc-here-are-8-ways-to-fix-it/"><u>Can't Change the Brightness of Your Windows 11 PC? Here Are 8 Ways to Fix It</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/chucklecrafts-create-meme-delight/"><u>ChuckleCrafts Create Meme Delight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-smooth-background-operations-with-edge-in-win11/"><u>Ensuring Smooth Background Operations with Edge in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-copy-paste-not-working-in-chrome-edge-and-firefox-on-windows/"><u>How to Fix Copy-Paste Not Working in Chrome, Edge, and Firefox on Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ai-vdieo-software.techidaily.com/new-animation-made-easy-a-beginners-guide-to-the-top-7-software/"><u>New Animation Made Easy A Beginners Guide to the Top 7 Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-smooth-asana-operations-on-pcs/"><u>Restoring Smooth Asana Operations on PCs</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-howtos.techidaily.com/steelseries-arctis-5-audio-trouble-heres-how-to-fix-the-mic-problem-permanently/"><u>SteelSeries Arctis 5 Audio Trouble? Here's How to Fix the Mic Problem Permanently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-write-file-access-issue-on-windows-1011/"><u>Troubleshooting Write File Access Issue on Windows 10/11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ai-video-tools.techidaily.com/updated-2024-approved-revolutionize-your-content-10-top-rated-animated-text-tools/"><u>Updated 2024 Approved Revolutionize Your Content 10 Top-Rated Animated Text Tools</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-hub.techidaily.com/voice-for-algorithms-chatgpts-new-command-respondive-capability/"><u>Voice for Algorithms: ChatGPT's New Command-Respondive Capability</u></a></li>
 </ul></div>
 
 
@@ -947,11 +944,11 @@
         <li><strong>Title:</strong> Mastering Windows: How to Run SFC Command</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2025-01-31 10:50:51</li>
+                :</strong> 2025-01-26 18:10:34</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-02-01 13:15:54
+                    :</strong> 2025-02-02 21:43:46
             </li>
         
         <li>
@@ -995,13 +992,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/adjusting-real-time-performance-of-win-11-task-manager/"
+                        href="/1719289062860-rescue-your-browser-fix-google-chrome-in-w11-today/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Adjusting Real-Time Performance of Win 11 Task Manager</span>
+                                <span class="post-nav-title-item">Rescue Your Browser: Fix Google Chrome in W11 Today</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1011,10 +1008,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/revive-the-neutral-quick-cures-for-pink-and-purple-windows/"
+                        href="/rehabilitating-your-computers-windows-services-manager-with-these-tips/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Revive the Neutral: Quick Cures for Pink and Purple Windows</span>
+                                <span class="post-nav-title-item">Rehabilitating Your Computer&#39;s Windows Services Manager with These Tips</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
