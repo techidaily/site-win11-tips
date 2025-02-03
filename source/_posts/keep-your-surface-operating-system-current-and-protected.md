@@ -1,7 +1,7 @@
 ---
 title: Keep Your Surface Operating System Current and Protected
-date: 2025-01-17T18:37:39.874Z
-updated: 2025-01-25T00:20:52.867Z
+date: 2025-01-31T04:26:40.051Z
+updated: 2025-02-01T15:25:34.022Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install Firmware Updates on Surface Computers From Settings App
@@ -32,16 +32,12 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 ![install windows 11 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-updates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Installing firmware updates on your Surface PC is simple. You can install the latest firmware version on your Surface device from the Windows Update page in the Settings app.
 
  You can open the Settings app by pressing the **Win key** \+ **I** button on your keyboard and then clicking Windows Update. Now, click Check for updates. If a new firmware version is available for your Surface PC, it will show up on the update page. After installing the update, a restart is required for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Manually Download and Install Firmware on Surface Computers
 
@@ -49,12 +45,16 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 
  Once the download is completed, you can open the file (in the **.msi** format) and follow the on-screen prompt to install the update on your Surface. To complete the installation, you need to restart the device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Should Remember Before Installing the Surface Firmware Update
 
 ![Closed Microsoft Surface on a blue surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/closed-microsoft-surface-on-a-blue-surface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You must have a stable power supply and internet connection during the update process. Also, be careful about installing the right firmware update for your device.
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
  Also, you need to remember that Microsoft pushes driver and firmware updates for at least four years from when the device was first released. If your Surface device is older than four years, you won’t receive any firmware updates. Before manually downloading it, you need to [check whether your Surface device has reached the end of support](https://www.makeuseof.com/surface-end-of-support/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install Firmware Updates on Your Surface Devices
@@ -81,19 +81,18 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-windows-animation-top-9-apps-for-high-quality-gif-capture/"><u>[New] 2024 Approved Mastering Windows Animation Top 9 Apps for High-Quality GIF Capture</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-digital-display-delights-top-plugins-and-apps-for-photo-frames-for-2024/"><u>[New] Digital Display Delights Top Plugins & Apps for Photo Frames for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-steer-clear-of-obscurity-secure-a-top-spot-with-youtube-seo-tips/"><u>2024 Approved Steer Clear of Obscurity Secure a Top Spot with YouTube SEO Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diskspace-analyzer-add-on-for-windows-menu-system/"><u>DiskSpace Analyzer Add-On for Windows Menu System</u></a></li>
-<li><a href="https://games-able.techidaily.com/enabling-mousekeyboard-sharing-on-steam-deck-protected-by-barriers/"><u>Enabling Mouse/Keyboard Sharing on Steam Deck Protected by Barriers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fading-forward-ingenious-techniques-for-soft-echos-in-audacity/"><u>Fading Forward Ingenious Techniques for Soft Echos in Audacity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fast-fixes-at-fingertips-mapping-shortcut-keys-in-windows-11/"><u>Fast Fixes at Fingertips: Mapping Shortcut Keys in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-lava-yuva-3-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Yuva 3 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prove-you-can-do-it-no-more-wsl/"><u>Prove You Can Do It: No More WSL</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-non-transferring-usb-sticks-a-windows-guide/"><u>Reviving Non-Transferring USB Sticks: A Windows Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-plan-syncing-wireless-and-cable-networks-for-windows-users/"><u>The Complete Plan: Syncing Wireless and Cable Networks for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-the-full-potential-of-virtual-game-archives-in-playnite/"><u>Unleashing the Full Potential of Virtual Game Archives in Playnite</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-work-potential-with-insights-from-ai-dialogues/"><u>Unleashing Work Potential with Insights From AI Dialogues</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unveiling-creativity-making-striking-slideshows-for-fb-friends/"><u>[Updated] 2024 Approved Unveiling Creativity Making Striking SlideShows for FB Friends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-run-windows-memory-caching-issue/"><u>Fix Run Window's Memory Caching Issue</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-a-step-by-step-guide-to-including-vimeo-on-instagram/"><u>In 2024, A Step-by-Step Guide to Including Vimeo on Instagram</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beginners-blueprint-for-launching-a-vlog-series-on-product-critiques/"><u>In 2024, Beginner's Blueprint for Launching a Vlog Series on Product Critiques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-zte-nubia-flip-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked ZTE Nubia Flip 5G Phone?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/er-look-at-youtube-revenue-policies-for-2024/"><u>Insider Look at YouTube Revenue Policies for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-easy-video-flip-a-beginners-guide-to-rotating-footage/"><u>New In 2024, Easy Video Flip A Beginners Guide to Rotating Footage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reveal-elusive-cameras-from-windows-dm-interface/"><u>Reveal Elusive Cameras From Windows' DM Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-address-frozen-search-box-on-windows-11-settings-ui/"><u>Strategies to Address Frozen Search Box on Windows 11 Settings UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-defense-failures-of-windows-security-on-win-11/"><u>Tackling Defense Failures of Windows Security on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-missing-windows-time-actionable-steps/"><u>Troubleshooting Missing Windows Time: Actionable Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-two-tech-titans-android-and-microsoft-pc/"><u>Uniting Two Tech Titans: Android and Microsoft PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-shield-fault-fixes-for-a-secure-home/"><u>Windows Shield Fault Fixes for a Secure Home</u></a></li>
 </ul></div>
 

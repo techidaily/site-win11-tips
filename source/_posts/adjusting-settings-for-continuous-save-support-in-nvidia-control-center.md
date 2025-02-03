@@ -1,7 +1,7 @@
 ---
 title: Adjusting Settings for Continuous Save Support in NVidia Control Center
-date: 2024-08-08T10:55:56.858Z
-updated: 2024-08-09T10:55:56.858Z
+date: 2025-01-26T07:21:20.050Z
+updated: 2025-02-01T12:42:35.945Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
  This can be exasperating, especially if you've spent hours setting your preferences. As such, if the NVIDIA Control Panel is not saving settings in Windows 11, try the below solutions to troubleshoot the problem for good.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Temporarily Disable Your Security Program
 
  Security applications are designed to safeguard your system from malware and unauthorized access. However, they can sometimes interfere with trusted applications, like the NVIDIA Control Panel, and prevent them from making any changes to your system.
@@ -32,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
  To disable a third-party security program, right-click on its icon present in the system tray area and choose**Disable** from the menu that crops up. Alternatively, you can check the security application user manual to know more about the disabling process.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Download the Latest NVIDIA Graphics Driver Update
 
  We cannot stress enough the importance of having the latest graphics driver update installed on your computer. An updated graphics driver ensures that your system performs better with other peripherals and is free from driver-related issues.
@@ -53,19 +55,21 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 ![Uninstall option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option-2.jpg)
 5. Now, wait until the Device Manager uninstalls the NVIDIA graphics driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, restart your computer and head toward the [NVIDIA driver download website](https://www.nvidia.com/download/index.aspx) . Enter your driver details and search for and download the latest update.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![NVIDIA Driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nvidia-driver-download.jpg)
 
  Once the download is complete, launch the installer and follow the on-screen instructions to complete the installation process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![NVIDIA Installer to update NVIDIA graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nvidia-installer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Customize NVIDIA Corporation Folder Settings
 
@@ -76,14 +80,13 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 1. Launch the**File Explorer** (see how to [open File Explorer in Windows](https://www.makeuseof.com/windows-open-file-explorer/) ) and go-to**C:\\Program Files** .
 2. Right-click on the**NVIDIA Corporation** folder and choose**Properties.**
 3. Switch to the**Security** tab and click the**Edit** button.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Edit option in the NVIDIA Corporation Folder Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-option.jpg)
 4. Select your username from the**Group or user names** section and then check the**Full Control** checkbox.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Full control checkbox in the folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-control-checkbox.jpg)
 5. Click**Apply** \>**OK** to save the changes.
 
@@ -93,14 +96,11 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 
  The NVIDIA Control Panel allows you to customize its settings per your preference. However, due to corrupt drivers, security applications, and lack of permissions, the NVIDIA Control Panel will not be able to save settings in Windows 11\. Fortunately, it's a very common issue and can easily be solved using the above solutions.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,6 +109,20 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-darktable-pro-finding-the-best-paired-editor-for-2024/"><u>[Updated] Darktable Pro Finding the Best Paired Editor for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-exploring-the-monetary-mechanics-of-t-series-youtube-channel/"><u>2024 Approved Exploring the Monetary Mechanics of T-Series Youtube Channel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-complementing-core-shots-with-b-roll/"><u>2024 Approved Strategies for Complementing Core Shots with B-Roll</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/best-text-to-audio-converters-of-all-times-for-2024/"><u>Best Text-to-Audio Converters of All Times for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-back-on-overloaded-resources-for-streamers/"><u>Cutting Back on Overloaded Resources for Streamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-productivity-the-role-of-16gb-ram/"><u>Enhancing Windows Productivity: The Role of 16GB RAM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-a-disk-read-error-occurred-error-on-windows/"><u>How to Fix the “A Disk Read Error Occurred” Error on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-call-misses-during-runtime-error-in-malwarebytes-software/"><u>Resolving Call Misses During Runtime Error in Malwarebytes Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-bothering-with-extra-windows-tips-notifications/"><u>Stop Bothering with Extra Windows Tips Notifications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-tutorial-adding-your-dvd-content-to-google-drive-seamlessly/"><u>Ultimate Tutorial: Adding Your DVD Content to Google Drive Seamlessly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-youtubes-best-viewing-experience-with-ratios/"><u>Unlock YouTube's Best Viewing Experience with Ratios</u></a></li>
+</ul></div>
 

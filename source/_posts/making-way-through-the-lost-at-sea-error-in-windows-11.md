@@ -1,7 +1,7 @@
 ---
 title: Making Way Through the Lost at Sea Error in Windows 11
-date: 2025-01-19T00:06:15.677Z
-updated: 2025-01-24T18:50:56.322Z
+date: 2025-01-31T07:50:19.371Z
+updated: 2025-01-31T16:02:15.796Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. First, Check the Status of Xbox Servers
 
  The “Looks like you’re stranded” error can sometimes be the result of server-side issues or maintenance. So, check the status of Xbox servers to see if there are any issues there before you start troubleshooting. To do that, open this [Xbox status page](https://support.xbox.com/en-US/xbox-live-status) that shows you the status for Xbox features and services.
@@ -38,7 +34,11 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 ![The Xbox server status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/xbox-server-status.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Utilize the Windows Store Apps Troubleshooter
@@ -54,11 +54,11 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
 
- The same troubleshooter is available in Windows 10, but that platform’s Settings app has a slightly different layout. You can access it in Windows 10’s Settings app by selecting **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**. Then click on Windows Store Apps to access a **Run the troubleshooter** option.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The same troubleshooter is available in Windows 10, but that platform’s Settings app has a slightly different layout. You can access it in Windows 10’s Settings app by selecting **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**. Then click on Windows Store Apps to access a **Run the troubleshooter** option.
 
 ## 3\. Reinstall Your Xbox App
 
@@ -66,13 +66,13 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-option-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Try Some Generic Windows App Fixes
 
  If none of the above worked, try these fixes that work for any malfunctioning Windows app:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update the Xbox App
 
@@ -86,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
 ![The Reset button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-button-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Change Your DNS Server to Google's Public DNS
 
  The “Looks like you’re stranded” error can arise because of internet connectivity issues. Changing your Domain Name System server to a better, more reliable public one could resolve such issues. So, try setting Google to be your DNS server instead.
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
  Our [guide to changing DNS servers in Windows](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) tells you how to apply this possible resolution and includes the primary and alternative DNS addresses for Google.
 
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dns-server-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get the Xbox App Working Again
 
@@ -114,19 +114,18 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-elevate-engagement-top-hashtags-for-gameplay-vids/"><u>[Updated] In 2024, Elevate Engagement Top Hashtags for Gameplay Vids</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-shape-shifting-skills-a-comprehensive-pic-warping-manual/"><u>[Updated] Shape-Shifting Skills A Comprehensive Pic Warping Manual</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-how-to-make-a-youtube-reaction-video-3-ways/"><u>2024 Approved How to Make a YouTube Reaction Video? [3 Ways]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convenient-controls-creating-shortcuts-close-to-power-on-windows-11/"><u>Convenient Controls: Creating Shortcuts Close to Power on Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/demystifying-error-4013-in-ios-a-step-by-step-repair-tutorial/"><u>Demystifying Error 4013 in iOS: A Step-by-Step Repair Tutorial</u></a></li>
-<li><a href="https://some-skills.techidaily.com/easy-guide-adding-your-site-to-the-windows-11-taskbar-and-start-menu/"><u>Easy Guide: Adding Your Site to the Windows 11 Taskbar and Start Menu</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-samsung-galaxy-f15-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Samsung Galaxy F15 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-tecno-spark-20-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Tecno Spark 20 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-picart-anonymizer-swiftly-hide-identities/"><u>In 2024, PicArt Anonymizer Swiftly Hide Identities</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/seamless-integration-top-3-methods-for-connecting-your-iphone-with-microsoft-outlook/"><u>Seamless Integration: Top 3 Methods for Connecting Your iPhone with Microsoft Outlook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/supercharge-efficiency-the-best-apps-to-enhance-workday-in-window-11/"><u>Supercharge Efficiency: The Best Apps to Enhance Workday in Window 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-counteract-dark-screens-in-win-gaming/"><u>Techniques to Counteract Dark Screens in WIN Gaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-secrets-of-win11-photo-carousel-7-instant-tips/"><u>The Secrets of Win11 Photo Carousel: 7 Instant Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-cause-and-fix-for-defenders-0x80004004/"><u>Unveiling the Cause and Fix for Defender's 0X80004004</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-optimizing-youtube-content-for-higher-visibility/"><u>[New] Optimizing YouTube Content for Higher Visibility</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-step-by-step-guide-to-full-periscope-mastery/"><u>[New] Step-by-Step Guide to Full Periscope Mastery</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-ultimate-guide-to-cheap-subtitles-and-downloaders/"><u>[Updated] 2024 Approved Ultimate Guide to Cheap Subtitles & Downloaders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-fixes-for-repeated-usernamepassword-notifications/"><u>Efficient Fixes for Repeated 'Username/Password' Notifications</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminating-pc-hiccups-a-guide-to-stop-no-rest-for-the-wicked-game-from-crashing/"><u>Eliminating PC Hiccups: A Guide to Stop 'No Rest for the Wicked' Game From Crashing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/jump-to-youtube-affiliate-ranking-with-a-swift-10000-views-for-2024/"><u>Jump to YouTube Affiliate Ranking with a Swift 10,000 Views for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/legitimate-methods-vs-chatbots-for-secure-win-11-passwords/"><u>Legitimate Methods Vs. Chatbots for Secure Win 11 Passwords</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-wide-angle-postings-integrating-360-photos-on-mobile-apps/"><u>Mastering Wide Angle Postings Integrating 360 Photos on Mobile Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-storm-5g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Storm 5G has been deleted</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-unable-to-connect-issues-with-malwarebytes-server-link/"><u>Rectifying Unable to Connect Issues with Malwarebytes Server Link</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/self-host-your-local-free-windows-based-chatgpt-clone-using-gpt4all/"><u>Self-Host Your Local, FREE Windows-Based ChatGPT Clone Using GPT4All</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-task-execution-in-windows-11-with-a-superior-run-setup/"><u>Transform Your Task Execution in Windows 11 with a Superior Run Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-with-top-4-windows-webp-viewers/"><u>Unlock Full Potential with Top 4 Windows WebP Viewers</u></a></li>
 </ul></div>
 

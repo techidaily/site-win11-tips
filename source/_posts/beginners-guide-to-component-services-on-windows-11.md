@@ -1,7 +1,7 @@
 ---
 title: Beginner’s Guide to Component Services on Windows 11
-date: 2024-08-08T10:58:55.753Z
-updated: 2024-08-09T10:58:55.753Z
+date: 2025-01-26T06:37:23.851Z
+updated: 2025-02-01T08:02:58.767Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
  In this article, we will show you some quick ways to open Windows Component Services.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. How to Open Component Services via Windows Search
 
  Windows 11 has a powerful search feature that makes finding the tools and features you need quick and easy. You can also use this feature to quickly open Component Services and other tools and features in Windows devices. Here's how to do that:
@@ -32,18 +29,12 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 ![Open Components Services Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-windows-search.jpg)
 3. The results list will include "Component Services." Just click it to open Component Services!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Open Component Services Using Run Command
 
  You can also launch this application using the Run dialog box. This saves time since you do not have to navigate menus and submenus. Here's how to do this:
 
 1. Press**Win + R** on your keyboard to open the Run dialog box.
 2. Once you are in the Run window, type**dcomcnfg** into the text field and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![Open Components Services Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-run-command.jpg)
 
  The Component Services window will now appear on your screen. Here you will find the options to manage administrative tools such as Event Viewer, Services, and more.
@@ -55,11 +46,12 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 1. Open the Start menu.
 2. Click**All apps** in the upper right corner.
 3. Scroll down and click**Windows Tools** at the bottom of the screen.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Components Services Using Windows Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-windows-tools.jpg)
 4. Next, double-click on**Component Services** to open it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Open Component Services Using File Explorer
 
@@ -70,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
 The Component Services window should now open.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. How to Open Component Services Through Command Prompt
 
  If you’re someone who prefers using command-line methods, you can use Command Prompt to launch Component Services on your PC.
@@ -82,20 +71,14 @@ The Component Services window should now open.
 1. Press**Win + Q** on your keyboard and type "cmd" in the search field.
 2. Select**Command Prompt** from the list at the top.
 3. Once the Command Prompt window opens, type**dcomcnfg** and hit**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Components Services Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-command-prompt.jpg)
 
  This should open up the Component Services window for you to explore further. Now you can close the Command Prompt window.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. How to Open Component Services Using Windows PowerShell
 
  PowerShell is another command-line tool for managing Windows systems. It provides significant advantages over Command Prompt.
@@ -110,8 +93,9 @@ No advertising on the website.
 You should now be able to use the Component Services window.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. How to Open Component Services Via Task Manager
 
  Task Manager is a powerful tool on Windows, useful for analyzing memory and CPU usage, as well as terminating problematic programs. However, you can also use this tool to access most of the applications on your Windows device.
@@ -121,10 +105,11 @@ You should now be able to use the Component Services window.
 1. Right-click on your Taskbar and select**Task Manager** . You can also press**Ctrl + Shift + Esc** on your keyboard to open it directly.
 2. Once you're in the Task Manager, click the**Run new task** button at the top of the window.
 3. Type**dcomcnfg** into the text box and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Components Services Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Component Services tool should now be open and ready to use!
 
@@ -136,11 +121,13 @@ The Component Services tool should now be open and ready to use!
 
 1. Right-click on the blank area of your desktop and select**New > Shortcut** .
 2. In the "Create Shortcut" window, type**dcomcnfg.exe** and click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![Open Components Services With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-with-desktop-shortcut.jpg)
 3. Name your shortcut something like Component Services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Lastly, click**Finish** to save your changes.
 
  Component Services will appear as a shortcut on your desktop; double-click it to launch it.
@@ -152,6 +139,10 @@ The Component Services tool should now be open and ready to use!
 * Right-click on the executable file and select**Show more options > Create shortcut** .
 * Click**Yes** to confirm making a shortcut. You will see the desktop shortcut on your computer screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. How to Open Component Services Using a Shortcut Key
 
  A shortcut key is a combination of two or more keys that provides quick access to certain functions. With the use of shortcut keys, you can open Component Services in a quick and easy way. Here's how to do it:
@@ -162,6 +153,10 @@ Create a desktop shortcut for Component Services as explained above.
 2. Type any letter or number in the**Shortcut** field.
 3. Click**Apply > OK** to create the shortcut key.  
 ![Open Components Services Using Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-shortcut-key.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you're done, press Ctrl + Alt and enter your letter or number. For example, if you select**T** in the above steps, you will need to press**Ctrl + Alt + T** to access Component Services.
 
@@ -177,14 +172,11 @@ Create a desktop shortcut for Component Services as explained above.
 
  Opening Component Services in Windows 11 is an easy task that requires minimal time and effort. There are several methods for doing so, allowing you to select the one that best suits your needs. Choose the one that suits you best and save some time when you need to access this handy tool.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -193,6 +185,19 @@ Create a desktop shortcut for Component Services as explained above.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-expert-tips-for-sharing-videos-the-ultimate-youtube-photo-poster/"><u>[New] 2024 Approved Expert Tips for Sharing Videos The Ultimate YouTube Photo Poster</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-24-hours-watchers-youtubes-most-popular-videos-1-10/"><u>[New] In 2024, Top 24 Hours Watchers YouTube’s Most Popular Videos #1-#10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/deciphering-the-mystery-of-your-unseen-online-footprints-on-facebook-for-2024/"><u>Deciphering the Mystery of Your Unseen Online Footprints on Facebook for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-steps-transforming-your-videos-from-mpeg4-to-mp4-format/"><u>Easy Steps: Transforming Your Videos From MPEG4 to MP4 Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-sound-output-issues-on-windows-devices/"><u>Fixing Sound Output Issues on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-resetting-win-11-writable-memory-cache/"><u>Guide: Resetting Win 11' Writable Memory Cache</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6s-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6s Plus Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-digital-duel-diaries-record-galaxy-gamer-stories/"><u>In 2024, Digital Duel Diaries Record Galaxy Gamer Stories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphone-photography-lighting-tips-for-2024/"><u>IPhone Photography Lighting Tips for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-control-unlocking-files-from-read-only-mode/"><u>Regaining Control: Unlocking Files From Read-Only Mode</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-breakdown-of-youtubes-shorts-initiative-for-2024/"><u>The Breakdown of YouTube's Shorts Initiative for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-personalized-edition-your-ultimate-guide/"><u>Windows 11 Personalized Edition: Your Ultimate Guide</u></a></li>
+</ul></div>
 

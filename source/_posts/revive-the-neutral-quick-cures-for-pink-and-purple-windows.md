@@ -1,7 +1,7 @@
 ---
 title: "Revive the Neutral: Quick Cures for Pink and Purple Windows"
-date: 2025-01-21T23:18:43.874Z
-updated: 2025-01-25T00:24:56.022Z
+date: 2025-01-31T10:43:42.856Z
+updated: 2025-01-31T23:34:11.211Z
 tags:
   - windows10
   - windows11
@@ -25,23 +25,19 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Quick Fixes for a Windows Desktop That Turns Pink or Purple
 
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Before you try the detailed solutions, you might want to check out a couple of quick fixes first.
 
  For example, are you experiencing this issue on an external display device? If so, then check your cables and ensure that everything is connected properly. Also, ensure that your display cables aren’t damaged.
 
  In some cases, restarting your Windows device could help. Perform any one of the many[ways to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) and see if that fixes this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart File Explorer
 
@@ -56,7 +52,7 @@ Let’s take a look at the steps for restarting File Explorer:
 ![Restarting the Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Restarting-the-Windows-File-Explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable the Color Filters
@@ -73,7 +69,7 @@ In this instance, here’s how you can resolve the problem:
 ![Turning off the Turn on color filters button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Turn-on-color-filters-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Configure the Night Light Settings
@@ -92,7 +88,7 @@ To get rid of the problem, follow these steps:
 ![Turning off the Night light button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Night-light-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, follow these steps if you want to tweak some additional night light settings:
@@ -103,10 +99,6 @@ To get rid of the problem, follow these steps:
 4. If you want to schedule the night light settings, turn on the**Schedule night light** button and pick the relevant option below it.
 
 ![Adjusting the Night light colors strength](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Adjusting-the-Night-light-colors-strength.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Update or Reinstall the Windows Display Drivers
 
@@ -119,6 +111,10 @@ Let’s first check out how you can update the display drivers:
 3. Right-click your PC’s display adapter and select**Update driver** .
 
 ![Updating the Display drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/7-Updating-the-Display-drivers-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the next screen, select**Search automatically for updated driver software** and then follow the on-screen instructions.
 
@@ -133,6 +129,10 @@ Let’s first check out how you can update the display drivers:
 ## 6\. Use the Built-In Windows Troubleshooters
 
 ![A person using a Windows computer on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-computer-on-a-brown-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Still struggling to resolve the "desktop color" issue? The Windows built-in troubleshooters could help! However, you should pick a relevant troubleshooter depending on the nature of the problem.
 
@@ -158,6 +158,10 @@ Let’s first check out how you can update the display drivers:
 
 ![Running the System Maintenance Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-System-Maintenance-Troubleshooter-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Scan and Remove Malware From Your PC
 
  In some rare instances, malware might be the reason you’re experiencing the issue at hand. In this case, you can resolve the problem by scanning and removing harmful programs from your PC.
@@ -172,10 +176,6 @@ Here are the steps you need to follow:
 6. Choose your preferred scan option and then press the**Scan now** button.
 
 ![Scanning a PC with the Windows Security tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/Scanning-a-PC-with-the-Windows-Security-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Use a System Restore Point
 
@@ -215,20 +215,24 @@ Here are the steps you need to follow:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-aviation-longevity-top-10-endurance-drones/"><u>[Updated] 2024 Approved Aviation Longevity Top 10 Endurance Drones</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-enrich-your-brain-with-these-15-ultimate-science-youtubes-for-2024/"><u>[Updated] Enrich Your Brain with These 15 Ultimate Science Youtubes for 2024</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/ai-tegakiflexicaptureocr-abbyy/"><u>「日本語手作りの文字をAIが解読: TegakiとFlexiCapture、コゲントラボがOCRサービスで最先端へ」 - ABBYYブログ</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-artistry-the-top-new-additions-to-paint-suite/"><u>Crafting Artistry: The Top New Additions to Paint Suite</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-windows-script-policy-4-key-fixes-for-powershell-load-issues/"><u>Elevating Windows Script Policy: 4 Key Fixes for PowerShell Load Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-data-accuracy-in-winrar-with-six-checksum-methods/"><u>Ensuring Data Accuracy in WinRAR with Six Checksum Methods</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/exclusive-guide-to-priceless-cam-screen-recorders/"><u>Exclusive Guide to Priceless Cam Screen Recorders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-a-defective-msvcr110dll-file-in-os/"><u>Fixing a Defective msvcr110.dll File in OS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-easy-your-guide-to-agentdeployment-on-agentgpt/"><u>Quick and Easy: Your Guide to AgentDeployment on AgentGPT</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/seamless-addition-youtube-videos-into-google-slides-for-2024/"><u>Seamless Addition YouTube Videos Into Google Slides for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-guide-to-windows-11-terminal-redoing/"><u>Simple Guide to Windows 11 Terminal Redoing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/techs-elite-showdown-googles-gemini-versus-openais-chatgpt/"><u>Tech's Elite Showdown: Google's Gemini Versus OpenAI’s ChatGPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-professional-way-of-keeping-windows-calls-logged/"><u>The Professional Way of Keeping Windows Calls Logged</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-changing-default-browser-on-windows-11/"><u>Tips for Changing Default Browser on Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-lava-yuva-3-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Lava Yuva 3 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-ultimate-tutorial-uploading-360-degree-footage-on-facebook/"><u>[New] 2024 Approved Ultimate Tutorial Uploading 360-Degree Footage on Facebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dance-directives-finding-ideal-dj-templates/"><u>[Updated] 2024 Approved Dance Directives Finding Ideal DJ Templates</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-screen-capture-without-a-penny-the-top-apps-reviewed-for-2024/"><u>[Updated] Screen Capture Without a Penny The Top Apps Reviewed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-powered-screenshots-record-your-desktop-webcam-feeds-and-voice-with-winxvideo-effortlessly/"><u>AI-Powered Screenshots: Record Your Desktop, Webcam Feeds, and Voice with Winxvideo Effortlessly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amazons-exclusive-deal-asus-rog-strix-g16-just-1164-for-the-ultimate-2024-gaming-experience/"><u>Amazon's Exclusive Deal: ASUS ROG Strix G16 - Just $1,164 for the Ultimate 2024 Gaming Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empowering-development-utilizing-windows-11s-dev-drive-tools/"><u>Empowering Development: Utilizing Windows 11'S Dev Drive Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expand-your-workspace-set-up-two-displays-on-your-m3-macbook-pro-as-effortlessly-as-you-do-on-the-macbook-air-insights-from-zdnet/"><u>Expand Your Workspace: Set Up Two Displays on Your M3 MacBook Pro as Effortlessly as You Do on the MacBook Air - Insights From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-stubborn-loading-screens-in-red-dead-redemption-2-a-step-by-step-guide/"><u>Fixing Stubborn Loading Screens in Red Dead Redemption 2 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-interlinking-giants-a-comprehensible-guide-for-instra-and-tikto/"><u>In 2024, Interlinking Giants A Comprehensible Guide for Instra & Tikto</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/increase-efficiency-the-top-5-win-folder-strategies-to-use-on-windows/"><u>Increase Efficiency: The Top 5 Win Folder Strategies to Use on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/outpace-your-connection-surpassing-100mbps-on-windows-pcs/"><u>Outpace Your Connection: Surpassing 100Mbps on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rising-against-suppression-my-stand-for-audio-visual-autonomy-in-edges-world/"><u>Rising Against Suppression: My Stand for Audio-Visual Autonomy in Edge's World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-and-steady-turn-off-mouse-accel-in-win-11/"><u>Smooth and Steady: Turn Off Mouse Accel in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-mitigate-internal-error-in-windows-remote-desktop/"><u>Steps to Mitigate Internal Error in Windows Remote Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-for-addressing-error-code-0x80070522-enhancing-privileges/"><u>Tactics for Addressing Error Code 0X80070522: Enhancing Privileges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-serenity-of-an-unadvertised-windows-start-menu/"><u>The Serenity of an Unadvertised Windows Start Menu</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-lenovo-convertible-reviewed-discover-the-power-of-the-yoga-a94n/"><u>Top Lenovo Convertible Reviewed: Discover the Power of the Yoga A94n</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-formatting-your-macs-hdd-or-external-storage-device/"><u>Ultimate Guide: Formatting Your Mac's HDD or External Storage Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-the-battle-against-xbox-game-passs-error-code-0x800700e9/"><u>Winning the Battle Against Xbox Game Pass’s Error Code: 0X800700E9</u></a></li>
 </ul></div>
 

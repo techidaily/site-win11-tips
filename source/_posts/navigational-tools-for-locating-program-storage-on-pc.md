@@ -1,7 +1,7 @@
 ---
 title: Navigational Tools for Locating Program Storage on PC
-date: 2025-01-18T22:59:12.956Z
-updated: 2025-01-24T16:21:10.223Z
+date: 2025-01-28T22:14:56.468Z
+updated: 2025-02-01T00:32:05.056Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Find the Location of a Program Using the Start Menu
 
  One of the easiest methods of finding the install location of a program is through the**Start** menu. Here’s what you need to do:
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
 3. In the folder that opens, right-click the required program’s icon and click on**Open file location** one final time.
 4. You should now be in the installation folder of the program.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Find the Installation Folder of a Program Using Its Desktop Shortcuts
 
@@ -56,7 +48,11 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 3. Click on the**Shortcut** tab, and you will find the installation path in the**Target** field.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Locate the Folder Where a Program Is Installed Using Task Manager
@@ -69,8 +65,16 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![task manager details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/task-manager-details.jpg)
 2. Once the Task Manager is up and running, click on the**Details** tab to get a list of all[currently running background processes](https://www.makeuseof.com/windows-pc-too-many-background-processes/) and applications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. After locating the program you need, right-click and then click on**Open file location** .
 4. A new File Explorer window will open up, and you will have found the program's installation directory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Access the Installation Folder of a Program Using File Explorer
 
@@ -86,11 +90,7 @@ To find where a program is located using the File Explorer:
 3. Navigate to**Program Files > Program Files (x86)** and then scroll the list of folders until you find one with the program name you’re looking for.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Finding a Program's Install Location Is Easy
@@ -114,20 +114,21 @@ To find where a program is located using the File Explorer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/alternate-escapades-where-the-gta-v-lives-are-missing-for-2024/"><u>Alternate Escapades - Where the GTA V Lives Are Missing for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/critical-review-of-samsungs-digital-photography-advancements/"><u>Critical Review of Samsung's Digital Photography Advancements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-browser-memory-top-7-eco-friendly-alternatives-unveiled/"><u>Decoding Browser Memory: Top 7 Eco-Friendly Alternatives Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-error-code-microsoft-marketplace-0x80131500/"><u>Disabling Error Code: Microsoft Marketplace #0X80131500</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-tutorial-on-transforming-your-youtube-content-using-factorypro-software/"><u>Easy Tutorial on Transforming Your YouTube Content Using FactoryPro Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-code-0x800f0831-error-in-modern-windows/"><u>Fixing Code 0X800F0831 Error in Modern Windows</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/next-gen-broadcast-tools-outperforming-streamlabs-obs-for-2024/"><u>Next-Gen Broadcast Tools Outperforming StreamLabs OBS for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-how-to-repair-a-nonfunctional-astro-a20-microphone/"><u>Quick Solutions: How to Repair a Nonfunctional Astro A20 Microphone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-to-rejuvenate-your-qbittorrent-status/"><u>Quick-Fix Guide to Rejuvenate Your qBittorrent Status</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-remote-play-issue-in-windows/"><u>Resolving Remote Play Issue in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-11s-camera-app-crash-code-afc-error/"><u>Resolving Windows 11'S Camera App Crash: Code AFC Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/swiftly-settling-down-after-installer-failure/"><u>Swiftly Settling Down After Installer Failure</u></a></li>
-<li><a href="https://article-posts.techidaily.com/understanding-snapchats-high-value-content/"><u>Understanding Snapchat's High-Value Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-does-aggregatorhostexe-do-on-windows-os-safety-analysis/"><u>What Does AggregatorHost.exe Do on Windows OS? Safety Analysis</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-platform-picker-optimal-content-on-youtube-or-tiktok/"><u>[Updated] Platform Picker Optimal Content on Youtube or TikTok?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-power-of-intova-x/"><u>2024 Approved Exploring The Power of Intova X</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/como-desbloquear-region-locks-de-dvd-con-windows-1187/"><u>Cómo Desbloquear Region Locks De DVD Con Windows 11/8/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cooling-strategies-for-your-windows-11-laptopdesktop/"><u>Cooling Strategies for Your Windows 11 Laptop/Desktop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-memorable-announcements-the-key-to-successful-facebook-giving-posts/"><u>Crafting Memorable Announcements The Key to Successful Facebook Giving Posts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-file-sharing-top-5-windows-software/"><u>Elevate Your File Sharing: Top 5 Windows Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-get-and-enjoy-ebooks-using-the-ios-books-app-a-users-guide/"><u>How to Get and Enjoy eBooks Using the iOS Books App - A User's Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-resolution-eliminating-win1011-blackouts/"><u>Immediate Resolution: Eliminating Win10/11 Blackouts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-spotlight-on-benq-sw320s-eye-catching-4k-display/"><u>In 2024, Spotlight on BenQ SW320’s Eye-Catching 4K Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initialize-your-system-setting-up-startup-programs-in-win11/"><u>Initialize Your System: Setting Up Startup Programs in Win11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/online-wtv-mp4/"><u>Online WTV 프리미우스 MP4 교체 - 무비 데모회사</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refining-the-look-of-windows-11s-basic-writing-tool/"><u>Refining the Look of Windows 11'S Basic Writing Tool</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-lava-blaze-2-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Lava Blaze 2 5G FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-potential-rejuvenating-windows-11-diagnostics/"><u>Unleashing Potential: Rejuvenating Windows 11 Diagnostics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-and-nvidia-tackling-gl-error-3-head-on/"><u>Win11 & NVIDIA: Tackling GL Error 3 Head-On</u></a></li>
 </ul></div>
 

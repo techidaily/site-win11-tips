@@ -1,7 +1,7 @@
 ---
 title: "Prioritizing Functionality: The New Approach to Windows 11"
-date: 2025-01-07T18:34:55.947Z
-updated: 2025-01-12T18:30:36.854Z
+date: 2025-01-28T05:47:49.164Z
+updated: 2025-02-01T08:18:17.637Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,12 +34,16 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
  With new Copilot features being released in quick succession, it's clear what Microsoft is prioritizing with Windows 11 and beyond. Apart from the increasingly diverse ways to interact with AI, you might wonder where the meaningful improvements to Windows 11’s performance, functionality, and overall user experience are.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Makes it Clear: Copilot Is the Future of Windows 11
 
 ![Tecno Megabook T16 Pro sitting on display at MWC 2024](https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a2404b925ef4f20286104a39.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Justin Duino / MakeUseOf
 
@@ -52,16 +56,12 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
  It’s clear that Copilot and AI, not gaming, have become central to realizing Windows 11's full potential and Microsoft's broader ambitions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where Are the Real Features?
 
 ![Copilot key on an Acer laptop](https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb738e8c283227d7e47f57830.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Justin Duino / MakeUseOf
 
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
  Lingering issues like an inconsistent UI, wonky taskbar, sluggish file explorer, and compatibility headaches leave many of us questioning whether it truly serves as an upgrade over Windows 10\. Several users have even claimed that W11 lags behind W10 in responsiveness, particularly on older hardware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Slow Steps in the Right Direction
@@ -108,16 +108,24 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-30-dynamic-metaverse-insights-with-arvr-themes/"><u>[Updated] 30 Dynamic Metaverse Insights with AR/VR Themes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-laughing-along-to-mimicked-melodies/"><u>[Updated] In 2024, Laughing Along to Mimicked Melodies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-red-x-symbols-in-computer-file-systems/"><u>Demystifying Red “X” Symbols in Computer File Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-a-head-start-at-gameplay-with-winning-tactics-fc-style/"><u>Get a Head Start at Gameplay with Winning Tactics, FC Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-repair-systemsettings-glitches-in-win11/"><u>How to Repair SystemSettings Glitches in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reigniting-your-non-responsive-windows-digital-scribe/"><u>Reigniting Your Non-Responsive Windows Digital Scribe</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-solution-to-try-connection-bluetooth-misfire/"><u>Swift Solution to 'Try Connection' Bluetooth Misfire</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-s24-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy S24 Ultra without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-phone-gaming-with-perfect-controllers/"><u>Ultimate Phone Gaming with Perfect Controllers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-unleashing-creativity-new-font-addition-strategies-for-ae/"><u>[New] 2024 Approved Unleashing Creativity New Font Addition Strategies for AE</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-affordable-pc-monitoring-software/"><u>[Updated] 2024 Approved Affordable PC Monitoring Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-beginning-your-blog-journey-for-financial-gain-for-2024/"><u>[Updated] Beginning Your Blog Journey for Financial Gain for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unraveling-the-mystery-of-online-video-sharing/"><u>2024 Approved Unraveling the Mystery of Online Video Sharing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-tiktok-edit-tricks-to-boost-creativity/"><u>Advanced TikTok Edit Tricks to Boost Creativity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apple-declines-your-card-here-are-6-ways-to-fix-it-quickly/"><u>Apple Declines Your Card? Here Are 6 Ways To Fix It Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-controller-connection-playstation-3-on-windows/"><u>Effortless Controller Connection: PlayStation 3 on Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-pinnacle-of-next-gen-consoles-an-in-depth-xbox-one-x-review/"><u>Exploring the Pinnacle of Next-Gen Consoles: An In-Depth Xbox One X Review</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-se-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone SE?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-out-what-really-transpires-in-ai-bot-interactions/"><u>Inside Out: What Really Transpires in AI Bot Interactions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-cyber-monday-discounts-on-gaming-laptops-get-the-razer-blade-14-for-920-less-find-your-bargain-at-zdnet/"><u>Massive Cyber Monday Discounts on Gaming Laptops! Get the Razer Blade 14 for $920 Less - Find Your Bargain at ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overturning-google-chromes-webp-save-feature-on-windows/"><u>Overturning Google Chrome's WebP Save Feature on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-repairs-top-9-tactics-for-smooth-windows-11-wwe-play/"><u>Rapid Repairs: Top 9 Tactics for Smooth Windows 11 WWE Play</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-windows-enter-key-malfunction/"><u>Repairing Windows Enter Key Malfunction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-constant-display-of-calculator-windows/"><u>Strategies for Constant Display of Calculator Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-passwords-and-text-files-in-win-oses/"><u>The Ultimate Guide to Passwords and Text Files in Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trick-to-conceal-after-dim-display-in-power-options/"><u>Trick to Conceal 'After Dim Display' In Power Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-defenders-error-code-0x80004004/"><u>Understanding & Correcting Defender's Error Code: 0X80004004</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-techniques-for-an-eye-catching-cursor-on-windows/"><u>Unveiling Techniques for an Eye-Catching Cursor on Windows</u></a></li>
 </ul></div>
 

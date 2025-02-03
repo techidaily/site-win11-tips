@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Harness Windows' Smart Launcher Techniques"
-date: 2024-08-08T10:56:26.688Z
-updated: 2024-08-09T10:56:26.688Z
+date: 2025-01-24T22:18:43.173Z
+updated: 2025-02-01T07:26:58.812Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 
 Here's how to get the most from this popular productivity tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Install Flow Launcher
 
  You will need to download and install Flow Launcher from [GitHub](https://github.com/Flow-Launcher/Flow.Launcher/releases/tag/v1.9.5) , rather than through the Microsoft Store. You can choose between an installed version and a portable one. We have used the installed version for this guide.
@@ -28,6 +32,10 @@ Here's how to get the most from this popular productivity tool.
 2. Follow the steps to install Flow Launcher, choosing the language, hotkeys, and any other settings.  
 ![the flow launcher installation steps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-install.jpg)
 3. If your chosen hotkey fails to register, it means it is already in use by another app or service. You'll need to pick an alternative one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With the setup complete, you're almost ready to begin using Flow Launcher to get things done more efficiently. But before you do, it is worth changing a few settings. Right-click the Flow Launcher icon in the system tray and choose**Settings** .
 
@@ -43,9 +51,6 @@ Here's how to get the most from this popular productivity tool.
 
  If you are looking for even more ways to [improve productivity in Windows](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) , we have some helpful ideas.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Launch Apps With Flow Launcher
 
  Flow Launcher makes it easy to search for and open almost anything, including apps. No need to hunt through the Start Menu apps list; just search, click, and open.
@@ -54,24 +59,23 @@ Here's how to get the most from this popular productivity tool.
 2. Begin typing the name of the app. You shouldn't need to click in the search box before you type because Flow Launcher will be in focus when opened.
 3. As soon as you see the required app in the list, you can click it to open it or press the displayed shortcut, e.g.**Alt + 2** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![launching an app with Flow Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-searchapp.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Search Files More Effectively
 
  Flow Launcher is brilliant for searching your PC. It manages to find everything Windows Search can find, but displays results in a much less cluttered and much more efficient way.
 
  Type in the Flow Launcher window to begin searching. Results are displayed with an icon next to the title to make it easy to tell what it is. It can find apps, files, settings, images, and more. You can then click on the result you want to open or press the displayed keyboard shortcut.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![searching for files in flow launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-searchfiles.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Flow Launcher fails to find a file, app or setting on your computer that matches, it will instead offer a Google search for the query. Clicking this will open a new tab in your default browser for the Internet search.
 
@@ -82,9 +86,6 @@ Here's how to get the most from this popular productivity tool.
 * You can even use it to perform simple calculations. Type**5\*5** to see what 5 multiplied by 5 equals. Other mathematical symbols you can use include + (plus), - (minus), and /(divided by).
 * If you want to search in a specific directory, type the directory name between percentage symbols, e.g.**%programfiles%\\** . You will also need to include a trailing backslash.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![searching for directories in flowlauncher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-searchdirectory.jpg)
 
  When you start using Flow Launcher, you might see a result such as**Allow Web Searches Plugin** . This will activate an existing plugin available within Flow Launcher. You can also download and install extra plugins from the store.
@@ -99,27 +100,25 @@ Here's how to get the most from this popular productivity tool.
 4. The Flow Launcher window will open with a search for that plugin. Click the result and agree to the installation in the popup message.
 5. The plugin will be added to the plugin list, where you can enable and disable it as required.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Uninstalling Flow Launcher
 
  If you installed Flow Launcher onto your PC, you can uninstall it in the same way you would any other app. Check out our guide on [how to uninstall programs on Windows](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) if you need some help with this.
 
  Of course, if you decided to use Flow Launcher in portable mode, you won't need to uninstall it. If you are using the utility in this mode, it is worth enabling the**Portable Mode** option in the settings. This ensures that all search data and settings are stored in a single folder, making this data equally portable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Improve Productivity in Windows With Flow Launcher
 
  Flow Launcher is an outwardly simple tool that might have you wondering why you need another search box. But dig a little deeper, and you should quickly see how powerful and helpful it can be. If you are looking for ways to improve your productivity in Windows 10 or 11 this is a brilliant place to start.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,6 +127,20 @@ Here's how to get the most from this popular productivity tool.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-best-practices-for-seamless-transitions-using-b-roll-for-2024/"><u>[New] Best Practices for Seamless Transitions Using B Roll for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hats-your-potential-income-from-youtube-sponsored-videos-for-2024/"><u>[New] What's Your Potential Income From YouTube Sponsored Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-vidgrabmaster-mobilepc-app-downloads/"><u>[Updated] 2024 Approved VidGrabMaster Mobile/PC App Downloads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-saving-social-media-stories-chromes-top-5-tools/"><u>[Updated] Saving Social Media Stories Chromes' Top 5 Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-sony-s3700-update-a-new-chapter-in-playback-for-2024/"><u>[Updated] Sony S3700 Update A New Chapter in Playback for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/5-useful-tool-to-brighten-video-online/"><u>5 Useful Tool to Brighten Video Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-how-to-resolve-the-persistent-problem-of-windows-error-code-19/"><u>Expert Advice: How to Resolve the Persistent Problem of Windows Error Code 19</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-solve-non-previewable-documents-on-your-work-computer/"><u>How to Solve Non-Previewable Documents on Your Work Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-approaches-to-disguise-taskview-on-bar/"><u>Innovative Approaches to Disguise TaskView on Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-stop-frozen-epic-launcher-window/"><u>Solutions to Stop Frozen Epic Launcher Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-troubled-games-decipher-vac-failed-steam-alert/"><u>Unlocking Troubled Games: Decipher VAC Failed Steam Alert</u></a></li>
+</ul></div>
 

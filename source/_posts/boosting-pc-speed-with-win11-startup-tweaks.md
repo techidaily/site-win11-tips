@@ -1,7 +1,7 @@
 ---
 title: Boosting PC Speed with Win11 Startup Tweaks
-date: 2024-08-08T10:57:58.225Z
-updated: 2024-08-09T10:57:58.225Z
+date: 2025-01-29T08:12:30.724Z
+updated: 2025-01-31T16:02:52.496Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 
  If you wish to improve the performance of your system, optimizing the startup programs by removing unnecessary items and utilizing a start-up cleaner utility is going to be helpful. In this guide, we'll explain how you can modify Windows startup programs to make your system run faster.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Clean the Startup Folder
 
  To get started, the first thing that we recommend doing is cleaning the start-up folder in File Explorer. You can remove the shortcuts of the programs that you do not want to start at startup as well as remove the junk files that you may no longer need.
@@ -28,21 +32,13 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 
 `C:\Users\>User Name>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Access the File Explorer location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-menu-programs-startup.jpg)
 
  Once you have made the changes in the folder, restart your computer and check if you notice any difference in the boot time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Delay Item Start
 
@@ -65,35 +61,41 @@ Here is all that you need to do:
  Once done, search for**Task Scheduler** using the Windows Search utility and launch it.
 
 1. Click on the**Create Task** option in the left pane and enter a name for the task. You can enter the name of the application whose startup time you want to delay.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![Click on the Create Task button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/task-scheduler-create-task.jpg)
 2. Now, head over to the**Trigger** tab and click on the**New** button.  
 ![Click on the New button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/task-scheduler-create-task-triggers-new.jpg)
 3. Expand the dropdown for**Begin the task** and choose**At log on** .
-4. Checkmark the box associated with**Delay task for** .  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Checkmark the box associated with**Delay task for** .  
 ![Delay the task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/new-trigger-delay-task-time.jpg)
 5. Expand the dropdown and choose your preferred time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Click**OK** to save the changes.
 2. Now, navigate to the**Action** tab and select**New** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![task-scheduler-create-task-actions-new](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/task-scheduler-create-task-actions-new.jpg)
 3. In the dropdown for**Action** , choose**Start a program** \>**Browse** option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![Click on the Browse button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-a-program-browse.jpg)
 4. Next, navigate to the EXE file of the application and click**Open** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Go to the**Conditions** tab and uncheck the box associated with**Start the task only if the computer is on AC power** .  
 ![Change the startup settings of the computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/conditions-start-the-task-only-if-the-computer-is-on-ac-power.jpg)
 6. Finally, click**OK** and close the Task Scheduler.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 Use a Third-Party App
 
@@ -105,21 +107,17 @@ Here is how you can proceed:
 2. Once the file is downloaded, right-click on it and choose**Extract all** .  
 ![Extract the downloaded file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-extract-all.jpg)
 3. Then, double-click on the file and follow the on-screen instructions to complete the installation process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. After the program is installed, launch it.
 5. Enter your preferred delay time under**Delay time** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Set a delay time in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-delay-time.jpg)
 6. Now, click on the**Add New Item** button under the second step.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Click on the Add New button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-add-new-item.jpg)
 7. Enter the program name, its path, and the parameters.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Enter the name and path of the targeted program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-add-edit-dialog.jpg)
 8. Once done, click on the**Start** button.  
 ![Click on the Start button in the Startup Helper utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-start.jpg)
@@ -139,18 +137,21 @@ Follow these steps to proceed:
 1. [Download and Install CCleaner](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2020481/https://www.ccleaner.com/ccleaner/performance-optimizer?utm%5Fmedium=referral&utm%5Fsource=MakeUseOf&x-origin=8&x-campaign=36&x-variant=1336&inst-attr=mmm%5Fccl%5Fdlp%5F000%5F004%5Fa) using your browser.
 2. Once installed, launch the app.
 3. Click on the Tool icon in the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Click on the Tools option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ccleaner-tools.jpg)
 4. Choose**Startup** in the following window.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ccleaner-tools-startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ccleaner-tools-startup.jpg)
 5. In the following four sections, you will be able to see all the components that run when you boot into Windows. Locate the unnecessary ones, click on them, and choose**Disable** or**Delete** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable or delete the uneeded apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ccleaner-tools-startup-disable-delete.jpg)
 6. Once done, restart your computer and check if you notice any difference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Uninstall Any Unnecessary Programs
 
@@ -160,32 +161,23 @@ Follow these steps to proceed:
 
  See our guide on [ways to uninstall software in Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Keep Your Windows Updated
 
  This may seem trivial, but keeping your Windows up-to-date at all times can help prevent a number of issues such as frequent lagging and sudden crashes.
 
  We highly recommend [installing the Windows updates](https://www.makeuseof.com/windows-11-install-updates/) as soon as they are released. You can view all the pending system updates in the Windows Updates section of the Settings app.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Manage Your Windows Startup Apps to Improve Your System's Performance
 
  Slow computers are no fun to use. They do not just cause unnecessary delays but can also result in a lot of frustration.
 
  One way to maintain a good system is by optimizing the startup programs. The methods mentioned above should help you do this, in detail. Keeping the startup folder clean will help you avoid startup programs interfering with the system's functioning in the future.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -194,6 +186,26 @@ Follow these steps to proceed:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-haute-couture-at-home-makeup-tools-and-techniques/"><u>[Updated] 2024 Approved Haute Couture at Home Makeup, Tools & Techniques</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unlocking-the-meaning-behind-tiktoks-pfp-emoji/"><u>[Updated] In 2024, Unlocking the Meaning Behind TikTok's PFP Emoji</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-your-go-to-spots-for-quality-pixel-tones-for-2024/"><u>[Updated] Your Go-To Spots for Quality Pixel Tones for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/923300-9781780991658-a-wags-as-good-as-a-smile/"><u>A Wag's As Good As A Smile | Free Book</u></a></li>
+<li><a href="https://driver-install.techidaily.com/chipset-driver-update-for-win-10-8-oses/"><u>Chipset Driver Update for WIN 10-8 OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-smooth-gameplay-addressing-the-frequent-failures-of-age-of-empires-4-on-windows-devices/"><u>Ensuring Smooth Gameplay: Addressing the Frequent Failures of Age of Empires 4 on Windows Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/full-insight-gecata-game-logging-system-reviewed-for-2024/"><u>Full Insight Gecata Game Logging System Reviewed for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacks-make-excel-readable-in-windows-notepad/"><u>Hacks: Make Excel Readable in Windows Notepad</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-k11-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo K11 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/inside-your-pcs-heart-generating-and-examining-system-insights/"><u>Inside Your PC's Heart: Generating & Examining System Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/method-for-turning-off-intelligent-agent/"><u>Method for Turning Off Intelligent Agent</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-file-not-found-on-your-windows-pc/"><u>Solving 'File Not Found' On Your Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-for-enabling-windows-assistants-using-vivetool/"><u>Step-by-Step for Enabling Windows Assistants Using ViveTool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-file-explorer-from-auto-launching/"><u>Stop File Explorer From Auto-Launching</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prolong-windows-11-shutdown-during-active-tasks/"><u>Strategies to Prolong Windows 11 Shutdown During Active Tasks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-for-seamless-and-feature-rich-video-conferencing-groups/"><u>Top Picks for Seamless and Feature-Rich Video Conferencing Groups</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/troubleshooting-and-correcting-windows-memory-issues-with-help-from-yl-software/"><u>Troubleshooting and Correcting Windows Memory Issues with Help From YL Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-made-simple-apps-on-new-windows-11-computers/"><u>Upgrading Made Simple: Apps on New Windows 11 Computers</u></a></li>
+</ul></div>
 

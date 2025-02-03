@@ -1,7 +1,7 @@
 ---
 title: Avoid Ephemeral Backgrounds on Win11
-date: 2024-08-08T10:56:11.044Z
-updated: 2024-08-09T10:56:11.044Z
+date: 2025-01-28T04:48:06.740Z
+updated: 2025-02-01T06:15:50.864Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
  Here are some solutions to stop Windows 11 from changing the background.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Make Sure the Theme Isn't Changing Your Wallpaper
 
  If you’ve recently installed a new theme, it could be that it changes the background image after a while. You can use one of the [ways to switch your wallpaper on Windows 11](https://www.makeuseof.com/windows-11-change-desktop-wallpaper/) if you find this behavior distracting or undesirable. Hopefully, this will prevent the background from automatically changing.
@@ -33,10 +37,12 @@ Here’s how you can stop that from happening:
 1. Right-click**Start** and select**Settings** in the Power Menu.  
 ![the windows 11 power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-11-start-power-menu.jpg)
 2. Head to**Personalize > Background** .
-3. If it says**Slideshow** in the dropdown next to**Personalize your background** , click on it and select**Picture** or**Solid color** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. If it says**Slideshow** in the dropdown next to**Personalize your background** , click on it and select**Picture** or**Solid color** .  
 ![switching the background type on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/personalizing-bg-windows-11.jpg)
 
 Now your background should remain fixed.
@@ -52,18 +58,21 @@ Here’s how to do that:
 1. Right-click**Start** and select**Settings** in the Power Menu.
 2. Go to**Accounts > Windows backup** .
 3. If you don’t want to sync your Windows 11 PC with anything, turn off the toggle next to**Remember my preferences** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![turning off remember my preferences on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-backup-remember-preferences-off.jpg)
 4. If you don't want to sync the settings only, click the**down arrow** next to the toggle for**Remember my preferences** to expand the section and uncheck**Other Windows settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![turning off other windows settings on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-backup-remember-preferences-windows-settings-off.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now when you change the background or theme on another Windows device, it won’t affect this one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## 4\. Use a Local Account
 
  Another way to disable Windows’ ability to sync settings across devices is to switch to a local account. This will disconnect the Windows account on your computer from your Microsoft account and its services.
@@ -75,39 +84,31 @@ Here’s how to do that:
 ![link to sign into windows 11 with a local account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-11-sign-in-local-account.jpg)
 3. Follow the steps to set up your local account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now your Windows account on this computer will be isolated from the rest of your Windows devices, and the settings should no longer sync.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Lock the Background Settings
 
  Sometimes, it’s not that Windows is changing the background so much as someone else is doing it when they use your computer. You can tell them to stop if you know who it is, but if many people use the PC, you can simply [disable your Windows background settings](https://www.makeuseof.com/stop-others-change-windows-desktop-background/) . This will prevent others from changing them.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Uninstall the Most Recent Windows Update
 
  While keeping your computer updated is a good idea, if the background switching problem is too much of a nuisance, uninstalling a recent update can help get rid of the issue. If this is what you want to do, read our guide on the [ways you can uninstall updates on Windows](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Now Your Background Should Stop Changing by Itself
 
  Having the Windows background set up the way you want can make Windows more enjoyable. But if it keeps changing, it can dampen your experience. If you can’t take it anymore, just try the fixes above, and see which one works for you.
 
  And if all else fails, you might need to give your Windows 11 computer the good old reset.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,6 +117,20 @@ Here’s how to do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-bridging-gaps-in-communication-automating-story-captions/"><u>[New] Bridging Gaps in Communication Automating Story Captions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-instagram-antithesis-video-reversal-explained/"><u>[New] In 2024, The Instagram Antithesis Video Reversal Explained</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-elite-4k-reflections-the-best-mirrorless-picks/"><u>2024 Approved Elite 4K Reflections The Best Mirrorless Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/classic-resurrection-windows-11-redesigned-for-98-feel/"><u>Classic Resurrection: Windows 11 Redesigned for 98 Feel</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/command-line-magic-opening-srt-for-windows-macos-for-2024/"><u>Command Line Magic Opening SRT for Windows, MacOS for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-seamless-thx-audio-on-windows-pcs/"><u>Ensuring Seamless THX Audio on Windows PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-wake-up-call-from-dark-screen-mode/"><u>Quick Fixes for Wake-Up Call From Dark Screen Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-windows-store-glitch-error-x80072f17-fix/"><u>Rectifying Windows Store Glitch: Error X80072F17 Fix</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-teases-artificial-intelligence-capabilities-for-legacy-galaxy-devices/"><u>Samsung Teases Artificial Intelligence Capabilities for Legacy Galaxy Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/silentizing-beats-the-low-volume-approach/"><u>Silentizing Beats The Low-Volume Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unmasking-not-found-top-8-fixes-for-windows/"><u>Unmasking 'Not Found': Top 8 Fixes for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-sign-in-tricks-for-temporary-user-profiles/"><u>Windows Sign-In Tricks for Temporary User Profiles</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Avoid the Trouble: Fixing Corrupted Recycle Bin on Win10/11"
-date: 2024-08-08T10:58:01.020Z
-updated: 2024-08-09T10:58:01.020Z
+date: 2025-01-30T21:08:20.083Z
+updated: 2025-02-01T03:58:09.266Z
 tags:
   - windows10
   - windows11
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ---
 
 ## Avoid the Trouble: Fixing Corrupted Recycle Bin on Win10/11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -62,18 +66,12 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 3. Select **Yes** when the User Account Control (UAC) prompt appears.
 4. Type the following command and press **Enter**.  
 `chkdsk /r e:`  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check Disk Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/check-disk-scan-on-windows-1.jpg)
 
  The **r** switch in a CHKDSK scan tells CHKDSK to locate bad sectors on the target disk and recover the readable information from the bad sectors. This can take some time as it scans and repairs the bad sectors on the drive.
 
  Restart your PC after running the CHKDSK scan, then check if the error still occurs.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the SFC and DISM Scans
 
  Problems with your PC's system files can also give rise to such Recycle Bin errors. Thankfully, Windows includes helpful tools called **SFC (System File Checker)** and **DISM (Deployment Image Servicing and Management)** scans, which can automatically detect and repair any corrupted system files.
@@ -81,8 +79,9 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
  For more information, check our guide on [repairing corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) and follow the steps outlined.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Scan for Malware
 
  If you continue to see the Recycle Bin corrupted error, there is a chance that your PC is infected with malware. To rule out this possibility, you can use the built-in Windows Defender or [PowerShell to scan your computer for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). You can also use a reliable third-party antivirus program for this.
@@ -91,18 +90,12 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
  If the scan detects anything suspicious, take the recommended steps to eliminate the threat.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 5\. Perform a System Restore
 
  Recent changes made to your system may have led to the Recycle Bin corrupted error on your Windows 10 or 11 PC. If the error message has only started appearing recently, you can consider [using system restore to revert Windows](https://www.makeuseof.com/use-system-restore-windows/) to its earlier state when it worked fine.
 
  Once you restore Windows to its previous state, the errors shouldn't persist.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Rid of Annoying Recycle Bin Corrupted Errors
 
  Recycle Bin errors can be vexing but are usually easy to fix. In most cases, resetting the Recycle Bin should resolve the corrupted error. If not, you may need to try the abovementioned solutions to fix the underlying problem.
@@ -112,8 +105,9 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
  Fortunately, it is possible to resolve this error message without formatting your drive and losing critical data. Here, we show you how to fix the Windows 10 or 11 error.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Reset Recycle Bin Using the Command Prompt
 
  Resetting the Recycle Bin is one of the most effective ways to fix issues with it. Doing so allows Windows to empty the Recycle Bin and restore it to its default settings, resolving any issues.
@@ -127,9 +121,92 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 3. Select **Yes** when the User Account Control (UAC) prompt appears.
 4. Type the following command and press **Enter**.  
 `rd /s /q C:\$Recycle.bin`  
+![Reset Recycle Bin on Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-recycle-bin-on-windows-using-command-prompt.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ This command deletes all the files and folders in the Recycle Bin, including subdirectories, without prompting the user for confirmation. The two switches have the following functions:
+
+**/s** \- Recursively deletes all the files and folders in the Recycle Bin, including subdirectories.
+
+**/q** \- Stands for Quiet mode as it suppresses all confirmation prompts.
+
+ If you are getting the Recycle Bin corrupted error for a drive other than the C drive, replace the letter "C:" in the above command with the letter of the drive causing the error.
+
+ Once you run the above command, Windows will reset the Recycle Bin for the specified drive, and you should not see any more errors.
+
+## 2\. Run a CHKDSK Scan
+
+ If resetting the Recycle Bin proves ineffective, there may be an issue with the drive itself. You can try running a CHKDSK scan to check and repair your drive for bad sectors and file system errors.
+
+ For instance, if you see a "The Recycle Bin on E:\\ is corrupted" error, you will need to scan the E: drive using these steps:
+
+1. Press **Win + S** to open the search menu.
+2. Type **cmd** in the text box and select **Run as administrator**.
+3. Select **Yes** when the User Account Control (UAC) prompt appears.
+4. Type the following command and press **Enter**.  
+`chkdsk /r e:`  
+![Check Disk Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/check-disk-scan-on-windows-1.jpg)
+
+ The **r** switch in a CHKDSK scan tells CHKDSK to locate bad sectors on the target disk and recover the readable information from the bad sectors. This can take some time as it scans and repairs the bad sectors on the drive.
+
+ Restart your PC after running the CHKDSK scan, then check if the error still occurs.
+
+## 3\. Run the SFC and DISM Scans
+
+ Problems with your PC's system files can also give rise to such Recycle Bin errors. Thankfully, Windows includes helpful tools called **SFC (System File Checker)** and **DISM (Deployment Image Servicing and Management)** scans, which can automatically detect and repair any corrupted system files.
+
+ For more information, check our guide on [repairing corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) and follow the steps outlined.
+
+## 4\. Scan for Malware
+
+ If you continue to see the Recycle Bin corrupted error, there is a chance that your PC is infected with malware. To rule out this possibility, you can use the built-in Windows Defender or [PowerShell to scan your computer for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). You can also use a reliable third-party antivirus program for this.
+
+![Malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/malware-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ If the scan detects anything suspicious, take the recommended steps to eliminate the threat.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 5\. Perform a System Restore
+
+ Recent changes made to your system may have led to the Recycle Bin corrupted error on your Windows 10 or 11 PC. If the error message has only started appearing recently, you can consider [using system restore to revert Windows](https://www.makeuseof.com/use-system-restore-windows/) to its earlier state when it worked fine.
+
+ Once you restore Windows to its previous state, the errors shouldn't persist.
+
+## Get Rid of Annoying Recycle Bin Corrupted Errors
+
+ Recycle Bin errors can be vexing but are usually easy to fix. In most cases, resetting the Recycle Bin should resolve the corrupted error. If not, you may need to try the abovementioned solutions to fix the underlying problem.
+
+ Is your Windows PC bugging you with a "The Recycle Bin on C:\\ is corrupted. Do you want to empty the Recycle Bin for this drive" error message? Such errors can occur with any drive, including internal and external ones, effectively preventing you from accessing the drive.
+
+ Fortunately, it is possible to resolve this error message without formatting your drive and losing critical data. Here, we show you how to fix the Windows 10 or 11 error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 1\. Reset Recycle Bin Using the Command Prompt
+
+ Resetting the Recycle Bin is one of the most effective ways to fix issues with it. Doing so allows Windows to empty the Recycle Bin and restore it to its default settings, resolving any issues.
+
+ Several users on a [Microsoft Community post](https://answers.microsoft.com/en-us/windows/forum/all/the-recycle-bin-on-e-is-corrupted-do-you-want-to/420dbb57-3cb0-4386-8a5c-39b44e542796) reported fixing the Recycle Bin corrupted error on Windows with this tip.
+
+ To reset the Recycle Bin on Windows:
+
+1. Press **Win + X** to open the Power User menu.
+2. Select **Terminal (Admin)** from the list.
+3. Select **Yes** when the User Account Control (UAC) prompt appears.
+4. Type the following command and press **Enter**.  
+`rd /s /q C:\$Recycle.bin`  
 ![Reset Recycle Bin on Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-recycle-bin-on-windows-using-command-prompt.jpg)
 
  This command deletes all the files and folders in the Recycle Bin, including subdirectories, without prompting the user for confirmation. The two switches have the following functions:
@@ -159,107 +236,27 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
  Restart your PC after running the CHKDSK scan, then check if the error still occurs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Run the SFC and DISM Scans
 
  Problems with your PC's system files can also give rise to such Recycle Bin errors. Thankfully, Windows includes helpful tools called **SFC (System File Checker)** and **DISM (Deployment Image Servicing and Management)** scans, which can automatically detect and repair any corrupted system files.
 
  For more information, check our guide on [repairing corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) and follow the steps outlined.
 
-## 4\. Scan for Malware
-
- If you continue to see the Recycle Bin corrupted error, there is a chance that your PC is infected with malware. To rule out this possibility, you can use the built-in Windows Defender or [PowerShell to scan your computer for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). You can also use a reliable third-party antivirus program for this.
-
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![Malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/malware-1.jpg)
-
- If the scan detects anything suspicious, take the recommended steps to eliminate the threat.
-
-## 5\. Perform a System Restore
-
- Recent changes made to your system may have led to the Recycle Bin corrupted error on your Windows 10 or 11 PC. If the error message has only started appearing recently, you can consider [using system restore to revert Windows](https://www.makeuseof.com/use-system-restore-windows/) to its earlier state when it worked fine.
-
- Once you restore Windows to its previous state, the errors shouldn't persist.
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Get Rid of Annoying Recycle Bin Corrupted Errors
-
- Recycle Bin errors can be vexing but are usually easy to fix. In most cases, resetting the Recycle Bin should resolve the corrupted error. If not, you may need to try the abovementioned solutions to fix the underlying problem.
-
- Is your Windows PC bugging you with a "The Recycle Bin on C:\\ is corrupted. Do you want to empty the Recycle Bin for this drive" error message? Such errors can occur with any drive, including internal and external ones, effectively preventing you from accessing the drive.
-
- Fortunately, it is possible to resolve this error message without formatting your drive and losing critical data. Here, we show you how to fix the Windows 10 or 11 error.
-
-## 1\. Reset Recycle Bin Using the Command Prompt
-
- Resetting the Recycle Bin is one of the most effective ways to fix issues with it. Doing so allows Windows to empty the Recycle Bin and restore it to its default settings, resolving any issues.
-
- Several users on a [Microsoft Community post](https://answers.microsoft.com/en-us/windows/forum/all/the-recycle-bin-on-e-is-corrupted-do-you-want-to/420dbb57-3cb0-4386-8a5c-39b44e542796) reported fixing the Recycle Bin corrupted error on Windows with this tip.
-
- To reset the Recycle Bin on Windows:
-
-1. Press **Win + X** to open the Power User menu.
-2. Select **Terminal (Admin)** from the list.
-3. Select **Yes** when the User Account Control (UAC) prompt appears.
-4. Type the following command and press **Enter**.  
-`rd /s /q C:\$Recycle.bin`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
-![Reset Recycle Bin on Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-recycle-bin-on-windows-using-command-prompt.jpg)
-
- This command deletes all the files and folders in the Recycle Bin, including subdirectories, without prompting the user for confirmation. The two switches have the following functions:
-
-**/s** \- Recursively deletes all the files and folders in the Recycle Bin, including subdirectories.
-
-**/q** \- Stands for Quiet mode as it suppresses all confirmation prompts.
-
- If you are getting the Recycle Bin corrupted error for a drive other than the C drive, replace the letter "C:" in the above command with the letter of the drive causing the error.
-
- Once you run the above command, Windows will reset the Recycle Bin for the specified drive, and you should not see any more errors.
-
-## 2\. Run a CHKDSK Scan
-
- If resetting the Recycle Bin proves ineffective, there may be an issue with the drive itself. You can try running a CHKDSK scan to check and repair your drive for bad sectors and file system errors.
-
- For instance, if you see a "The Recycle Bin on E:\\ is corrupted" error, you will need to scan the E: drive using these steps:
-
-1. Press **Win + S** to open the search menu.
-2. Type **cmd** in the text box and select **Run as administrator**.
-3. Select **Yes** when the User Account Control (UAC) prompt appears.
-4. Type the following command and press **Enter**.  
-`chkdsk /r e:`  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Check Disk Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/check-disk-scan-on-windows-1.jpg)
-
- The **r** switch in a CHKDSK scan tells CHKDSK to locate bad sectors on the target disk and recover the readable information from the bad sectors. This can take some time as it scans and repairs the bad sectors on the drive.
-
- Restart your PC after running the CHKDSK scan, then check if the error still occurs.
-
-## 3\. Run the SFC and DISM Scans
-
- Problems with your PC's system files can also give rise to such Recycle Bin errors. Thankfully, Windows includes helpful tools called **SFC (System File Checker)** and **DISM (Deployment Image Servicing and Management)** scans, which can automatically detect and repair any corrupted system files.
-
- For more information, check our guide on [repairing corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) and follow the steps outlined.
 
 ## 4\. Scan for Malware
 
  If you continue to see the Recycle Bin corrupted error, there is a chance that your PC is infected with malware. To rule out this possibility, you can use the built-in Windows Defender or [PowerShell to scan your computer for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). You can also use a reliable third-party antivirus program for this.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/malware-1.jpg)
 
  If the scan detects anything suspicious, take the recommended steps to eliminate the threat.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Perform a System Restore
 
@@ -288,9 +285,6 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 3. Select **Yes** when the User Account Control (UAC) prompt appears.
 4. Type the following command and press **Enter**.  
 `rd /s /q C:\$Recycle.bin`  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reset Recycle Bin on Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-recycle-bin-on-windows-using-command-prompt.jpg)
 
  This command deletes all the files and folders in the Recycle Bin, including subdirectories, without prompting the user for confirmation. The two switches have the following functions:
@@ -303,10 +297,6 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
  Once you run the above command, Windows will reset the Recycle Bin for the specified drive, and you should not see any more errors.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 2\. Run a CHKDSK Scan
 
  If resetting the Recycle Bin proves ineffective, there may be an issue with the drive itself. You can try running a CHKDSK scan to check and repair your drive for bad sectors and file system errors.
@@ -318,9 +308,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Select **Yes** when the User Account Control (UAC) prompt appears.
 4. Type the following command and press **Enter**.  
 `chkdsk /r e:`  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Check Disk Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/check-disk-scan-on-windows-1.jpg)
 
  The **r** switch in a CHKDSK scan tells CHKDSK to locate bad sectors on the target disk and recover the readable information from the bad sectors. This can take some time as it scans and repairs the bad sectors on the drive.
@@ -337,9 +324,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you continue to see the Recycle Bin corrupted error, there is a chance that your PC is infected with malware. To rule out this possibility, you can use the built-in Windows Defender or [PowerShell to scan your computer for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). You can also use a reliable third-party antivirus program for this.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/malware-1.jpg)
 
  If the scan detects anything suspicious, take the recommended steps to eliminate the threat.
@@ -350,18 +334,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Once you restore Windows to its previous state, the errors shouldn't persist.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Rid of Annoying Recycle Bin Corrupted Errors
 
  Recycle Bin errors can be vexing but are usually easy to fix. In most cases, resetting the Recycle Bin should resolve the corrupted error. If not, you may need to try the abovementioned solutions to fix the underlying problem.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -370,6 +355,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-orchestrate-an-engaging-statement-with-tunes/"><u>[Updated] Orchestrate an Engaging Statement with Tunes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-snippet-showcase-cinematic-samples-for-editing-artists/"><u>2024 Approved Snippet Showcase Cinematic Samples for Editing Artists</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/echo-chatters-how-to-fix-silent-microphones-on-google-meet-windows/"><u>Echo Chatters: How to Fix Silent Microphones on Google Meet, Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-climate-tools-for-w10w11-users/"><u>Exclusive Climate Tools for W10/W11 Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-top-10-no-cost-digital-photography-tools/"><u>Explore Top 10 No-Cost Digital Photography Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oneplus-12r-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your OnePlus 12R Lock Screen Password</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-the-experts-selection-of-windows-compatible-noise-cancellation-applications/"><u>In 2024, The Experts Selection of Windows-Compatible Noise Cancellation Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-muted-microphone-recordings-with-obs-in-windows-11/"><u>Rectifying Muted Microphone Recordings with OBS in Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-premier-free-srt-to-video-subtitle-tools/"><u>The Premier Free SRT to Video Subtitle Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unshackle-notepad-quick-efficient-ways-to-restart-on-windows-pcs/"><u>Unshackle Notepad: Quick, Efficient Ways to Restart on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-security-enablingdisabling-usb-device-access/"><u>Windows Security: Enabling/Disabling USB Device Access</u></a></li>
+</ul></div>
 

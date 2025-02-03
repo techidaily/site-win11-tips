@@ -1,7 +1,7 @@
 ---
 title: Personalize Your Window Terminal with Colors
-date: 2025-01-17T20:07:14.726Z
-updated: 2025-01-25T01:19:12.061Z
+date: 2025-01-31T09:21:07.876Z
+updated: 2025-02-01T12:57:11.987Z
 tags:
   - windows10
   - windows11
@@ -35,24 +35,24 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 ![opening the settings of windows terminal from the title bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-tab-settings.jpg)
 3. On the left side menu, select**Color Schemes** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click on the**dropdown menu** in the right panel and select the color scheme you want to edit.
 5. Under**Terminal colors** or**System colors** , you’ll see several options, such as**Black** ,**Red** ,**White** ,**Foreground** , and**Background** , with a color next to them. Click on the color to bring up the editor.  
 ![the windows terminal color schemes page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-color-scheme.jpg)
 6. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value in the text box below. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the color completely.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![the color editor for a color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-edit-scheme-color.jpg)
 7. When you’re done, click**Save** in the bottom right corner to save your changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Create a Color Scheme in Windows Terminal?
@@ -66,14 +66,14 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 ![a custom color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/custom-10-color-scheme-windows-terminal.jpg)
 5. Click on the**Rename** button next to the**dropdown** , give the custom scheme a name, and then click the**blue checkmark** to save it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![a custom color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/custom-10-color-scheme-windows-terminal.jpg)
 6. Change the colors in the**Terminal colors** and**System colors** sections to something you like by clicking on them to bring up the editor.
 7. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the colors completely.
 8. When you’re done, click**Save** in the bottom right corner to save your changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Apply a Color Scheme in Windows Terminal
 
@@ -88,12 +88,12 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 ![the additional settings of a profile in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-additional-settings.jpg)
 5. In the**Text** section, click on the**dropdown** next to**Color scheme** and select the edited or custom color scheme that you want to apply.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![changing the color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/change-color-scheme-windows-terminal.jpg)
 6. When you’re done, click**Save** in the bottom right corner to save your changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Customizing Color Schemes in Windows Terminal Is Easy
 
@@ -114,24 +114,19 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-advanced-editing-workflows-windows-photos-and-story-remix-combo/"><u>[New] Advanced Editing Workflows Windows Photos & Story Remix Combo</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-full-screen-glitch-resolved-in-obs-for-2024/"><u>[New] Full-Screen Glitch Resolved in Obs for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-premier-mobile-gaming-best-android-gb-simulators/"><u>[New] In 2024, Premier Mobile Gaming Best Android GB Simulators</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-seamlesscapture-w10s-simple-recording-tool/"><u>[Updated] 2024 Approved SeamlessCapture W10's Simple Recording Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discard-tech-the-top-11-software-deletion-paths-in-windows-11-117-chars/"><u>Discard Tech: The Top 11 Software Deletion Paths in Windows 11 (117 Chars)</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/expert-tips-on-eradicating-computer-viruses-via-command-line-interface-and-retrieving-lost-documents/"><u>Expert Tips on Eradicating Computer Viruses via Command Line Interface and Retrieving Lost Documents</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-the-faulty-escape-functionality-in-your-windows-environment/"><u>Fix the Faulty Escape Functionality in Your Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-rectify-msstore-failure-error-0x00000000-in-win-1011/"><u>Guide to Rectify MsStore Failure, Error 0X00000000 in Win 10/11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-honor-70-lite-5g-phone-by-drfone-android/"><u>How to Reset a Locked Honor 70 Lite 5G Phone</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/personalized-advertising-engines-leveraging-powerful-insights-via-the-cookiebot-platform/"><u>Personalized Advertising Engines: Leveraging Powerful Insights via the Cookiebot Platform</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oneplus-open-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of OnePlus Open on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-network-related-error-on-ges-interface/"><u>Resolving Network-Related Error on GE's Interface</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-driver-adjustment-atis-hd-4800-series/"><u>Seamless Driver Adjustment: ATI's HD 4800 Series</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/selecting-perfect-nvidia-drivers-for-your-needs/"><u>Selecting Perfect Nvidia Drivers for Your Needs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-definitive-guide-to-secured-windows-downloads/"><u>The Definitive Guide to Secured Windows Downloads</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138621060-9781601636126-the-synthesis-effect/"><u>The Synthesis Effect | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-potential-the-process-of-replacing-aged-window-cards/"><u>Unleash Potential: The Process of Replacing Aged Window Cards</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmatched-efficiency-the-best-of-wins-optimization-aids/"><u>Unmatched Efficiency: The Best of Win's Optimization Aids</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/whys-my-screen-mute-fixing-microphone-issues-on-microsoft-powered-google-meet/"><u>Why's My Screen Mute? Fixing Microphone Issues on Microsoft-Powered Google Meet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-exclusive-insights-into-making-memorable-instagram-movies-for-2024/"><u>[New] Exclusive Insights Into Making Memorable Instagram Movies for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-streaming-setup-leading-livestream-hardware-and-software-guide/"><u>[New] In 2024, Best Streaming Setup Leading Livestream Hardware & Software Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-iphone-and-android-edition-compile-the-most-useful-top-8-edits-tools/"><u>[New] In 2024, IPhone and Android Edition Compile the Most Useful Top 8 Edits Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-tailored-video-edits-for-exceptional-vimeo-content/"><u>[New] In 2024, Tailored Video Edits for Exceptional Vimeo Content</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-12-mini-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 12 mini How to Bypass?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-productivity-with-cloud-services-dropboxgoogle-on-c/"><u>Enhancing Productivity with Cloud Services: Dropbox/Google on C:</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-does-dts-virtual-x-enhance-your-audio-experience/"><u>How Does DTS Virtual X Enhance Your Audio Experience?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/laughing-liberally-with-our-meme-toolbox-for-2024/"><u>Laughing Liberally with Our Meme Toolbox for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-with-ease-adopting-apple-maps-in-windows/"><u>Navigating with Ease: Adopting Apple Maps in Windows</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-5-top-ranked-social-media-series-for-crafting-effective-marketing-tactics-for-2024/"><u>New 5 Top-Ranked Social Media Series for Crafting Effective Marketing Tactics for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/730374-9781446489963-spiritual-alchemy/"><u>Spiritual Alchemy | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-capability-of-windows-11-with-easy-widget-additions/"><u>Unlock the Full Capability of Windows 11 With Easy Widget Additions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-seamless-play-easy-drive-selection-in-xbox-app/"><u>Unlocking Seamless Play: Easy Drive Selection in Xbox App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-tactics-boosting-valorant-download-speed-quickly/"><u>Winning Tactics: Boosting Valorant Download Speed Quickly</u></a></li>
 </ul></div>
 

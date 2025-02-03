@@ -1,7 +1,7 @@
 ---
 title: Boost Dedicated Video RAM Capacity on Modern Windows
-date: 2024-08-16T01:08:16.284Z
-updated: 2024-08-17T01:08:16.284Z
+date: 2025-01-26T07:06:21.579Z
+updated: 2025-02-01T02:50:47.029Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 
  Using video RAM for this task is much faster than using your system RAM because video RAM is right next to the GPU in the graphics card. VRAM is built for this high-intensity purpose and it's thus "dedicated."
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Check Your VRAM in Windows 10 and Windows 11
 
  You can easily view the amount of video RAM you have in Windows 10 by following these steps:
@@ -44,13 +41,18 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 5. In a new window, you'll see your current video RAM listed next to**Dedicated Video Memory** .
 
 ![Windows 10 Video RAM Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/Windows-10-Video-RAM-Information.png)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To reach this menu on Windows 11, go to**Settings > System > Display > Advanced display** . Then choose a display and click**Display adapter properties** .
 
  Under**Adapter Type** , you'll see the name of your**Nvidia** or**AMD** graphics card, depending on what device you have. If you see**AMD Accelerated Processing Unit** or**Intel HD Graphics** (more likely), you're [using integrated graphics](https://www.makeuseof.com/tag/can-shared-graphics-finally-compete-with-a-dedicated-graphics-card/) . We cover more on this below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Increase VRAM in Windows
 
@@ -88,6 +90,10 @@ Head to the following location:
 
  Like with most hardware tasks, upgrading your RAM or video card is often difficult on a laptop but simple to do on a desktop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Kinds of Tasks Need Video RAM?
 
  Before we talk about specific values for video memory, we should mention what aspects of games and other graphics-intensive apps use the most VRAM.
@@ -103,8 +109,9 @@ Head to the following location:
  Specific games can also require different amounts of VRAM depending on their graphical fidelity. An older cartoony game like Team Fortress 2 isn't too graphically demanding, but a title with lots of advanced lighting effects and detailed textures, like Cyberpunk 2077, needs more resources.
 
 ![cyberpunk 2077 xbox series x](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/cyberpunk-2077.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Conversely, a cheap card with just 2GB of VRAM (or even integrated graphics with 8GB+ of system RAM) is sufficient for playing PC titles from 20-plus years ago. Games back then had nowhere near modern amounts of RAM at their disposal.
@@ -126,8 +133,9 @@ Head to the following location:
  Extremes aren't the concern with VRAM. You don't need an $800, top-of-the-line card with 12GB of VRAM to play 2D indie platformers. Really, you only need to worry about how much VRAM to get when a card you want to buy is available in multiple VRAM configurations. VRAM isn't the only [factor that should go into your GPU decision](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Common Video RAM Concerns
 
  Remember that just like normal RAM, more VRAM doesn't always mean better performance. If your card has 4GB of VRAM and you're playing a game that only uses 2GB, upgrading to an 8GB card isn't going to do anything noticeable.
@@ -138,9 +146,6 @@ Head to the following location:
 
  The best way to find out which specific graphics card and amount of video RAM is right for you is to talk to someone knowledgeable. Ask a friend who knows about the latest graphics cards, or post on a forum like Reddit or Tom's Hardware asking if a specific card would work for your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Understanding VRAM With Integrated Graphics
 
  So far, our discussion has assumed that you have a dedicated graphics card in your PC. Most people who build their own computer or buy a prebuilt gaming PC have a desktop with a video card. Some beefier laptops even include a dedicated graphics card.
@@ -153,23 +158,17 @@ Head to the following location:
 
  As long as your computer is within a few years old, you should have no problems watching videos, playing low-intensity games, and working in basic photo and video editing apps with integrated graphics. However, playing the latest graphically impressive games at a comfortable frame rate with integrated graphics is not possible.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Now You Understand Video RAM
 
  Now you know what video RAM is, how much you need, and how to increase it. In the end, though, remember that video RAM is a small aspect of your computer's overall performance. A weak GPU wouldn't perform well even with a lot of VRAM.
 
  So if you're looking to increase gaming and graphical performance, you'll likely need to upgrade your graphics card, processor, and/or RAM first—the VRAM should sort itself out when you do all this.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,6 +177,26 @@ Head to the following location:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-decoding-the-process-of-capturing-facebooks-gifs-on-mobilepc/"><u>[New] In 2024, Decoding the Process of Capturing Facebook's GIFs on Mobile/PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>[Updated] In 2024, Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-flick-retrospective-the-goofy-movie-edition-revisited/"><u>2024 Approved Flick Retrospective The 'Goofy Movie' Edition Revisited</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-streamlining-creation-top-10-easy-to-create-biz-channels-on-youtube/"><u>2024 Approved Streamlining Creation Top 10 Easy-to-Create Biz Channels on YouTube</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-nubia-red-magic-8s-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cracked-cipher-seal-stay-solid-no-swift-switching/"><u>Cracked Cipher Seal: Stay Solid; No Swift Switching</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/faster-printing-in-a-flash-tips-for-slow-windows-devices/"><u>Faster Printing in a Flash: Tips for Slow Windows Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-13-mini-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone 13 mini Without Previous Owner?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-from-shot-to-showcase-smooth-video-capture-and-post-editing-with-adobe-connect/"><u>In 2024, From Shot to Showcase Smooth Video Capture & Post-Editing with Adobe Connect</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-excessive-dropbox-cpu-power-drains-in-windows-os/"><u>Mitigating Excessive Dropbox CPU Power Drains in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-peak-fps-monitors-and-counters-in-windows-11/"><u>Navigating the Peak FPS Monitors & Counters in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-iphone-images-import-problems-in-windows-1011/"><u>Overcoming iPhone Images Import Problems in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/replacing-lost-d3dx939dll-error-win11-style/"><u>Replacing Lost D3DX9_39.dll Error, Win11 Style</u></a></li>
+<li><a href="https://extra-support.techidaily.com/soundtracking-whatsapp-statues-for-2024/"><u>Soundtracking WhatsApp Statues for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-4-best-new-microsoft-paint-features/"><u>The 4 Best New Microsoft Paint Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-windows-cpu-monitors/"><u>Top Windows CPU Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-peak-performance-top-utilities-for-windows-pcs/"><u>Unlock Peak Performance: Top Utilities for Windows PCs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visual-wonders-the-10-list-of-exceptional-4k-for-macs/"><u>Visual Wonders The #10 List of Exceptional 4K for Macs</u></a></li>
+</ul></div>
 

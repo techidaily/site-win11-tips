@@ -1,7 +1,7 @@
 ---
 title: Advanced Techniques to Master Voice-Activated Accessibility on Windows
-date: 2024-08-16T01:07:17.430Z
-updated: 2024-08-17T01:07:17.430Z
+date: 2025-01-26T15:19:59.491Z
+updated: 2025-02-01T10:19:22.314Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
  In this article, we've put together a complete list of legacy keyboard shortcuts that you can use to make your Narrator experience more seamless.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I Switch Between Legacy and Standard Keyboard Layouts?
 
  There are two popular keyboard layouts for Narrator: Legacy and Standard. The Legacy keyboard layout was traditionally used on computers before the widespread adoption of the Standard layout. It's still in use today and offers advantages at certain times.
@@ -31,13 +35,18 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 3. Select**Keyboard layout** from the drop-down menu.  
 ![Change Narrator Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-narrator-keyboard-layout.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This way, you can switch between the Legacy and Standard layouts.
 
  While this piece just covers the shortcuts, be sure to check out [the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## All the Narrator Legacy Keyboard Shortcuts
 
  Here is a list of keyboard shortcuts that you can use in Narrator to maximize your productivity.
@@ -162,20 +171,18 @@ This way, you can switch between the Legacy and Standard layouts.
 | Narrator + Q                                | Move to last item in containing area                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get More Out of Windows Narrator
 
  Windows Narrator is an incredible tool for people with low vision or blindness, but its features can be used by anyone. Whether you need to quickly find a file or hear today’s news summary, Narrator can help you get the job done. You will find here a list of keyboard shortcuts to help you get more done with Narrator.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,6 +191,23 @@ This way, you can switch between the Legacy and Standard layouts.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-capturing-every-corner-our-top-picks-for-best-11-bridge-cameras/"><u>[New] Capturing Every Corner Our Top Picks for Best 11 Bridge Cameras</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-venture-into-virtual-laughs-top-20plus-funny-metaverse-creations/"><u>[New] Venture Into Virtual Laughs Top 20+ Funny Metaverse Creations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-choosing-the-right-recorder-top-4-full-screen-picks-for-pcmac/"><u>[Updated] Choosing the Right Recorder Top 4 Full-Screen Picks for PC/Mac</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-everlasting-deactivation-tactics-against-youtubes-sneaky-snack/"><u>[Updated] In 2024, Everlasting Deactivation Tactics Against YouTube's Sneaky Snack</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-guide-to-mastering-your-apps-schedule-configuration/"><u>Easy Guide to Mastering Your App's Schedule Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-to-extract-folder-info-on-pc/"><u>Essential Tips to Extract Folder Info on PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-fixing-a-persistent-504-gateway-timeout-problem/"><u>Expert Tips for Fixing a Persistent 504 Gateway Timeout Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-when-windows-doesnt-recognize-powershell-scripts/"><u>Fixes when Windows Doesn't Recognize PowerShell Scripts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-vmware-freeze-ups-and-bsods-on-windows-11/"><u>How to Stop VMware Freeze-Ups and BSODs on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/policy-evaluation-informs-future-policymaking-by-providing-evidence-of-a-policys-effectiveness-or-shortcomings/"><u>Policy Evaluation Informs Future Policymaking by Providing Evidence of a Policy's Effectiveness or Shortcomings.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shutdown-decision-implications-for-users-of-windows-7-and-81/"><u>Shutdown Decision: Implications for Users of Windows 7 and 8.1</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-discord-sluggishness-with-windows-tweaks/"><u>Tackling Discord Sluggishness with Windows Tweaks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-comprehensive-guide-to-differentiate-pc-storage-disks-hdd-or-ssd/"><u>The Comprehensive Guide to Differentiate PC Storage Disks – HDD or SSD</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-tecno-spark-go-2024-by-fonelab-android-recover-music/"><u>The way to get back lost music from Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/underperforming-thermal-grizzly-components-a-confession-from-der8auer/"><u>Underperforming Thermal Grizzly Components: A Confession From Der8auer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-rectifying-common-steam-installation-issues-in-win11/"><u>Unraveling & Rectifying Common Steam Installation Issues in Win11</u></a></li>
+</ul></div>
 

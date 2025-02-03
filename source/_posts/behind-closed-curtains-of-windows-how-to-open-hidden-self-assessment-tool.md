@@ -1,7 +1,7 @@
 ---
 title: "Behind Closed Curtains of Windows: How to Open Hidden Self-Assessment Tool"
-date: 2024-08-08T10:57:23.507Z
-updated: 2024-08-09T10:57:23.507Z
+date: 2025-01-28T11:51:18.437Z
+updated: 2025-01-31T22:24:06.439Z
 tags:
   - windows10
   - windows11
@@ -28,17 +28,11 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 
 1. Press**Win + I** to launch the Settings app.
 2. In the Settings menu, type “Private Character Editor” into the search box and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Private Character Editor Using Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-private-character-editor-using-windows-settings.jpg)
 3. Then, click on the search result that appears in the right pane.
 
  You will see the application on your computer screen after clicking this.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Open the Private Character Editor Through Windows Search
 
  There is a great utility called Windows Search that you can use to find almost anything on your computer, including hidden files and programs installed on your computer.
@@ -46,24 +40,26 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
  To open the Private Character Editor tool using Windows Search, do the following:
 
 1. Open the Start Menu and type "Private Character Editor" into the search bar.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![Open Private Character Editor Using Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-private-character-editor-using-search-tool.jpg)
 2. Select the result from the list at the top. This will open Private Character Editor.
 
  To learn more about this tool, we have a [Windows 10 Search cheat sheet](https://www.makeuseof.com/tag/windows-search-cheat-sheet/) that can help you out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Open the Private Character Editor Using a Run Command
 
  Windows has a built-in Run command that you can use to access programs and files quickly. If you want to open the Private Character Editor with a keyboard shortcut, follow these steps:
 
 1. Right-click on the Start menu and select**Run** to open the Run dialog box. You can also open the tool directly by pressing**Win + R** on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Private Character Editor Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-private-character-editor-using-run-command.jpg)
 2. Type "eudcedit" in the text box and press the**Enter** key. A new window will open for the Private Character and you can start editing your characters.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Open the Private Character Editor Through Control Panel
 
@@ -71,15 +67,9 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 
 1. Open the Control Panel. For this, press**Win + R** on your keyboard, then type "control" in the search box and press**Enter** to begin. See [how to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) for more methods.
 2. In the Control Panel, type "Private Character Editor" in the search bar and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Private Character Editor Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-private-character-editor-using-control-panel.jpg)
 3. On the search results page, you will find a link called "Private Character Editor". Click on it to open the application.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## 5\. How to Open the Private Character Editor via Command Prompt
 
  If you prefer command line methods, you can use Command Prompt to open the Private Character Editor. To do this, follow these steps:
@@ -91,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 4. In the Command Prompt, type "eudcedit" and press**Enter** . This will open the Private Character Editor application.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. How to Open the Private Character Editor via Windows PowerShell
 
  Windows PowerShell is another command-line tool that you can use to launch Private Character Editor on your Windows computer. Here's how:
@@ -102,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 ![Open Private Character Editor Using Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-private-character-editor-using-windows-powershell.jpg)
 3. When UAC pops up on your screen, click**Yes** to grant privileges.
 4. Next, type "eudcedit" and hit**Enter** to access the Private Character Editor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. How to Open the Private Character Editor Using Task Manager
 
@@ -117,9 +112,9 @@ To open the Private Character Editor, follow these steps:
  You can then use Private Character Editor to create your own custom characters.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. How to Open Private Character Editor From File Explorer
 
  File Explorer has an address bar that allows you to directly launch programs and applications on your computer.
@@ -130,8 +125,9 @@ To open Private Character Editor, follow these steps:
 2. In the address bar, type "eudcedit" and press**Enter** . This will open the Private Character Editor application.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. How to Open Private Character Editor With Desktop Shortcut
 
  In case you frequently use the Private Character Editor, create a shortcut on your desktop to help you find it more quickly. Here is how to do this:
@@ -149,14 +145,11 @@ To open Private Character Editor, follow these steps:
 
  The Windows Private Character Editor allows you to customize fonts and symbols for personal or professional use. In case you are having any difficulties opening this tool, this guide will help you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -165,6 +158,19 @@ To open Private Character Editor, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-tips-for-recording-ps4-games-with-obs/"><u>[Updated] Essential Tips for Recording PS4 Games with OBS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-effortless-facebook-video-extras-the-best-fire-browser-plugins-of-2023/"><u>2024 Approved Effortless Facebook Video Extras The Best Fire-Browser Plugins of 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-evolution-a-comprehensive-guide-from-ios-10-through-18/"><u>Exploring the Evolution: A Comprehensive Guide From iOS 1.0 Through 18.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-system-rescue-console-use/"><u>Navigating Through System Rescue Console Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-non-existing-device-spec-issue-in-windows-1011/"><u>Remedy Non-Existing Device Spec Issue in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-closed-apps-focus-on-windows-11-mailcalendar/"><u>Reviving Closed Apps: Focus on Windows 11 Mail/Calendar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplify-your-inbox-a-simple-technique-to-banish-clutter-without-extra-email-addresses-or-strict-filters-insights/"><u>Simplify Your Inbox: A Simple Technique To Banish Clutter Without Extra Email Addresses Or Strict Filters – Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-win-11-repairs-with-customized-shortcut-keys/"><u>Streamline Win 11 Repairs with Customized Shortcut Keys</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-resource-for-tech-enthusiasts-tips-and-reviews-by-toms-hardware/"><u>The Definitive Resource for Tech Enthusiasts - Tips & Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/why-trust-matters-more-than-just-numbers-on-feeds-for-2024/"><u>Why Trust Matters More Than Just Numbers on Feeds for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-navigational-mastery-6-ways-to-capture-and-replicate-filefolder-paths/"><u>Windows 11 Navigational Mastery: 6 Ways to Capture & Replicate File/Folder Paths</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "WinError Woes: Installing Oculus App Without Fails on WS11/WC10"
-date: 2025-01-19T18:15:37.702Z
-updated: 2025-01-24T19:01:47.914Z
+date: 2025-01-25T03:08:11.221Z
+updated: 2025-02-01T05:47:29.885Z
 tags:
   - windows10
   - windows11
@@ -25,31 +25,27 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disconnect Your Quest 2/Rift Headset From Your PC Before Installing Oculus
 
  Some users have said they resolved the “we encountered an error” installation issue by disconnecting their VR headsets before running the Oculus installer. So, make sure your Rift or Quest 2 headset isn’t connected to your PC. Then try installing the Oculus software without the VR headset connected to your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Oculus Installer File With Administrative Rights
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the **OculusSetup.exe** file and selecting **Run as administrator**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Deselect the Use Proxy Server Checkbox
 
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the **Use a proxy server** checkbox within Internet Properties. Our [guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
 
@@ -61,9 +57,17 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn Off the Windows Firewall
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this [how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
 
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
  The setup wizard will say if .NET Framework 4.6.1 or later is installed on your PC. If you don’t need to install that framework, try applying the resolution below or others specified here.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Remove Leftovers From a Previous Oculus App Installation
 
  If you’re trying to reinstall the Oculus app after uninstalling it, removing leftover debris from the previous installation might resolve this issue. This means manually deleting Oculus folders left behind from the previous installation. You can erase leftover Oculus folders as follows:
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 4. Repeat the previous step to delete any Oculus subfolders left behind at these folder locations:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `C:\Users\<User Folder>\AppData\LocalLow  
@@ -120,22 +120,17 @@ C:\Users\<User Folder>\AppData`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-for-social-media-savants-distinguishing-between-igtv-and-youtube/"><u>[New] 2024 Approved For Social Media Savants Distinguishing Between IGTV & YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-bikes-viewing-experience-5050-of-the-ultimate-helmet-cam-tech/"><u>[New] In 2024, Bike's Viewing Experience - 50/50 of the Ultimate Helmet Cam Tech</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-scouring-social-media-locating-facebook-videos/"><u>[Updated] Scouring Social Media Locating Facebook Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-visionary-vittles-steps-to-craft-food-films/"><u>[Updated] Visionary Vittles Steps to Craft Food Films</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-apex-sporting-cameras-for-extreme-enthusiasts/"><u>2024 Approved Apex Sporting Cameras for Extreme Enthusiasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-gopro-tools-for-deep-sea-cinematography/"><u>Best Gopro Tools for Deep-Sea Cinematography</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/getting-started-with-windows-11-file-compression/"><u>Getting Started with Windows 11 File Compression</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hidden-gems-in-windows-11-features-worth-noticing/"><u>Hidden Gems in Windows 11: Features Worth Noticing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-xs-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-realme-11x-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Realme 11X 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-overlook-missing-requirements-error-in-win10win11-os/"><u>How to Overlook Missing Requirements Error in Win10/Win11 OS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-step-by-step-screen-capture-on-apple-device/"><u>In 2024, Step-by-Step Screen Capture on Apple Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-11s-installer-error-a-step-by-step-guide/"><u>Resolving Windows 11'S Installer Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/title-realigning-icons-gaps-for-a-cleaner-window-interface/"><u>Title: Realigning Icons' Gaps for a Cleaner Window Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-strategies-to-anticipate-in-a-full-windows-reinstall/"><u>Top Strategies to Anticipate in a Full Windows Reinstall</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-frozen-tab-functionality-in-windows/"><u>Troubleshooting Frozen Tab Functionality in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-removing-drive-divisions-in-windows-os/"><u>Unraveling the Mystery of Removing Drive Divisions in Windows OS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-cutting-edge-methods-for-capturing-your-playtime-for-2024/"><u>[New] Cutting-Edge Methods for Capturing Your Playtime for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-next-gen-screen-capture-unleashed-apeaksofts-2023-review-for-2024/"><u>[Updated] Next-Gen Screen Capture Unleashed Apeaksoft’s 2023 Review for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-aim-for-affluence-enroll-now-in-youtubes-partner-programme/"><u>2024 Approved Aim for Affluence Enroll Now in YouTube's Partner Programme</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>5 Easy Ways to Change Location on YouTube TV On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/capturing-the-live-best-obs-screen-recorders-reviewed-for-2024/"><u>Capturing the Live Best OBS Screen Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/borative-listening-made-simple-on-youtube/"><u>Collaborative Listening Made Simple on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicate-zoom-difficulties-in-windows-10-and-11-error-1132/"><u>Eradicate Zoom Difficulties in Windows 10 & 11 - Error 1132</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-minimize-power-draw-from-dropbox-app-in-windows-systems/"><u>How to Minimize Power Draw From Dropbox App in Windows Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-curve-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Lava Blaze Curve 5G Phone without PIN</u></a></li>
+<li><a href="https://win-popular.techidaily.com/hp-laptop-volume-issue-fixed-restoring-audio-in-windows-11/"><u>HP Laptop Volume Issue Fixed: Restoring Audio in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-reactivate-print-functionality-on-windows/"><u>Methods to Reactivate Print Functionality on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-ram-cache-windows-clearance-guide/"><u>Understanding RAM Cache: Windows Clearance Guide</u></a></li>
 </ul></div>
 

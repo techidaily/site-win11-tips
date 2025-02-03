@@ -1,7 +1,7 @@
 ---
 title: Are Your Windows 11 Desktop Icons Shrinking? Here's How to Fix That
-date: 2024-08-08T10:56:37.134Z
-updated: 2024-08-09T10:56:37.134Z
+date: 2025-01-30T17:37:46.059Z
+updated: 2025-01-31T19:21:33.668Z
 tags:
   - windows10
   - windows11
@@ -18,26 +18,25 @@ thumbnail: https://thmb.techidaily.com/b3073e71d549e5dda027e19f13416a5fe4cf0a11f
 
  Do you remember that desktop shortcut icon being a little bit bigger than it is now? You're not going crazy. There's a rare bug in Windows 11 that may affect the size of your desktop icons. Here's how to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Are My Icons Shrinking on Windows 11?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot_of_small_icon_size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_small_icon_size.jpg)
 
  If you've noticed your icons seem to be getting smaller, there's a good chance you're running a device with a high resolution, or non-standard DPI settings.
 
  This bug occurs mostly upon changing resolution or when DPI settings are automatically adjusted. It affects non-Windows app icons exclusively, which means you have to have a keen eye if you're [using customized icons in Windows](https://www.makeuseof.com/tag/customize-icon-windows/).
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Restore Icon Size by Deleting Icon Cache
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot_of_iconcachedb_file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_iconcachedb_file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The quick fix for this issue is to clear the icon cache. It's as easy as finding and deleting some files. Open up the AppData folder by typing **%appdata%** into the top field of an explorer window. Then, navigate to the **Local** folder.
 
@@ -52,27 +51,28 @@ thumbnail: https://thmb.techidaily.com/b3073e71d549e5dda027e19f13416a5fe4cf0a11f
  Now restart your computer. Your icon cache will rebuild itself and your icons should be fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Stop Icons From Shrinking
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![screenshot of the windows 11 display settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_display_settings_windows_11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Unfortunately, it's not currently possible to permanently fix this error. Microsoft may notice this error and fix it in the future, but for now, the best way to keep your icons from shrinking is to avoid switching resolutions too much.
 
 [You can also make sure that your DPI settings are set to the recommended scale](https://www.makeuseof.com/change-display-dpi-windows-11/) and keep an eye out for anything that might be automatically changing it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## One Very Strange Shrinking Bug on Windows 11
 
  It's certainly not the only bug of Windows, but it's one of the stranger ones. While it's a shame there isn't a permanent fix for this frustrating bug, at least it's easy to correct whenever it does happen.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -80,4 +80,27 @@ thumbnail: https://thmb.techidaily.com/b3073e71d549e5dda027e19f13416a5fe4cf0a11f
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/tep-by-step-capturing-ios-device-screen-on-video/"><u>[New] Step-by-Step Capturing iOS Device Screen on Video</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-google-wifi-the-perfect-choice-for-a-seamless-wireless-network/"><u>Comprehensive Guide to Google Wifi: The Perfect Choice for a Seamless Wireless Network</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/effortless-audiovideo-editing-convert-avi-to-m4a-for-free-using-the-cutting-edge-web-tool-movavi-streamline/"><u>Effortless Audio/Video Editing: Convert AVI to M4A for Free Using the Cutting-Edge Web Tool - Movavi Streamline</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-gaming-experience-fixing-xbox-sound-issue/"><u>Enhancing Gaming Experience: Fixing Xbox Sound Issue</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-picking-a-champion-in-video-software-vlcmx/"><u>In 2024, Picking a Champion in Video Software VLC/MX</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1728494963373-itaomei-backupper/"><u>IT編輯針對AOMEI Backupper的全面探討報告 | 雲端瀏覽器及備份工具解決方案優點</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-web-server-with-iis-opening-techniques/"><u>Mastering Your Web Server with IIS Opening Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-window-triggers-taskbar-vanish-a-guide/"><u>Maximizing Window Triggers Taskbar Vanish: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-windows-cars-find-the-best-five-no-cost-utilities/"><u>Optimize Windows Cars: Find the Best Five No-Cost Utilities</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-sms-issues-on-iphone-7-proven-fixes-to-try-now/"><u>Overcoming SMS Issues on iPhone: 7 Proven Fixes to Try Now</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/recording-made-simple-a-compreenasite-for-capturing-netflix-content-for-2024/"><u>Recording Made Simple A Compreenasite for Capturing Netflix Content for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-conflicting-programs-in-win10-environment/"><u>Resolving Conflicting Programs in Win10 Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-lack-of-thermal-management-on-winos/"><u>Restoring Lack of Thermal Management on WinOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-tackling-the-windows-chatgpt-maximum-capacity-reached-alert/"><u>Step-by-Step Guide: Tackling the Window’s ‘ChatGPT Maximum Capacity Reached’ Alert</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-override-secure-boottpm-on-win11-using-rufus/"><u>The Ultimate Guide to Override Secure Boot/TPM on Win11 Using Rufus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-reactivating-nvidia-cp-not-opened-in-win-11/"><u>Tips for Reactivating Nvidia CP Not Opened in Win 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-for-unlocking-stuck-screens-on-desktops-and-laptops/"><u>Troubleshooting Techniques for Unlocking Stuck Screens on Desktops & Laptops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-error-code-0x800f0831/"><u>Troubleshooting Windows 11: Error Code 0X800F0831</u></a></li>
+</ul></div>
 

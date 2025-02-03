@@ -1,7 +1,7 @@
 ---
 title: How To Engage Copy & Paste Functionality Within Edge's Secure Mode for W11 OS
-date: 2025-01-20T16:18:55.038Z
-updated: 2025-01-24T18:45:02.449Z
+date: 2025-01-27T04:53:49.590Z
+updated: 2025-01-31T22:32:12.204Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Enable Copy and Paste via Windows Settings
 
  To enable copy and paste in Application Guard for Edge, follow the steps below:
@@ -42,18 +38,22 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 6. Search for the**Copy and paste** option, then click the toggle to enable it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Enable Copy and Paste via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-via-windows-settings.jpg)
 7. The UAC prompt will appear on the screen. Click**Yes** to continue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve completed the steps, restart your computer for the changes to work. Now, you can securely transfer data between a virtualized environment and your device without any worries about security risks - malicious websites and applications will be blocked even with this setting enabled.
 
  If you ever need to disable copy and paste in Application Guard for Edge, you can follow the same steps mentioned above. Just be sure to toggle off the Copy and Paste setting from the Isolated browsing menu instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Enable Copy and Paste Using Registry Editor
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 3. Put**EnableClipboard** as the name for the new DWORD key, then press Enter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click twice on the newly created DWORD key to open a pop-up window.
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 6. Finally, click**OK** to save your changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve completed the steps, close any running applications and restart your computer
@@ -112,17 +112,14 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-combining-zoom-and-fb-live/"><u>[New] The Ultimate Guide to Combining ZOOM & FB Live</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-fortnite-black-screen-on-windows/"><u>[SOLVED] Fortnite Black Screen on Windows</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-top-rated-free-tools-for-high-res-youtube-cover-extraction/"><u>2024 Approved Top-Rated Free Tools for High-Res YouTube Cover Extraction</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breathtaking-stunts-and-jumps-2022-fig-skates-for-2024/"><u>Breathtaking Stunts and Jumps - 2022 Fig Skates for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/celestial-beauty-at-your-fingertips-stunning-lunar-hd-wallpapers-from-yl-software/"><u>Celestial Beauty at Your Fingertips: Stunning Lunar HD Wallpapers From YL Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-guide-understanding-the-11-most-popular-audiobook-file-types/"><u>Essential Guide: Understanding the 11 Most Popular Audiobook File Types</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-reading-from-hard-drive-on-windows/"><u>Overcoming Error Reading From Hard Drive on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-reconnect-your-pc-to-internet/"><u>Steps to Reconnect Your PC to Internet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-system-stability-with-4-key-pct-moves/"><u>Streamline Your System Stability with 4 Key PCT Moves</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-advanced-features-for-windows-11-bar/"><u>Unlocking Advanced Features for Windows 11 Bar</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-is-grok-ai-inside-look-at-the-latest-creation-of-elon-musk-and-how-much-to-expect-to-pay/"><u>What Is Grok AI? Inside Look at the Latest Creation of Elon Musk and How Much to Expect to Pay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-workspace-8-innovative-stick-to-your-screen-apps/"><u>Windows Workspace: 8 Innovative Stick-to-Your-Screen Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-leading-android-moba-games-unveiled/"><u>[New] Leading Android MOBA Games Unveiled</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-breaking-boundaries-with-eizos-spectaculous-cg318-4k/"><u>[Updated] In 2024, Breaking Boundaries with EIZO's Spectaculous CG318-4K</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728487196676-windows-11/"><u>耐久性を確保：Windows 11ブート領域消失後のリカバリ手順</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-the-0x800700e9-error-a-step-by-step-approach/"><u>Eliminating the 0X800700E9 Error: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-page-not-loaded-issue-in-windows-store/"><u>Fixing 'Page Not Loaded' Issue in Windows Store</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pixeled-up-transform-your-shots-for-free/"><u>In 2024, Pixeled-Up Transform Your Shots for Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionary-techniques-for-freeing-up-disk-space-in-win11-without-file-deletion-max-156-chars/"><u>Revolutionary Techniques for Freeing Up Disk Space in Win11 Without File Deletion (Max 156 Chars)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/swift-windows-insight-sharing-methods/"><u>Swift Windows Insight Sharing Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreezing-stalled-files-transfers-in-windows-11-environment/"><u>Unfreezing Stalled Files Transfers in Windows 11 Environment</u></a></li>
 </ul></div>
 

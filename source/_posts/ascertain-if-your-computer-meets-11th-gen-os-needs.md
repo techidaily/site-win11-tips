@@ -1,7 +1,7 @@
 ---
 title: Ascertain If Your Computer Meets 11Th Gen OS Needs
-date: 2024-08-08T10:57:06.579Z
-updated: 2024-08-09T10:57:06.579Z
+date: 2025-01-28T19:42:51.123Z
+updated: 2025-02-01T01:08:37.157Z
 tags:
   - windows10
   - windows11
@@ -17,16 +17,18 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 ## Ascertain If Your Computer Meets 11Th Gen OS Needs
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Minimum Requirements for Installing Windows 11](#minimum-requirements-for-installing-windows-11)
 * [How to Check Windows 11 Compatibility](#how-to-check-windows-11-compatibility)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Windows 11 is a free upgrade for Windows 10 users. However, it requires more advanced hardware.
@@ -36,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
  Windows 11 offers several improvements over its predecessor, and it's a free upgrade from Windows 10 as long as your PC meets certain requirements. However, unlike Windows 10, which supports older Windows 8 devices, Windows 11 requires more advanced hardware.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Minimum Requirements for Installing Windows 11
 
  If your PC is a few years old, there's a fairly good chance you won't be able to run Windows 11\. [Microsoft's website](https://www.microsoft.com/en-us/windows/windows-11-specifications) lists the following basic hardware requirements. The company makes it clear that Windows users may need to upgrade their PCs if they don't meet the requirements.
@@ -54,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
  Although [Microsoft states](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e) you can run Windows 11 on systems that support at least TPM 1.2 by bypassing the check for TPM 2.0, the company strictly recommends against taking that route.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check Windows 11 Compatibility
 
  Not everyone knows what hardware they have inside their computers. Thankfully, Microsoft offers a convenient tool to check if your PC meets Windows 11's minimum requirements.
@@ -63,18 +67,16 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 1. Download and install the new [PC Health Check app](https://aka.ms/GetPCHealthCheckApp) from Microsoft.
 2. Launch the app and click **Check now** at the top below the "Introducing Windows 11" message.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![PC Health Check app running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/pc-health-check-app-running-on-windows.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll get a pop-up on your screen that lists your hardware specifications and informs you whether they meet the minimum requirements for Windows 11\.
 
  Don't panic just yet if you find that your PC isn't compatible. Many users with modern hardware have faced this problem, but it's mostly TPM or Secure Boot-related. Both of these settings can be changed by [entering the BIOS on your Windows PC](https://www.makeuseof.com/tag/enter-bios-computer/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Enabling AMD fTPM and Intel PTT
 
 * If you have an AMD CPU, set **AMD fTPM** (firmware TPM) to **Enabled** in the Advanced menu within your system's BIOS/UEFI settings.
@@ -84,12 +86,28 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 
  However, if your PC hardware doesn't meet Windows 11's requirements, know that Microsoft will end support for Windows 10 in October 2025\. After that, you'll need to upgrade to a new PC or pay Microsoft a yearly fee for extended security updates until October 2028\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-savings-straightforward-and-diversified-methods-unveiled-for-2024/"><u>[Updated] Instagram Savings Straightforward & Diversified Methods Unveiled for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-dodgingdullnessaftermycam/"><u>2024 Approved DodgingDullnessAfterMyCam</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparative-analysis-steam-vs-gog-game-platforms/"><u>Comparative Analysis: Steam vs GOG Game Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conveniently-display-images-within-windows-explorer/"><u>Conveniently Display Images Within Windows Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-the-synergy-6-android-apps-that-thrive-on-windows-11/"><u>Explore the Synergy: 6 Android Apps that Thrive on Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-infinix-hot-40-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Infinix Hot 40 Phones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/is-photoshops-shake-control-a-game-changer-in-2024/"><u>Is Photoshop's Shake Control a Game Changer, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-broken-steam-friendship-connections-w11/"><u>Mending Broken Steam Friendship Connections W11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mov-to-mp4-converter-no-cost-solution-for-mac-os-and-windows-11-users/"><u>MOV to MP4 Converter: No Cost Solution for Mac OS & Windows 11 Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mpc-sound-control-msis-latest-and-best-windows-audio-driver-pack/"><u>MPC Sound Control: MSI's Latest and Best Windows Audio Driver Pack</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-odbc-connector-a-user-guide/"><u>Navigating Windows' ODBC Connector: A User Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-non-selectable-or-hidden-text-on-windows-pdf-readers/"><u>Remedy Non-Selectable or Hidden Text on Windows PDF Readers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/saving-sticky-notes-a-windows-guide/"><u>Saving Sticky Notes: A Windows Guide</u></a></li>
+</ul></div>
 

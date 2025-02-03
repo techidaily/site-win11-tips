@@ -1,7 +1,7 @@
 ---
 title: Resetting “Windows Asks for Old Pass” Issue on Win11
-date: 2025-01-16T17:50:45.795Z
-updated: 2025-01-18T16:30:11.251Z
+date: 2025-01-28T02:47:49.339Z
+updated: 2025-02-01T01:52:12.621Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the “We’ll Need Your Current Windows Password One Last Time” Error?
 
  Maybe you’ve just purchased a new Windows device or [reset an old Windows device](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/). After setting up your new computer, you might be directed to log into your Microsoft account. However, after inserting your Microsoft account credentials, you reach a page requesting your “current Windows password.”
 
 ![The “We’ll Need Your Current Windows Password One Last Time” Error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-we-ll-need-your-current-windows-password-one-last-time-error.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Microsoft requests this password to verify your access to the local administrator account. A default local administrator account is created when you set up Windows 10 or 11 devices (after purchase); however, this account isn’t generated with a password.
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 ![A padlock standing on the keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-pc-keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you encounter this error, you should first try all of the commonly used passwords you’ve used with the device. It’s possible that once upon a time, you changed the password to the default local administrator account. However, this only applies if you’re experiencing this error as a result of a system reset.
@@ -57,7 +57,15 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset Your Windows Password
 
@@ -71,21 +79,13 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 3. Then, select **Sign-In Options** \> **Passwords**. You’ll find **Add** if you’re creating a password for the first time. Otherwise, you’ll find **Change**, meaning you’ll need to [reset your local admin account password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
 4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
 
@@ -105,20 +105,18 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-chronicle-of-creation-weaving-time-lapse-animations-via-movie-maker/"><u>[New] 2024 Approved The Chronicle of Creation Weaving Time-Lapse Animations via Movie Maker</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-tapping-income-through-thoughtful-product-examinations/"><u>[New] Tapping Income Through Thoughtful Product Examinations</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-25-pioneers-reshaping-social-media-landscapes/"><u>[Updated] 25 Pioneers Reshaping Social Media Landscapes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726226756915-movavi/"><u>網路無障礙公共直播服務 - MOVAVI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertisseur-gratuit-de-fichiers-wav-a-mp4-en-ligne-moveavi/"><u>Convertisseur Gratuit De Fichiers WAV À MP4 en Ligne - MoveAVI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/desde-clips-de-mov-a-finesas-de-vob-online-sin-costo-con-movavi/"><u>Desde Clips De MOV a Finesas De VOB Online Sin Costo Con Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-conversion-of-ppm-files-to-gif-format-by-movavi-quick-guide-and-tools/"><u>Free Conversion of PPM Files to GIF Format by Movavi: Quick Guide & Tools</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/global-citizenship-through-non-native-english-learning/"><u>Global Citizenship Through Non-Native English Learning</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-asus-rog-phone-7-ultimate-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Asus ROG Phone 7 Ultimate to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-secure-smooth-videos-selecting-premium-tripods-for-youtubers/"><u>In 2024, Secure Smooth Videos Selecting Premium Tripods for YouTubers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-redigerer-oplysning-og-effektivitet-for-din-video-bearbejstningsnedskudsfrihenheder-forsvart-sikker-kob-now/"><u>Movavi Redigerer - Oplysning Og Effektivitet for Din Video Bearbejstningsnedskudsfrihenheder | Forsvart Sikker Køb Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-20-free-video-capture-apps-compatible-with-all-devices/"><u>Top 20 Free Video Capture Apps Compatible with All Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-video-asf-in-formato-avi-online-e-free-grazie-a-movavi/"><u>Trasforma I Tuoi Video ASF in Formato AVI Online E Free Grazie a Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-your-pcs-vr-challenges-with-these-8-proven-techniques-to-prevent-vrchat-crashes/"><u>Troubleshoot Your PC's VR Challenges with These 8 Proven Techniques to Prevent VRChat Crashes</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/uefi-ssdwindows-1110/"><u>UEFI SSDにWindows 11/10を移行するための簡単なステップバイステップレシピ：お薦め方法</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-expert-moves-for-sharing-youtube-and-twitter-on-whatsapp-platform-for-2024/"><u>[New] Expert Moves for Sharing YouTube and Twitter on WhatsApp Platform for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-sleight-of-the-brain-navigating-top-room-riddles/"><u>[Updated] In 2024, Sleight of the Brain Navigating Top Room Riddles</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-xsipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone XS/iPad/iPod</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhanced-collaboration-with-top-5-windows-fs-programs/"><u>Enhanced Collaboration with Top 5 Windows FS Programs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/explore-the-top-5-resources-for-innovative-text-designs/"><u>Explore the Top 5 Resources for Innovative Text Designs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-apples-upcoming-non-flashy-ai-innovation-could-change-everything-this-years-wwdc/"><u>How Apple's Upcoming Non-Flashy AI Innovation Could Change Everything This Year's WWDC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-sound-quality-with-dolby-atmos-for-windows/"><u>Maximize Sound Quality with Dolby Atmos for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-inconsistent-colors-on-windows-devices/"><u>Resolving Inconsistent Colors on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/syncing-files-smoothly-with-nvidia-gui/"><u>Syncing Files Smoothly with NVIDIA GUI</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-nubia-red-magic-9-proplus-by-drfone-android/"><u>Three Ways to Sim Unlock Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wizardry-easy-pathways-to-new-directories/"><u>Windows Wizardry: Easy Pathways to New Directories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-approach-for-file-type-conversion-tutorials/"><u>Winning Approach for File Type Conversion Tutorials</u></a></li>
 </ul></div>
 

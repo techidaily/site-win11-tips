@@ -1,7 +1,7 @@
 ---
 title: Addressing USB Connection Issues on Windows 11
-date: 2024-08-08T10:54:54.584Z
-updated: 2024-08-09T10:54:54.584Z
+date: 2025-01-31T08:41:06.071Z
+updated: 2025-01-31T22:09:49.954Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
  Fortunately, it's a very common issue and can easily be fixed. This guide will go through all the working solutions that will help you troubleshoot this error message for good.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Causes the Unknown USB Device, Port Reset Failed Error in Windows 11?
 
  USB devices are generally easy to use with computers. But sometimes, you might face different errors upon connecting them to your computer. One of these errors is the Unknown USB Device, Port Reset Failed error that appears due to the following reasons:
@@ -34,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
  Knowing the reasons behind the error message, let's get into all the working fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Try the Basic Repairs
 
  The first thing you must do whenever you come across the Unknown USB Device, Port Reset Failed error is to [restart your device](https://www.makeuseof.com/windows-restart-methods/) . Restarting the computer will fix the issue if a temporary glitch is the reason behind it.
@@ -46,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
  Sometimes, the message can appear due to corruption in the OS version installed on your computer. The solution, in this case, is to download the latest Windows update. To do this,[open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/) , and select**Windows Update** from the left panel. Click the**Check for updates** button and wait until Windows checks for and download any available updates.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Look for Hardware Changes
 
  The Device Manager comes with a Scan for hardware changes option, which you can use whenever a connected USB device is not responding or throwing an error message. You can use this option by following the below instructions:
@@ -59,12 +54,13 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use the Hardware and Devices Troubleshooter
 
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Windows offers various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that you can use to get rid of different kinds of system issues. One of these troubleshooters is the Hardware and Devices troubleshooter, which you can use to eliminate most hardware-related issues.
 
@@ -106,9 +102,6 @@ Next, restart your computer and check for the problem.
 
  Now, wait until Windows searches for any available driver update online and install it on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Reinstall All the USB Controllers
 
  If updating the driver was not helpful, you can try reinstalling all the devices under the Universal Serial Bus controllers. To do this, follow the below steps:
@@ -119,8 +112,9 @@ Next, restart your computer and check for the problem.
  Next, restart your computer and plug in the USB device again. Check if you still see the error message. If yes, continue with the guide.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Disable the USB Selective Suspend Setting
 
  Disabling the USB Selective Suspend setting is another thing you can do to get rid of the problem at hand. Here's how to do it:
@@ -133,13 +127,18 @@ Next, restart your computer and check for the problem.
 5. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Update Your BIOS
 
  Are you still facing the problem? If yes, then probably outdated BIOS is the culprit.
 
  An outdated BIOS can cause issues like low system performance and stability, and incompatibility with certain devices. It can also cause the Unknown USB Device, Port Reset Failed error. So, update your BIOS to fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the Unknown USB Device, Port Reset Failed Error
 
@@ -147,14 +146,11 @@ Next, restart your computer and check for the problem.
 
  If you see the Unknown USB Device, Port Reset Failed error in the Device Manager; you now know what's causing the problem and how to fix it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -163,6 +159,26 @@ Next, restart your computer and check for the problem.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-disable-non-specific-youtube-video-alerts/"><u>[New] In 2024, Disable Non-Specific YouTube Video Alerts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-video-snippet-limits-a-comprehensive-overview/"><u>[Updated] Instagram Video Snippet Limits A Comprehensive Overview</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-audio-capture-in-minecraft-a-mac-experts-handbook-for-2024/"><u>[Updated] Navigating Audio Capture in Minecraft A Mac Expert's Handbook for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-banish-the-chaos-strategies-to-refine-overwhelming-tiktok-drafts/"><u>2024 Approved Banish the Chaos Strategies to Refine Overwhelming TikTok Drafts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-honor-magic-vs-2-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Honor Magic Vs 2 without App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-top-3-techniques-to-fasten-windows-11-bootup-time/"><u>Explore Top 3 Techniques to Fasten Windows 11 Bootup Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-lockout-duration-after-failed-logon-attempts-in-windows-10-and-11/"><u>How to Change Lockout Duration After Failed Logon Attempts in Windows 10 and 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-spark-go-2024-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Spark Go (2024) by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-unveil-full-length-videos-in-yt/"><u>How to Unveil Full-Length Videos in YT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instalwin11nonet-preparing-your-system/"><u>InstalWin11NoNet: Preparing Your System</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/master-instagram-livestreams-with-ease-your-complete-guide-to-obs-usage-for-2024/"><u>Master Instagram Livestreams with Ease Your Complete Guide to OBS Usage for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-folder-refreshes-in-windows-11s-critical-areas/"><u>Mastering Folder Refreshes in Windows 11'S Critical Areas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-invalid-reparse-buffer-tag-error-with-onedrive/"><u>Mitigating Invalid Reparse Buffer Tag Error with OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-glitched-netflix-on-windows-pc/"><u>Resetting Glitched Netflix on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rise-to-the-top-essential-ms-store-winners-2023/"><u>Rise to the Top: Essential MS Store Winners, 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-adjusting-net-settings-in-win11/"><u>Steps for Adjusting Net Settings in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-windows-task-sequence-error-0x8007000f/"><u>Steps to Overcome Windows Task Sequence Error 0X8007000f</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-new-kubuntu-focus-ir1e-is-it-worth-powering-your-kde-plasma-desktop-experience-insights/"><u>The New Kubuntu Focus IR1e: Is It Worth Powering Your KDE Plasma Desktop Experience? Insights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/web-based-audio-editor-effortless-audio-file-format-conversion-mp3-wma/"><u>Web-Based Audio Editor - Effortless Audio File Format Conversion (MP3, WMA)</u></a></li>
+</ul></div>
 

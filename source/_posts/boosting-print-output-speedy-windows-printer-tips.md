@@ -1,7 +1,7 @@
 ---
 title: "Boosting Print Output: Speedy WIndows Printer Tips"
-date: 2024-08-08T10:57:56.372Z
-updated: 2024-08-09T10:57:56.372Z
+date: 2025-01-30T16:59:06.148Z
+updated: 2025-01-31T17:49:14.896Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,12 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  If you are having trouble with a slow printer, whether it is wired or wireless, the following troubleshooting steps for Windows should help.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 1\. Restart Your Printer
 
  This may seem like an overly-simple fix, but restarting your printer can help resolve any temporary issues that may be affecting its performance. Hence, it’s the first thing you should try.
 
  Turn off your printer by pressing the power button. Once it is off, remove the power cable and wait for at least 30 seconds or so before reconnecting it. After that, power on your printer and try printing something to see if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## 2\. Adjust the Print Quality
 
  The printing speed of your printer is often affected by the quality settings you choose. Printing at higher quality settings usually takes longer, as it requires the printer to produce more detailed output.
@@ -50,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  You will see a variety of options for setting the print quality. You can experiment with them and choose the one that provides the best balance between print quality and speed for you. Keep in mind that the lower the print quality, the faster the output will be.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Select the Correct Paper Type
 
  Another reason why your printer may print slowly is if your PC is printing using the wrong paper settings. To prevent any issues, you need to ensure that the selected paper type matches the actual paper loaded into the printer. Here's how to check.
@@ -60,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 4. Click on **Printer preferences**.
 5. Under the **Paper/Quality** tab, use the drop-down menu next to **Media** to select the appropriate paper type.
 6. Hit **Apply** followed by **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Select Printer Paper in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-printer-paper-in-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Quiet Mode
 
@@ -82,7 +80,15 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 4. Click the **Run** button next to **Printer**.  
 ![Run Printer Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-printer-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the troubleshooter to find and fix any issues, and then check if your printer is still slow. Additionally, if you are using a network printer, consider running the **Network adapter** troubleshooter from the same menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Clear the Print Queue and Restart the Printer Spooler Service
 
@@ -95,12 +101,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 3. Locate the **Print Spooler** service on the list. Right-click on it and select **Stop**.  
 ![Stop or Restart Print Spooler Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-print-spooler-service.jpg)
 4. Press **Win + E** to open File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Type **%systemroot%\\System32\\spool\\printers\\** in File Explorer’s address bar and press **Enter**.
 6. Press **Ctrl + A** to select all the files within the Printers folder and delete them.
 7. Return to the Services window, right-click on the **Print Spooler** service again, and select **Start**.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clear Print Queue on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clear-print-queue-on-windows.jpg)
 
 ## 7\. Update the Printer's Drivers
@@ -109,9 +117,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  If you need help with that, check out [how to find and replace outdated drivers on Windows](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Remove and Re-Add Your Printer
 
  If updating the printer drivers does not help, you can try removing your printer completely and adding it back. Here's how to do it.
@@ -120,12 +125,13 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Type **control printers** in the box and press **Enter**.
 3. In the **Devices and Printers** window, right-click on your printer and select **Remove device** from the context menu.
 4. Click **Add a printer** button at the top and setup the printer using its IP address or hostname.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Remove Printer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/remove-printer-on-windows.jpg)
 
  If you run into any errors while removing your printer, check our guide on [how to force delete or uninstall a printer on Windows](https://www.makeuseof.com/windows-remove-printer/) for more methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Try Some Generic Windows Fixes
 
@@ -135,20 +141,15 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 * **Install the latest Windows updates:** Using an outdated or buggy Windows build could also result in such problems. Hence, it’s a good idea to [install pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) if you haven’t already.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Speed Up Your Printing on Windows
 
  Without a clear indication of what’s going wrong, fixing slow printing issues on Windows can be challenging. Hopefully, one or more of the above suggestions have been helpful, and your printer is now printing at a normal speed.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Q: What Affects Printer Speed?
 
  Various items affect the speed at which your printer prints files. Your file's size mainly determines what speed your printer will print your file. If yours is a large document containing several pages, the printer can take a while to print all those pages. Similarly, if yours is a high-quality image, the printer will take time to print your photo.
@@ -157,16 +158,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Some printers allow you to change the rate your files are printed. You'll find the option to change the printing speed in your printer's print utility. In most apps, you can launch this utility by pressing Ctrl + P.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: Does Wi-Fi Affect Printer Speed?
 
  Yes, Wi-Fi is a wireless technology, and it affects your printer's printing speed. A cable connection to a printer usually works faster than a wireless connection. This depends on your printer model, though, as some printers work well even on Wi-Fi networks.
 
  If you are having trouble with a slow printer, whether it is wired or wireless, the following troubleshooting steps for Windows should help.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -174,4 +170,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/nnovation-in-action-youtube-split-screen-techniques/"><u>[New] Innovation in Action YouTube Split-Screen Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-tech-savvy-strategies-for-harvesting-and-saving-facebooks-most-trendy-gifs-for-2024/"><u>[New] Tech Savvy Strategies for Harvesting & Saving Facebook's Most Trendy GIFs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-pc-access-with-a-unique-self-designed-pattern-lock/"><u>Elevate PC Access with a Unique, Self-Designed Pattern Lock</u></a></li>
+<li><a href="https://techidaily.com/ensuring-successful-oculus-installation-on-your-pc-running-windows-11-or-10/"><u>Ensuring Successful Oculus Installation on Your PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-device-not-reachable-in-windows-with-step-by-step-approach/"><u>Fixing Device Not Reachable in Windows with Step-by-Step Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-user-profile-folder-name-in-windows-11/"><u>How to Change the User Profile Folder Name in Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-2-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Lava Yuva 2 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comparative-analysis-luminances-hdr-prowess/"><u>In 2024, Comparative Analysis Luminance's HDR Prowess</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/post-subsys-strategies-for-upgraded-android-integration/"><u>Post-Subsys: Strategies for Upgraded Android Integration</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Realme C67 5G | Dr.fone</u></a></li>
+</ul></div>
 

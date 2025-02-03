@@ -1,7 +1,7 @@
 ---
 title: "Introduction: Redesigned Widgets Pickers for Win11"
-date: 2025-01-10T18:55:22.274Z
-updated: 2025-01-12T19:32:16.182Z
+date: 2025-01-31T09:40:14.810Z
+updated: 2025-02-01T14:44:47.073Z
 tags:
   - windows10
   - windows11
@@ -26,23 +26,19 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Redesigned Widgets Picker in Windows 11?
 
 ![Screenshot showing Windows 11 Widgets preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/widgets-preview-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Redesigned Widgets picker shows you a preview of what a widget will look like in the Widgets board before you pin it. Third-party widgets are also supported, meaning you can preview app widgets like Facebook and Spotify before pinning them.
 
  Additionally, the updated Widgets picker also includes a link that will take you to the Microsoft Store Widgets page, where all the supported ones are listed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ViveTool And Why Do You Need It?
@@ -53,9 +49,17 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 
  For convenience, set up ViveTool and its extracted contents in the **C:/ViVeTool** folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable the Redesigned Widgets Picker Using ViveTool
 
 ![Screenshot of ViveTool in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/command-prompt-enabling-new-widgets.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you are done setting up ViveTool on your PC, you are only a few steps away from enabling the specific feature ID for the redesigned Widgets picker. Here are the steps to turn on the feature ID for the new Widgets picker to surface:
 
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
  The ability to preview a widget before adding it to the Widgets board will not require ViveTool to be enabled when Microsoft makes it available for everyone. When it is rolled out to every Windows 11 user, you should get a preview whenever you pin a widget to the board.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will the New Widgets Preview Experience Be Available for Other Insider Channels?
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
  The new Widgets picker was introduced to the Dev and Canary Channel, and it has a good chance of debuting in Beta builds and then eventually to the users running stable Windows 11\.
 
  However, things can go wrong, and Microsoft can scrap the feature before releasing it to other channels.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Redesigned Widgets Picker in Windows 11, Enabled
 
@@ -101,19 +101,24 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-meme-masterpieces-perfect-jokes-for-each-moment/"><u>[Updated] 2024 Approved Meme Masterpieces Perfect Jokes for Each Moment</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-no-more-nausea-essential-tricks-for-htc-vive/"><u>[Updated] In 2024, No More Nausea Essential Tricks for HTC Vive</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-youtube-cash-flow-8-simple-money-making-tips/"><u>2024 Approved YouTube Cash Flow 8 Simple Money-Making Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-detecting-and-eliminating-mobile-spyware-with-ease/"><u>Complete Guide: Detecting & Eliminating Mobile Spyware with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-your-windows-pdf-viewers/"><u>Customizing Your Window's PDF Viewers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-advice-getting-rid-of-stickers-on-videos-for-2024/"><u>Expert Advice Getting Rid of Stickers on Videos for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/expert-picks-the-best-skype-capture-tools-for-2024/"><u>Expert Picks The Best Skype Capture Tools for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-365-error-code-30015-26-on-windows/"><u>How to Fix the Microsoft 365 Error Code 30015-26 on Windows</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-pinpointing-youtube-comments/"><u>In 2024, Pinpointing YouTube Comments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-robloxs-code-403-issue-on-pc/"><u>Overcoming Roblox's Code 403 Issue on PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/proven-techniques-for-identifying-professional-video-artists/"><u>Proven Techniques for Identifying Professional Video Artists</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-temperature-spikes-during-high-performance-gaming/"><u>Taming Temperature Spikes During High-Performance Gaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-integrating-secondary-antivirus-without-defenders-limits/"><u>Techniques for Integrating Secondary Antivirus without Defender’s Limits</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-prevent-activation-of-windows-mobility-center-win-11/"><u>Tips: Prevent Activation of Windows Mobility Center (Win 11)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-converting-your-favourite-tracks-bridging-spotify-with-youtube-music/"><u>[New] In 2024, Converting Your Favourite Tracks Bridging Spotify with YouTube Music</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-your-potential-mastering-the-art-of-youtube-edits/"><u>[New] Unlock Your Potential Mastering the Art of YouTube Edits</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-how-to-make-money-from-instagram/"><u>[Updated] 2024 Approved How to Make Money From Instagram</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-multi-user-android-calls-the-top-8-tools/"><u>[Updated] 2024 Approved Multi-User Android Calls The Top 8 Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-exploring-the-boundaries-of-true-black-on-asuss-professional-screen/"><u>[Updated] Exploring the Boundaries of True Black on ASUS's Professional Screen</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-overcoming-handheld-videography-instability-on-gopro/"><u>[Updated] In 2024, Overcoming Handheld Videography Instability on GoPro</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-camera-basics-top-8-recommendations-for-2024/"><u>[Updated] Mastering Camera Basics Top 8 Recommendations for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-income-mastering-short-video-markets/"><u>2024 Approved Maximizing Income Mastering Short Video Markets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-guide-to-the-top-10-filmmaking-cameras/"><u>Beginner's Guide to the Top 10 Filmmaking Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conveniently-establish-wireless-connection-using-windows-11-hotspot/"><u>Conveniently Establish Wireless Connection Using Windows 11 Hotspot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-spot-files-windows-11s-minimalist-approach/"><u>Efficiently Spot Files: Windows 11'S Minimalist Approach</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-magic-6-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Honor Magic 6 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remote-repair-techniques-for-non-responsive-pc-links/"><u>Remote Repair Techniques for Non-Responsive PC Links</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-windows-asks-for-old-pass-issue-on-win11/"><u>Resetting “Windows Asks for Old Pass” Issue on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-crash-code-0x80072efd/"><u>Resolving Microsoft Store Crash Code 0X80072EFD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-windows-11-restarting-catroot-and-distro-files/"><u>Revive Your Windows 11: Restarting Catroot & Distro Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-eradicate-network-logon-issues/"><u>Solutions to Eradicate Network Logon Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-tutorial-integrating-submenus-into-win-11/"><u>Step-by-Step Tutorial: Integrating Submenus Into Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11-services-for-optimal-performance/"><u>Tailoring Windows 11 Services for Optimal Performance</u></a></li>
 </ul></div>
 

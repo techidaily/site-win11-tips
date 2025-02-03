@@ -1,7 +1,7 @@
 ---
 title: "Maximizing PIN Security: Windows 11 Pin Length Enhancement"
-date: 2025-01-19T20:50:16.325Z
-updated: 2025-01-24T23:17:44.013Z
+date: 2025-01-28T17:08:43.186Z
+updated: 2025-02-01T07:10:27.685Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Extend the PIN Length by Editing the Registry
 
  Windows 11/10 Home doesn’t have any built-in setting for extending the minimum PIN length. So, many users will have to extend PIN length by creating a new PINComplexity registry key. Then you can set a new minimum PIN length value within that key. You can extend the Windows Hello PIN length by editing the registry as follows:
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 5. Type **PassportForWork** in the new key’s text box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Next, right-click on the **PassportForWork** key to select the **New** and **Key** options on Registry Editor’s context menu.
@@ -48,13 +52,17 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 ![The MinimumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-dword.jpg)
 5. Double-click the new **MinimumPINLength** DWORD you’ve created.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Select the **Decimal** option.
 2. Then input a number higher than four in the **Value data** box and click **OK**. The value you enter there will be the new minimum character length for the Windows Hello PIN.  
 ![The Edit DWORD window for the MinimumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window4.jpg)
 3. You can also set a maximum PIN length. To do so, right-click **PINComplexity** again and select the **DWORD (32-bit) Value** option on the **New** submenu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Type **MaximumPINLength** into the DWORD’s text box.  
@@ -70,15 +78,7 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 
 ![The change your PIN message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sign-in-message.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Extend the PIN Length With Group Policy Editor
 
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Then input a higher value in the **Minimum PIN Length** box.  
@@ -124,22 +124,19 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cross-platform-comparison-iphone-vs-android-youtube-viewing/"><u>[Updated] 2024 Approved Cross-Platform Comparison IPhone vs Android YouTube Viewing</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-discovering-the-best-drone-motor-choices-for-enhanced-control-for-2024/"><u>[Updated] Discovering the Best Drone Motor Choices for Enhanced Control for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-immersive-odyssey-the-most-exciting-psvr-games-on-the-way-for-2024/"><u>[Updated] Immersive Odyssey The Most Exciting PSVR Games on the Way for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-inshot-adding-your-favorite-tunes/"><u>2024 Approved Mastering InShot Adding Your Favorite Tunes</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-glitch-nvidia-experiences-x0001-in-w11/"><u>Fixing Glitch: Nvidia Experience's X0001 in W11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y100a-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y100A to PC? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-daily-movie-storage-gb-explained/"><u>In 2024, Daily Movie Storage GB Explained</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimal-management-for-high-ntoskrnlexe-use/"><u>Optimal Management for High Ntoskrnl.exe Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/precision-protocols-setting-up-intel-network-adapters-in-windows-10/"><u>Precision Protocols: Setting Up Intel Network Adapters in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prospects-in-file-transfer-top-5-apps-on-windows/"><u>Prospects in File Transfer: Top 5 Apps on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-winget-step-by-step-for-w11-users/"><u>Reviving Winget: Step-by-Step for W11 Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/revolutionary-sleep-and-activity-tracking-with-the-new-oura-ring-gen-3-comprehensive-user-review/"><u>Revolutionary Sleep & Activity Tracking with the New Oura Ring Gen 3 - Comprehensive User Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-eradicating-windows-unresponsive-task-error/"><u>Strategies for Eradicating Windows 'Unresponsive Task Error'</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-a-world-of-style-for-windows-users-in-outlook-calendars/"><u>Unlock a World of Style for Windows Users in Outlook Calendars</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-your-code-potential-with-windows-11s-dev-drive/"><u>Unlocking Your Code Potential with Windows 11'S Dev Drive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-causes-of-a-broken-window-discord-update/"><u>Unraveling the Causes of a Broken Window Discord Update</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-average-podcast-income-whats-the-payoff/"><u>[New] 2024 Approved Average Podcast Income What's the Payoff?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streamlining-quality-youtubes-best-video-improvement-strategies/"><u>[Updated] Streamlining Quality YouTube's Best Video Improvement Strategies</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/crafting-memes-that-stand-out-the-9gag-way-for-2024/"><u>Crafting Memes that Stand Out The 9GAG Way for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-elevating-your-snaps-with-expert-guided-boomerangs/"><u>In 2024, Elevating Your Snaps with Expert-Guided Boomerangs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intelligent-resource-management-using-windows-widgets/"><u>Intelligent Resource Management Using Windows Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/manipulating-windows-11-shutdown-time-tips-when-tasks-are-in-progress/"><u>Manipulating Windows 11 Shutdown Time: Tips when Tasks Are in Progress</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-audio-not-installed-windows-message/"><u>Overcoming 'Audio Not Installed' Windows Message</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/reaktivierung-von-adobe-after-effects-projektdateien-professionelle-tipps-und-tricks-zum-wiederherstellen-verlorener-dateien-myrecover-losungen/"><u>Reaktivierung Von Adobe After Effects-Projektdateien - Professionelle Tipps Und Tricks Zum Wiederherstellen Verlorener Dateien | MyRecover Lösungen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-diagnostics-in-windows-11/"><u>Reinvigorating Diagnostics in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-blackscreen-in-win11/"><u>Resolved BlackScreen in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-xbox-one-drivers-on-w11-systems/"><u>Seamless Xbox One Drivers on W11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-to-sharpened-pictures-using-windows-11-photos-feature/"><u>Step-by-Step to Sharpened Pictures Using Windows 11 Photos Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-tools-to-master-video-files-on-windows/"><u>Ultimate Tools to Master Video Files on Windows</u></a></li>
 </ul></div>
 

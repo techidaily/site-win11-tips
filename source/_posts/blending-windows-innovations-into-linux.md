@@ -1,7 +1,7 @@
 ---
 title: Blending Windows Innovations Into Linux
-date: 2024-08-08T10:56:42.366Z
-updated: 2024-08-09T10:56:42.366Z
+date: 2025-01-31T01:02:48.887Z
+updated: 2025-02-01T10:34:36.339Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906
  Thankfully, much like Linux, Windows leaves power in the hands of the user. Let's have a look at a handful of different features you can pull over from Linux into your own Windows system.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Getting Linux Features on Windows
 
 ![screenshot of numerous programs with linux features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_numerous_programs_with_linux_features.jpg)
@@ -33,14 +34,8 @@ thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906
 
  There are still [many functions that Linux has that Windows will struggle to imitate](https://www.makeuseof.com/things-you-can-do-on-linux-but-not-on-windows/), but with this list, you'll hopefully be able to bring over your favorite Linux features without much hassle.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Better Window Management With AltSnap
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![screenshot of windows desktop with the altdrag configuration menu open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/altdrag-rightclick-menu-configure.jpg)
 
  Linux boasts a rather famous feature many call Alt Drag, where you can easily rearrange windows without having to move the mouse to the title bar.
@@ -55,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906
 
 ![screenshot of x mouse controls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_x_mouse_controls.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On Windows, clicking on a window makes it the active window. Many Linux distros follow a different tradition, where simply hovering your mouse over the window causes it to become active instead.
 
  This saves a click, and is actually a function that already exists on Windows. However, you cannot activate this functionality using normal means.
@@ -68,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906
 ## 3\. Batch File for More Efficient Command Prompt Management
 
 ![screenshot of the cd command in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_cd_command_in_cmd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This one is a bit obscure, but anyone who has used Linux distros in the past will know how useful this can be.
 
@@ -84,19 +87,16 @@ thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906
  Now you can use whatever you named the batch file as a command to jump to your home directory. This can be a huge time saver if you're coming over from Linux!
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Strip Down Unnecessary Bloat With Winaero Tweaker
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![screenshot of the winaero tweaker main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_winaero_tweaker_main_screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When it comes to comparing the advantages of Linux and Windows, one point in Linux's favor is definitely how hands-off it is with the user.
 
@@ -108,23 +108,17 @@ thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906
 
 **Download:**[Winaero Tweaker](https://winaero.com/winaero-tweaker/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Windows and Linux Are as Similar as They Are Different
 
  There are not many Linux-exclusive features that you can simply port over to Windows. Enjoying Windows as you would a Linux system has a lot to do with crafting the perfect user experience, which thankfully, Windows allows you to do.
 
  You won't be achieving the same feats as a Linux power user on your Windows machine, but you might be able to feel a little more at home if you were previously a Linux user.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,6 +127,26 @@ thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-laptop-specific-tips-to-maximize-your-screenrec/"><u>[New] 2024 Approved Laptop-Specific Tips to Maximize Your ScreenRec</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-biography-breakthroughs-101-expert-tips-and-tricks-for-facebook-biographers/"><u>[New] Biography Breakthroughs 101 Expert Tips and Tricks for Facebook Biographers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-conversational-mastery-step-by-step-guide-to-free-voice-modification-tools/"><u>[New] Crafting Conversational Mastery Step-by-Step Guide to Free Voice Modification Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-explore-free-youtube-pic-themes/"><u>[Updated] In 2024, Explore Free YouTube Pic Themes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-samsung-bd-j5900-review-for-2024/"><u>[Updated] Samsung BD-J5900 Review for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-probing-deep-into-inshots-editing-capabilities/"><u>2024 Approved Probing Deep Into InShot's Editing Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-location-of-saved-wallpaper-image/"><u>Discovering Location of Saved Wallpaper Image</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-correct-windows-system-insight-tracking/"><u>Ensuring Correct Window's System Insight Tracking</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-pdf-document-on-a-flash-drive-by-stellar-guide/"><u>How to Repair PDF Document on a Flash Drive</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/instagram-reel-creation-guide-for-2024/"><u>Instagram Reel Creation Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-fastest-ways-to-adjust-auditory-properties-on-windows-11/"><u>Learn Fastest Ways to Adjust Auditory Properties on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-rufus-overriding-tpm-and-secure-boot-in-win11/"><u>Mastering Rufus: Overriding TPM & Secure Boot in Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-sonic-selections-android-centric/"><u>Optimal Sonic Selections, Android-Centric</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-methods-with-dism-for-system-restoration/"><u>Proven Methods with DISM for System Restoration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrected-systems-the-ultimate-guide-of-13-system-recovery-tips/"><u>Resurrected Systems: The Ultimate Guide of 13 System Recovery Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-journey-from-photo-album-to-video-storyboard/"><u>The Journey From Photo Album to Video Storyboard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-8-study-techniques-for-maximum-efficiency-in-windows/"><u>Top 8 Study Techniques for Maximum Efficiency in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-resolving-lunar-client-failure-in-windows/"><u>Troubleshooting: Resolving Lunar Client Failure in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win1011-strategies-to-resolve-erroneous-non-existent-devices/"><u>Win10/11 Strategies to Resolve Erroneous Non-Existent Devices</u></a></li>
+</ul></div>
 

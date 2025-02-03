@@ -1,7 +1,7 @@
 ---
 title: Boost Your Productivity with Windows Command Shortcuts
-date: 2024-08-16T01:06:19.191Z
-updated: 2024-08-17T01:06:19.191Z
+date: 2025-01-27T07:41:45.096Z
+updated: 2025-01-31T22:14:00.012Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571
  Shortcuts can make a big difference by speeding up your tasks and saving precious time. It's great knowing some handy shortcuts when working on Windows. You can open apps in a snap, start functions instantly, search faster, and do more efficiently.
 
  So let's explore a few shortcuts you can use on your keyboard and other useful ones that will make things easy and snappy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows Keyboard Shortcuts for Common Tasks
 
@@ -50,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571
 
  Here are a few other tips and shortcuts that will make your work easier on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Scan Your PC for Malware Quickly
 
  Think you have malware? Here's how to get a scan running at record time:
@@ -60,24 +61,25 @@ thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571
 1. Open the **Run** box by pressing **Win + R** keys together or use one of the [many ways to open Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
 2. Type **mrt** in the Run navigation bar and hit **Enter**.  
 ![Run Box Open With mrt Typed in Navigation Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/type-mrt-in-run-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. The [Microsoft Windows Malicious Software Removal Tool](https://www.makeuseof.com/microsoft-malicious-software-removal-tool-guide/) will open up. Click on **Next**.  
-![Microsoft Windows Malicious Software Removal Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-software-removal-tool.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Microsoft Windows Malicious Software Removal Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-software-removal-tool.jpg)
 4. Then choose **Quick Scan**, **Full Scan**, or **Custom Scan**.  
 ![Malicious Software Removal Tool With Scan Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-scan-type-to-scan-for-malware.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 5. Finally, click on **Next** to scan your PC for malicious software.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Control Your System Volume With Your Mouse Wheel
 
  This is handy if you're on a desktop or use a mouse with your laptop. Just click on the Volume icon on the taskbar and the volume slider will open up. Slide the volume up or down using your mouse scroll wheel.
@@ -93,15 +95,14 @@ thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571
 3. Release the **Shift** and **arrow keys** to stop selecting the text and then copy or delete it.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use Shortcuts to Work Faster on Windows
 
  Undoubtedly, shortcuts make things much easier and faster as you work and play on Windows. So start using the shortcuts discussed above. Once you get used to them, you'll love using them every day.
 
  So let's explore a few shortcuts you can use on your keyboard and other useful ones that will make things easy and snappy.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,4 +110,27 @@ thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-iphoneandroid-apps-for-aspiring-creators/"><u>[New] In 2024, Essential iPhone/Android Apps for Aspiring Creators</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-leading-10-high-resolution-monitors-with-built-in-video-editing/"><u>[New] Leading 10 High-Resolution Monitors with Built-In Video Editing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fraudulent-fronts-navigating-the-minefield-of-fake-youtube-viewers/"><u>[Updated] 2024 Approved Fraudulent Fronts Navigating the Minefield of Fake YouTube Viewers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-ps5-consoles-backwards-compatible-with-ps4-titles/"><u>Are PS5 Consoles Backwards Compatible with PS4 Titles?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-workings-of-these-gpt-4-powered-apps/"><u>Decoding the Workings of These GPT-4 Powered Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/express-creativity-infuse-laughter-kapwing-guide/"><u>Express Creativity, Infuse Laughter - Kapwing Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-intel-unison-error-on-windows-11/"><u>Fixing Intel Unison Error on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-lenovo-laptop-camera-not-working/"><u>How To Fix Lenovo Laptop Camera Not Working</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-jumpstart-your-pre-windows-11-machine/"><u>How to Jumpstart Your Pre-Windows 11 Machine</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y17s-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y17s to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-chatgpt-a-source-of-unwavering-honesty/"><u>Is ChatGPT a Source of Unwavering Honesty?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/level-up-your-green-thumb-skills-using-perplexity-a-step-by-step-guide/"><u>Level Up Your Green Thumb Skills Using Perplexity - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-atmosphere-leading-windows-11-weather-apps/"><u>Navigating the Atmosphere: Leading Windows 11 Weather Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivate-winget-in-a-click-for-windows-11/"><u>Reactivate Winget in a Click for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-offline-windows-update-handbook/"><u>The Offline Windows Update Handbook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-steadying-your-pcs-cpu-with-windows-rm/"><u>The Ultimate Guide: Steadying Your PC's CPU with Window's RM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-unseen-benefit-of-bi-weekly-windows-data-save/"><u>The Unseen Benefit of Bi-Weekly Windows Data Save</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unzipping-files-proficiently-using-powershell-commands/"><u>Unzipping Files Proficiently Using PowerShell Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-powered-up-customize-cmd-shortcuts-using-nircmd/"><u>Windows 11 Powered Up: Customize Cmd Shortcuts Using NirCmd</u></a></li>
+</ul></div>
 

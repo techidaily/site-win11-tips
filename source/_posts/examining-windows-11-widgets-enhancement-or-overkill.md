@@ -1,7 +1,7 @@
 ---
 title: Examining Windows 11 Widgets - Enhancement or Overkill?
-date: 2025-01-19T01:03:45.602Z
-updated: 2025-01-24T22:46:36.819Z
+date: 2025-01-30T10:43:33.583Z
+updated: 2025-02-01T07:04:14.698Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are Widgets on Windows 11?
@@ -36,16 +36,12 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 ![Windows 11 widgets sliding-in from the left of the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-11-Widgets-Screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Widgets are essentially a minified version of apps and services that are already set up on your Windows 11 system. They allow you to quickly glance over things that matter to you, like stocks, news, weather, and sports, without opening each app or website individually.
 
  The weather widget you use will be an extension of Microsoft Weather. Similarly, the news widget will be powered by various news feeds globally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Widgets Can I Add to Windows 11?
 
@@ -58,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
  Of course, everyone's use cases are different, so the widgets you may find interesting may be different from the ones I listed here and vice versa.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Pros and Cons of Using Widgets on Windows
 
  Fortunately, you don’t need special skills to set up widgets on Windows 11\. It’s a simple point-and-click exercise, and you can start by checking out [how to add widgets to the Windows 11 desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  More importantly, the widgets panel isn’t very convenient. It has a clunky design, and I personally would find widgets more helpful if I could pin them to my desktop. Fortunately, you can use a [third-party app to pin widgets to the desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
  Widgets are certainly a step in the right direction, but [Microsoft can improve upon Windows 11's widgets](https://www.makeuseof.com/ways-microsoft-improve-windows-11-widgets/) to make them more accessible and useful for us all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our Verdict: Are Windows 11's Widgets Worth It?
@@ -96,24 +96,20 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-dark-knight-versus-shining-savior/"><u>[New] 2024 Approved Dark Knight Versus Shining Savior</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-e-identity-revamp-personal-cartoon-character-blueprint/"><u>[New] E-Identity Revamp Personal Cartoon Character Blueprint</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-deep-dive-into-polarr-photo-editor-comprehensive-review/"><u>[New] In 2024, Deep Dive Into Polarr Photo Editor Comprehensive Review</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-highlights-download-methods-and-creating-tips/"><u>[New] Instagram Highlights Download Methods and Creating Tips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-strategic-use-of-twitters-wayback-machine-features/"><u>[Updated] Strategic Use of Twitter's Wayback Machine Features</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/4-reasons-why-you-should-learn-a-language-in-your-fifties-50s-sixties-60s-seventies-70s-and-beyond/"><u>4 Reasons Why You Should Learn a Language in Your Fifties (50S), Sixties (60S), Seventies (70S) & Beyond</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/confronting-the-unusual-windows-pink-flash-error/"><u>Confronting the Unusual WINDOWS Pink Flash Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-windows-user-sign-in-overcoming-failures/"><u>Enabling Windows User Sign-In: Overcoming Failures</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-steps-for-silent-iphones-receiving-calls/"><u>Essential Troubleshooting Steps for Silent iPhones Receiving Calls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-windows-11-to-efficiently-handle-media-content/"><u>Guiding Windows 11 to Efficiently Handle Media Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-fixes-tackling-windows-services-non-responsiveness-error-1053/"><u>Immediate Fixes: Tackling Windows Services Non-Responsiveness (Error 1053)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-tackle-intermittent-fb-reels-display/"><u>In 2024, Tackle Intermittent FB Reels Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lost-audio-reconnect-windows-microphone-to-work-in-google-meet/"><u>Lost Audio? Reconnect Windows Microphone to Work in Google Meet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-how-to-overcome-error-code-0x80072efd-in-win1110/"><u>Mastering How to Overcome Error Code 0X80072EFD in Win11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pro-video-modelling-essentials-in-the-win11-app-collection/"><u>Pro Video Modelling Essentials in the Win11 App Collection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-windows-error-zerosevenzeronine/"><u>Remedy for Windows Error ZeroSevenZeroNine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-synergy-of-win-credentials-with-ms-online-identity/"><u>Seamless Synergy of WIN Credentials with MS Online Identity</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ate-leaderboard-locator-youtubes-most-pop-videos/"><u>Ultimate Leaderboard Locator YouTube's Most Pop Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-oppo-a78-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo A78 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-ultimate-list-of-online-havens-for-free-tamil-ringtones/"><u>[New] In 2024, The Ultimate List of Online Havens for Free Tamil Ringtones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-through-the-clutter-how-to-stream-top-notch-upside-down-content-on-youtube/"><u>[Updated] 2024 Approved Cutting Through the Clutter How to Stream Top-Notch Upside-Down Content on Youtube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-complete-blueprint-for-capturing-your-ps4-adventures/"><u>[Updated] 2024 Approved The Complete Blueprint for Capturing Your PS4 Adventures</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-hdr-mastery-the-complete-sdr-to-hdr-transformation/"><u>[Updated] HDR Mastery The Complete SDR-to-HDR Transformation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/44cm5pya6ygp44gq44oa44oz44k544ot44o844oi44ks6yg45oqe44gx44cb57eo6zug44gu44kz44oe44ks5a2m44g2ic0g5lik5oml44ge44oa44oz44k56zplusz5qw95l2c5oiq44ki44ox44oq44cn.15/"><u>「最適なダンスビートを選択し、編集のコツを学ぶ - 上手いダンス音楽作成アプリ」</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-handbook-for-proficient-periscope-use-for-2024/"><u>Comprehensive Handbook for Proficient Periscope Use for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-enhance-your-website-traffic-and-conversions/"><u>Cookiebot-Enabled: Enhance Your Website Traffic and Conversions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-video-output-fixing-black-webcam-display/"><u>Enhancing Video Output: Fixing Black Webcam Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-uses-for-microsofts-vcplusplus-distribute/"><u>Exploring Uses for Microsoft's VC++ Distribute</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-xs-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone XS Max or iPad?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-go-incognito-with-admin-credentials-on-windows-11/"><u>How to Go Incognito with Admin Credentials on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-windows-experience-with-unseen-functionalities-from-vivetool/"><u>Maximize Your Windows Experience with Unseen Functionalities From ViVeTool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-chrome-repair-for-windows-sudden-closure-errors/"><u>Quick Chrome Repair for Windows' Sudden Closure Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-command-prompt-with-elevated-authority-in-windows-11/"><u>The Ultimate Guide to Command Prompt with Elevated Authority in Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-podcast-style-unboxing/"><u>The Ultimate Guide to Podcast-Style Unboxing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Optimizing File Access via Win11 External Drives
-date: 2025-01-18T16:16:54.278Z
-updated: 2025-01-24T23:40:53.388Z
+date: 2025-01-30T06:27:55.548Z
+updated: 2025-02-01T01:49:57.892Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Configure Network Discovery in Windows
 
  Windows has a feature called[network discovery](https://www.makeuseof.com/windows-network-discovery-turn-on-off/) that allows your computer to discover and access other devices on the same network, such as computers, servers, and printers.
@@ -46,7 +42,7 @@ Follow the sets below to enable network discovery on Windows:
 4. Open the**Private networks** settings and set the toggle next to**Network discovery** to**On** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
@@ -71,16 +67,20 @@ Here's what you need to do to use File Explorer for mapping:
 ![This PC Context Menu In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/this-pc-context-menu-in-windows.jpg)
 3. Choose a unique drive letter in the**Map Network Drive** window. This is the drive you'll use to access the shared folder from your computer. As an example, we've selected**A:** as the drive letter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Enter the path to the shared folder you want to map in the**Folder:** field. This can be a local path on the computer, such as**\\\\YourComputer\\SharedFolder** , or a network path, such as**\\\\ServerName\\SharedFolder** .  
 ![Windows Shared Network Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-shared-network-folder.jpg)
 5. If you need a username and password to access the shared folder, check the**Connect using different credentials** box and enter the required information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Finish** to complete the mapping process.  
 ![Map Network Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/map-network-drive-in-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have completed these steps, it'll map the folder to the specified drive letter in File Explorer. You can access the shared folder at any time by double-clicking on the drive.
 
@@ -103,6 +103,10 @@ New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Cred
 5. Hit**Enter** to allow PowerShell to map the network drive. You can access the mapped drive from File Explorer now.
 
  Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use Command Prompt for Mapping
 
@@ -132,14 +136,10 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 3. In the next window, choose the drive letter or name of the network drive you want to disconnect. Click**OK** to disconnect it from your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The mapped network drive will now disappear from File Explorer, and you can no longer access it from the drive letter you created earlier.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Map Network Drives Easily in Windows 11
 
@@ -162,24 +162,22 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-beautys-brightest-stars-youtube-personalities-to-follow/"><u>[New] 2024 Approved Beauty's Brightest Stars YouTube Personalities to Follow</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-elite-group-of-high-speed-video-snapshot-apps/"><u>[New] In 2024, Elite Group of High-Speed Video Snapshot Apps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-privacy-pioneers-explore-instagram-stories-secretly-for-2024/"><u>[New] Privacy Pioneers Explore Instagram Stories Secretly for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-most-popular-vr-game-experiences-on-oculus/"><u>[New] The Most Popular VR Game Experiences on Oculus</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-collaborative-video-workflows-for-content-growth/"><u>[Updated] 2024 Approved Collaborative Video Workflows for Content Growth</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-evaluating-macs-leading-snipping-tools-compilation/"><u>[Updated] Evaluating Mac's Leading Snipping Tools Compilation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-code-24-errors-in-windows-operating-systems-solutions-for-windows-11-8-and-easily-fix-the-issue/"><u>Diagnosing Code 24 Errors in Windows Operating Systems - Solutions for Windows 11, 8, and Easily Fix the Issue.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-transition-powertoys-in-your-win11-pc/"><u>Effortless Transition: PowerToys in Your Win11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-share-error-messages-with-nvidias-gui/"><u>Eliminating Share Error Messages with NVIDIA’s GUI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-supercharge-system-controls-running-task-manager-admin-wise-on-win11/"><u>How to Supercharge System Controls: Running Task Manager Admin-Wise on Win11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-revolutionary-entry-points-for-zooids/"><u>In 2024, Revolutionary Entry Points for Zooids</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keysfan-annual-lowest-price-on-black-friday-lifetime-windows-11-starts-from-612/"><u>Keysfan Annual Lowest Price on Black Friday! Lifetime Windows 11 Starts From $6.12</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-diskspace-analysis-with-windows-diskusage-commands/"><u>Mastering DiskSpace Analysis with Windows' DiskUsage Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-unlocking-windows-update-error-0x800736cc/"><u>Mastering the Art of Unlocking Windows Update Error 0X800736CC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/quick-fixes-for-device-driver-error-on-windows-11-resolve-issues-immediately/"><u>Quick Fixes for 'Device Driver Error' On Windows 11: Resolve Issues Immediately</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revisit-the-classics-enhancing-games-with-retroarchs-shaders/"><u>Revisit the Classics: Enhancing Games with RetroArch’s Shaders</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-disabling-windows-lsa-security-signal/"><u>Troubleshooting: Disabling Windows LSA Security Signal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/whats-behind-win32keygen-understanding-its-effect-on-pc-safety/"><u>What's Behind Win32/Keygen? Understanding Its Effect on PC Safety</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11s-file-explorer-stop-the-endless-freeze-cycle/"><u>Win11's File Explorer: Stop the Endless Freeze Cycle</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-make-your-youtube-moments-come-alive-creating-dynamic-gifs-for-2024/"><u>[New] How to Make Your YouTube Moments Come Alive Creating Dynamic GIFs for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-paws-and-play-androids-animal-simulator-choices/"><u>[New] In 2024, Paws and Play Android’s Animal Simulator Choices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-stream-reversal-hacks-an-overview-of-eight-simple-steps/"><u>[New] Stream Reversal Hacks An Overview of Eight Simple Steps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-sync-sound-files-with-ppt-slides/"><u>[Updated] In 2024, Sync Sound Files with PPT Slides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-1011-app-failure-zeroxc000003e/"><u>Deciphering Windows 10/11 App Failure: ZeroXC000003e</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhance-your-mac-display-with-iphone-12-mastering-the-art-of-airplay-streaming/"><u>Enhance Your Mac Display with iPhone 12: Mastering the Art of AirPlay Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/establishing-parental-guidelines-in-windows-11-os/"><u>Establishing Parental Guidelines in Windows 11 OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-nokia-c300-frp-by-drfone-android/"><u>Full Guide to Bypass Nokia C300 FRP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-the-cloud-directly-from-windows-accessible-storage-solutions/"><u>Harnessing the Cloud Directly From Windows: Accessible Storage Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hide-and-seek-with-win11-archiving-in-photos/"><u>Hide-and-Seek with Win11: Archiving in Photos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capturing-the-webs-essence-top-browsers-for-screen-recorders/"><u>In 2024, Capturing the Web’s Essence Top Browsers for Screen Recorders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-to-wows-critical-fatal-error/"><u>Mastering the Resolution to WoW’s Critical Fatal Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-text-snippet-copy-with-windows-keys/"><u>Optimizing Text Snippet Copy with Windows Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-remedying-0x80072af9-complications/"><u>Quick Guide: Remedying 0X80072AF9 Complications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-try-now-error-in-windows-devices-bluetooth/"><u>Unraveling Try Now Error in Windows Devices' Bluetooth</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/whats-the-potential-of-using-chatgpt-for-generating-custom-designed-safe-and-highly-effective-exercpertise-programmes-just-for-me/"><u>What's The Potential Of Using ChatGPT For Generating Custom-Designed, Safe, And Highly Effective Exercpertise Programmes Just For Me?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Guide to Efficient Language Switching in Windows 11
-date: 2024-08-16T01:09:09.231Z
-updated: 2024-08-17T01:09:09.231Z
+date: 2025-01-30T10:25:32.491Z
+updated: 2025-02-01T14:18:52.364Z
 tags:
   - windows10
   - windows11
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
 
 ## A Guide to Efficient Language Switching in Windows 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can easily add different keyboard layouts in Windows 11 in the Settings app and then switch to them from the system tray.
@@ -24,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
 
  Windows offers more keyboard layouts beyond QWERTY. With a few clicks, you can add a new keyboard layout, such as DVORAK and AZERTY, and switch to that one instead. Here's what you need to know.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add a Keyboard Layout in Windows 11
 
  Multiple keyboard layouts are already installed for your preferred language. To add them to it, follow the steps below:
@@ -34,15 +35,13 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
 1. Press **Win + I** to open Settings, and then head to **Time & language > Language & Region**.
 2. Click the three-dot icon next to your preferred language (the one on top) and select **Language Options**.  
 ![The Language Options on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/language-region-keyboard-options-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the **Keyboards** section, click **Add a Keyboard**, and select a different keyboard key layout from the available options.  
-![Selecting a new keyboard layout on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-keyboard-layout-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Selecting a new keyboard layout on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-keyboard-layout-windows.jpg)
 
  You can get more keyboard layouts by adding a new language. However, this requires the internet to download the new language. So, [make sure you're connected to the internet](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/), and follow the steps below:
 
@@ -54,6 +53,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you still can't find a keyboard layout you like, you should consider [creating a custom keyboard layout](https://www.makeuseof.com/tag/create-custom-keyboard-layout-windows/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change a Keyboard Layout in Windows 11
 
  To change the keyboard layout, click the **language switcher** in the system tray section and select a different layout from there.
@@ -63,8 +66,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Alternatively, you can press and hold **Win** and keep pressing the **Space bar** to switch between different keyboard layouts. You can do the same by holding down **Shift** and pressing **Alt**.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Remove a Keyboard Layout in Windows 11
 
  If you don't need a keyboard layout, you can easily remove it. To do that, follow the steps below:
@@ -73,22 +77,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Click the three-dot icon next to the keyboard layout you want to remove and select **Language Options**.
 3. In the **Keyboards** section, click the three-dot icon next to a keyboard layout and select **Remove**.  
 ![Removing a keyboard layout on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/remove-keyboard-layout-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 
  You can also remove a language if you no longer need it. To do that, follow the steps below:
 
 1. Go back to **Language & Region** in Settings.
 2. Click the three-dot icon next to the language you want to remove and click **Remove**.  
 ![Removing a language on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/remove-language-windows.jpg)
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The language and its associated keyboard layout will now be removed from your computer.
@@ -97,8 +94,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Windows offers more keyboard layouts beyond QWERTY. With a few clicks, you can add a new keyboard layout, such as DVORAK and AZERTY, and switch to that one instead. Here's what you need to know.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -106,5 +101,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/building-brand-awareness-best-practices-for-snapchat/"><u>Building Brand Awareness Best Practices for Snapchat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directing-wakeable-assets-on-windows-during-rest/"><u>Directing Wakeable Assets on Windows During Rest</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-insert-custom-srt-captions-into-an-mp4-video-file-a-step-by-step-guide/"><u>How to Insert Custom SRT Captions Into an MP4 Video File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-14-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-13-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 13 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-your-pen-tablet-not-working-on-windows-heres-how-to-fix-it/"><u>Is Your Pen Tablet Not Working on Windows? Here’s How to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-task-management-on-win11-with-a-quick-search-bar/"><u>Unlocking Task Management on Win11 with a Quick Search Bar</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-woes-9-essential-fixes-for-ineffectual-keystrokes-and-keycombinations/"><u>Windows Woes? 9 Essential Fixes for Ineffectual Keystrokes and Keycombinations</u></a></li>
+</ul></div>
 

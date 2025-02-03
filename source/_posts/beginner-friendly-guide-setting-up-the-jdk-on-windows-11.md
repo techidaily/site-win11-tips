@@ -1,7 +1,7 @@
 ---
 title: "Beginner-Friendly Guide: Setting Up the JDK on Windows 11"
-date: 2024-08-08T10:57:27.226Z
-updated: 2024-08-09T10:57:27.226Z
+date: 2025-01-31T04:48:32.440Z
+updated: 2025-02-01T10:35:31.895Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
  Therefore, it makes sense for anyone interested in programming—and the larger software development world in general—to get their hand dirty with Java. In this article, we’ll look at the exact method to install JDK, or the Java Development Environment, a software development environment necessary for running Java on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Run a Check for Java JDK on Your PC
 
  Before we move to the installation, though, it’s useful to see if JDK is already present in your system. To do that, go to the **Start menu** search bar, type in ‘cmd,’ and select the Best match.
@@ -33,10 +34,11 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 
  As soon as you do that the Command prompt will check your PC for JDK. If your Windows 11 doesn’t have the JDK installed, you should see something like this on your cmd screen:
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cmd command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cmd-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you can also check for the JDK through the Control Panel as well. Here's how:
 
@@ -45,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 
  If you cannot find the JDK section through either method, jump to the section below for the installation instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Installing Java JDK in Windows 11
 
  To install the JDK installer, we need to head to Oracle’s website first. Here’s how:
@@ -58,28 +57,29 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 4. On the next screen, you’ll be asked for the location of your file. Click on **Next**.
 5. Once the JDK installation is complete, click on **Close**.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![downloading the java installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/downloading-the-java-installer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![java development kit installation menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/java-development-kit-installation-menu.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By the end of this process the Java development kit will be successfully installed on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Installing and Running Java in Windows 11
 
  And that’s all, folks. Follow the steps above, and the Java environment will be successfully set up on your PC. Being one of the more popular programming languages out there, installing and learning Java is your first step in growing in this handy, object-oriented language.
 
  Therefore, it makes sense for anyone interested in programming—and the larger software development world in general—to get their hand dirty with Java. In this article, we’ll look at the exact method to install JDK, or the Java Development Environment, a software development environment necessary for running Java on your PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -87,4 +87,19 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-photobooth-playback-error-constant-pause-issues-for-2024/"><u>[Updated] Photobooth Playback Error Constant Pause Issues for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-first-steps-to-picture-perfection-demystifying-pixels/"><u>2024 Approved First Steps to Picture Perfection Demystifying Pixels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/androids-power-for-pause-how-to-create-amazing-time-lagged-footage-for-2024/"><u>Android's Power for Pause How to Create Amazing Time-Lagged Footage for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-pitfalls-in-gpt-engagement/"><u>Avoid Pitfalls in GPT Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-non-responsive-esc-key-on-your-pc/"><u>How to Fix a Non-Responsive Esc Key on Your PC</u></a></li>
+<li><a href="https://article-files.techidaily.com/leading-filmmaking-applications-for-gopro/"><u>Leading Filmmaking Applications for GoPro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-search-tools-beyond-the-ls-command/"><u>Mastering Windows Search Tools Beyond the LS Command</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-printer-admin-console-a-quick-guide/"><u>Navigating Windows Printer Admin Console: A Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reverse-disk-errors-a-microsoft-method/"><u>Reverse Disk Errors: A Microsoft Method</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-for-pairing-your-xbox-one-controller-when-it-wont-connect/"><u>Step-by-Step Tips for Pairing Your Xbox One Controller When It Won't Connect</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-to-linux-transition-building-linux-virtual-machines-in-hyper-v/"><u>Windows-to-Linux Transition: Building Linux Virtual Machines in Hyper-V</u></a></li>
+</ul></div>
 

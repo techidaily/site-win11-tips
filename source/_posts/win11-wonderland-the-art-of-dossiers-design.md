@@ -1,7 +1,7 @@
 ---
 title: "Win11 Wonderland: The Art of Dossiers Design"
-date: 2025-01-14T16:52:04.161Z
-updated: 2025-01-18T17:57:43.228Z
+date: 2025-01-27T13:53:22.275Z
+updated: 2025-02-01T08:05:38.721Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Create a New Folder Using the Context Menu
 
  The easiest and most well-known way to create a new folder on Windows is through the context menu. You can use this method to create folders nearly anywhere in Windows. Here are the steps you can follow:
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
 3. Select**New > Folder** .
 4. Type in a suitable name for your folder and then press**Enter** .  
 ![Create New Folder in Windows 11 Using the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-the-context-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Create a New Folder Using File Explorer
 
@@ -51,6 +51,10 @@ To create a new folder using File Explorer's menu:
 4. Give your folder a suitable name, and then press**Enter** .  
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Create a New Folder With a Keyboard Shortcut
 
  If you prefer to work with the keyboard rather than a mouse, or if you simply want to create a new folder faster, you can use the**Ctrl + Shift + N** keyboard shortcut on Windows.
@@ -59,15 +63,7 @@ To create a new folder using File Explorer's menu:
 
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Create a New Folder With Command Prompt or PowerShell
 
@@ -86,14 +82,18 @@ To create a new folder using File Explorer's menu:
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating Folders in Windows 11 Quickly
@@ -115,18 +115,21 @@ To create a new folder using File Explorer's menu:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-key-tips-for-attracting-brands-as-youtubers-sponsors/"><u>[New] 2024 Approved Key Tips for Attracting Brands as Youtubers' Sponsors</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-select-and-download-exclusive-tailored-audio-templates-for-2024/"><u>[New] Select & Download Exclusive Tailored Audio Templates for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-elevating-your-viewing-experience-with-benq-sw320-monitor/"><u>2024 Approved Elevating Your Viewing Experience with BenQ SW320 Monitor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726225497208-gif-mp4-movavi/"><u>在線無限制地自由轉換 GIF成 MP4 - 使用Movavi技術</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capturing-movie-scenes-as-single-image-snapshots-windows-10/"><u>Capturing Movie Scenes as Single Image Snapshots (Windows 10)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/downloadable-tool-convert-your-dts-video-streams-to-m4v-format-for-no-cost-moveavi/"><u>Downloadable Tool: Convert Your DTS Video Streams to M4V Format for No Cost - MoveAVI</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-fixes-resolving-issues-with-non-responsive-windows-defender-expert-tips-from-yl-computing/"><u>Effective Fixes: Resolving Issues with Non-Responsive Windows Defender - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/harnessing-cookiebot-technology-for-enhanced-seo-performance/"><u>Harnessing Cookiebot Technology for Enhanced SEO Performance</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-tecno-pop-7-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Tecno Pop 7 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-gratuite-tod-mov-vervanger-allemaal-verschilend-gereed-tod-naar-mov-movavi-als-solutie/"><u>Online Gratuite TOD-MOV Vervanger: Allemaal Verschilend Gereed TOD Naar MOV - Movavi Als Solutie</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-11-substitutes-for-adobe-after-effects-free-and-paid-options-available/"><u>Top 11 Substitutes for Adobe After Effects - Free & Paid Options Available</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasformare-i-tuoi-gif-in-immagini-png-gratuite-online-movavi/"><u>Trasformare I Tuoi GIF in Immagini PNG Gratuite Online - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mov-mkv/"><u>오픈소스로 속도가 빠는 MOV, MKV 영상 변환 - 모바이브리지</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-vidovibes-engage-with-twitter-then-save-the-moving-pictures/"><u>[New] In 2024, VidoVibes Engage with Twitter, Then Save the Moving Pictures</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-checklist-for-compelling-audio-intros/"><u>[New] The Ultimate Checklist for Compelling Audio Intros</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-harnessing-powerful-tools-for-effective-youtubers-seo/"><u>2024 Approved Harnessing Powerful Tools for Effective YouTubers' SEO</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ultimate-list-of-unmissable-virtual-playgrounds/"><u>2024 Approved Ultimate List of Unmissable Virtual Playgrounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-color-combinations-for-terminal/"><u>Exploring Color Combinations for Terminal</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-do-live-streaming-with-periscope-for-2024/"><u>How to Do Live Streaming with Periscope for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-3-ipad-speech-capture-methods/"><u>In 2024, Top 3 iPad Speech Capture Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-the-most-of-linux-with-windows-integration/"><u>Making the Most of Linux with Windows Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precision-play-keeping-your-ps4-joystick-connected-to-win-again/"><u>Precision Play: Keeping Your PS4 Joystick Connected to Win Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-steps-for-preventing-power-save-of-usbs-in-windows-11/"><u>Proactive Steps for Preventing Power Save of USBs in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-privacy-obfuscating-windows-taskview/"><u>Securing Privacy: Obfuscating Windows TaskView</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-operations-solving-non-installation-issues-in-windows-enhancements/"><u>Smooth Operations: Solving Non-Installation Issues in Windows Enhancements</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-cool-play-more-hot-gadgets-revealed/"><u>Stay Cool, Play More: Hot Gadgets Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-file-management-auto-empty-feature-for-windows-users/"><u>Streamlining File Management: Auto-Empty Feature for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-full-screen-grayscale-on-windows-11-solution/"><u>Troubleshooting Full-Screen Grayscale on Windows 11 (Solution)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-little-directors-big-ideas-teaching-kids-to-make-movies-for-2024/"><u>Updated Little Directors, Big Ideas Teaching Kids to Make Movies for 2024</u></a></li>
 </ul></div>
 

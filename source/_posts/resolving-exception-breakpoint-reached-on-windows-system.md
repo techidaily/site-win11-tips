@@ -1,7 +1,7 @@
 ---
 title: Resolving Exception Breakpoint Reached on Windows System
-date: 2025-01-17T23:29:55.403Z
-updated: 2025-01-24T22:59:47.005Z
+date: 2025-01-31T02:49:33.490Z
+updated: 2025-02-01T07:40:28.540Z
 tags:
   - windows10
   - windows11
@@ -55,7 +55,7 @@ Follow these steps to run the DISM and System File Checker tools:
  Next, type the following command and press**Enter** to scan your PC's health:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `Dism /Online /Cleanup-Image /ScanHealth`
@@ -66,6 +66,10 @@ Follow these steps to run the DISM and System File Checker tools:
 `sfc /scannow`
 7. This process can take some time to complete. Once the verification reaches 100%, it will display the result and any actions taken.
 8. Type**exit** and press**Enter** to close Command Prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check Your Hard Drive for Errors With CHKDSK
 
@@ -83,6 +87,10 @@ To run the CHKDSK tool:
 
  When executed, it will scan and check your system drive (C:/) for bad sectors. Wait for the scan to finish and close the Command Prompt window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Turn Off Any GPU Overclocking
 
  If the error is triggered while performing a graphic-intensive task (such as playing a game or rendering 3D models), it can be due to an overclocked GPU.
@@ -92,7 +100,7 @@ To run the CHKDSK tool:
  If you need help with overclocking, check out[the best GPU overclocking tools](https://www.makeuseof.com/best-gpu-overclocking-tools/) to get the best results.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Check for Memory Leaks
@@ -112,17 +120,9 @@ To run the CHKDSK tool:
 7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
 8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Create a New Windows Local Account
 
  A corrupted user profile may cause the "the exception breakpoint has been reached" error. To fix the error, you can[create a new user local user profile on Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) and give it administrator privilege. Sign into your new user profile and launch the app to see if the error is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Update or Uninstall the Problematic App
 
@@ -138,12 +138,12 @@ To uninstall an application on Windows:
 ![windows 11 settings installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-installed-apps.jpg)
 4. Type the name of your app in the search bar.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
 5. Next, click**the three-dots menu** next to the app name and**Uninstall** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click on**Uninstall** again to confirm the action.
 7. Once uninstalled, download the app installer and install the app. Restart your PC and check for any improvements.
@@ -169,14 +169,20 @@ To uninstall an application on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-charting-your-course-through-youtube-compliance-for-2024/"><u>[New] Charting Your Course Through YouTube Compliance for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easing-windows-apps-conflicting-camera-demands/"><u>Easing Windows Apps' Conflicting Camera Demands</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/enhance-snaps-with-quick-voice-customization-techniques-on-snapchat-for-2024/"><u>Enhance Snaps with Quick Voice Customization Techniques on Snapchat for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/power-up-android-studio-accelerated-development-on-win32/"><u>Power-Up Android Studio: Accelerated Development on Win32</u></a></li>
-<li><a href="https://extra-support.techidaily.com/simplifying-the-complex-an-in-depth-review-of-vida-app-for-2024/"><u>Simplifying the Complex An In-Depth Review of Vida App for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-mp3-to-cd-conversion-for-home-users-on-windows-via-imgburn/"><u>Streamlining Mp3 to CD Conversion for Home Users on Windows via ImgBurn</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-fixing-local-lsa-unavailability-alerts/"><u>Tips for Fixing Local LSA Unavailability Alerts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixing-hp-audio-driver-errors-in-windows-versions-11-8-and-7/"><u>Troubleshooting and Fixing HP Audio Driver Errors in Windows Versions 11, 8 & 7</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-pixelperfect-video-creator-for-2024/"><u>[New] PixelPerfect Video Creator for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-demystifying-zoom-sessions-into-smaller-groups/"><u>[Updated] Demystifying Zoom Sessions Into Smaller Groups</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-strategic-unveiling-the-box-of-opportunity-for-2024/"><u>[Updated] Strategic Unveiling The Box of Opportunity for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/gmailyahoooutlook/"><u>古いGmail/Yahoo/Outlookメールバックアップからのデータ復元手順</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-image-shows-in-windows-11-unravel-seven-simple-steps/"><u>Effortless Image Shows in Windows 11 – Unravel Seven Simple Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-classic-gameplay-incorporating-achievements-with-retroarch-software/"><u>Elevating Classic Gameplay: Incorporating Achievements with Retroarch Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-high-def-odyssey-of-youtubes-twitter-vids/"><u>In 2024, The High-Def Odyssey of YouTube's Twitter Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-recycle-error-in-win1011-a-step-by-step-approach/"><u>Overcoming Recycle Error in WIN10/11: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-cannot-connect-to-server-in-lost-ark-quick-fixes-and-solutions/"><u>Resolving 'Cannot Connect to Server' In Lost Ark – Quick Fixes & Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-your-pc-minimizing-apps-using-keyboard-shortcuts/"><u>Speed Up Your PC: Minimizing Apps Using Keyboard Shortcuts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/strongholds-in-minecraft-the-ultimate-guide/"><u>Strongholds in Minecraft The Ultimate Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-old-games-into-modern-memories-on-w11-pcs/"><u>Transform Old Games Into Modern Memories on W11 PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-live-sports-install-and-watch-fubotv-on-your-fire-tv-device/"><u>Unlocking Live Sports: Install and Watch FuboTV on Your Fire TV Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unmistakable-window-visibility/"><u>Unmistakable Window Visibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-correcting-your-system-writes-shortage/"><u>Unraveling & Correcting Your System' Writes Shortage</u></a></li>
 </ul></div>
 

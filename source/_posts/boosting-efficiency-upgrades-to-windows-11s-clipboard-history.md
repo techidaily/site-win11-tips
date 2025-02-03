@@ -1,7 +1,7 @@
 ---
 title: "Boosting Efficiency: Upgrades to Windows 11'S Clipboard History"
-date: 2024-08-08T10:59:03.367Z
-updated: 2024-08-09T10:59:03.367Z
+date: 2025-01-27T08:39:23.953Z
+updated: 2025-02-01T13:21:29.478Z
 tags:
   - windows10
   - windows11
@@ -20,14 +20,8 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
  In this article, we are putting together a list of features Microsoft can add to improve the clipboard history capability in Windows 11\. But before that, here is a brief introduction to the clipboard history feature.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## What Is the Clipboard History, and How Do You Enable It?
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clear Clipboard History From Clipboard Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Clear-Clipboard-History-From-Clipboard-Tab.jpg)
 
  Microsoft introduced the clipboard history capability to Windows 10 to make copy and paste more intuitive. It simply keeps a record of image and text items you have copied recently for you to paste later. This way, you can copy multiple items at once and then paste them instead of copying and pasting text and images one by one.
@@ -37,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
  However, after using it for some time, you will realize that it's by no means perfect. Here are some of the capabilities Microsoft can introduce to make it perfect.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Pinned Items Should Show Up at the Top
 
 ![Screenshot showing pinned items in Clipboard history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/pinned-items.jpg)
@@ -61,21 +56,16 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
  Microsoft can address this issue by adding the ability to resize the clipboard history window. Windows users should be able to drag the window's edges to change the size, just like how we can resize app windows.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Allow Pinning of Clipboard History to Taskbar
 
  While opening the clipboard history in Windows 10 and 11 is already easy, it will be even more accessible if it gets pinned on the taskbar. This can be helpful if you are facing issues with keyboard switches (check out [fixes for keyboard switch not working on Windows](https://www.makeuseof.com/fix-keyboard-keys-not-working-windows/)), as pinning the clipboard history to the taskbar gives you an alternative way to access all the copied items.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Add Paste as Plain Text in Clipboard History
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![Screenshot showing copy as text in Windows 11 Clipboard history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clipboard-paste-as-plain-texxt.jpg)
 
  If you copy a piece of formatted text, the clipboard history on Windows will not allow you to paste it as plain text. You will have to change its formatting after pasting, which takes time and is not how many of us would want it to be.
@@ -93,15 +83,24 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
  clipboard history can store up to 25 items you've cut or copied. That number may not be sufficient for a better workflow for someone who uses copy and paste extensively. Microsoft needs to increase the number of items that clipboard history can store to improve the overall copy-and-paste experience on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Bring the Option to Share Items in Clipboard History with Users
 
  Many Windows users would want to share their clipboard history with others. This will enable other users to paste the same set of copied items. Hopefully, Microsoft will add this one, too, in future Windows 11 versions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Other Improvements Microsoft Can Bring to Clipboard History
 
  A piece of software is considered good when it is reliable with a minimum number of failures. clipboard history with all its flaws works well most of the time, but Microsoft needs to bring more improvements to make it more reliable and faster. Meanwhile, if you are facing issues, you can easily [fix the clipboard history when it stops working](https://www.makeuseof.com/windows-11-fix-clipboard-history/) on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Microsoft Will Hopefully Improve Clipboard History... but Keep Your Expectations in Check
 
@@ -109,12 +108,24 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
  In this article, we are putting together a list of features Microsoft can add to improve the clipboard history capability in Windows 11\. But before that, here is a brief introduction to the clipboard history feature.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-highlighting-the-top-10-budget-friendly-video-communication-platforms-for-industry-and-academia-for-2024/"><u>[New] Highlighting the Top 10 Budget-Friendly Video Communication Platforms For Industry & Academia for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-simplified-tech-livestreaming-of-facebook-using-obs-studio/"><u>[Updated] 2024 Approved Simplified Tech Livestreaming of Facebook Using OBS Studio</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-fortified-process-for-adding-tiktok-profile-hyperlinks-for-2024/"><u>[Updated] Fortified Process for Adding TikTok Profile Hyperlinks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-new-file-metadata-dates-and-more-in-windows/"><u>Crafting New File Metadata: Dates & More in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-techniques-for-windows-calculator-access/"><u>Essential Techniques for Windows Calculator Access</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-honor-90-lite-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Honor 90 Lite Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-addressing-and-correcting-discoloration/"><u>Methods for Addressing and Correcting Discoloration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-w11w10-with-effective-synapse-fixes/"><u>Streamlining W11/W10 with Effective Synapse Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-budget-friendly-gaming-displays-the-ultimate-picks-techradar/"><u>Top Budget-Friendly Gaming Displays - The Ultimate Picks | TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-hp-screen-driver-compatibility-for-win10-win8-and-win7-operating-systems/"><u>Troubleshooting and Fixing HP Screen Driver Compatibility for Win10, Win8 & Win7 Operating Systems</u></a></li>
+</ul></div>
 

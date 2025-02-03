@@ -1,7 +1,7 @@
 ---
 title: How to Disable Auto-Play of Spotify in Windows
-date: 2025-01-18T16:25:15.229Z
-updated: 2025-01-24T16:29:12.419Z
+date: 2025-01-28T00:58:21.746Z
+updated: 2025-02-01T06:41:54.488Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Stop Spotify From Opening Automatically by Changing Its Startup Behavior
@@ -41,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 ![Spotify Startup Behavior on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/spotify-startup-behavior-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, Spotify should no longer open automatically when you boot up your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Stop Spotify From Opening Automatically Using Windows Task Manager
@@ -58,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 2. Switch to the**Startup apps** tab using the left pane.
 3. Locate and select**Spotify** from the list. Then, click the**Disable** button at the top.  
 ![Disable Spotify as a Startup App Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-spotify-as-a-startup-app-using-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you complete the above steps, Spotify’s status should change to**Disabled** in the Task Manager app. Following that, the app will not open during startup. Later, if you want to re-enable Spotify as a startup app, you can change its status back to**Enabled** .
 
@@ -80,7 +76,11 @@ To stop Spotify from opening at startup via the Settings app:
 ![Disable Spotify as a Startup App via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-spotify-as-a-startup-app-via-windows-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prevent Spotify From Launching at Startup on Windows
@@ -104,20 +104,19 @@ To stop Spotify from opening at startup via the Settings app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-avoid-the-backtrack-blunder-with-these-tips/"><u>[Updated] 2024 Approved Avoid the Backtrack Blunder with These Tips</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-enhancing-social-media-impact-with-high-quality-360-facebook-content/"><u>[Updated] Enhancing Social Media Impact with High-Quality 360 Facebook Content</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-exploring-t-series-youtube-profit-strategy/"><u>[Updated] In 2024, Exploring T-Series YouTube Profit Strategy</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/diagnose-and-solve-pc-crashing-issues-while-playing-rainbow-six-siege-expert-tips-and-techniques/"><u>Diagnose & Solve PC Crashing Issues While Playing Rainbow Six Siege: Expert Tips & Techniques</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-8-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your Apple iPhone 8?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-doc-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .doc file document with Electronic Digital Signature - (Tutorial)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tackle-non-functional-resource-monitor-apps-on-win11/"><u>How to Tackle Non-Functional Resource Monitor Apps on Win11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-13c-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Xiaomi Redmi 13C for Free? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-ai-features-utilizing-microsofts-bing-tool-on-your-android-device/"><u>Mastering AI Features: Utilizing Microsoft's Bing Tool on Your Android Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-directory-restarts-for-distro-and-catroot2-in-ws11/"><u>Navigating Directory Restarts for Distro & Catroot2 in WS11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalizing-fn-button-actions-in-windows-11/"><u>Personalizing FN Button Actions in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pinpointing-and-ameliorating-unilateral-windows-audio-glitches/"><u>Pinpointing and Ameliorating Unilateral Windows Audio Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-adjustments-for-enhanced-devices-with-windows-11/"><u>Streamlined Adjustments for Enhanced Devices with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stylish-practicality-asus-vivobook-s-15s-perfect-fusion/"><u>Stylish Practicality - ASUS Vivobook S 15'S Perfect Fusion</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-boomboxes-the-ultimate-list/"><u>Top Rated Boomboxes : The Ultimate List</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-frame-it-right-essential-2023-tools-and-sites-for-image-edits/"><u>[New] 2024 Approved Frame It Right Essential 2023 Tools & Sites for Image Edits</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-filming-availability-pledge-downloading-rights/"><u>[New] In 2024, Filming Availability Pledge Downloading Rights</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-innovative-use-of-plugins-for-skype-call-capture-in-obs-for-2024/"><u>[New] Innovative Use of Plugins for Skype Call Capture in OBS for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-reverting-to-classic-from-sierra-to-os-x-1010-for-2024/"><u>[New] Reverting to Classic From Sierra To OS X 10.10 for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-steps-for-effective-ipad-screen-casts-for-2024/"><u>[New] Steps for Effective iPad Screen Casts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-repairing-defrag-glitch-in-os/"><u>Diagnosing and Repairing Defrag Glitch in OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-8-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 8 Plus to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reconnect-steam-in-windows-environment/"><u>How to Reconnect Steam in Windows Environment</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-realme-narzo-60x-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-nature-exceptional-weather-apps-for-windows-11/"><u>Navigating Nature: Exceptional Weather Apps for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-login-problems-8-effective-solutions/"><u>Navigating Windows Login Problems: 8 Effective Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/office-upgrade-effortless-installation-in-windows-1011/"><u>Office Upgrade: Effortless Installation in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-the-enigma-of-endless-c-drive-usage/"><u>Solving The Enigma of Endless C: Drive Usage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-to-optimize-your-use-of-slack-reminders/"><u>Step-by-Step Instructions to Optimize Your Use of Slack Reminders</u></a></li>
 </ul></div>
 

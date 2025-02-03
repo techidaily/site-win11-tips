@@ -1,7 +1,7 @@
 ---
 title: Mitigating Critical Application Hiccups on PC
-date: 2025-01-20T16:31:34.402Z
-updated: 2025-01-24T17:27:33.001Z
+date: 2025-01-30T03:36:25.114Z
+updated: 2025-02-01T09:12:20.763Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 ![Roblox Microsoft Store App Listing on Windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/roblox-microsoft-store-app-listing-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Roblox users have reported that the error under discussion only affects those who attempt to join Roblox experiences from the web, not Roblox's Microsoft Store app. Because of this, if you have encountered a crash when joining an experience through the Roblox website, download Roblox's app from the [Microsoft Store](https://apps.microsoft.com/store/detail/roblox/9NBLGGGZM6WM) and join the experience through it.
 
  Until the issue isn't fixed, continue using the Microsoft Store app to play Roblox experiences.
@@ -50,13 +54,13 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 ![An open laptop sitting on a windowsill with a residential view in the background.](https://thmb.techidaily.com/4a4364521475bc98d43a49b1c82e26ef445f3c795924721c63fb3c06810bfd5f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Do you also want to run Roblox Player on a virtual machine, but the client crashes? If so, that could be the cause of the error. Close the virtual machine and run Roblox by installing the client on your OS; hopefully, nothing will go wrong this way.
 
  If you don't use a virtual machine and still get the **"the application encountered an unrecoverable error"** error, virtualization could be enabled in the BIOS settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Virtualization From the BIOS
 
@@ -71,13 +75,13 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 ![Disable Intel Virtualization Technology Option in the BIOS Settings of a Dell Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-intel-virtualization-in-bios-settings-of-a-dell-laptop.jpeg)
 5. Click on **Intel VT for Direct I/O** and uncheck the box beside **Enable** **Intel VT for Direct I/O**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable Intel VT for Direct IO in BIOS Settings of a Dell Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-intel-vt-for-direct-io-in-bios-settings-of-a-dell-device.jpeg)
 
  If you're using a device from another manufacturer, visit its official website for steps on disabling virtualization.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Check for Browser Interference
 
@@ -101,11 +105,7 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 ![Delete Roblox Temporary Folder in the Windows Temp Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-roblox-temporary-folder-in-the-windows-temp-folder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Report the Problem to the Roblox Support Team
@@ -117,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
  (If subfolders aren't already there, create them)  
 ![Create and Save a JSON File in the Roblox App Data Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/creating-and-saving-a-json-file-in-the-roblox-app-data-folder.jpg)
 2. Open the newly created file, add the following text, and save it:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `{"DFIntWriteFullDmpPercent": 100}`
 3. Run Roblox and let it crash.
@@ -134,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
  If the Roblox installation gets corrupt, it can also crash and present the **"the application encountered an unrecoverable error"** error. To ensure that's not the case, uninstall the previous installation and reinstall Roblox from scratch. If you do not know how to do this, refer to our guide on [how to uninstall any software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
  Once the Roblox client has been uninstalled, navigate to the **C:\\Users\\<your username>\\AppData\\Local** and delete the Roblox folders. Then, go to Roblox's official website and reinstall the Roblox client. You should avoid downloading the Roblox client from third-party sources since unsigned third-party applications are prone to causing issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Don't Let Roblox Crash on Windows
 
@@ -153,18 +153,22 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-advanced-conversion-mp4-to-facebook-2023/"><u>[New] 2024 Approved Advanced Conversion MP4 to FaceBook 2023</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>[New] 2024 Approved Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-professional-photogridding-services-to-polish-your-art/"><u>[New] 2024 Approved Professional Photogridding Services to Polish Your Art</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-breeze-through-snapchat-two-techniques-for-dynamic-lenses/"><u>[New] In 2024, Breeze Through Snapchat Two Techniques for Dynamic Lenses</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unleash-your-inner-gamer-best-free-voice-change-tool-for-valorant/"><u>[New] Unleash Your Inner Gamer Best Free Voice Change Tool for Valorant</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-dynamic-group-portraits-via-iphone-burst-mode/"><u>[Updated] Dynamic Group Portraits via iPhone Burst Mode</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-navigating-mac-software-for-optimal-dvd-burning/"><u>[Updated] In 2024, Navigating Mac Software for Optimal DVD Burning</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-and-resolving-audacitys-windows-audio-glitch/"><u>Diagnosing and Resolving Audacity's Windows Audio Glitch</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-14-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 14 Pro Max Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-media-quality-with-minimal-lag-in-vlc/"><u>Elevating Media Quality with Minimal Lag in VLC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-sound-in-windows-10-a-comprehensive-guide/"><u>Restoring Sound in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/solving-hardware-compatibility-problems-expert-guide-by-yl-computing/"><u>Solving Hardware Compatibility Problems: Expert Guide by YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-solve-invalid-profile-on-windows-pc/"><u>Steps to Solve 'Invalid Profile' On Windows PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-cash-flow-of-creative-content-youtubers-earnings-per-sponsored-video/"><u>[New] The Cash Flow of Creative Content Youtuber's Earnings per Sponsored Video?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-5-android-screen-recorders-essential-app-selection/"><u>2024 Approved Top 5 Android Screen Recorders Essential App Selection</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/7-catalysts-how-multilingualism-transforms-you/"><u>7 Catalysts: How Multilingualism Transforms You</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/determining-your-pcs-readiness-compatibility-requirements-for-running-windows-defender-efficiently-guide-by-yl-software-solutions/"><u>Determining Your PC's Readiness: Compatibility Requirements for Running Windows Defender Efficiently | Guide by YL Software Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixed-skies-rescuing-ragnaroks-sse/"><u>Fixed Skies: Rescuing Ragnarok's SSE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guides-to-correct-windows-update-error-x8024a205/"><u>Guides to Correct Windows Update Error X8024A205</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-write-an-attractive-vlog-script/"><u>How to Write an Attractive Vlog Script</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-exploring-the-functionalities-in-free2x-cam-tech/"><u>In 2024, Exploring the Functionalities in Free2X Cam Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tips-for-quicker-periscope-livestreams/"><u>In 2024, Tips for Quicker Periscope Livestreams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/interacting-with-server-drives-from-mobile/"><u>Interacting with Server Drives From Mobile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-disk-space-in-windows-with-these-cost-effective-methods/"><u>Maximize Disk Space in Windows with These Cost-Effective Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-poco-c65-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Poco C65 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preserving-your-cortana-settings-and-logs-in-windows/"><u>Preserving Your Cortana Settings & Logs in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-restore-windows-11-troubleshooter-functionality/"><u>Steps to Restore Windows 11 Troubleshooter Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-digital-space-with-ease-using-ms-store-themes/"><u>Tailoring Your Digital Space with Ease Using MS Store Themes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-the-troubled-windows-11-recycle-bin-errors/"><u>Unblocking the Troubled Windows 11 Recycle Bin Errors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/visioncast-feedback-interface-for-2024/"><u>VisionCast Feedback Interface for 2024</u></a></li>
 </ul></div>
 

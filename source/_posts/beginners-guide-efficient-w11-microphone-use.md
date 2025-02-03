@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Guide: Efficient W11 Microphone Use"
-date: 2024-08-16T01:07:46.342Z
-updated: 2024-08-17T01:07:46.342Z
+date: 2025-01-28T14:25:50.175Z
+updated: 2025-02-01T10:26:10.121Z
 tags:
   - windows10
   - windows11
@@ -31,16 +31,17 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
  Press the red dot button to initiate the recording. While recording, you have the option to pause the process or save it by clicking the stop button. Alternatively, you can also [use keyboard shortcuts in the Sound Recorder app](https://www.makeuseof.com/windows-11-voice-recorder-keyboard-shortcuts/) to perform these actions.
 
 ![Sound Recorder App Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sound-recorder-app-settings-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can open the Settings menu in the Sound Recorder app to change the recording format or set your preferred audio quality.
 
 ![Sound Recorder App Settings on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sound-recorder-app-settings-on-windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Record Your Audio Using the Audacity App
@@ -50,15 +51,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Download and install the [Audacity app](https://www.audacityteam.org/download/) on your PC. Open it and click the record button to start recording audio. Once you are done recording, click the **File** menu, go to **Export**, and select your preferred format for saving the file.
 
 ![Use the Audacity App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-the-audacity-app-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In addition to recording audio, Audacity also allows you to combine multiple tracks, [remove background noise from recordings](https://www.makeuseof.com/tag/remove-ambient-noise-audio-files-audacity/), delete vocals from music, and do a lot more. To learn more, check our dedicated guide on [how to use Audacity to record audio on Windows](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Record the Sound Coming From Your Windows 11 PC
 
  Do you want to record the sound coming out of your Windows 11 PC? Don't worry, you don't need to hold a microphone up to your computer's speakers, as Windows offers a convenient feature known as Stereo Mix for this purpose.
@@ -72,22 +71,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
 5. Right-click on **Stereo Mix** again and choose **Set as Default Device**.
 6. Hit **Apply** followed by **OK** to save changes.  
 ![Set Stereo Mix as Default Device on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/set-stereo-mix-as-default-device-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After completing the above steps, open the Sound Recorder or Audacity app and set Stereo Mix as the default audio input device. Then, play a song, podcast, or lecture on your PC and record it.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Easily Record Your Audio on Windows
 
  As we just saw, recording audio on your Windows 11 PC is both quick and easy. The built-in Sound Recorder app is perfect for creating simple recordings like voice memos. But if you need more features, like recording multiple tracks or editing your recordings, it's better to use a third-party app like Audacity.
 
  Here, we show you steps for recording audio on your Windows 11 PC using both native and third-party apps.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -95,4 +94,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-transform-your-social-media-image-best-tools-for-professional-fb-cover-photos/"><u>[Updated] In 2024, Transform Your Social Media Image Best Tools for Professional FB Cover Photos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/dominate-igtv-with-follower-growth-essential-techniques-reviewed/"><u>Dominate IGTV With Follower Growth Essential Techniques Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/faster-fix-it-top-tricks-for-smoother-wwe-play-on-pcs/"><u>Faster Fix-It: Top Tricks for Smoother WWE Play on PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fresh-start-with-qualcomm-wireless-card-driver-installation/"><u>Fresh Start with Qualcomm Wireless Card Driver Installation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-address-the-absence-of-msodll-and-fix-common-errors/"><u>How to Address the Absence of MSO.DLL and Fix Common Errors</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-capture-power-using-snip-in-windows-11/"><u>Instant Capture Power: Using Snip in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/interlinkers-companion-navigating-instra-to-tiktok-for-2024/"><u>Interlinker's Companion Navigating Instra-to-TikTok for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-windows-memory-overcoming-common-roadblocks/"><u>Maximize Windows Memory: Overcoming Common Roadblocks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mini-dragon-maximum-return-the-ultimate-spyro-reignited-trilogy-assessment/"><u>Mini Dragon, Maximum Return - The Ultimate Spyro Reignited Trilogy Assessment</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/speedy-upgrade-leading-android-video-tuners/"><u>Speedy Upgrade Leading Android Video Tuners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-chrome-freeze-a-windows-guide/"><u>Tackling Chrome Freeze: A Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-accessing-windows-preferences/"><u>The Ultimate List: Accessing Windows Preferences</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-logitech-g430-microphone-malfunctions/"><u>Troubleshooting Tips: Resolving Logitech G430 Microphone Malfunctions</u></a></li>
+</ul></div>
 

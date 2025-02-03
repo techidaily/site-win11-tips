@@ -1,7 +1,7 @@
 ---
 title: Beneath the Facade, Programs Pause Your PC's Prowess
-date: 2024-08-08T10:57:13.149Z
-updated: 2024-08-09T10:57:13.149Z
+date: 2025-01-26T09:10:37.753Z
+updated: 2025-02-01T08:43:49.498Z
 tags:
   - windows10
   - windows11
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
  Windows 11 comes with a few apps installed by default, and for the most part, they don't take up much of your system's precious resources. However, a recent report claims that both the Chat and Widget apps actually take a sizable toll on your PC... even if you never use them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Effect of the Chat and Widget Apps on Windows 11
 
  The report comes to us from [ghacks](https://www.ghacks.net/2022/02/03/disabling-the-chat-and-widgets-icons-in-windows-11-actually-saves-system-resources/), which compiled several sources across the internet about Chat and Widget's effect on Windows 11\. As it turns out, disabling or removing these two apps does make a noticeable improvement in system performance, even if you never use them.
@@ -36,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
  The article claims that the processes take up a few hundred megabytes of RAM, but the real proof comes from [Out of Office Hours](https://oofhours.com/2022/01/30/the-overhead-of-widgets-and-teams-in-windows-11/), which posted a screenshot showing several WebView2 processes each taking their slice of the RAM pie.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Disable the Chat and Widget App and Save Your Ram
 
  As the report claims, just hiding or removing these icons from the taskbar is enough to prevent them from launching the process by themselves. Right-click on the taskbar and select Taskbar settings. From there, toggle off the buttons for Widgets and Chat.
@@ -45,15 +47,17 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
  And that’s it—the Widget and Chat icons will be removed from the desktop and won’t occupy any RAM unnecessarily.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Find and Disable Other Apps
 
  It's not uncommon to get your PC memory drained by apps or background processes that aren't actually doing anything. To prevent this from happening, you have a [drove of tools for finding and disabling these apps](https://www.makeuseof.com/windows-pc-too-many-background-processes/). Everything from Task Manager, System Configuration, and the Settings App will help you in this. So make sure you check out and disable these apps as well.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## An Unideal Welcome Party for Windows 11 Users
 
  First impressions with a new operating system are vital for building a strong userbase. People who are displeased with what they see may roll back to the old system, and those who have yet to make the jump may get cold feet the moment the negative feedback rolls in.
@@ -63,13 +67,12 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
  At the same time, it's not a true Windows launch unless things go a bit awry at the start. Hopefully, these little annoyances will end up being teething issues for Windows 11, and not the norm moving forward.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Out of Sight, Out of Mind (and Memory)
 
  Some of Windows 11's default apps take a sizable chunk out of your RAM, even if you never boot them up. Fortunately, just hiding them from your taskbar is enough from them latching onto your RAM for no good reason.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -77,4 +80,19 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-elevate-video-popularity-with-strategic-hashtags/"><u>[New] 2024 Approved Elevate Video Popularity with Strategic #Hashtags</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-best-7-streaming-tools-for-mac-users-for-2024/"><u>[New] Best 7 Streaming Tools for Mac Users for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-narzo-n53-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/mastering-the-shadows-crafting-discreet-snaps/"><u>Mastering the Shadows Crafting Discreet Snaps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalized-education-aesthenasics-in-win-11/"><u>Personalized Education Aesthenasics in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-solutions-stop-wwe-2k23-crashing-on-new-windows-os/"><u>Quick Solutions: Stop WWE 2K23 Crashing on New Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-enhancing-old-games-with-retroarch-achievements/"><u>Step-by-Step Guide to Enhancing Old Games with Retroarch Achievements</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unseen-algorithms-powering-youtubes-viewer-statistics-for-2024/"><u>Unseen Algorithms Powering YouTube's Viewer Statistics for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-overcoming-dxgidll-missing-file-issue/"><u>Win11: Overcoming Dxgi.dll Missing File Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-password-reset-timing-alteration/"><u>Windows 10/11 Password Reset Timing Alteration</u></a></li>
+</ul></div>
 

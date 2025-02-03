@@ -1,7 +1,7 @@
 ---
 title: Stop Chrome Sounds & Banners in Windows
-date: 2025-01-12T16:08:48.492Z
-updated: 2025-01-18T18:35:42.922Z
+date: 2025-01-25T03:39:22.959Z
+updated: 2025-01-31T23:47:34.724Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn Off Google Chrome Notifications From Windows Settings
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
 ![Customize Google Chrome Notifications on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Customize-Google-Chrome-Notifications-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Turn Off Notifications in Google Chrome
 
  You can also enable or disable Google Chrome notifications from its settings menu. Here are the steps for the same.
@@ -60,7 +56,11 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 ![Disable Google Chrome Notifications From Browser Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-From-Browser-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn Off Notifications for Specific Sites in Google Chrome
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 ![Disable Google Chrome Notifications for a Specific Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-for-a-Specific-Website.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, the website will appear under the**Not allowed to send notifications** section.
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 ![Block Google Chrome Notifications for a Specific Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Block-Google-Chrome-Notifications-for-a-Specific-Website.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disabling Google Chrome Notifications on Windows
@@ -113,20 +113,21 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-making-your-favorite-tiktok-beats-your-personal-mobile-alarm-signal-for-2024/"><u>[Updated] Making Your Favorite TikTok Beats Your Personal Mobile Alarm Signal for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-motion-tracking-using-the-best-video-editors/"><u>2024 Approved Motion Tracking Using The Best Video Editors</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cambia-gratis-i-file-aiff-in-formato-m4r-online-con-convertitore-audiovideo-movavi/"><u>Cambia Gratis I File AIFF in Formato M4R Online Con Convertitore Audiovideo - Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/capitalizing-on-prime-savings-turning-your-love-for-amazons-hottest-offers-into-an-online-cash-flow-venture/"><u>Capitalizing on Prime Savings: Turning Your Love for Amazon's Hottest Offers Into an Online Cash Flow Venture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-transforming-tga-images-into-bmp-format/"><u>Free Online Converter: Transforming TGA Images Into BMP Format</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/from-adventure-to-audience-transforming-gopro-footage-with-social-media/"><u>From Adventure to Audience Transforming Gopro Footage with Social Media</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-wma-in-aac-omzetten-via-onlinemiddel-professioneel-resultaat-movavi/"><u>Gratis WMA in AAC Omzetten Via Onlinemiddel - Professioneel Resultaat Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuit-swf-filament-naar-format-m4v-omzetten-leergids-van-movavi-online/"><u>Gratuit SWF-Filament Naar Format M4V Omzetten: Leergids Van Movavi Online</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-identify-and-fix-audio-distortions-in-your-pc-insights-from-yl-computing/"><u>How to Identify and Fix Audio Distortions in Your PC - Insights From YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-users-resolving-stability-problems-in-the-updated-yakuza-e3/"><u>PC Users! Resolving Stability Problems in the Updated Yakuza E3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-video-conversion-free-webm-and-mkv-transformers-at-movavis-digital-library/"><u>Streamline Video Conversion: Free Webm and MKV Transformers at Movavi's Digital Library</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-8-best-gmail-alternatives-of-2024/"><u>The 8 Best Gmail Alternatives of 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformez-votre-contenu-video-mkv-en-audio-mp3-sur-internet-gratuitement-techniques-de-convertisseur-video/"><u>Transformez Votre Contenu Vidéo MKV en Audio MP3 Sur Internet Gratuitement - Techniques De Convertisseur Vidéo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/upgrading-to-the-newest-a-side-by-side-look-at-ipad-air-4-and-ipad-air-er-technology-insights/"><u>Upgrading to the Newest: A Side-by-Side Look at iPad Air 4 and iPad Air Er | Technology Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-screen-experience-with-hp-envy-27-display/"><u>[Updated] The Ultimate Screen Experience with HP Envy 27 Display</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-videos-impact-with-customizable-youtube-thumbnails/"><u>2024 Approved Elevate Your Video's Impact with Customizable YouTube Thumbnails</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/discovering-eastern-architectural-wonders-in-minecraft/"><u>Discovering Eastern Architectural Wonders in Minecraft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-public-ip-a-terminal-windows-methodology/"><u>Discovering Public IP: A Terminal Windows Methodology</u></a></li>
+<li><a href="https://common-error.techidaily.com/dragon-ball-fighterz-wont-connect-solving-the-network-setup-errors-efficiently/"><u>Dragon Ball FighterZ Won't Connect: Solving The Network Setup Errors Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-deactivate-windows-defender-on-win11/"><u>How to Deactivate Windows Defender on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-failed-directx-downloads/"><u>How to Resolve Failed DirectX Downloads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-google-pixel-fold-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Google Pixel Fold Lock Screen Password?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-video-editing-with-top-10-fcp-tools/"><u>In 2024, Master the Art of Video Editing with Top 10 FCP Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/learn-photoshops-core-techniques-for-shade-adjustment/"><u>Learn Photoshop's Core Techniques for Shade Adjustment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skip-the-slip-ups-top-tips-to-use-file-explorer-wisely/"><u>Skip the Slip-Ups: Top Tips to Use File Explorer Wisely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/subdued-system-reducing-windows-11-activity/"><u>Subdued System: Reducing Windows 11 Activity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-recovery-how-to-access-windows-11s-restore-settings/"><u>System Recovery: How to Access Windows 11'S Restore Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unpacking-alias-tags-in-coding-practices/"><u>Unpacking Alias Tags in Coding Practices</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-what-is-an-ai-text-generator/"><u>Updated 2024 Approved What Is an AI Text Generator?</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers on Windows 11</u></a></li>
 </ul></div>
 

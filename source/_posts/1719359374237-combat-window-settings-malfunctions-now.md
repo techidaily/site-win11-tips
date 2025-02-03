@@ -1,7 +1,7 @@
 ---
 title: Combat Window Settings Malfunctions Now!
-date: 2024-08-16T01:09:26.519Z
-updated: 2024-08-17T01:09:26.519Z
+date: 2025-01-27T09:58:10.987Z
+updated: 2025-01-31T16:41:43.240Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
 If the issue persists, move to the next method below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update Windows
 
  The next thing that you should do is update the operating system to the latest build available. A compatibility issue caused by an outdated system may be causing the problem, which can be fixed by installing the pending updates.
@@ -51,11 +55,12 @@ Here is all that you need to do:
 ![Click on the Download & install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-windows-update-download-and-install.jpg)
 4. After the updates are installed, restart your system and check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In some rare cases, the issue can also start occurring after installing an update. This typically happens when the update itself was corrupt. If this scenario applies to you, you can [uninstall the installed Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) and then check if that makes any difference.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update Your Drivers
 
  As we mentioned earlier, the issue can also be caused if the graphics driver installed on your computer has become outdated or corrupt. The easiest solution, in this case, is updating the driver.
@@ -69,17 +74,20 @@ Follow these steps to proceed:
 3. Now, expand the**Display adapters** section and right-click on your graphics driver.
 4. Choose**Update driver** \>**Search automatically for drivers** . The Device Manager utility will now begin scanning the system for an updated driver version.  
 ![Search automatically for drivers option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/display-adapter-search-automatically-for-drivers.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Once found, follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Finally, restart your computer to implement the changes.
 
  Alternatively, you can also choose an updated driver manually by choosing the**Browse my computer for drivers** option in the 4th step. If an outdated driver is a culprit, this should resolve the problem in no time.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Reset or Re-Register the Settings App
 
  Another easy way to get rid of the corruption issues within the apps is by resetting them to their default state or by re-registering them.
@@ -91,11 +99,6 @@ Here is all that you need to do:
 1. Click on the Windows icon on your taskbar and right-click on the**Settings** icon.
 2. Choose**App settings** from the context menu.  
 ![Choose App Settings from the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/taskbar-windows-icon-app-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 3. In the following window, head over to the**Reset** section. You will have two options here; Repair and Reset.
 4. First, click on**Repair** and once the process is completed, check if the problem is fixed.
 5. If not, click on**Reset** and follow the on-screen instructions to proceed.  
@@ -108,16 +111,14 @@ To re-register the app, follow these steps:
 3. Now, type the following command in Powershell and click**Enter** .  
 Get-AppxPackage *windows.immersivecontrolpanel* | Reset-AppxPackage  
 ![Execute the entered command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-appxpackage-windows-immersivecontrolpanel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 4. Finally, close the Powershell window and reboot.
 
 Hopefully, this should fix the problem once and for all.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Windows Settings App Crash Issue, Now Resolved
 
  System apps like the Settings app can crash unexpectedly, which is annoying. It's generally a temporary corruption issue that causes them, so fortunately fixing them is quite simple. The solution mentioned above should help you fix the Settings app crashing issue for good. If the error appears again, you can consider reporting the issue to the Microsoft support team. They will help you identify the real cause of the problem and suggest a relevant fix.
@@ -128,8 +129,6 @@ Hopefully, this should fix the problem once and for all.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,8 +136,26 @@ Hopefully, this should fix the problem once and for all.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-demystifying-the-tech-an-examination-of-apeaksofts-2023-update-for-2024/"><u>[New] Demystifying the Tech An Examination of Apeaksoft's 2023 Update for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-stop-buffer-tweet-vids-in-chromium-browser-for-2024/"><u>[New] Stop Buffer Tweet Vids in Chromium Browser for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-in-depth-technique-for-formulating-youtube-playlists/"><u>[New] The In-Depth Technique for Formulating YouTube Playlists</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-efficient-setup-ps4-streaming-and-recording-via-obs/"><u>[Updated] 2024 Approved Efficient Setup PS4 Streaming and Recording via OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-discover-unmissable-adventures-in-sandbox-gaming-for-2024/"><u>[Updated] Discover Unmissable Adventures in Sandbox Gaming for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-group-policies-on-single-user-profiles-in-windows-11-and-11/"><u>Customizing Group Policies on Single User Profiles in Windows 11 & 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/elevate-video-calls-browse-through-our-top-5-hd-webcams-and-mics/"><u>Elevate Video Calls - Browse Through Our Top 5 HD Webcams & Mics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-disk-operations-in-windows/"><u>Fixing Steam Disk Operations in Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/haunting-shots-next-gen-action-hddc-for-2024/"><u>Haunting Shots Next-Gen Action HDDC for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-cutting-edge-tiktok-content-mastering-video-edits-on-mac/"><u>In 2024, Cutting Edge TikTok Content Mastering Video Edits on Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-local-links-to-global-drives-dropbox-and-googledrive-via-c/"><u>Leveraging Local Links to Global Drives: Dropbox & GoogleDrive via C</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-microsoft-store-steps-to-fixes-in-windows-11/"><u>Reclaim Your Microsoft Store: Steps to Fixes in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/super-user-tools-in-windows-interface-features/"><u>Super User Tools in Windows' Interface Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sync-windows-chronosphere-time-unification-tactics/"><u>Sync Windows Chronosphere: Time Unification Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-fatal-error-0x800f0831-beast-in-windows-os/"><u>Taming the Fatal Error 0X800f0831 Beast in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-seamless-transition-of-hosts-from-windows-to-virtualized-linux-world/"><u>The Seamless Transition of Hosts: From Windows to Virtualized Linux World</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-list-of-windows-videography-tools-to-oust-background-noise-for-2024/"><u>The Ultimate List of Windows Videography Tools to Oust Background Noise for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-gets-a-lifeline-with-annual-patches-beyond-initial-release/"><u>Windows 11 Gets a Lifeline With Annual Patches Beyond Initial Release</u></a></li>
+</ul></div>
 

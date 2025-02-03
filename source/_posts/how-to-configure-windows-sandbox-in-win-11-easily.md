@@ -1,7 +1,7 @@
 ---
 title: How To Configure Windows Sandbox in Win 11 Easily
-date: 2025-01-18T23:32:58.354Z
-updated: 2025-01-24T23:38:01.478Z
+date: 2025-01-28T14:02:39.526Z
+updated: 2025-02-01T03:29:33.176Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set Up Windows Sandbox in Windows 11
 
  Windows Sandbox is an optional feature, which means you'll have to install it from the Optional features section. You can[add and remove optional features from the Windows Features dialog](http://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) . Alternatively, you can use PowerShell or Command Prompt for a swift installation of Windows Sandbox.
 
  While the setup process is easier, your computer must meet some system requirements. Windows 11 Pro, Education, or Enterprise running computers with virtualization support are Windows Sandbox compatible. In most cases,[if your system can run Windows Hyper-V](https://www.makeuseof.com/windows-11-enable-hyper-v/) , it should also run Windows Sandbox.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Enable Windows Sandbox Using the Windows Features Dialog
 
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f0914634
 7. After the restart, press**Win + S** to open**Windows search.**
 8. Type**sandbox** and click on**Windows Sandbox** from the search result to launch the virtualization tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Install Windows Sandbox Using PowerShell
 
 ![enable windows sandbox powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-windows-sandbox-powershell.jpg)
@@ -70,16 +74,12 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 5. Once done, press**Y** and hit**Enter** to restart your PC.
 6. After the restart, you can launch Windows Sandbox from Windows Search.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Install Windows SandBox Using Command Prompt
 
 ![enable windows sandbox command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-windows-sandbox-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Deployment Image Servicing and Management (DISM) is a command-line utility that facilitates the installation of optional features using the Command Prompt. To install Windows Sandbox, you will need to use the Enable-Feature command in Command Prompt. Here's how to do it.
@@ -90,16 +90,12 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 `dism /online /Enable-Feature /FeatureName: "Containers-DisposableClientVM" -All`
 4. Wait for the process to complete. Once done, press**Y** and**Enter** to restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Windows Sandbox
 
 ![Windows Sandbox Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Windows-Sandbox-Open.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that you have Windows Sandbox installed, you can start using it to test untrusted apps in isolation. To launch the app, press**Win + S** to open**Windows Search** and type**Windows Sandbox.** Click on the app from the search result to open it.
@@ -107,6 +103,10 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
  Upon its launch, Windows Sandbox looks like a lightweight version of your Windows machine. You can copy files from your host system or download them from the Internet using the built-in web browser. Any actions you perform in the sandbox will not affect your host system.
 
  Once the testing is complete, close the Sandbox and click**OK** to confirm the action. Unlike a VM, Sandbox will delete all the data (including apps and files) upon exit. So, you'll get a clean, isolated environment running the same Windows OS build as your host machine each time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set Up and Use Windows Sandbox in Windows 11
 
@@ -129,24 +129,22 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-top-11-add-ons-for-the-dji-phantom-4-masterclass-for-2024/"><u>[New] Top 11 Add-Ons for the DJI Phantom 4 Masterclass for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-efficient-setup-adding-snapchat-to-your-mac/"><u>[Updated] 2024 Approved Efficient Setup Adding Snapchat to Your Mac</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-changing-gender-representation-in-social-media-images-for-2024/"><u>[Updated] Changing Gender Representation in Social Media Images for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-youtubes-comment-analysis/"><u>2024 Approved Mastering YouTube's Comment Analysis</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-your-websites-conversion-with-advanced-cookiebot-features/"><u>Boost Your Website's Conversion with Advanced Cookiebot Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-windows-photovideo-save-issues/"><u>Clearing Up Windows Photo/Video Save Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decrypting-win11-error-0xa00f4289-on-webcam/"><u>Decrypting Win11 Error 0xA00F4289 on Webcam</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/elevate-editing-expertise-adopt-movie-maker-in-windows-11/"><u>Elevate Editing Expertise Adopt Movie Maker in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-a-non-launching-city-skylines-2-expert-tips-and-tricks/"><u>Fixing a Non-Launching City Skylines 2 - Expert Tips and Tricks</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-error-resolution-end-too-many-requests-on-windows-platforms/"><u>Mastering Error Resolution: End Too Many Requests on Windows Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resurrect-your-usb-wi-fi-effective-fixes-for-microsoft-users/"><u>Resurrect Your USB Wi-Fi – Effective Fixes for Microsoft Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862757242-score-big-win-on-tech-top-choice-dell-s3222dgm-gaming-screen-hits-record-low-only-229/"><u>Score Big Win on Tech: Top Choice Dell S3222DGM Gaming Screen Hits Record Low - Only $229</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stabilize-win11s-file-explorer-with-these-fixes/"><u>Stabilize Win11's File Explorer With These Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-overcoming-unauthorized-app-restriction/"><u>Strategies for Overcoming Unauthorized App Restriction</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-media-top-5-cost-free-windows-cutters/"><u>Streamline Your Media: Top 5 Cost-Free Windows Cutters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/subtletys-secret-invisible-settings-and-buttons/"><u>Subtlety's Secret: Invisible Settings and Buttons</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/webcam-recorder-reviews-unlocking-your-video-potential-for-2024/"><u>Webcam Recorder Reviews - Unlocking Your Video Potential for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11-puzzle-solve-the-vanishing-image-problem/"><u>Win 11 Puzzle: Solve the Vanishing Image Problem</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-assessing-acid-pro-top-alternative-software-for-2024/"><u>[New] Assessing ACID Pro Top Alternative Software for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-meme-magic-crafting-topical-laughs-for-every-scenario/"><u>[New] Meme Magic Crafting Topical Laughs for Every Scenario</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ranked-top-5-ps3-virtual-players-for-pc-for-2024/"><u>[New] Ranked Top 5 PS3 Virtual Players for PC for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-gotomeeting-precision-capture-across-all-platforms/"><u>[Updated] In 2024, GoToMeeting Precision Capture Across All Platforms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-social-media-video-trends-for-smbs/"><u>[Updated] In 2024, Social Media Video Trends for SMBs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-text-overlays-on-photos-in-windows-10s-photos-app-for-2024/"><u>[Updated] Mastering Text Overlays on Photos in Windows 10'S Photos App for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/augmenting-reality-first-speech-powered-app/"><u>Augmenting Reality: First Speech-Powered App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensure-data-security-with-routine-windows-saves/"><u>Ensure Data Security with Routine Windows Saves</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-windows-10-not-seeing-logitech-receiver/"><u>Fix: Windows 10 Not Seeing Logitech Receiver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-strategies-to-resolve-windows-11s-0x800f0922-error/"><u>Immediate Strategies to Resolve Windows 11'S 0X800F0922 Error</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-slow-motion-capture-with-phantom-lens/"><u>In 2024, Perfecting Slow-Motion Capture with Phantom Lens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-smartphones-into-windows-11-webcam-streams/"><u>Integrating Smartphones Into Windows 11 Webcam Streams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-management-steam-data-writes-in-windows/"><u>Mastering File Management: Steam Data Writes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-net-all-good-storing-and-viewing-onedrive-locally/"><u>No Net, All Good: Storing and Viewing OneDrive Locally</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-acoustic-space-via-windows-settings/"><u>Optimizing Acoustic Space via Windows Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-to-keep-taskview-from-surfacing-on-bar/"><u>Tricks to Keep TaskView From Surfacing on Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblock-your-save-path-quick-ways-to-resolve-ppt-errors-win11/"><u>Unblock Your Save Path: Quick Ways to Resolve PPT Errors WIN11</u></a></li>
 </ul></div>
 

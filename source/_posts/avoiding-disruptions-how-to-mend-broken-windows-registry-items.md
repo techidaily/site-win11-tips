@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Disruptions: How to Mend Broken Windows Registry Items"
-date: 2024-08-16T01:06:47.212Z
-updated: 2024-08-17T01:06:47.212Z
+date: 2025-01-29T19:29:02.067Z
+updated: 2025-02-01T09:34:05.453Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 
  However, the Windows Registry isn’t impervious to errors. These errors can arise due to malware infestations, unexpected power failures, and corrupt or outdated entries.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Fix Broken Registry Items in Windows 11
 
  Try out the following methods to fix the broken registry items on your Windows 11 system:
@@ -48,9 +45,9 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 6. Disk Cleanup will reconfirm your decision. Click on the**Delete files** button.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Try the Automatic Repair Tool
 
  Microsoft offers an automatic repair tool that can fix system boot issues and even core system registry files. Here’s how to use the tool:
@@ -62,6 +59,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Using Startup Repair in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/using-startup-repair-in-windows-11.jpg)
 5. The utility will begin diagnosing your system and attempt repairs. After that,**restart** your system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Run an SFC Scan
 
  SFC is an inbuilt windows utility that can scan your system for corrupt or missing system files. It will then replace all the corrupt or missing files with a fresh copy. Here’s how you can scan your system with SFC:
@@ -70,11 +71,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. A command prompt window will launch with administrator privileges.
 3. Now, type**sfc /scannow** and press**enter** to execute the command.  
 ![Run the SFC Utility in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-the-sfc-utility-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Patiently wait for the utility to scan and replace files on your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. **Close** the command prompt window and restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Try a DISM Scan
 
@@ -83,16 +90,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Press**Win + S** to launch Windows search. Search for**CMD** , and select the**Run as administrator** option from the right pane.
 2. Once CMD launches with elevated permissions, type**DISM /Online /Cleanup-Image /RestoreHealth** command and press the**enter** key.  
 ![Run a DISM Scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-a-dism-scan-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Wait for the tools to scan and repair the problems with the system image.
-4. Finally,**close** the command prompt and restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Finally,**close** the command prompt and restart your PC.
+
 ### 5\. Import an Old Registry Backup
 
  If you have a habit of [creating registry backups on Windows](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , it could solve the broken registry items issue with your system. When you encounter issues, you can import the old registry backup when the system was working fine.
@@ -105,9 +110,6 @@ Here’s how you can import an old backup in Windows Registry:
 3. Navigate to the registry backup file location on your system.**Select** the registry file and click on the**Open** button to begin importing the file.
 4. Wait for a few minutes for the import to complete.**Restart** your system.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Check for Malware on Your System
 
  Malware can create and modify the registry items, and can even break or corrupt existing registry entries. You must perform a thorough scan of your Windows computer using Windows defender.
@@ -120,9 +122,6 @@ Here’s how you can import an old backup in Windows Registry:
 4. Select the**Full Scan** radio button and then click on the**Scan Now** button.
 5. Windows Security will execute a deep scan of all the files on your disk. If it finds any traces of malware, manually remove them from your system.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 7\. Do a System Restore
 
  The System Restore tool saves all Windows system files and drivers including the registry contents. If none of the above methods work, you can revert to a last known good system configuration using a restore point.
@@ -139,13 +138,9 @@ Repeat the following steps to perform a system restore:
 7. Your system will restart automatically to apply the restore point. It will then automatically boot to the desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 8\. Reset Your PC
 
  If System Restore fails to do the trick, you are left with the last arrow in your troubleshooting quiver:[performing a factory reset on Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . It will wipe all the drivers and programs and revert the system to a clean state. However, you can save your files and documents if you pick the**Keep my files** option while resetting your Windows 11 computer.
@@ -154,14 +149,11 @@ Repeat the following steps to perform a system restore:
 
  If your Windows Registry has seen better days, start by running disk cleanup and SFC and DISM scans. Then scan your system for malware infestation and import an old registry backup (if you have one). Lastly, leverage the system restore utility or reset your Windows PC.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,6 +162,22 @@ Repeat the following steps to perform a system restore:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-recommendations-10-high-end-podcast-mics/"><u>[Updated] Expert Recommendations 10 High-End Podcast Mics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unveiling-the-best-tools-to-snip-on-your-mac/"><u>[Updated] Unveiling the Best Tools to Snip on Your Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y28-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y28 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/engage-fully-with-podcasts-15-essential-tasks-for-2024/"><u>Engage Fully with Podcasts 15 Essential Tasks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-automatically-delete-old-files-in-windows-11-and-11/"><u>How to Automatically Delete Old Files in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-the-microsoft-error-lookup-tool-on-windows-11/"><u>How to Use the Microsoft Error Lookup Tool on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-lava-yuva-2-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Lava Yuva 2 Fingerprint Lock</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ct-your-clips-step-by-step-youtube-editing-tips-for-2024/"><u>Perfect Your Clips Step-by-Step YouTube Editing Tips for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shining-spotlight-how-to-enhance-cursor-brightness-in-win-11/"><u>Shining Spotlight: How to Enhance Cursor Brightness in Win 11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-10-animated-text-tools-you-need-to-try-for-2024/"><u>Top 10 Animated Text Tools You Need to Try for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformative-pins-for-your-w11-taskbar-setup/"><u>Transformative Pins for Your W11 Taskbar Setup</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-s17t-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17t Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windowed-decisions-is-win-11s-interface-beneficial/"><u>Windowed Decisions: Is Win 11'S Interface Beneficial?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-the-quintessential-snooping-system/"><u>Windows 11: The Quintessential Snooping System</u></a></li>
+</ul></div>
 

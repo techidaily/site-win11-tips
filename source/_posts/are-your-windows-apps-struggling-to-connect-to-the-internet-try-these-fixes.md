@@ -1,7 +1,7 @@
 ---
 title: Are Your Windows Apps Struggling to Connect to the Internet? Try These Fixes
-date: 2024-08-08T10:55:00.204Z
-updated: 2024-08-09T10:55:00.204Z
+date: 2025-01-26T23:04:24.036Z
+updated: 2025-01-31T21:56:14.461Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
  Here are a few effective solutions to try if apps on Windows are unable to connect to the internet.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Disable Windows Defender Firewall
 
  Windows Defender Firewall keeps track of all apps and programs that connect to the internet. As a precautionary measure, it may occasionally block an app's internet access and display the “Windows Defender Firewall has blocked some features of this app” security alert. This is one of the most common reasons why an app may fail to connect to the internet on Windows.
@@ -36,23 +37,14 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 5. Select**Turn Windows Defender Firewall on or off** from the left pane.
 6. Under Private and Public network Settings, select the**Turn off Windows Defender Firewall (not recommended)** option.
 7. Click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn Off Windows Defender Firewall on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Windows-Defender-Firewall-on-Windows.jpg)
 
  Check to see if your apps can connect to the internet now. If this solves your problem, you may have to allow your apps through Windows Firewall. If you need help, check our guide on [how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) and follow the steps outlined there.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Disable Your Antivirus Program
 
  As with the firewall, your antivirus can also cause connection issues. To rule out this possibility, you should disable your antivirus program temporarily. Simply right-click on the antivirus program's taskbar icon and select**Disable > Disable until the next restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Run Windows Troubleshooters
 
  Windows 10 and 11 include a few troubleshooters that can automatically detect and resolve common system-level issues. Running the Windows Store Apps troubleshooter should resolve any issues with your apps and restore their ability to connect to the internet.
@@ -79,6 +71,10 @@ To run Windows Store Apps troubleshooter:
 
  A blank command window will appear on your screen and execute the command. When the process is complete, the Microsoft Store will launch on its own. After that, try using your apps again and check if the issue is still there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Disable Automatic Proxy Detection
 
  When you use a proxy server to connect to the internet, the traffic goes through the proxy server rather than directly from your PC. It's possible that your apps are using a proxy server that no longer works. You can try disabling the proxy server to see if that resolves the problem.
@@ -102,6 +98,10 @@ To run Windows Store Apps troubleshooter:
 
  Restart your PC (using one of the many [methods to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and see if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reset Network Settings
 
  If the problem persists, you can perform a full network configuration reset on Windows. There's a chance that one of the network settings on Windows is conflicting with your apps and preventing them from accessing the internet.
@@ -114,12 +114,17 @@ To reset network settings on Windows:
 4. Under the More settings section, select**Network reset** .
 5. Click the**Reset now** button.
 6. Select**Yes** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![Reset Network Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Reset-Network-Settings-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the reset is complete, your PC will restart. Following that, your issue will be resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Troubleshoot the Issue With a Clean Boot
 
@@ -129,23 +134,17 @@ To reset network settings on Windows:
 
  If you'd like to learn more about the topic, check out our guide on [how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there. If you perform a clean boot and the issue goes away, it means that one of the disabled services is the culprit. Now you can slowly re-activate the services until the problem reappears, and voila: you know what's causing the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Your Window Apps Back Online
 
  You now have a good idea of what to do when apps on Windows cannot connect to the internet. One of the solutions listed above should help resolve any underlying issues and bring your apps back online.
 
  Now that your apps are connected to the internet, you may want to limit how much data your Windows PC consumes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,6 +153,20 @@ To reset network settings on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-explore-the-best-free-online-video-capture-platforms/"><u>[New] 2024 Approved Explore the Best Free Online Video Capture Platforms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-expert-tips-to-maximize-creativity-and-efficiency-in-obs-edits/"><u>[New] In 2024, Expert Tips to Maximize Creativity and Efficiency in OBS Edits</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-compreenhensive-guide-for-youtube-short-video-creators-for-2024/"><u>[Updated] Compreenhensive Guide for YouTube Short Video Creators for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-14-plus-activation-lock-using-official-methods-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 14 Plus activation lock using official methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-iscsi-initiator-for-it-professionals/"><u>Deciphering Windows iSCSI Initiator for IT Professionals</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-cut-off-and-terminate-your-tiktok-identity/"><u>How to Cut Off and Terminate Your TikTok Identity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-upgrades-at-bay-with-these-4-tips/"><u>Keep Upgrades at Bay with These 4 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-connection-win-code-to-microsoft-accounts/"><u>Mastering the Connection: WIN CODE to MICROSOFT ACCOUNTS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725286548394-mts/"><u>MTS形式に優れた変換ソフトで順位上位を目指せ!無料アプリランキング</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-sound-device-issues-in-audacity-win11/"><u>Overcoming Sound Device Issues in Audacity Win11</u></a></li>
+<li><a href="https://win-top.techidaily.com/ripristina-i-tuoi-dati-perduti-con-il-programma-di-recupero-gratuitamente-su-windows-groppo-myrecover/"><u>Ripristina I Tuoi Dati Perduti Con Il Programma Di Recupero Gratuitamente Su Windows Groppo, MyRecover</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-recover-missing-startup-applications-window/"><u>Steps to Recover Missing Startup Applications Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-tips-for-fixing-roblox-error-262/"><u>The Essential Tips for Fixing Roblox Error 262</u></a></li>
+</ul></div>
 

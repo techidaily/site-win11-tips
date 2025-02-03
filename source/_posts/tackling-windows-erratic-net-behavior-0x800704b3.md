@@ -1,7 +1,7 @@
 ---
 title: "Tackling Windows' Erratic Net Behavior: 0X800704B3"
-date: 2025-01-19T00:42:59.930Z
-updated: 2025-01-24T16:24:47.310Z
+date: 2025-01-29T05:42:23.151Z
+updated: 2025-02-01T09:22:30.592Z
 tags:
   - windows10
   - windows11
@@ -39,18 +39,10 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 ![Windows 11 troubleshoot other troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Windows-11-troubleshoot-other-troubleshooter.jpg)
 4. In the following window, look for the Network troubleshooter and click on the **Run** button for it. The troubleshooter will now start scanning the system for potential errors. If it finds anything, it will notify you.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Run network troubleshooter in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-troubleshooter-1.jpg)
 5. Once the scan completes, check the results. If the troubleshooter has suggested fixes, click on **Apply this fix**.
 
 6. Otherwise, choose **Close the troubleshooter** and move to the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable the Related Services
 
@@ -66,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 5. Click on the **Start** button for it if the service was not running already. If it was, click **Stop**, wait for a few seconds, and click **Start** again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Ensure the Startup type is set to **Automatic**.  
 ![Restart the DHCP service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-dhcp-service.jpg)
 7. Click **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Perform the same steps for these services:
 
@@ -96,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 ![Click on More network adapter options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/more-network-adapter-options.jpg)
 4. You should now see a list of available network adapters. Right-click on the one you are currently using and choose **Disable** from the context menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable your adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-adapter.jpg)
 5. Wait for a few before right-clicking on it again and choosing **Enable**.
 
@@ -108,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
  If the problem was being caused by issues with the adapter, this should fix them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable SMB 1.0 Protocol
@@ -125,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 4. If a confirmation prompt pops up, click **Yes**.  
 ![Locate SMB 1.0 and uncheck the box associated with it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-smb-protocol.jpg)
 5. Click **OK** to save the changes and restart your computer. Upon reboot, check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reset TCP/IP Stack
 
@@ -145,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
  If the error persists, you can try repairing the system files and Windows image using the SFC and DISM utilities. Our [comprehensive guide on using the built-in Windows troubleshooting tools](https://www.makeuseof.com/windows-built-in-repair-tools/) discusses this in detail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Network Errors Resolved
 
  Network errors can be frustrating, especially if you need to access the internet urgently. Hopefully, the fixes we have listed above will help you fix the error at hand once and for all. If it reappears, you can contact the official Microsoft support team with the essential information and report the issue to them.
@@ -161,22 +161,20 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-capturing-a-full-view-iphone-filming-secrets-for-social-feeds/"><u>[New] Capturing a Full View IPhone Filming Secrets for Social Feeds</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-make-your-own-vr-gear-diy-guide-for-google-cardboard-viewers/"><u>[New] Make Your Own VR Gear DIY Guide for Google Cardboard Viewers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-captivating-your-audience-youtube-intro-excellence-with-imovie-for-2024/"><u>[Updated] Captivating Your Audience YouTube Intro Excellence with iMovie for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-convert-with-precision-10-leading-tools-from-flv-to-youtube-platforms/"><u>[Updated] Convert with Precision 10 Leading Tools From Flv to YouTube Platforms</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-search-filters-on-instagram-and-get-more-filters-for-free/"><u>[Updated] How to Search Filters on Instagram and Get More Filters for Free</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-image-editor-repertoire-for-text-addition/"><u>[Updated] In 2024, The Ultimate Image Editor Repertoire for Text Addition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-edge-past-rejuvenate-with-atlasos/"><u>Cutting-Edge Past: Rejuvenate with AtlasOS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/dota-2-mic-not-working-on-pc-solved/"><u>Dota 2 Mic Not Working on PC [Solved]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/emergency-techniques-for-forced-deletion-of-printers-on-windows/"><u>Emergency Techniques for Forced Deletion of Printers on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-address-wows-error-132-in-windows-1111/"><u>How to Address WoW's Error #132 in Windows 11/11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-12r-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus 12R Location by Number | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proven-wintools-strategies-for-optimal-computer-function/"><u>Proven WinTools Strategies for Optimal Computer Function</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-dysfunctional-windows-outlook-automation-rules/"><u>Reinstating Dysfunctional Windows Outlook Automation Rules</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-your-function-keys-for-smooth-win10-experience/"><u>Revive Your Function Keys for Smooth Win10 Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stay-charged-and-cool-unveiling-the-ultimate-3-in-1-magsafe-dock-for-apple-users-exclusive-review/"><u>Stay Charged and Cool: Unveiling the Ultimate 3-in-1 MagSafe Dock for Apple Users - Exclusive Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-help-process-for-windows-snags/"><u>Streamline Help Process for Windows Snags!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-message-behind-windows-x-mark/"><u>Unveiling: The Hidden Message Behind Windows' X-Mark</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-youcamsimplified-quickguidetorecordings/"><u>[New] In 2024, YouCamSimplified QuickGuideToRecordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-list-of-cost-free-game-capture-tools-for-2024/"><u>[New] The Ultimate List of Cost-Free Game Capture Tools for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-windows-11-gaming-recordings/"><u>[Updated] In 2024, The Ultimate Guide to Windows 11 Gaming Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/controlled-clicking-a-guide-to-disabling-acceleration-on-win-11/"><u>Controlled Clicking: A Guide to Disabling Acceleration on Win 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/effortless-offline-viewing-how-to-save-youtube-videos-for-iphoneipad/"><u>Effortless Offline Viewing How to Save YouTube Videos for iPhone/iPad</u></a></li>
+<li><a href="https://fox-http.techidaily.com/get-creative-streamline-your-movies-with-one-clicks-on-windows-10/"><u>Get Creative Streamline Your Movies with One Clicks on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-this-installation-package-could-not-be-opened-error-in-windows-1110/"><u>How to Fix the “This Installation Package Could Not Be Opened” Error in Windows 11/10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-beat-explorers-playlist-accessible-free-online-tools/"><u>In 2024, Beat Explorers' Playlist Accessible, Free Online Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-tactics-crafting-novel-windows-folders/"><u>Innovative Tactics: Crafting Novel Windows Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-recovery-strategies-for-legacy-and-new-windows-versions/"><u>Key Recovery Strategies for Legacy and New Windows Versions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/maximize-engagement-with-these-instagram-story-tips-for-2024/"><u>Maximize Engagement with These Instagram Story Tips for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/resolving-the-issue-how-to-successfully-move-your-number-from-an-iphone-14-or-15/"><u>Resolving the Issue: How to Successfully Move Your Number From an iPhone 14 or 15</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-therapeutic-ai-chatbots-and-apps-to-alleviate-psychological-stress/"><u>Top 5 Therapeutic AI Chatbots & Apps to Alleviate Psychological Stress</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-filing-methods-for-efficient-workflow-in-win-os-max-156/"><u>Top Filing Methods for Efficient Workflow in Win OS (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformative-improvements-the-latest-microsoft-paint-edition/"><u>Transformative Improvements: The Latest Microsoft Paint Edition</u></a></li>
 </ul></div>
 

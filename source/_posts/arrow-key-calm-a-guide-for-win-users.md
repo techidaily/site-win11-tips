@@ -1,7 +1,7 @@
 ---
 title: "Arrow Key Calm: A Guide for Win Users"
-date: 2024-08-16T01:06:16.469Z
-updated: 2024-08-17T01:06:16.469Z
+date: 2025-01-28T10:15:58.148Z
+updated: 2025-02-01T13:20:16.778Z
 tags:
   - windows10
   - windows11
@@ -20,15 +20,16 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 
  In this guide, we'll show you how to troubleshoot and fix the keyboard arrow keys not working on a Windows machine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  Restarting your computer is the first and simplest method to try when your arrow keys are not working. This can often resolve minor software glitches that might be causing the issue.
 
  Before you restart, make sure to save any open documents or projects so that you don’t lose your progress.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 2\. Run the Hardware and Devices Troubleshooter
 
  If restarting your computer doesn’t fix the arrow keys not working, you can try running the Hardware and Devices troubleshooter. This tool is designed to detect and fix common hardware problems with your computer, including keyboard issues.
@@ -40,15 +41,17 @@ To run the troubleshooter, follow these steps:
 msdt.exe -id DeviceDiagnostic
 3. The Hardware and Devices Troubleshooter will now open. Click**Next** to start the scan process, and follow the instructions on the screen.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you complete the above steps, restart your computer and check if the arrow keys are now working.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Keyboard Troubleshooter
 
  If the arrow keys still don’t work, you can run the “Keyboard Troubleshooter”. This tool is similar to the “Hardware and Devices” troubleshooter, but it focuses on keyboard issues. To run it, follow these steps:
@@ -57,15 +60,9 @@ msdt.exe -id DeviceDiagnostic
 2. In the Settings menu, click**System > Troubleshoot > Other troubleshooters** .
 3. Scroll down to the**Keyboard** section and click**Run** .  
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the process and then check if it solves the issue. If not, continue to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Try Using a Different Keyboard
 
  This problem can also appear if you're using a faulty keyboard. So, if the arrow keys still don’t work after applying the methods above, try using a different keyboard. You can purchase it from an electronics store or borrow one from a friend to test it out.
@@ -84,6 +81,10 @@ msdt.exe -id DeviceDiagnostic
 5. Choose**Search automatically for drivers** .  
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait until the process is complete, then restart your computer. After the restart, check if the arrow keys are now working. If not, reinstall the keyboard driver and see if it works.
 
 To reinstall the keyboard driver, follow these steps:
@@ -94,20 +95,18 @@ To reinstall the keyboard driver, follow these steps:
  After you uninstall it, restart your computer and the driver will be reinstalled automatically. Once your computer restarts, check if the arrow keys are now working.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Arrows on the Keyboard Are Now Working
 
  Have you got a problem with your keyboard arrows? It's likely due to outdated or corrupted keyboard drivers in your operating system. You might also have problems with hardware issues like a defective or faulty keyboard. Read this guide, it will help you fix the error and get your arrow keys working again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,6 +115,20 @@ To reinstall the keyboard driver, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-from-concept-to-crypto-asset-the-ultimate-list-of-nft-engines-for-2024/"><u>[Updated] From Concept to Crypto Asset The Ultimate List of NFT Engines for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-fix-for-inactive-vss-service-in-win/"><u>Finding Fix for Inactive VSS Service in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-fictitous-device-alert-in-win-11/"><u>How to Correct Fictitous Device Alert in Win 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Realme Without Password?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-nokia-c300-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Nokia C300 to Another | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-choices-for-enhancing-drone-functionality-and-flexibility/"><u>In 2024, Top Choices for Enhancing Drone Functionality and Flexibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-google-chromes-filesync-on-your-windows-device-now/"><u>Master Google Chrome's Filesync on Your Windows Device Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-through-obstacles-a-comprehensive-guide-to-solving-minecraft-error-code-5/"><u>Navigating Through Obstacles: A Comprehensive Guide to Solving Minecraft Error Code 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-cold-war-stuttering-problem-expert-advice-for-smooth-gaming-on-computer-and-consoles/"><u>Solving Cold War Stuttering Problem: Expert Advice for Smooth Gaming on Computer and Consoles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-completely-uninstall-wsl/"><u>Step-by-Step Guide to Completely Uninstall WSL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-overcoming-task-sequence-failure-0x8007000f-in-windows/"><u>Troubleshooting: Overcoming Task Sequence Failure 0X8007000F in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-winservicesexe-on-windows-heres-how-to-fix-errors-related-to-it/"><u>What Is winservices.exe on Windows? Here's How to Fix Errors Related to It</u></a></li>
+</ul></div>
 

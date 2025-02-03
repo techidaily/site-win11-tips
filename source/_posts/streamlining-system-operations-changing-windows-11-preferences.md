@@ -1,7 +1,7 @@
 ---
 title: "Streamlining System Operations: Changing Windows 11 Preferences"
-date: 2025-01-21T21:35:17.893Z
-updated: 2025-01-25T00:21:50.170Z
+date: 2025-01-28T22:50:40.082Z
+updated: 2025-02-01T02:19:28.958Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Device Usage Options on Windows?
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
  Now that you know what Device Usage Options are, here's how to change them in Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Using Windows Settings
 
  Changing Device Usage Options on Windows is easy. There are two ways to do it - using System Settings or through a reg file. First, let's look at how to change Device Usage Options using Windows Settings.
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 ![Change Device Usage on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-device-usage-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the next page, look for your preferred Device Usage option and toggle it on.
@@ -65,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 ## 2\. Using a REG File
 
  If you're [unable to open the System Settings window or if it isn't working](https://www.makeuseof.com/fixes-unable-to-open-windows-settings/), use a reg file instead. A reg file is a registry key file that helps you tweak Windows settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Gaming Device Usage Options
 
@@ -87,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
 ![Change Gaming Device Usage Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-gaming-device-usage-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To apply the settings, double-click the reg file. This will turn on the Device usage options for Gaming.
 
  If you want to turn off this option, create a new reg file and paste the following:
@@ -99,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
  Now save it with the **.reg** extension as above and double-click to apply.
 
  To turn on Device usage options for other categories, create separate reg files with the corresponding code then apply them in the same way. Here's a list of each .reg file's contents:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Family Device Usage Options
 
@@ -153,7 +153,7 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 "accepted"=dword:00000001`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Business Device Usage Options
@@ -187,22 +187,22 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-gain-recovery-of-personal-snapshots-for-2024/"><u>[New] Gain Recovery of Personal Snapshots for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-memetics-a-9gag-creators-manual/"><u>2024 Approved Mastering the Art of Memetics A 9GAG Creator's Manual</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-lava-frp-by-drfone-android/"><u>How Can We Bypass Lava FRP?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100a-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo Y100A Phone with Broken Screen</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-michael-kors-access-gen-e-mkgo-the-perfect-blend-of-luxury-and-practicality/"><u>In Depth Review of Michael Kors' Access Gen E MKGO: The Perfect Blend of Luxury and Practicality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-your-mind-proven-study-tactics-for-windowed-learners/"><u>Master Your Mind: Proven Study Tactics for Windowed Learners</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-facebook-sharing-of-youtube-videos-for-2024/"><u>Navigating Facebook Sharing of YouTube Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/nostalgia-infused-ui-windows-11-in-a-98-revamp/"><u>Nostalgia-Infused UI: Windows 11 in a 98 Revamp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-visual-hitches-a-driver-reset-procedure/"><u>Resolving Visual Hitches: A Driver Reset Procedure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-back-in-time-windows-11-makeover-for-98-fans/"><u>Step Back in Time: Windows 11 Makeover for '98 Fans</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-windows-camera-with-resolved-a00f425d-error/"><u>Streamlining Windows Camera with Resolved A00F425D Error</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-ultimate-night-photos-checklist-dos-and-donts/"><u>The Ultimate Night Photos Checklist Do's and Don'ts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-methods-to-address-windows-sign-in-rejections/"><u>Top Methods to Address Windows Sign-In Rejections</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-tracks-todays-youtube-vital-views/"><u>Trending Tracks Today's YouTube Vital Views</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-persistent-steam-login-delays-rust-solution/"><u>Unraveling the Mystery of Persistent Steam Login Delays: Rust Solution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-steps-to-solve-mmc-non-displaying-snaps/"><u>Unveiling Steps to Solve MMC Non-Displaying Snaps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-the-ideal-video-sizes-for-instagram-success-for-2024/"><u>Unveiling the Ideal Video Sizes for Instagram Success for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-enhancing-follows-into-genuine-subscriptions/"><u>[New] In 2024, Enhancing Follows Into Genuine Subscriptions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-srgb-standardization-the-next-step-beyond-traditional-rgb/"><u>[Updated] 2024 Approved Srgb Standardization The Next Step Beyond Traditional Rgb</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-export-iphone-images-as-pdf-from-jpeg-and-png-files/"><u>[Updated] How to Export iPhone Images as PDF From JPEG & PNG Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-images-with-dynamic-mosaic-designs/"><u>[Updated] Transforming Images with Dynamic Mosaic Designs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-a-guide-to-enhancing-obs-with-free-lut-downloads/"><u>2024 Approved A Guide to Enhancing OBS with Free LUT Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-through-connection-roadblocks-for-win-based-games/"><u>Cutting Through Connection Roadblocks for Win-Based Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-lifetime-deal-get-612-on-black-friday-for-win10-life/"><u>Exclusive Lifetime Deal: Get $6.12 on Black Friday for Win10 Life</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-spotify-connection-errors-in-windows-devices/"><u>Fixing Spotify Connection Errors in Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-changing-the-cursor-theme-in-windows/"><u>Guide to Changing the Cursor Theme in Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-note-50-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme Note 50 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oneplus-open-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock OnePlus Open Phone When You Forget the Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboard-commands-accelerated-translation-on-windows-11-devices/"><u>Keyboard Commands: Accelerated Translation on Windows 11 Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterclass-overcoming-frequent-gameplay-interruptions-in-wwe-2k22-for-computer-users/"><u>Masterclass: Overcoming Frequent Gameplay Interruptions in WWE 2K22 for Computer Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-visual-searching-in-windows-file-explorer/"><u>Optimize Visual Searching in Windows File Explorer</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recover-distorted-aac-and-divx-with-simple-tools/"><u>Recover Distorted AAC & DIVX with Simple Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-quick-fixed-3-simple-tips-for-black-screen-woes/"><u>Win11 Quick Fixed: 3 Simple Tips for Black Screen Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-security-concealingdisplaying-firewall-zones/"><u>Windows Security: Concealing/Displaying Firewall Zones</u></a></li>
 </ul></div>
 

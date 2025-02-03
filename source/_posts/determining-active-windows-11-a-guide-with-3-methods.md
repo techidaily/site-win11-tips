@@ -1,7 +1,7 @@
 ---
 title: "Determining Active Windows 11: A Guide with 3 Methods"
-date: 2025-01-18T17:59:59.229Z
-updated: 2025-01-24T19:14:26.451Z
+date: 2025-01-29T02:14:45.081Z
+updated: 2025-01-31T23:56:24.628Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Check Windows 11's Activation State Using the Settings App
 
  The Settings app in Windows contains all the necessary information about the Windows edition, its activation status, and the product key.
@@ -47,10 +51,14 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
 ![Check Windows Activation Status via Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Is your Windows 11 PC not showing the correct activation status despite using a genuine license key? Check our guide on[how to fix the activation key not working issue in Windows 11](https://www.makeuseof.com/windows-11-activation-key-not-working/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Check Windows 11 Activation State via the Run Command
@@ -64,14 +72,10 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 3. You should see a**Windows Script Host** dialog box that’ll convey whether your copy of Windows 11 is activated or not.  
 ![Check Windows Activation Status via Run Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-run-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can run the**slmgr.vbs /dlv** command to check the activation status along with other important details such as activation ID, partial product key, and so on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Check Windows 11 Activation State With Command Prompt or PowerShell
@@ -85,14 +89,10 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 3. In the dialog box, check Windows 11’s activation status. If your machine is not activated, you should see the**Windows is in notification mode** message.  
 ![Check Windows Activation Status via Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Like interacting with your machine via Command Prompt? Here are some[fun Command Prompt tricks](https://www.makeuseof.com/command-prompt-fun-things/) you might enjoy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Checking Windows 11’s Activation Status, Made Easy
@@ -116,16 +116,18 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-best-apps-to-modify-your-voice-on-commute/"><u>[New] Best Apps to Modify Your Voice on Commute</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-saving-the-essence-a-guide-for-virtual-meeting-records-for-2024/"><u>[New] Saving the Essence A Guide for Virtual Meeting Records for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-what-does-it-cost-to-boost-a-video/"><u>[Updated] 2024 Approved What Does It Cost to Boost a Video?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-magixs-acid-pro-and-its-market-rivals/"><u>2024 Approved Understanding Magix's ACID Pro and Its Market Rivals</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-m14-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy M14 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-note-30-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Infinix Note 30 Pro</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-defy-2withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Defy 2with/without a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/live-the-life-of-your-windows-11-desktop-with-animations/"><u>Live the Life of Your Windows 11 Desktop With Animations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterclass-for-seamless-os-transition-to-win11-and-vmware-17/"><u>Masterclass for Seamless OS Transition to Win11 & VMWare 17</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-rectify-failed-java-installation-on-windows/"><u>Methods to Rectify Failed Java Installation on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-tips-for-troubleshooting-winget-in-windows-11/"><u>Top Tips for Troubleshooting Winget in Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-exclusive-guide-top-5-streamlined-recording-software/"><u>[New] 2024 Approved Exclusive Guide Top 5 Streamlined Recording Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-full-featured-mac-video-and-audio-recorder/"><u>[New] 2024 Approved Full-Featured Mac Video & Audio Recorder</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-vids-in-verse-strategies-for-effective-twitter-video-downloads/"><u>[Updated] In 2024, Vids in Verse Strategies for Effective Twitter Video Downloads</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-social-snapshot-post-photosvideos-without-a-twit/"><u>2024 Approved Social Snapshot Post Photos/Videos without a Twit</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/from-standard-definition-to-high-dynamic-range-a-comprehensive-tutorial-for-2024/"><u>From Standard Definition to High Dynamic Range - A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/gopro-hero5-silver-meets-sjcam-sj7/"><u>GoPro Hero5 Silver Meets SJCAM SJ7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-windows-lock-screen-delay/"><u>How to Configure Windows Lock Screen Delay</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-infinix-note-30-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Infinix Note 30 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/mastering-youtubes-networking-finding-and-creating-video-co-ops/"><u>Mastering YouTube's Networking Finding and Creating Video Co-Ops</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/microsoft-surface-studio-2-evaluation-premium-all-in-one-desktop/"><u>Microsoft Surface Studio 2 Evaluation: Premium All-in-One Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-in-use-files-problem-a-guide-for-windows-11-users/"><u>Overcoming In Use Files Problem: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-your-bat-scripts-in-windows-with-exes/"><u>Power Your .bat Scripts in Windows with EXEs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-responsive-sites-multiple-browsers-one-solution/"><u>Troubleshooting Non-Responsive Sites: Multiple Browsers, One Solution</u></a></li>
 </ul></div>
 

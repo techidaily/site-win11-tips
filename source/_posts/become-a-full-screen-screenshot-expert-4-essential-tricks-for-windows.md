@@ -1,7 +1,7 @@
 ---
 title: "Become a Full-Screen Screenshot Expert: 4 Essential Tricks for Windows."
-date: 2024-08-08T10:54:52.326Z
-updated: 2024-08-09T10:54:52.326Z
+date: 2025-01-25T18:37:05.544Z
+updated: 2025-02-01T13:14:09.563Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/4a9b602cddaa14e95b4c74e25b7d2e53d393546d8
  If you are facing a similar issue, we've got you covered. Below, we'll cover the different reasons you might be facing the problem and the solutions you can try to fix it for good.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Isn't the Snip & Sketch Tool Covering the Entire Screen?
 
  Here are a few reasons that might prevent the Snip & Sketch tool from covering your entire screen.
@@ -59,10 +60,11 @@ To change your primary display on Windows, follow these steps:
 3. You should now be able to see the displays installed. Click on the**Identify** button to see which display is the primary one.
 4. Click on the screen that you want to make your primary display and expand the**Multiple displays** option.
 5. Choose the**Make this my main display** option.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Switch the main display in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/switch-displays.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We also recommend keeping the main display positioned on the right side since it may cause the system to handle scaling differently, resolving the error in the process.
 
@@ -78,16 +80,10 @@ Follow these steps to proceed:
 4. Search for the snipping tool and launch it.
 5. Finally, click on the**New** button in the tool and choose the full-screen mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Click on the New option in Snip & Sketch tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/new-option.jpg)
 
  You should now be able to capture the entire screen successfully. If you encounter the problem again, repeat this process to solve it. But if you want a more permanent solution, check out the following step.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update Snip & Sketch
 
  The issue can also occur if the Snip & Sketch app itself is outdated, which causes it to malfunction. In this case, an easy solution that can fix the problem is updating the snipping utility.
@@ -104,21 +100,29 @@ Here is how to do that:
 
 1. Open the Settings app and choose Apps from the list on the left side.
 2. Click on**Apps & features** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Apps & features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Apps--features-option.jpg)
 3. Now, scroll down the following window to look for Snip & Sketch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click on the three dots associated with it and choose**Advanced options** .
 5. Next, head to the Reset section and click the**Repair** button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Repair the snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-app.jpg)
 6. Wait for the process to complete, then check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. If it persists, click the**Reset** button in the same section and follow the on-screen instructions to proceed.
 
  Once the tool has been reset, it should work correctly. If the problem appears again in the future, you can consider using any of the other [ways to take screenshots in Windows 11](https://www.makeuseof.com/take-screenshot-windows-11/) until Microsoft releases an official fix for this problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Snip With Ease
 
@@ -130,8 +134,6 @@ Here is how to do that:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,6 +141,24 @@ Here is how to do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-5-pinterest-video-downloads-no-cost-and-fast-access-online/"><u>[New] 2024 Approved 5 Pinterest Video Downloads – No Cost & Fast Access Online</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-humor-hits-the-best-funny-youtube-short-ideas-on-the-block/"><u>[New] In 2024, Humor Hits The Best Funny YouTube Short Ideas on the Block</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unmuting-your-social-network-fixing-half-volume-videos-for-2024/"><u>[New] Unmuting Your Social Network Fixing Half-Volume Videos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-leading-software-lineup-8-linux-editing-sleuths/"><u>[Updated] Leading Software Lineup 8 Linux Editing Sleuths</u></a></li>
+<li><a href="https://win-dash.techidaily.com/connect-with-speed-download-the-essential-acer-wifi-driver-for-free-today/"><u>Connect with Speed: Download the Essential Acer Wifi Driver for FREE Today!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cut-expenses-capture-quality-your-guide-to-saving-big-on-the-gopro-hero-11-camera-zdnet-insights/"><u>Cut Expenses, Capture Quality: Your Guide to Saving Big on the GoPro Hero 11 Camera | ZDNET Insights</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-video-by-mouse-in-filmora/"><u>How To Make a Video by Mouse in Filmora?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-zte-axon-40-lite-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked ZTE Axon 40 Lite Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-nonresponsive-itunes-on-windows-desktop/"><u>Immediate Fixes for Nonresponsive iTunes on Windows Desktop</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-realme-gt-neo-5-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Realme GT Neo 5?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instructions-to-turn-off-hyber-v-in-windows-11/"><u>Instructions to Turn Off Hyber-V in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-strategies-to-reset-and-stabilize-apex-on-windows-11/"><u>Key Strategies to Reset and Stabilize Apex on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-disabling-disk-read-errors-in-windows/"><u>Quick Fix: Disabling Disk Read Errors in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-wi-fi-hotspot-a-guide-for-windows-11-users/"><u>Reviving Your Wi-Fi Hotspot: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-unstartable-speech-recognition-windows/"><u>Strategies for Fixing Unstartable Speech Recognition Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-potential-append-folders-to-taskbar-menu/"><u>Unlock Windows Potential: Append Folders to Taskbar Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-error-codes-and-solutions-for-failed-installs-in-microsoft-store/"><u>Unveiling Error Codes and Solutions for Failed Installs in Microsoft Store</u></a></li>
+</ul></div>
 

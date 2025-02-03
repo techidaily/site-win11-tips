@@ -1,7 +1,7 @@
 ---
 title: 9 Remedies to Clear Windows Setup Stuck on Validation Error
-date: 2024-08-16T01:09:22.386Z
-updated: 2024-08-17T01:09:22.386Z
+date: 2025-01-27T07:30:50.820Z
+updated: 2025-02-01T09:28:33.104Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/c80fad792e3cb229a3e653969139437b39335328a
 
  However, if Steam takes an unusually long time to verify the files, it's a sign that something is amiss. This can happen due to corrupt Steam files, weak internet connection, or lack of administrative permissions. As such, if Steam gets stuck in the "verifying installation" process, use the following solutions to get it fixed
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart the Steam Client
 
  Whenever Steam gets stuck on the "verifying installation" process, your first port of call should be to restart the Steam client. Restarting the client will clear any temporary files, cached data, or other resources that might be triggering the problem.
 
  So, restart and check if it makes any difference. If not, then try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check Your Internet Connection
 
@@ -40,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/c80fad792e3cb229a3e653969139437b39335328a
 
  However, if none of the above solutions work, you'll have to contact your ISP.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Launch Steam With Administrative Rights
 
  Another quick way to fix the problem is to launch the Steam client with administrative privileges. Granting elevated rights will ensure that Steam has the required permissions to access and verify the game files.
@@ -53,16 +58,10 @@ To launch Steam as an administrator, follow the below instructions:
 2. Switch to the**Compatibility** tab.
 3. Check the**Run this program as an administrator** box.  
 ![Run this program as an administrator option for Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-this-program-as-an-administrator.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 4. Click**Apply** \>**OK** to save the settings.
 
  Now, open the Steam client and check if the problem is fixed. If this does the trick, you can configure it to [always launch as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## 4\. Temporarily Disable the Security Application
 
  The security application of your computer keeps you protected against malware, viruses, and other cyber threats. However, it can sometimes interfere with the functioning of trusted applications like Steam and cause issues like the one in question.
@@ -75,6 +74,10 @@ To launch Steam as an administrator, follow the below instructions:
 
  After disabling the security app, launch the Steam client and check if it still gets stuck on the verifying installation screen. If yes, re-enable the security app, as corruption in the Steam client might be causing the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Clear Out Any Potential Corruption in Steam's Files
 
  Steam download cache contains data related to downloads and updates made on the Steam client. If this data gets corrupted, you might face various issues accessing the Steam client.
@@ -85,23 +88,6 @@ To launch Steam as an administrator, follow the below instructions:
 2. In the Settings window, choose**Downloads** from the left sidebar.
 3. Click the**Clear Download Cache** option.  
 ![Clear Download Cache option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clear-download-cache-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 4. Click**OK** to confirm your selection.
 
  The Library folder can also corrupt and cause problems. To repair any potential corruption, click the**Steam Library Folders** option in the Download section.
@@ -109,19 +95,21 @@ Key features:
  In the Storage Manager window, click the**three horizontal dots** and choose the**Repair Folder** option.
 
 ![Repair Folder option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-folder-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Updating the Steam client is another quick way to eliminate any corruption that might be causing the issue. To update, click the Steam option at the top-left corner and choose the**Check for Steam Client Updates** option.
 
 ![Check for Steam Client Updates option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-steam-client-updates-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After downloading the update, click the**Restart Steam** option to install the update.
 
 ![Restart Steam option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-steam-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Change the Download Region in the Steam Client
@@ -133,14 +121,12 @@ Key features:
 1. Launch the Steam client, then go to**Steam > Settings > Downloads** .
 2. Click the drop-down icon under**Download Region** and choose a different download region.  
 ![Download Region option in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/download-region.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 3. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Clear the Steam Content Folder
 
  Steam stores its temporary data in the Depotcache and Appcache folder. But the data of these folders can also get corrupted and interrupt the verification process.
@@ -159,17 +145,9 @@ Key features:
 2. Click the**Details** icon in the left sidebar.
 3. Right-click on**steamservice.exe,** hover the cursor to**Set priority,** and choose**High** from the context menu.  
 ![Set priority option in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-priority.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Reinstall the Steam Client
@@ -182,14 +160,11 @@ Key features:
 
  If Steam has issues verifying your game files, hopefully one of the fixes we covered can get it fixed again. Once done, Steam can get back to checking if your game's files are working as they should.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,8 +173,23 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-itel-p55-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Itel P55 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/financial-projections-producing-a-music-video/"><u>Financial Projections Producing a Music Video</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-can-your-iphone-spot-identical-images-uncovering-the-possibilities/"><u>How Can Your iPhone Spot Identical Images: Uncovering the Possibilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-multiple-same-user-error-in-windows/"><u>How to Resolve Multiple Same-User Error in Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-premium-camcorders-head-on-video-sharing/"><u>In 2024, Premium Camcorders Head-On Video Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/journey-through-time-discovering-7-classic-windows-traits-in-11/"><u>Journey Through Time: Discovering 7 Classic Windows Traits in 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/leverage-the-power-of-visual-storytelling-with-your-own-facebook-slideshows-for-2024/"><u>Leverage the Power of Visual Storytelling with Your Own Facebook Slideshows for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-pc-video-editing-made-easy-gopro-quik-and-similar-tools/"><u>New In 2024, PC Video Editing Made Easy GoPro Quik and Similar Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reboot-and-brighten-top-5-tricks-for-fixed-backlit-keys-in-win/"><u>Reboot and Brighten: Top 5 Tricks for Fixed Backlit Keys in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reign-over-your-routine-top-6-task-organizers-for-win-11-os/"><u>Reign Over Your Routine - Top 6 Task Organizers For Win 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-way-to-visualize-and-tame-your-disk-space/"><u>The Ultimate Way to Visualize and Tame Your Disk Space</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-5-cloud-based-voice-customizers-for-chrome-os-vocal-transformation-tools-reviewed/"><u>Top 5 Cloud-Based Voice Customizers for Chrome OS Vocal Transformation Tools Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ipad-supported-video-formats-and-easy-conversion-tips/"><u>Understanding iPad Supported Video Formats & Easy Conversion Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-desktop-potential-custom-snap-designs-using-powertoys/"><u>Unlock Desktop Potential: Custom Snap Designs Using PowerToys</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-the-latest-apple-ipad-102-is-outshining-its-predecessors-for-value-seekers/"><u>Why the Latest Apple iPad 10.2 Is Outshining Its Predecessors for Value Seekers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winos-troubleshooting-how-to-rectify-task-runner-failure-error-0x8007000f/"><u>WinOS Troubleshooting: How To Rectify Task Runner Failure (Error 0X8007000f)</u></a></li>
+</ul></div>
 

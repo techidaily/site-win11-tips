@@ -1,7 +1,7 @@
 ---
 title: Quick FIX for Defender Error Code 0X80004004
-date: 2025-01-14T17:57:47.597Z
-updated: 2025-01-18T17:16:00.441Z
+date: 2025-01-31T13:56:36.558Z
+updated: 2025-01-31T21:54:45.382Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Understanding the Problem Behind Error Code 0x80004004
 
  The Microsoft Defender error code 0x80004004 occurs when there is an issue with the tool’s functionality, such as when launching the app, trying to update it, or during a scan. When this error occurs, it can cause the following problems:
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 * **Corrupted or missing system files** \- the critical system files required for the Microsoft Defender can at times become corrupt or go missing, causing different issues within the system, including the one under discussion.
 
  Regardless of what might be causing the problem in your case, the solutions we have discussed below are sure to help you fix the problem. Proceed with them one by one to fix the problem once and for all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Restart the Microsoft Defender Services
 
@@ -67,7 +67,7 @@ Here is how you can do that:
  Perform the same steps for the Microsoft Defender Firewall service and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uninstall Conflicting Software
@@ -80,14 +80,6 @@ Here is how you can do that:
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Try Some Generic Windows-Based Fixes
 
  Now that you've tried some specific fixes for this error, it's time to try some more general ways for fixing errors like this.
@@ -96,23 +88,31 @@ Here is how you can do that:
 
  If you are encountering the error code while trying to update Microsoft Defender, then you can[run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Install the Update Manually
 
 ![manual updates for defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/manual-update-defender-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on[the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
 
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Change Your Antivirus Program
 
  If you have come this far without a viable solution and are still struggling to use Microsoft Defender, we recommend reporting the issue to Microsoft’s official support team. Till they offer a fix, you can consider switching to another security service to protect your system from vulnerabilities and malware.
 
  Our guide on[the best antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) should help you make an informed decision in this regard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Microsoft Defender Error 0x80004004, Resolved
 
@@ -133,21 +133,24 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-capture-every-skype-interaction-windows-and-os-x-style/"><u>[New] Capture Every Skype Interaction Windows & OS X Style</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-detailed-review-experience-with-samsungs-sphere-cam-for-2024/"><u>[New] Detailed Review Experience with Samsung's Sphere Cam for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/rom-novice-to-expert-ascending-with-asmr-video-production-tactics/"><u>[New] From Novice to Expert Ascending with ASMR Video Production Tactics</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-ultimate-meme-list-social-media-giants-clash/"><u>[New] In 2024, The Ultimate Meme List Social Media Giants Clash</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-techniques-for-uploading-youtubes-on-dailymotion/"><u>[Updated] 2024 Approved Expert Techniques for Uploading YouTubes on Dailymotion</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-vdr-screen-capture-compilation-extensive-guide/"><u>[Updated] 2024 Approved VDR Screen Capture Compilation Extensive Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-optimize-your-online-presence-incorporating-video-filters-in-zoom/"><u>2024 Approved Optimize Your Online Presence Incorporating Video Filters in Zoom</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/descargar-y-convertir-archivos-ogg-a-formato-mp3-sin-coste-guia-de-movavi/"><u>Descargar Y Convertir Archivos OGG a Formato MP3 Sin Coste: Guía De Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-converter-from-ts-to-mov-quick-and-easy-with-movavi/"><u>Free Converter From .TS to .MOV - Quick and Easy with Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-transforming-mp4-files-into-wma-format-with-movavi/"><u>Free Online Converter: Transforming MP4 Files Into WMA Format with Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-mkv-format-conversion-effortless-by-movavi/"><u>Free Online MKV Format Conversion - Effortless by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuito-convertidor-de-archivos-mpeg-a-aiff-en-linea-con-movavi-ejecute-la-migracion-gratis/"><u>Gratuito Convertidor De Archivos MPEG a AIFF en Línea Con Movavi - Ejecute La Migración Gratis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-challenge-of-elevated-cpu-usage-while-playing-starfield-expert-tips-and-tricks/"><u>Overcoming the Challenge of Elevated CPU Usage While Playing Starfield: Expert Tips and Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforme-seus-filmes-do-m2ts-para-formato-mkv-gratuitamente-via-o-movavi-conversor-online-seguro-e-facil-de-usar/"><u>Transforme Seus Filmes Do M2TS Para Formato MKV Gratuitamente via O Movavi - Conversor Online Seguro E Fácil De Usar!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformez-vos-fichiers-oma-en-mp3-sans-frais-solution-simple-avec-movavi/"><u>Transformez Vos Fichiers OMA en MP3 Sans Frais - Solution Simple Avec Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-or-stick-with-the-pro-comparing-the-new-samsung-galaxy-watch-6-classic-to-the-watch-5-pro-for-consumers-zdnet/"><u>Upgrade or Stick with the Pro? Comparing the New Samsung Galaxy Watch 6 Classic to the Watch 5 Pro for Consumers | ZDNET</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ips-for-clearing-blank-youtube-playback-for-2024/"><u>[New] Tips for Clearing Blank YouTube Playback for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pros-hunters-rate-action-camera-winners/"><u>[Updated] Pros Hunters Rate Action Camera Winners</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-best-batch-file-transformations/"><u>2024 Approved Best Batch File Transformations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-infinix-hot-40i-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Infinix Hot 40i Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevate-your-social-media-presence-insta-videography/"><u>Elevate Your Social Media Presence Insta-Videography</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disarm-windows-not-empty-claim-with-help-of-error-code-x80070091/"><u>How to Disarm Windows' Not Empty Claim with Help of Error Code X80070091</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-microsoft-print-to-pdf-problem-on-windows-11-devices/"><u>How To Troubleshoot 'Microsoft Print to PDF' Problem on Windows 11 Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/microsoft-surface-pro-7-in-depth-analysis-steady-upgrades-meet-expectations/"><u>Microsoft Surface Pro 7 - In-Depth Analysis: Steady Upgrades Meet Expectations</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-best-online-video-trailer-makers-for-2024/"><u>New Best Online Video Trailer Makers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-pc-health-streamlined-autoupdate-and-amd-video-replacement/"><u>Optimal PC Health: Streamlined Autoupdate & AMD Video Replacement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-disabled-netflix-windows-app/"><u>Reactivating Disabled Netflix Windows App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-sam-related-issues-on-windows-7/"><u>Resolving SAM-Related Issues on Windows 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-application-couldnt-start-error-code-0xc000003e-in-win11/"><u>Resolving The Application Couldn't Start: Error Code 0XC000003E in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-and-swift-optimal-strategies-for-qr-code-scanning-in-windows/"><u>Secure & Swift: Optimal Strategies for QR Code Scanning in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-protocol-for-correcting-windows-11s-voice-keyboard-error/"><u>Step-by-Step Protocol for Correcting Windows 11'S Voice Keyboard Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-copilot-protocol-execution-in-win11/"><u>Stop Copilot Protocol Execution in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-made-desktop-setup-insert-gmail-to-windows-edge/"><u>Tailor-Made Desktop Setup: Insert Gmail to Windows Edge</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-5-strategies-to-enhance-your-experience-and-save-on-hulu-costs/"><u>Top 5 Strategies to Enhance Your Experience and Save on Hulu Costs</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-yuva-2-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Yuva 2</u></a></li>
 </ul></div>
 

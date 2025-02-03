@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Confirming Disk Type – HDD or NVMe?
-date: 2025-01-14T18:29:28.718Z
-updated: 2025-01-18T18:15:43.181Z
+date: 2025-01-30T05:11:36.617Z
+updated: 2025-02-01T11:35:47.164Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check if You Have an HDD or SSD Using the Task Manager
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 ![Check the Type of Drive You Have in the Performance Tab of Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-type-of-drive-you-have-in-the-performance-tab-of-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To view other details about the selected drive, such as its capacity, write speed, average response time, and more, simply choose**Disk 0** or**Disk 1** —the SSD drive you want to learn more about. Task Manager will show the other details about the drive you selected on the lower side of the screen.
@@ -48,11 +48,11 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 ![Check Other Details of the Storage Drive in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-other-details-of-the-storage-drive-in-the-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know Which Drive You Have on Windows
@@ -74,17 +74,17 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-groundwork-on-image-detail-a-novices-reference/"><u>[Updated] Groundwork on Image Detail A Novice's Reference</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-richest-video-content-star-on-earth/"><u>[Updated] In 2024, The Richest Video Content Star on Earth</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-5-sd-cards-for-gopro-hero-series-including-model-8-and-7/"><u>[Updated] In 2024, Top 5 SD Cards for GoPro Hero Series - Including Model 8 & 7</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-video-integration-on-youtube-platform/"><u>[Updated] Seamless Video Integration on YouTube Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-en-ligne-de-fichiers-vob-a-format-wma-facile-et-gratuit-avec-movavi/"><u>Conversion en Ligne De Fichiers VOB À Format WMA - Facile Et Gratuit Avec Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/early-bird-special-apples-latest-799-m2-macbook-air-out-now-beating-octobers-prime-day-deals-zdnet-insights/"><u>Early Bird Special: Apple's Latest $799 M2 MacBook Air Out Now, Beating October's Prime Day Deals - ZDNET Insights</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-y17s-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo Y17s to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/m4a-swf-online-mvavi-converter/"><u>M4A파일을 자원 구조화된 SWF형식으로 무격적으로 전환 - ONLINE MVAVI CONVERTER</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-mka-ogg-movavi/"><u>Online 무료 서비스: MKA OGG 이미지 대용 동영상화 기술 - Movavi</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-free-special-effects-software-programs-les-plus-performants/"><u>Top Free Special Effects Software Programs - Les Plus Performants</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformation-gratuite-de-fichiers-au-format-mp3-au-flac-en-ligne-avec-movavi-comment-le-faire/"><u>Transformation Gratuite De Fichiers Au Format MP3 Au FLAC en Ligne Avec Movavi - Comment Le Faire</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-x5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unveiling-your-individual-playlist-paradise-on-youtube/"><u>[New] In 2024, Unveiling Your Individual Playlist Paradise on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-youtube-editors-handbook-from-basics-to-pros/"><u>[New] The YouTube Editor's Handbook From Basics to Pros</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-top-picks-timeless-melodies-from-iconic-animes/"><u>[New] Top Picks Timeless Melodies From Iconic Animes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-unsupported-interfaces-easily-with-these-ideas/"><u>Fix Unsupported Interfaces Easily with These Ideas</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-geforce-shader-compatibility-hiccup/"><u>Fixed GeForce Shader Compatibility Hiccup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-you-dont-have-permission-to-save-in-this-location-error-on-windows/"><u>How to Fix the “You Don’t Have Permission to Save in This Location” Error on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-productivity-how-chatgpt-can-transform-your-content-crafting-process/"><u>Maximize Productivity: How ChatGPT Can Transform Your Content Crafting Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-nvidias-overlay-from-displaying-on-windows/"><u>Preventing NVIDIA's Overlay From Displaying on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectify-hidden-extra-monitor-in-windows-11/"><u>Rectify Hidden Extra Monitor in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-windows-11-webcam-issues-coding-error-a00f4289/"><u>Unblocking Windows 11 Webcam Issues: Coding Error A00F4289</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-generative-ai-understanding-its-essence/"><u>Unveiling Generative AI: Understanding Its Essence</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/windows-11-excellent-video-capture-tools-compared-for-2024/"><u>Windows 11 Excellent Video Capture Tools Compared for 2024</u></a></li>
 </ul></div>
 

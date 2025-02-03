@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Windows 11: Restarting Catroot & Distro Files"
-date: 2025-01-17T18:33:39.874Z
-updated: 2025-01-18T17:46:23.347Z
+date: 2025-01-24T17:33:28.028Z
+updated: 2025-02-01T09:38:53.699Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 
  Therefore, resetting those folders is a troubleshooting method for fixing Windows 11 update installation issues. Resetting the SoftwareDistribution and Catroot2 folders removes corrupted data they might contain, which rebuilds them. You can reset those folders by deleting their contents or renaming them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Erasing Their Contents
 
  This method for resetting the SoftwareDistribution and Catroot2 folders involves manually eradicating the data in them via File Explorer. It’s also necessary to disable and re-enable certain services via the Command Prompt to ensure they’re not utilizing files in them. Delete the files in the SoftwareDistribution and Catroot2 folders as follows:
@@ -60,10 +56,6 @@ net stop msiserver`
 ![The SoftwareDistribution folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/softwaredistribution-folder.jpg)
 9. Bring up the catroot2 folder by entering this path in Explorer’s address bar:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `C:\Windows\System32\catroot2`
 10. Repeat steps seven and eight above to erase everything in that folder.  
 ![The catroot2 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/catroot2folder.jpg)
@@ -79,7 +71,7 @@ net start msiserver`
 12. Restart the PC and check for updates after clearing those folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Renaming Them
@@ -91,6 +83,10 @@ net start msiserver`
 ![The net stop commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-stop-commands.jpg)
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
@@ -99,8 +95,16 @@ net start msiserver`
 ![The ren catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-catroot2-folder.jpg)
 5. Repeat step 11 of the preceding method by executing the four commands for restarting the disabled services.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The net start command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-start-commands.jpg)
 6. Exit Command Prompt and select to restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders With FixWin 11
 
@@ -115,7 +119,7 @@ net start msiserver`
 6. Double-click the **FixWin 11.1.exe** file in the extracted folder for FixWin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Click **Additional Fixes** on the left of the FixWin window.
@@ -123,10 +127,6 @@ net start msiserver`
 9. Press the **Reset Software Distribution folder** button.  
 ![The Quick Fixes tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/quick-fixes-tab.jpg)
 10. Click the **Reset catroo2 Folder** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 11. Exit FixWin and reboot your PC after selecting those options.
 
@@ -146,19 +146,16 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/levate-your-video-productions-15-top-tier-free-music-websites/"><u>[New] Elevate Your Video Productions 15 Top-Tier Free Music Websites</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/capture-clarity-high-end-gyroscopic-tripod-gear-for-2024/"><u>Capture Clarity High-End Gyroscopic Tripod Gear for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/download-premium-video-creation-tool-for-mac-get-movavi-free/"><u>Download Premium Video Creation Tool for Mac - Get Movavi Free!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/find-the-ideal-speech-capture-tool-our-selection-of-top-12-voice-recording-programs/"><u>Find the Ideal Speech Capture Tool: Our Selection of Top 12 Voice Recording Programs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-transforming-aifc-audio-files-into-wav-format-with-movavi/"><u>Free Online Converter: Transforming AIFC Audio Files Into WAV Format with Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-raw-to-jpg-editor-quick-imaging-transformation-by-movavi/"><u>Free Online RAW to JPG Editor: Quick Imaging Transformation by Movavi</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-x8b-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-y78plus-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo Y78+ Phone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-top-techniques-for-stunning-android-time-lapse-captures/"><u>In 2024, Top Techniques for Stunning Android Time-Lapse Captures</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-fix-handling-not-found-avcodecdll-issues-efficiently/"><u>Mastering the Fix: Handling Not Found Avcodec.dll Issues Efficiently</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/migrar-tu-musica-de-m4a-a-aiff-facilmente-y-sin-costo-mediante-el-servicio-de-movavi-online/"><u>Migrar Tu Música De M4A a AIFF Fácilmente Y Sin Costo Mediante El Servicio De Movavi Online.</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-internal-hdds-the-ultimate-guide-to-the-best-picks/"><u>Top Rated Internal HDDs: The Ultimate Guide to the Best Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-gif-3gp/"><u>편리한 Movavi 도구: 온라인 무료 자동 GIF 3GP 변환기</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sound-of-skype-find-and-save-ringtones-easily/"><u>2024 Approved Sound of Skype Find and Save Ringtones Easily</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experts-choice-top-iphone-file-salvaging-applications-for-ios-17-best-options-to-restore-your-lost-data/"><u>Expert's Choice: Top iPhone File Salvaging Applications for iOS 17 - Best Options to Restore Your Lost Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/game-changing-fps-tools-selecting-the-best-counters-for-your-win-11-setup/"><u>Game-Changing FPS Tools: Selecting the Best Counters for Your Win 11 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-illusions-hiding-zip-contents-in-pictures/"><u>Mastering Windows 11 Illusions: Hiding Zip Contents in Pictures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-safe-disabling-of-windows-11-features/"><u>Navigating Safe Disabling of Windows 11 Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ransomware-on-phones-decoded-for-50-discover-secrets-with-chatgpts-insights-in-our-podcast-series/"><u>Ransomware on Phones Decoded for $50 - Discover Secrets with ChatGPT's Insights in Our Podcast Series</u></a></li>
+<li><a href="https://win11.techidaily.com/re-engaging-lost-lan-discovery-on-windows/"><u>Re-Engaging Lost LAN Discovery on Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/revolutionizing-content-creation-the-insight-into-vimeos-capabilities-for-2024/"><u>Revolutionizing Content Creation The Insight Into Vimeo's Capabilities for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-extracting-ipmac-using-ps-on-pcs/"><u>Step-by-Step Guide: Extracting IP/MAC Using PS on PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-xbox-gaming-headsets-comprehensive-reviews-and-testing-by-experts-zdnet/"><u>Top-Rated Xbox Gaming Headsets : Comprehensive Reviews and Testing by Experts - ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-to-overcome-wows-catastrophic-glitch-132/"><u>Unlocking Secrets to Overcome WoW's Catastrophic Glitch #132</u></a></li>
 </ul></div>
 

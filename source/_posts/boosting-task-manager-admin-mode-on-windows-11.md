@@ -1,7 +1,7 @@
 ---
 title: "Boosting Task Manager: Admin Mode on Windows 11"
-date: 2024-08-08T10:55:23.163Z
-updated: 2024-08-09T10:55:23.163Z
+date: 2025-01-28T11:27:50.010Z
+updated: 2025-01-31T18:44:10.950Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 
  However, in some cases, you may need elevated privileges to access some of the more advanced features and capabilities of Task Manager. In this article, you will find a detailed tutorial on how to run Task Manager as an administrator in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 1\. How to Open Task Manager as an Administrator Through Taskbar Search
 
  Taskbar search is an easy way to quickly launch programs, open documents, or search the web without having to manually type in commands. To use this tool, follow these steps:
@@ -32,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 ![Open Task Manager using Search tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-task-manager-using-search-tool.jpg)
 3. Click the**Run as administrator** option on the right side of the Start menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. How to Open Task Manager as an Administrator Through the Start Menu
 
  Another handy tool on your Windows computer is the Start menu. You can use it for many things, including running Task Manager as an administrator. This is how you do it:
@@ -54,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 3. This will launch Task Manager with administrative privileges.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Open Task Manager as an Administrator With Windows File Explorer
 
  If you're deeply buried in your file system, you don’t have to come out of it to launch Task Manager with administrative rights. In File Explorer, just use the address bar to do it. Here's how:
@@ -67,9 +62,13 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 4. Once you find the executable file, right-click on it and select**Run as administrator** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. How to Open Task Manager as an Administrator via Control Panel
 
  In Windows 11, you can also open Task Manager with administrator privileges from the Control Panel. It's one of the easiest and most straightforward ways to accomplish this. Here are the steps you need to take:
@@ -78,11 +77,12 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 2. Type control in the text box and press**Enter** or click**OK** .
 3. In the control panel, change the screen view to**Large icons** .
 4. Next, click on the**Windows Tools** option.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Task Manager Using Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-task-manager-using-start-menu.jpg)
 5. Then right-click on**Task Manager** and select**Run as administrator** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. How to Open Task Manager as an Administrator With a Desktop Shortcut
 
@@ -90,24 +90,19 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 
 1. Right-click on your desktop and select**New > Shortcut** .
 2. Then type the following path in the text box and click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Task Manager With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-task-manager-with-desktop-shortcut.jpg)  
 C:\WINDOWS\system32\taskmgr.exe
 3. Now you need to give your shortcut a name and click**Finish** .
 4. Your shortcut will appear on your desktop. Right-click on the shortcut and select**Properties** .
 5. Click**Advanced** on the Shortcut tab.
 6. Check the**Run as administrator** box and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![Creating shortcut to open Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/creating-shortcut-to-open-task-manager.jpg)
 7. Now double-click on the shortcut to open Task Manager with admin rights.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. How to Open Task Manager as an Administrator via Command Prompt or PowerShell
 
  If you prefer command-line methods, you can launch an elevated Task Manager from Command Prompt or PowerShell. Let me show you how to do it.
@@ -116,6 +111,10 @@ C:\WINDOWS\system32\taskmgr.exe
 2. In Command Prompt, type "taskmgr" and press**Enter** .
 
 The Task Manager will open with full administrator rights.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Pin Task Manager to the Taskbar
 
@@ -129,14 +128,11 @@ The Task Manager will open with full administrator rights.
 
  It's easy to run the Task Manager Panel, but some tasks may require elevated access. Here are seven ways to open Task Manager as an administrator. Let us know which one is more helpful to you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,6 +141,26 @@ The Task Manager will open with full administrator rights.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-securely-download-instagram-content-in-multiple-ways-for-2024/"><u>[New] How to Securely Download Instagram Content in Multiple Ways for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-monetizing-video-content-8-essentials-for-novices/"><u>[New] Monetizing Video Content - 8 Essentials for Novices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-achieving-depth-in-indoor-vlogging-lighting/"><u>[Updated] In 2024, Achieving Depth in Indoor Vlogging Lighting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expedited-files-scanning-on-windows-os/"><u>2024 Approved Expedited Files Scanning on Windows OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-music-auto-play-pause-tricks-mastering-offline-listening/"><u>Apple Music Auto-Play Pause Tricks - Mastering Offline Listening</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curb-windows-lag-when-using-an-additional-screen/"><u>Curb Windows Lag when Using an Additional Screen</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/decoding-network-types-a-comparison-of-wired-and-wireless-with-expert-insights-from-yl-computing/"><u>Decoding Network Types: A Comparison of Wired and Wireless with Expert Insights From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-into-advanced-net-config-on-win11/"><u>Easing Into Advanced Net Config on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-audio-device-segregation-in-windows/"><u>Exploring Audio Device Segregation in Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-90-litewithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor 90 Litewith/without a PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-repairing-windows-11s-filesystem/"><u>Mastering the Art of Repairing Windows 11'S Filesystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-mend-a-devices-daytime-display-issue/"><u>Methods to Mend A Device's Daytime Display Issue</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-common-browser-woes-fixing-hd-videos-for-2024/"><u>Navigating Common Browser Woes Fixing HD Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-signal-heres-how-to-install-and-use-win11/"><u>No Signal? Here's How to Install and Use Win11</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recovering-from-a-non-operational-spotify-application-in-windows/"><u>Recovering From a Non-Operational Spotify Application in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-dxgi-errordeviceremoved-windows/"><u>Resolving DXGI: ERROR_DEVICE_REMOVED Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-win11-external-drive-access/"><u>Streamlining Win11 External Drive Access</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Alternative Techniques to Initiate Software on a Windows Machine
-date: 2024-08-08T10:54:37.400Z
-updated: 2024-08-09T10:54:37.400Z
+date: 2025-01-26T18:05:45.802Z
+updated: 2025-01-31T20:55:50.370Z
 tags:
   - windows10
   - windows11
@@ -20,23 +20,18 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
  In this post, we'll walk you through all the different ways to open apps and programs on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Open Apps an Programs Using the Windows Search Menu
 
  One of the simplest ways to open programs in Windows is via the search menu. So, let’s start with that.
 
 1. Click the magnifying icon on the taskbar or use the**Win + S** keyboard shortcut to access the search menu.
 2. Type the name of the app or program you want to open in the text box and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Apps and Programs Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Open Apps and Programs Using Its EXE File
 
 ![Open Apps and Programs Using Desktop Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-desktop-shortcuts.jpg)
@@ -51,11 +46,11 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
  For instance, if you were to open Paint, you'd type**mspaint.exe** in the Run dialog box and press**Enter** . Similarly, to open Chrome, you can type**chrome.exe** in the Run dialog box.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Open Apps and Programs Using Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-run-dialog.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Open Programs via Task Manager
 
@@ -66,6 +61,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Enter the relevant command in the text field. For instance, if you were to open Microsoft Outlook, you'd type**outlook** in the text box.
 4. Click**OK** .  
 ![Open Apps and Programs Using Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-windows-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Open Apps and Programs via Command Prompt
 
@@ -78,8 +77,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Open Apps and Programs Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. How to Open Programs With Keyboard Shortcuts
 
  Don't want to use your mouse every time you want to launch an app? Why not assign a keyboard shortcut to it? This way, you can open your favorite app with a few keystrokes.
@@ -92,23 +92,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 4. Hit**Apply** followed by**OK** .  
 ![Open Apps and Programs Using Keyboard Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-keyboard-shortcuts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, you can quickly launch the app or program by pressing the assigned key combination.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The Many Ways to Open Apps and Programs on Windows
 
  As we just saw, accessing your apps and programs on Windows is easy no matter which method you use. Pick the one that makes the most sense to you and your workflow and have an easier time finding your programs on Windows.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,6 +115,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-cash-creation-hacks-for-snapchat-users-for-2024/"><u>[New] Cash Creation Hacks for Snapchat Users for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-to-preserve-your-gaming-moments-with-windows-10/"><u>[New] How to Preserve Your Gaming Moments with Windows 10</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-enhancing-profits-creating-compelling-video-trailers/"><u>[New] In 2024, Enhancing Profits Creating Compelling Video Trailers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-achieve-side-by-side-viewing-on-chrome-the-pip-method/"><u>[Updated] Achieve Side-by-Side Viewing on Chrome The PIP Method</u></a></li>
+<li><a href="https://win-latest.techidaily.com/best-audio-players-for-windows-how-to-stream-your-music-files-discover-top-picks-by-yl-computing/"><u>Best Audio Players for Windows: How to Stream Your Music Files - Discover Top Picks by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-techniques-for-lockingunlocking-fn-in-windows/"><u>Comprehensive Techniques for Locking/Unlocking Fn in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-updater-setback-code-80073712/"><u>Conquering Updater Setback: Code 80073712</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-pcs-vram-a-step-by-step-guide-for-windows-users/"><u>Elevate Your PC's VRAM - A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-dealing-with-windows-camera-malfunction-error-0xa00f4292-resolved/"><u>Expert Tips for Dealing with Windows Camera Malfunction - Error 0xA00F4292 Resolved</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-concept-to-completion-the-artisans-guide-to-gifs-for-2024/"><u>From Concept to Completion The Artisan's Guide to GIFs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-started-launching-outlook-preview-on-pcs/"><u>Getting Started: Launching Outlook Preview on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-device-connection-failed-on-windows-os/"><u>Resolving Device Connection Failed on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/show-bandwidth-metrics-at-system-uis-edge/"><u>Show Bandwidth Metrics at System UI's Edge</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-ranking-smart-devices-in-2er-2024-a-comprehensive-guide/"><u>Top-Ranking Smart Devices in 2Er 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-fixing-your-ps4-when-it-keeps-freezing-a-step-by-step-approach/"><u>Ultimate Guide: Fixing Your PS4 When It Keeps Freezing - A Step-by-Step Approach</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Avoid Slow Response Times After Adding an Additional Screen
-date: 2024-08-08T10:56:55.731Z
-updated: 2024-08-09T10:56:55.731Z
+date: 2025-01-26T00:32:23.150Z
+updated: 2025-02-01T04:40:14.447Z
 tags:
   - windows10
   - windows11
@@ -20,16 +20,14 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
  Below, we will explore several effective troubleshooting tips that can help resolve performance issues with your Windows laptop when it is connected to an external display.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Make Sure Your Laptop Is Compatible With the External Monitor
 
  One of the most common reasons why your Windows laptop may lag is if it lacks the minimum hardware requirements to support the monitor. This usually happens when your laptop's graphics card isn't powerful enough to handle the monitor's resolution. Try [lowering the resolution of the external monitor](https://www.makeuseof.com/windows-11-change-screen-resolution/) to see if that resolves the lag.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Change the Screen Refresh Rate
 
  A monitor's refresh rate is how many times per second the screen updates the image. If your laptop's graphics card or integrated graphics is not powerful enough to handle the monitor's higher refresh rate, it may have difficulty keeping up with the increased frame output, which can cause stuttering or tearing in the image.
@@ -41,15 +39,12 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 3. Click on **Display adapter properties for Display 1**.
 4. Switch to the **Monitor** tab and click the drop-down menu under **Screen refresh rate** to select **60 Hertz**.
 5. Hit **Apply** followed by **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![Change Monitor Refresh Rate on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-monitor-refresh-rate-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Hardware and Devices Troubleshooter
 
  Windows’ Hardware and Devices troubleshooter can help fix all kinds of issues with your external devices. It can scan your system for any irregularities and attempt to resolve them.
@@ -63,11 +58,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 5. Click **Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Allow the troubleshooter to detect any issues and fix them. After that, check if your Windows laptop still lags when connected to an external monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Close Unnecessary Apps and Programs
 
  It is likely that the performance issues you are experiencing are caused by the apps and programs running on your PC. You can try closing unwanted apps and programs to see if that solves the problem.
@@ -75,6 +75,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Press **Ctrl + Shift + Esc** to open the Task Manager. In the **Processes** tab, locate and select the program you don’t need and click the **End task** option at the top. Close all unwanted apps and programs and check if you still experience lag.
 
 ![Close Programs Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-programs-using-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Try Some Generic Fixes
 
@@ -84,16 +88,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * **Try a Clean Boot:**[Performing a clean boot](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) can help you determine if a third-party program or service is causing your Windows laptop to lag. If you do not experience any lag while in a clean boot state, you will need to uninstall any suspicious apps or programs to fix the problem.
 * **Install Windows Updates:** A buggy Windows build can also cause such anomalies. As a last resort, try [installing any pending Windows updates](https://www.makeuseof.com/update-windows-manually/) to see if they resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## No More Lag When Using an External Monitor With Your Windows Laptop
 
  As with most Windows problems, there’s no single fix that will work for everyone. That said, applying the above tips should resolve any issues that may have been causing your Windows laptop to lag or slow down when you connect an external monitor.
 
  Below, we will explore several effective troubleshooting tips that can help resolve performance issues with your Windows laptop when it is connected to an external display.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -101,4 +100,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-captivating-openings-top-free-intra-makers-list/"><u>[New] In 2024, Crafting Captivating Openings Top Free Intra Makers List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/3gppgif-movavi/"><u>免付費3GPP到GIF改編 - Movavi 這樣才能快速變換</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-winservicesexe-in-windows-environment/"><u>Dissecting Winservices.exe in Windows Environment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-ahead-of-its-time-with-the-google-pixel-8-blurring-lines-between-imagination-and-innovation/"><u>Experience Ahead of Its Time with the Google Pixel 8: Blurring Lines Between Imagination and Innovation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-syncing-images-pc-to-iphone-file-sharing/"><u>In 2024, Syncing Images PC-to-iPhone File Sharing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-three-easy-ways-to-harvest-youtubes-default-iconography/"><u>In 2024, Three Easy Ways to Harvest Youtube's Default Iconography</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-the-windows-update-problem-error-0x80246007/"><u>Rectifying the Windows Update Problem: Error 0X80246007</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-developer-unverified-hindrance-a-guide-to-overcoming-mac-errors/"><u>Resolving 'Developer Unverified' Hindrance: A Guide to Overcoming Mac Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-mcuicntexe-non-execution-error-in-microsoft-windows/"><u>Solving McUICnt.exe Non-Execution Error in Microsoft Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-windows-self-replacing-updated-amd-graphics/"><u>Streamline Windows: Self-Replacing, Updated AMD Graphics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-taskbar-quick-navigation-via-system-tray-keys/"><u>Taming the Taskbar: Quick Navigation via System Tray Keys</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-selection-leading-law-enforcement-bodycams/"><u>The Ultimate Selection: Leading Law Enforcement Bodycams</u></a></li>
+</ul></div>
 

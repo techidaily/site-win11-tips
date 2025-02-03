@@ -1,7 +1,7 @@
 ---
 title: "Windows 10: Alternative Approaches to Open Your Apps"
-date: 2025-01-15T17:52:12.502Z
-updated: 2025-01-18T18:30:32.439Z
+date: 2025-01-29T18:13:40.205Z
+updated: 2025-01-31T20:57:32.857Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![Open Apps and Programs Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Apps and Programs Using Its EXE File
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![Open Apps and Programs Using Desktop Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-desktop-shortcuts.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you install an app or program on Windows, it often adds a shortcut to the EXE file on your desktop. This allows you to launch the app or program by double-clicking the shortcut.
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![Open Apps and Programs Using Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-run-dialog.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Open Programs via Task Manager
@@ -71,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 4. Click**OK** .  
 ![Open Apps and Programs Using Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-windows-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Open Apps and Programs via Command Prompt
 
  Command Prompt is a handy utility in Windows that allows you to automate tasks, troubleshoot[system files](https://www.makeuseof.com/windows-system-files-guide/) , and perform other administrative functions. But did you know you could also use it to launch apps on Windows? We'll show you how.
@@ -86,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![Open Apps and Programs Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. How to Open Programs With Keyboard Shortcuts
@@ -100,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 3. Click the**Shortcut key** field and press the key combination you want to assign.
 4. Hit**Apply** followed by**OK** .  
 ![Open Apps and Programs Using Keyboard Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-keyboard-shortcuts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, you can quickly launch the app or program by pressing the assigned key combination.
 
@@ -122,18 +122,20 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-optimal-techniques-for-capturing-ppt-sessions/"><u>[Updated] Optimal Techniques for Capturing PPT Sessions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-winning-artistry-expedited-execution-of-edits-on-photos-in-windows-10-for-2024/"><u>[Updated] Winning Artistry Expedited Execution of Edits on Photos in Windows 10 for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726222411252-ape-movavi/"><u>無料APEファイル変換ツールで高品質音楽を再生 - Movavi動的オンラインビデオコンバート</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-android-apps-for-free-photo-editing-in-may-2024-discover-the-top-picks/"><u>Best Android Apps for Free Photo Editing in May 2024: Discover the Top Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-gratuite-de-fichiers-3gp-vers-format-swf-avec-movavi/"><u>Conversion Gratuite De Fichiers 3GP Vers Format SWF Avec Movavi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convert-flv-files-to-high-quality-flac-format-for-free-with-movavis-web-service/"><u>Convert FLV Files to High-Quality FLAC Format for Free with Movavi's Web Service</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/descargar-e-instalar-conversor-de-audio-libre-y-sin-costo-wav-a-mp4-con-movavi/"><u>Descargar E Instalar Conversor De Audio Libre Y Sin Costo: WAV a MP4 Con Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuiti-convertitore-live-streaming-mxf-softonic/"><u>Gratuiti Convertitore Live Streaming MXF - Softonic</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-y27s-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo Y27s</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-y55s-5g-2023-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo Y55s 5G (2023) Phone Screen?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-honor-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Honor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-avi-in-mp4-gratuitamente-online-usando-movavi-metodo-facile-e-veloce/"><u>Trasforma I Tuoi AVI in MP4 Gratuitamente Online Usando Movavi - Metodo Facile E Veloce</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-happens-to-unused-ps-plus-titles/"><u>What Happens to Unused PS Plus Titles?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-understanding-youtubers-income-average-ad-revenues-per-play/"><u>[New] Understanding Youtuber's Income Average Ad Revenues per Play?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-explore-top-12-gear-best-on-the-go-flip-screen-cameras/"><u>[Updated] In 2024, Explore Top 12 Gear Best On-the-Go Flip-Screen Cameras</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/dable-methods-for-video-and-text-synergy/"><u>Affordable Methods for Video and Text Synergy</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-vivobook-pro-15-the-ultrabook-that-trades-off-screen-size-for-superior-specifications/"><u>Asus Vivobook Pro 15 - The Ultrabook That Trades Off Screen Size for Superior Specifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-mc-lan-troubles-7-fixes-for-windows-users/"><u>Decoding MC LAN Troubles: 7 Fixes for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-desktop-space-display-gmail-on-pc-taskbar/"><u>Enhancing Desktop Space: Display Gmail on PC Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-cleanup-indispensable-windows-programs-for-removal/"><u>Essential Cleanup: Indispensable Windows Programs for Removal</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-streamline-your-media-files-8-pro-convertors-sub-to-srt-style/"><u>In 2024, Streamline Your Media Files 8 Pro Convertors, Sub to Srt Style</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-itel-p55plus-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Itel P55+ for Streaming | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-7-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 7 Properly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowering-cpu-load-wmi-worker-fixes/"><u>Lowering Cpu Load: WMI Worker Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/post-cortana-era-brings-4-enhanced-windows-features/"><u>Post-Cortana Era Brings 4 Enhanced Windows Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-enigma-wsl-error-4294967295-on-windows-pcs/"><u>Resolving the Enigma: WSL Error 4294967295 on Windows PCs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-ultimate-desk-mats-the-most-comfortable-and-ergonomic-choices/"><u>Top-Rated Ultimate Desk Mats: The Most Comfortable & Ergonomic Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/untethered-accessibility-windows-edition-of-onedrive/"><u>Untethered Accessibility: Windows Edition of OneDrive</u></a></li>
 </ul></div>
 

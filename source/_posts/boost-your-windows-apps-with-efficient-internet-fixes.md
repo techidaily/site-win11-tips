@@ -1,7 +1,7 @@
 ---
 title: Boost Your Windows Apps with Efficient Internet Fixes
-date: 2024-08-08T10:57:28.130Z
-updated: 2024-08-09T10:57:28.130Z
+date: 2025-01-26T22:04:39.465Z
+updated: 2025-02-01T12:54:28.105Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 
  Here are a few effective solutions to try if apps on Windows are unable to connect to the internet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disable Windows Defender Firewall
 
  Windows Defender Firewall keeps track of all apps and programs that connect to the internet. As a precautionary measure, it may occasionally block an app's internet access and display the “Windows Defender Firewall has blocked some features of this app” security alert. This is one of the most common reasons why an app may fail to connect to the internet on Windows.
@@ -35,24 +39,16 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 7. Click**OK** to save the changes.  
 ![Turn Off Windows Defender Firewall on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Windows-Defender-Firewall-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check to see if your apps can connect to the internet now. If this solves your problem, you may have to allow your apps through Windows Firewall. If you need help, check our guide on [how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) and follow the steps outlined there.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Disable Your Antivirus Program
 
  As with the firewall, your antivirus can also cause connection issues. To rule out this possibility, you should disable your antivirus program temporarily. Simply right-click on the antivirus program's taskbar icon and select**Disable > Disable until the next restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 3\. Run Windows Troubleshooters
 
  Windows 10 and 11 include a few troubleshooters that can automatically detect and resolve common system-level issues. Running the Windows Store Apps troubleshooter should resolve any issues with your apps and restore their ability to connect to the internet.
@@ -64,6 +60,10 @@ To run Windows Store Apps troubleshooter:
 3. Select**Other troubleshooters** .
 4. Click the**Run** button next to**Windows Store Apps** and follow the on-screen prompts to run the troubleshooter.  
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, run the**Internet Connections** troubleshooter from the same menu. It will diagnose your system for any internet-related issues and try to solve them. Following this, apps on your PC should connect to the internet.
 
@@ -88,9 +88,6 @@ To run Windows Store Apps troubleshooter:
 3. Select the**Network & internet** tab from the left pane.
 4. Click on**Proxy** .
 5. Disable the**Automatically detect settings** option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![Disable Automatic Proxy Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Automatic-Proxy-Settings-on-Windows.jpg)
 
 ## 6\. Reset Winsock Settings
@@ -117,17 +114,14 @@ To reset network settings on Windows:
 4. Under the More settings section, select**Network reset** .
 5. Click the**Reset now** button.
 6. Select**Yes** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reset Network Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Reset-Network-Settings-on-Windows.jpg)
 
  After the reset is complete, your PC will restart. Following that, your issue will be resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Troubleshoot the Issue With a Clean Boot
 
  At times, third-party programs and services running on your PC can disrupt Windows processes and lead to such problems. To check for this possibility, you need to boot your PC in a clean boot start.
@@ -137,22 +131,20 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  If you'd like to learn more about the topic, check out our guide on [how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there. If you perform a clean boot and the issue goes away, it means that one of the disabled services is the culprit. Now you can slowly re-activate the services until the problem reappears, and voila: you know what's causing the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Your Window Apps Back Online
 
  You now have a good idea of what to do when apps on Windows cannot connect to the internet. One of the solutions listed above should help resolve any underlying issues and bring your apps back online.
 
  Now that your apps are connected to the internet, you may want to limit how much data your Windows PC consumes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,6 +153,20 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-fixed-frame-to-fluid-motion-live-photo-transformation/"><u>[New] From Fixed Frame to Fluid Motion Live Photo Transformation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-foremost-video-starters-the-leading-16-youtube-openers-for-2024/"><u>[Updated] Foremost Video Starters The Leading 16 YouTube Openers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-all-encompassing-virtual-horizon-review/"><u>[Updated] In 2024, All-Encompassing Virtual Horizon Review</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-panopticon-perspective-analysis-for-2024/"><u>[Updated] Panopticon Perspective Analysis for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-mastering-podcast-title-craft-the-essential-handbook/"><u>2024 Approved Mastering Podcast Title Craft The Essential Handbook</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-amazon-insignia-ns-43df710na19-fire-tv-stick-a-detailed-review-with-alexa-and-ultra-hd-features/"><u>Affordable Amazon Insignia NS-43DF710NA19 Fire TV Stick: A Detailed Review with Alexa & Ultra HD Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exposing-windows-11s-elusive-system-tray/"><u>Exposing Windows 11'S Elusive System Tray</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-inactivity-timer/"><u>Mastering Windows Inactivity Timer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-winerror-exit-issues/"><u>Navigating Through WinError Exit Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-dealing-with-memory-writing-errors-on-win/"><u>Strategies for Dealing with Memory Writing Errors on Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-windows-mastering-mass-zip-archive-decompression/"><u>Streamline Windows: Mastering Mass ZIP Archive Decompression</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-undercover-apps-in-microsofts-marketplace/"><u>Unveiling Undercover Apps in Microsoft's Marketplace</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/24/"><u>ใหญ่ความอ้วน ฮีโรฟ레스 2.4: อย่างไรและทำได้สิบเหลี่미</u></a></li>
+</ul></div>
 

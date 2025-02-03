@@ -1,7 +1,7 @@
 ---
 title: Altering Icon Sizes in Windows Interface
-date: 2024-08-16T01:08:59.797Z
-updated: 2024-08-17T01:08:59.797Z
+date: 2025-01-31T04:30:00.495Z
+updated: 2025-02-01T04:38:25.491Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 
  Have you ever had trouble identifying your images in Windows because their thumbnail size was too small? If so, you've come to the right place. In this article, we'll share two efficient ways to change the image thumbnail size, allowing you to easily organize and locate your files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Change Image Thumbnail Size Using the File Explorer
 
  Whether you need to perform simple tasks like viewing images or more complex operations like managing [Folder options](https://www.makeuseof.com/windows-folder-options-guide/), the Windows File Explorer has you covered. And if you want to adjust image thumbnail sizes to your liking, you can do that too using File Explorer.
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 ![View option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Change the Image Thumbnail Size Using the Registry Editor
 
  The Registry Editor is a crucial Windows utility that allows you to configure various system settings. However, it's important to note that editing the registry can be risky, as one mistake could cause your system to become unstable. Therefore, it's essential to [back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) and [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding with any changes.
@@ -44,34 +49,27 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 `Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer`
 3. Right-click the blank space in the right pane, hover the cursor to **New**, and select **DWORD (32-bit) Value**.  
 ![DWORD (32-bit) Value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dword-32-bit-value-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 4. Name the value **ThumbnailSize**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Double-click on ThumbnailSize, and enter the value between **32** and **256**. The higher the number, the larger the image thumbnail.  
 ![Value data in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/value-data-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 6. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything Is Large and Clear on Windows
 
  Thumbnails are small representations of the original image, allowing you to identify and organize your images easily. However, if the image thumbnail size is too small, identifying and organizing your images can be challenging. Fortunately, the above methods can help you change the image thumbnail size according to your preference, making it easier to manage your files.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -79,4 +77,19 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-audio-manipulation-in-canva-videos/"><u>2024 Approved Mastering Audio Manipulation in Canva Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conquering-first-day-jitters-expert-tips-for-beating-workplace-worry-insights-from-zdnet/"><u>Conquering First-Day Jitters: Expert Tips for Beating Workplace Worry - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/liberated-communication-windows-utilizing-freedomgpt/"><u>Liberated Communication Windows: Utilizing FreedomGPT</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-pro-ultimate-2023-template-collection-free-for-2024/"><u>Premier Pro Ultimate 2023 Template Collection (FREE) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-disabled-secure-boot-feature-in-windows-bios/"><u>Reinvigorating Disabled Secure Boot Feature in Windows BIOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steady-handling-of-frozen-windows-pin-issues/"><u>Steady Handling of Frozen Windows Pin Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-playing-dvd-content-on-a-samsung-smart-tv-without-hassle/"><u>Step-by-Step Tutorial: Playing DVD Content on a Samsung Smart TV Without Hassle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stopping-windows-operation-fails-with-error-0x0000011b/"><u>Stopping Windows' Operation Fails with Error 0X0000011B</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-verdict-on-blade-e-flite-mcx2-ready-to-fly-rc-helicopter-why-its-a-cut-above-the-rest/"><u>The Definitive Verdict on Blade E-Flite mCX2 Ready-To-Fly RC Helicopter - Why It's a Cut Above the Rest</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-robloxs-restrictive-error-403-on-pc/"><u>Unraveling Roblox's Restrictive Error 403 on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-workflow-wizardry-shutting-down-numerous-programs/"><u>Windows Workflow Wizardry: Shutting Down Numerous Programs</u></a></li>
+</ul></div>
 

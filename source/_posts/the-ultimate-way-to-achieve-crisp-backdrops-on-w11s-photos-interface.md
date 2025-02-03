@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Way to Achieve Crisp Backdrops on W11's Photos Interface
-date: 2025-01-18T23:35:31.563Z
-updated: 2025-01-24T17:34:53.535Z
+date: 2025-01-28T00:03:26.706Z
+updated: 2025-02-01T13:00:19.386Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Background Blur Feature in the Photos App?
@@ -49,19 +49,23 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 3. Go to the top bar and click on the **Edit image** icon. Alternatively, you can press the **Ctrl + E** to open the Edit window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click on the **Background Blur** option. The feature will try to identify the background in the image and then apply the blur effect to that area. It can take a few seconds to do so.  
 ![Selecting the background blur feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/selecting-the-background-blur-feature.jpg)
 5. If you are not satisfied with the blur effect, go to the **Blur intensity** option in the right-hand side section. Adjust the slider to increase or decrease the blur effect on the selected background area.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. To blur more parts of the image, click on the toggle next to the **Selection brush** tool. By default, it is set to **Select area**.  
 ![Automatic blur effect in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/automatic-blur-effect-in-photos-app.jpg)
 2. Click and drag the mouse on the area to select it for applying the blur effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Use the adjustment sliders to tweak the brush size and softness of the blur as per your preference.
@@ -69,17 +73,9 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![Deselecting area in background blur effect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/deselecting-area-in-background-blur-effect.jpg)
 5. Then click and drag the brush on the area of the image to deselect it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. After making all the changes, click on the **Apply** button to finalize the blur effect.
 7. Now, click on the **Save a copy** button.
 8. Type a name and click on the **Save** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the Photos Background Blur Feature Any Good?
 
@@ -90,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
  However, the feature focuses on blurring the background and not just any part of the image. You can deselect the area, but what if you only want to blur a tiny area that contains a personal detail and not blur the background? In that case, the background blur effect isn’t of much help. It is very difficult to deselect the identified background area.
 
  You cannot use the tool to only blur a portion of the image and will first have to apply the background blur effect. So, it is effective for background blurring and not precision blurring a small portion of an image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easily Blur the Backgrounds in Your Photos
 
@@ -107,24 +107,20 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-transition-trails-your-pathway-to-macos-11-big-sur/"><u>[New] In 2024, Transition Trails Your Pathway to macOS 11 Big Sur</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-making-a-mark-with-square-video-formats-using-imovie-and-instagram/"><u>[Updated] In 2024, Making a Mark with Square Video Formats Using iMovie and Instagram</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-m4r-mp4/"><u>網上完美變更音頻格式：使用 Movavi 自由地從 M4R 轉換到MP4 - 免費選項</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-speed-and-latency-monitors/"><u>Effective Speed and Latency Monitors</u></a></li>
-<li><a href="https://common-error.techidaily.com/effectively-reducing-msmpengexes-impact-on-your-computers-processor-windows-10-solutions/"><u>Effectively Reducing MsMpEng.exe’s Impact on Your Computer's Processor - Windows 10 Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-youtube-experience-with-chrome-tweaks/"><u>Enhance Your YouTube Experience with Chrome Tweaks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-optimal-performance-free-dell-wireless-network-drivers-compatible-with-windows-groovy-7/"><u>Get Optimal Performance: Free Dell Wireless Network Drivers Compatible with Windows Groovy 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-check-the-stability-of-your-internet-connection-on-windows/"><u>How to Check the Stability of Your Internet Connection on Windows</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-premier-hashtags-monitoring-on-facebook-twitter-and-instagram/"><u>In 2024, Premier Hashtags Monitoring on Facebook, Twitter & Instagram</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-stepwise-approach-to-exceptional-gopro-footage/"><u>In 2024, Stepwise Approach to Exceptional GoPro Footage</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/innovation-unleashed-leading-professionals-360cameras/"><u>Innovation Unleashed Leading Professionals’ 360°Cameras</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-cursor-customization-in-windows-os/"><u>Mastering Cursor Customization in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-security-maze-windows-file-password-hacks/"><u>Navigating the Security Maze: Windows File Password Hacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-stumbling-blocks-for-anydesk-on-win11/"><u>Overcoming Stumbling Blocks for AnyDesk on Win11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/powerful-performance-meets-few-limitations-a-closer-look-at-viairs-88p-portable-compressor-review/"><u>Powerful Performance Meets Few Limitations: A Closer Look at Viair's 88P Portable Compressor Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-recover-windows-alt-code-errors-53-characters/"><u>Steps to Recover Windows ALT Code Errors (53 Characters)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-immediately-restart-the-explorer-ui/"><u>Strategies to Immediately Restart the Explorer UI</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-app-store-picks-apples-favorites-unveiled-by-zdnet/"><u>Top App Store Picks : Apple's Favorites Unveiled by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-stop-ea-server-connections-problem/"><u>Troubleshooting Windows: Stop EA Server Connections Problem</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-understanding-av1-your-initial-compre-point/"><u>[New] 2024 Approved Understanding AV1 Your Initial Compre Point</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-xsplit-exclusive-direct-split-insight/"><u>[New] 2024 Approved XSplit Exclusive Direct Split Insight</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-use-luts-in-premiere-pro/"><u>2024 Approved How To Use LUTs In Premiere Pro</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-success-optimizing-your-website/"><u>Cookiebot-Driven Success: Optimizing Your Website</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-essay-artistry-on-a-win-pc/"><u>Elevate Your Essay Artistry on a Win-PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719579183296-germans-premier-learning-portal-mondly-emerges-victorious/"><u>German's Premier Learning Portal - Mondly Emerges Victorious!</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-microsofts-growing-paranoia-impacts-us-all-a-deep-dive-on-zdnet/"><u>How Microsoft's Growing Paranoia Impacts Us All - A Deep Dive on ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-virtual-swordplay-showdown-find-your-match-in-these-games/"><u>In 2024, Virtual Swordplay Showdown Find Your Match in These Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-to-modify-display-settings/"><u>Method to Modify Display Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-pin-authenticate-error-on-windows-1110-devices/"><u>Quick Fix for Pin Authenticate Error on Windows 11/10 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-custom-settings-with-new-view-restores/"><u>Reclaiming Custom Settings with New View Restores</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-poco-c65-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Poco C65 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quickest-way-to-a-speedy-windows-11-start-up/"><u>The Quickest Way to a Speedy Windows 11 Start-Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unison-to-win-mastering-phone-calls-on-windows-11-for-retailers/"><u>Unison to Win: Mastering Phone Calls on Windows 11 for Retailers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-addressing-error-code-c0000005-in-windows/"><u>Unraveling and Addressing Error Code C0000005 in Windows</u></a></li>
 </ul></div>
 

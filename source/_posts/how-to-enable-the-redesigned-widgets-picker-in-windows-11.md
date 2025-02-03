@@ -1,7 +1,7 @@
 ---
 title: How to Enable the Redesigned Widgets Picker in Windows 11
-date: 2025-01-22T23:42:31.731Z
-updated: 2025-01-25T00:47:58.855Z
+date: 2025-01-29T18:09:29.264Z
+updated: 2025-02-01T01:43:42.947Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Redesigned Widgets Picker in Windows 11?
@@ -34,16 +34,12 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 ![Screenshot showing Windows 11 Widgets preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/widgets-preview-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Redesigned Widgets picker shows you a preview of what a widget will look like in the Widgets board before you pin it. Third-party widgets are also supported, meaning you can preview app widgets like Facebook and Spotify before pinning them.
 
  Additionally, the updated Widgets picker also includes a link that will take you to the Microsoft Store Widgets page, where all the supported ones are listed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is ViveTool And Why Do You Need It?
 
@@ -53,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
  For convenience, set up ViveTool and its extracted contents in the **C:/ViVeTool** folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable the Redesigned Widgets Picker Using ViveTool
 
 ![Screenshot of ViveTool in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/command-prompt-enabling-new-widgets.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you are done setting up ViveTool on your PC, you are only a few steps away from enabling the specific feature ID for the redesigned Widgets picker. Here are the steps to turn on the feature ID for the new Widgets picker to surface:
 
@@ -74,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  The ability to preview a widget before adding it to the Widgets board will not require ViveTool to be enabled when Microsoft makes it available for everyone. When it is rolled out to every Windows 11 user, you should get a preview whenever you pin a widget to the board.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will the New Widgets Preview Experience Be Available for Other Insider Channels?
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  The new Widgets picker was introduced to the Dev and Canary Channel, and it has a good chance of debuting in Beta builds and then eventually to the users running stable Windows 11\.
 
  However, things can go wrong, and Microsoft can scrap the feature before releasing it to other channels.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Redesigned Widgets Picker in Windows 11, Enabled
 
@@ -101,15 +101,17 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/fficient-ways-to-delete-previewed-content-from-youtubes-queue/"><u>[New] Efficient Ways to Delete Previewed Content From YouTube's Queue</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-ultimate-guide-to-maximum-fitness-mac-recordings-for-snapchat/"><u>2024 Approved Ultimate Guide to Maximum Fitness Mac Recordings for Snapchat</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-opinion-on-anthropicss-smart-photo-editor-performance-usability-and-more-reviewed/"><u>Expert Opinion on Anthropics's Smart Photo Editor - Performance, Usability, and More Reviewed</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/fiery-friendship-keeping-your-snapstreak-hot-and-steady-for-2024/"><u>Fiery Friendship Keeping Your Snapstreak Hot and Steady for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-navigate-past-an-infinite-windows-update-countdown/"><u>How to Navigate Past an Infinite Windows Update Countdown</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-windows-10-tools-for-exquisite-video-editing/"><u>In 2024, Harnessing Windows 10 Tools for Exquisite Video Editing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-redmi-12-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Redmi 12 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/joining-forces-connecting-wp-plus-android-via-samsung-flow/"><u>Joining Forces: Connecting WP + Android via Samsung Flow</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-generic-audio-device-unsupported-in-windows/"><u>Solutions for Generic Audio Device Unsupported in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-approach-to-windows-11-amd-graphics-driver-upgrades/"><u>Stepwise Approach to Windows 11 AMD Graphics Driver Upgrades</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-10-farming-games-to-kill-time-and-play-with-friends/"><u>[New] In 2024, Top 10 Farming Games to Kill Time and Play with Friends</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unlocking-the-door-to-joining-a-tiktok-gathering-for-2024/"><u>[New] Unlocking the Door to Joining a TikTok Gathering for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-ethernet-mastering-4-tactics-to-test-your-lan-speed-on-pc/"><u>Efficient Ethernet: Mastering 4 Tactics to Test Your LAN Speed on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-productivity-cascading-open-windows-win11-and-10/"><u>Enhancing Productivity: Cascading Open Windows (Win11 & 10)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-for-reading-excel-data-in-notepad/"><u>Fixes for Reading Excel Data in Notepad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratis-online-mkv-to-wav-converter-easy-and-fast-by-movavi/"><u>Gratis Online MKV to WAV Converter - Easy and Fast by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-install-and-configure-the-microsoft-pc-manager-on-windows-11/"><u>How to Install and Configure the Microsoft PC Manager on Windows 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-trust-the-right-sources-for-safe-and-effective-view-count-increase/"><u>In 2024, Trust the Right Sources for Safe and Effective View Count Increase</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-tutorial-for-professional-gopro-cinematography/"><u>In 2024, Ultimate Tutorial for Professional GoPro Cinematography</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-package-management-on-windows-11-like-a-pro/"><u>Navigating Package Management on Windows 11 Like a Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-amd-fire-series-preserving-fl1-architecture-within-new-zen-5-processors-and-its-impact-on-future-laptops-featuring-rtx-graphics/"><u>The AMD Fire Series: Preserving FL1 Architecture Within New Zen 5 Processors and Its Impact on Future Laptops Featuring RTX Graphics</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
 

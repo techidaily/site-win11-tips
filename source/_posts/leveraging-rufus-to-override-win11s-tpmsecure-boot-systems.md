@@ -1,7 +1,7 @@
 ---
 title: Leveraging Rufus to Override Win11's TPM/Secure Boot Systems
-date: 2025-01-22T00:27:15.482Z
-updated: 2025-01-24T16:46:43.540Z
+date: 2025-01-26T04:17:57.566Z
+updated: 2025-01-31T17:49:31.764Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Is Rufus the Tool for the Job?
 
@@ -57,14 +53,18 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 4. Click on the **OK** button. Rufus will generate a warning about deleting all data on the USB drive.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Create a Bootable USB Drive Using Rufus 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/create-a-bootable-usb-drive-using-rufus-3.jpg)
 5. Lastly, click on the **OK** button and wait for Rufus to create the bootable Windows 11 USB drive. Eject the drive after you see a “**Ready**” message.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install the Modified Windows 11 on Your System
@@ -77,12 +77,12 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 ![Install the Modified Windows 11 on Your System](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system.jpg)
 4. Click on the **I don’t have the product key** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Install the Modified Windows 11 on Your System 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-2.jpg)
 5. Select the version of Windows 11 you want to install (Home, Pro, Enterprise, or Education) and click on **Next**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Install the Modified Windows 11 on Your System 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-3.jpg)
 
@@ -96,11 +96,11 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 ![Install the Modified Windows 11 on Your System 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-5.jpg)
 6. Windows will prepare your system for the first boot. After a short while you will boot to the desktop.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows 11 up and running on an unsupported system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-up-and-running-on-an-unsupported-system.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Benefits of Using Rufus to Create a Custom Windows 11 Installation Media
 
@@ -128,21 +128,24 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhance-youtubes-conversations-with-emojis/"><u>[Updated] 2024 Approved Enhance Youtubes' Conversations with Emojis</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-chromatic-coherence-helper/"><u>[Updated] Chromatic Coherence Helper</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-mastering-facebook-call-recording-a-step-by-step-guide-for-2024/"><u>[Updated] Mastering Facebook Call Recording A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-mastery-how-to-design-your-vr-alter-egos-efficiently/"><u>2024 Approved Step-by-Step Mastery How to Design Your VR Alter Egos Efficiently</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/end-non-responsive-scrolls-in-microsoft-excel-2019/"><u>End Non-Responsive Scrolls in Microsoft Excel 2019</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/horizon-harmony-best-online-spots-for-high-res-sky-views/"><u>Horizon Harmony Best Online Spots for High-Res Sky Views</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-k11-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-infinix-hot-40-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Infinix Hot 40 Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-linux-within-the-windows-domain/"><u>Leveraging Linux Within the Windows Domain</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-mouse-and-keyboard-pace-on-windows-1011-7-tips/"><u>Mastering Mouse and Keyboard Pace on Windows 10/11 (#7 Tips)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-ppt-saving-issues-top-6-tricks-in-windows-11/"><u>Mastering PPT Saving Issues: Top 6 Tricks in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-failed-startup-of-display-driver-on-windows-11/"><u>Tackling Failed Startup of Display Driver on Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-iphone-face-id-issues-with-these-14-effective-solutions/"><u>Troubleshoot iPhone Face ID Issues with These 14 Effective Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-successful-onedrive-cloud-operations/"><u>Unlocking Successful OneDrive Cloud Operations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-back-control-fixing-steam-disk-write-errors/"><u>Winning Back Control: Fixing Steam Disk Write Errors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dive-into-the-world-of-interactive-video-features-on-youtube/"><u>[Updated] 2024 Approved Dive Into the World of Interactive Video Features on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-art-of-picsart-complete-guide-2024/"><u>[Updated] Mastering the Art of PicsArt (Complete Guide 2024)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-clearing-installer-errors-in-win11/"><u>Comprehensive Guide to Clearing Installer Errors in Win11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-6-plus-by-name-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 6 Plus by Name | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-deciphering-the-secrets-of-gopro-hero5-captures/"><u>In 2024, Deciphering the Secrets of GoPro Hero5 Captures</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-t2-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo T2 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-online-video-arena-showdown-who-wins-vimeo-or-giants-like-youtubeplusdailymotion/"><u>In 2024, Online Video Arena Showdown Who Wins – Vimeo or Giants Like YouTube+DailyMotion?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/liberating-windows-files-with-powershell-expertise/"><u>Liberating Windows Files with PowerShell Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-file-sharing-between-android-and-windows/"><u>Navigating File Sharing Between Android and Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-roads-safely-with-the-cutting-edge-escort-ix-a-comprehensive-review/"><u>Navigating the Roads Safely with the Cutting-Edge Escort iX - A Comprehensive Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-opengl-error-code-3/"><u>Overcoming Windows 11'S OpenGL Error Code 3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-photo-errors-for-better-capture/"><u>Overcoming Windows Photo Errors for Better Capture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rediscover-retro-fun-gaming-in-dosbox-x/"><u>Rediscover Retro Fun: Gaming in DOSBox-X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-hidden-panes-6-strategies-for-screen-off-windows/"><u>Reviving Hidden Panes: 6 Strategies for Screen-Off Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-windows-character-map-not-working/"><u>Steps to Rectify Windows' Character Map Not Working</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-spotlight-image-at-any-time-in-windows-os/"><u>Tailor Your Spotlight Image at Any Time in Windows OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-on-latest-gadgets/"><u>Tom's Tech Review: Comprehensive Insights on Latest Gadgets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-affordable-beats-a-step-by-step-guide-to-snagging-a-student-discount-on-apple-music-tech-insights/"><u>Unlocking Affordable Beats: A Step-by-Step Guide to Snagging a Student Discount on Apple Music | Tech Insights</u></a></li>
 </ul></div>
 

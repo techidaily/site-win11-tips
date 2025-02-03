@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Windows Shortcuts for UWP Apps
-date: 2025-01-11T16:06:07.629Z
-updated: 2025-01-18T16:45:16.062Z
+date: 2025-01-30T02:19:49.893Z
+updated: 2025-02-01T05:30:13.157Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Drag and Drop UWP Apps From the Start Menu Onto the Desktop
 
  A simple way to create shortcuts for UWP apps is to drag and drop them from the Start menu onto the desktop. To do that, open the Start menu and click**All apps** . Then click a UWP app on the menu, hold the left mouse button, and drag its icon onto the desktop. Release the left mouse button when you see a**Link** box to add the desktop shortcut.
@@ -36,7 +32,11 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 ![The Link box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-link-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Create Desktop Shortcuts for UWP Apps From the Applications Folder
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 ![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Create Desktop Shortcuts for Pre-Installed UWP Apps With the Create Shortcut Wizard
@@ -66,9 +66,17 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 ![The ms-clock: URI in the Create Shortcut window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/create-shortcut-window.jpg)
 4. Click**Next** to proceed to the final step of the wizard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Enter the app’s name in the text box.
 6. Press**Finish** to create your UWP app shortcut.  
 ![The Alarms and Clocks desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/alarms-and-clocks-desktop-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This method will add a URL (web document) shortcut for opening the app to the desktop. These are some of the URIs with which you can create UWP desktop shortcuts:
 
@@ -98,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 
 ![The Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pin-to-taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note that you can’t pin web document desktop shortcuts to the taskbar. The context menus for desktop shortcuts created with URI commands don’t include the**Pin to taskbar** option.
 
 ## 5\. Assign Hotkeys to UWP App Desktop Shortcuts
@@ -113,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 3. Press a key to set up a**Ctrl** +**Alt** keyboard shortcut.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/shortcut-key-box.jpg)
 4. Select**Apply** \>**OK** to save the hotkey for the desktop shortcut.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Create Shortcuts for All Your Favorite UWP Apps
 
@@ -137,18 +137,24 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-elevating-your-contents-exposure-with-ongoing-creative-commons-usage-for-2024/"><u>[New] Elevating Your Content's Exposure with Ongoing Creative Commons Usage for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-tailoring-your-playstation-experience-with-sounds/"><u>[New] Tailoring Your PlayStation Experience with Sounds</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-advanced-approach-harnessing-watch-for-mac-unlock/"><u>[Updated] Advanced Approach Harnessing Watch for Mac Unlock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/compressao-de-videos-para-e-mailes-melhores-truques-e-dicas-por-expertos/"><u>Compressão De Vídeos Para E-Mailes: Melhores Truques E Dicas Por Expertos!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/descargar-el-avi-player-para-windows-10-sin-costo-guia-completa-de-instalacion-y-uso/"><u>Descargar El AVI Player Para Windows 10 Sin Costo: Guía Completa De Instalación Y Uso</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-resolving-window-10-screen-vibrating-problems/"><u>Guide: Resolving Window 10 Screen Vibrating Problems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-f54-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy F54 5G Without Password?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Motorola Defy 2? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-six-ingenious-quizzes-to-pinpoint-your-perfect-youtube-persona/"><u>In 2024, Six Ingenious Quizzes to Pinpoint Your Perfect YouTube Persona</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instantly-convert-mov-to-mkv-for-free-using-the-movavi-media-converter/"><u>Instantly Convert MOV to MKV for Free Using the Movavi Media Converter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/kunt-u-wijken-gif-vorm-naar-mpeg-vrijetier-online-en-kostenloos/"><u>Kunt U Wijken Gif-Vorm Naar Mpeg - Vrijetier Online en Kostenloos!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/slideshow-creator/"><u>현재 구매 가능: 모항감 만들기 도구 - Slideshow Creator</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-comparing-reels-and-stories-whats-your-preference/"><u>[New] Comparing Reels & Stories What's Your Preference?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-playbook-seamless-hulu-saving-on-winmacmobile-for-2024/"><u>[New] The Ultimate Playbook Seamless Hulu Saving on Win/Mac/Mobile for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-game-plan-for-creating-a-hit-youtube-introduction-trailer/"><u>[Updated] 2024 Approved The Game Plan for Creating a Hit YouTube Introduction Trailer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-20-most-memorable-anime-series-intros/"><u>2024 Approved 20 Most Memorable Anime Series Intros</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-wacatacbml-malware-on-windows-essential-tips-and-tricks/"><u>Combat Wacatac.B!ml Malware on Windows - Essential Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-your-calendar-best-windows-tools-for-enhanced-efficiency/"><u>Command Your Calendar: Best Windows Tools for Enhanced Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-drive-designations-c-d/"><u>Delving Into Drive Designations (C:, D:)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-routine-to-initiate-wordpad-on-windows/"><u>Discover the Routine to Initiate WordPad on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-the-thrill-of-kinemaster-and-rank-10-online-alternatives-alike-for-2024/"><u>Experience the Thrill of KineMaster and Rank 10 Online Alternatives Alike for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-auto-detect-network-proxy-windows-troubleshooting-guide/"><u>Fixing Auto-Detect Network Proxy: Windows Troubleshooting Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-6-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 6 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-podcast-branding-a-comprehensive-logo-guidebook/"><u>In 2024, Innovating Podcast Branding A Comprehensive Logo Guidebook</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/laptop-graphics-transformation-guide/"><u>Laptop Graphics Transformation Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-device-settings-in-sleep-cycle-phase/"><u>Navigating Device Settings in Sleep Cycle Phase</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-playback-interruptions-a-guide-to-resolving-stuttering-sounds-on-pcs-windows-107/"><u>Overcoming Playback Interruptions: A Guide to Resolving Stuttering Sounds on PCs (Windows 10/7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-cross-browser-copy-paste-glitches-in-chrome-edge-firefox/"><u>Solving Cross-Browser Copy Paste Glitches in Chrome, Edge, Firefox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strengthening-fault-detecting-software-in-modern-os/"><u>Strengthening Fault-Detecting Software in Modern OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-blueprint-for-altering-win-passwords/"><u>The Essential Blueprint for Altering Win Passwords</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/user-experience-shifted-the-need-for-apple-to-facilitate-android-conversion-discussed/"><u>User Experience Shifted: The Need for Apple to Facilitate Android Conversion Discussed</u></a></li>
 </ul></div>
 

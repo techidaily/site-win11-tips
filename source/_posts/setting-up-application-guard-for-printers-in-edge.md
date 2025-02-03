@@ -1,7 +1,7 @@
 ---
 title: Setting Up Application Guard for Printers in Edge
-date: 2025-01-22T22:21:44.981Z
-updated: 2025-01-24T23:59:00.646Z
+date: 2025-01-27T00:54:35.889Z
+updated: 2025-02-01T07:26:08.216Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Enable Printing via Windows Settings
@@ -41,20 +41,20 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 5. Scroll down to Isolated browsing, then click the**Change Applications Guard settings** link.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Under Application Guard settings, turn on the toggle for**Print files** .  
 ![Allow Printing From Application Gurard For Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-printing-from-application-gurard-for-microsoft-edge.jpg)
 7. If UAC prompts appear on the screen, click**Yes** to continue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After following the above instructions, you must restart your computer to make the changes take effect. Now you can print files from isolated browsing in Edge.
 
  If you ever need to disable this feature, simply follow the same steps and toggle off Print files. This will disable printing in Application Guard for Edge on your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Enable Printing via Registry Editor
 
@@ -69,13 +69,13 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 5. Set Value data**1** and click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have completed the above steps, close the Registry window and restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now the Application Guard for Edge Supports Printing
@@ -97,15 +97,15 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-screen-sharing-in-google-meet-mobiledesktop/"><u>[New] 2024 Approved Navigating Screen Sharing in Google Meet Mobile/Desktop</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-expedited-removal-strategies-for-ssgnature-bg/"><u>2024 Approved Expedited Removal Strategies for Ssgnature BG</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-writers-journey-through-podcast-production/"><u>2024 Approved The Writer's Journey Through Podcast Production</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/azures-speech-to-text-an-easy-guide/"><u>Azure's Speech-to-Text An Easy Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unblock-multiple-files-on-windows-with-powershell/"><u>How to Unblock Multiple Files on Windows With PowerShell</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-15-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 15 If Youve Tried Everything</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaim-vanished-device-spaces-in-windows/"><u>Reclaim Vanished Device Spaces in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-windows-11-writing-file-permission-errors/"><u>Solutions for Windows 11 Writing File Permission Errors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-choosing-the-right-cloud-storage-insider-ratings-and-tests-cnet/"><u>The Ultimate Guide to Choosing the Right Cloud Storage : Insider Ratings & Tests | CNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-screen-dilemmas-simplified-fixes-explained/"><u>Windows Screen Dilemmas, Simplified Fixes Explained</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-turning-still-shots-into-audio-visual-narratives/"><u>[New] 2024 Approved Turning Still Shots Into Audio-Visual Narratives</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-pioneering-portable-vrs-google-cardboard-versus-samsungs-tech-for-2024/"><u>[New] Pioneering Portable VRs Google Cardboard Versus Samsung's Tech for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-upside-down-and-sideways-iphone-photo-rotation/"><u>2024 Approved Master Upside-Down and Sideways iPhone Photo Rotation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-13-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-have-a-desire-to-uplift-your-editing-creativity-with-trying-hands-at-working-with-storyboards-keep-reading-to-have-a-comprehensive-underst/"><u>New 2024 Approved Have a Desire to Uplift Your Editing Creativity with Trying Hands at Working with Storyboards? Keep Reading to Have a Comprehensive Understating of the Workflow Through Stepwise User Guides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-3-fixes-to-regain-access-on-win1011s-dark-screens/"><u>Top 3 Fixes to Regain Access on Win10/11's Dark Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-tips-fixing-your-non-functional-corsair-hs60-microphone/"><u>Troubleshooting Tips: Fixing Your Non-Functional Corsair HS60 Microphone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/what-actions-after-failed-video-repaire/"><u>What Actions After Failed Video Repaire?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/window-wise-stop-rounded-corner-style/"><u>Window Wise: Stop Rounded Corner Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-a-deep-dive-into-gpo-enforcement-per-user/"><u>Windows 10/11: A Deep Dive Into GPO Enforcement Per User</u></a></li>
 </ul></div>
 

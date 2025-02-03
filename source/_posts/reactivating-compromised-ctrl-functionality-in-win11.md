@@ -1,7 +1,7 @@
 ---
 title: Reactivating Compromised Ctrl Functionality in Win11
-date: 2025-01-19T16:23:51.362Z
-updated: 2025-01-24T19:56:07.197Z
+date: 2025-01-29T02:59:02.441Z
+updated: 2025-02-01T09:21:34.745Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Isn't the Ctrl Key Working on Windows 11?
 
  If the Ctrl key on your Windows computer stops working, you may have trouble executing commands and shortcuts. Here are some of the most common reasons why this might happen:
@@ -41,16 +37,12 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
  Now that you know all the prime reasons that can contribute to the issue, let’s check out how to eliminate them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart Your Computer
 
  If the Ctrl key on your keyboard isn't functioning, your first course of action should be to [restart your Wiindows computer](https://www.makeuseof.com/windows-restart-methods/). This action will eliminate any potential bugs or glitches responsible for the problem. Before restarting, ensure that you save any active documents or work to prevent any data loss.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check for Physical Damage
 
@@ -61,14 +53,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ![Keyboard layout on a Keyboard Testing website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-layout.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the website doesn't recognize the Ctrl key input, it's probable that your keyboard has sustained damage. There might be debris or other particles that are responsible for the issue. In that case, use a gentle brush or a microfiber cloth to cleanse the affected area. If you need help, check out our guide on how to [clean beneath keyboard keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Use the Windows Troubleshooter
 
@@ -81,12 +69,12 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ![Troubleshoot option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/troubleshoot-option.jpg)
 3. Choose **Other troubleshooters.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click the **Run** button next to Keyboard.  
 ![Keyboard troubleshooter in the setting menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Keyboard-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The troubleshooter will now look for any issues with your keyboard and try to fix them. However, if the keyboard troubleshooter fails to fix the issue, run the Hardware and Devices troubleshooter instead. For that, follow these instructions:
 
@@ -105,9 +93,18 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 1. Open Settings, choose **Accessibility** from the left sidebar, and select **Keyboard** from the right pane.  
 ![Keyboard option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-option.jpg)
 2. Turn off the toggle next to the **Sticky keys** and **Filter keys**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Sticky keys option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sticky-keys-option.jpg)
 
  After that, restart your computer and check for the issue. If it continues, you can re-enable the sticky and filter keys.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall the Keyboard Driver
 
@@ -138,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
  To learn how to run these scans, check out [how to repair corrupt Windows files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Perform a Clean Boot
 
  Is the Ctrl key still unresponsive? If so, a background application or service may be preventing Windows from registering the keystroke. To fix this, [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) on your computer and try to use the Ctrl key within this state.
@@ -160,20 +161,24 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-decoding-youtubes-5-second-tales/"><u>[New] In 2024, Decoding YouTube's 5-Second Tales</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-chrome-users-explore-our-curated-list-of-voice-modification-apps/"><u>[Updated] Chrome Users, Explore Our Curated List of Voice Modification Apps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-hidden-treasure-of-free-macos-transcription-tools-for-2024/"><u>[Updated] Hidden Treasure of Free macOS Transcription Tools for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-10-superior-video-text-enhancements/"><u>2024 Approved 10 Superior Video Text Enhancements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-format-incompatibility-in-windows-vlc-problem/"><u>Fixing Format Incompatibility in Windows VLC Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-your-task-management-with-windows-app-notifications/"><u>Optimize Your Task Management with Windows App Notifications</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2140119--praanas-divine-links-auras-volume-ii/"><u>Praanas, Divine-Links, & Auras Volume II | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-control-of-unheard-audio-devices-in-computers/"><u>Regain Control of Unheard Audio Devices in Computers</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-windows-11-usability-with-exclusive-run-command-features/"><u>Skyrocket Windows 11 Usability with Exclusive Run Command Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-techniques-to-locate-graphic-card-model-in-win11/"><u>Swift Techniques to Locate Graphic Card Model in Win11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-essential-ai-enhancements-for-iphones-in-ios-18-to-match-androids-capabilities-insights/"><u>The Essential AI Enhancements for iPhones in iOS 18 to Match Android's Capabilities - Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-powerpoint-audio-malfunctions-a-step-by-step-guide/"><u>Troubleshooting PowerPoint Audio Malfunctions: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-complexities-of-windows-group-policies-in-3-steps/"><u>Unraveling Complexities of Windows Group Policies in 3 Steps</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/visual-power-in-gaming-channels-a-template-guidebook/"><u>Visual Power in Gaming Channels A Template Guidebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-balance-of-swiftness-and-security-on-spotify-sounds/"><u>[New] The Balance of Swiftness and Security on Spotify Sounds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-iconic-imagery-stories-a-deep-dive/"><u>[Updated] Iconic Imagery Stories A Deep Dive</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-pioneering-digital-realms-comparing-metaverse-and-omniverse/"><u>[Updated] In 2024, Pioneering Digital Realms Comparing Metaverse & Omniverse</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-optimizing-apex-dive-deep-into-single-platform-solitude/"><u>[Updated] Optimizing Apex Dive Deep Into Single-Platform Solitude</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-tecno-spark-10c-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Tecno Spark 10C</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/camera-face-off-pixel-cuatitrincocho-xl-versus-iphone-xvi-the-unexpected-tale-of-photographic-supremacy/"><u>Camera Face-Off: Pixel Cuatitrincocho XL Versus IPhone XVI - The Unexpected Tale of Photographic Supremacy!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crucial-mobile-tools-for-windows-pc-holders-on-android/"><u>Crucial Mobile Tools for Windows PC Holders on Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-managing-edges-webview2-resource-allocation/"><u>Efficiently Managing Edge's WebView2 Resource Allocation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/establishing-an-interactive-update-protocol-in-system-ui/"><u>Establishing an Interactive Update Protocol in System UI</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862831009-experience-the-game-like-never-before-with-the-discounted-acer-nitro-monitor-now-81/"><u>Experience the Game Like Never Before with the Discounted Acer Nitro Monitor - Now $81!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-workforce-ds-30-printer-drivers-here-for-all-windows-systems/"><u>Get Your Epson WorkForce DS 30 Printer Drivers Here for All Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-snipping-tool-keyboard-shortcut-not-working-on-windows/"><u>How to Fix the Snipping Tool Keyboard Shortcut Not Working on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-honor-x8b-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Honor X8b Unlock Without Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-invisibility-windows-drives-concealment/"><u>Mastering Invisibility: Windows Drives Concealment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-regedit-via-command-prompt/"><u>Mastering RegEdit Via Command Prompt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-edges-webview2-for-better-memory-performance/"><u>Optimizing Edge's WebView2 for Better Memory Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-nvidias-geforce-experience-error-on-pcs/"><u>Quick Fix for Nvidia's GeForce Experience Error on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-disabled-deltat-directive-for-windows-sys/"><u>Reinstating Disabled DeltaT Directive for Windows Sys</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/tailored-titling-techniques-for-impactful-youtube-channels/"><u>Tailored Titling Techniques for Impactful YouTube Channels</u></a></li>
 </ul></div>
 

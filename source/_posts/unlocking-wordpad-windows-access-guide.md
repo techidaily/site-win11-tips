@@ -1,7 +1,7 @@
 ---
 title: "Unlocking WordPad: Windows Access Guide"
-date: 2025-01-16T16:13:20.006Z
-updated: 2025-01-18T17:24:32.235Z
+date: 2025-01-24T16:02:32.423Z
+updated: 2025-02-01T14:04:30.543Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/0606343d17aebae3a6ccf71123da10011994b6e06
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Open WordPad Using the Windows Search Tool
 
  If you're not sure how to open WordPad on your Windows PC, don't worry! You can easily find and launch the program using the Windows Search tool.
@@ -36,14 +40,10 @@ To open WordPad using the search tool, follow these steps:
 2. You should see the WordPad program pop up in the results. Simply click on it to launch the program.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you open WordPad, you can start typing or pasting text and use the ribbon interface to access formatting options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Open WordPad via File Explorer
 
@@ -62,6 +62,10 @@ The WordPad application will open on your computer.
 1. Press**Win + R** on your keyboard to open the Run dialog.  
 ![Open WordPad Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Run-Command.jpg)
 2. In the dialog box, type "WordPad" and hit**Enter** . You can also type "write" instead of WordPad.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The WordPad application will now launch.
 
@@ -93,6 +97,10 @@ To open WordPad using the Control Panel, follow these steps:
 ![Open WordPad Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Control-Panel.jpg)
 5. Next, you will find WordPad in the right pane. Double-click on it to open the WordPad application.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. How to Open WordPad Using Command Prompt or PowerShell
 
  In this day and age, we are so reliant on technology that even the simplest tasks can feel daunting if we don't know how to do them. Opening WordPad is a basic task that can be easily accomplished by running a simple command in Command Prompt or Windows PowerShell.
@@ -108,11 +116,7 @@ To do this, follow these steps:
 6. Press the**Enter** key now. You will see the WordPad application on your computer screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. How to Open WordPad Via Start Menu
@@ -127,12 +131,12 @@ To open WordPad using the Start menu, follow these steps:
 ![Open WordPad Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Start-Menu.jpg)
 4. The next screen shows a list of Windows tools for you to choose from.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Double-click on**WordPad** to open it.  
 ![Open WordPad Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Control-Panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. How to Open WordPad by Creating a Desktop Shortcut
 
@@ -145,11 +149,11 @@ To open WordPad using the Start menu, follow these steps:
 ![Create Desktop Shortcut of WordPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-of-WordPad.jpg)
 4. If Windows asks for your confirmation, click**Yes** to create it.
 
- You will find a shortcut to WordPad on your desktop; double-click the shortcut to open it.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You will find a shortcut to WordPad on your desktop; double-click the shortcut to open it.
 
 ## 9\. Pin WordPad to the Start menu or Taskbar
 
@@ -158,10 +162,6 @@ To open WordPad using the Start menu, follow these steps:
 1. Click on Start and search for "WordPad."
 2. Now right-click on the search result and choose**Pin to taskbar** or**Pin to Start** .  
 ![Pin WordPad to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-WordPad-to-Taskbar.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's all there is to it. By following these simple steps, you'll be able to open WordPad in no time.
 
@@ -184,24 +184,22 @@ To open WordPad using the Start menu, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-the-ultimate-checklist-of-key-elements-in-tagging-a-video/"><u>[New] 2024 Approved The Ultimate Checklist of Key Elements in Tagging a Video</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-revolutionary-viewfinder-unstoppable-video-meet-the-xs-100i/"><u>[New] Revolutionary Viewfinder, Unstoppable Video - Meet the XS 100I</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-preeminent-online-spaces-enhancing-youtube-traffic/"><u>[Updated] 2024 Approved Preeminent Online Spaces Enhancing YouTube Traffic</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-converting-srt-into-sub-quick-effective-ways/"><u>2024 Approved Converting SRT Into SUB Quick, Effective Ways</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/analisis-completo-de-freemake-video-converter-funcion-coste-y-datos-adicionales/"><u>Análisis Completo De Freemake Video Converter - Función, Coste Y Datos Adicionales</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertissez-facilement-votre-fichier-swf-en-mov-avec-laide-de-moovavi-sans-frais-en-ligne-gratuit/"><u>Convertissez Facilement Votre Fichier SWF en MOV Avec L'aide De Moovavi, Sans Frais - En Ligne Gratuit</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cortando-videos-para-mac-una-guia-sencilla-con-movavi/"><u>Cortando Videos Para Mac - Una Guía Sencilla Con Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/create-dynamic-music-slide-shows-in-dutch-using-van-movavi/"><u>Create Dynamic Music Slide Shows in Dutch Using Van Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exklusive-videoausschnitte-erstellen-fuhren-sie-ihre-videomontage-mit-unserem-tutorial-durch/"><u>Exklusive Videoausschnitte Erstellen - Führen Sie Ihre Videomontage Mit Unserem Tutorial Durch!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-refinements-of-sonys-s6500-bdp-model-for-2024/"><u>Exploring the Refinements of Sony's S6500 BDP Model for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y78plus-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo Y78+?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-free-conversion-transforming-m4a-files-into-mpeg-format-with-ease/"><u>Online Free Conversion: Transforming M4A Files Into MPEG Format with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-vob-convert-movavi/"><u>Online VOB 파일을 자유성적으로 Convert: Movavi를 사용한 단격 가이드</u></a></li>
-<li><a href="https://win-able.techidaily.com/razer-synapse-troubleshooting-how-to-solve-not-opening-problem/"><u>Razer Synapse Troubleshooting: How To Solve Not Opening Problem</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-asus-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Asus Phone Hassle-Free</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-file-3gp-in-formato-wav-senza-costi-movavi/"><u>Trasforma I File 3GP in Formato WAV Senza Costi - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-file-ogv-in-mp4-gratuitamente-guida-completa-di-movavi/"><u>Trasforma I File OGV in MP4 Gratuitamente: Guida Completa Di Movavi</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-11-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone 11 Pro?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-art-of-photo-edits-a-newcomers-guide-to-lunapic/"><u>[Updated] In 2024, The Art of Photo Edits A Newcomer’s Guide to LunaPic</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-audio-calls-tracker-iphone-voice-memo/"><u>2024 Approved Audio Calls Tracker IPhone Voice Memo</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-overcoming-non-displayed-thumbnails-youtube-shorts-guide/"><u>2024 Approved Overcoming Non-Displayed Thumbnails YouTube Shorts Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/debugging-windows-app-failure-the-zeroxc000003e-hex-issue/"><u>Debugging Windows App Failure: The ZeroXc000003e Hex Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-winservicesexe-in-windows-os/"><u>Decoding WinServices.exe in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discreet-data-transfer-embedding-zip-in-windows-image-files/"><u>Discreet Data Transfer: Embedding ZIP in Windows Image Files</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-updates-hp-deskjet-3755-all-in-one-printer-driver-for-windows-download-now/"><u>Latest Updates: HP DeskJet 3755 All-in-One Printer Driver for Windows - Download Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-turn-off-defender-firewall/"><u>Mastering Windows 11: Turn Off Defender Firewall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-invalid-captcha-response/"><u>Navigating the 'Invalid' CAPTCHA Response</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-connectivity-the-new-normal-in-the-workplace/"><u>Social Connectivity: The New Normal in the Workplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-typing-tips-eliminate-latency-in-win-11-pcs/"><u>Speedy Typing Tips: Eliminate Latency in Win 11 PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-linking-your-nintendo-switch-with-hdmi-for-big-screen-gaming/"><u>Step-by-Step Instructions: Linking Your Nintendo Switch with HDMI for Big Screen Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-6-best-computer-usage-tracking-apps-for-windows/"><u>The 6 Best Computer Usage Tracking Apps for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-to-modify-static-power-controls-in-windows-11/"><u>Tricks to Modify Static Power Controls in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trimming-edges-resource-consumption-on-your-system/"><u>Trimming Edge's Resource Consumption on Your System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-does-my-fortnite-keep-crashing-pro-tips-to-stabilize-gameplay-on-pc/"><u>Why Does My Fortnite Keep Crashing ? Pro Tips to Stabilize Gameplay on PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Busy Files Alert: Solutions for Windows 11 Users"
-date: 2024-12-17T18:28:52.287Z
-updated: 2024-12-22T05:41:09.443Z
+date: 2025-01-28T01:58:05.733Z
+updated: 2025-02-01T14:35:04.063Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-end-task-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The “requested resource is in use” error message hints that the file (resource) you’re trying to copy is already in use. Thus, the copy operation cannot be completed because something else is using the file or folder. So, you might need to close some background processes to address this issue.
 
  First, move your mouse’s cursor over the File Explorer taskbar icon to see if there are any windows for active file operations. Cancel any active file operations you see. Then try copying the file again.
@@ -47,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 5. Then try moving or copying your files again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The layout in Windows 10 File Explorer is a little different. To disable preview panes in that file manager, you’ll need to click the **View** tab. Then click **Preview pane** to deselect that option.
@@ -66,16 +70,12 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 3. Select the **Full scan** setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click **Scan now** to initiate the malware scanning.  
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-full-scan-radio-button.jpg)
 5. Wait for the scanning to finish and select **Start actions** to remove detected malware.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you find Microsoft Defender is disabled and cannot turn it on, that’s a surefire sign the SmartService malware has infected your PC. SmartService is a rootkit trojan that blocks users from utilizing antivirus tools. That malware can also block the installation of some antivirus apps. In this case, the “requested resource in use” error can also occur when you try to run security apps.
 
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable Any Unknown Programs in Task Manager
@@ -97,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 4. If you see anything suspicious, select that item and click the **Disable** button.  
 ![The Disable button on Task Manager's Startup tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-button.jpg)
 5. Then restart your PC to see if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Uninstall Any Suspicious-Looking Programs
 
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 
  Also, clear temporary data after uninstalling SmartService to ensure the malware can’t re-emerge. To do so, you’ll need to clear out the Temp folder. This article about [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes alternative methods for clearing data in the Temp folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Perform a Factory Reset
 
  If the “requested resource is in use” error remains unresolved after trying all the potential resolutions above, performing a factory reset is the last resort. A factory reset will remove all programs not pre-installed with Windows and restore your PC to its default configuration. Applying this potential fix will likely eradicate malware causing the “requested resource is in use” error.
@@ -125,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-keep-my-files-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get the “Requested Resource Is in Use” Error Sorted on Windows
@@ -134,29 +134,6 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 
  Here is how you can fix the “requested resource is in use” error on a Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-comical-calls-leading-platforms-for-laugh-rings/"><u>[New] 2024 Approved Comical Calls Leading Platforms for Laugh-Rings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-record-online-tv-shows/"><u>[New] How to Record Online TV Shows</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-becoming-a-trendsetter-youtube-video-tactics/"><u>2024 Approved Becoming a Trendsetter YouTube Video Tactics</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-20-essential-gopro-extras/"><u>2024 Approved Top 20 Essential Gopro Extras</u></a></li>
-<li><a href="https://win-superb.techidaily.com/analyzing-the-consequences-a-deep-dive-into-the-aftermath-of-the-sino-japanese-war-insights-by-yl-technologies/"><u>Analyzing the Consequences: A Deep Dive Into the Aftermath of the Sino-Japanese War – Insights by YL Technologies</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/cookiebot-enabled-enhancing-your-websites-data-collection/"><u>Cookiebot-Enabled: Enhancing Your Website's Data Collection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delving-into-ai-driven-transformations-for-windows-11-enthusiasts/"><u>Delving Into AI-Driven Transformations for Windows 11 Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-editing-speed-with-powertoys-features/"><u>Enhance Editing Speed with PowerToys Features</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/guide-detaille-migration-et-copie-facile-sur-unesores-durateurs-ps3ps4-vers-un-hard-drive-plus-grand/"><u>Guide Détaillé : Migration Et Copie Facile Sur Unesores Durateurs PS3/PS4 Vers Un Hard Drive Plus Grand</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-realme-narzo-n53-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Realme Narzo N53 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preserving-your-productivity-transferring-legacy-programs-to-11/"><u>Preserving Your Productivity: Transferring Legacy Programs to 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prime-windows-platforms-superior-nintendo-switch-simulators/"><u>Prime Windows Platforms: Superior Nintendo Switch Simulators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-miscalculated-cpu-percentages-on-task-manager-window/"><u>Rectifying Miscalculated CPU Percentages on Task Manager Window</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-default-settings-in-windows-11/"><u>Reinstating Default Settings in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-remedying-windows-screens-that-flash/"><u>Strategies for Remedying Windows Screens that Flash</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-framing-speed-for-enhanced-victory/"><u>Streamline Framing Speed for Enhanced Victory</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tech-evolution-unveiled-measuring-the-new-samsung-galaxy-s2-3-ultra-against-the-former-marvel-the-s21-ultra/"><u>Tech Evolution Unveiled - Measuring the New Samsung Galaxy S2 3 Ultra Against the Former Marvel, The S21 Ultra</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-detected-hardware-not-recognized-by-idt-software/"><u>Troubleshooting Guide: Resolving 'Detected Hardware Not Recognized' By IDT Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-visual-power-with-windows-11s-protected-browsing/"><u>Unleashing Visual Power with Windows 11'S Protected Browsing</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -164,3 +141,22 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-strategy-for-elevating-your-video-visibility/"><u>[New] The Ultimate Strategy for Elevating Your Video Visibility</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-blend-voice-recordings-into-ppt-framework-for-2024/"><u>[Updated] Blend Voice Recordings Into PPT Framework for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-giroptic-complete-immersion/"><u>[Updated] In-Depth Giroptic Complete Immersion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-photo-backdrop-removal-in-picsart/"><u>[Updated] The Essential Guide to Photo Backdrop Removal in Picsart</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ai-personal-trainer-designing-the-perfect-exercise-regime-using-chatgpt/"><u>AI Personal Trainer: Designing the Perfect Exercise Regime Using ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-os-failure-windows-error-0xc0000001/"><u>Conquering OS Failure - Windows Error 0xC0000001</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-task-managers-quick-find-feature-on-windows-11/"><u>Enabling Task Manager's Quick Find Feature on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-for-the-absence-of-msvcr120dll-in-windows-applications/"><u>Fixes for the Absence of msvcr120.dll in Windows Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-way-through-the-lost-at-sea-error-in-windows-11/"><u>Making Way Through the Lost at Sea Error in Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/marvel-gamers-rejoice-fix-these-crashes-in-guardians-of-the-galaxy-for-pc/"><u>Marvel Gamers Rejoice! - Fix These Crashes in Guardians of the Galaxy for PC</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-forward-to-complement-your-weekend-evenings-with-a-fantasy-tour-to-the-anime-world-stay-here-to-pick-the-most-appealing-alternativ/"><u>New 2024 Approved Looking Forward to Complement Your Weekend Evenings with a Fantasy Tour to the Anime World? Stay Here to Pick the Most Appealing Alternative From the Best and Timeless Anime Creations</u></a></li>
+<li><a href="https://howto.techidaily.com/nubia-red-magic-9-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Red Magic 9 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-users-guide-to-registry-edits-in-cmd/"><u>Power Users' Guide to Registry Edits in CMD</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-vn-video-editor-mobile-app-review-editing-made-easy-in-2024/"><u>Updated VN Video Editor Mobile App Review Editing Made Easy, In 2024</u></a></li>
+</ul></div>
+

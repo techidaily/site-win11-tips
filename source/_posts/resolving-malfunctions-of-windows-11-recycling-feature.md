@@ -1,7 +1,7 @@
 ---
 title: Resolving Malfunctions of Windows 11 Recycling Feature
-date: 2025-01-18T22:16:31.623Z
-updated: 2025-01-25T01:39:29.475Z
+date: 2025-01-26T22:33:15.921Z
+updated: 2025-02-01T09:51:47.958Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Resetting the Recycle Bin using Command Prompt can effectively fix the "The Recycle Bin on C:\\ is corrupted" error on Windows. Use the command "rd /s /q C:\\$Recycle.bin" to delete all files and restore the Recycle Bin to default settings.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 
  Fortunately, it is possible to resolve this error message without formatting your drive and losing critical data. Here, we show you how to fix the Windows 10 or 11 error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Reset Recycle Bin Using the Command Prompt
 
  Resetting the Recycle Bin is one of the most effective ways to fix issues with it. Doing so allows Windows to empty the Recycle Bin and restore it to its default settings, resolving any issues.
@@ -56,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 
  Once you run the above command, Windows will reset the Recycle Bin for the specified drive, and you should not see any more errors.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Run a CHKDSK Scan
 
  If resetting the Recycle Bin proves ineffective, there may be an issue with the drive itself. You can try running a CHKDSK scan to check and repair your drive for bad sectors and file system errors.
@@ -77,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 
  Restart your PC after running the CHKDSK scan, then check if the error still occurs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Run the SFC and DISM Scans
 
  Problems with your PC's system files can also give rise to such Recycle Bin errors. Thankfully, Windows includes helpful tools called **SFC (System File Checker)** and **DISM (Deployment Image Servicing and Management)** scans, which can automatically detect and repair any corrupted system files.
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
  For more information, check our guide on [repairing corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) and follow the steps outlined.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Scan for Malware
@@ -98,14 +98,10 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 ![Malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/malware-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the scan detects anything suspicious, take the recommended steps to eliminate the threat.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Perform a System Restore
 
@@ -136,10 +132,6 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 `rd /s /q C:\$Recycle.bin`  
 ![Reset Recycle Bin on Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-recycle-bin-on-windows-using-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This command deletes all the files and folders in the Recycle Bin, including subdirectories, without prompting the user for confirmation. The two switches have the following functions:
 
 **/s** \- Recursively deletes all the files and folders in the Recycle Bin, including subdirectories.
@@ -149,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
  If you are getting the Recycle Bin corrupted error for a drive other than the C drive, replace the letter "C:" in the above command with the letter of the drive causing the error.
 
  Once you run the above command, Windows will reset the Recycle Bin for the specified drive, and you should not see any more errors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run a CHKDSK Scan
 
@@ -188,7 +184,7 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
  Once you restore Windows to its previous state, the errors shouldn't persist.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Rid of Annoying Recycle Bin Corrupted Errors
@@ -198,6 +194,10 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
  Is your Windows PC bugging you with a "The Recycle Bin on C:\\ is corrupted. Do you want to empty the Recycle Bin for this drive" error message? Such errors can occur with any drive, including internal and external ones, effectively preventing you from accessing the drive.
 
  Fortunately, it is possible to resolve this error message without formatting your drive and losing critical data. Here, we show you how to fix the Windows 10 or 11 error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Reset Recycle Bin Using the Command Prompt
 
@@ -214,10 +214,6 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 `rd /s /q C:\$Recycle.bin`  
 ![Reset Recycle Bin on Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-recycle-bin-on-windows-using-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This command deletes all the files and folders in the Recycle Bin, including subdirectories, without prompting the user for confirmation. The two switches have the following functions:
 
 **/s** \- Recursively deletes all the files and folders in the Recycle Bin, including subdirectories.
@@ -227,10 +223,6 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
  If you are getting the Recycle Bin corrupted error for a drive other than the C drive, replace the letter "C:" in the above command with the letter of the drive causing the error.
 
  Once you run the above command, Windows will reset the Recycle Bin for the specified drive, and you should not see any more errors.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run a CHKDSK Scan
 
@@ -244,6 +236,10 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 4. Type the following command and press **Enter**.  
 `chkdsk /r e:`  
 ![Check Disk Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/check-disk-scan-on-windows-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **r** switch in a CHKDSK scan tells CHKDSK to locate bad sectors on the target disk and recover the readable information from the bad sectors. This can take some time as it scans and repairs the bad sectors on the drive.
 
@@ -315,10 +311,6 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 `chkdsk /r e:`  
 ![Check Disk Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/check-disk-scan-on-windows-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The **r** switch in a CHKDSK scan tells CHKDSK to locate bad sectors on the target disk and recover the readable information from the bad sectors. This can take some time as it scans and repairs the bad sectors on the drive.
 
  Restart your PC after running the CHKDSK scan, then check if the error still occurs.
@@ -329,11 +321,19 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 
  For more information, check our guide on [repairing corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) and follow the steps outlined.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Scan for Malware
 
  If you continue to see the Recycle Bin corrupted error, there is a chance that your PC is infected with malware. To rule out this possibility, you can use the built-in Windows Defender or [PowerShell to scan your computer for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). You can also use a reliable third-party antivirus program for this.
 
 ![Malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/malware-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the scan detects anything suspicious, take the recommended steps to eliminate the threat.
 
@@ -362,20 +362,14 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-discover-clear-sound-recording-on-discord/"><u>[New] 2024 Approved Discover Clear Sound Recording on Discord</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-peak-psd-opacity-adjustments/"><u>[New] Peak PSD Opacity Adjustments</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-simple-steps-to-embed-youtube-playlists-on-any-website/"><u>[Updated] 2024 Approved The Simple Steps to Embed YouTube Playlists on Any Website</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-master-the-art-of-youtube-visibility-two-steps/"><u>[Updated] Master the Art of YouTube Visibility (Two Steps)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-cut-cinematic-concept/"><u>2024 Approved Quick Cut Cinematic Concept</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-laptop-with-exceptional-screen-quality-a-great-find-discover-more-zdnet/"><u>Affordable Laptop with Exceptional Screen Quality - A Great Find! Discover More | ZDNET</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-tecno-pova-5-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Tecno Pova 5 Pro Devices | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-prevent-windows-from-auto-locking/"><u>How to Prevent Windows From Auto-Locking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-meteorology-best-windows-11-weather-apps/"><u>Mastering Meteorology: Best Windows 11 Weather Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-workflows-task-scheduler-and-batch-files/"><u>Optimizing Workflows: Task Scheduler & Batch Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/peak-collaboration-scouring-through-5-leading-winpc-fileshare-apps/"><u>Peak Collaboration: Scouring Through 5 Leading WinPC Fileshare Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-windows-images-for-peak-quality/"><u>Tailoring Windows Images for Peak Quality</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-meizu-21-frp-by-drfone-android/"><u>The Updated Method to Bypass Meizu 21 FRP</u></a></li>
-<li><a href="https://solve-info.techidaily.com/visionary-executive-neil-murphy-guides-global-strategy-as-emea-channel-chief-and-svp-at-top-level-sales-position/"><u>Visionary Executive Neil Murphy Guides Global Strategy as EMEA Channel Chief and SVP at Top-Level Sales Position</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-vivetool-how-to-use-it-to-enable-unreleased-features-on-windows/"><u>What Is ViVeTool? How to Use It to Enable Unreleased Features on Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transformative-thumbnails-with-immersive-scenes/"><u>[New] Transformative Thumbnails with Immersive Scenes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooted-driver-deployment-error-on-startup/"><u>[TROUBLESHOOTED] Driver Deployment Error on Startup</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-beam-it-up-15-must-haves-for-your-youtube-live-stream/"><u>[Updated] In 2024, Beam It Up! 15 Must-Haves for Your YouTube Live Stream</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-use-zoom-in-gmail/"><u>2024 Approved How to Use Zoom in Gmail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-frozen-trash-bin-problem-in-win11/"><u>Correcting Frozen Trash Bin Problem in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-smooth-microphone-transmission-in-windows-11-and-xbox-app/"><u>Enabling Smooth Microphone Transmission in Windows 11 & Xbox App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-quick-fix-windows-troubleshoot-shortcut-creation/"><u>Mastering Quick Fix: Windows Troubleshoot Shortcut Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-sailing-with-arrow-keys-post-fixes/"><u>Smooth Sailing with Arrow Keys Post-Fixes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tunes-to-timelapse-crafting-mobile-music-videos-for-2024/"><u>Tunes to Timelapse Crafting Mobile Music Videos for 2024</u></a></li>
 </ul></div>
 

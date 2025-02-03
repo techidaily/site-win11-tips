@@ -1,7 +1,7 @@
 ---
 title: Adjust PC Display Orientation via Windows
-date: 2024-08-08T10:57:41.820Z
-updated: 2024-08-09T10:57:41.820Z
+date: 2025-01-25T03:59:41.616Z
+updated: 2025-02-01T13:26:55.149Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
  Here, we share three methods for changing the display orientation on your Windows computer.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Change Windows Display Orientation via the Settings App
 
  The Display section in the Windows Settings app makes it easy for you to [modify things like screen brightness](https://www.makeuseof.com/windows-10-adjust-screen-brightness/), color, layout, scale, and more. Additionally, it also offers the option to change the display orientation on your Windows 10 or 11 computer.
@@ -33,18 +34,27 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 2. Head over to **System > Display**.
 3. Click the drop-down menu next to **Display orientation** to select from the available options: **Landscape**, **Portrait**, **Landscape (flipped)**, and **Portrait (flipped)**.
 4. Click the **Keep changes** button to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Change the Display Orientation Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-the-display-orientation-using-the-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have completed the above steps, Windows will rotate your screen 90 degrees, 180 degrees, or 270 degrees, depending on the option you select.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Change Windows Display Orientation via the Graphics Control Panel
 
  Apart from the system settings, you can also use the built-in graphics control panel to change the display orientation on Windows. However, the exact steps for doing so will depend on the type of [graphics card installed on your PC](https://www.makeuseof.com/check-graphics-card-model-windows-11/).
 
  Here's how you can rotate your screen using the Intel Graphics Command Center and the NVIDIA Control Panel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change the Display Orientation Using the Intel Graphics Command Center
 
@@ -54,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 4. Under the **General** tab, click the drop-down menu next to **Rotation** to select your preferred display orientation.  
 ![Change the Display Orientation Using the Intel Graphics Command Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-the-display-orientation-using-the-intel-graphics-command-center.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Change the Display Orientation Using the NVIDIA Control Panel
 
 1. Open the **NVIDIA Control Panel** using the search menu.
@@ -64,14 +71,12 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 3. Click the **Rotate display** option.
 4. Select your preferred orientation in the right pane.
 5. Click the **Apply** button to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change the Display Orientation Using the NVIDIA Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-the-display-orientation-using-the-nvidia-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Change Windows Display Orientation With Keyboard Shortcuts
 
  Another quick way to rotate your Windows computer's screen is to use keyboard shortcuts. This method can be especially useful if you frequently need to switch between different display orientations.
@@ -85,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 
  It's important to note that the above keyboard shortcuts may not work on all Windows computers. If they do not work on your PC, you can use the Settings app or the built-in Graphics Control Panel to make the necessary adjustments.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Changing the Display Orientation on Windows Is Easy
 
  Knowing how to change the display orientation on Windows can be helpful if you have a laptop with a rotatable screen or an external monitor that allows rotation.
@@ -96,12 +98,29 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 
  Here, we share three methods for changing the display orientation on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-foremost-5-online-video-editors-for-2024/"><u>[New] Foremost 5 Online Video Editors for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-add-border-to-instagram-video-3-ways-for-2024/"><u>[Updated] How to Add Border to Instagram Video? [3 Ways] for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mastering-youtube-live-thumbnails-essentials-for-2024/"><u>[Updated] Mastering YouTube Live Thumbnails Essentials for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-bring-your-spotify-mixes-online-5-top-playlist-conversion-apps-for-youtube/"><u>2024 Approved Bring Your Spotify Mixes Online 5 Top Playlist Conversion Apps for YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-pencil-showdown-is-the-original-or-second-gen-better-for-my-ipad-expert-insights-from-zdnet/"><u>Apple Pencil Showdown: Is the Original or Second Gen Better for My iPad? Expert Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/choosing-the-right-lookup-function-index-and-match-vs-vlookup-vs-xlookup-in-excel/"><u>Choosing the Right Lookup Function: Index & Match Vs. Vlookup Vs. XLOOKUP in Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compelling-case-for-continuing-with-your-current-os-windows-10/"><u>Compelling Case for Continuing with Your Current OS - Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-unhackable-dialog-button-for-hardware-disconnect-in-win11/"><u>Crafting Unhackable Dialog Button for Hardware Disconnect in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-advanced-file-backup-features/"><u>Enabling Advanced File Backup Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-mute-problem-a-comprehensive-guide-for-lost-ark-gamers/"><u>Fixing the Mute Problem - A Comprehensive Guide for Lost Ark Gamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fast-tracking-social-media-visuals-a-deep-look/"><u>In 2024, Fast-Tracking Social Media Visuals A Deep Look</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-security-of-user-authentication-on-w11/"><u>Mastering the Security of User Authentication on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-common-cc-issues-with-ease-on-window-10/"><u>Navigating Through Common CC Issues with Ease on Window 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-solutions-to-troubleshoot-windows-xp-incompatibilities/"><u>Quick Solutions to Troubleshoot Windows XP Incompatibilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-windows-epic-launcher-crashes-quickly/"><u>Stop Windows Epic Launcher Crashes Quickly</u></a></li>
+</ul></div>
 

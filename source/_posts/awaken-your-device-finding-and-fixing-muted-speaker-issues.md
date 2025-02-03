@@ -1,7 +1,7 @@
 ---
 title: Awaken Your Device – Finding & Fixing Muted Speaker Issues
-date: 2024-08-08T10:57:51.172Z
-updated: 2024-08-09T10:57:51.172Z
+date: 2025-01-24T16:01:51.193Z
+updated: 2025-01-31T16:26:45.012Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
  Don't panic, though, as we've done the heavy lifting for you. Here's how you can fix the sound on your PC if your speakers have stopped working.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Have You Muted the Audio?
 
  One of the easiest ways to end up with no audio on Windows speakers is to mute the sound accidentally. This can happen easily by just hitting the wrong button or keyboard shortcut. It can even happen by lowering the system volume too much.
@@ -34,9 +35,9 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
  Using a laptop? The mute function is typically found by pressing**Fn** and the corresponding**F** key.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check the Speaker Jack
 
  Next, check the speaker jack on your PC (a laptop will typically have its own audio).
@@ -72,8 +73,9 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 Audio should now play on your HDMI TV.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Check Your Windows Audio Device Drivers
 
  Made all the checks to your hardware and cabling, and still getting no sound from your computer speakers? Then it's time to try a software solution. Remember the last time you did a driver update? If not, now might be the right time.
@@ -93,8 +95,9 @@ Audio should now play on your HDMI TV.
  After the uninstallation is complete, perform a system reboot. Your computer will install the latest driver on its own at the next boot-up.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Could Your Bluetooth Headset Be the Problem?
 
  When a cable is plugged into your computer, it's obvious that a device is connected. With Bluetooth, however, it's easy to forget.
@@ -103,9 +106,6 @@ Audio should now play on your HDMI TV.
 
  So, if you use a Bluetooth headset, remember to switch off or disconnect the device from your computer when not in use. Also, take a moment to click the speaker icon in the system tray and choose a different audio output.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 7\. Check Your Monitor's Speakers
 
  Many monitors nowadays come with in-built speakers. Take a look at the speakers, and see if you're using such a monitor. You can then tweak the volume from the buttons on your monitor or the through the settings on your Windows.
@@ -113,8 +113,9 @@ Audio should now play on your HDMI TV.
  The exact procedure to do this will vary depending on the manufacturer. So, it would be a good idea to check out the manufacturer's website.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Ensure the Speaker Volume Is Turned On
 
  This isn't the same as having your computer set to mute. We are talking about your audio driver software here.
@@ -125,9 +126,6 @@ Audio should now play on your HDMI TV.
 
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 9\. Check for Corruption of Windows System Files
 
  At times, corrupt Windows system files can also lead to speaker driver issues. To check and see if this is the case, run an SFC scan. This will scan and repair the corrupt system files on your PC.
@@ -150,16 +148,14 @@ Audio should now play on your HDMI TV.
 3. Under the**Playback** tab, right-click the**Default Device** and select**Properties** .
 4. Finally, select either the**Disable all enhancements** or the**Disable** option in the Enhancements tab and select**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![disabling enhancements from control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/disable-enhancements.png)
 
  This will turn off all enhancements that could be the cause of your speakers not working.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11\. Your Computer Speakers Just Aren't Working
 
  You've checked the mute and volume settings of your speakers and the integrity of the speaker jack. They're powered up and correctly connected to your computer. You've even checked and updated the device drivers.
@@ -178,8 +174,6 @@ Audio should now play on your HDMI TV.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,6 +181,26 @@ Audio should now play on your HDMI TV.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-mastering-snapchat-incorporating-songs-into-your-videos/"><u>[Updated] In 2024, Mastering Snapchat Incorporating Songs Into Your Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lensflexmax-7-superior-image-enlargement-tool/"><u>[Updated] LensFlexMax 7 Superior Image Enlargement Tool</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-techniques-to-extract-sound-from-vimeo-videos-for-2024/"><u>[Updated] Techniques to Extract Sound From Vimeo Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-discover-the-affordable-and-effective-fitbit-inspire-3-exceptional-value-for-health-enthusiasts-only-99/"><u>1. Discover the Affordable and Effective Fitbit Inspire 3: Exceptional Value for Health Enthusiasts - Only $99!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-quick-primer-accessing-ioss-vr-content-easily-for-2024/"><u>A Quick Primer Accessing IOS’s VR Content Easily for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-duality-of-innovation-and-authenticity-with-chatgpt/"><u>Decoding the Duality of Innovation & Authenticity with ChatGPT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ffmpegmp4ts/"><u>FFmpegを使ったMP4やTS形式の動画の貼り付け･つなぎ:高品位かつ簡単方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-access-forbidden-on-windows-network/"><u>Handling 'Access Forbidden' On Windows Network</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-invalid-update-files-on-w11w10/"><u>How to Resolve Invalid Update Files on W11/W10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lessons-in-motion-mastering-classroom-editing/"><u>In 2024, Lessons in Motion Mastering Classroom Editing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-memory-woes-a-tactical-approach/"><u>Navigating Windows Memory Woes: A Tactical Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconnect-your-microphone-google-meet-challenges-for-windows-users/"><u>Reconnect Your Microphone: Google Meet Challenges for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-audio-device-errors-on-your-computer-winos/"><u>Rectifying Audio Device Errors on Your Computer, WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-lost-pin-after-glitches-in-your-windows-11-update/"><u>Resetting Lost PIN After Glitches in Your Windows 11 Update</u></a></li>
+<li><a href="https://article-helps.techidaily.com/simplify-multitasking-with-picture-in-picture-feature-ios/"><u>Simplify Multitasking with Picture in Picture Feature (iOS)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-stopping-blue-screens-from-vmware-win11/"><u>Solutions for Stopping Blue Screens From VMware Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-wisdom-the-4-best-practices-for-user-suppression/"><u>Unlocking Windows Wisdom: The 4 Best Practices for User Suppression</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-based-techniques-unveiling-processor-generation-details/"><u>Windows-Based Techniques: Unveiling Processor Generation Details</u></a></li>
+</ul></div>
 

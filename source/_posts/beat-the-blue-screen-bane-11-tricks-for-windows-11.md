@@ -1,7 +1,7 @@
 ---
 title: "Beat the Blue Screen Bane: 11 Tricks for Windows 11"
-date: 2024-08-16T01:07:16.425Z
-updated: 2024-08-17T01:07:16.425Z
+date: 2025-01-30T00:42:19.835Z
+updated: 2025-02-01T14:55:50.636Z
 tags:
   - windows10
   - windows11
@@ -28,16 +28,16 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![blue screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/blue-screen.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Blue screens can happen for many reasons, which we'll dig into below. Common BSOD causes include bad drivers, problems with hardware, and operating system errors.
 
  Newer versions of Windows, like Windows 10 and 11, are more stable than earlier versions, so you hopefully won't run into blue screens too often. You should also know that a blue screen occurring one time isn't necessarily an issue. Sometimes Windows will freak out with a BSOD, then work perfectly fine after you reboot.
 
  Thus, you should only need to dig into the following blue screen error fixes if you continually hit a blue screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 1\. Note Your Windows Blue Screen Stop Code
 
  Since there are so many kinds, it's tough to talk about how to resolve blue screen errors without knowing the specific error you're hitting. Thus, the best place to start with fixing blue screens is by noting the actual problem.
@@ -50,9 +50,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The most important part is to note the stop code listed on the page, which will help you narrow your troubleshooting. If you miss the code initially, follow our [guide to retrieving stop codes in Windows 10](https://www.makeuseof.com/find-stop-codes-and-fix-windows-errors/) .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Try Specific Troubleshooting for Your Blue Screen Error Code
 
  Now that you know what your specific issue is, you can move towards appropriate blue screen fixes. We've written troubleshooting guides for some of these, so check out the one that matches your error:
@@ -83,9 +80,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The same goes for software. If you started noticing the blue screens after installing a new program, try [removing the app from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and see if that fixes your issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## 4\. Check for Windows and Driver Updates
 
  While bad updates can sometimes introduce issues, oftentimes Microsoft and third-party companies issue updates to fix problems like these. Visit**Settings > Update & Security > Windows Update** (on Windows 11,**Settings > Windows Update**) and apply any pending updates, just in case they hold the fix.
@@ -98,11 +92,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Updating Generic USB Hub drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Updating-Generic-USB-Hub-drivers.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Instead, you should visit the manufacturer's website and grab the latest drivers from there. Follow our [guide to updating Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) for help.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## 5\. Run a System Restore
 
  The System Restore feature in Windows allows you to return your system to a previous state. It's a handy troubleshooting tool, as it's simple to use and lets you see if your issue is software-based.
@@ -110,24 +105,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Type**recovery** into the Start menu and open the**Recovery** Control Panel entry that appears. Here, click**Open System Restore** to launch the tool. After clicking**Next** once, you'll see a list of restore points you can return to. Select one, then hit**Scan for affected programs** if you want to see what software will change.
 
 ![click on choose a different system restore to select a restore point of your choice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/choose-different-restore.png)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Running a System Restore doesn't affect your files, but it will uninstall any drivers or software you've installed since the restore point was made. In addition, it will reinstall anything you removed since that time.
 
  Confirm your system restore, then you can start the process. This will take a few moments, then you'll be back to your system like it was at the time. If you don't get blue screens after this, your problem was likely software-related.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Scan for Malware
 
 ![malwarebytes version 4.30 antimalware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/malwarebytes-version-4.30-antimalware.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Malware can damage your Windows system files and result in a blue screen. You should run a scan for infection to rule out anything like this.
 
  We recommend using [Malwarebytes](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36655/https://www.malwarebytes.com/pricing?cjdata=MXxOfDB8WXww&c=cj&s=4112715&k=13801426&utm%5Fsource=cj&utm%5Fmedium=aff&utm%5Fcontent=13801426&utm%5Fcampaign=AFF-CJ%5F4112715&tracking=cj&x-wts=cj&x-affid=4112715&ADDITIONAL%5FAFFID=cj-4112715&cjevent=7bdb2e575d5411ee82c858940a82b832&clickid=7bdb2e575d5411ee82c858940a82b832&pid=cj%5Fint) to run a scan. This will look for all sorts of rogue software and remove it for you. If it finds anything, reboot after the cleaning and see if your blue screen errors go away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Test Your Computer Hardware
 
@@ -135,9 +132,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  We've shown [how to test your PC for hardware failure](https://www.makeuseof.com/tag/how-to-test-your-pc-for-failing-hardware/) . Use those tools to test your system and replace anything that you find is faulty.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Run an SFC Scan
 
 ![Running SFC in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/Running-SFC-in-Command-Prompt.png)
@@ -150,9 +144,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Give this some time to run, and you'll see the results before long. If it found and applied any fixes, reboot and see if the blue screen issue stops.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Boot Into Safe Mode
 
  Depending on the severity of your issue, you may be able to perform all the above troubleshooting steps while working in Windows as usual. However, if you have a major issue, the blue screen errors might prevent you from working normally. In that case, you'll need to [boot into safe mode](https://www.makeuseof.com/windows-11-boot-safe-mode/) .
@@ -161,17 +152,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  While in safe mode, you can run a malware scan, use System Restore, and otherwise troubleshoot as we've discussed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Use Advanced Blue Screen Troubleshooting Tools
 
  For deeper troubleshooting, you can utilize tools that interpret the information Windows dumps after it crashes to a blue screen_._ These are typically only for advanced users.
 
  Follow our instructions on [how to fix blue screen errors with WinDbg and BlueScreenView](https://www.makeuseof.com/tag/solve-blue-screen-errors/) for help using a few of these tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Reinstall Windows
 
 ![Windows 10 Recovery Refresh](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Recovery-Refresh.png)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If all else fails, you'll need to reinstall Windows on your computer. At this point, you've ruled out drivers, hardware, malware, and software issues, so there must be some deeper underlying problem on your system.
@@ -190,8 +190,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,6 +197,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-first-film-experience-selecting-best-gopro-gear/"><u>[New] 2024 Approved First Film Experience Selecting Best GoPro Gear</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-segmented-screen-success-is-splitcam-superior-for-2024/"><u>[New] Segmented Screen Success Is SplitCam Superior for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-maximizing-your-visual-potential-online-for-2024/"><u>[Updated] Maximizing Your Visual Potential Online for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/boost-your-auditory-signature-master-sound-modification-for-zero-cost-for-2024/"><u>Boost Your Auditory Signature Master Sound Modification for Zero Cost for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-sound-experience-with-a-streamlined-windows-driver-update/"><u>Elevate Your Sound Experience with a Streamlined Windows Driver Update</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-inside-the-videography-realm-xstudio-study/"><u>In 2024, Inside the Videography Realm XStudio Study</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-drive-space-finding-and-reducing-huge-files-on-pcs/"><u>Managing Drive Space: Finding and Reducing Huge Files on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-display-precision-in-new-os/"><u>Optimizing Display Precision in New OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-screen-saver-duration-in-windows/"><u>Optimizing Screen Saver Duration in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinforcing-remote-access-on-windows-systems-with-ease/"><u>Reinforcing Remote Access on Windows Systems with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/robotaxi-from-tesla-a-sneak-peek-at-forecasted-prices-arrival-time-and-tech-specs-more-hearsay-to-come/"><u>Robotaxi From Tesla: A Sneak Peek at Forecasted Prices, Arrival Time & Tech Specs; More Hearsay to Come</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sky-high-setup-top-10-msistore-masterpieces/"><u>Sky-High Setup: Top 10 MSIStore Masterpieces</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mlining-your-filming-setup-the-beginners-companion-for-2024/"><u>Streamlining Your Filming Setup The Beginner's Companion for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-for-windows-11-computer-system-oversight/"><u>Swift Solutions for Windows 11 Computer System Oversight</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-11-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-solutions-fixing-windows-11-update-error-0x800f0922/"><u>Unlocking Solutions: Fixing Windows 11 Update Error 0X800f0922</u></a></li>
+</ul></div>
 

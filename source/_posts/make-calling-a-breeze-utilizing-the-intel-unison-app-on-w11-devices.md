@@ -1,7 +1,7 @@
 ---
 title: "Make Calling a Breeze: Utilizing the Intel Unison App on W11 Devices"
-date: 2025-01-18T00:34:23.812Z
-updated: 2025-01-24T23:31:11.612Z
+date: 2025-01-26T15:19:42.521Z
+updated: 2025-02-01T12:29:51.611Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can’t You Call Someone Directly Using Intel Unison?
 
  During the initial setup process of the Intel Unison app, it asks for a bunch of phone permissions. The list includes your phone storage, contacts, and messages. You must give location permissions to proceed with the app setup process. During that, the Intel Unison app also demands Bluetooth access on your phone. But why can’t it make calls?
 
  The reason behind this issue is that you haven’t paired your Windows 11 laptop with your phone’s Bluetooth. When you open the calls interface in the desktop app, it displays a blank screen with a message to pair with the mobile phone via Bluetooth and give access to phone contacts. So, you need to enable Bluetooth connectivity on your laptop and then pair it with the phone which has the Intel Unison app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Make Calls From Your Phone Using the Intel Unison App on Windows 11
 
@@ -48,20 +48,20 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 ![Add a New Bluetooth Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-a-new-bluetooth-device.jpg)
 3. Locate the phone in the list of available devices and click on it. Then click on the**Connect** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. You will receive a pairing prompt on your phone. Match the connection PIN and click on the**Pair** button.
 5. Launch the Intel Unison app on your system. Navigate to the left-hand side menu and click on the**Calls** option.
 6. In the Calls section, click on the**Show me how** button. Then click on the**Send request to phone** button.  
 ![Send Connection Request in Unison App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/send-connection-request-in-unison-app.jpg)
 7. Approve the pairing request on your phone. Return to the desktop app and click on the**Pair** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Lastly, click on the**Done** button
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Making Calls via the Intel Unison App
@@ -72,16 +72,12 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 ![Selecting a contact in Intel Unison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-a-contact-in-intel-unison.jpg)
 2. Go to the right-hand side section and**Click on the call** button to dial a number. If the selected contact has multiple phone numbers, click on the call icon next to a specific number you want to dial.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Calling a contact in Intel Unison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/calling-a-contact-in-intel-unison.jpg)
 
  The current app interface is a bit clunky, so clicking on the Show button doesn’t expand the call options. However, there is a separate tiny section that you can expand to mute calls, use a keypad, or end calls.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Disadvantages of Calling With Intel Unison
@@ -89,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
  When you make a call from your Windows 11 system, the app uses Bluetooth to connect and access the mobile phone. So, you have to rely on the laptop’s microphone to communicate with the person. The call experience will be better if you use a wired or wireless headset with an inbuilt microphone. If you use[dual-sim cards](https://www.makeuseof.com/tag/dual-sim-phones/) on your phone, you cannot choose a sim card to make the call. The app will pick whichever is the default option on the phone.
 
  Also, if you have a desktop, you will need to pick up a[Bluetooth adapter for Windows](https://www.makeuseof.com/tag/bluetooth-adapter-for-pc/) to connect and pair it with your phone. Only then you can use the calling feature in the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Calls Without Lifting Your Phone
 
@@ -109,19 +109,18 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-essential-guide-to-capturing-your-screens-stepwise-approach/"><u>[New] 2024 Approved Essential Guide to Capturing Your Screens - Stepwise Approach</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-quick-guide-to-precision-photo-backdrop-clean-up/"><u>[New] 2024 Approved Quick Guide to Precision Photo Backdrop Clean-Up</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-unlock-the-secrets-of-movie-maker-for-windows-11-with-our-guide-for-2024/"><u>[Updated] Unlock the Secrets of Movie Maker for Windows 11 with Our Guide for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/downloading-with-diligence-how-to-securely-save-imagesvideos-on-iphone/"><u>Downloading with Diligence How to Securely Save Images/Videos on iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-incorporate-portable-menus-in-windows-11plus/"><u>Effortlessly Incorporate Portable Menus in Windows 11+</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/experience-the-thrill-watching-the-olympic-games-live-stream-guide/"><u>Experience the Thrill: Watching the Olympic Games Live Stream Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-dji-air-2s-ultimate-drone-evaluation-and-ranking/"><u>Exploring the DJI Air 2S: Ultimate Drone Evaluation and Ranking</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-zooming-in-an-intensive-guide-to-youtube-live-stream-success/"><u>In 2024, Zooming In An Intensive Guide to YouTube Live Stream Success</u></a></li>
-<li><a href="https://games-able.techidaily.com/inquiring-about-the-value-proposition-for-ea-play/"><u>Inquiring About the Value Proposition for EA Play</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-restrictions-resetting-corporate-settings-in-chromeedge-pcs/"><u>Overcoming Restrictions: Resetting Corporate Settings in Chrome/Edge PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-windows-update-interruptions/"><u>Preventing Windows Update Interruptions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-tutorial-on-dell-docking-station-driver-update/"><u>The Ultimate Tutorial on DELL Docking Station Driver Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-protecting-privacy-top-7-windows-apps-148-chars/"><u>Ultimate Guide to Protecting Privacy: Top 7 Windows Apps (148 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-boot-up-clearing-non-visible-sign-in-screens/"><u>Windows 11 Boot Up: Clearing Non-Visible Sign-In Screens</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-tagging-strategy-the-list-of-powerful-insta-hashtags/"><u>[New] In 2024, Tagging Strategy The List of Powerful Insta Hashtags</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-wealth-with-youtube-shorts-ventures/"><u>[New] Unlocking Wealth with YouTube Shorts Ventures</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-20plus-secrets-to-insta-wonderful-videos-for-2024/"><u>[Updated] 20+ Secrets to Insta-Wonderful Videos for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-essential-tips-for-creating-videos-with-windows-8-moviemaker-for-2024/"><u>[Updated] Essential Tips for Creating Videos with Windows 8 MovieMaker for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/best-strategies-for-efficiently-backing-up-multiple-devices-with-cloud-storage/"><u>Best Strategies for Efficiently Backing Up Multiple Devices with Cloud Storage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-unauthorized-windows-server-error/"><u>Eradicating Unauthorized Windows Server Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explaining-and-resolving-windows-defenders-error-code-0x80004004/"><u>Explaining & Resolving Windows Defender's Error Code: 0X80004004</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-hololens-by-microsoft-a-3d-dream-come-true-for-2024/"><u>Exploring HoloLens by Microsoft A 3D Dream Come True for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-curb-the-high-load-of-wlanextexe/"><u>Guide to Curb the High Load of Wlanext.exe</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-realme-note-50-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Realme Note 50 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-future-of-flight-hubsans-revolutionary-h501s-explored/"><u>In 2024, The Future of Flight - Hubsan's Revolutionary H501S Explored</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-phone-numbers-appear-in-place-of-contacts-on-apple-messages/"><u>Troubleshooting: Phone Numbers Appear in Place of Contacts on Apple Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-your-task-scheduling-solve-troubles/"><u>Unleash Your Task Scheduling, Solve Troubles</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies to Fix a Flapping Control Key on Win11
-date: 2025-01-13T16:06:08.728Z
-updated: 2025-01-18T18:17:34.067Z
+date: 2025-01-26T09:19:21.866Z
+updated: 2025-01-31T18:53:55.667Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 
  Now that you know all the prime reasons that can contribute to the issue, let’s check out how to eliminate them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your Computer
 
  If the Ctrl key on your keyboard isn't functioning, your first course of action should be to [restart your Wiindows computer](https://www.makeuseof.com/windows-restart-methods/). This action will eliminate any potential bugs or glitches responsible for the problem. Before restarting, ensure that you save any active documents or work to prevent any data loss.
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 ![Keyboard layout on a Keyboard Testing website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-layout.jpg)
 
  If the website doesn't recognize the Ctrl key input, it's probable that your keyboard has sustained damage. There might be debris or other particles that are responsible for the issue. In that case, use a gentle brush or a microfiber cloth to cleanse the affected area. If you need help, check out our guide on how to [clean beneath keyboard keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Use the Windows Troubleshooter
 
@@ -80,15 +72,7 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 4. Click **Next**.  
 ![Hardware and Devices troubleshooter window on Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hardware-and-devices-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Hardware and Device troubleshooter will look for any available issues and fix them without much user input. After that, restart your computer and check for the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Change Keyboard Accessibility Settings
 
@@ -97,13 +81,18 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 1. Open Settings, choose **Accessibility** from the left sidebar, and select **Keyboard** from the right pane.  
 ![Keyboard option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-option.jpg)
 2. Turn off the toggle next to the **Sticky keys** and **Filter keys**.  
-![Sticky keys option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sticky-keys-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![Sticky keys option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sticky-keys-option.jpg)
+
  After that, restart your computer and check for the issue. If it continues, you can re-enable the sticky and filter keys.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall the Keyboard Driver
 
@@ -119,16 +108,24 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 ![Uninstall option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, restart your computer. Upon restart, Windows will automatically reinstall the keyboard driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Download the Latest Windows Update
 
  The issue may also arise from minor bugs or glitches in your current Windows version. To fix this, [manually update Windows](https://www.makeuseof.com/update-windows-manually/) to the latest build.
 
  Upon completing the update installation, restart your system and verify the functionality of the Ctrl key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Run SFC and DISM Scans
 
@@ -137,6 +134,10 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
  Problems with crucial system files on your PC can also affect the proper functioning of the Ctrl key. If the issue arises due to corruption in these important system files, you can run SFC and DISM scans.
 
  To learn how to run these scans, check out [how to repair corrupt Windows files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Perform a Clean Boot
 
@@ -160,22 +161,20 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-streaming-success-seekers-deciphering-the-platform-winner-vimeo-vs-youtubeplusdailymotion/"><u>[New] In 2024, Streaming Success Seekers Deciphering The Platform Winner - Vimeo vs YouTube+Dailymotion?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-open-world-originals-titles-similar-to-gta-v-for-2024/"><u>[New] Open World Originals Titles Similar To GTA V for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-driving-growth-with-metaverse-marketing-excellence/"><u>[Updated] Driving Growth with Metaverse Marketing Excellence</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-exclusive-dj-design-samples-high-quality-downloads-ready/"><u>[Updated] Exclusive DJ Design Samples High-Quality Downloads Ready</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-video-editing-strategies-with-gopro-studio/"><u>[Updated] Innovative Video Editing Strategies with GoPro Studio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convert-images-from-jpeg-to-png-for-free-with-movavis-web-tool/"><u>Convert Images From JPEG to PNG for Free with Movavi's Web Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertir-video-mkv-a-formato-mp4-online-sin-coste-herramientas-de-movavi/"><u>Convertir Video MKV a Formato MP4 Online Sin Coste: Herramientas De Movavi</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/fanfare-gaming-patch-for-2024/"><u>Fanfare Gaming Patch for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-hardware-glitch-hdd-issue-resolved/"><u>Fixed Hardware Glitch: HDD Issue Resolved</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-webp-to-jpg-converter-by-movavi-no-cost-fast-results/"><u>Free Online Webp to Jpg Converter by Movavi - No Cost, Fast Results</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-drivers-for-your-hp-laserjet-p1102w-free-windows-support/"><u>Get the Latest Drivers for Your HP Laserjet P1102W – Free Windows Support</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-online-converteer-3gp-naar-jpeg-efficient-beeldcodeconverting-met-movavi/"><u>Gratis Online Converteer 3GP Naar JPEG: Efficiënt Beeldcodeconverting Met Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guia-rapida-y-sencilla-conversion-sin-costo-en-linea-de-archivos-mp2-a-mp4-usando-herramientas-de-movavi/"><u>Guía Rápida Y Sencilla: Conversión Sin Costo en Línea De Archivos MP2 a MP4 Usando Herramientas De Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-mka-to-aac-file-transformation-service-by-movavi-completely-gratis/"><u>Online MKA-to-AAC File Transformation Service by Movavi, Completely Gratis!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-file-m4a-in-formato-wmv-online-e-gratuitamente-con-movavi/"><u>Trasforma File M4A in Formato WMV Online E Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zwart-en-wit-samen-in-een-foto-hoe-vertaal-je-rgb-naar-cmyk-met-movavi/"><u>Zwart en Wit Samen in Eén Foto - Hoe Vertaal Je RGB Naar CMYK Met Movavi</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-polarr-editor-unveiled-ultimate-visual-transformation/"><u>[New] Polarr Editor Unveiled Ultimate Visual Transformation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instas-influence-index-a-look-at-the-top-25-gurus-and-visionaries/"><u>[Updated] Insta’s Influence Index A Look at the Top 25 Gurus and Visionaries</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-trending-stock-images-and-behind-the-scenes-stories/"><u>[Updated] Top Trending Stock Images & Behind-the-Scenes Stories</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-step-by-step-screencasting-team-virtual-gatherings/"><u>2024 Approved Step-by-Step Screencasting Team Virtual Gatherings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-windows-10-seamless-media-importation-techniques/"><u>2024 Approved Unlocking Windows 10 Seamless Media Importation Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/arcadearchive-annotator/"><u>ArcadeArchive Annotator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-scripts-unblocking-blocked-windows-files/"><u>Decoding the Scripts: Unblocking Blocked Windows Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-insight-into-windows-component-services-toolset/"><u>Essential Insight Into Windows Component Services Toolset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-implementing-high-end-audio-in-windows-11/"><u>Guide to Implementing High-End Audio in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-the-msvcr110dll-lack-issue/"><u>How to Address the Msvcr110.dll Lack Issue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-sony-xperia-5-v-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Sony Xperia 5 V to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/la-noire-coming-to-your-computer-the-update-that-was-hard-to-believe-is-true/"><u>L.A. Noire Coming To Your Computer: The Update That Was Hard to Believe Is True!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-voice-only-windows-bluetooth-speaker-limitation/"><u>Overcoming Voice-Only Windows Bluetooth Speaker Limitation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-s-mode-steps-for-win-1110-users/"><u>Sidestep 'S Mode': Steps for Win 11/10 Users</u></a></li>
+<li><a href="https://win-special.techidaily.com/windows-control-panel-navigation-made-easy-with-expert-advice-by-yl-software-team/"><u>Windows Control Panel Navigation Made Easy with Expert Advice by YL Software Team</u></a></li>
 </ul></div>
 
