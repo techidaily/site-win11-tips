@@ -1,7 +1,7 @@
 ---
 title: Eliminate Spontaneous Scroll Wonders
-date: 2025-01-28T01:41:20.539Z
-updated: 2025-02-01T09:42:40.504Z
+date: 2025-01-29T21:05:14.630Z
+updated: 2025-02-03T02:11:46.202Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 ![Person using a mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/person-using-a-mouse.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're experiencing automatic scrolling on your Windows PC, these might be the reasons:
@@ -44,12 +44,16 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
  Now that you know the reasons behind this issue, let's discuss how to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Automatic Scrolling on Windows
 
  Let's apply the above solutions to fix this strange auto scroll issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. First, Perform Some Preliminary Checks
@@ -89,6 +93,10 @@ If the above basic checks don't help, apply the remaining fixes.
 
 ![Man Using Touchpad on Laptop](https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc709b29d6e1455394b97ec52a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you think the touchpad is causing the problem, disable it to find out. If disabling the touchpad stops auto-scrolling, the problem is originating from it. So, you can keep it turned off to avoid encountering the same problem. If the problem persists after disabling the touchpad, some software issues might be the culprit.
 
  If you are unfamiliar with the process, check out our guides on[disabling the touchpad on Windows 10](https://www.makeuseof.com/ways-to-disable-touchpad-in-windows-10/) (or[Windows 11](https://www.makeuseof.com/windows-11-disable-touchpad/) ).
@@ -105,15 +113,7 @@ If the above basic checks don't help, apply the remaining fixes.
 4. If too many mouse devices are installed here, uninstall them all. Then, unplug the mouse and connect it back, and Windows will automatically install the driver.  
 ![Uninstalling Unwanted Devices From the Mice and Other Pointing Devices Category in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-uninstalling-unwanted-devices-from-the-mice-and-other-pointing-devices-category-in-windows-device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you use a touchscreen, you should disable the touchscreen driver too. Sometimes, uninstalling this driver also fixes display problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Change Your Mouse Settings
 
@@ -129,18 +129,18 @@ If the above basic checks don't help, apply the remaining fixes.
 ![Changing the Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-changing-the-mouse-settings-in-the-windows-settings-app.jpg)
 7. After that, click on the**Additional mouse settings** link.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Opening Additional Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5-opening-additional-mouse-settings-in-the-windows-settings-app.jpg)
 8. Make sure**Vertical Scrolling** and**Horizontal Scrolling** values aren't set too high in the**Mouse Properties** window.  
 
+![Changing the Vertical and Horizontal Scrolling Values in Mouse Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/6-changing-the-vertical-and-horizontal-scrolling-values-in-mouse-properties-window.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-![Changing the Vertical and Horizontal Scrolling Values in Mouse Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/6-changing-the-vertical-and-horizontal-scrolling-values-in-mouse-properties-window.jpg)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Auto-Scrolling on Windows, Fixed
 
@@ -161,24 +161,24 @@ If the above basic checks don't help, apply the remaining fixes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-best-of-the-best-photo-overlays-and-text-editors-review/"><u>[New] Best of the Best Photo Overlays & Text Editors Review</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-discreet-watcher-of-social-media-life-for-2024/"><u>[New] Discreet Watcher of Social Media Life for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-your-switch-lifespan-5-key-steps/"><u>Boost Your Switch Lifespan: 5 Key Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/brighten-up-your-pc-with-a-new-taskbar-color-on-windows-11/"><u>Brighten Up Your PC with a New Taskbar Color on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/counteracting-busy-resource-status-on-windows-11-systems/"><u>Counteracting Busy Resource Status on Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decibels-dominance-the-ultimate-list-of-programs-for-above-100-output/"><u>Decibels Dominance: The Ultimate List of Programs for Above-100% Output</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-run-task-manager-as-an-administrator-in-windows-11/"><u>How to Run Task Manager as an Administrator in Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-integrate-a-logitech-mouse-into-your-computer-system/"><u>How To Seamlessly Integrate a Logitech Mouse Into Your Computer System</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oppo-reno-9a-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Oppo Reno 9A Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-fn-key-modifications-in-win-1011/"><u>Mastering FN Key Modifications in Win 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-git-management-with-github-desktop-on-windows-1011/"><u>Mastering Git Management with GitHub Desktop on Windows 10/11</u></a></li>
-<li><a href="https://fox-info.techidaily.com/mastering-transition-logic-pro-xs-audio-fade-technique-for-2024/"><u>Mastering Transition Logic Pro X's Audio Fade Technique for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/moving-beyond-flashy-features-to-essentials/"><u>Moving Beyond Flashy Features to Essentials</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mp4-to-mp3-conversion-made-easy-top-converters-reviewed/"><u>New In 2024, MP4 to MP3 Conversion Made Easy Top Converters Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/selecting-the-right-nvidia-driver-entertainment-hubs-vs-games/"><u>Selecting The Right Nvidia Driver: Entertainment Hubs vs Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-typing-efficient-shortcuts-for-snippets/"><u>Streamlined Typing: Efficient Shortcuts for Snippets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-path-to-a-more-dynamic-menu-adding-directories-in-windows-11/"><u>The Path to a More Dynamic Menu: Adding Directories in Windows 11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-strategy-for-high-quality-remote-recordings-for-2024/"><u>The Ultimate Strategy for High-Quality Remote Recordings for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-end-screen-creation-made-simple-free-templates-and-guides/"><u>[Updated] In 2024, End Screen Creation Made Simple - Free Templates & Guides</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximize-ms-edge-usage-understanding-and-using-picture-in-picture/"><u>[Updated] Maximize MS Edge Usage Understanding and Using Picture-in-Picture</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-motorcycles-viewfinder-gems-top-5-helmets-with-hats-for-the-modern-rider/"><u>2024 Approved Motorcycle's Viewfinder Gems – Top 5 Helmets with Hats for the Modern Rider</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-taskbar-inactivity-in-windows-os/"><u>Addressing Taskbar Inactivity in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dismantling-lan-access-barriers-on-winsminecraft/"><u>Dismantling LAN Access Barriers on WinsMinecraft</u></a></li>
+<li><a href="https://facebook.techidaily.com/does-meta-keep-my-vr-life-more-private-than-fb/"><u>Does Meta Keep My VR Life More Private than FB?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-setup-windows-11-arm-from-an-iso-file-stepwise-approach/"><u>Efficiently Setup Windows 11 ARM From an ISO File Stepwise Approach</u></a></li>
+<li><a href="https://win-hot.techidaily.com/future-of-windows-control-panel-secure-as-microsoft-confirms-continuation-post-rumors-according-to-zdnet-analysis/"><u>Future of Windows Control Panel Secure as Microsoft Confirms Continuation Post Rumors, According to ZDNet Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-you-to-wipe-login-page-contacts/"><u>Guiding You to Wipe Login Page Contacts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-track-of-windows-shots-folders/"><u>Keeping Track of Windows Shots' Folders</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/master-languages-with-mondlys-updated-guide/"><u>Master Languages with Mondly's Updated Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-strategies-for-unlocking-store-apps-directory/"><u>Proven Strategies for Unlocking Store Apps Directory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconfiguring-account-lockout-limit-post-failed-sign-in-in-windows-1011/"><u>Reconfiguring Account Lockout Limit Post-Failed Sign-In in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-uninstall-failure-windows-1011-access-issue/"><u>Resolving Uninstall Failure: Windows 10/11 Access Issue</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-realme-narzo-n55-by-fonelab-android-recover-data/"><u>Undelete lost data from Realme Narzo N55</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-wintoys-unlocking-a-versatile-tool-in-windows-os/"><u>Understanding WinToys: Unlocking a Versatile Tool in Windows OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-my-little-ones-enjoy-these-free-kids-movies-from-our-favorite-websites/"><u>Watch My Little Ones Enjoy These Free Kids' Movies From Our Favorite Websites</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Smart 7 HD | Dr.fone</u></a></li>
 </ul></div>
 

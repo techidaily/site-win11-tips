@@ -1,7 +1,7 @@
 ---
 title: Activating Nighttime Display in Notepad Windows 11 Edition
-date: 2024-08-16T01:12:19.295Z
-updated: 2024-08-17T01:12:19.295Z
+date: 2025-02-01T20:50:46.157Z
+updated: 2025-02-02T19:46:33.195Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
 
 Whichever method you prefer, we will cover both methods in detail.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Modify the Ease of Access Settings
 
  The easiest route to enabling dark mode in Notepad on Windows 10 is by enabling the High contrast feature in the Ease of Access settings. However, this feature might not be suitable for everyone.
@@ -46,9 +43,6 @@ Here is how you can enable it:
 3. Choose the**High contrast** option from the left pane.
 4. Turn the toggle on for**Turn on high contrast** .  
 ![Enable high contrast on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/turn-on-high-contrast.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your system will take a few seconds to apply these changes. Once that is done, you can launch the notepad to see if the changes are applied.
 
@@ -59,9 +53,6 @@ Here is how you can enable it:
  The most popular option is the [Black Notepad app](https://apps.microsoft.com/store/detail/black-notepad/9P20VW17VMPK?hl=en-us&gl=US) , whose functionality is almost similar to that of the default notepad in Windows. It is available for free in the Microsoft Store, so you can download and start using it in no time.
 
 ![Black Notepad in Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/black-notepad.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also look for other options online with advanced functionality if you use Notepad on a regular basis.
 
@@ -70,6 +61,10 @@ Here is how you can enable it:
 ![Choose another app to open file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/open-with-choose-another-app.jpg)
 
  Choose the targeted app in the following dialog and checkmark the box for "Always use this app to open .txt files."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable Dark Mode in Notepad on Windows 11
 
@@ -86,12 +81,18 @@ Here is how you can make the changes within the Settings app:
 3. Click on**Colors** in the following window.  
 ![Color settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/personalization-colors-1.jpg)
 4. Expand the dropdown for**Choose your mode** and choose**Dark** from the context menu.  
-![Dark mode option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/choose-your-mode-dark.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![Dark mode option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/choose-your-mode-dark.jpg)
+
  You can now launch the Notepad and check if the dark mode has been enabled successfully. If not, try following the steps in the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Modify the Notepad Settings
 
@@ -103,13 +104,18 @@ Follow these steps to proceed:
 2. In the following window, click on the**App theme** option.
 3. Choose**Dark** from the options and see if the changes have been made successfully.  
 ![Notepad settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad2-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This should enable the dark mode in Notepad successfully. Nevertheless, in Windows 11 as well, you can install third-party applications from the Microsoft Store or other sources if you cannot follow the aforementioned methods for some reason.
 
  To undo these changes, simply follow the steps listed above again and choose the**Light** or**Use System setting** option from the list available. This should return the Notepad back to the light mode but if you are unable to do so, head over to our [guide on how to fix a Windows device that is stuck in dark mode](https://www.makeuseof.com/windows-device-stuck-dark-mode/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable Dark Theme in Notepad++
 
@@ -121,17 +127,15 @@ Follow these steps to proceed:
 
 1. Launch Notepad ++ and head over to**Settings** \>**Style Configurator** .  
 ![Style configurator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-settings-style-configurator.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 2. In the following window, expand the dropdown for**Select theme** and choose**Deep Black** .  
 ![Deep black theme in Notepad++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-theme-deep-black.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. You can customize the app further by changing the overall style of the app, fonts, and colors. Once you are done, click on**Save & Close** .
 
  Your Notepad ++ app should display the dark mode now. Don’t forget to set it as the default text editor by following the steps we highlighted above.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Dark Mode in Notepad With Ease
 
@@ -139,14 +143,11 @@ Follow these steps to proceed:
 
  Hopefully, the methods listed above helped you in switching to dark mode without any issues. You can always revert the changes by following the same steps if you ever have a change of mind.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -155,8 +156,19 @@ Follow these steps to proceed:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-achieving-excellence-in-work-and-online-content/"><u>[Updated] 2024 Approved Achieving Excellence in Work and Online Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leveraging-youtube-for-affiliate-earnings/"><u>[Updated] Leveraging YouTube for Affiliate Earnings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-make-your-instagram-posts-pop-with-correct-video-dimensions/"><u>[Updated] Make Your Instagram Posts Pop with Correct Video Dimensions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-introduction-to-windows-exepe-file-formats/"><u>An Introduction to Windows EXE/PE File Formats</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/delving-into-the-core-distinctions-of-cable-broadcast-vs-digital-streaming-services/"><u>Delving Into the Core Distinctions of Cable Broadcast Vs. Digital Streaming Services</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-hazards-of-cheap-windows-key-purchases/"><u>Navigating the Hazards of Cheap Windows Key Purchases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-windows-11-search-top-5-expert-methods/"><u>Optimize Your Windows 11 Search: Top 5 Expert Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-discord-launch-and-update-check-with-windows-startup/"><u>Preventing Discord Launch and Update Check with Windows Startup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/skys-bounty-the-ultimate-guide-to-drone-video-editing/"><u>Sky's Bounty The Ultimate Guide to Drone Video Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-ways-for-swift-epic-game-loading/"><u>Unveiling Windows Ways for Swift Epic Game Loading</u></a></li>
+</ul></div>
 

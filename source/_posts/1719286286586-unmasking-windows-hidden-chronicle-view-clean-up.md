@@ -1,7 +1,7 @@
 ---
 title: Unmasking Windows' Hidden Chronicle - View, Clean Up
-date: 2024-08-16T01:12:23.507Z
-updated: 2024-08-17T01:12:23.507Z
+date: 2025-01-29T01:59:47.113Z
+updated: 2025-02-02T19:38:12.126Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 
  There are plenty of [ways to disable Windows' tracking services](https://www.makeuseof.com/disable-windows-11-tracking-features/), but even after you've done that, Microsoft will still have the data you've already given it. As such, you'll need to scrub that data away.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Delete Your Windows Activity History
 
  You can easily see what data Microsoft stores and how to delete it.
@@ -49,20 +46,15 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 
 1. Click on the **Settings** button on the Start menu.  
 ![Windows 10 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Then, click **Privacy**.  
-![Windows 10 Privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-privacy.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Windows 10 Privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-privacy.png)
 3. On the left bar, select **Activity History**.  
 ![Windows 10 Activity Sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-sidebar.png)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 4. Under Clear Activity History, click the **Clear** button.  
 ![Windows 10 clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-clear.png)
 
@@ -74,19 +66,30 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 1. When you go to Settings, you'll need to select **Privacy & security** from the left sidebar. From the right pane, you'll need to select **Activity history**.  
 ![navigating to activity history in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click the **Clear** button under the **Clear activity history** section, and you're done.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![clearing activity history in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history-disable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Delete Your Windows Activity History via Your Microsoft Account
 
  You should also clear data from the cloud. To do that, click on **Manage my Microsoft account activity data**. Log into your Microsoft account and delete all types of activity data on the cloud. You'll need to do this separately for each section. For example, if you want to clear your Search history, you'll need to expand the section and click on **Clear all search history**.
 
 ![deleting activity history from the cloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/delete-ms-activity-history.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disable Activity Tracking on the Windows 10 Timeline
@@ -100,22 +103,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Then, untick **Send my activity history to Microsoft** to stop your data from being sent to Microsoft's servers. Now that both boxes are unticked, you should notice a lack of activity tracking in the future.
 
 ![Checking the options in Windows 10's activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-checkboxes.png)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to View All Windows 10 Activity History
 
  If you want to view all activity history on Windows 10, you can do so on the [Microsoft account privacy website](https://account.microsoft.com/privacy/). You'll see various categories when you access the website and log in. Each one will take you to a page that shows all the information Microsoft has stored about you relating to that category.
 
  There's a lot to take in on this page, so here's a brief rundown of each category which you should check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Windows 10 Activity History Categories
 
 ![The categories on the activity history website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-categories.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Browsing history** handles the data you've stored via browsing Microsoft's browser, Edge. As such, if you only use Edge to download Firefox or Chrome, you probably won't find much data here. If Edge is your primary browser, take a look to see what browsing habits are stored here.
 
@@ -131,9 +136,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  You can also click on the **Activity History** tab to view a complete list of all data types: voice, search, browsing history, and location information. Microsoft also makes it easy to filter down to each category by clicking on it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Use Windows 10 and Maintain Your Privacy
 
  Microsoft is eager to get everyone using Windows 10 as quickly as possible, resorting to offering free upgrades to encourage migration. However, users have never considered Windows 10 as a bastion of privacy. Ever since its release, users have discovered ways that the operating system tracks what you do.
@@ -150,8 +152,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Let's explore how Microsoft stores data on you and how you can view your Windows activity history.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -159,5 +159,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-combat-fuzzy-visuals-facebook-videos-tips-and-tricks/"><u>[New] In 2024, Combat Fuzzy Visuals Facebook Videos Tips & Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-windows-hdr-video-features/"><u>[Updated] Exploring Windows HDR Video Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamlessly-shift-focus-with-picart-clear-borders/"><u>[Updated] Seamlessly Shift Focus with PicArt Clear Borders</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beating-the-most-vexing-iphone-x-problems-expert-tips-and-tricks/"><u>Beating the Most Vexing iPhone X Problems - Expert Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-windows-steam-broadcaster-errors/"><u>Combatting Windows Steam Broadcaster Errors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028185887-facebook/"><u>Facebook動画再生苦情を解決する簡単方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-draw-on-the-desktop-on-windows-11-and-11/"><u>How to Draw on the Desktop on Windows 11 & 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-keep-your-dualsense-in-top-form-virtually/"><u>How to Keep Your DualSense in Top Form Virtually</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-lock-personal-pattern-creation-tutorial/"><u>Mastering Window's Lock: Personal Pattern Creation Tutorial</u></a></li>
+<li><a href="https://fox-info.techidaily.com/must-see-vr-platforms-and-places-for-2024/"><u>Must-See VR Platforms and Places for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-normalcy-show-startups-on-task-manager/"><u>Restoring Normalcy: Show Startups on Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/synchronizing-camera-use-among-windows-programs/"><u>Synchronizing Camera Use Among Windows Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/terminals-in-win11-undo-changes-and-start-new/"><u>Terminals in Win11: Undo Changes & Start New</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-creator-studio-secrets-a-step-by-step-tutorial-for-2024/"><u>Unlock Creator Studio Secrets A Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/virtualbox-v70-upgrade-guide-win11-edition-walkthrough/"><u>VirtualBox v7.0 Upgrade Guide – Win11 Edition Walkthrough</u></a></li>
+</ul></div>
 

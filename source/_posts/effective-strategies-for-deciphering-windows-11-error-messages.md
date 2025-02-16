@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Deciphering Windows 11 Error Messages
-date: 2025-01-28T08:54:28.523Z
-updated: 2025-02-01T15:08:58.630Z
+date: 2025-01-31T18:29:28.597Z
+updated: 2025-02-03T01:17:08.098Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Microsoft Error Lookup Tool?
@@ -63,21 +63,13 @@ Here’s how to do it:
 3. Now, press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** in the text box and press enter key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. In the Command Prompt window, type the following command and press the enter key:**cd C:\\** .
 5. Now, you will be in the parent directory. Type**Err** and press enter.  
 ![Running Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/running-microsoft-error-lookup-tool.jpg)
 6. Microsoft Error Lookup Tool will run and display the format to look up error codes along with other available parameters. Don’t close the tool yet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Check Error Codes Using Microsoft Error Lookup Tool
 
@@ -103,19 +95,27 @@ Repeat the following steps:
 ![Exporting Error Code Lookup results in Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-microsoft-error-lookup-tool.jpg)
 5. It will export the results to the text file named error on D drive. If the file doesn’t exist, the tool will create it with the same name. However, it won’t display any search result in the Command Prompt and just display the number of matches found.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Exporting Error Code Lookup results in a text file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-a-text-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, open the file, and you can read the entire list of error code results and begin troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can the Microsoft Error Lookup Tool Display Information About All Error Codes?
 
  Microsoft updates the tool to the latest version in 2019\. Since then, it hasn’t received an update. So, as newer builds or a[new version of Windows](https://www.makeuseof.com/windows-12-improve-upon-windows-11/) comes out, the tool may fail to produce results for a specific error code. But the chances of that are very slim. Moreover, it contains information only about Windows and some other Microsoft error codes. Don’t expect it to display information about errors you face inside a third-party application or program.
 
  So, you can use the error lookup tool without any worries and patiently wait for Microsoft to release a new build. You can check for the latest available build by visiting the official download page of the Microsoft Error Lookup Tool. Or, you can try a bunch of third-party options like Winerr or Error Lookup Tool for a more presentable error code lookup and troubleshooting experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lookup Error Details With Ease
 
@@ -136,19 +136,22 @@ Repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-chirp-with-charisma-producing-text-memes-now-for-2024/"><u>[New] Chirp with Charisma Producing Text Memes Now for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-momentum-go-from-zero-to-viral-in-fb-for-2024/"><u>[New] Mastering Momentum Go From Zero to Viral in FB for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-personal-creation-goals-selecting-between-tiktok-and-youtube-shorts/"><u>2024 Approved Personal Creation Goals Selecting Between TikTok and YouTube Shorts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-visual-victory-apple-and-android-highlight-covers/"><u>2024 Approved Visual Victory Apple & Android Highlight Covers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/an-in-depth-look-at-chatgpt-unrestricted-models-are-they-right-for-you/"><u>An In-Depth Look at ChatGPT Unrestricted Models – Are They Right for You?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-oppo-reno-10-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Oppo Reno 10 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-opengl-error-code-3-from-nvidia/"><u>How to Eradicate OpenGL Error Code 3 From Nvidia</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-mastering-ifunny-meme-downloads-and-fun/"><u>In 2024, Mastering iFunny Meme Downloads & Fun</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovate-windows-life-unleashing-upcoming-tools-via-vivetool/"><u>Innovate Windows Life: Unleashing Upcoming Tools via ViVeTool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-insufficient-usb-functionality/"><u>Remedying Insufficient USB Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-swiftly-overcome-0x80070652-windows-update-glitches/"><u>Troubleshooting Guide: Swiftly Overcome 0X80070652 Windows Update Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-wwinplusp-glitch-on-pc-solutions-included/"><u>Troubleshooting: WWin+P Glitch on PC, Solutions Included</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-list-10-movie-gems-to-spark-inspiration-for-2024/"><u>Ultimate List 10 Movie Gems to Spark Inspiration for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-secure-files-fixing-windows-denials/"><u>Unlocking Secure Files: Fixing Windows Denials</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-expert-gopro-editor-software-for-smartphone-users-for-2024/"><u>[New] Expert GoPro Editor Software for Smartphone Users for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-wirecast-for-facebook-live-broadcasts/"><u>[Updated] 2024 Approved Mastering Wirecast for Facebook Live Broadcasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-vr-game-engines-2023-update-for-2024/"><u>[Updated] Top VR Game Engines -2023 Update for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battling-persistent-pc-issues-with-tower-of-fantasy-solutions-unveiled/"><u>Battling Persistent PC Issues with Tower of Fantasy – Solutions Unveiled!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/browsing-lightly-identifying-minimal-resource-using-software-across-windowsmacoschromeos/"><u>Browsing Lightly: Identifying Minimal Resource-Using Software Across Windows/macOS/ChromeOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-internal-rdp-problems-on-windows-os/"><u>Eliminating Internal RDP Problems on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-managed-users-and-groups-in-win1110-homes/"><u>Enabling Managed Users and Groups in Win11/10 Homes</u></a></li>
+<li><a href="https://discover-great.techidaily.com/expert-techniques-for-professional-video-frame-rate-conversion/"><u>Expert Techniques for Professional Video Frame Rate Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-bypass-win11s-alarming-zero-error-alerts/"><u>How to Bypass Win11’s Alarming Zero Error Alerts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-proplus-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 Pro+ 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-poker-playpersonalized-projections/"><u>In 2024, POKER PLAYPERSONALIZED PROJECTIONS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insight-into-the-workings-of-windows-odbc-tools/"><u>Insight Into the Workings of Windows ODBC Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-utorrent-install-issues-on-a-windows-laptop/"><u>Navigating uTorrent Install Issues on a Windows Laptop</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/say-gday-like-a-true-blue-aussie/"><u>Say 'G'day!' Like a True Blue Aussie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-your-computers-print-command-conundrum-with-effective-tips/"><u>Solving Your Computer's Print Command Conundrum with Effective Tips.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-missing-mcuicnt-file-execution-issue-on-windows/"><u>Tackling Missing McUICnt File Execution Issue on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/visual-virtuoso-top-tips-to-overcome-blurry-windows-11-displays/"><u>Visual Virtuoso: Top Tips to Overcome Blurry Windows 11 Displays</u></a></li>
 </ul></div>
 

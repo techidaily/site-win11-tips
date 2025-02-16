@@ -1,7 +1,7 @@
 ---
 title: "Turn Off Internal GPU: A Guide for Windows Users"
-date: 2025-01-27T20:09:21.800Z
-updated: 2025-01-31T16:30:41.850Z
+date: 2025-02-01T19:37:45.754Z
+updated: 2025-02-03T00:50:13.747Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Check If You Have A Dedicated GPU
 
  Before you disable your integrated GPU (iGPU), you need to verify that your computer has a dedicated GPU installed and that it's working properly. To do that, right-click an empty part of the Taskbar and select **Task Manager**.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 ![Task Manager Option in the Taskbar Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Task-Manager-Option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Task Manager, select the **Performance** tab on the left and look at the number of GPUs available for your PC on the right. If there is more than one, then the other one is the dedicated GPU. In our case, **GPU 1** is the dedicated GPU, and if we click on it and scroll to the bottom, we can see that it says **Dedicated GPU Memory** in the rightmost panel.
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 ![the Performace tab of Task Manager with the dedicated GPU selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/performace-tab-of-task-manager-with-gpu-selected-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you confirm you have an extra GPU on your computer, you can disable the iGPU.
@@ -55,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 
 ![Opening device driver with windows run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/opening-device-manager-with-run.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Expand the **Display adapters** section, right-click your integrated GPU, and select **Disable device**.
 
 ![disabling an iGPU in Device Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disabling-igpu-in-device-manager.jpg)
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
  In the prompt that appears, confirm you want to disable the iGPU by clicking on **Yes**. That should turn off the integrated graphics on your Windows computer so that the system relies on the dedicated graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Turn Off Integrated Graphics?
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
  However, this may cause the iGPU to bottleneck the dedicated GPU in some scenarios if they're both running applications and there aren't enough system resources to go around.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Your Dedicated Graphics Card When You Need It
@@ -95,19 +95,15 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-proven-techniques-to-store-your-mov-videos-on-windows-10/"><u>[New] In 2024, Proven Techniques to Store Your .mov Videos on Windows 10</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-seamless-video-broadcasting-via-microsoft-stream-for-2024/"><u>[New] Seamless Video Broadcasting via Microsoft Stream for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nified-video-ventures-selecting-an-mcn/"><u>[New] Unified Video Ventures Selecting an MCN</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-creators-ultimate-playlist-the-best-free-sound-sources/"><u>[New] YouTube Creators' Ultimate Playlist The Best Free Sound Sources</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-enhancing-visuals-iphone-magnification-hacks/"><u>2024 Approved Enhancing Visuals IPhone Magnification Hacks</u></a></li>
-<li><a href="https://win-special.techidaily.com/comment-rechercher-et-recuperer-les-photographies-supprimees-en-mises-a-jour-de-windows-11-guide-etape-par-etape/"><u>Comment Rechercher Et Récupérer Les Photographies Supprimées en Mises À Jour De Windows 11 : Guide Étape Par Étape</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-samsung-galaxy-s23-fe-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Samsung Galaxy S23 FE to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-call-recording-a-step-by-step-guide/"><u>Mastering Windows Call Recording: A Step-by-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-honor-magic-5-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Honor Magic 5</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguarding-systems-5-key-approaches-to-fix-windows-defender-hiccup/"><u>Safeguarding Systems: 5 Key Approaches to Fix Windows Defender Hiccup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-windows-converter-options-roundup/"><u>Seamless Windows Converter Options Roundup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-to-overcome-error-code-0x00000001-in-xbox-game-pass/"><u>Solutions to Overcome Error Code 0X00000001 in Xbox Game Pass</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-comprehensible-guide-to-winning-at-ps1-in-windows-duckstation-way/"><u>The Comprehensible Guide to Winning at PS1 in Windows - Duckstation Way</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95766504-9781515415855-the-infinite-way/"><u>The Infinite Way | Free Book</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-3-tactics-to-grab-twitter-gifs-on-pc/"><u>[New] 3 Tactics to Grab Twitter GIFs on PC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-cutting-through-limitations-with-top-video-editor-alternatives/"><u>[New] Cutting Through Limitations with Top Video Editor Alternatives</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlink-from-youtube-shorts-follow-this-plan/"><u>[Updated] Unlink From YouTube Shorts - Follow This Plan</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-asmr-a-sound-path-to-wellness/"><u>2024 Approved ASMR A Sound Path to Wellness?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crucial-aspects-of-revamping-your-windows-setup/"><u>Crucial Aspects of Revamping Your Windows Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-resetting-windows-11-applications/"><u>Guide to Resetting Windows 11 Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-bluetooth-not-found-error-on-windows-11-a-step-by-step-guide/"><u>Resolve the Bluetooth Not Found Error on Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-overcoming-windows-no-internet-issue/"><u>Steps for Overcoming Windows No Internet Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-desktop-tips-for-a-win11-masterpiece/"><u>Transform Your Desktop: Tips for a Win11 Masterpiece</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/troubleshooting-guide-steps-to-fix-your-scanner-when-it-stops-functioning-tips-from-yl-computing/"><u>Troubleshooting Guide: Steps to Fix Your Scanner When It Stops Functioning - Tips From YL Computing</u></a></li>
 </ul></div>
 

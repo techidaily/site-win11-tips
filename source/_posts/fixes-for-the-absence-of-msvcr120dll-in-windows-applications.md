@@ -1,7 +1,7 @@
 ---
 title: Fixes for the Absence of msvcr120.dll in Windows Applications
-date: 2025-01-30T11:17:28.122Z
-updated: 2025-02-01T11:41:37.796Z
+date: 2025-01-29T23:26:14.041Z
+updated: 2025-02-02T19:04:34.232Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Repair the Microsoft Visual C++ Redistributable
@@ -43,7 +43,11 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 ![Repair the Microsoft Visual C++ Redistributable on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-the-microsoft-visual-c-redistributable-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reinstall Microsoft Visual C++ Redistributable
@@ -55,17 +59,9 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 3. Tick the **vcredist\_x64.exe** and **vcredist\_x86.exe** checkboxes and click **Next**.  
 ![Download the Microsoft Visual C++ Redistributable.png](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/download-the-microsoft-visual-c-redistributable-png.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Double-click the downloaded setup file and follow the on-screen prompts to finish the installation process. After that, check if the error occurs again.
 
  If you are using 64-bit Windows, you can install both vcredist\_x64.exe and vcredist\_x86.exe. However, if you have a 32-bit version of Windows, you should only install vcredist\_x86.exe. You can [tell if the Windows version you are using is 32-bit or 64-bit](https://www.makeuseof.com/tag/4-easy-ways-to-know-if-youre-on-a-64-bit-version-of-windows/) by checking the system information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Copy the Msvcr120.dll From Another Computer
 
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
  Once you get the msvcr120.dll file, you can paste it into the appropriate folder. If you are using the 64-bit version, you should paste it into **Local Disk (C:) > Windows > System32**. For the 32-bit version, you should paste it into **Local Disk (C:) > Windows > SysWOW64**.
 
 ![MSVCR120 in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/msvcr120-in-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update or Reinstall the Problematic Program
 
@@ -96,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 4. Paste the following command and press **Enter** to re-register the msvcr120.dll file.  
 `regsvr32 MSVCR120.dll`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Try Some Generic Fixes to Resolve the Msvcr120.dll Missing Error
 
  If you are still getting the msvcr120.dll missing error at this point, you can try some of the generic fixes to resolve the error message. Let's go over all of them quickly one by one.
@@ -109,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 * **Update Drivers:** A malfunctioning driver could interfere with your apps and programs and trigger such errors. Hence, it’s a good idea to update the drivers on your PC using a [free driver updater tool](https://www.makeuseof.com/windows-best-free-driver-updaters/).
 * **Install Windows Updates:** It’s possible that the error in question is occurring due to a bug within Windows. If that’s the case, [installing pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) should help fix it.
 * **Perform a System Restore:** If the msvcr120.dll missing error has only started appearing recently, you can [use system restore to revert Windows](https://www.makeuseof.com/use-system-restore-windows/) to its earlier state. This will allow you to undo any recent system changes that may have caused the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore the Missing the Msvcr120.dll File on Windows
 
@@ -128,16 +128,19 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-go-big-or-go-home-full-screen-fb-videos/"><u>2024 Approved Go Big or Go Home Full-Screen FB Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-hidden-perspectives-what-youre-ignoring-as-a-stories-viewer/"><u>2024 Approved Hidden Perspectives What You're Ignoring as a Stories Viewer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-user-data-safety-assessed/"><u>ChatGPT: User Data Safety Assessed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-not-empty-directive-a-strategic-approach-to-x80070091-errors/"><u>Conquering 'Not Empty Directive': A Strategic Approach to X80070091 Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-note-display-for-windows-1110/"><u>Customizing Note Display for Windows 11/10</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/epic-battles-and-dynamic-choreography-for-tiktoks/"><u>Epic Battles & Dynamic Choreography for TikToks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-upgrades-forgotten-uncover-windows-11s-hidden-features/"><u>Essential Upgrades Forgotten? Uncover Windows 11’S Hidden Features</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-capturing-content-with-precision-best-practices-for-igtv-video-downloads/"><u>In 2024, Capturing Content with Precision Best Practices for IGTV Video Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsofts-official-support-termination-for-windows-781-users/"><u>Microsoft's Official Support Termination for Windows 7/8.1 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-software-stumbling-blocks-fix-sse-skyrim/"><u>Solving Software Stumbling Blocks: Fix SSE Skyrim</u></a></li>
-<li><a href="https://program-issues.techidaily.com/success-strategies-against-endgame-hurdle-decoding-and-defeating-tfla0002/"><u>Success Strategies Against Endgame Hurdle: Decoding and Defeating TFLA0002</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-pinnacle-all-in-one-4k-with-touch-display/"><u>[New] Pinnacle All-in-One, 4K with Touch Display</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elevate-your-ad-game-a-deep-dive-into-spotify-promotion/"><u>2024 Approved Elevate Your Ad Game A Deep Dive Into Spotify Promotion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bard-emergence-google-redefines-artificial-intelligence-landscape/"><u>Bard Emergence: Google Redefines Artificial Intelligence Landscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-high-dpi-displays-a-windows-guide/"><u>Dealing with High DPI Displays: A Windows Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-of-unresponsive-microphone-in-cs-go-comprehensive-guide/"><u>Fixing the Issue of Unresponsive Microphone in CS: GO - Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-novel-editing-techniques-the-synergy-of-storyremix-and-windows-11/"><u>In 2024, Explore Novel Editing Techniques The Synergy of StoryRemix & Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-efficiency-essential-7-strategies-in-windows-11-38/"><u>Maximizing Efficiency: Essential 7 Strategies in Windows 11 (38)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-utilizing-toolbar-features-in-microsofts-pcm-win11/"><u>Navigating and Utilizing Toolbar Features in Microsoft's PCM Win11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-auto-brightness-glitch-discover-7-swift-solutions/"><u>Overcome iPhone Auto-Brightness Glitch: Discover 7 Swift Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-systems-graphics-with-windows-11-tips/"><u>Revive Your System's Graphics with Windows 11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-repair-exploration-sifting-through-disms-role-with-chkdsksfc/"><u>System Repair Exploration: Sifting Through DISM's Role with CHKDSK/SFC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-windows-pc-select-prime-clock-saver-programs/"><u>Transform Windows PC – Select Prime Clock Saver Programs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-unleash-your-creativity-5-best-lip-sync-apps-for-making-epic-videos/"><u>Updated 2024 Approved Unleash Your Creativity 5 Best Lip Sync Apps for Making Epic Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/visualize-freely-premium-no-cost-screen-capture-tools/"><u>Visualize Freely Premium No-Cost Screen Capture Tools</u></a></li>
 </ul></div>
 

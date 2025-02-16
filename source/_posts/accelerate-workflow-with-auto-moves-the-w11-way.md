@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Workflow with Auto-Moves: The W11 Way"
-date: 2024-08-16T01:14:22.664Z
-updated: 2024-08-17T01:14:22.664Z
+date: 2025-01-30T00:06:17.273Z
+updated: 2025-02-02T20:47:05.235Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
  macOS has a native "New Folder with Selection" context menu option which automatically bundles all selected files into a new folder. It's a convenient two-in-one option for creating a folder and moving selected files into it. It’s a pity Windows 11 doesn’t have a similar context menu option.
 
  However, you can add this feature to Windows 11’s context menu with Files 2 Folder and TeraCopy. Both software packages add context menu options for putting selected files into new folders. This is how you can put selected files into new folders in Windows 11\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Place Selected Files Into a New Folder With Files 2 Folder
 
@@ -38,13 +42,18 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 ![The Files 2 Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/files2folder-window.jpg)
 8. Click **OK** to create the new folder with the files selected moved into it. The new folder will be in the directory where you selected the files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also select one of three alternative folder creation options within the Files 2 Folder window. The **Move each file to individual subfolders based on their names** option does what its label says. Or create a dated directory by selecting **Move all selected files to a date folder**.
 
  If you need to organize selected files according to format, select **Move each file to subfolders based on their file extensions**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Place Selected Files Into a New Folder With TeraCopy
 
  TeraCopy is freeware software for Windows 11, 10, 8, and 7 that enables users to set up and automate move and copy file operations. Once you integrate TeraCopy with Explorer’s context menu, it will add a **New folder with selection** option you can click to quickly put the selected files into a new folder.
@@ -56,15 +65,12 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 3. Go through the installer, and at the end, click **Finish** with **Launch TeraCopy** selected.
 4. Next, click the **Settings** cog icon in TeraCopy.  
 ![The Teracopy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/teracopy-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Make sure the **Add to Explorer context menu** option is selected.
 6. Click **OK** to exit the preferences and close the TeraCopy window.  
 ![The Add to Explorer context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-to-explorer-context-menu.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that TeraCopy is ready to go, let's put it to use.
@@ -72,24 +78,21 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 1. Hold down **CTRL** and click the files you want to put into a folder.
 2. Right-click to select **Show more options** and the **New folder with selection** option.  
 ![The New folder with selection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-folder-with-selection-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Then input a title for your new folder and press **Enter**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. The new folder is created as a subfolder within the directory that included your original file selection. Open the new folder to view and access the files you selected to move into it.
 
  TeraCopy also provides us with another way to move more files into your new folder. To do so, select **Menu** \> **Add files** in the TeraCopy window. Select the files you want to move and click **Open**. Then click **Move** \> **Browse** to choose the directory and press the **Select Folder** button.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Add a Handy New Folder Creation Option to Windows 11’s Context Menu
 
  macOS' folder creation option is a lifesaver, and it's a shame Windows doesn't have it by default. We can only be grateful for TeraCopy and Files 2 Folders enabling us to utilize the same feature on Windows 11, and we can only hope Windows 12 adds it by default.
 
  However, you can add this feature to Windows 11’s context menu with Files 2 Folder and TeraCopy. Both software packages add context menu options for putting selected files into new folders. This is how you can put selected files into new folders in Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -98,5 +101,17 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-echoai-creatives-harmonizing-image-edits/"><u>[New] 2024 Approved EchoAI Creatives Harmonizing Image Edits</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-key-steps-for-an-optimal-chromebook-zooming-experience/"><u>[Updated] 2024 Approved Key Steps for an Optimal Chromebook Zooming Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-forth-forgotten-windows-top-6-techniques-in-win11/"><u>Bringing Forth Forgotten Windows: Top 6 Techniques in Win11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-android-tools-for-video-recording/"><u>Essential Android Tools for Video Recording</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-error-23-in-apex-legends-for-a-smooth-gaming-experience/"><u>How to Fix the 'Error 23' In Apex Legends for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone 6 Plus</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-dns-configuration-process-on-windows-11/"><u>Navigating the DNS Configuration Process on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triggering-windows-11s-stealthy-taskbar-spotlight/"><u>Triggering Windows 11'S Stealthy Taskbar Spotlight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-potential-masterful-docx-to-pdf-migration/"><u>Unlocking Windows 11'S Potential: Masterful DOCX to PDF Migration</u></a></li>
+</ul></div>
 

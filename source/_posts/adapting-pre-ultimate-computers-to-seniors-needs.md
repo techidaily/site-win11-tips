@@ -1,7 +1,7 @@
 ---
 title: Adapting Pre-Ultimate Computers to Seniors' Needs
-date: 2024-08-16T01:13:51.675Z
-updated: 2024-08-17T01:13:51.675Z
+date: 2025-01-30T17:53:46.165Z
+updated: 2025-02-02T19:59:14.722Z
 tags:
   - windows10
   - windows11
@@ -43,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 ## 3\. Rename Programs and Apps With an Accurate Description
 
 ![Make your grandparents PC accessible with large desktop items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/make-your-grandparents-pc-accessible-with-large-desktop-items.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There’s a high chance that your grandparents won’t associate “Chrome” with the internet, “Outlook” with their email service provider, or find it easy to differentiate between each visual icon. Brand names and icon designs of various programs will seem nonsensical to your elderly relatives, so it’s best to rename desktop icons to something more descriptive that they will understand.
@@ -52,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
  You could either decide on new simple labels yourself (for example, change “Google Chrome” to “Internet Browser”.) Alternatively, ask your grandparents what they call each program and rename each shortcut icon as per your relative’s preference.
 
  To change the name of program shortcuts, simply right-click each icon and either click **Rename** or press **F2** to enter a personalized label.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set Up Email Filters to Avoid Message Overloads
 
@@ -70,18 +75,6 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
  Once inbox rules are set in Outlook, all new emails will be redirected to your chosen folder. This should declutter your grandparents' inbox and make it less confusing for them to access.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Enable Remote Desktop
 
  Even with all your efforts to make your grandparents' computer as accessible as possible, it’s likely they’ll still run into difficulties. While they may attempt to explain to you what they see on their screen over the phone, enabling remote desktop access can make the fixing process much easier when you’re not around.
@@ -91,8 +84,9 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 **Download:**[TeamViewer](https://www.teamviewer.com/en/download/windows/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Write Basic Instructions in Word and Save the Files to Desktop
 
  One way to empower your senior relative to take control of their computer is to give them some basic instructions that they can refer to at their disclosure. That way, they won’t need to call you up for advice or remote access any time they encounter PC issues.
@@ -102,17 +96,15 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 ## 7\. Uninstall All Bloatware and Unnecessary Programs
 
 ![Remove bloatware from your grandparent's PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/remove-bloatware-from-your-grandparent-s-pc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Bloatware](https://www.makeuseof.com/what-is-bloatware/)—or Potentially Unwanted Programs (PUP)— are programs that you don’t want, that take up hardware space, and often slow down your computer. When it comes to your grandparents' computer, their bloatware is likely to come as pre-installed software. It’s unlikely that your grandparents will want or benefit from any bloatware, so it’s best to remove it for them.
 
  Luckily, you can [easily remove bloatware from Windows](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) and other computers. Simply navigate to **Settings > Apps >** **Installed apps** to identify and uninstall any unwanted programs.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Disable Automatic Updates
 
  While computer updates can be important when new versions are released, automatic updates can confuse, disrupt, or even worry senior family members. If they’re using an ancient piece of hardware or if their computer use is very basic, automatic updates might not even be necessary for them to use their PC for their intended purposes.
@@ -121,14 +113,15 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
  Make sure you manually check available updates and implement any appropriate changes when necessary when you visit your grandparents.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 9\. Create Templates for Letters
 
  If your grandparents write letters or emails often, it can be useful for them to have a template with the correct formatting ready to use when needed. Being able to send correspondence—whether by post or electronically—can help preserve their sense of independence as they continue to handle their own affairs.
 
  Consider creating letter templates in Word (or their preferred word processor) and save the document to the desktop so that they can easily access it. You can also [create email templates in Outlook](https://www.makeuseof.com/how-to-make-and-use-email-template-outlook/) and Gmail so that your elderly relative can just focus on the content of their messages on their computer without worrying about any technicalities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Making Your Grandparents' Computer More Accessible Can Preserve Their Sense of Independence
 
@@ -138,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
  Here are ways you can make your older relatives' computer more accessible to boost their sense of independence.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -147,5 +138,24 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-does-immediate-subscription-enhance-user-engagement-on-youtube/"><u>[New] 2024 Approved Does Immediate Subscription Enhance User Engagement on Youtube?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-streaming-made-simple-free-downloader-to-mp3s-now/"><u>[New] In 2024, Streaming Made Simple Free Downloader to MP3s Now</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-surge-in-online-income-the-revelation-of-500plus-subscribers-power/"><u>[New] In 2024, Surge in Online Income The Revelation of 500+ Subscribers' Power</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchats-money-making-opportunities-exposed/"><u>[Updated] In 2024, Snapchat's Money-Making Opportunities Exposed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-navigating-zoom-chats-a-guide-to-effective-online-interactions/"><u>[Updated] Navigating Zoom Chats A Guide to Effective Online Interactions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensively-correcting-stuck-batch-files-on-windows/"><u>Comprehensively Correcting Stuck Batch Files on Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-enhance-your-virtual-stage-the-ultimate-list-of-top-6-microphones/"><u>In 2024, Enhance Your Virtual Stage The Ultimate List of Top 6 Microphones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-works-into-windows-os-step-by-step-guide/"><u>Integrating Works Into Windows OS: Step by Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/onedrives-blob-tag-issue-a-windows-based-solution-guide/"><u>OneDrive's Blob Tag Issue: A Windows-Based Solution Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-pc-reset-virtual-memory/"><u>Optimize Your PC: Reset Virtual Memory</u></a></li>
+<li><a href="https://review-topics.techidaily.com/overcome-titanfall-2-breakdowns-quick-troubleshooting-techniques-that-work/"><u>Overcome Titanfall 2 Breakdowns: Quick Troubleshooting Techniques That Work</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-lg-usb-connection-errors-a-comprehensive-fix-for-drivers-on-microsofts-latest-operating-systems/"><u>Overcoming LG USB Connection Errors: A Comprehensive Fix for Drivers on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-apex-of-atmospheric-analysis-windows-11s-top-weather-apps/"><u>The Apex of Atmospheric Analysis: Windows 11'S Top Weather Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-hidden-disk-space-with-windows-1011s-deletion-automation/"><u>Unlock Hidden Disk Space with Windows 10/11'S Deletion Automation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-correcting-installer-mishaps-a-win11-blueprint/"><u>Unraveling & Correcting Installer Mishaps: A Win11 Blueprint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/update-drivers-make-sure-your-graphics-card-drivers-are-up-to-date-for-optimal-performance/"><u>Update Drivers: Make Sure Your Graphics Card Drivers Are up to Date for Optimal Performance</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-hot-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Hot 30 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

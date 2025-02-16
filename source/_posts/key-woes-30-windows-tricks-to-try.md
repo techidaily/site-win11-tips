@@ -1,7 +1,7 @@
 ---
 title: Key Woes? 30 Windows Tricks to Try
-date: 2025-01-26T04:21:32.775Z
-updated: 2025-02-01T08:40:29.099Z
+date: 2025-01-31T21:30:32.709Z
+updated: 2025-02-02T18:16:57.172Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your Computer
 
  Restarting your computer is the first and simplest method to try when your arrow keys are not working. This can often resolve minor software glitches that might be causing the issue.
@@ -47,10 +43,14 @@ msdt.exe -id DeviceDiagnostic
 3. The Hardware and Devices Troubleshooter will now open. Click**Next** to start the scan process, and follow the instructions on the screen.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you complete the above steps, restart your computer and check if the arrow keys are now working.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run the Keyboard Troubleshooter
@@ -63,20 +63,20 @@ msdt.exe -id DeviceDiagnostic
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the process and then check if it solves the issue. If not, continue to the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Try Using a Different Keyboard
 
  This problem can also appear if you're using a faulty keyboard. So, if the arrow keys still don’t work after applying the methods above, try using a different keyboard. You can purchase it from an electronics store or borrow one from a friend to test it out.
 
  Connect the new keyboard to your computer and check to see if the arrow keys are now working. If yes, it means that your original keyboard was damaged and needs to be replaced.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update the Keyboard Driver
 
@@ -89,11 +89,11 @@ msdt.exe -id DeviceDiagnostic
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 5. Choose**Search automatically for drivers** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait until the process is complete, then restart your computer. After the restart, check if the arrow keys are now working. If not, reinstall the keyboard driver and see if it works.
 
@@ -123,22 +123,24 @@ To reinstall the keyboard driver, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-secrets-of-profitable-youtube-videos-necessary-views-explained/"><u>[New] In 2024, Secrets of Profitable YouTube Videos Necessary Views Explained</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-adobes-art-of-amusement-and-jest/"><u>2024 Approved Adobe's Art of Amusement and Jest</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-set-best-8-macbook-themes-and-skins/"><u>2024 Approved Ideal Set Best 8 MacBook Themes & Skins</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-non-sharex-heroes-for-secure-file-sharing/"><u>2024 Approved Non-ShareX Heroes for Secure File Sharing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-your-ultimate-guide-to-effortless-xbox-one-image-snaps/"><u>2024 Approved Your Ultimate Guide to Effortless Xbox One Image Snaps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-not-working-on-windows-11-discover-the-quick-solutions/"><u>Bluetooth Not Working on Windows 11? Discover the Quick Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-disabled-audio-controls-in-win-1011/"><u>Correcting Disabled Audio Controls in Win 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-robloxs-403-denial-message-for-windows-users/"><u>Decoding Roblox's 403 Denial Message for Windows Users</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-kensuns-travel-ready-tire-inflator-robust-performance-in-a-compact-design/"><u>Expert Analysis of Kensun's Travel-Ready Tire Inflator: Robust Performance in a Compact Design</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-efficiently-manage-wi-fi-settings-on-windows-11/"><u>How to Efficiently Manage Wi-Fi Settings on Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-yakuza-6-the-song-of-life-crashes-on-your-windows-computer/"><u>How to Resolve Yakuza 6 (The Song of Life) Crashes on Your Windows Computer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-the-expensive-price-tag-of-swagtrons-agile-swagboard-t1-justified-a-comprehensive-review/"><u>Is the Expensive Price Tag of Swagtron's Agile Swagboard T1 Justified? A Comprehensive Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-effectiveness-with-mspcm-toolbar-w11-style/"><u>Maximizing Effectiveness with MSPCM Toolbar, W11 Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalizing-your-windows-11-experience/"><u>Personalizing Your Windows 11 Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-temporary-files-error-on-windows-11/"><u>Resolving Temporary Files Error on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sifting-through-disks-what-separates-c-and-d/"><u>Sifting Through Disks: What Separates C: & D?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-process-integrating-emulated-games-in-windows-playnite/"><u>Step-by-Step Process: Integrating Emulated Games in Windows' Playnite</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-auditory-purity-in-ffmpeg-a-format-friendly-perspective/"><u>[New] In 2024, Auditory Purity in FFmpeg A Format-Friendly Perspective</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-depth-look-at-the-finest-free-srt-translation-tools-available-online/"><u>[New] In-Depth Look at the Finest Free SRT Translation Tools Available Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-in-game-magic-discover-4-ways-to-preserve-your-gaming-sessions/"><u>[Updated] 2024 Approved In-Game Magic Discover 4 Ways to Preserve Your Gaming Sessions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-elevate-your-auditory-experience-iphone-and-the-world-of-podcasting-for-2024/"><u>[Updated] Elevate Your Auditory Experience - iPhone and the World of Podcasting for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphered-defense-dont-shift-too-suddenly/"><u>Deciphered Defense? Don't Shift Too Suddenly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-how-to-access-mspaint-in-windows-11/"><u>Discovering How to Access MSPaint in Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-official-android-usb-driver-software-on-your-pc/"><u>Download & Install Official Android USB Driver Software on Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-websites-for-futuristic-typography/"><u>Essential Websites for Futuristic Typography</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-versatile-applications-top-10-ways-to-use-powertoys/"><u>Explore Versatile Applications: Top 10 Ways to Use PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-unsolicited-opens-in-ms-store-on-windows-10/"><u>Halt Unsolicited Opens in MS Store on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-manage-access-to-registry-tools-in-win11/"><u>How to Manage Access to Registry Tools in Win11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-potential-your-guide-to-effective-improvements/"><u>In 2024, Unlocking Potential Your Guide to Effective Improvements</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/playstation-vrs-coming-stars-predicted-top-5-titles-to-track-for-2024/"><u>PlayStation VR's Coming Stars Predicted Top 5 Titles to Track for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-frozen-volume-shadows-in-operating-systems/"><u>Tackling Frozen Volume Shadows in Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-optimize-msi-startstop-functionality/"><u>Tactics to Optimize MSI Start/Stop Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-why-files-carry-an-x-marking/"><u>Understanding Why Files Carry an X Marking</u></a></li>
+<li><a href="https://common-error.techidaily.com/windowslinux-users-beware-how-to-tackle-unwarranted-high-cpu-usage-from-shell-infrastructures/"><u>Windows/Linux Users Beware – How to Tackle Unwarranted High CPU Usage From Shell Infrastructures!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-the-cyber-game-top-7-techniques-for-uac-safety/"><u>Winning the Cyber Game: Top 7 Techniques for UAC Safety</u></a></li>
 </ul></div>
 

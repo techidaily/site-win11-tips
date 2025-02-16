@@ -1,7 +1,7 @@
 ---
 title: Addressing File History Misconfiguration in Windows
-date: 2024-08-16T01:10:14.469Z
-updated: 2024-08-17T01:10:14.469Z
+date: 2025-01-31T00:29:56.573Z
+updated: 2025-02-03T00:42:32.953Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
  Let’s see how you can resolve this error and get the File History feature to work again on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart the File History Service
 
  File History Service is a small program that needs to be running in the background for the File History feature to work. If this service is experiencing any problems, you could run into the "We found errors in your File History settings" error. In most cases, you can fix any temporary issues with File History Service by simply restarting it.
@@ -32,17 +36,19 @@ To restart the File History Service in Windows:
 ![Restart File Hisotry Service Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-hisotry-service-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Disconnect and Reconnect the Backup Drive
 
  Connection problems with your external drive can also cause Windows to display the "We found errors in your File History settings" error. If it’s nothing major, you should be able to resolve the error by disconnecting and reconnecting your backup drive.
 
  While you're at it, try using a different USB port. This will help you determine if there’s a [problem with the USB port](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) you’re using. If you suspect a port is malfunctioning, check out how to diagnose and fix a faulty USB port on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 3\. Re-Select the Backup Drive and Restart File History
 
  Next, you can try re-selecting your backup drive in File History settings and see if that helps. Here are the steps for the same.
@@ -54,9 +60,6 @@ To restart the File History Service in Windows:
 5. Click the**Select drive** option from the left sidebar.
 6. Select your preferred drive from the list and click**OK** .  
 ![Select File History Drive Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-file-history-drive-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After selecting your preferred drive, you’ll have to restart the File History feature on Windows. To do so, use the following steps:
 
@@ -65,15 +68,13 @@ To restart the File History Service in Windows:
 3. In the Control Panel window that opens, click the**Turn off** button.
 4. Wait for a few seconds and click the**Turn on** button.  
 ![Turn On File History in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-on-file-history-in-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the error message persists even after this, you can try using a different drive for the File History backup and see if that works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Reset File History
 
  Finally, if nothing else works, resetting File History may be your only option. You can accomplish this by deleting the File History data files from your computer.
@@ -92,8 +93,9 @@ To restart the File History Service in Windows:
 `%UserProfile%\AppData\Local\Microsoft\Windows\FileHistory`
 3. Press**Ctrl + A** to select all the folders and click the**trash icon** at the top to delete them.  
 ![Delete File Hisotry AppData](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-file-hisotry-appdata.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing File History Errors on Windows
@@ -102,14 +104,11 @@ To restart the File History Service in Windows:
 
  Tired of dealing with File History errors on your Windows device? It might be a good idea to use a cloud storage service or third-party backup software to protect your important data.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,8 +117,24 @@ To restart the File History Service in Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-how-mozilla-revolutionized-screen-splitting-with-ffxp/"><u>[Updated] How Mozilla Revolutionized Screen Splitting with FFXP</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-enhance-pc-sound-experience-with-these-5-recording-techniques-on-windows-11/"><u>[Updated] In 2024, Enhance PC Sound Experience with These 5 Recording Techniques on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-could-not-be-registered-error-a-windows-photos-guide/"><u>Addressing 'Could Not Be Registered' Error: A Windows Photos Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/blending-worlds-kali-installation-guide-for-windows-users/"><u>Blending Worlds: Kali Installation Guide for Windows Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/cost-effective-video-enhancement-vimeo-edition-for-2024/"><u>Cost-Effective Video Enhancement Vimeo Edition for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-unresponsive-creative-pebble-audio-devices/"><u>Diagnosing and Repairing Unresponsive Creative Pebble Audio Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/highly-adaptable-the-ultimate-laptop-that-wins-hearts-and-impresses-with-superior-tech-spotted-by-zdnet/"><u>Highly Adaptable: The Ultimate Laptop That Wins Hearts & Impresses With Superior Tech - Spotted by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-revive-device-functionality-in-win11-sleep-mode/"><u>How to Revive Device Functionality in Win11 Sleep Mode?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-data-organization-optimize-your-win11-hdd/"><u>Mastering Data Organization: Optimize Your Win11 HDD</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/mastering-iphone-saving-and-utilizing-gifs-effectively-for-2024/"><u>Mastering iPhone Saving & Utilizing GIFs Effectively for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-unsetting-personalized-search-on-windows-11-os/"><u>Methods for Unsetting Personalized Search on Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-windows-terminal-from-full-attention-to-restful-idleness/"><u>Navigating the Windows Terminal: From Full Attention to Restful Idleness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-zip-file-errors-a-win-11-remedy-plan/"><u>Overcoming Zip File Errors: A Win 11 Remedy Plan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-overhead-memory-usage-by-malware-detectors/"><u>Reducing Overhead Memory Usage by Malware Detectors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-lost-steam-gaming-glory-a-how-to-manual/"><u>Reviving Lost Steam Gaming Glory: A How-To Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solve-windows-issue-file-explorer-failsafe-mode/"><u>Solve Windows Issue: File Explorer Failsafe Mode</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-list-for-top-10-affordable-recording-software-for-2024/"><u>The Ultimate List for Top 10 Affordable Recording Software for 2024</u></a></li>
+</ul></div>
 

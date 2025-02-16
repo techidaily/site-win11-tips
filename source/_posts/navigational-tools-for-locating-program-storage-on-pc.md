@@ -1,7 +1,7 @@
 ---
 title: Navigational Tools for Locating Program Storage on PC
-date: 2025-01-28T22:14:56.468Z
-updated: 2025-02-01T00:32:05.056Z
+date: 2025-01-31T20:55:12.221Z
+updated: 2025-02-02T19:21:44.264Z
 tags:
   - windows10
   - windows11
@@ -33,8 +33,16 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![start menu program location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/start-menu-file-location.jpg)
 2. Right-click on the program icon, and click on**Open file location** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the folder that opens, right-click the required program’s icon and click on**Open file location** one final time.
 4. You should now be in the installation folder of the program.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Find the Installation Folder of a Program Using Its Desktop Shortcuts
 
@@ -48,11 +56,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 3. Click on the**Shortcut** tab, and you will find the installation path in the**Target** field.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Locate the Folder Where a Program Is Installed Using Task Manager
@@ -65,15 +69,11 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![task manager details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/task-manager-details.jpg)
 2. Once the Task Manager is up and running, click on the**Details** tab to get a list of all[currently running background processes](https://www.makeuseof.com/windows-pc-too-many-background-processes/) and applications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. After locating the program you need, right-click and then click on**Open file location** .
 4. A new File Explorer window will open up, and you will have found the program's installation directory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Access the Installation Folder of a Program Using File Explorer
@@ -90,7 +90,7 @@ To find where a program is located using the File Explorer:
 3. Navigate to**Program Files > Program Files (x86)** and then scroll the list of folders until you find one with the program name you’re looking for.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Finding a Program's Install Location Is Easy
@@ -114,21 +114,24 @@ To find where a program is located using the File Explorer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-platform-picker-optimal-content-on-youtube-or-tiktok/"><u>[Updated] Platform Picker Optimal Content on Youtube or TikTok?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-power-of-intova-x/"><u>2024 Approved Exploring The Power of Intova X</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/como-desbloquear-region-locks-de-dvd-con-windows-1187/"><u>Cómo Desbloquear Region Locks De DVD Con Windows 11/8/7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cooling-strategies-for-your-windows-11-laptopdesktop/"><u>Cooling Strategies for Your Windows 11 Laptop/Desktop</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-memorable-announcements-the-key-to-successful-facebook-giving-posts/"><u>Crafting Memorable Announcements The Key to Successful Facebook Giving Posts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-file-sharing-top-5-windows-software/"><u>Elevate Your File Sharing: Top 5 Windows Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-get-and-enjoy-ebooks-using-the-ios-books-app-a-users-guide/"><u>How to Get and Enjoy eBooks Using the iOS Books App - A User's Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-resolution-eliminating-win1011-blackouts/"><u>Immediate Resolution: Eliminating Win10/11 Blackouts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-spotlight-on-benq-sw320s-eye-catching-4k-display/"><u>In 2024, Spotlight on BenQ SW320’s Eye-Catching 4K Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/initialize-your-system-setting-up-startup-programs-in-win11/"><u>Initialize Your System: Setting Up Startup Programs in Win11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/online-wtv-mp4/"><u>Online WTV 프리미우스 MP4 교체 - 무비 데모회사</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/refining-the-look-of-windows-11s-basic-writing-tool/"><u>Refining the Look of Windows 11'S Basic Writing Tool</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-lava-blaze-2-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Lava Blaze 2 5G FRP Bypass</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-potential-rejuvenating-windows-11-diagnostics/"><u>Unleashing Potential: Rejuvenating Windows 11 Diagnostics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-and-nvidia-tackling-gl-error-3-head-on/"><u>Win11 & NVIDIA: Tackling GL Error 3 Head-On</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-tailoring-the-perfect-video-recording-and-post-production-with-adobe-connect/"><u>[New] 2024 Approved Tailoring the Perfect Video Recording and Post-Production with Adobe Connect</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-comprehensive-blueprint-for-youtube-earnings-enhancement/"><u>[New] In 2024, The Comprehensive Blueprint for YouTube Earnings Enhancement</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-googles-audio-to-text-translations-a-comprehensible-guide/"><u>[Updated] 2024 Approved Mastering Google's Audio to Text Translations A Comprehensible Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/change-screen-direction-with-windows-settings/"><u>Change Screen Direction with Windows Settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-digital-heartbeat-ais-quest-for-emotional-understanding/"><u>Decoding the Digital Heartbeat: AI's Quest for Emotional Understanding</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-system-details-ip-and-mac-with-ps-on-windows/"><u>Discovering System Details: IP & MAC with PS on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-wi-fi-connection-speed-in-windows-11-with-these-tips/"><u>Enhance Wi-Fi Connection Speed in Windows 11 With These Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-real-time-rendering-cutting-down-lag-time/"><u>Enhancing Real-Time Rendering: Cutting Down Lag Time</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-google-pixel-8-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Google Pixel 8 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-context-menu-quick-uninstall-in-win-1110/"><u>Mastering Context Menu: Quick Uninstall in Win 11/10</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/navigating-audacity-for-top-notch-audio-recording-for-2024/"><u>Navigating Audacity for Top-Notch Audio Recording for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-copyright-after-sharing-a-selfie/"><u>Navigating Copyright After Sharing a Selfie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-tips-for-leveraging-the-power-of-windows-11-calendar/"><u>Pro Tips for Leveraging the Power of Windows 11 Calendar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purging-steams-domain-name-system-on-windows-systems/"><u>Purging Steam's Domain Name System on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-the-benefits-in-not-muting-wins-11-pushes/"><u>Uncovering the Benefits in Not Muting Wins 11 Pushes</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/using-flipbuilder-via-command-line-interface-cli-feasibility-guide/"><u>Using FlipBuilder via Command Line Interface (CLI) – Feasibility Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-11-faces-a-slow-uptake-from-users/"><u>Why Windows 11 Faces a Slow Uptake From Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winview-now-sharp-and-clear/"><u>WinView Now Sharp and Clear</u></a></li>
 </ul></div>
 

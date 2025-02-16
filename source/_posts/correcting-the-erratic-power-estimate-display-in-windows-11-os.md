@@ -1,7 +1,7 @@
 ---
 title: Correcting the Erratic Power Estimate Display in Windows 11 OS
-date: 2025-01-24T22:54:04.750Z
-updated: 2025-02-01T03:45:14.950Z
+date: 2025-01-30T01:23:36.193Z
+updated: 2025-02-02T20:13:44.203Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where Did the Time Estimate Go?
@@ -35,10 +35,14 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
 ![battery icon tooltip in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/battery-time.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It isn't entirely obvious what the root cause is. It could be a conflict in the Registry, which can occur during the update process. It also seems to have been deliberately disabled by Microsoft in some updates. Perhaps because the company is working on power and battery settings for a future update.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable the Battery Time Estimate in the Registry
@@ -53,16 +57,12 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 ![power values in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/registry-battery-key.jpg)
 4. Right-click the Power key and select**New > DWORD (32-bit) Value** . Set the name of this DWORD as**EnergyEstimationEnabled** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Double-click the new DWORD and set the Value data to**1** . Click**Ok** to close the window.  
 ![Changing value data in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/registry-battery-dword.jpg)
 6. Repeat the previous two steps to create two more DWORD values called**EnergyEstimationDisabled** and**UserBatteryDischargeEstimator** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. You don't need to change the Value data for these, as they should default to a 0 value.
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
  Close the Registry Editor and restart your laptop. When you hover over the battery icon in the System Tray, it should show the estimated time remaining. And while you're at it, check out[how to add shortcuts to the System Tray](https://www.makeuseof.com/windows-11-add-shortcuts-menu-to-system-tray/) to make it even more useful.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix a Missing Battery Time Estimate on Windows
@@ -92,16 +92,20 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-record-and-relive-your-guide-to-capturing-phonescreens-with-snapchat-for-2024/"><u>[New] Record and Relive Your Guide to Capturing Phonescreens with Snapchat for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-its-impact-on-future-generations-of-student-essays/"><u>ChatGPT and Its Impact on Future Generations of Student Essays</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/essential-expressions-and-vocabulary-for-south-american-travelers/"><u>Essential Expressions and Vocabulary for South American Travelers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-stale-group-policies-on-windows-machines/"><u>Quick Fixes for Stale Group Policies on Windows Machines</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-home-security-my-experience-testing-a-face-recognition-smart-lock-a-game-changer/"><u>Revolutionizing Home Security: My Experience Testing a Face-Recognition Smart Lock - A Game Changer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-managing-packages-with-winget-in-win11/"><u>The Ultimate Guide to Managing Packages with Winget in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-windows-setup-on-steam-deck/"><u>The Ultimate Guide to Windows Setup on Steam Deck</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/transform-your-digital-strategy-using-advanced-cookiebot-tech/"><u>Transform Your Digital Strategy Using Advanced Cookiebot Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-optimal-display-performance-on-win1011/"><u>Unlock Optimal Display Performance on WIN10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-voice-recorders-quick-access-with-shortcuts-guide/"><u>Windows 11 Voice Recorders: Quick Access with Shortcuts Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/m4b-mp4-movavi/"><u>자이로드용 M4B 프리미우스를 MP4에 조작하는 가장 좋은 도구 - Movavi 저베이트</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-visual-enhancement-expertly-applying-borders-on-social-media-images/"><u>[New] Visual Enhancement Expertly Applying Borders on Social Media Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/arcade-affordability-index/"><u>ARCADE AFFORDABILITY INDEX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-computer-storage-the-c-and-d-scene/"><u>Comparing Computer Storage: The 'C:' And 'D:' Scene</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-performance-the-ultimate-guide-to-ipad-mini-and-ipad-air-contrast/"><u>Comparing Performance: The Ultimate Guide to iPad Mini and iPad Air Contrast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-strategies-for-effective-online-image-trimming-for-2024/"><u>Expert Strategies for Effective Online Image Trimming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-messages-failed-to-load-error-on-discord-for-windows/"><u>How to Fix the Messages Failed to Load Error on Discord for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-roblox-needs-quitting-on-windows-without-hesitation/"><u>How to Stop Roblox Needs Quitting on Windows Without Hesitation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oneplus-ace-2-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on OnePlus Ace 2 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/prioritizing-features-for-an-ideal-smart-tv/"><u>Prioritizing Features for an Ideal Smart TV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-solutions-for-windows-missing-lsass-components/"><u>Quick Solutions for Windows' Missing Lsass Components</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-virtual-disk-service-not-started-in-windows/"><u>Remedy for Virtual Disk Service Not Started in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-building-win11-self-extractables/"><u>Securely Building Win11 Self-Extractables</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-audio-service-restart-process-before-boot-up/"><u>Simplifying Audio Service Restart Process Before Boot Up</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-lava-yuva-2-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Lava Yuva 2 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-watermark-your-videos-for-free-top-5-software-options/"><u>Updated In 2024, Watermark Your Videos for Free Top 5 Software Options</u></a></li>
 </ul></div>
 

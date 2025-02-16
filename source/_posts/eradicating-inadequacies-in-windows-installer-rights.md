@@ -1,7 +1,7 @@
 ---
 title: Eradicating Inadequacies in Windows Installer Rights
-date: 2025-01-25T10:21:41.945Z
-updated: 2025-02-01T02:55:20.279Z
+date: 2025-01-28T22:33:09.617Z
+updated: 2025-02-02T18:13:57.930Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Unblock the Setup File
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
  If you can see an**Unblock** option on the**General** tab, deselect the checkbox and select**Apply** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Take Ownership of the Software’s Installation Directory
@@ -74,15 +74,15 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  Alternatively, you can double-click the**Windows Installer** service to view its properties window and restart it from there. Click**Start** if the service is already stopped, or, select**Stop > Start** to restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Disable UAC Before Installing
 
  User Account Control is one of the security features that can generate installation issues when set to its higher levels. Turn off UAC before attempting to install affected software to see if that resolves the “installer has insufficient privileges” error. Check out this guide about[disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) for details about how to turn off UAC.
 
 ![The Never notify option in UAC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/never-notify-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Disable All User Account Control Policy Settings
 
@@ -99,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 5. Click**Apply** \>**OK** to save the policy setting you’ve selected.  
 ![The Enabled radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-enabled-radio-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, repeat steps three to five above for all the User Account Control policy settings. Exit Group Policy Editor and restart your PC after disabling all UAC policy settings.
 
 ## 8\. Turn Off Third-Party Security Apps
@@ -114,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Try Installing Software After Clean Booting
@@ -126,11 +130,7 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-services-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Uninstall Older Software Versions
@@ -142,7 +142,7 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Your Windows 11/10 Software Installed
@@ -166,24 +166,18 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-pick-your-favorites-top-6-fb-lite-videos-downloaders/"><u>[New] 2024 Approved Pick Your Favorites Top 6 FB Lite Videos Downloaders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-strengthen-window-app-web-interactions/"><u>Effortlessly Strengthen Window App Web Interactions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-productivity-in-windows-11-world/"><u>Elevate Productivity in Windows 11 World</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/enhancing-content-visibility-slug-line-tactics/"><u>Enhancing Content Visibility Slug Line Tactics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/extend-your-apple-watchs-endurance-top-8-settings-adjustments-to-enhance-battery-life-zdnet-insights/"><u>Extend Your Apple Watch's Endurance: Top 8 Settings Adjustments to Enhance Battery Life - ZDNet Insights</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-v30-lite-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo V30 Lite 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-solutions-for-silent-audio-input-with-obs-and-windows-11/"><u>Immediate Solutions for Silent Audio Input with OBS and Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/implement-xps-video-editing-suite-instantly/"><u>Implement XP's Video Editing Suite Instantly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-failed-remote-procedure-calls-expert-tips-inside/"><u>Mastering the Fix for Failed Remote Procedure Calls - Expert Tips Inside</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-space-and-order-bulk-file-folders-in-modern-windows/"><u>Maximizing Space & Order: Bulk File Folders in Modern Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-installation-failures-for-older-apps/"><u>Overcoming Installation Failures for Older Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-plain-text-issues-windows-11-mail-fix-tips/"><u>Preventing Plain Text Issues: Windows 11 Mail Fix Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-battlefields-how-to-restore-audio-on-your-battlefield-4-game/"><u>Silent Battlefields: How to Restore Audio on Your Battlefield 4 Game</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/social-media-polls-and-surveys-ai-assisted-crafting/"><u>Social Media Polls & Surveys: AI-Assisted Crafting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-wipe-dns-records-from-your-steam-client/"><u>Steps to Wipe DNS Records From Your Steam Client</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-picks-ultimate-ebook-reader-seamlessly-converts-and-unlocks-ebook-content-everywhere/"><u>Top Picks: Ultimate eBook Reader - Seamlessly Converts and Unlocks eBook Content Everywhere!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/transform-videos-into-stunning-live-photos-with-these-top-apps/"><u>Transform Videos Into Stunning Live Photos with These Top Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-power-of-shortcuts-a-guide-to-reversing-non-responsive-keystrokes-in-windows-os/"><u>Unlock the Power of Shortcuts! A Guide to Reversing Non-Responsive Keystrokes in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11-switching-and-modifying-keyboard-setups-efficiently/"><u>Win 11: Switching & Modifying Keyboard Setups Efficiently</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-stepwise-voice-transformation-techniques-for-tiktokers/"><u>[Updated] 2024 Approved Stepwise Voice Transformation Techniques for TikTokers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/20-ankers-game-changing-mobile-charger-how-it-solves-your-portable-charging-woes-zdnet-insights/"><u>$20 Anker's Game-Changing Mobile Charger - How It Solves Your Portable Charging Woes | ZDNET Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-the-failed-to-launch-lunar-client-windows-message/"><u>Circumventing the Failed to Launch: Lunar Client Windows Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-the-task-of-installing-gmaps-on-windows/"><u>Conquering the Task of Installing GMaps on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-actions-and-activation-labels-in-dev-tools/"><u>Exploring Actions & Activation Labels in Dev Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratis-unire-vob-programma-veille-de-movavi-pour-la-fusion-des-fichiers-vob/"><u>Gratis Unire VOB-Programma: Veille De Movavi Pour La Fusion Des Fichiers VOB</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introducing-ad-free-innovation-windows-11s-modernized-start/"><u>Introducing Ad-Free Innovation: Windows 11'S Modernized Start</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectify-restore-responsive-shortcut-keys-in-windows-11/"><u>Rectify: Restore Responsive Shortcut Keys in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safe-stepping-stones-on-windows-11-top-8-to-skip/"><u>Safe Stepping Stones on Windows 11: Top 8 To Skip</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-when-minecraft-wont-start-properly/"><u>Step-by-Step Solution for When Minecraft Won't Start Properly</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-rated-free-windows-881-data-retrieval-apps-find-your-lost-files-easily/"><u>Top Rated Free Windows 8/8.1 Data Retrieval Apps: Find Your Lost Files Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-issues-with-non-functional-xbox-series-x-and-s-headsets/"><u>Troubleshooting Guide: Resolving Issues with Non-Functional Xbox Series X & S Headsets</u></a></li>
 </ul></div>
 

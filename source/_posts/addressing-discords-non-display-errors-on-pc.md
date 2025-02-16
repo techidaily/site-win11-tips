@@ -1,7 +1,7 @@
 ---
 title: Addressing Discord's Non-Display Errors on PC
-date: 2024-08-16T01:13:55.885Z
-updated: 2024-08-17T01:13:55.885Z
+date: 2025-01-27T01:46:47.799Z
+updated: 2025-02-02T23:18:17.564Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
 ![Wi-Fi router with power adapter on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/how-to-access-your-router-remotely.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A weak or unstable internet connection could be the cause of this error. Therefore, ensure you have an active internet connection when you try to access Discord. You can also run other apps on your device to ensure your internet is working.
 
  If other apps are not loading correctly and the issue is consistent throughout the operating system, then the internet is to blame. In that case, we recommend checking out our guide on [fixing network access issues when connected to Wi-Fi on Windows](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) .
@@ -42,19 +46,23 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
  Sometimes, just giving Discord a fresh start is enough to knock it out of its issues. Log out of your account, close Discord, restart the app, and log back in. Check to see if messages are loading correctly this time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Switch Your Network Connection
 
 ![It's important to troubleshoot slow internet speeds to determine if ISP is throttling you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Troubleshoot-internet-router-modem-connection.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 
  Although less likely, your ISP may also be responsible for annoying app issues. When your ISP is at fault, you will likely have similar problems with other apps. So, if you're also experiencing problems with other apps, ensure that the problem isn't with your ISP.
 
  Simply changing your service provider will confirm that. Try connecting your device to a network with a different internet provider, such as mobile data, if you're using Wi-Fi, and see if messages load successfully this time.
 
  If changing the network works in resolving the issue, the problem is with your ISP. In such a case,[change the DNS](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) to see if it fixes the problem. If that doesn't work, you should inform your ISP or switch to another provider.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Check for Channel-Specific Issues
 
@@ -68,19 +76,19 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 2. Right-click on the channel or server where the error occurred.
 3. Click on**Mute Server** or**Mute Channel** , depending on where your messages aren't being loaded, then select**Until I turn it back on** .  
 ![Muting Server For an Indefinite Time in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/1-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Wait a few minutes.
-5. Right-click on the same server or channel, and select**Unmute Channel** or**Unmute Server** .  
-![Unmuting the Muted Server in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/2-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Right-click on the same server or channel, and select**Unmute Channel** or**Unmute Server** .  
+![Unmuting the Muted Server in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Mark Messages as Read
 
  Marking messages as read in the channel or server is another helpful fix for stuck messages. It has a good chance of loading messages that failed to deliver for some reason. Follow these steps to mark messages as read:
@@ -88,14 +96,8 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 1. Launch Discord.
 2. Right-click the channel or server where the messages are stuck and click on**Mark As Read** .  
 ![Clicking on the Mark As Read to Auto Read the Stuck Messages in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/3-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Wait for the app to load messages.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Make Sure You Are Not Temporarily Banned From Discord
 
  If the message appears on every server and every channel, there's a small chance you may have been temporarily banned from Discord. This usually happens when you overload the Discord API with repetitive actions, such as spamming reactions.
@@ -108,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
 ![vpn app active on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/vpn-on-phone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you encounter the error when accessing Discord for the first time from a new location, Discord might be blocked in that area. Likewise, you may encounter the error under discussion if your IP address is banned by Discord.
 
  To test for this, boot up a VPN. There are plenty of [totally free VPNs](https://www.makeuseof.com/tag/7-completely-free-vpn-services-protect-privacy/) you can download, and once you turn it on, any connections you make will see your VPN's IP address instead of your own. This will let you surpass any IP blocking in place.
@@ -115,8 +121,9 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
  If you're using Discord while you have a VPN enabled and you get this error, the IP assigned by the VPN might have been blocked by Discord. Therefore, temporarily disable the VPN to resolve the issue. You could also try connecting to other servers via your VPN and see if any of them work better.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Clear Discord Cache
 
  Interference from the Discord cache can also result in messages getting stuck in the Discord app or web client. Clearing it instructs Discord to download fresh data from Discord servers, which may help fetch the messages again and load them correctly. Follow these steps to clear the Discord cache:
@@ -124,14 +131,12 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 1. In Windows Search, type**"Run"** and open the**Run** application.
 2. Enter**%appdata%/discord** and click**OK** . After that, you will be redirected to Discord's**AppData** folder, where you will find its cache.  
 ![Opening the DIscord AppData Folder Using the Windows Run Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 3. Find the cache folders, namely**Cache, Code Cache,** and**GPU Cache** .
 4. Right-click each folder and select**Delete** .  
 ![Deleting the Cache Code, Cache, and GPU Cache Folders in the Discord AppData Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have completed these steps, close the Discord app and restart your device. When your device has fully restarted, open Discord and see if messages have loaded successfully this time. If the messages remain stuck and the error persists, move on to the next step.
@@ -144,14 +149,6 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
  Click on the**green download button (downward arrow)** in the top-right corner to check for updates or press**CTRL + R** to force Discord to check for updates. Check if installing updates made any difference if updates were pending.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 12\. Switch to a Different Discord Client
 
 ![A finger pointing at the Discord logo on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/A-finger-pointing-at-the-Discord-logo-on-a-phone--(1).jpg)
@@ -176,8 +173,6 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,8 +180,20 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-comprehensive-breakdown-sony-fdr-x1000v-complete-guide/"><u>[New] 2024 Approved Comprehensive Breakdown Sony FDR-X1000V Complete Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-web-speed-contrast-in-your-tech-world/"><u>Addressing the Web Speed Contrast in Your Tech World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-shop-failure-x800704cf/"><u>Deciphering Windows Shop Failure X800704CF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reacquire-lost-copilot-in-ws11-journeys/"><u>How To Reacquire Lost Copilot In WS11 Journeys</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-xr-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone XR Apple ID and Apple Pay</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-instant-identity-protection-blur-image-edges/"><u>In 2024, Instant Identity Protection Blur Image Edges</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-lenovo-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Lenovo FRP Without Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-unloaded-buildings-in-pubg-now-corrected/"><u>Overcoming the Challenge of Unloaded Buildings in PUBG - Now Corrected</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-utorrent-installer-errors-in-windows-environment/"><u>Overcoming uTorrent Installer Errors in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-disabled-troubleshooters-in-modern-windows/"><u>Resolving Disabled Troubleshooters in Modern Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/surviving-splash-and-spills-the-leading-waterproof-phone-cases-for-todays-market/"><u>Surviving Splash and Spills: The Leading Waterproof Phone Cases for Today's Market</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-registry-tweaks-in-windows-terminal/"><u>The Ultimate Guide to Registry Tweaks in Windows Terminal</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transform-your-workspace-with-style-an-expert-review-of-the-sleek-flexispot-theodore-adjustable-standing-desk/"><u>Transform Your Workspace with Style: An Expert Review of the Sleek Flexispot Theodore Adjustable Standing Desk</u></a></li>
+</ul></div>
 

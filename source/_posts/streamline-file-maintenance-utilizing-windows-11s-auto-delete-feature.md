@@ -1,7 +1,7 @@
 ---
 title: "Streamline File Maintenance: Utilizing Windows 11’S Auto Delete Feature"
-date: 2025-01-25T04:33:05.355Z
-updated: 2025-02-01T04:37:09.636Z
+date: 2025-01-30T02:43:27.016Z
+updated: 2025-02-02T22:40:40.719Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Auto-Delete Old Files or Folders Using Storage Settings
 
  The Settings menu lets you do and manage a lot of stuff on your Windows computer. From updates to tweaking the Windows appearance—you can do almost everything. It's no surprise then that you can also use it for setting up an auto-deletion setting on your Windows. Here's how:
 
 ![storage settings on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/storage-settings-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Go to **Settings > System > Storage**.
 2. Toggle on the **Storage Sense** feature.
@@ -41,17 +41,9 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 4. Under **Temporary Files**, set up your desired time frames fore deleting files in the recycle bin and files in your Downloads folder.  
 ![storage sense in windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/storage-sense-in-windows-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Not all files in the Downloads folder will be deleted after the set time; just those that haven't been opened. This means if you download a file and want to open it later, it will still be deleted after the set time. If you turn this setting on, you should move anything out of the Downloads folder that you intend to keep.
 
  If you want, you can always turn off the setting by simply disabling the **Storage Sense** button later on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Deleted Old Files or Folders With the Command Prompt
 
@@ -68,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 ![command prompt on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/command-prompt-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your files will be removed as quickly as soon as you hit the above commands.
@@ -94,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 10. Under the **Settings** section, set up the timings of the tasks you'd like to run. Finally, click on **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, head to the **Actions** tab and click on the **New** button. From the **Actions** drop-down menu, select the **Start a program** option.
@@ -121,7 +113,15 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 ![new action setting on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-setting-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it—finalize the changes by clicking **OK** once again, and you will be done in no time. From here forward, your files will be automatically deleted within the specified time. Of course, if you later change your mind you can always reverse this setting by simply deleting the new folder your created in first step (which in our case, will be **New Folder 1**).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Auto-Deleting Old Files or Folders on a Windows Computer
 
@@ -141,22 +141,19 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flawless-footage-with-best-stabilizer-brands/"><u>[New] 2024 Approved Flawless Footage with Best Stabilizer Brands</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-premium-net-repositories-ringtones-collection-hub/"><u>[New] 2024 Approved Premium Net Repositories Ringtones Collection Hub</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-revealing-hidden-social-exchanges-in-yt-discussions-for-2024/"><u>[New] Revealing Hidden Social Exchanges in YT Discussions for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebooks-top-visual-discoveries-a-guide/"><u>[Updated] 2024 Approved Facebook's Top Visual Discoveries A Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-optimal-audio-options-for-online-speakers/"><u>[Updated] Optimal Audio Options for Online Speakers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-nopriceplaybacks-securely-save-your-games-anytime/"><u>2024 Approved NoPricePlaybacks Securely Save Your Games Anytime</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquer-window-management-hotkey-based-reworking-mastery/"><u>Conquer Window Management: Hotkey-Based Reworking Mastery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-lack-of-privilege-during-os-setup/"><u>Correcting Lack of Privilege During OS Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fall-guys-connectivity-fix-guide-for-windows-users/"><u>Fall Guys Connectivity Fix Guide for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-error-0x800700e1-in-windows-11-systems/"><u>Mastering the Resolution of Error 0X800700E1 in Windows 11 Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavi-videomaker-official-website-premium-video-editing-software/"><u>Movavi Videomaker Official Website - Premium Video Editing Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rapid-examination-identifying-pcs-graphics-card-makeup/"><u>Rapid Examination: Identifying PC's Graphics Card Makeup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-chrome-networking-hiccup-in-windows-settings/"><u>Remedy for Chrome Networking Hiccup in Windows Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-keys-in-crisis-arrows-rescued/"><u>Revive Keys in Crisis: Arrows Rescued</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-secure-browsing-add-trusted-sites-to-windows-11/"><u>Streamline Secure Browsing: Add Trusted Sites to Windows 11</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-12-game-choices-for-the-ultimate-pc-clicking-journey-for-2024/"><u>Top 12 Game Choices for the Ultimate PC Clicking Journey for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/unleashing-music-from-tiktok-top-free-on-web-to-mp3-tools-for-2024/"><u>Unleashing Music From TikTok Top Free, On-Web To MP3 Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-your-channel-youtube-backlink-basics-for-2024/"><u>[New] Elevating Your Channel YouTube Backlink Basics for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-mastery-choosing-between-free-and-paid-video-download-solutions/"><u>[Updated] 2024 Approved Vimeo Mastery Choosing Between Free and Paid Video-Download Solutions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-color-grading-in-final-cut-pro/"><u>2024 Approved How to Color Grading in Final Cut Pro</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/improved-techniques-in-detecting-installed-file-updates/"><u>Improved Techniques in Detecting Installed File Updates</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-finest-15-no-cost-image-editing-tools-unveiled/"><u>In 2024, The Finest 15 No-Cost Image Editing Tools Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-windows-11s-storyteller-a-step-by-step-guide/"><u>Launching Windows 11'S Storyteller: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-techniques-to-accelerate-steam-downloads-on-windows/"><u>Master Techniques to Accelerate Steam Downloads on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-software-deletion-in-windows-11-115-chars/"><u>Mastering Software Deletion in Windows 11 (115 Chars)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-pcs-dns-cache-efficiently/"><u>Revamp Your PC's DNS Cache Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-ed-themed-windows-experience/"><u>Tailoring Ed-Themed Windows Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-process-of-sharing-srt-text-in-social-digital-spaces/"><u>Unveiling the Process of Sharing SRT Text in Social Digital Spaces</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/video-sectioning-mastery-in-vimeo-videos-for-2024/"><u>Video Sectioning Mastery in Vimeo Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-a78-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A78 | Dr.fone</u></a></li>
 </ul></div>
 

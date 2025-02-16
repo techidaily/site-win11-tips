@@ -1,7 +1,7 @@
 ---
 title: Accessibility Enhanced with Shortcuts for Microsoft Store UWP
-date: 2024-08-16T01:11:45.847Z
-updated: 2024-08-17T01:11:45.847Z
+date: 2025-01-30T19:53:59.805Z
+updated: 2025-02-03T02:26:33.607Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 
 ![The Link box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-link-box.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Create Desktop Shortcuts for UWP Apps From the Applications Folder
 
  Windows 11 has an accessible Applications folder that includes your installed UWP apps. You can select to create shortcuts for MS Store apps from that folder as follows:
@@ -35,14 +39,13 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 3. Click**OK** to view the Applications folder.
 4. Right-click a UWP app you want to add to the desktop and select**Create shortcut** .  
 ![The Create shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-shortcut-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Select**Yes** when prompted to place a shortcut on the desktop.  
-![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
 
 ## 3\. Create Desktop Shortcuts for Pre-Installed UWP Apps With the Create Shortcut Wizard
 
@@ -53,6 +56,11 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 3. Input the URI for the UWP app in the location text box. For example, you would need to enter the**ms-clock:** URI there to create a desktop shortcut for Alarms & Clocks.  
 ![The ms-clock: URI in the Create Shortcut window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/create-shortcut-window.jpg)
 4. Click**Next** to proceed to the final step of the wizard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Enter the app’s name in the text box.
 6. Press**Finish** to create your UWP app shortcut.  
 ![The Alarms and Clocks desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/alarms-and-clocks-desktop-shortcut.jpg)
@@ -79,20 +87,22 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 
  Incidentally, you can also create shortcuts with URIs for Settings pages much the same. Check out this [how to set up Settings page shortcuts](https://www.makeuseof.com/windows-11-shortcuts-for-settings-pages/) guide for further details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Pin UWP Desktop Shortcuts to the Taskbar
 
  You can select to pin UWP apps to the taskbar with their desktop shortcuts. To do so, right-click the UWP app’s desktop shortcut and select**Show more options** \>**Pin to taskbar** . Then you can open the app from the taskbar instead.
 
 ![The Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pin-to-taskbar.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that you can’t pin web document desktop shortcuts to the taskbar. The context menus for desktop shortcuts created with URI commands don’t include the**Pin to taskbar** option.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Assign Hotkeys to UWP App Desktop Shortcuts
 
  After creating a UWP app desktop shortcut, you can also assign a hotkey to it. Pressing that hotkey will activate the shortcut to launch the UWP app. You can create a hotkey for a UWP app desktop shortcut like this:
@@ -101,23 +111,8 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 2. Click inside the**Shortcut** key box on the**Shortcut** or**Web Document** tab.
 3. Press a key to set up a**Ctrl** +**Alt** keyboard shortcut.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/shortcut-key-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Select**Apply** \>**OK** to save the hotkey for the desktop shortcut.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Create Shortcuts for All Your Favorite UWP Apps
 
  It’s quick and simple to create desktop shortcuts for UWP apps with the methods above. Then you’ll be able to access all your favorite MS Store apps directly from the desktop. Or create taskbar and hotkey shortcuts with their desktop icons.
@@ -128,8 +123,6 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,8 +130,26 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastery-of-magnified-mining-maps/"><u>[New] 2024 Approved Mastery of Magnified Mining Maps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-navigating-the-depths-of-vlc-player-capabilities/"><u>[Updated] 2024 Approved Navigating the Depths of VLC Player Capabilities</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-expert-pick-prime-drone-gimbals-for-2024/"><u>[Updated] Expert Pick Prime Drone Gimbals for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-macsnap-gallery-builder/"><u>[Updated] MacSnap Gallery Builder</u></a></li>
+<li><a href="https://fox-that.techidaily.com/11-ways-to-fix-airpods-that-keep-disconnecting-from-your-iphone/"><u>11 Ways to Fix AirPods That Keep Disconnecting From Your iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726226309197-bmp-movavi/"><u>無料のオンラインBMP変換サービス – Movaviで簡単に実現!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-11s-fatal-0xf0831-malfunction/"><u>Bypassing Windows 11'S Fatal 0XF0831 Malfunction</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/configure-measure-and-optimize-the-ultimate-guide-to-fb-instream-ads-for-2024/"><u>Configure, Measure & Optimize The Ultimate Guide to FB Instream Ads for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-cannot-access-source-file-in-win1110/"><u>Dealing with Cannot Access Source File in Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-communication-making-calls-on-windows-11-with-unison-app/"><u>Elevate Communication: Making Calls on Windows 11 with Unison App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-effortless-edits-crafting-new-folders-on-windows-11/"><u>Explore Effortless Edits: Crafting New Folders on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-14-pro-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 14 Pro</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/leveraging-cookiebot-technology-for-advanced-web-analytics/"><u>Leveraging Cookiebot Technology for Advanced Web Analytics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-the-corrupted-file-issue-in-windows-11-os-error-0x80070570/"><u>Mending the Corrupted File Issue in Windows 11 OS (Error 0X80070570)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefine-your-digital-space-with-win-11-sketching-techniques/"><u>Redefine Your Digital Space with Win 11 Sketching Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-code-0x887a0006-device-hang-fixes/"><u>Resolving Error Code 0X887A0006: Device Hang Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snipmagic-disrupted-methods-to-reset-and-revive/"><u>SnipMagic Disrupted? Methods to Reset and Revive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windows-installation-privilege-denial-problem/"><u>Solving Windows Installation Privilege Denial Problem</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-features-how-to-install-logitech-mx-master-software-properly/"><u>Unlocking Features: How to Install Logitech MX Master Software Properly</u></a></li>
+</ul></div>
 

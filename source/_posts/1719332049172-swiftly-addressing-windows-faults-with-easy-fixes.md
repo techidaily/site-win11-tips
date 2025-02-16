@@ -1,7 +1,7 @@
 ---
 title: Swiftly Addressing Windows Faults with Easy Fixes!
-date: 2024-08-16T01:13:26.781Z
-updated: 2024-08-17T01:13:26.781Z
+date: 2025-01-27T17:00:58.938Z
+updated: 2025-02-02T23:06:35.151Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,22 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 2. This will open a Microsoft Edge tab with Bing Chat open. To use it, enter what you need help with in the search box at the bottom, and then hit the **Enter** key on your keyboard.  
 ![bing-chat-in-edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/bing-chat-in-edge.jpg)
 3. The AI will take a moment to look for a solution, and if it finds one, it will display the steps you need to take to solve your problem. You just need to try them out and see if they work out for you.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![bing-chat-results-in-edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/bing-chat-results-in-edge.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After outlining the solutions for you, it will list the resources it has used at the bottom so you can learn more about how to fix the problem you've encountered.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use the Get Help App
 
@@ -52,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
  If the Get Help app doesn't have a solution, there's another app you can use.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use the Quick Assist App
 
  When it comes to getting help, the Quick Assist app allows you to find a knowledgeable person who can offer remote assistance. The helper can then do a wide range of things, including taking control of your computer to directly fix the issue or annotating parts of your screen to help you figure it out.
@@ -63,28 +77,19 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 1. Press **Win + S** to bring up Windows Search.
 2. Type **quick assist** in the Search box and click on the **Quick Assist** app in the results to launch it.  
 ![launching-the-quick-assist-app-through-Windows-search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/launching-the-quick-assist-app-through-windows-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Enter the security code you got from the helper in the **Get help** section and click **Submit**.  
 ![entering-the-security-code-in-the-quick-assist-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/entering-the-security-code-in-the-quick-assist-app-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the helper is able to connect to your PC, you can sit back and let them do their thing.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## 4\. Use the Built-In Windows Troubleshooters
 
  Windows has several built-in troubleshooters that help you diagnose and fix specific problems on your computer. All you have to do is [run the desired troubleshooter on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) and you'll be well on your way to fixing what's wrong. If you're using Windows 11, you can [learn about the different types of Windows Troubleshooters](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) so you know which ones to use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 5\. Get Help Online
 
  If you can't solve the problem within Windows, perhaps the online world can help. A quick way to go about it is to simply type your problem on Google and see what articles come up with solutions.
@@ -97,8 +102,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![the-pop-up-to-get-support-on-the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-get-support-on-the-microsoft-support-page.jpg)
 3. Once it loads, enter the problem you need help with in the text box and click on **Get Help** so it can find self-help articles for you (yes, this is similar to using the Get Help app).  
 ![searching-for-help-on-the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/searching-for-help-on-the-microsoft-support-page.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want other Windows users to help you, you can [reach out to the Microsoft Community for assistance](https://www.makeuseof.com/how-to-use-the-microsoft-community-to-solve-your-windows-problem/). You can also drop [the MicrosoftHelps Twitter account](https://twitter.com/MicrosoftHelps) a message, or if you're using a Surface or Xbox device, book an appointment with a support professional on the [Microsoft Answer Desk page](https://www.microsoft.com/en-us/store/locations/answer-desk).
@@ -109,8 +115,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  In this guide, we're going to highlight some of the best ways to get help with your Windows PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -118,5 +122,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-unlocking-secrets-of-strong-openings-podcasters-guidebook/"><u>[New] 2024 Approved Unlocking Secrets of Strong Openings Podcaster's Guidebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-itop-screen-recorder-review-should-you-install-it/"><u>[Updated] ITop Screen Recorder Review Should You Install It?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-8-most-critical-blunders-to-elude-as-a-rookie-youtuber/"><u>[Updated] The 8 Most Critical Blunders to Elude as a Rookie YouTuber</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ephemeral-approach-to-suspending-windows-11-protection-systems/"><u>Ephemeral Approach to Suspending Windows 11 Protection Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-cloud-syncs-in-win-10/"><u>Fixing Steam Cloud Syncs in Win 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-install-microsoft-works-on-windows-11-or-11/"><u>How to Install Microsoft Works on Windows 11 or 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-poco-c51-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Poco C51 Phone Screen?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/porating-yt-playlists-into-web-design-for-2024/"><u>Incorporating YT Playlists Into Web Design for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/itel-s23-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel S23 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-top-9-essential-skype-interview-techniques/"><u>Mastering the Art: Top 9 Essential Skype Interview Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-smooth-windows-11-display-transitions/"><u>Steps for Smooth Windows 11 Display Transitions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-tutorial-for-iphone-x-animoji-fun-for-2024/"><u>The Ultimate Tutorial for iPhone X Animoji Fun for 2024</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-8-plus-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 8 Plus Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-partitions-in-windows-step-by-step-methods/"><u>Unifying Partitions in Windows: Step-by-Step Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unmask-the-hidden-storage-issues-in-windows/"><u>Unmask the Hidden Storage Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-error-code-0xa00f4289-for-webcams-on-w1011/"><u>Unraveling Error Code 0xA00F4289 for Webcams on W10/11</u></a></li>
+</ul></div>
 

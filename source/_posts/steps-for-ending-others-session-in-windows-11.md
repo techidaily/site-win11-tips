@@ -1,7 +1,7 @@
 ---
 title: Steps for Ending Others' Session in Windows 11
-date: 2025-01-30T09:24:17.431Z
-updated: 2025-02-01T06:54:42.560Z
+date: 2025-01-28T00:18:07.192Z
+updated: 2025-02-02T23:12:42.899Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 * [Log Off Other Users Using Process Explorer](#log-off-other-users-using-process-explorer)
 * [Ask Other Users Before You Sign Them Out](#ask-other-users-before-you-sign-them-out)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To sign out other users on Windows 11, you can use Task Manager, Command Prompt, or Process Explorer.
@@ -49,16 +53,12 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 ![Winx Menu Task Manager Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/winx-menu-task-manager-windows-11.png)
 3. In the **Users** tab, locate the account you want to sign off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Right-click on the user account and select **Sign off**.  
 ![Users Tab in Task Manager with Logoff Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/users-tab-in-task-manager-with-logoff-option-in-windows-11.jpg)
 5. Click **Sign out user**. Windows will close all the open apps and running processes and then log out the user.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Sign Out Other Users Using the Command Prompt
@@ -75,18 +75,14 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 ![Command Prompt With Query Session Command Running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/command-prompt-with-query-session-command-running-on-windows-11.jpeg)
 5. Type the following command to sign out the specified user. Replace **2** below with the user account ID you want to sign out:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Logoff 3`
 6. Upon successful execution, Windows will sign out the specified user account.  
 ![Command Prompt With Logoff Command Running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/command-prompt-with-logoff-command-running-on-windows-11.jpg)
 7. Once done, type **exit** and press Enter to close the Command Prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Log Off Other Users Using Process Explorer
 
@@ -98,15 +94,19 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 ![Download Process Explorer Web Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/download-process-explorer-web-page.jpg)
 2. Right-click on the **ProcessExplorer.zip** archive, and select **Extract All**. Select a location and extract the folder.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Process Explorer Exe File Run as Administrator Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-exe-file-run-as-administrator-option-in-windows-11.jpg)
 3. Open the **ProcessExplorer** folder, right-click on **procexp64.exe**, and select **Run as administrator**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Process Explorer App User Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-option-selected-in-windows-11.jpg)
 4. In the **Process Explorer** window, click **Users** to view all the active user sessions.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Process Explorer App User Account Logoff Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-account-logoff-option-selected-in-windows-11.jpg)
 5. Hover your cursor over the user account name and select **Logoff**.
@@ -127,22 +127,16 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-windows-10-audible-tactics-top-5-list/"><u>[Updated] 2024 Approved Windows 10 Audible Tactics - Top 5 List</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-streamline-your-video-submissions-adding-imovie-content-to-vimeo/"><u>[Updated] In 2024, Streamline Your Video Submissions Adding iMovie Content to Vimeo</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-podcast-production-perfection-from-draft-to-audio-bliss/"><u>2024 Approved Podcast Production Perfection From Draft to Audio Bliss</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-itel-a60s-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Itel A60s.</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Huawei Nova Y71? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unlock-windows-server-access-issues/"><u>How to Unlock Windows Server Access Issues</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a24-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A24 Phone FRP Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-hunting-techniques-for-windows-product-authenticity/"><u>Key Hunting Techniques for Windows Product Authenticity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-screenscape-vacations/"><u>Mastering Windows Screenscape Vacations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prime-torrent-options-for-windows-computers/"><u>Prime Torrent Options for Windows Computers</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/quickfire-ways-to-conquer-foreign-languages/"><u>Quickfire Ways to Conquer Foreign Languages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remediation-for-the-token-access-issue-in-windows-1011/"><u>Remediation for the Token Access Issue in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-mail-app-0x800713f-error-in-windows-os/"><u>Resolving Mail App 0X800713f Error in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-disabling-older-os-preventing-window-11-update/"><u>Solutions for Disabling Older OS Preventing Window 11 Update</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-2023-tesla-models-ranked-a-comprehensive-review-of-model-s-3-x-and-y-zdnet-analysis/"><u>Top 2023 Tesla Models Ranked: A Comprehensive Review of Model S, 3, X, and Y | ZDNet Analysis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrading-your-text-experience-emoji-15-for-win11-users/"><u>Upgrading Your Text Experience: Emoji 15 for Win11 Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-post-tweets-on-facebook/"><u>[New] 2024 Approved How to Post Tweets on Facebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-hidden-accessing-youtube-video-comments/"><u>[New] Unveiling the Hidden Accessing YouTube Video Comments</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-crafting-professional-gamers-content-with-obs-recordings/"><u>[Updated] In 2024, Crafting Professional Gamers' Content with OBS Recordings</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mobile-mastery-establishing-your-brands-youtube-outlet/"><u>[Updated] Mobile Mastery Establishing Your Brand's YouTube Outlet</u></a></li>
+<li><a href="https://discover-data.techidaily.com/come-cancellare-in-modo-definitivo-le-tue-partizioni-di-disco-ssd-su-windows-11-con-sicurezza-e-semplicita/"><u>Come Cancellare in Modo Definitivo Le Tue Partizioni Di Disco SSD Su Windows 11 Con Sicurezza E Semplicità</u></a></li>
+<li><a href="https://facebook.techidaily.com/connectivity-chronicles-facebooks-evolution-story-meta/"><u>Connectivity Chronicles: Facebook's Evolution Story, Meta</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-interface-adding-portable-apps-menus/"><u>Enhancing Windows Interface: Adding Portable Apps Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-permit-browser-network-access-via-windows-security-settings/"><u>How to Permit Browser Network Access via Windows Security Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-system-stability-automatic-updates-plus-amd-video-replacement/"><u>Improve System Stability: Automatic Updates + AMD Video Replacement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-potential-steps-for-successful-optional-components-integration/"><u>Unlocking Windows 11 Potential: Steps for Successful Optional Components Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-evolves-spotlight-on-new-updates-capabilities/"><u>Windows 11 Evolves: Spotlight on New Updates' Capabilities</u></a></li>
 </ul></div>
 

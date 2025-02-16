@@ -1,7 +1,7 @@
 ---
 title: Eliminating Exit Code Issues on Your PC
-date: 2025-01-29T06:34:03.207Z
-updated: 2025-02-01T05:08:53.302Z
+date: 2025-01-31T21:58:22.275Z
+updated: 2025-02-03T00:39:33.720Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Delete or Disable Outdated Mods
 
  The "exit code: 1" error can occur due to outdated mods. To resolve the error, check the Minecraft mods folder and delete it. Removing mods can break your worlds. So make sure to create a backup before attempting to remove any mods. Here’s how to do it.
@@ -39,16 +35,8 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 ![appdata run dialog windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/appdata-run-dialog-windows-11.jpg)
 3. Next, open the**.minecraft** folder.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![minecraft mods folder windows file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-mods-folder-windows-file-explorer.jpg)
 4. Open the**mods** folder inside the**.minecraft** folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Select and right-click on all the**mods** one by one and select**Delete** .
 
@@ -66,10 +54,6 @@ To repair Minecraft Launcher:
 ![minecrafft launcher advanced options windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecrafft-launcher-advanced-options-windows-11.jpg)
 4. Next, click the**three-dots menu** beside the app name and select**Advanced Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![repair minecraft launcher windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-minecraft-launcher-windows-11.jpg)
 5. Scroll down to the**Reset** section and click**Repair** . Windows will perform a quick repair and show a checkmark once the repair is complete.
 
@@ -77,12 +61,16 @@ To repair Minecraft Launcher:
 
  Similarly, you can also repair your Minecraft game. Open Minecraft’s**Advanced Options** and perform a repair in the**Settings** app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Modify the Minecraft Launcher File Path
 
 ![modify minecraft launcher file path working directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/modify-minecraft-launcher-file-path-working-directory.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Issues with the Minecraft Launcher file path can cause the "exit code: 1" on Windows. If your user name has a special character, the Minecraft Launcher file path may not respond to a user account with a special character.
@@ -100,10 +88,6 @@ To change the Minecraft Launcher file path:
 5. Click**Apply** and**OK** to save the changes.
 6. Relaunch Minecraft and check for any improvements.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change the Java Executable Path
 
  Your Minecraft installation can run into issues if the launcher fails to detect the correct Java file. While Minecraft Launcher automatically installs the required JRE version, at times, you may need to manually change the executable to run the modified version of the game.
@@ -117,10 +101,18 @@ To change the Java executable for Minecraft:
 5. Select**Edit** from the menu.  
 ![minecraft launcher latest release edit windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-launcher-latest-release-edit-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Click**More Options** to view additional options.
 2. Click**Browse** to add a**Java Executable** .  
 ![java executable browse minecraft launcher windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-executable-browse-minecraft-launcher-windows.jpg)
 3. Navigate to your Java installation. By default, the JRE file path is:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `C:\Program Files (x86)\Java\jre1.8.0_361\bin`
 4. Select the**Java.exe** file and click**Open** .  
@@ -130,7 +122,7 @@ To change the Java executable for Minecraft:
 6. The caveat here is you’ll need to update the Java version number or re-add the Java executable every time you update Java.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall Minecraft Without Deleting Saves
@@ -156,6 +148,10 @@ To backup Minecraft saves and uninstall the game:
 C:\Users\[Username]\AppData\Roaming\.minecraft
 11. Relaunch Minecraft to check if the error is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Perform Generic Windows and Java Fixes
 
  If Minecraft is still plagued by the "exit code: 1" error, here are some more general fixes you can try.
@@ -165,6 +161,10 @@ C:\Users\[Username]\AppData\Roaming\.minecraft
  Incompatible or outdated graphics drivers can cause games on Windows computers to malfunction. For a dedicated GPU, you can use AMD Radeon Software or Nvidia GeForce Experience to[install the latest graphics drivers updates on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) .
 
  Intel users can download newer updates from the Windows update page. To do this, press Win + I to open Settings. Open Windows Updates and install any update available for your Intel graphics. Alternatively, check Intel’s website for newer display drivers for Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reinstall Java
 
@@ -200,22 +200,20 @@ To reinstall Java Runtime Environment:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-collabcanvas-pro-instagram-video-mosaics-unite/"><u>[New] CollabCanvas Pro Instagram Video Mosaics Unite</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-harnessing-the-power-of-software-for-seamless-vimeo-video-downloads/"><u>[New] In 2024, Harnessing the Power of Software for Seamless Vimeo Video Downloads</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mysterious-rotation-of-videos-on-the-social-app/"><u>[New] Mysterious Rotation of Videos on the Social App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-your-computers-name-essential-tech-tips/"><u>Decoding Your Computer's Name: Essential Tech Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-working-principles-of-e-motorcycles/"><u>Exploring the Working Principles of E-Motorcycles</u></a></li>
-<li><a href="https://blog-min.techidaily.com/fix-your-windows-11-sound-problems-with-these-14-proven-tips-and-tricks/"><u>Fix Your Windows 11 Sound Problems with These 14 Proven Tips and Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-legacy-to-latest-windows-11s-seven-timeless-elements/"><u>From Legacy to Latest: Windows 11'S Seven Timeless Elements</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-plus-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 Plus to iPad? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-infinix-note-30-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Infinix Note 30 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-se-2022-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone SE (2022) to Android? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-power-reminders-in-windows-1011/"><u>Maximizing Power Reminders in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-gpu-glitches-for-ow2-on-windows-systems/"><u>Overcoming GPU Glitches for OW2 on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-windows-update-resets/"><u>Preventing Windows Update Resets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/surpassing-the-stuck-update-status-quick-fix-tips/"><u>Surpassing the Stuck Update Status: Quick Fix Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uninitialized-disk-quick-tips-for-a-speedy-fix-in-windows/"><u>Uninitialized Disk: Quick Tips for a Speedy Fix in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-win11s-system32/"><u>Unlocking the Secrets of Win11's System32</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zoom-through-apex-with-confidence/"><u>Zoom Through Apex with Confidence</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-drones-that-follow-you-back-top-10-drone-leaders/"><u>[New] 2024 Approved Drones That Follow You Back - Top 10 Drone Leaders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-selecting-premium-free-srt-translation-services/"><u>[New] Mastering the Art of Selecting Premium Free SRT Translation Services</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-30-best-freefire-tagshashtags-for-youtube-for-2024/"><u>[Updated] 30 Best FreeFire Tags/Hashtags For YouTube for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-advanced-tips-for-adding-effects-on-digital-videos/"><u>[Updated] In 2024, Advanced Tips for Adding Effects on Digital Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-artisans-choice-a-curated-list-of-the-8-premier-drawing-apps-for-iphones/"><u>[Updated] In 2024, The Artisan’s Choice A Curated List of the 8 Premier Drawing Apps for iPhones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-enterprise-restricted-chromeedge-settings-on-desktop-pcs/"><u>Addressing Enterprise-Restricted Chrome/Edge Settings on Desktop PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-fixes-for-alt-codes-failing-in-windows-60-characters/"><u>Effective Fixes for ALT Codes Failing in Windows (60 Characters)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-video-processing-on-windows-embrace-distributed-power-via-tdarr/"><u>Elevate Video Processing on Windows: Embrace Distributed Power via Tdarr</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-game-changing-workflow-with-lenovos-new-dual-display-laptop-a-firsthand-review/"><u>Experience Game-Changing Workflow with Lenovo's New Dual-Display Laptop - A Firsthand Review</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-nubia-z50-ultra-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Nubia Z50 Ultra FRP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-the-most-of-intel-unison-for-convenient-windows-11-calls/"><u>Making the Most of Intel Unison for Convenient Windows 11 Calls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-playback-lags-a-guide-for-chromium-users/"><u>Overcoming Playback Lags: A Guide for Chromium Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-snip-tool-text-edits-on-win-11/"><u>Perfecting Snip Tool Text Edits on Win 11</u></a></li>
 </ul></div>
 

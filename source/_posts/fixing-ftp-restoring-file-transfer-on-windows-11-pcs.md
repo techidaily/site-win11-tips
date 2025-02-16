@@ -1,7 +1,7 @@
 ---
 title: "Fixing FTP: Restoring File Transfer on Windows 11 PCs"
-date: 2025-01-24T17:21:49.044Z
-updated: 2025-02-01T12:08:05.533Z
+date: 2025-01-26T22:40:16.771Z
+updated: 2025-02-02T21:27:02.380Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Free Up Drive Storage Space
 
  First, we recommend you check how much free space is available on your PC’s hard drive. You might not be able to download any files because your PC’s hard drive has hardly any free space left on it. Check out [how to check your local drive storage](https://www.makeuseof.com/windows-11-check-locak-drive-storage-space/) for several methods on how to view how much space is left on a drive.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Command-Line Tools
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another possibility is that something has gone wrong with Windows' system files. So, try [repairing corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/), specifically the System File Checker and the Deployment Image Servicing and Management command-line tools.
@@ -79,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 
  We also recommend checking some security settings in Internet Properties. Click **Custom level** on the **Security** tab. Make sure the **File download** and **Font download** options are enabled there. If they’re not, select the **Enable** radio buttons for those settings and click **OK**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run an Antivirus Scan
 
  Malware is another potential cause for your browsers not downloading files since it can cause many kinds of internet-related issues. If you have third-party antivirus software installed, run an antivirus scan with that app to check for and purge malware. Or you can run a manual antivirus can with Windows Security like this:
@@ -98,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
 
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
@@ -106,14 +110,10 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 
 ![The Turn off Windows Defender Firewall (not recommended) radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-firewall-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Your Browser Software
@@ -129,10 +129,14 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 ![The Reset settings tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-settings-tab.jpg)
 3. Press the **Restore settings** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Reset** inside the confirmation prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Factory Reset Window
@@ -142,10 +146,6 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
  However, the "Reset this PC" tool does have an option for keeping user files. So, there’s no need to back up your user files before a reset. Follow the instructions in this [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) article to apply this potential fix with the Reset this PC utility.
 
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Download Files Again on Your Windows PC
 
@@ -165,24 +165,22 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-checklist-for-achieving-high-quality-vocal-recordings/"><u>[New] The Ultimate Checklist for Achieving High-Quality Vocal Recordings</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-understanding-youtubes-revenue-streams-for-creators/"><u>2024 Approved Understanding YouTube's Revenue Streams for Creators</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211465218-9791028532154-aktar/"><u>Aktar | Free Book</u></a></li>
-<li><a href="https://facebook.techidaily.com/beyond-status-updates-exploring-the-top-6-metaspace-innovations-by-facebook/"><u>Beyond Status Updates: Exploring the Top 6 Metaspace Innovations by Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-black-screen-post-windows-bootup/"><u>Diagnosing Black Screen Post-Windows Bootup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/directing-microsoft-word-to-prefer-text-display-for-mail-attachments/"><u>Directing Microsoft Word to Prefer Text Display for Mail Attachments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easing-full-chatgpt-windows-issue/"><u>Easing Full-ChatGPT Windows Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-invalid-path-in-windows-operating-systems/"><u>Fixing Invalid Path in Windows Operating Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hacking-your-way-to-direct-pc-links-on-windows-11/"><u>Hacking Your Way to Direct PC Links on Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-samsung-galaxy-a25-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Samsung Galaxy A25 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-secure-your-contents-identity-adding-logo-and-watermark-to-videos/"><u>In 2024, Secure Your Content's Identity Adding Logo and Watermark to Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transcription-mastery-for-office-productivity-using-microsoft-words-voice-recognition-features/"><u>In 2024, Transcription Mastery for Office Productivity Using Microsoft Word's Voice Recognition Features</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-videography-space-capacities-and-limits-of-64128gb-units/"><u>In 2024, Videography Space Capacities and Limits of 64/128GB Units</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/radiate-warmth-and-joy-stylish-winter-window-plays/"><u>Radiate Warmth & Joy - Stylish Winter Window Plays</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-by-step-instagram-reels-production-process/"><u>Step-by-Step Instagram Reels Production Process</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-v27-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo V27 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-win-telnet-activation-3-methods/"><u>The Essential Guide to Win Telnet Activation (3 Methods)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-right-way-to-hibernate-windows-computers/"><u>The Right Way to Hibernate Windows Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11s-volume-mixer-explained-and-activated-steps/"><u>Windows 11'S Volume Mixer Explained and Activated Steps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ame-on-steps-for-crafting-an-influential-online-gamers-channel-for-2024/"><u>[New] Game On Steps for Crafting an Influential Online Gamers' Channel for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-update-short-twitter-video-coverage/"><u>[Updated] In 2024, Update Short Twitter Video Coverage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-steps-to-find-youtube-comment-feed/"><u>[Updated] Quick Steps to Find YouTube Comment Feed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capture-and-share-live-to-the-max-with-4-pro-tips-on-fb/"><u>2024 Approved Capture and Share Live to The Max with 4 Pro Tips on FB</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-including-youtube-playlist-content-a-step-by-step-tutorial/"><u>2024 Approved Including YouTube Playlist Content A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-your-course-through-cortana-history-windows/"><u>Charting Your Course Through Cortana History (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/copilot-disappearance-in-ws11-quick-fixes-guide/"><u>Copilot Disappearance in WS11: Quick Fixes Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-blank-monitor-during-windows-launch/"><u>Fixing Blank Monitor During Windows Launch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-engage-with-nvidias-adaptable-ai-tools/"><u>How to Engage with NVIDIA's Adaptable AI Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-essentials-of-film-production-for-youtube-originals/"><u>In 2024, The Essentials of Film Production for YouTube Originals</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/is-bitcoin-ablaze-unveiling-the-mystery-of-pepes-impact-on-crypto-trends-explored-by-yl-software/"><u>Is Bitcoin Ablaze? Unveiling the Mystery of Pepe's Impact on Crypto Trends – Explored by YL Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-mouse-response-time-on-windows-devices/"><u>Optimizing Mouse Response Time on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-roblox-error-262-instantly/"><u>Overcoming Roblox Error 262 Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-engineering-the-taskbar-key-steps-to-better-windows-11-ux/"><u>Re-Engineering the Taskbar: Key Steps to Better Windows 11 UX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-onedrive-errors-on-windows-effective-fixes/"><u>Tackling OneDrive Errors on Windows: Effective Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-tip-how-to-turn-off-nvidia-ui/"><u>Tech Tip: How to Turn Off NVIDIA UI</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/wie-man-itunes-backups-sicher-auf-eine-externe-festplatte-speichert/"><u>Wie Man iTunes Backups Sicher Auf Eine Externe Festplatte Speichert</u></a></li>
 </ul></div>
 

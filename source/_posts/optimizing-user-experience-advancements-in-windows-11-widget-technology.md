@@ -1,7 +1,7 @@
 ---
 title: "Optimizing User Experience: Advancements in Windows 11 Widget Technology"
-date: 2025-01-26T20:48:24.503Z
-updated: 2025-01-31T17:37:37.734Z
+date: 2025-01-29T21:25:24.256Z
+updated: 2025-02-02T16:40:01.693Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 
 ![Windows 11 widgets sliding-in from the left of the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-11-Widgets-Screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have Widgets enabled on Windows 11 taskbar, you will notice that the panel opens from the left side of your screen. This should not be the only option. It would be nice to see Windows 11 showing Widgets on the right side of the display, just like in macOS. However, Microsoft should keep both left and right-opening options and not replace one with the other.
 
  However, Microsoft will also need to allow users to drag the Widgets icon to both the left and right sides of the taskbar. It makes sense to open Widgets from the right side of the screen when the Widgets icon is on the same side. When you drag the Widgets icon to the left of the taskbar, it should open from the left side of your screen.
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 ![Screenshot showing Widgets panel openning on Mouse hover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mouse-hover.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Widgets experience is enabled by default in Windows 11\. To open it, you can hover your mouse over the Widgets icon. A mouse hover is arguably the simplest method of displaying the Widgets panel. However, it can be inconvenient at times.
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
  The Widgets icon is placed right beside the**Start** button in the Taskbar. And when trying to click the**Start** , you might end up accidentally hovering your mouse over the Widgets icon, thus opening the Widgets board even though you didn't want to. To address this issue, Microsoft should modify the behavior and add the ability to turn off the mouse hover gesture for Widgets. Windows 11 can offer a clickable Widgets icon in the taskbar as an alternative to mouse hover.
 
  Again, Microsoft should keep the mouse hover and click option for the Widgets icon to give users more control over the functionality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Allow Windows 11 Users to Turn Off the News Section in Widgets Panel
 
@@ -66,12 +66,16 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 ![Screenshot showing Windows 11 Widgets panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-widgets.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft recently added support for third-party widgets in Windows 11\. Companies like Meta and Spotify have already introduced their widgets to the operating system after Microsoft added third-party support.
 
  However, Windows 11 Widgets panel is still missing useful first-party widgets like Sticky Notes and Calculator (here are the[steps for keeping Sticky Notes always on top on Windows 10 and 11](https://www.makeuseof.com/sticky-notes-always-on-top-windows/) ). Microsoft can't force third-party developers to bring their widgets to Windows 11, but it can play its part in making the panel more "widget-rich."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Bring the Ability to Pin Widgets to the Desktop and Lockscreen
 
@@ -79,25 +83,21 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 
  Meanwhile, you can[pin your favorite widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) using a third-party app called Widget Launcher.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add Multi-Account Support to the Widgets Panel
 
  You can use widgets with or without signing into the Widgets Panel with your Microsoft account. However, it does not support multi-account.
 
  A Widgets Panel with support for multi-account would mean that you can seamlessly switch between different accounts in the Widgets board whenever you like. Each account will offer you a unique Widgets panel, as you can personalize each differently.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Allow Users to Change the Default Browser for Widgets
 
  You might want to read the full story when you come across an interesting news headline in the Widgets panel. And the link to that story should ideally open on your default internet browser. However, the Widgets capability in Windows 11 doesn't allow that. It will keep opening links on Microsoft Edge even after you set any other browser as default.
 
  To offer greater flexibility, Microsoft should allow users to change the default browser for Widgets. Here is our guide on[changing the default browser on Windows 11](https://www.makeuseof.com/windows-11-change-default-browser/) if you are unfamiliar with the steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Fixing Bugs And Improving Reliability
 
@@ -128,20 +128,20 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-accurate-ranking-top-10-gratuitous-srt-file-tools/"><u>[New] In 2024, Accurate Ranking Top 10 Gratuitous Srt File Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-fundamental-skills-for-creating-persuasive-client-centered-testimonials/"><u>[New] In 2024, Fundamental Skills for Creating Persuasive Client-Centered Testimonials</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-breaking-the-monotony-infusing-novelty-in-ppt-voiceovers/"><u>[Updated] In 2024, Breaking the Monotony Infusing Novelty in PPT Voiceovers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combatting-authentication-errors-in-windows-os/"><u>Combatting Authentication Errors in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-inadequate-access-for-app-updates-and-removals/"><u>Dealing with Inadequate Access for App Updates and Removals</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/te-your-content-with-these-top-5-youtube-marketing-methods-for-2024/"><u>Elevate Your Content with These Top 5 YouTube Marketing Methods for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/epic-speed-turbocharging-launcher-download-times/"><u>Epic Speed: Turbocharging Launcher Download Times</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-disable-the-windows-mobility-center-in-windows-11/"><u>How to Disable the Windows Mobility Center in Windows 11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-moto-g13-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola Moto G13 Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-honor-play-8t-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Honor Play 8T Phone that is Locked?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-14-pro-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your iPhone 14 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-android-games-to-pcwindows-using-google-play/"><u>Navigating Android Games to PC/Windows Using Google Play</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-6-best-4k-full-frame-camera-for-2024/"><u>Top 6 Best 4K Full Frame Camera for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/unveiling-methods-to-record-and-preserve-internet-broadcasts-for-2024/"><u>Unveiling Methods to Record and Preserve Internet Broadcasts for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-security-overhaul-alteration-of-ruleset/"><u>Windows Security Overhaul: Alteration of Ruleset</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-ace-6-tools-to-effortlessly-grab-videos-on-mac/"><u>[Updated] In 2024, Ace 6 Tools to Effortlessly Grab Videos on Mac</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-story-whats-not-in-public-knowledge/"><u>[Updated] Instagram Story What's Not in Public Knowledge?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-online-add-on-social-media-story-vault-for-2024/"><u>[Updated] Online Add-On Social Media Story Vault for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-error-code-0x887a0006-for-graphics/"><u>Correcting Error Code 0X887A0006 for Graphics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-fixes-for-the-missing-msstfmtdll-error-message/"><u>Easy Fixes for the 'Missing msstfmt.dll' Error Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-experience-with-vivetool-innovations/"><u>Elevate Your Windows Experience with ViVeTool Innovations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-nullify-audio-amplification-in-windows/"><u>Guide to Nullify Audio Amplification in Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nokia-c12-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nokia C12 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-premium-energy-packs-for-gopro-hero5-black-certified-and-counterfeit-options/"><u>In 2024, Premium Energy Packs for GoPro Hero5 Black – Certified & Counterfeit Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-install-package-troubleshooting-in-newest-windows-release/"><u>Mastering Install Package Troubleshooting in Newest Windows Release</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-greyed-out-waste-bin-icon-in-win11/"><u>Restoring Greyed Out Waste Bin Icon in Win11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-realme-c67-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Realme C67 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-task-scheduler-guide-to-efficient-batch-processing/"><u>The Task Scheduler Guide to Efficient Batch Processing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-workspaces-into-a-unified-digital-ecosystem-via-aoemi/"><u>Transforming Windows Workspaces Into a Unified Digital Ecosystem via AOEMi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme C33 2023 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Definitive Guide to Creating a PermaDelete Tool: Windows Desktop Trash"
-date: 2025-01-27T17:17:57.159Z
-updated: 2025-02-01T11:27:17.605Z
+date: 2025-01-27T21:22:36.009Z
+updated: 2025-02-03T01:39:23.883Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Standard Deletion vs. Permanent Erasure: What's Wrong With the Default Recycle Bin?
 
@@ -51,16 +55,12 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-compressed-file-tool.jpg)
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
 8. Click the**X** close button on the "Free File Wiper – Help" window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Now you’ll see a Free File Wiper bin icon somewhere on the Windows desktop. Left-click and drag that icon to reposition it if necessary.
@@ -69,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 ![The Free File Wiper bin icon on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-bin-icon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can change the wipe method for that bin via its context menu. Right-click the**Free File Wiper** system tray icon and select the**Wipe method** submenu. Then choose one of the five options available there.**Maniacal erase** is the most thorough shredding option with several passes.
 
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
@@ -76,14 +80,10 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
 
@@ -98,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 7. Click the**Add gadget** option to view the desktop widget selection window.  
 ![The Add gadget option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-gadget-option.jpg)
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
@@ -118,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
@@ -140,18 +140,21 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/rime-selection-of-screen-capture-software-for-gaming-for-2024/"><u>[New] Prime Selection of Screen Capture Software for Gaming for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-copyright-free-meditation-music-download/"><u>2024 Approved Copyright-Free Meditation Music Download</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/elevate-your-media-game-with-winxvideo-ai-pro-enhancer-for-upscaling-stabilizing-transforming-and-professional-video-capture/"><u>Elevate Your Media Game with WinxVideo AI - Pro Enhancer for Upscaling, Stabilizing, Transforming, and Professional Video Capture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-list-best-4-webp-image-viewer-apps-for-pc/"><u>Exclusive List: Best 4 WebP Image Viewer Apps for PC</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/explore-free-options-10-leading-mac-artists-preferences/"><u>Explore Free Options 10 Leading Mac Artists' Preferences</u></a></li>
-<li><a href="https://driver-error.techidaily.com/exposing-ms-bda-through-graphical-display/"><u>Exposing MS BDA Through Graphical Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keeping-a-watchful-eye-on-stable-internet-links-in-windows/"><u>Keeping a Watchful Eye on Stable Internet Links in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-optional-add-on-installations-in-modern-windows-os/"><u>Mastering the Art of Optional Add-On Installations in Modern Windows OS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/minecraft-sustainable-house-projects-6-10/"><u>Minecraft Sustainable House Projects #6-10</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/optimizing-board-use-on-zoom-desktopiosandroid-techniques/"><u>Optimizing Board Use on Zoom - Desktop/iOS/Android Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-your-pc-8-solutions-for-red-pink-desktops/"><u>Reviving Your PC: 8 Solutions for Red, Pink Desktops</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/transform-the-mundane-into-stunning-create-with-our-video-templates/"><u>Transform the Mundane Into Stunning Create with Our Video Templates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-windows-usage-incorporating-advanced-run-enhancement-tools/"><u>Transforming Windows Usage: Incorporating Advanced Run Enhancement Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-start-participating-in-google-webinars/"><u>[New] In 2024, How To Start Participating in Google Webinars</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-iphone-x-animoji-handbook-for-seamless-experience/"><u>[New] Ultimate iPhone X Animoji Handbook for Seamless Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-your-pcs-visual-fidelity-with-updated-radeon-drivers-windows-edition/"><u>Elevating Your PC's Visual Fidelity with Updated Radeon Drivers, Windows Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-gadgets-with-toms-hardware-experts/"><u>Exploring Advanced Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-effortless-video-transfer-importing-and-exporting-in-adobe-premiere-pro-2023/"><u>In 2024, Effortless Video Transfer Importing and Exporting in Adobe Premiere Pro 2023</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a54-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy A54 5G Phone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-learn-and-create-the-ultimate-youtube-trailer-blueprint-in-filmora/"><u>In 2024, Learn and Create The Ultimate YouTube Trailer Blueprint in Filmora</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-your-windows-notes-prominent/"><u>Keeping Your Windows Notes Prominent</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-powerpoint-print-errors-with-9-effective-methods/"><u>Overcoming Common PowerPoint Print Errors with 9 Effective Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-network-issues-on-windows-11-a-comprehensible-approach/"><u>Overcoming Network Issues on Windows 11 - A Comprehensible Approach</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-camon-20-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Camon 20 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sync-success-starting-windows-and-accessing-notepad-quickly/"><u>Sync Success: Starting Windows and Accessing Notepad Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-remedy-access-denied-on-windows/"><u>Tactics to Remedy 'Access Denied' On Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-path-to-clear-visible-notes-obsidian/"><u>The Ultimate Path to Clear, Visible Notes: Obsidian</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-administrative-potential-with-advanced-task-management-in-win11/"><u>Unleash Administrative Potential with Advanced Task Management in Win11</u></a></li>
 </ul></div>
 

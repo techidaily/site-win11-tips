@@ -1,7 +1,7 @@
 ---
 title: Accelerate Your Excel Operations in Windows OS
-date: 2024-08-16T01:14:32.167Z
-updated: 2024-08-17T01:14:32.167Z
+date: 2025-01-29T01:07:25.098Z
+updated: 2025-02-02T19:08:17.023Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
  Restart Excel on your PC and enable your add-ins one at a time. Try using Excel after enabling each add-in and observe its performance. Once you identify the faulty add-in, consider removing it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Optimize Excel for Compatibility
 
  Another thing you can do to improve Excel’s performance on Windows is to optimize its interface for compatibility instead of the best appearance. This can lead to better overall performance and smoother operation.
@@ -48,7 +52,15 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 4. Click **OK** to save the changes.  
 ![Optimize Excel for Compatiblity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/optimize-excel-for-compatiblity.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart Excel after this and check if it still runs slowly or lags on your Windows computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Hardware Graphics Acceleration
 
@@ -61,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 3. Under the **Display** section, tick the **Disable hardware graphics acceleration** checkbox.
 4. Click **OK** and restart Excel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 4\. Enable Manual Calculation
 
  When you make changes to a cell, Excel recalculates all formulas and functions. This process can be resource-intensive and result in the app lagging when you input or edit data.
@@ -71,14 +80,11 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
  To fix this, you can try enabling manual calculation mode in Excel. For that, switch to the **Formulas** tab, click the **Calculation Options** button, and select **Manual**. Following this, you can press **F9** any time you want Excel to recalculate.
 
 ![Enable Manual Calculation in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-manual-calculation-in-excel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reduce the Size of Your Excel File
 
  The larger your spreadsheet, the more calculations and operations Excel has to perform. This can have a negative impact on Excel's performance and lead to various problems. To avoid this, you can try reducing the size of your Excel workbook by decreasing the number of sheets, removing unnecessary formatting, and compressing any pictures within your workbook.
@@ -89,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![Save As Dialog in Excel](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/save-as-dialog-in-excel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Update Microsoft Excel
 
  Are you using an outdated version of Excel? If so, you may be missing out on new features and performance enhancements. Try updating Excel on your PC and see if that improves its performance on your Windows computer.
@@ -97,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 2. Select **Account** from the left sidebar.
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Wait for Microsoft Office to update Excel along with other Office apps and check if that fixes the problem.
 
@@ -115,16 +121,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Click the **Change** button at the top.
 6. Select the **Quick Repair** option and then click **Repair**.  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Allow the repair tool to fix any issues with Excel. If the issue remains even after that, you can perform an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair to resolve any issues.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Try Some Generic Windows Fixes
 
  If none of the above tips help, you can try some generic fixes to speed up Excel’s performance on Windows.
@@ -133,21 +136,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * **Repair Your Excel File:** If Excel experiences lag only when you work on a specific workbook, there might be an issue with that file itself. In that case, you can try [repairing the Excel workbook](https://www.makeuseof.com/repair-courrpted-excel-workbook/) to solve the problem.
 * **Speed Up Your Windows PC:** Issues with your Windows computer can make it seem like there's a problem with Excel. If your [Windows computer is running slowly or lagging](https://www.makeuseof.com/ways-to-fix-slow-lagging-windows-11/), try changing the power plan or freeing up storage space to fix the problem.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Experience a Lag-Free Excel Again on Windows
 
  It can be frustrating if Excel runs slowly and constantly lags on your Windows computer. However, you don't have to put up with such a poor experience. Applying the above tips should speed up Excel’s performance on your PC and put you at ease.
 
  Before you consider switching to Excel’s web version or another alternative, try the following tips to boost Excel’s performance on your Windows computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -156,5 +149,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-enhancing-user-experience-strategic-placement-of-alerts-on-youtube-content/"><u>[Updated] 2024 Approved Enhancing User Experience Strategic Placement of Alerts on YouTube Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ideal-screen-capturing-solutions-for-igadgets/"><u>[Updated] 2024 Approved Ideal Screen Capturing Solutions for iGadgets</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-download-custom-mcb-banner-packs/"><u>[Updated] In 2024, Download Custom MCB Banner Packs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-how-to-make-and-convert-slow-motion-videos-on-iphone/"><u>[Updated] In 2024, How to Make and Convert Slow Motion Videos on iPhone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-uncover-the-art-of-participating-in-tiktok-live-shows/"><u>[Updated] In 2024, Uncover the Art of Participating in TikTok Live Shows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-tools-for-efficiently-converting-xmlssattml-to-srt/"><u>2024 Approved Advanced Tools for Efficiently Converting XML/SSA/TTML to SRT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-file-access-failures-in-microsoft-office-outlook/"><u>Correcting File Access Failures in Microsoft Office Outlook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-adjust-your-photos-on-win-11-top-six-techniques-explored/"><u>Efficiently Adjust Your Photos on Win 11: Top Six Techniques Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-remedying-directdraw-disruptions-in-win1011/"><u>Expert Guide: Remedying DirectDraw Disruptions in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-cross-platform-color-consistency/"><u>Mastering Cross-Platform Color Consistency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-personalized-lock-patterns-on-windows-11/"><u>Mastering Personalized Lock Patterns on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-flawed-icons-and-menu-items-on-win-1011/"><u>Mastery Over Flawed Icons and Menu Items on Win 10/11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mobvoi-ticwatch-e2-overview-cost-effective-but-questionable-value-for-money/"><u>Mobvoi TicWatch E2 Overview: Cost-Effective but Questionable Value for Money</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win-11-adjusting-proxy-preferences/"><u>Navigating Win 11: Adjusting Proxy Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rehabilitating-the-non-deletable-character-in-microsoft-os/"><u>Rehabilitating the Non-Deletable Character in Microsoft OS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-14-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-from-photos-to-films-easy-video-creation-with-ezvid-on-mac-os/"><u>Updated In 2024, From Photos to Films Easy Video Creation with Ezvid on Mac OS</u></a></li>
+</ul></div>
 

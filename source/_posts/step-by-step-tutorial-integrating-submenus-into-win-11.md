@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Integrating Submenus Into Win 11"
-date: 2025-01-27T12:48:10.423Z
-updated: 2025-02-01T02:08:58.595Z
+date: 2025-01-31T17:59:27.782Z
+updated: 2025-02-03T01:35:42.075Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/new-key-options.jpg)
 4. Enter **Menu1** to be the new key’s name.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right-click **Menu1** to select the **New** \> **String Value** options.
 
 1. Input **MUIVerb** for the new string’s name.
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 3. Double-click the **MUIVerb** string added to the **Menu1** key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Enter **Apps** in the **Value** box for the **MUIVerb** string, which will be the heading for your new context menu submenu. Or you can input a different submenu heading in the **Value data** box if preferred.  
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 6. Next, double-click on the **SubCommand** string inside the **Menu1** key.
 7. Input **Notepad; Remote Desktop Connection** inside the **Value** box for the **SubCommands** string and click **OK**.  
 ![subcommands-string-value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/subcommands-string-value.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now a new **App** submenu will be visible on Windows 11’s classic context menu. However, it won’t include any shortcuts. So, you will need to do some further editing of a different **shell** key to add functionality to the submenu. Edit the registry like this to complete the submenu:
 
@@ -71,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 ![The Notepad path value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-notepad-path-value.jpg)
 10. Repeat steps two to five to create a **Remote Desktop Connection** key with a **command** subkey, as shown in the snapshot directly below. Instead of naming the key Notepad, input **Remote Desktop Connection** for the new key’s title.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Remote Desktop Connection and Notepad keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/notepad-and-remote-desktop-connection-keys.jpg)
 11. Double-click the **(Default)** string for the **Remote Desktop Connection** key you created.
 
@@ -82,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
  Now the new context menu submenu is complete. Right-click within an area of the Windows 11 desktop and select **Show more options** to view the secondary classic context menu. Move the cursor over the new **Apps** submenu from which you can select to open Notepad and Remote Desktop Connection.
 
 ![The Apps submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-apps-submenu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can add more software shortcuts to that submenu. Note that the values you input for the **SubCommands** string must match the names of the registry keys created for the software shortcuts. In the example above, the **Notepad** and **Remote Desktop Connection** registry keys matched values input for the **SubCommands** string.
 
@@ -107,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 ![The Extract All option for ZIP archives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/extract-all-option.jpg)
 4. Open the extracted folder for Easy Context Menu and double-click the EXE file that runs the software from there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the **List Editor** button in Easy Context Menu.
 
 1. Select **Desktop Context Menu** and press the **Add Sub Menu** button.
@@ -119,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 3. Click the **Add New** button with the **Software Shortcuts** submenu selected.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select a program you want to include in the submenu and click **Open**.
@@ -127,17 +131,13 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 ![A program shortcut added to the Software Shortcuts submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/program-shortcuts.jpg)
 6. Select the checkboxes for the new **Software Shortcuts** submenu and the programs added to it in the List Editor window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Press the **Save Changes** button and close the List Editor window.
 8. Select the checkboxes for the **Software Shortcuts** submenu and the program options it includes within the Easy Context Menu window.  
 ![The Easy Context Menu window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/easy-context-menu-window.jpg)
 9. Click **Apply Changes** to add the new submenu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now check out the new **Software Shortcuts** submenu on Windows 11’s classic desktop context menu. That cascading menu will include all the programs you selected to add to it. It will also include program icons, so long as you leave the **Show icon in the Context Menu** checkboxes selected.
@@ -168,24 +168,19 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-easy-transition-from-local-to-global-stream-spotify-playlists-on-youtube/"><u>[New] 2024 Approved Easy Transition From Local to Global Stream Spotify Playlists on YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-enjoy-youtube-on-iphoneipad-with-the-leading-ios-fb-video-downloader/"><u>[New] In 2024, Enjoy YouTube on iPhone/iPad with the Leading iOS FB Video Downloader</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-entry-overriding-windows-account-prompts/"><u>Effortless Entry: Overriding Windows Account Prompts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/enhancing-click-through-rates-with-three-distinct-writing-models-for-ads/"><u>Enhancing Click-Through Rates with Three Distinct Writing Models for Ads</u></a></li>
-<li><a href="https://win11.techidaily.com/flawless-functionality-in-windows-zoom-eliminate-error-1132/"><u>Flawless Functionality in Windows Zoom - Eliminate Error 1132</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-service-failed-for-virtual-disk-support/"><u>How to Fix Service Failed for Virtual Disk Support</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-microsofts-speech-capabilities-in-windows-11/"><u>How to Reactivate Microsoft's Speech Capabilities in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-win-back-your-deleted-documents-on-windows/"><u>How to Win Back Your Deleted Documents on Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/join-forces-with-winxdvd-for-enhanced-digital-solutions/"><u>Join Forces with WinXDVD for Enhanced Digital Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-techniques-for-troubleshooting-and-fixing-application-crashes/"><u>Master Techniques for Troubleshooting and Fixing Application Crashes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/meta-continues-price-reductions-on-oculus-quest-2-hits-record-low-pricing/"><u>Meta Continues Price Reductions on Oculus Quest 2, Hits Record Low Pricing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-heic-images-to-jpeg-format-in-windows-11/"><u>Optimizing HEIC Images to JPEG Format in Windows 11</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/pre-order-the-new-microsoft-surface-laptop-go-2-at-just-599-get-yours-today/"><u>Pre-Order the New Microsoft Surface Laptop Go 2 at Just $599 - Get Yours Today!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/protect-your-family-with-microsofts-safety-features/"><u>Protect Your Family with Microsoft's Safety Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/recover-lost-customizations-in-windows-after-restart/"><u>Recover Lost Customizations in Windows After Restart</u></a></li>
-<li><a href="https://games-able.techidaily.com/seeking-the-glow-in-scarlet-and-violets-realm-84/"><u>Seeking the Glow in Scarlet & Violet's Realm (84)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-to-successful-worldwide-links-on-windows-mc/"><u>Unlocking Secrets to Successful Worldwide Links on Windows MC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/your-simple-and-straightforward-pathway-to-nft-creation/"><u>Your Simple & Straightforward Pathway To NFT Creation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-webcam-advancements-revolutionizing-video-capture-at-home/"><u>[New] In 2024, WebCam Advancements Revolutionizing Video Capture at Home</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pinnacle-photo-chronicles-creator-set/"><u>[New] Pinnacle Photo Chronicles Creator Set</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-secrets-to-writing-compelling-vlog-dialogues/"><u>[New] Secrets to Writing Compelling Vlog Dialogues</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-music-management-made-simple-in-inshot/"><u>[Updated] In 2024, Music Management Made Simple in InShot</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-step-by-step-how-to-conduct-real-time-calls-via-whatsapp-on-pc/"><u>2024 Approved Step by Step How to Conduct Real-Time Calls via WhatsApp on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-clearer-journey-the-art-of-annotating-folders-on-windows-11/"><u>A Clearer Journey: The Art of Annotating Folders on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-line-for-quake-via-windows-terminal/"><u>Command Line for Quake via Windows Terminal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-on-lenovo-x1-carbon-gen-8-exceptional-arm-performance-advanced-5g-features-and-long-lasting-battery-zdnet-insights/"><u>Comprehensive Review on Lenovo X1 Carbon Gen 8: Exceptional Arm Performance, Advanced 5G Features and Long-Lasting Battery | ZDNet Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-insights-into-utilizing-dism-for-win11-fixes/"><u>Expert Insights Into Utilizing Dism for Win11 Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-edge-techniques-for-effective-wsl-2-use/"><u>Leading Edge Techniques for Effective WSL 2 Use</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repair-non-playing-android-videos/"><u>Repair Non-Playing Android Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-troubleshooting-windows-1011-file-issues/"><u>Strategies for Troubleshooting Windows 10/11 File Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-the-power-extracting-device-ids-in-windows/"><u>Unleashing the Power: Extracting Device IDs in Windows</u></a></li>
 </ul></div>
 

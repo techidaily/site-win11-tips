@@ -1,7 +1,7 @@
 ---
 title: Curing Empty Folder Misconraneuement in Windows 11 with #0X80070091
-date: 2025-01-29T06:49:03.080Z
-updated: 2025-02-01T12:10:44.811Z
+date: 2025-01-31T21:20:39.570Z
+updated: 2025-02-02T16:30:38.283Z
 tags:
   - windows10
   - windows11
@@ -48,15 +48,15 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 ![The Restart option for File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-options-for-file-explorer.jpg)
 3. Press the**Restart** button for the selected Explorer process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Scan System Files With an SFC Scan
 
  Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for[running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
 
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-scannow-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Check for Errors With a Disk Scan
 
@@ -69,11 +69,11 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk-scan-command.jpg)
 4. Click**Start** and select**Power** \>**Restart** to reboot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the folder the 0x80070091 error occurs for isn’t on the C: drive, you’ll need to modify the above command. Replace**C:** with the letter of the storage drive that includes the affected folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Modify the Affected Folder’s Permissions
 
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 2. Click the window’s**Security** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Next, press the**Advanced** button.  
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 5. Enter your Windows user account name inside the object name text box.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Select a User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-a-user-or-group.jpg)
@@ -102,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
 7. Click**Replace owner on subcontainers and objects** to select that setting.
 8. Press the Advanced Security Settings window’s**Apply** and**OK** buttons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Run an Antivirus Scan
 
@@ -119,11 +115,15 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 4. Press**Scan now** to start the antivirus scanning.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Then wait to see if the scan detects anything, and select**Remove** if it does.
 6. Click**Start actions** to apply.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Delete Your Folders in File Explorer Again With These Fixes
 
@@ -144,21 +144,22 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-achieve-proficiency-in-audio-upload-with-google/"><u>[New] 2024 Approved Achieve Proficiency in Audio Upload with Google</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-declutter-photos-with-affinitys-ease/"><u>[New] Declutter Photos with Affinity's Ease</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-time-saving-techniques-capturing-your-google-voice-conversations/"><u>[Updated] In 2024, Time-Saving Techniques Capturing Your Google Voice Conversations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-identifying-and-understanding-touchless-technologies/"><u>2024 Approved Identifying and Understanding Touchless Technologies</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/best-terraria-customization-choices-for-2024/"><u>Best Terraria Customization Choices for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-xbox-glitches-in-windows-with-ease/"><u>Fixing Xbox Glitches in Windows with Ease</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-the-power-of-supplemental-film-footage/"><u>In 2024, Harnessing the Power of Supplemental Film Footage</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-leveraging-luts-for-stunning-visual-results/"><u>In 2024, Leveraging LUTs for Stunning Visual Results</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-unsuccessful-discord-updates/"><u>Mastering the Art of Fixing Unsuccessful Discord Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/outlook-preview-setup-for-windows-1011-users/"><u>Outlook Preview Setup for Windows 10/11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-voice-features-xbox-and-windows-interaction/"><u>Restoring Voice Features: Xbox & Windows Interaction</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/step-by-step-live-tweeting-tactics/"><u>Step-by-Step Live Tweeting Tactics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-resuming-razer-device-connection-support-by-synapse/"><u>Strategies for Resuming Razer Device Connection Support by Synapse</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-retrogame-revival-through-retroarchs-shader-capabilities/"><u>The Art of RetroGame Revival Through RetroArch’s Shader Capabilities</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-ultimate-pathway-understanding-adobes-storage-solutions-and-best-backups-for-2024/"><u>The Ultimate Pathway Understanding Adobe's Storage Solutions & Best Backups for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-at-warfare-maximize-your-frame-rate/"><u>Winning at Warfare: Maximize Your Frame Rate</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-zoom-visual-precision-effective-strategies/"><u>[New] Maximizing Zoom Visual Precision Effective Strategies</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-definitive-guide-to-appending-srt-track-in-videos/"><u>[Updated] In 2024, The Definitive Guide to Appending SRT Track in Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-play-40c-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor Play 40C</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-more-value-black-friday-offers-at-612-win10/"><u>Get More Value: Black Friday Offers at $6.12 Win10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-honor-magic-5-pro-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Honor Magic 5 Pro Without PUK Codes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-12-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme 12 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mastering-the-art-of-joining-youtube-clips/"><u>Mastering the Art of Joining YouTube Clips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-file-extraction-failures-in-windows-1110/"><u>Navigating Through File Extraction Failures in Windows 11/10</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reactivating-historical-filmmaking/"><u>Reactivating Historical Filmmaking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-credible-power-consumption-forecasts-in-win-11-setup/"><u>Reestablishing Credible Power Consumption Forecasts in Win 11 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-your-desktop-layout-with-one-click/"><u>Restoring Your Desktop Layout with One Click</u></a></li>
+<li><a href="https://techidaily.com/sign-jpg-online-for-free-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>Sign JPG Online for Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocketing-printer-speed-in-windows-realm/"><u>Skyrocketing Printer Speed in Windows Realm</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-resolving-file-corrupted-error-x70-on-windows-1011/"><u>Swiftly Resolving 'File Corrupted' Error X70 on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719261998240-unfreeze-windows-update-easy-to-follow-tips/"><u>Unfreeze Windows Update: Easy-to-Follow Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-users-guide-to-managing-monitor-luminosity/"><u>Win Users Guide to Managing Monitor Luminosity</u></a></li>
 </ul></div>
 

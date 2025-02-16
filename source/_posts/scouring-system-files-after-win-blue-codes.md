@@ -1,7 +1,7 @@
 ---
 title: Scouring System Files After Win-Blue Codes
-date: 2025-01-30T21:20:13.710Z
-updated: 2025-02-01T06:20:57.777Z
+date: 2025-01-26T22:39:36.044Z
+updated: 2025-02-02T23:50:08.501Z
 tags:
   - windows10
   - windows11
@@ -25,9 +25,17 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where Are the BSOD Log Files Located in Windows?
 
  You can find the BSOD log files in the Event Viewer, Control Panel, and Registry Editor in Windows. Below, we have listed the detailed steps for finding these files in all three of these utilities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Find and Read the BSOD Log Files in the Event Viewer
 
@@ -41,28 +49,20 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 ![Choose Event Viewer in the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/event-viewer.jpg)
 2. Head over to the **Action** menu located at the top, and choose **Create Custom View** from the context menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Create a custom view in the Event viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/create-custom-view.jpg)
 3. In the following dialog, expand the dropdown for **Logged** and choose the time when you encountered the issue.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Check the logged section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/custom-time.jpg)
 4. Now, move to the Event Level section and choose **Error**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Event level of the error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/error-event-level.jpg)
 5. Expand the dropdown for **Event Logs** and checkmark the box for **Windows Logs**.  
 
 ![Choose Windows logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-logs.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Click **OK** to proceed.
 2. You will now be prompted to enter a name and description for the custom view you just created. Enter these details and click **OK**.  
@@ -73,13 +73,17 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 4. Next, locate the BSOD using details like the date and time again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Once you find the targeted log, click on it.
 6. Check both the General and Details tabs to get information about this error.
 
  Once you find the error code associated with the crash and the cause, you can look for solutions online, or head over to our guide that discusses [how to fix blue screen errors in Windows](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) if it's a bsod.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Find and Read the BSOD Log Files in the Registry Editor
 
@@ -105,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 
  Upon reboot, you should be able to view the log files without any problems.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Find and Read the BSOD Log Files in the Control Panel
 
  The third way of finding and reading the BSOD log files is via the Control Panel. This approach offers a graphical representation of the log files using the Windows Reliability Monitor, unlike the methods we have explored previously.
@@ -122,12 +122,12 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 ![Security and maintenance settings in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/security-maintenance.jpg)
 3. Click on **Maintenance** and then select **View reliability history**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Check the reliability history of the system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/view-realability-history.jpg)
 4. You should now see a graph showing the reliability data. Look for red cross icons and blue (i) icons in the graph, as they show problematic events.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Reliability graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/realability-graph.jpg)
 5. Click on each of the icons to view its details. Keep repeating the process to locate the event you are looking for.
@@ -154,24 +154,19 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-turn-the-screws-right-youtube-video-rotation-for-all-angles/"><u>[New] 2024 Approved Turn the Screws Right YouTube Video Rotation for All Angles</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-advanced-tips-for-effective-chroma-keying-in-kinemaster/"><u>[New] Advanced Tips for Effective Chroma Keying in KineMaster</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-professional-filmmaking-optics-that-elevate-4k-vision/"><u>[New] Professional Filmmaking Optics That Elevate 4K Vision</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-strategies-to-leverage-youtubes-cc-licensing/"><u>[Updated] Strategies to Leverage YouTube's CC Licensing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unveiling-vsdcs-potential-and-top-alternatives/"><u>2024 Approved Unveiling VSDC’s Potential & Top Alternatives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dormant-dreams-windows-computers-at-rest/"><u>Dormant Dreams: Windows Computers at Rest</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ease-your-computers-pace-with-enhanced-mouse-speed/"><u>Ease Your Computer’s Pace with Enhanced Mouse Speed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-video-memory-crashes-in-hogwarts-educational-fantasy-game/"><u>Eliminating Video Memory Crashes in Hogwarts Educational Fantasy Game</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-disconnected-print-devices-on-windows-pc/"><u>Fixing Disconnected Print Devices on Windows PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-can-apple-revitalize-tophat-vision-pro-expert-tips-analysis/"><u>How Can Apple Revitalize Tophat Vision Pro? Expert Tips Analysis</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-immediate-visual-effects-with-instagrams-chroma-keying-feature/"><u>In 2024, Immediate Visual Effects with Instagram’s Chroma Keying Feature</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-quick-and-easy-methods-for-including-emojis-into-discord-statements/"><u>In 2024, Quick and Easy Methods for Including Emojis Into Discord Statements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-your-windowed-yuzu-experience/"><u>Maximize Your Windowed Yuzu Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-windows-storage-retention-strategy/"><u>Optimize Windows Storage Retention Strategy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proactive-approach-preventing-unexpected-obs-studio-error/"><u>Proactive Approach: Preventing Unexpected OBS Studio Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-unresponsive-sound-settings-on-windows/"><u>Reviving Unresponsive Sound Settings on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-solutions-to-operation-failure-error-0x0000011b-in-windows-11/"><u>Unlocking Solutions to Operation Failure (Error 0X0000011B) in Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-does-rapid-subscription-improve-video-watching/"><u>[New] In 2024, Does Rapid Subscription Improve Video Watching?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youngest-entrepreneur-in-media-lands-fortune-peak/"><u>[New] Youngest Entrepreneur in Media Lands Fortune Peak</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-basic-techniques-for-effective-color-grading-in-ps/"><u>[Updated] 2024 Approved Basic Techniques for Effective Color Grading in PS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-economical-pc-streaming-with-simple-obs-configurations/"><u>[Updated] 2024 Approved Economical PC Streaming with Simple OBS Configurations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-digital-asset-management-implementing-watermarks-on-instagram/"><u>[Updated] Digital Asset Management Implementing Watermarks on Instagram</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-homemade-video-making-top-5-efficient-methods-you-must-know/"><u>[Updated] Homemade Video Making Top 5 Efficient Methods You Must Know</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/essential-comparisons-of-echo-pop-vs-echo-dot-what-sets-them-apart/"><u>Essential Comparisons of Echo Pop vs Echo Dot: What Sets Them Apart?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-do-not-have-sufficient-access-to-uninstall-error-in-windows-11-and-11/"><u>How to Fix the “Do Not Have Sufficient Access to Uninstall” Error in Windows 11 & 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-most-reliable-vehicle-monitoring-cameras-ranked/"><u>In 2024, Most Reliable Vehicle Monitoring Cameras Ranked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-transcription-with-whisper-voice-to-text-guide/"><u>Instant Transcription with Whisper: Voice to Text Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-determine-your-pcs-ram-specifications/"><u>Quick Tips: Determine Your PC's RAM Specifications</u></a></li>
+<li><a href="https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/"><u>Reviving Game Playthroughs: Solve Xbox Headset Problems with These Proven Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreeze-handbrake-on-widows-effortlessly/"><u>Unfreeze HandBrake on Widows, Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-ps1-win-strategies-with-duckstation/"><u>Unveiling PS1 Win Strategies with Duckstation</u></a></li>
 </ul></div>
 

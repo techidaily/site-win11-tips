@@ -1,7 +1,7 @@
 ---
 title: "Displaying D: Drive Folder Alongside Existing Paths"
-date: 2025-01-26T11:25:13.970Z
-updated: 2025-02-01T11:57:28.654Z
+date: 2025-01-30T18:33:01.647Z
+updated: 2025-02-02T22:37:33.007Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before You Proceed…
 
  We are going to [create a Registry file](https://www.makeuseof.com/windows-registry-file-guide/) to add the D: drive to the Navigation Pane. This file will make changes to the Windows registry, and you need to be careful [not to mess up the Windows Registry](https://www.makeuseof.com/tag/not-accidentally-mess-windows-registry/). A slip-up could make Windows unusable.
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
  Furthermore, we highly recommend that you learn how to [back up and restore the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/). That way, you have a way of returning it to the state it was in before you made any changes that broke it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Add the D: Drive to the Navigation Pane in File Explorer?
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
  Start by pressing **Win + S** to bring up Windows Search. Then, type **notepad** in the Search box, and when Notepad shows up in the search results, click on it to launch it.
 
 ![The Notepad search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/notepad-search-result.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then copy and paste the below text into Notepad:
 
@@ -86,14 +78,22 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 
 ![saving a registry file in Notepad on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/save-reg-file-add-drive-nav-pane.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, double-click the Registry file you just created and click **Yes** on the UAC prompt. You’ll then be asked if you want to continue with the merge, so click **Yes**. Afterward, press **Win + E** to open File Explorer.
 
 ![the D drive showing in the bottom section of the Navigation pane on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/d-drive-nav-pane.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The D: drive should now be visible in the bottom part of the Navigation pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Remove the D: Drive From the Navigation Pane in File Explorer?
@@ -112,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
  Now the D: drive should be gone from the navigation pane in File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create an Easier Way to Access the D: Drive on Your Windows Computer
@@ -129,22 +129,21 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-dynamic-dialogue-dance-decks/"><u>[New] 2024 Approved Dynamic Dialogue Dance Decks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-gecata-game-recorder-review/"><u>[New] 2024 Approved Gecata Game Recorder Review</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-ultimate-guide-for-popular-screen-recorder-zd-soft/"><u>[Updated] Ultimate Guide for Popular Screen Recorder ZD Soft</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-8-screenshot-and-video-editing-tools-for-phones/"><u>2024 Approved The Best 8 Screenshot & Video Editing Tools for Phones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-chatgpt-create-humor-exploring-the-potential-of-ai-in-comedy/"><u>Can ChatGPT Create Humor? Exploring the Potential of AI in Comedy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demolishing-the-empty-directory-problem-windows-0x80070091-hurdle/"><u>Demolishing the Empty Directory Problem: Windows' 0X80070091 Hurdle</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-solutions-for-programs-that-dont-work-on-vistawindows-7/"><u>Discover Solutions for Programs that Don't Work on Vista/Windows 7.</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/emeditor-text-editor-update-introducing-new-appdir-and-appdrive-parameters/"><u>EmEditor Text Editor Update: Introducing New $(AppDir) and $(AppDrive) Parameters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-conventional-to-cutting-edge-the-shift-in-os-features/"><u>From Conventional to Cutting-Edge: The Shift in OS Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-pubg-battlegrounds-not-saving-settings-in-windows-1110/"><u>How to Fix PUBG: Battlegrounds Not Saving Settings in Windows 11/10</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-x-flip-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo X Flip FRP Without Computer</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-in-2024-10-most-popular-minion-memes-that-moms-are-crazy-about/"><u>New In 2024, 10 Most Popular Minion Memes that Moms Are Crazy About</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-failed-device-pairings-in-windows-11/"><u>Quick Fix for Failed Device Pairings in Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/red-dead-redemption-2-no-longer-plagued-by-pc-game-crashes-solutions-and-updates/"><u>Red Dead Redemption 2 No Longer Plagued by PC Game Crashes: Solutions & Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-grayed-out-memory-management-in-win11/"><u>Reviving Grayed-Out Memory Management in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-phone-recording-problems/"><u>Troubleshooting Windows Phone Recording Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winfixer-tackling-inaccessible-networks-on-windows-11-os/"><u>Winfixer: Tackling Inaccessible Networks on Windows 11 OS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-ultimate-checklist-for-establishing-a-distinctive-online-self/"><u>[New] The Ultimate Checklist for Establishing a Distinctive Online Self</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-leveraging-instagrams-music-icon-feature-effectively-for-2024/"><u>[Updated] Leveraging Instagram’s Music Icon Feature Effectively for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/9-prime-live-streaming-venues-for-gamers/"><u>9 Prime Live Streaming Venues for Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-techniques-for-text-in-the-windows-snip-tool/"><u>Advanced Techniques for Text in the Windows Snip Tool</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y02t-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/become-a-pro-at-networked-streams-with-vlc/"><u>Become a Pro at Networked Streams with VLC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-missing-pages-in-microsoft-store-windows/"><u>Dealing with Missing Pages in Microsoft Store Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-to-run-this-application-you-must-install-net-core-error/"><u>How to Fix the Windows “To Run This Application, You Must Install .NET Core” Error</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-google-pixel-fold-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Google Pixel Fold in Minutes | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-elevate-your-brand-discover-the-riches-in-our-gallery-of-50-free-youtube-banners/"><u>In 2024, Elevate Your Brand - Discover the Riches in Our Gallery of 50 Free YouTube Banners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboard-keyscalyping-restore-your-arrows-now/"><u>Keyboard Keyscalyping? Restore Your Arrows Now</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-real-time-ai-voice-changer-revolutionizing-communication/"><u>New 2024 Approved Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-to-windows-11-character-map/"><u>Step-by-Step to Windows 11 Character Map</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-eliminating-nvidia-experience-disconnect-issues/"><u>Strategies for Eliminating Nvidia Experience Disconnect Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-access-and-manage-gpo-settings-in-win11/"><u>Swiftly Access and Manage GPO Settings in Win11</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-does-fbs-oversight-board-govern/"><u>What Does FB’s Oversight Board Govern?</u></a></li>
 </ul></div>
 

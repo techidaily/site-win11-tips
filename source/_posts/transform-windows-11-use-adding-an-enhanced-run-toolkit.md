@@ -1,7 +1,7 @@
 ---
 title: "Transform Windows 11 Use: Adding an Enhanced Run Toolkit"
-date: 2025-01-30T10:50:44.733Z
-updated: 2025-02-01T13:31:19.132Z
+date: 2025-01-29T19:47:51.956Z
+updated: 2025-02-02T16:18:04.379Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add an Alternative Run Accessory to Windows With Run-Command
 
  Run-Command is a portable alternative to Run that improves upon the functionality of that accessory in many ways. As it is portable software, you can utilize it in many Windows platforms without installation. All you need to do to add Run-Command to Windows 11/10 is download and extract that software as follows:
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The Run-Command app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-command-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another difference you’ll quickly notice is that Run-Command includes 13 shortcut icons. Clicking those shortcuts will open some of the most useful Windows tools. These are the utilities and windows you can access with those Run-Command shortcuts:
@@ -82,11 +78,11 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 ![The Options menu in Run-Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/options-menu.jpg)
 
- The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
 
@@ -101,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The PowerToys setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powertoys-setup-window.jpg)
 7. To open PowerToys, click**Start** and**All apps** (in Windows 11). Select PowerToys on the menu
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select the PowerToys**Run** tab.
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
 ![The Enable PowerToys Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-powertoys-run-option.jpg)
@@ -114,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Getting Familiar With PowerToys Run
@@ -124,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
  PowerToys Run has variable plugins you can activate with specific commands. To utilize only the plugin for opening installed programs, input a**.** before the software’s title. For example, input**.Edge** in the**Start typing** box. Then PowerToys Run will only display a couple of results for opening Edge.
 
 ![The .Edge command for opening MS Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-edge-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to search for files with PowerToys, input a**?** followed by a file’s title. PowerToys will show you files matching the search phrase included in the command.
 
@@ -135,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
 ![The $ command for accessing Control Panel applets and Settings pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-command.jpg)
@@ -147,7 +139,15 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make the Most of the Your Enhanced Run Accessory in Windows 11/10
 
@@ -168,20 +168,14 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-tech-choice-screen-recording-leaders-on-the-web/"><u>[Updated] 2024 Approved Top Tech Choice Screen Recording Leaders on the Web</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-ad-innovations-what-to-expect-from-facebook/"><u>2024 Approved Ad Innovations What to Expect From Facebook</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-the-art-of-visual-flow-with-kinemaster/"><u>2024 Approved Mastering the Art of Visual Flow with Kinemaster</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-which-video-coder-to-use-on-windows/"><u>Decoding Which Video Coder to Use on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-setup-epson-wf-2750-printer-software/"><u>Easy Steps to Download & Setup Epson WF-2750 Printer Software</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elite-selection-of-outboard-high-capacity-bddvd-drive-units-tech-enthusiasts/"><u>Elite Selection of Outboard High Capacity BD/DVD Drive Units Tech Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-silent-microphone-feedback-with-obs-w11-edition/"><u>Fixing Silent Microphone Feedback with OBS, W11 Edition</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-motorola-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Motorola to Protect Your Individual Information</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-chatter-re-enable-microsoft-microphone-for-google-meet/"><u>No Chatter? Re-Enable Microsoft Microphone for Google Meet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-silent-microsoft-outlook-push-issues/"><u>Overcoming Silent Microsoft Outlook Push Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-professional-print-quality-from-powerpoint-in-windows-os/"><u>Securing Professional Print Quality From PowerPoint in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-post-discord-update-issues-for-windows-users/"><u>Tackling Post-Discord Update Issues for Windows Users</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-fcp-essentials-how-to-give-your-footage-a-vhs-makeover-for-2024/"><u>Updated FCP Essentials How to Give Your Footage a VHS Makeover for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-terminal-customization-setting-and-changing-default/"><u>Windows Terminal Customization: Setting & Changing Default</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-master-video-transformation-a-complete-guide-to-rotating-in-vlc/"><u>[New] 2024 Approved Master Video Transformation A Complete Guide to Rotating in VLC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-soft-endings-dimming-down-music-tracks-in-premiere-pro/"><u>[New] Crafting Soft Endings Dimming Down Music Tracks in Premiere Pro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ownload-youtube-videos-on-android-9-powerful-apps-compared-for-2024/"><u>[New] Download YouTube Videos on Android 9 Powerful Apps Compared for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/basic-approach-tweaking-clownfish-tones-in-windoze/"><u>Basic Approach Tweaking Clownfish Tones in Windoze</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-0x0000011b-operation-failure-on-windows-11/"><u>Correcting 0X0000011B Operation Failure on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-mandatory-elements-alert-on-windows-10and11-os/"><u>Counteracting Mandatory Elements Alert on Windows 10&11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cross-platform-android-entertainment-in-windows-11-via-play-services/"><u>Cross-Platform Android Entertainment in Windows 11 via Play Services</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-top-12-vlogger-friendly-cameras-unveiled/"><u>In 2024, Top 12 Vlogger-Friendly Cameras Unveiled!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-admin-managed-feature-issues-in-windows-11/"><u>Troubleshooting Admin-Managed Feature Issues in Windows 11</u></a></li>
 </ul></div>
 

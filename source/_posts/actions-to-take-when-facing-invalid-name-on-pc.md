@@ -1,7 +1,7 @@
 ---
 title: Actions to Take When Facing Invalid Name on PC
-date: 2024-08-16T01:11:24.292Z
-updated: 2024-08-17T01:11:24.292Z
+date: 2025-01-27T21:53:21.909Z
+updated: 2025-02-02T18:51:42.954Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
  In any case, here are a few preliminary checks you should run before getting into the main fixes:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### 1\. Pending Updates
 
  As mentioned earlier, the problem could arise due to a system bug, keeping your PC from working as it should. Hence, a simple update might be just the fix you need to make renaming your PC possible.
@@ -47,13 +44,14 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![Screenshot Showing the Rename Your PC Field on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-the-rename-your-pc-field-on-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Generally, your PC name should be within a 15-character limit, and you are permitted to use only letters, hyphens, or numbers. Thus, using special characters–characters other than alphabets or numerals will invalidate your choice of name. Examples are punctuation marks and symbols.
 
  You should also avoid the use of spaces. As a first step, look back over the name you intend to use and ensure it meets the character specifications. Doing otherwise will necessarily make it impossible to rename your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Check if You’re Currently Signed In as an Administrator
 
  Certain modifications and changes can be implemented only at the administrator level, which requires logging into an [administrator account](https://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/) on your PC. Renaming your PC is one such case, and using an account without admin rights might be why you are experiencing the problem.
@@ -61,8 +59,9 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
  So, one of the things you might want to double-check when you encounter this problem is your account status. To do this, open the start menu and click on the user icon in the bottom left corner of the screen.
 
 ![Screenshot Showing Windows 11 Account Settings Menu on the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-account-settings-menu-on-the-start-menu.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, click**Change account settings.**
@@ -73,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
  After running the 3 precursory checks above, if your PC is still encountering this error, it might be time to try something else. In cases like this, you can attempt the troubleshooting methods below:
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 1\. Restart Your PC
 
  The first course of action when running into minor computer problems is usually to enable a restart. No doubt,[restarting your PC is a great way to refresh your computer](https://www.makeuseof.com/tag/rebooting-computer-fix-many-issues/) and swing things back into action.
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![Screenshot Showing Windows 11 Power Off Options on the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-power-off-options-on-the-start-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Create a New User Account
 
  If the error doesn’t clear away still, you can try creating a new account (with administrative rights), then attempt renaming your PC.
@@ -93,30 +93,21 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
  Do this by locating the Control panel through the search bar on your Taskbar.
 
 ![Screenshot Showing the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-the-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, click on**User Accounts** .
 
 ![Screenshot Showing User Accounts Settings on the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-user-accounts-settings-on-the-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Then, click**Add or remove user accounts.**
 
 ![Screenshot Showing How to Add a New User Account in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-how-to-add-a-new-user-account-in-the-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After this, click**Add a new user in PC settings.**
 
 ![Screenshot Showing Windows 11 Accounts Settings (2)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-accounts-settings-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, click the**Add account** icon.
@@ -131,25 +122,21 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![Screenshot Showing Windows 11 Sync Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-sync-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Afterward, toggle off the**Remember my preferences** option to disable sync.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use Windows PowerShell
 
  Lastly, you can resolve the “PC name is Invalid” error by running a command on Windows PowerShell. In the search bar, type in Windows PowerShell, and once the app comes up, select**Run as Administrator.**
 
 ![Screenshot Showing Windows Powershell in the Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-powershell-in-the-search-bar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve clicked**Yes** in the confirmation dialogue, PowerShell will come up. Then, type in the command**Rename - Computer - NewName “New name”** where the words in quotes are replaced with the name you intend to rename your PC.
 
@@ -158,22 +145,20 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 ![Screenshot Showing Powershell Command to Rename PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-powershell-command-to-rename-pc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Personalizing Your Windows 11 Experience Made Easy
 
  Renaming your PC is vital, even more so when you work within a network of computers. Not only is it a great way to personalize your PC, but it also makes it easier to distinguish among other devices. But what happens when you run into an error trying to do so?
 
  We’ve featured possible reasons why the Invalid Name error might come up on your computer and, equally, quick fixes to help make this change possible. Needless to say, the process doesn’t have to be disrupted by this error; following the instructions above will make all the difference.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,8 +167,24 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/iscovering-video-producers-digital-command-center-for-2024/"><u>[New] Discovering Video Producers' Digital Command Center for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-constructing-youtube-playlists-made-simple/"><u>[New] In 2024, Constructing YouTube Playlists Made Simple</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-enhancing-user-experience-combining-instagram-and-facebook/"><u>2024 Approved Enhancing User Experience Combining Instagram & Facebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-artisans-path-mastery-of-background-removal-tools-in-photoshop/"><u>2024 Approved The Artisan's Path Mastery of Background Removal Tools in Photoshop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-steam-online-connectivity-failures-w11/"><u>Addressing Steam Online Connectivity Failures W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-visual-display-top-5-ideal-windows-pc-clock-themed-screensavers/"><u>Enhance Visual Display: Top 5 Ideal Windows PC Clock-Themed Screensavers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/executing-customized-policies-to-a-singular-account-in-win-1011/"><u>Executing Customized Policies to a Singular Account in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-memory-landscape-identify-ram-straightforwardly/"><u>Exploring Windows Memory Landscape: Identify RAM Straightforwardly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-your-vp8-webm-encoder-instantly-a-guide-to-downloading-for-chromecast-and-html5/"><u>Get Your VP8 WebM Encoder Instantly - A Guide to Downloading for Chromecast and HTML5</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-mpow-microphone-on-pcs-with-windows-os/"><u>How to Resolve Non-Functional MPOW Microphone on PCs with Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resurrect-your-pcs-bluetooth-on-windows-11/"><u>How to Resurrect Your PC's Bluetooth on Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-alienware-aurora-r7-exceptional-power-meets-its-price-tag/"><u>In-Depth Analysis of Alienware Aurora R7: Exceptional Power Meets Its Price Tag</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-a-new-surname-username-alteration-in-windows-11/"><u>Securing a New Surname: UserName Alteration in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-non-working-activation-codes-in-win11/"><u>Solutions for Non-Working Activation Codes in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solution-regain-shared-resources-access/"><u>Swift Solution: Regain Shared Resources Access</u></a></li>
+<li><a href="https://win-special.techidaily.com/uninstalling-and-updating-windows-overcoming-obstacles-in-your-os-yl-software/"><u>Uninstalling and Updating Windows: Overcoming Obstacles in Your OS (YL Software)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winixvideo-mit-ai-hochgeschwindigkeits-videokonvertierung-unter-nutzung-von-gpu-technologie/"><u>Winixvideo Mit AI: Hochgeschwindigkeits-Videokonvertierung Unter Nutzung Von GPU-Technologie</u></a></li>
+</ul></div>
 

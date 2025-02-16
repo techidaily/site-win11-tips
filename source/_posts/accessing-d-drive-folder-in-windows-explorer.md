@@ -1,7 +1,7 @@
 ---
 title: "Accessing D: Drive Folder in Windows Explorer"
-date: 2024-08-16T01:14:24.729Z
-updated: 2024-08-17T01:14:24.729Z
+date: 2025-01-31T19:09:39.938Z
+updated: 2025-02-02T16:34:05.963Z
 tags:
   - windows10
   - windows11
@@ -25,16 +25,17 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
  Furthermore, we highly recommend that you learn how to [back up and restore the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/). That way, you have a way of returning it to the state it was in before you made any changes that broke it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Add the D: Drive to the Navigation Pane in File Explorer?
 
  Start by pressing **Win + S** to bring up Windows Search. Then, type **notepad** in the Search box, and when Notepad shows up in the search results, click on it to launch it.
 
 ![The Notepad search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/notepad-search-result.png)
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then copy and paste the below text into Notepad:
@@ -75,22 +76,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Press **Ctrl + S**, name the file **add-d-drive-file-explorer.reg**, and then click **Save**. Don’t forget to add the REG file extension to let Windows know it’s working with a Registry file.
 
 ![saving a registry file in Notepad on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/save-reg-file-add-drive-nav-pane.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Next, double-click the Registry file you just created and click **Yes** on the UAC prompt. You’ll then be asked if you want to continue with the merge, so click **Yes**. Afterward, press **Win + E** to open File Explorer.
 
 ![the D drive showing in the bottom section of the Navigation pane on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/d-drive-nav-pane.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The D: drive should now be visible in the bottom part of the Navigation pane.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Remove the D: Drive From the Navigation Pane in File Explorer?
 
  To remove the D: drive from the navigation pane, open Notepad and then copy and paste the below text:
@@ -107,13 +107,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Now the D: drive should be gone from the navigation pane in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Create an Easier Way to Access the D: Drive on Your Windows Computer
 
  With this guide, you will remove an extra step when accessing the D: drive on your Windows computer. Once you have created the registry files, adding and removing the D: drive from the Navigation pane will be easy. While the registry files are safe, don’t forget to create a backup of your Registry or a system restore point for good measure.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -122,5 +121,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-augmented-realms-blending-tech-and-entertainment/"><u>[New] 2024 Approved Augmented Realms Blending Tech & Entertainment</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unveiling-the-15-leading-cameras-excluding-gopro/"><u>[New] 2024 Approved Unveiling the 15 Leading Cameras Excluding GoPro</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/everaging-hashtags-for-a-huge-impact-on-your-youtube-views/"><u>[New] Leveraging #Hashtags for a Huge Impact on Your YouTube Views</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-biggest-fifa-visuals-youtube-insights-graphed-for-2024/"><u>[Updated] Biggest FIFA Visuals YouTube Insights Graphed for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-diving-deep-into-the-world-of-immersive-gaming-with-htc-vive-for-2024/"><u>[Updated] Diving Deep Into the World of Immersive Gaming with HTC Vive for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/blitzclick-leisureshot-streaming/"><u>BlitzClick LeisureShot Streaming</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-manage-your-pc-how-to-erase-windows-1/"><u>Efficiently Manage Your PC: How to Erase Windows 1</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gain-full-system-access-through-cmd-elevation/"><u>Gain Full System Access Through CMD Elevation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-flush-the-steam-dns-cache-on-windows/"><u>How to Flush the Steam DNS Cache on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-upgrade-to-windows-11-22h2-on-unsupported-hardware/"><u>How to Upgrade to Windows 11 22H2 on Unsupported Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-absence-of-tab-functionality-in-os-x/"><u>Navigating the Absence of Tab Functionality in OS X</u></a></li>
+<li><a href="https://solve-help.techidaily.com/safely-updating-your-windows-os-avoid-data-loss-with-expert-tips-from-yl-computing/"><u>Safely Updating Your Windows OS: Avoid Data Loss with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-slow-downloads-in-steam-a-windows-guide/"><u>Troubleshoot Slow Downloads in Steam - A Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-multitasking-with-windows-11-in-mac-os-using-parallels/"><u>Unlock Full Potential: Multitasking with Windows 11 in Mac OS Using Parallels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-unseen-an-inevitable-ai-revolution/"><u>Windows Unseen: An Inevitable AI Revolution</u></a></li>
+</ul></div>
 

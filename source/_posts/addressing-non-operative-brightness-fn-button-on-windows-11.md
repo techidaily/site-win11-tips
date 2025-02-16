@@ -1,7 +1,7 @@
 ---
 title: Addressing Non-Operative Brightness Fn Button on Windows 11
-date: 2024-08-16T01:11:06.543Z
-updated: 2024-08-17T01:11:06.543Z
+date: 2025-01-28T16:38:18.818Z
+updated: 2025-02-02T23:52:06.792Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,12 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 
 1. Open the Command Prompt window with admin access. If you need help, see our guide on [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Once you're in the Command Prompt window, type and execute the command below:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `msdt.exe -id DeviceDiagnostic`
 
  This will open the Hardware and Devices Troubleshooter window. Follow the on-screen instructions and complete the process to detect and fix any problems related to your keyboard and function keys. Once done, you can try using the brightness function key to adjust the screen's brightness.
@@ -60,11 +62,16 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
 4. Scroll down to locate the Keyboard and then click**Run** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you complete the above steps, try using the brightness function key again to see if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Update the Keyboard Driver
 
  An outdated or corrupt driver could also be malfunctioning the brightness function key. In such a case, you can try to update your keyboard drivers and see if it solves the issue.
@@ -77,9 +84,6 @@ To update the keyboard driver, follow these steps:
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 4. Next, click**Search automatically for drivers** .  
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the process. Once you've done this, restart your computer and check if the issue is resolved.
 
@@ -88,21 +92,14 @@ To update the keyboard driver, follow these steps:
 1. Open Device Manager and expand the**Keyboards** section.
 2. Right-click on your keyboard driver and select**Uninstall device** .  
 ![Uninstall device in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device-in-device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 3. Click**Uninstall** again to confirm and follow the on-screen instructions.
 
  After performing the above steps, restart your computer to reinstall the drivers. Once you power up again, check if the function key works now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Turn Off the Filter Keys
 
  Filter keys on Windows are designed to ignore repeated keystrokes and slow down the rate at which a key repeats when held down. It is intended to help users who have difficulty pressing keys on a keyboard.
@@ -114,9 +111,6 @@ To update the keyboard driver, follow these steps:
 3. Then click**Ease of Access Center** and select**Make the keyboard easier to use** .
 4. Uncheck the box next to**Turn on Filter Keys** .  
 ![Turn on Filter Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-on-filter-keys.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Click**Apply** and then**OK** .
 
 Now check if your keyboard is working properly.
@@ -132,26 +126,28 @@ Now check if your keyboard is working properly.
  This should help you fix the issue of your keyboard not functioning properly.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Switch to a Different Keyboard
 
  Sometimes the problem is not others but the keyboard itself. It could have defective keys or some other hardware issue preventing it from functioning correctly; in that case, try using your device on another computer or laptop to be sure that the problem is not the operating system or software.
 
  If you find that your keyboard is the issue, then it’s time to replace it with a new one or get it repaired.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Make Use of the Function Key Again on Windows
 
  It's important to keep your device's brightness settings adjusted to a comfortable level. However, if your brightness function key is not working, here are some quick solutions to make your computer's function keys work again. All in all, these are simple yet powerful tricks for restoring malfunctioning function keys.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,8 +156,22 @@ Now check if your keyboard is working properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-boosting-channel-earnings-the-step-by-step-famebit-guide-to-affiliates-for-2024/"><u>[Updated] Boosting Channel Earnings The Step-by-Step FameBit Guide to Affiliates for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-crafting-success-on-youtube-standard-studio-or-beta/"><u>2024 Approved Crafting Success on YouTube Standard Studio or Beta</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/approaches-to-fix-java-non-installation-in-windows/"><u>Approaches to Fix Java Non-Installation in Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-infinix-note-30-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Infinix Note 30 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-resetting-your-iphone-15-with-ease/"><u>Expert Tips for Resetting Your iPhone 15 with Ease</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-m6-pro-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Poco M6 Pro 5G Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introducing-automatic-system-updates-notice-to-windows-11-ui/"><u>Introducing Automatic System Updates Notice to Windows 11 UI</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-digital-compositing-a-complete-kinemaster-green-screen-tutorial-for-2024/"><u>Mastering Digital Compositing A Complete Kinemaster Green Screen Tutorial for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-resolve-old-password-needed-alert/"><u>Quick Guide to Resolve Old Password Needed Alert</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-secure-command-line-user-permissions-on-pc/"><u>Steps to Secure Command Line User Permissions on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-t2-pro-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo T2 Pro 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-itel-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Itel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-resolving-webcam-error-code-a00f4289/"><u>Troubleshooting Windows 11: Resolving Webcam Error Code A00F4289</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-from-square-to-wide-how-to-change-video-aspect-ratio-for-2024/"><u>Updated From Square to Wide How to Change Video Aspect Ratio for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/using-dialer-in-win-11/"><u>Using Dialer in Win 11</u></a></li>
+</ul></div>
 

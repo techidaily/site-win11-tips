@@ -1,7 +1,7 @@
 ---
 title: Guide to Fix Windows 11 'Get Support' Glitch
-date: 2025-01-25T02:02:39.115Z
-updated: 2025-02-01T00:16:25.169Z
+date: 2025-02-01T18:29:13.052Z
+updated: 2025-02-02T17:07:59.421Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
  Note that these fixes can't help you if your issue is serious. In that case, try the following troubleshooting methods.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Repair or Reset the Get Help App
 
  In some situations, the Get Help app may be corrupt. For example, if your computer is infected by malware, it may force some Windows apps to malfunction. If this is your case, please first [disinfect your Windows computer](https://www.makeuseof.com/best-malware-removal-tools-pc/).
@@ -53,17 +49,13 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 3. Search for **Get Help** in the list of apps and click on the three-dot menu. Then click on **Advanced options**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Get Help In Installed Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-installed-apps.jpg)
 4. Now, scroll to the bottom and click **Repair**. If the repair fails, you can use the **Reset** option.  
 
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Here's the best part: This process isn't exclusive to the Get Help app. So, you can also apply the above steps to other malfunctioning Windows apps
 
@@ -78,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable VPN or Proxy Temporarily
@@ -91,11 +83,19 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 ![VPN Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vpn-settings-search-results.jpg)
 2. Choose the **Disconnect** button to turn off the VPN.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
 
  Remember to re-enable your VPN or proxy once you're done to ensure your online activities remain private and secure.
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Restart Windows Services
 
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 3. Once you download the setup file, run it and follow the instructions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. After installing the Microsoft Edge WebView2 Runtime, check if the Get Help app functions correctly.
@@ -141,11 +141,11 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
 
- A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
 
 ## No More Blank Screen in the Get Help App
 
@@ -165,18 +165,18 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-your-sites-performance-using-cookiebot-tools/"><u>Boost Your Site's Performance Using Cookiebot Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-pcs-performance-our-top-picks-of-the-best-freeware-updaters/"><u>Elevate Your PC's Performance: Our Top Picks of the Best Freeware Updaters</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-your-ios-up-to-date-overcome-update-problems-with-these-9-handy-fixes-for-iphones-and-ipads/"><u>Get Your iOS Up-to-Date: Overcome Update Problems With These 9 Handy Fixes For iPhones and iPads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reset-the-mouse-and-keyboard-settings-to-their-defaults-on-windows/"><u>How to Reset the Mouse and Keyboard Settings to Their Defaults on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-windows-11-taskbar-visibility/"><u>Mastering the Art of Windows 11 Taskbar Visibility</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-queue-fails-to-operate-on-desktop/"><u>Printer Queue Fails to Operate on Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-for-effective-use-of-microsoft-family-safety/"><u>Tactics for Effective Use of Microsoft Family Safety</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-convergence-of-calm-meditations-role-in-cognition-and-emotion/"><u>The Convergence of Calm: Meditation’s Role in Cognition and Emotion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essence-of-cpu-control-minmax-display-technique/"><u>The Essence of CPU Control: Min/Max Display Technique</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-reactivate-the-inactive-start-menu-in-windows/"><u>Tips to Reactivate the Inactive Start Menu in Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-is-meta-moving-away-from-biometrics-in-fb/"><u>Why Is Meta Moving Away From Biometrics in FB?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-innovative-and-user-friendly-voice-editing-apps/"><u>[New] In 2024, Innovative and User-Friendly Voice Editing Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-preferred-practices-for-streaming-video-recording-on-youtube-for-2024/"><u>[New] Preferred Practices for Streaming Video Recording on YouTube for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-pioneering-tomorrow-visionary-developments-in-vr/"><u>[Updated] 2024 Approved Pioneering Tomorrow Visionary Developments in VR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-windows-11iso-3/"><u>1. Windows 11上でISOイメージファイルを起動手順: 3つの異なるアプローチ</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-listenguide-breakdown/"><u>2024 Approved ListenGuide Breakdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-the-steam-must-be-running-to-play-this-game-error-in-windows-11/"><u>7 Ways to Fix the Steam Must Be Running to Play This Game Error in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boot-into-peace-five-tactics-to-overcome-windows-security-failures/"><u>Boot Into Peace: Five Tactics to Overcome Windows Security Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-windows-11-blackout-with-easy-tips-and-tricks/"><u>Bypass Windows 11 Blackout with Easy Tips & Tricks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-12-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi 12 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lighter-browsing-experience-on-the-desktop-top-7-test-results/"><u>Lighter Browsing Experience on the Desktop: Top 7 Test Results</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-pc-a-guide-to-alomwares-control-options/"><u>Personalize Your PC: A Guide to AlomWare's Control Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-dive-into-your-pcs-core-settings/"><u>Quick Dive Into Your PC's Core Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-revitalize-stuck-and-slow-downloads-in-windows-directory/"><u>Steps to Revitalize Stuck and Slow Downloads in Windows Directory</u></a></li>
 </ul></div>
 

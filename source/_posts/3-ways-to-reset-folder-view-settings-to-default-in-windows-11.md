@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Reset Folder View Settings to Default in Windows 11
-date: 2024-08-16T01:15:14.375Z
-updated: 2024-08-17T01:15:14.375Z
+date: 2025-01-30T01:13:36.819Z
+updated: 2025-02-02T19:53:04.358Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/84dab43ab035d91cb56a4eae408b40758af9a9a2b
  There are three ways to reset your Folder View Settings to the default view. The first method is to run a batch file, the second using File Explorer, whereas the third and final method involves tweaking the registry editor. This post explains each method in detail. Let's dive into it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Run a Batch File to Reset Folder View Settings to Default
 
  Resetting the Folder View Settings with this method requires creating and running a batch file. This will reset the settings for all folders across your computer. Here's how to do it:
@@ -57,16 +58,10 @@ start explorer.exe`
 5. After adding the code, click**File** in the top menu, then select**Save As** .
 6. Now select**All Files** in the Save as type menu, and add**.bat** to the end of the file’s name.  
 ![Run a Batch File to Reset Folder View Settings to Default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-a-batch-file-to-reset-folder-view-settings-to-default.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. From the left pane, select**Desktop** as the location.
 8. Then click**Save** and close the text editor window.
 9. Finally, double-click the batch file you created, and it will reset your Folder View Settings to the default view.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Reset Folder View Settings to Default via File Explorer
 
  If you only need to reset the View Settings of all folders of the same type, this method is for you. Here's what you have to do:
@@ -74,23 +69,20 @@ start explorer.exe`
 1. Click on Start and search for**File Explorer Options** . To learn more about it, see our guide on [how to open the Folder Options on Windows](https://www.makeuseof.com/windows-10-open-folder-options/) .
 2. Now, select the**View** tab in the top bar and tap on**Reset Folders** .  
 ![Reset Folder View Settings to Default Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-via-file-explorer.jpg)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 3. Click**Yes** when prompted to confirm your action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Finally, hit**OK** and the window will close.
 
  This will reset your Folder View Settings to Windows' default settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Reset Folder View Settings to Default Using Registry Editor
 
  The last method to reset Folder View settings involves using the Windows Registry Editor. You should only use this method if you are an experienced user and know how it works, since messing with its keys could cause serious problems. To avoid data loss, you must [create a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before continuing.
@@ -103,11 +95,17 @@ start explorer.exe`
 HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell
 4. In the left sidebar, right-click on the**BagMRU** folder and select**Delete.**  
 ![Reset Folder View Settings to Default Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-using-registry-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 5. Click**Yes** when asked to confirm your action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Similarly, delete the**Bags** folder and close the Registry window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reset Folder View Settings to Default
 
@@ -115,14 +113,11 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
 
  However, if you have changed the View settings, this guide will help you reset Folder Options to its default.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,8 +126,20 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-the-best-budget-friendly-high-fidelity-webm-players-for-2024/"><u>[New] The Best Budget-Friendly, High-Fidelity WebM Players for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-8-virtual-reality-vr-gaming-accessories/"><u>[New] Top 8 Virtual Reality (VR) Gaming Accessories</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-streamline-your-viewing-experience-youtube-ad-block-strategies-for-2024/"><u>[Updated] Streamline Your Viewing Experience - YouTube Ad-Block Strategies for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ae-lifesavers-budget-friendly-template-assortment-for-2024/"><u>AE Lifesavers Budget-Friendly Template Assortment for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/comment-effacer-les-fichiers-dactualisation-windows-10-guide-facile-et-simple-avec-trois-methodes/"><u>Comment Effacer Les Fichiers D'Actualisation Windows 10 : Guide Facile Et Simple Avec Trois Méthodes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-winservicesexe-operations/"><u>Demystifying WinServices.exe Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-package-blockage-a-window-solution-for-error-fixes/"><u>Disabling Package Blockage: A Window Solution for Error Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y78t-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y78t Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-running-llama-2-locally/"><u>Mastering the Art of Running Llama 2 Locally</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-black-screens-in-win11-with-ease/"><u>Overcoming Black Screens in Win11 with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-remedy-steps-for-immediate-failure-in-adding-your-folder-to-onedrive/"><u>Swift Remedy Steps for Immediate Failure in Adding Your Folder to OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-cannot-add-columns-error-in-ms-excel-for-windows-users/"><u>Tackling the 'Cannot Add Columns' Error in MS Excel for Windows Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-6-best-free-dvd-copying-programs-full-content-and-main-movie-extraction-for-dvds/"><u>Top 6 Best Free DVD Copying Programs: Full Content & Main Movie Extraction for DVDs</u></a></li>
+</ul></div>
 

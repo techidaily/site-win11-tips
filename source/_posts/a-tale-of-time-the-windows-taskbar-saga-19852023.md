@@ -1,7 +1,7 @@
 ---
 title: "A Tale of Time: The Windows Taskbar Saga (1985–2023)"
-date: 2024-08-16T01:14:52.829Z
-updated: 2024-08-17T01:14:52.829Z
+date: 2025-01-26T22:14:57.794Z
+updated: 2025-02-02T19:09:40.971Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,15 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
 ![The program bar in Windows 1.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, it didn’t include a Start menu or system tray area and wasn’t even present in Windows 3.0\. Program windows minimized to the desktop background area in Windows 3.0\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows 95: The Introduction of the Taskbar
 
@@ -45,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
  Some third-party software packages enable you to restore the classic Windows 95 taskbar in Windows 11/10\. For example, you can [revive the Windows 95 and XP taskbar](http://www.makeuseof.com/windows-95-xp-taskbars-windows-11/) with the RetroBar app.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows XP: A Revamped Taskbar Appears
 
  Microsoft gave Windows XP a new visual style and redesigned the taskbar to match it. Windows XP’s taskbar had a default blue color scheme with a green **Start** button, which was quite a departure from the gray taskbars of Windows 95, 98, and Millennium. Minimized taskbar windows also had more rounded corners to match the rest of the new-look design.
@@ -55,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
  Windows XP’s taskbar was the first to have grouped windows. This feature enabled the grouping of multiple open windows from the same application on the taskbar. Users could click to view different windows from the same taskbar app windows.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows Vista: The Introduction of Window Previews
 
  Vista didn’t go down a storm with new users during its 2007 release year. However, its taskbar did have one welcome new feature that’s remained a part of Windows ever since. Vista’s new taskbar thumbnails enabled users to view small previews of a window’s contents by hovering their cursors over its taskbar icon.
@@ -65,13 +71,11 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
  Windows Vista’s taskbar was also the first to include a **Start** button with no label text. Instead, it was just a circulator button with a Windows logo. The removal of the “Start” label reduced the button’s width and freed up a bit more taskbar space.
 
 ![The Windows Vista taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-vista-taskbar.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows 7: Another Taskbar Overhaul From Microsoft
 
  Microsoft gave the taskbar one of the biggest overhauls in its history for Windows 7\. The most notable change was that minimized apps on Windows 7’s taskbar did not include labels, but users could still clearly identify them with their expanded icons. This significantly reduced the width of taskbar app windows.
@@ -85,9 +89,9 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
  Microsoft also swapped the **Show Desktop** button from the Quick Launch area with an Aero Peek alternative at the far right of the taskbar. Clicking the **Aero Peek** button minimizes all windows to the taskbar. Hovering the cursor over that button enables users to view the desktop area without minimizing anything.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows 8: The Start Button Goes Missing From the Taskbar
 
  The taskbar didn’t change much in Windows 8\. However, it was the first taskbar in Windows history not to include a **Start** button. The Start screen replaced the Start menu in Windows 8\. So, a taskbar **Start** button for accessing a menu was seemingly no longer required.
@@ -95,9 +99,9 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
  However, the removal of the taskbar’s **Start** button generally didn’t go down well with users. Microsoft later released a Windows 8.1 upgrade that restored a new-style taskbar **Start** button for accessing the Start screen. That wasn’t enough to save Windows 8 though, and the OS never recovered.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows 10: The Introduction of New Taskbar Icons
 
  Microsoft added buttons for new features to Windows 10’s taskbar. The Windows Cortana virtual assistant was originally tied to the Windows Search tool. However, Microsoft separated the search tool from Cortana in later Windows 10 versions.
@@ -105,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
  Consequently, Windows 10’s taskbar became the first to include a **Type here to search** (magnifying glass) button on it for accessing the search box, which isn’t available through the Start menu.
 
 ![The Type here to search button in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/type-here-to-search-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Task View was another notable new Windows 10 taskbar feature. Clicking the **Task View** taskbar button brings up virtual desktop options. You can also access file and Edge webpage shortcuts from Task View’s timeline.
 
@@ -133,8 +134,6 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
  The taskbar has been a part and parcel of Windows for more than 25 years, and over that time period, Microsoft has added and removed features to and from the taskbar. This is the history of the Windows taskbar from its inception up to 2023\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -142,5 +141,23 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-realizing-potential-in-presentations-leveraging-webcams-for-2024/"><u>[New] Realizing Potential in Presentations Leveraging Webcams for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-stream-power-showdown-vmix-clashes-with-wirecast-for-broadcast-excellence/"><u>[New] Stream Power Showdown VMix Clashes with Wirecast for Broadcast Excellence</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-11-keys-to-unlock-the-power-of-grading-precision/"><u>[Updated] In 2024, 11 Keys to Unlock the Power of Grading Precision</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-seamless-youtube-to-wav-4-budget-friendly-solutions-revealed/"><u>[Updated] Seamless YouTube to WAV 4 Budget-Friendly Solutions Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-the-windows-application-net-error-message/"><u>Correcting the Windows Application .NET Error Message</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/cryptocurrency-chronicles-blockfis-comeback-story-and-worldcoins-payment-pause-navigate-through-top-developments-by-yl-software/"><u>Cryptocurrency Chronicles: BlockFi's Comeback Story and Worldcoin’s Payment Pause – Navigate Through Top Developments by YL Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-inactive-icons-on-the-desktop-bar/"><u>Fixing Inactive Icons on the Desktop Bar</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/masterclass-in-youtube-video-previews-and-trailers/"><u>Masterclass in YouTube Video Previews and Trailers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/method-to-start-windows-11s-admin-powershell-instance/"><u>Method to Start Windows 11'S Admin PowerShell Instance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-windows-error-loadlib-err-87/"><u>Mitigating Windows Error LoadLib Err 87</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-interface-adding-portable-software-to-w11/"><u>Optimize Your Interface: Adding Portable Software to W11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-7-sluggish-booting-problems-a-step-by-step-guide/"><u>Solving Windows 7 Sluggish Booting Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-apex-legends-crashes-w11/"><u>Strategies to Prevent Apex Legends Crashes W11</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-rated-software-solutions-for-efficiently-moving-files-from-pc-to-usb-drive/"><u>Top-Rated Software Solutions for Efficiently Moving Files From PC to USB Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/traverse-backward-commanding-windows-11-history/"><u>Traverse Backward: Commanding Windows 11 History</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo X100? | Dr.fone</u></a></li>
+</ul></div>
 

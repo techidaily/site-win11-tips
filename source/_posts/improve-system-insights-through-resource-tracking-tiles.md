@@ -1,7 +1,7 @@
 ---
 title: Improve System Insights Through Resource Tracking Tiles
-date: 2025-01-29T23:40:46.301Z
-updated: 2025-02-01T00:34:06.042Z
+date: 2025-01-26T21:42:57.886Z
+updated: 2025-02-02T18:57:47.241Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Dev Home for Windows and How Do You Get It?
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
  These widgets serve as handy tools to closely monitor and optimize your system's performance. To access them, simply [download Dev Home from the Microsoft Store](https://apps.microsoft.com/store/detail/dev-home-preview/9N8MHTPHNGVV) and set it up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up and Configure Windows Widgets on Dev Home
@@ -58,13 +58,13 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 3. You should now see a list of the widgets available. Click on the plus icon associated with the widget you want to access.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Click on the plus icon for widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/plus-icon-widget.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you do this, you should be able to see the details of your selected widget. You can use it to monitor hardware usage and access other important information efficiently.
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 ![New widget in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-widget.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay Informed and Optimize Your Hardware Usage With Windows Widgets
@@ -91,22 +91,22 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-enhance-fb-story-visibility-with-these-tips/"><u>[New] In 2024, Enhance FB Story Visibility with These Tips</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-supercharge-your-game-trailers-with-keywords/"><u>[Updated] 2024 Approved Supercharge Your Game Trailers with Keywords</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/crafting-captivating-photo-based-video-content-using-pixizs-features/"><u>Crafting Captivating Photo-Based Video Content Using Pixiz's Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/embrace-versatility-windows-now-runs-on-apples-ecosystem-devices/"><u>Embrace Versatility: Windows Now Runs on Apple's Ecosystem Devices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/framefusion-matrix-the-ultimate-montage-craft/"><u>FrameFusion Matrix The Ultimate Montage Craft</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-updates-addressing-error-codes-0xc1900101/"><u>Handling Updates: Addressing Error Codes 0xC1900101</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-make-your-location-accessible-on-messenger/"><u>How to Make Your Location Accessible on Messenger</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-transform-your-windows-10-pc-into-a-seamless-dlna-media-streaming-hub/"><u>How To Transform Your Windows 10 PC Into A Seamless DLNA Media Streaming Hub</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-t2-pro-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo T2 Pro 5G without App | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-cutting-edge-cinema-with-hero5-black-professional-techniques/"><u>In 2024, Cutting Edge Cinema with Hero5 Black Professional Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mysteries-of-microsoft-edge-in-task-listings/"><u>Mysteries of Microsoft Edge in Task Listings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snipgrab-hiccups-9-effective-remedies-inside/"><u>SnipGrab Hiccups? 9 Effective Remedies Inside</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/step-by-step-techniques-for-earning-profits-on-vimeo-for-2024/"><u>Step-by-Step Techniques for Earning Profits on Vimeo for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-unlockers-for-windows-11-homespace/"><u>Step-By-Step Unlockers for Windows 11 Homespace</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-and-simple-fix-for-common-print-issues-related-to-domain-services-windows-oses/"><u>Swift & Simple Fix for Common Print Issues Related to Domain Services, Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-static-app-arrangement-in-task-manager/"><u>Techniques for Static App Arrangement in Task Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-strategies-validate-active-ip-connections/"><u>Windows Strategies: Validate Active IP Connections</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elevate-your-editing-game-with-speed-control-skills/"><u>[New] 2024 Approved Elevate Your Editing Game with Speed Control Skills</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-professional-techniques-for-mobile-and-dslr-igtv-mastery/"><u>[New] In 2024, Professional Techniques for Mobile & DSLR IGTV Mastery</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-tripping-up-heres-how-to-avoid-it/"><u>[Updated] 2024 Approved Tripping Up? Here's How to Avoid It</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-your-quick-pathway-to-ipad-time-lapse-success/"><u>[Updated] 2024 Approved Your Quick Pathway to iPad Time-Lapse Success</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-a-comprehensible-guide-to-authoritative-testimonial-films/"><u>[Updated] In 2024, A Comprehensible Guide to Authoritative Testimonial Films</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ascertain-hdd-or-ssd-through-windows-settings/"><u>Ascertain HDD or SSD Through Windows Settings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/canva-skills-purging-images-of-their-surroundings-for-2024/"><u>Canva Skills Purging Images of Their Surroundings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-opengl-error-3-nvidia-solutions-win1011/"><u>Eliminating OpenGL Error 3: Nvidia Solutions (Win10/11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-for-local-sam-service-error-on-computers/"><u>Fix for Local SAM Service Error on Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-microphone-blackout-during-powerpoint-video-recording/"><u>Fixing Microphone Blackout During PowerPoint Video Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-decode-and-clear-windows-10s-activity-archive/"><u>How to Decode and Clear Windows 10'S Activity Archive</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-obsolete-directx-applications-using-dxvk/"><u>Overhauling Obsolete DirectX Applications Using DXVK</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ripristina-la-tua-cronologia-di-wechat-con-facilita-un-metodo-senza-back-up/"><u>Ripristina La Tua Cronologia Di WeChat Con Facilità: Un Metodo Senza Back-Up!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-invalid-steam-response-issue/"><u>Steps to Resolve Invalid Steam Response Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-unlock-a-locked-out-windows-11-with-error-22/"><u>Strategies to Unlock a Locked Out Windows 11 with Error 22</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-class-registration-issue-easy-fixes-and-solutions/"><u>Windows 10 Class Registration Issue: Easy Fixes and Solutions</u></a></li>
 </ul></div>
 

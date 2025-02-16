@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows Settings to Block Discord Initial Launch
-date: 2025-01-27T10:42:32.825Z
-updated: 2025-02-01T08:11:05.273Z
+date: 2025-01-31T22:25:23.208Z
+updated: 2025-02-02T23:36:15.630Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/b750413312d41df96b3e21641f92f421092aa1540
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stop Discord From Launching at Startup on Windows
@@ -40,7 +40,7 @@ Follow the below steps to prevent Discord from launching at startup:
 ![Disbaling Open Discord at Startup Option in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disbaling-Open-Discord-at-Startup-Option-in-Discord-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The above steps will prevent Discord from launching at startup. Just like Discord, you can also[add or remove other startup programs](https://www.makeuseof.com/how-to-add-remove-startup-programs-windows-11/) at any time.
@@ -48,7 +48,7 @@ Follow the below steps to prevent Discord from launching at startup:
  Sadly, the quest to prevent Discord from launching at startup doesn't end here. If Discord's Update process is allowed to run at startup in Task Manager, it may still look for updates and launch. It is, therefore, imperative to disable that as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stop Discord From Searching for Updates at Startup on Windows
@@ -62,7 +62,7 @@ Follow the below steps to prevent Discord from launching at startup:
 ![Disabling Discord Update Process in Windows Startup Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disabling-Discord-Update-Process-in-Windows-Startup-Task-Manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Following the above steps will prevent Discord from launching at startup and looking for updates. However, ensure you disable the Discord-related Update process in the Task Manager, not any other process. You may get into more trouble if you stop the Windows-related update process.
@@ -70,7 +70,7 @@ Follow the below steps to prevent Discord from launching at startup:
  Do not perform any actions if you do not see any Update process in Task Manager's Startup tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Discord Stop Launching at Startup and Checking for Updates
@@ -94,24 +94,24 @@ Follow the below steps to prevent Discord from launching at startup:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-inside-out-the-true-significance-behind-snapchats-emojis-for-2024/"><u>[New] Inside Out The True Significance Behind Snapchat's Emojis for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-picsart-mastery-in-depth-look-at-the-2024-version/"><u>[New] PicsArt Mastery In-Depth Look at the 2024 Version</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-digital-stargazers-guide-to-best-sky-imaging-websites/"><u>[Updated] 2024 Approved Digital Stargazers' Guide to Best Sky Imaging Websites</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1-troubleshooting-guide-how-to-recover-data-from-a-non-detectable-wd-my-passport/"><u>1. Troubleshooting Guide: How to Recover Data From a Non-Detectable WD My Passport</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-say-goodbye-to-stumbles-in-your-instagram-stream/"><u>2024 Approved Say Goodbye to Stumbles in Your Instagram Stream</u></a></li>
-<li><a href="https://driver-install.techidaily.com/bridge-usb-and-serial-connections-smoothly/"><u>Bridge USB and Serial Connections Smoothly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delving-into-ftdibussys-the-reason-behind-windows-memory-compromise/"><u>Delving Into ftdibus.sys: The Reason Behind Windows Memory Compromise</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-commands-to-manage-windows-user-profiles/"><u>Essential Commands to Manage Windows User Profiles</u></a></li>
-<li><a href="https://facebook.techidaily.com/flair-in-friends-forum-messagings-textual-tricks/"><u>Flair in Friends' Forum: Messaging's Textual Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/generating-ai-visuals-using-paint-cocreator-windows-edition/"><u>Generating AI Visuals Using Paint Cocreator - Windows Edition</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-building-your-dream-4k-video-editing-studio-a-diy-blueprint/"><u>In 2024, Building Your Dream 4K Video Editing Studio A DIY Blueprint</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-recovery-techniques-for-both-windows-10-and-11-users/"><u>Key Recovery Techniques for Both Windows 10 and 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/naming-new-microsoft-admin-in-windows-11/"><u>Naming New Microsoft Admin in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-processor-generations-8-strategies-for-windows-users/"><u>Navigating Processor Generations: 8 Strategies for Windows Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/optimal-cloud-audio-devices/"><u>Optimal Cloud Audio Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/probing-the-depth-of-windows-11-the-underutilized/"><u>Probing the Depth of Windows 11 - The Underutilized</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reducing-ai-misconceptions-six-key-prompting-methods-explored/"><u>Reducing AI Misconceptions: Six Key Prompting Methods Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-lost-upgrades-in-windows-11-fix-for-missing-tab/"><u>Revive Lost Upgrades in Windows 11 - Fix for Missing Tab</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-steps-to-replace-missing-msvcrt120dll-in-windows/"><u>Unveiling Steps to Replace Missing msvcrt120.dll in Windows</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/absolvierbare-strategien-personliche-ordner-in-der-cloud-sichern-onedrive/"><u>Absolvierbare Strategien: Persönliche Ordner in Der Cloud Sichern (OneDrive)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/acclaimed-top-5-effortless-action-camcorders-for-2024/"><u>Acclaimed Top 5 Effortless Action Camcorders for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-tricks-overcoming-doom-eternal-initial-launch-issues/"><u>DIY Tricks: Overcoming DOOM Eternal Initial Launch Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-code-0x0000004e-on-windows-os/"><u>Eliminating Code 0X0000004E on Windows OS</u></a></li>
+<li><a href="https://article-files.techidaily.com/enhancing-creativity-via-virtual-landscapes-for-2024/"><u>Enhancing Creativity via Virtual Landscapes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-in-minutes-command-line-steps/"><u>Exploring Windows in Minutes: Command Line Steps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-10-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 10 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-proplus-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 Pro+ 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-is-magic-call-voice-changer-app-working-get-alternatives-here/"><u>In 2024, Is Magic Call – Voice Changer App Working? Get Alternatives Here</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quickstart-free-downloadable-video-intros/"><u>In 2024, Quickstart Free, Downloadable Video Intros</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-luminance-adjustments-on-your-win11-device/"><u>Leveraging Luminance Adjustments on Your Win11 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-netconfig-a-guide-to-connectivity/"><u>Mastering Window's NetConfig: A Guide to Connectivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11s-default-search-settings/"><u>Optimizing Windows 11'S Default Search Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-windows-resolution-glitches/"><u>Overcoming Common Windows Resolution Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-voice-typing-problems-error-code-0x80049dd3-in-windows-11/"><u>Remedying Voice Typing Problems (Error Code: 0X80049DD3) in Windows 11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-guide-converting-mp4-files-to-ogg-format-seamlessly-on-both-windows-and-mac-systems/"><u>Simple Guide: Converting MP4 Files to OGG Format Seamlessly on Both Windows & Mac Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-current-windows-pass-error-in-win11win11/"><u>Solving Current Windows Pass Error in Win11/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-halt-moving-of-apps-within-the-windows-ui/"><u>Techniques to Halt Moving of Apps Within the Windows UI</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming 'Port Reset Failed' In Latest Win 11 OS
-date: 2025-01-29T20:25:16.297Z
-updated: 2025-02-01T11:31:31.444Z
+date: 2025-02-02T02:34:10.552Z
+updated: 2025-02-02T19:26:24.979Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
 
  Knowing the reasons behind the error message, let's get into all the working fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Try the Basic Repairs
 
  The first thing you must do whenever you come across the Unknown USB Device, Port Reset Failed error is to[restart your device](https://www.makeuseof.com/windows-restart-methods/) . Restarting the computer will fix the issue if a temporary glitch is the reason behind it.
@@ -58,18 +54,18 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
 ![Scan for hardware changes option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-hardware-changes-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Use the Hardware and Devices Troubleshooter
 
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Windows offers various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that you can use to get rid of different kinds of system issues. One of these troubleshooters is the Hardware and Devices troubleshooter, which you can use to eliminate most hardware-related issues.
 
@@ -81,10 +77,6 @@ Here's how to use the Hardware and Devices troubleshooter:
 4. Click**Next** .
 
  The Hardware and Devices troubleshooter will now look for and automatically fix any available hardware issues on your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable Fast Startup
 
@@ -101,6 +93,10 @@ Here's how to use the Hardware and Devices troubleshooter:
 ![Disable Fast Startup in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Disable-Fast-Starup.jpg)
 7. Click the**Save changes** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Next, restart your computer and check for the problem.
 
 ## 5\. Download the Latest Driver Update
@@ -113,6 +109,10 @@ Next, restart your computer and check for the problem.
 ![Update driver option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-driver-option.jpg)
 4. In the new window that crops up, select the**Search automatically for drivers** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, wait until Windows searches for any available driver update online and install it on your computer.
 
 ## 6\. Reinstall All the USB Controllers
@@ -123,6 +123,10 @@ Next, restart your computer and check for the problem.
 2. Right-click on the problematic device and choose**Uninstall device.**
 
  Next, restart your computer and plug in the USB device again. Check if you still see the error message. If yes, continue with the guide.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Disable the USB Selective Suspend Setting
 
@@ -140,10 +144,6 @@ Next, restart your computer and check for the problem.
  Are you still facing the problem? If yes, then probably outdated BIOS is the culprit.
 
  An outdated BIOS can cause issues like low system performance and stability, and incompatibility with certain devices. It can also cause the Unknown USB Device, Port Reset Failed error. So, update your BIOS to fix the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Unknown USB Device, Port Reset Failed Error
 
@@ -166,22 +166,24 @@ Next, restart your computer and check for the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-efficient-strategies-for-saving-youtube-thumbnails-on-any-os-for-2024/"><u>[New] Efficient Strategies for Saving Youtube Thumbnails on Any OS for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-striking-setups-to-impress-online-audiences/"><u>[New] In 2024, Striking Setups to Impress Online Audiences</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlock-social-connectivity-with-downloader-tools/"><u>[New] In 2024, Unlock Social Connectivity with Downloader Tools</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-mastering-pexels-a-photographers-toolkit-for-2024/"><u>[New] Mastering Pexels A Photographer's Toolkit for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagram-narratives-through-captioning/"><u>[Updated] Mastering Instagram Narratives Through Captioning</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combat-snip-and-sketch-failures-a-guide-to-capturing-entire-display/"><u>Combat Snip & Sketch Failures: A Guide to Capturing Entire Display</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/harmonizing-sound-dynamics-in-ableton/"><u>Harmonizing Sound Dynamics in Ableton</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-microsoft-ai-transforms-online-marketplaces/"><u>How Microsoft AI Transforms Online Marketplaces</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ideal-android-software-syncing-with-windows-devices/"><u>Ideal Android Software Syncing With Windows Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-gionee-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Gionee Unlock Without Password</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-close-up-confidence-navigating-google-meets-zoom-feature/"><u>In 2024, Close-Up Confidence Navigating Google Meet's Zoom Feature</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/intel-command-center-stream-your-gameplays-seamlessly/"><u>Intel Command Center: Stream Your Gameplays Seamlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-loading-unsigned-drivers-despite-sie/"><u>Mastering Windows: Loading Unsigned Drivers Despite SIE</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/successfully-integrating-office-works-into-win11/"><u>Successfully Integrating Office Works Into Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-windows-11-operation-with-superior-run-capabilities/"><u>Transforming Windows 11 Operation with Superior Run Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncomplicated-office-integration-in-windows-10-and-11/"><u>Uncomplicated Office Integration in WIndows 10 & 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-transformation-best-face-editors-on-iphones-and-androids/"><u>[New] Seamless Transformation Best Face Editors on iPhones and Androids</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-beginners-guide-to-io-screen-video/"><u>[Updated] Beginner's Guide to IO Screen Video</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unleashing-creativity-with-aiseesofts-screencast-innovations/"><u>[Updated] In 2024, Unleashing Creativity with Aiseesoft's Screencast Innovations</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-deep-dive-into-the-kobo-forma-a-commitment-to-quality-reading-experience/"><u>A Deep Dive Into the Kobo Forma - A Commitment to Quality Reading Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beyond-current-frames-crafting-future-windows/"><u>Beyond Current Frames: Crafting Future Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stick-notes-to-app-windows-in-windows-1110/"><u>How to Stick Notes to App Windows in Windows 11/10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-14-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone 14 Pro Max</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-s18e-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo S18e</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-video-marketing-mastery-for-affiliate-success/"><u>In 2024, Video Marketing Mastery for Affiliate Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-process-of-modifying-user-identities-on-windows-11/"><u>Master the Process of Modifying User Identities on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-remedy-for-windows-network-error-0x800704b3/"><u>Mastering Remedy for Windows' Network Error 0X800704B3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-gmaps-integration-process-in-windows/"><u>Navigating the GMaps Integration Process in Windows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-make-beats-for-your-music-videos/"><u>New In 2024, How to Make Beats for Your Music Videos?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-quirky-and-funny-creating-memes-anytime/"><u>Quick, Quirky, and Funny Creating Memes Anytime</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-how-to-turn-off-defender-firewall/"><u>Step-by-Step: How to Turn Off Defender Firewall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-vids-with-these-8-windows-titles/"><u>Streamline Your Vids with These 8 Windows Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-technical-exploration-of-high-dynamic-range-on-windows-11-platforms/"><u>The Technical Exploration of High Dynamic Range on Windows 11 Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-language-potential-with-windows-1011-hotkey-techniques/"><u>Unleash Language Potential with Windows 10/11 Hotkey Techniques</u></a></li>
 </ul></div>
 

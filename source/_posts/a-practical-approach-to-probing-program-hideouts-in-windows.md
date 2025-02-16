@@ -1,7 +1,7 @@
 ---
 title: A Practical Approach to Probing Program Hideouts in Windows
-date: 2024-08-16T01:13:52.709Z
-updated: 2024-08-17T01:13:52.709Z
+date: 2025-02-01T20:51:13.340Z
+updated: 2025-02-02T22:04:20.662Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
  The program's installation directory is typically located somewhere within the Program Files folder on your system, but locating the correct folder can be time taking. Read on as we list the different ways you can use to find the install location of a program on Windows 10 and 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Find the Location of a Program Using the Start Menu
 
  One of the easiest methods of finding the install location of a program is through the**Start** menu. Here’s what you need to do:
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 4. You should now be in the installation folder of the program.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Find the Installation Folder of a Program Using Its Desktop Shortcuts
 
  Another quick way to find the installation directory of a program or application is to utilize the program’s [desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) . This method will only work if you have an existing shortcut to the program on your desktop.
@@ -45,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 3. Click on the**Shortcut** tab, and you will find the installation path in the**Target** field.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Locate the Folder Where a Program Is Installed Using Task Manager
 
  The Windows Task Manager is a powerful system monitor utility tool that allows you to manage running processes on your system. Apart from other [conventional uses of the Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) , you can also use it to find the installation folder of a program (you might need to launch the program beforehand).
@@ -55,16 +61,15 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
 1. Launch the**Task Manager** by right-clicking the**Start** menu and selecting**Task Manager** from the context menu.  
 ![task manager details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/task-manager-details.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Once the Task Manager is up and running, click on the**Details** tab to get a list of all [currently running background processes](https://www.makeuseof.com/windows-pc-too-many-background-processes/) and applications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. After locating the program you need, right-click and then click on**Open file location** .
 4. A new File Explorer window will open up, and you will have found the program's installation directory.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 4\. Access the Installation Folder of a Program Using File Explorer
 
  If for some reason, you want to take a more grueling approach to find the installation folder of a program, you can do so by browsing the main installation directory on your system.
@@ -76,28 +81,23 @@ To find where a program is located using the File Explorer:
 1. Open the**File Explorer** using the icon on the**Start** menu or by pressing**Win + E** .
 2. Navigate to**This PC** and click on the drive where Windows is installed (typically the C Drive).  
 ![program files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/program-files-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 3. Navigate to**Program Files > Program Files (x86)** and then scroll the list of folders until you find one with the program name you’re looking for.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Finding a Program's Install Location Is Easy
 
  Knowing where a program is installed on your system can come in handy when you need to access its folder. Luckily, there are several ways to find the installation directory of a program.
 
  If you're big on file and folder management, why not get an alternative for File Explorer? There are some excellent candidates out there, and some of them are even open source.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -106,8 +106,19 @@ To find where a program is located using the File Explorer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-why-hdr-is-a-game-changer-for-video-enthusiasts-and-professionals/"><u>[New] 2024 Approved Why HDR Is a Game-Changer for Video Enthusiasts and Professionals</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-a05s-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy A05s</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-quick-techniques-for-documenting-youtube-videos/"><u>2024 Approved Quick Techniques for Documenting YouTube Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/comprehensive-fixes-for-persistent-pc-stalls-during-usb-connection/"><u>Comprehensive Fixes for Persistent PC Stalls During USB Connection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/experience-the-pinnacle-of-windows-interactivity/"><u>Experience the Pinnacle of Windows Interactivity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/following-the-reel-adventures-of-indiana-jones-a-guide-to-view-them-properly/"><u>Following the Reel Adventures of Indiana Jones: A Guide to View Them Properly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-unique-characteristics-of-youtube-and-dailymention/"><u>In 2024, The Unique Characteristics of YouTube & DailyMention</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-devices-awake-disabling-usb-hibernate-in-win-11/"><u>Keep Devices Awake: Disabling USB Hibernate in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-normal-display-on-microsoft-store/"><u>Restoring Normal Display on Microsoft Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-pcs-touch-interface-a-user-friendly-tutorial/"><u>Tailoring Your PC’s Touch Interface: A User-Friendly Tutorial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-source-for-all-things-technical-discover-toms-hardware-wisdom/"><u>The Definitive Source for All Things Technical: Discover Tom's Hardware Wisdom</u></a></li>
+</ul></div>
 

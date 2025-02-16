@@ -1,7 +1,7 @@
 ---
 title: Examining Windows 11 Widgets - Enhancement or Overkill?
-date: 2025-01-30T10:43:33.583Z
-updated: 2025-02-01T07:04:14.698Z
+date: 2025-01-27T16:02:21.956Z
+updated: 2025-02-02T20:05:33.258Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are Widgets on Windows 11?
@@ -36,12 +36,16 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 ![Windows 11 widgets sliding-in from the left of the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-11-Widgets-Screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Widgets are essentially a minified version of apps and services that are already set up on your Windows 11 system. They allow you to quickly glance over things that matter to you, like stocks, news, weather, and sports, without opening each app or website individually.
 
  The weather widget you use will be an extension of Microsoft Weather. Similarly, the news widget will be powered by various news feeds globally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Widgets Can I Add to Windows 11?
 
@@ -55,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
  Of course, everyone's use cases are different, so the widgets you may find interesting may be different from the ones I listed here and vice versa.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Pros and Cons of Using Widgets on Windows
@@ -67,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  More importantly, the widgets panel isn’t very convenient. It has a clunky design, and I personally would find widgets more helpful if I could pin them to my desktop. Fortunately, you can use a [third-party app to pin widgets to the desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
  You should also bear in mind that since widgets run in the background, you should keep an eye on the amount of CPU they use. Fortunately, you can [fix a high CPU usage from Windows widgets](https://www.makeuseof.com/windows-widgets-high-cpu-fix/) if things get a little too much. Also, their network usage can make a dent in a metered network connection's usage.
 
  Widgets are certainly a step in the right direction, but [Microsoft can improve upon Windows 11's widgets](https://www.makeuseof.com/ways-microsoft-improve-windows-11-widgets/) to make them more accessible and useful for us all.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our Verdict: Are Windows 11's Widgets Worth It?
 
@@ -96,20 +96,18 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-ultimate-list-of-online-havens-for-free-tamil-ringtones/"><u>[New] In 2024, The Ultimate List of Online Havens for Free Tamil Ringtones</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-through-the-clutter-how-to-stream-top-notch-upside-down-content-on-youtube/"><u>[Updated] 2024 Approved Cutting Through the Clutter How to Stream Top-Notch Upside-Down Content on Youtube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-complete-blueprint-for-capturing-your-ps4-adventures/"><u>[Updated] 2024 Approved The Complete Blueprint for Capturing Your PS4 Adventures</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-hdr-mastery-the-complete-sdr-to-hdr-transformation/"><u>[Updated] HDR Mastery The Complete SDR-to-HDR Transformation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/44cm5pya6ygp44gq44oa44oz44k544ot44o844oi44ks6yg45oqe44gx44cb57eo6zug44gu44kz44oe44ks5a2m44g2ic0g5lik5oml44ge44oa44oz44k56zplusz5qw95l2c5oiq44ki44ox44oq44cn.15/"><u>「最適なダンスビートを選択し、編集のコツを学ぶ - 上手いダンス音楽作成アプリ」</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-handbook-for-proficient-periscope-use-for-2024/"><u>Comprehensive Handbook for Proficient Periscope Use for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-enhance-your-website-traffic-and-conversions/"><u>Cookiebot-Enabled: Enhance Your Website Traffic and Conversions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-video-output-fixing-black-webcam-display/"><u>Enhancing Video Output: Fixing Black Webcam Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-uses-for-microsofts-vcplusplus-distribute/"><u>Exploring Uses for Microsoft's VC++ Distribute</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-xs-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone XS Max or iPad?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-go-incognito-with-admin-credentials-on-windows-11/"><u>How to Go Incognito with Admin Credentials on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-your-windows-experience-with-unseen-functionalities-from-vivetool/"><u>Maximize Your Windows Experience with Unseen Functionalities From ViVeTool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-chrome-repair-for-windows-sudden-closure-errors/"><u>Quick Chrome Repair for Windows' Sudden Closure Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-command-prompt-with-elevated-authority-in-windows-11/"><u>The Ultimate Guide to Command Prompt with Elevated Authority in Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-podcast-style-unboxing/"><u>The Ultimate Guide to Podcast-Style Unboxing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-optimal-applications-to-elevate-your-vtubers-sonic-brand/"><u>[New] In 2024, Optimal Applications to Elevate Your Vtuber's Sonic Brand</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-reviewing-and-selecting-the-ultimate-5-book-tt-list/"><u>[New] Reviewing and Selecting The Ultimate 5 Book TT List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discover-the-links-in-the-nyts-july-18-puzzle-teaser-and-solution-explained-403-edition/"><u>Discover the Links in The NYT's July 18 Puzzle: Teaser and Solution Explained (#403 Edition)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-resolve-dota-2s-changerenderingapi-error-code-2024/"><u>How to Quickly Resolve Dota 2'S ChangeRenderingAPI Error Code 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-dealing-with-disconnected-live-video-sessions-on-facebook/"><u>In 2024, Dealing with Disconnected LIVE Video Sessions on Facebook</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-get-the-perfect-frame-top-vignette-apps-for-ios-and-android-devices/"><u>New 2024 Approved Get the Perfect Frame Top Vignette Apps for iOS and Android Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-how-to-blur-the-video-background-or-some-parts-of-the-video-you-can-know-how-to-blur-videos-with-some-free-online-tools-in-this-article-for-2024/"><u>New How to Blur the Video Background or some Parts of the Video? You Can Know How to Blur Videos with some Free Online Tools in This Article for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-the-best-tools-to-convert-text-to-mp3-with-the-best-natural-voices/"><u>New In 2024, The Best Tools to Convert Text to MP3 With the Best Natural Voices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-screen-guide-to-windows-11-gpus/"><u>Optimize Your Screen: Guide to Windows 11 GPUs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-windows-11s-file-order-preferences/"><u>Realigning Windows 11'S File Order Preferences</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-graphics-hurdles-with-direct3d-achieved-max-gpu-speed/"><u>Resolved Graphics Hurdles with Direct3D, Achieved Max GPU Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-connection-attempted-bluetooth-hiccup-on-pcs/"><u>Solving 'Connection Attempted' Bluetooth Hiccup on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-against-unwanted-scroll-events/"><u>Winning Against Unwanted Scroll Events</u></a></li>
 </ul></div>
 

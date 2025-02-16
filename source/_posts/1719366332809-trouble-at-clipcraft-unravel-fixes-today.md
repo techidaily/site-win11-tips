@@ -1,7 +1,7 @@
 ---
 title: Trouble at ClipCraft? Unravel Fixes Today
-date: 2024-08-16T01:11:01.286Z
-updated: 2024-08-17T01:11:01.286Z
+date: 2025-01-31T23:15:49.243Z
+updated: 2025-02-02T22:00:57.986Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 
  We have tracked down a few reasons why the Snipping Tool can stop working and how to easily resolve them. Let's have a look at how they can be dealt with.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart the Windows File Explorer
 
  Let's start by going to the root of the problem. Since the Snipping Tool is a subset of the File Explorer service, it is most probable that the problem likely came from there. If File Explorer goes unresponsive, so too does the Snipping Tool.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
  As such, restarting File Explorer may dislodge whatever's keeping the Snipping Tool from working correctly. To do this, press **Ctrl + Alt + Del**, then select **Task Manager**. Alternatively, you can press **CTRL + Shift + ESC** to jump directly into the Task Manager.
 
 ![Windows task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/task-manager-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Scroll down until you find **Windows Explorer** and right-click it. In the drop-down menu that appears, select **Restart.**
 
@@ -38,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 
  Once everything looks okay again, try opening the Snipping Tool and using it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Look for Interfering Third-Party Software
 
  Sometimes, a program you've recently downloaded can interfere with the smooth running of the Snipping Tool. If you want to reach the bottom of all this mystery, one way to know for sure is by following these steps given below:
@@ -51,13 +56,11 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 4. Once you disable it, try running the Snipping Tool once again. If it works properly, it means that the app was in conflict with the Snipping Tool. It should be kept disabled to keep the Snipping Tool on your Windows working properly.
 
 ![Services tab in the system configuration section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/system-configuration.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Scannow Tool
 
  If all else fails and your Snipping Tool still isn't working, you can still use the **scannow** command to repair and restore the damaged files that cause it to malfunction. You can achieve this with the help of the [Command Prompt feature](https://www.makeuseof.com/run-command-prompt-commands-desktop-shortcut/).
@@ -73,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 
 ![Windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Permit Snipping Tool to Run in the Background
 
  Snipping Tool also might not work if it lacks the necessary permission to run in the background. This means the app won't work unless you are active in the app's window. To rectify this, authorize the Snipping Tool's application to run in the background by following these steps:
@@ -83,8 +90,13 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 4. Search for **Snip & Sketch** from the app list and ensure it's toggled on.
 
 ![List of Background Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/background-apps-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Update Graphics Drivers
@@ -101,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 ![Update Graphics Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/update-graphics-driver.jpg)
 4. Restart your Windows device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Update Your Windows Computer
 
  Windows regularly releases updates that fix your PC’s bugs, bring in new features and security-related patches, and generally make your Windows experiences much more accessible and better than before.
@@ -113,9 +129,6 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 
  If this didn't fix the Snipping Tool on your Windows either, jump to the next trick below.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## 7\. Disable Focus
 
 [Focus, earlier known as Focus Assist](http://www.makeuseof.com/microsoft-windows-11-focus-assist-update/), is one of those apps that proves everything has pros and cons. If you’re prone to distraction, you might have used the app already and successfully wiped out many distractions from notifications and random pop-ups.
@@ -129,15 +142,9 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 3. Now toggle off the **Focus assist** features, and you’ll be good to go.
 
 ![focus feature on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/focus-feature-on-windows-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
  That’s it—when you have the Focus feature disabled, try out the Snipping Tool again. It should be working now in most cases.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## 8\. Reset the Snipping Tool App
 
  Sometimes things go awry for the weirdest reasons you can’t explain; your apps on Windows are no exception from accidents of such kind.
@@ -156,9 +163,6 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 
  If the Snipping Tool error was caused because of an abrupt mistake in the app, it should be resolved by the end of the above steps.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 9\. Enable the Auto Copy Feature
 
  If someone has disabled the auto-save feature on Snipping Tool, the screenshots won’t be saved in your default location automatically.
@@ -179,8 +183,6 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
 
  We have tracked down a few reasons why the Snipping Tool can stop working and how to easily resolve them. Let's have a look at how they can be dealt with.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -188,5 +190,21 @@ thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/rend-titan-tags-the-list-that-elevates-your-youtube-shorts-to-fame-for-2024/"><u>[New] Trend Titan Tags The List That Elevates Your YouTube Shorts to Fame for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-amplify-your-channels-evading-synthetic-watchers/"><u>[Updated] In 2024, Amplify Your Channels Evading Synthetic Watchers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-leading-virtual-reality-goggles-makers/"><u>[Updated] Leading Virtual Reality Goggles Makers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-variances-in-remote-and-in-house-windows-setup/"><u>Analyzing Variances in Remote & In-House Windows Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/deciph-written-by-your-name/"><u>Deciph Written by [Your Name]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722882617946-from-ebooks-to-hardcovers-the-ultimate-tech-guide-featuring-top-laptops-and-smartphones/"><u>From Ebooks to Hardcovers – The Ultimate Tech Guide Featuring Top Laptops and Smartphones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-shutting-down-windows-11-privacy-features/"><u>Guide to Shutting Down Windows 11 Privacy Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-z-flip-5-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy Z Flip 5 Phone Pattern Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-notepad-stability/"><u>Mastering Windows Notepad Stability</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/no-splurge-audio-devices-for-yt-beginners/"><u>No-Splurge Audio Devices for YT Beginners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-keyboard-wizardry-with-windows-tools/"><u>Speedy Keyboard Wizardry with Windows Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-recover-icon-positions-in-windows-10/"><u>Swiftly Recover Icon Positions in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/veiled-functionality-for-context-tools-on-pcs/"><u>Veiled Functionality for Context Tools on PCs</u></a></li>
+</ul></div>
 

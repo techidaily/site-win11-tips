@@ -1,7 +1,7 @@
 ---
 title: Overturning Google Chrome's WebP Save Feature on Windows
-date: 2025-01-25T14:21:07.409Z
-updated: 2025-01-31T18:18:07.308Z
+date: 2025-01-31T17:23:45.237Z
+updated: 2025-02-03T00:01:38.557Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is WebP Image Format?
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
  If you regularly download images from the web and don't want them to be downloaded as WebP, here are some workarounds you can try:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Use Save Image as Type Extension
 
  The easiest way to save WebP images in other formats is by using a browser extension that enables you to do so. Among the hundreds of extensions available, Save image as Type is the best choice. With this extension, you can download images directly from the right-click context menu in any format you desire, which makes the process simple.
@@ -63,13 +59,13 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 ![Adding the Save Image as Type Extension from the Chrome Web Store in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Adding-the-Save-Image-as-Type-Extension-from-the-Chrome-Web-Store-in-Chrome.jpg)
 2. Once added, navigate to the image you want to download in a different format than WebP.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Open the context menu by right-clicking on the image, and you'll see a **Save image as Type** option.
 4. To download an image in the desired format, navigate to the **Save image as Type** menu and choose your preferred format.  
 ![Selecting the Preferred Format by Navigating to the Save Image as Type Menu to Download Image in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2-Selecting-the-Preferred-Format-by-Navigating-to-the-Save-Image-as-Type-Menu-to-Download-Image-in-Chrome.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The extension supports JPEG, WebP, and PNG formats, so you can download any format you wish. If you are not interested in taking that route, follow the next workaround.
 
@@ -82,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 ![Clicking on the Copy Image Option from the Context Menu by Right-clicking on the Image in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/3-Clicking-on-the-Copy-Image-Option-from-the-Context-Menu-by-Right-clicking-on-the-Image-in-Chrome.jpg)
 3. Launch the Paint app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Press **CTRL + V** to paste the copied image into the Paint app.
 5. On the top-left corner of your screen, click the **File** tab.
 6. To save the image in the desired format, go to the **Save as** menu and choose the desired format.  
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
  Although this method doesn't affect image quality in most cases, if quality drops too much for specific images, you should download them in WebP format and then use the Paint app to convert them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Use a Web-Based Image Converter
@@ -111,10 +111,14 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 6. After converting the image, click on the **Download** button to download the image.  
 ![Downloading the Image by Clicking on the Download Button on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Downloading-the-Image-by-Clicking-on-the-Download-Button-on-the-Online-Convert-Website.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Unfortunately, you'll need to subscribe to Online Covert's premium subscription to perform batch conversions. For free batch conversion, see our guide for [tools that offer free batch conversion and image optimization](https://www.makeuseof.com/tag/10-free-online-batch-image-tools-resize-convert-optimize/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Use a Browser Version That Doesn't Support WebP
@@ -126,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
  Although there is no native way to open WebP images on Windows, as you generally open images in other formats via Windows Photos, there are some workarounds you can use. These workarounds include renaming the file extension, using a third-party app such as ImageGlass, opening them directly in web browsers, or enabling Windows Photo Viewer.
 
  Check out our guide on [opening WebP images on Windows 11](https://www.makeuseof.com/windows-11-open-webp-files/) to learn more about these methods.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Save WebP Images in Your Desired Format
 
@@ -147,19 +147,20 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-chroma-control-made-simple-with-these-11-expert-tips/"><u>[Updated] Chroma Control Made Simple with These 11 Expert Tips</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-constructing-unique-instagram-story-panels/"><u>[Updated] In 2024, Constructing Unique Instagram Story Panels</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-art-of-accompanying-visual-content-with-music/"><u>[Updated] The Art of Accompanying Visual Content with Music</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disarming-store-crash-microsofts-error-0x80073cf3/"><u>Disarming Store Crash: Microsoft's Error 0X80073CF3</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ding-spotify-content-into-a-youtube-music-list-for-2024/"><u>Embedding Spotify Content Into a YouTube Music List for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-persistently-show-calculator-at-top-window/"><u>How to Persistently Show Calculator at Top Window</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-frame-by-frame-building-a-filmmaking-foundation-on-youtube/"><u>In 2024, Frame by Frame Building a Filmmaking Foundation on YouTube</u></a></li>
-<li><a href="https://common-error.techidaily.com/instantaneous-solutions-for-preventing-your-csgo-from-crashing-unexpectedly/"><u>Instantaneous Solutions for Preventing Your CSGO From Crashing Unexpectedly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/missing-control-panel-features-in-win11-discover-hidden-options/"><u>Missing Control Panel Features in Win11: Discover Hidden Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-to-windows-recovery-environment-quickly/"><u>Navigating to Windows Recovery Environment Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-photoshop-hiccups-in-windows/"><u>Overcoming Photoshop Hiccups in Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-art-of-chatting-with-voices-on-whatsapp/"><u>The Art of Chatting with Voices on WhatsApp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-policy-complexity-gpresults-role-in-reporting/"><u>Unraveling Policy Complexity: GPResult's Role in Reporting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-to-zoom-in-and-zoom-out-video-on-iphone-easily/"><u>[New] How to Zoom in and Zoom Out Video on iPhone Easily</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unlocking-stream-potential-your-journey-with-obs-youtube-and-twitch/"><u>[New] Unlocking Stream Potential Your Journey with OBS, YouTube, & Twitch</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-off-switch-for-instagrams-igtv-for-2024/"><u>[Updated] Off Switch for Instagram's IGTV for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/auto-shutdown-mastery-for-idle-pcs-in-w10w11/"><u>Auto Shutdown Mastery for Idle PCs in W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-yuzu-game-performance-in-windows/"><u>Boosting Yuzu Game Performance in Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-guide-to-removing-drm-from-your-kindle-books-azwkfxazw3-supported/"><u>Comprehensive Guide to Removing DRM From Your Kindle Books (AZW/KFX/AZW3 Supported)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-deadly-error-0x8007045d-on-windows-pcs/"><u>Eliminating Deadly Error: 0X8007045D on Windows PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tips-for-successfully-starting-saints-row-pc-version-without-errors/"><u>Essential Tips for Successfully Starting Saints Row PC Version Without Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-a-secure-windows-11-hardware-removal-apt/"><u>Implementing a Secure Windows 11 Hardware Removal Apt</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-savory-scenes-mastering-the-art-of-eating-focused-filmography/"><u>In 2024, Savory Scenes Mastering the Art of Eating-Focused Filmography</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-samsung-galaxy-m14-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Samsung Galaxy M14 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-copy-operation-on-windows-11/"><u>Overcoming Disabled Copy Operation on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-a-successful-launch-path-for-csgo-on-windows-11/"><u>Securing a Successful Launch Path for CS:GO on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-windows-key-activationdeactivation-process/"><u>Simplifying Windows Key Activation/Deactivation Process</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-3-tactics-converting-pins-to-audio-clips/"><u>Top 3 Tactics Converting Pins to Audio Clips</u></a></li>
 </ul></div>
 

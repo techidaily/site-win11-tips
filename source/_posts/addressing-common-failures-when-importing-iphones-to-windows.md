@@ -1,7 +1,7 @@
 ---
 title: Addressing Common Failures When Importing iPhones to Windows
-date: 2024-08-16T01:10:30.702Z
-updated: 2024-08-17T01:10:30.702Z
+date: 2025-01-31T20:27:53.437Z
+updated: 2025-02-03T02:23:56.086Z
 tags:
   - windows10
   - windows11
@@ -34,24 +34,16 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 2. Bring up the Explorer file manager with the**Win + E** hotkey.
 3. Then right-click your iPhone in Explorer’s left sidebar to select an**Import pictures and videos** option.  
 ![The Import pictures and videos option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/import-pictures-and-videos-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the**Review** radio button in the Import Pictures window that opens.
 5. Select**Next** to review images.  
 ![The Review option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/review-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 6. Choose some images to transfer and click the**Import** option.  
 ![The Import option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/import-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Restart the Apple Mobile Device Service
 
  The “Something went wrong” error can arise when the Apple Mobile Device Service gets stuck. Restarting that service can resolve the issue in such a scenario. However, note that you won’t find that service if iTunes isn’t installed on your PC. This is how to restart the Apple Mobile Device service:
@@ -59,10 +51,12 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 1. Open Services on Windows. See [how to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) if you need help.
 2. Then double-click**Apple Mobile Device Service** to bring up its properties window.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Select**Automatic** if a different**Startup type** setting is set.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Stop** to halt the service.  
 ![The Apple Mobile Device Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-mobile-device-properties-window.jpg)
 5. Select**Apply** to save settings and**OK** to exit.
@@ -77,6 +71,11 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 3. Select the**Settings** menu option.  
 ![The Settings menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/settings-option.jpg)
 4. Scroll down to and turn off the**Use hardware acceleration video encoding** when available setting.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Use hardware-accelerated video encoding option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/use-hardware-acceleration-setting.jpg)
 
 ## 5\. Select the "Keep Originals" Option on Your iPhone
@@ -90,16 +89,14 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
  If this resolution works, images will be imported in an original HEIC format, which isn’t universally compatible with Windows software. So, it’s recommended to convert the imported pictures to PNG or JPG. You can do so with the web apps included in our [how to convert HEIC files with online tools](https://www.makeuseof.com/convert-heic-files-tools/) guide.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Repair and/or Reset the Photos App
 
  Photos is a UWP (Universal Windows Platform) app with**Repair** and**Reset** troubleshooting options you can select when it’s not working right. In this case, Photos isn’t working right because you can’t import iPhone images with it. So, selecting its**Repair** /**Reset** options could feasibly resolve that Photos issue.
 
 ![The Reset and Repair options for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can access both those Photos troubleshooting options as outlined in our [guide to resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) . The**Repair** button is directly above the**Reset** option. First, select**Repair** to see if that makes a difference. Click**Reset** to eradicate the app’s data if the**Repair** option doesn’t resolve the “Something went wrong” image import error.
@@ -112,16 +109,22 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 2. Then click the**Help & Settings** button.
 3. Select**Quit OneDrive** to close the app.  
 ![The Quit OneDrive option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/quit-onedrive-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Open the Photos app and click the user account picture in it.
 5. Select the**Sign out** option.  
 ![The Sign out option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sign-out-option.jpg)
 6. Click**Sign out** again to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Try importing images with Photos again.
 
  Note that the instructions above are for the legacy Windows 10 Photos app. You can’t select to sign out of a user account in Windows 11’s default Photos app. In Windows 11’s Photos app, click**Settings** and turn off the**OneDrive – Personal** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Disable Microsoft Defender (or Other Antivirus Utility)
 
@@ -132,8 +135,9 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
  If you have installed third-party security software, disable its antivirus shield. Avast, Kaspersky, Bit Defender, McAfee, Norton, and Avira all have system tray icons you can right-click to select settings that disable their shields. So, look for and select an option that disables your antivirus software on its context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Import Images From Your iPhone on Windows Again
 
  Many users have resolved the “Something went wrong” Photos error by applying some of the confirmed resolutions above. So, it’s most likely at least one of the above potential solutions will enable you to transfer images from your iPhone to Windows 10 or 11 PC again.
@@ -146,8 +150,6 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,8 +157,22 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-10-best-srt-turbocharger-mods-compatible-with-os-x-and-win/"><u>[Updated] 2024 Approved 10 Best SRT Turbocharger Mods Compatible with OS X & Win</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-magnifymaster-x7-resizing-photos-to-perfection/"><u>[Updated] 2024 Approved MagnifyMaster X7 Resizing Photos to Perfection</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-culinary-craftsmanship-innovative-naming-for-food-shows/"><u>[Updated] In 2024, Culinary Craftsmanship Innovative Naming for Food Shows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-peak-outcome-total-immersion-complete/"><u>[Updated] In 2024, Peak Outcome Total Immersion Complete</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-line-magic-automating-archive-creation-in-windows/"><u>Command Line Magic: Automating Archive Creation in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-fixes-for-the-v22h2-update-dilemma-on-win11-os/"><u>Efficient Fixes for the V22H2 Update Dilemma on Win11 OS</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/efficient-solutions-for-speeding-up-your-external-hard-drives-data-transfer-rate/"><u>Efficient Solutions for Speeding Up Your External Hard Drive's Data Transfer Rate</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-15-pro-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-11-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 11? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ifttt-and-microsoft-to-dot-synergy-explained/"><u>IFTTT & Microsoft To-Dot Synergy Explained</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/kootek-laptop-cooling-pad-review/"><u>Kootek Laptop Cooling Pad Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-troubleshooting-failed-capture-on-win11/"><u>Methods for Troubleshooting Failed Capture on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-the-non-verified-error-during-windows-file-installation/"><u>Solving the Non-Verified Error During Windows File Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-expanded-pinned-area-on-windows-11-ui/"><u>Techniques for Expanded Pinned Area on Windows 11 UI</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-description-crafting-compelling-podcast-hooks-for-2024/"><u>The Art of Description Crafting Compelling Podcast Hooks for 2024</u></a></li>
+</ul></div>
 

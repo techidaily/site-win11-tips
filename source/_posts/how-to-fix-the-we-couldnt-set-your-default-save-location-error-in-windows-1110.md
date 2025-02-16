@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “We Couldn't Set Your Default Save Location” Error in Windows 11/10
-date: 2025-01-28T18:30:55.174Z
-updated: 2025-02-01T03:21:38.141Z
+date: 2025-01-28T18:01:56.189Z
+updated: 2025-02-02T20:43:28.122Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Set Your User Account to Administrator
 
  If you’re utilizing a standard Windows account, [change your user account type](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) to an administrative one. A standard user account will prevent you from applying any more complicated system changes. Changing the save location for apps is something you might need admin privileges for.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![The Account type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-account-type-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Rename the WindowsApps Directory
@@ -50,9 +46,17 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-button.jpg)
 5. Rename the folder to **WindowsApps.old** and press **Enter**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Thereafter, try changing the default save location for apps again via Settings.
 
  If that still doesn’t work, then proceed to the next resolution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Delete or Rename the WpSystem Folder
 
@@ -61,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
  Alternatively, delete the WpSystem folder. You can [erase a file or folder in Explorer](https://www.makeuseof.com/windows-11-delete-select-files/) by right-clicking it and selecting **Delete**. If you can’t find that folder or this potential solution doesn’t work, try the next resolution.
 
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set Full System Permission for the System Volume Folder
 
@@ -84,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/security-tab.jpg)
 4. Press the **Continue** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, click **Add** to view a Permission Entry window.
 
 1. Click the **Select a principal** option.
@@ -92,16 +96,12 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 3. Click on the **OK** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select the **Full control permission** setting.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-control-option.jpg)
 5. Then select the **OK** options on the Permission Entry and Advanced Security Settings windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Close all remaining open windows. Then, restart your PC and try changing the default save location.
 
@@ -123,18 +123,22 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-artisans-code-a-complete-blueprint-for-flawless-windows-tv-recording/"><u>[Updated] In 2024, The Artisan's Code A Complete Blueprint for Flawless Windows TV Recording</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-insiders-approach-to-webinar-preservation-for-2024/"><u>[Updated] Insider's Approach to Webinar Preservation for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-language-free-top-8-srt-translation-websites/"><u>[Updated] Mastering Language Free, Top 8 SRT Translation Websites</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-redefining-high-definition-a-review-of-the-immersive-4k-monitor-lgs-31mu97-b/"><u>2024 Approved Redefining High Definition A Review of the Immersive 4K Monitor, LG's 31MU97-B</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722108033794-discover-the-ios-mobile-app-for-chatgpt-your-ai-companion-on-the-go/"><u>Discover the iOS Mobile App for ChatGPT: Your AI Companion on the Go!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-continuous-unlocked-windows-state/"><u>Guidelines for Continuous Unlocked Windows State</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-lava-blaze-2-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Lava Blaze 2 5G FRP Without Computer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/league-of-legends-troubleshooting-overcoming-lag-issues-successfully/"><u>League of Legends Troubleshooting - Overcoming Lag Issues Successfully</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-deciphering-and-fixing-upgrade-issues/"><u>Mastering the Art of Deciphering & Fixing Upgrade Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-boot-and-tpm-setup-guide-for-virtualbox/"><u>Secure Boot and TPM Setup Guide for VirtualBox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-approach-for-cannot-open-source-file-in-win1110/"><u>Stepwise Approach for 'Cannot Open Source File' In Win11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-1011s-dxgi-error-how-to-fix-it/"><u>Win 10/11'S DXGI Error: How to Fix It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-guide-setting-up-and-utilizing-chatgpt/"><u>Win Guide: Setting Up & Utilizing ChatGPT</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streamline-youtube-tweets-on-chrome-performance/"><u>[New] Streamline YouTube Tweets on Chrome Performance</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-reversing-the-consequences-of-a-youtube-ban/"><u>[Updated] In 2024, Reversing the Consequences of a YouTube Ban</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-selective-selection-best-bands-for-ringtones-for-2024/"><u>[Updated] Selective Selection Best Bands for Ringtones for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-infinix-gt-10-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Infinix GT 10 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-igtv-techniques-seamlessly-transforming-vlogs-for-maximum-views/"><u>2024 Approved IGTV Techniques Seamlessly Transforming Vlogs for Maximum Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-understanding-disk-distinctions-c-and-d/"><u>A Guide to Understanding Disk Distinctions (C & D)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-potential-issues-with-ipads-key-insights-on-the-risks-of-upgrading-to-ios-16-gizmodaily/"><u>Avoid Potential Issues with iPads – Key Insights on the Risks of Upgrading to iOS 16 | GizmoDaily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-windows-update-obstacles-with-error-code-0x800736cc/"><u>Breaking Through Windows Update Obstacles with Error Code 0X800736CC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-hacks-navigating-usage-without-an-official-openai-profile-5-key-tips/"><u>ChatGPT Hacks: Navigating Usage Without an Official OpenAI Profile (5 Key Tips)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-how-clockdate-shows-in-window-11/"><u>Customizing How Clock/Date Shows in Window 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-hostingers-offerings-a-deep-dive-into-vps-cloud-platforms-and-shared-hosting-options/"><u>Evaluating Hostinger's Offerings: A Deep Dive Into VPS, Cloud Platforms, and Shared Hosting Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-solving-win-os-device-errors/"><u>Navigating and Solving Win OS Device Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-windows-screen-saver-wait-time/"><u>Optimize Windows Screen Saver Wait Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-hogwarts-legacys-memory-shortage-mistake/"><u>Resolving Hogwarts Legacy's Memory Shortage Mistake</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-11-defender-aguard-on-edge/"><u>Step-by-Step Guide to Windows 11 Defender Aguard on Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-to-preferred-pdf-viewer-on-windows/"><u>Switching to Preferred PDF Viewer on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-samsung-offers-and-discounts-exclusive-insights-on-the-latest-weekly-deals-march-edition/"><u>Top Samsung Offers and Discounts: Exclusive Insights on the Latest Weekly Deals - March Edition</u></a></li>
 </ul></div>
 

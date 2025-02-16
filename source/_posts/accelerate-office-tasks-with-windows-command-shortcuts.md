@@ -1,7 +1,7 @@
 ---
 title: Accelerate Office Tasks with Windows Command Shortcuts
-date: 2024-08-16T01:13:27.810Z
-updated: 2024-08-17T01:13:27.810Z
+date: 2025-01-29T23:34:26.170Z
+updated: 2025-02-02T17:33:03.429Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
  Shortcuts can make a big difference by speeding up your tasks and saving precious time. It's great knowing some handy shortcuts when working on Windows. You can open apps in a snap, start functions instantly, search faster, and do more efficiently.
 
  So let's explore a few shortcuts you can use on your keyboard and other useful ones that will make things easy and snappy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows Keyboard Shortcuts for Common Tasks
 
@@ -46,18 +50,14 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
  Want more? We have [the ultimate guide to all of Windows' keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) if you need more handy shortcuts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Handy Windows Shortcuts for Common Actions
 
  Here are a few other tips and shortcuts that will make your work easier on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### Scan Your PC for Malware Quickly
 
  Think you have malware? Here's how to get a scan running at record time:
@@ -65,19 +65,20 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 1. Open the **Run** box by pressing **Win + R** keys together or use one of the [many ways to open Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
 2. Type **mrt** in the Run navigation bar and hit **Enter**.  
 ![Run Box Open With mrt Typed in Navigation Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/type-mrt-in-run-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. The [Microsoft Windows Malicious Software Removal Tool](https://www.makeuseof.com/microsoft-malicious-software-removal-tool-guide/) will open up. Click on **Next**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Microsoft Windows Malicious Software Removal Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-software-removal-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Then choose **Quick Scan**, **Full Scan**, or **Custom Scan**.  
-![Malicious Software Removal Tool With Scan Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-scan-type-to-scan-for-malware.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Malicious Software Removal Tool With Scan Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-scan-type-to-scan-for-malware.jpg)
 5. Finally, click on **Next** to scan your PC for malicious software.
 
 ### Control Your System Volume With Your Mouse Wheel
@@ -87,12 +88,9 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
  Did you know you can skip clicking the volume icon? If you really want to speed things up and don't mind downloading third-party tools, check out [how to change the volume on Windows with your mouse wheel](https://www.makeuseof.com/windows-11-volume-mouse-wheel/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Select Text Easily on Documents
 
  While working on documents, you may need to select text to copy and paste or delete it. Instead of using the cursor to select the text do this:
@@ -101,16 +99,11 @@ No advertising on the website.
 2. Hold the **Shift** key down. Then use the **right or left arrow keys** and the text will start getting highlighted and selected.
 3. Release the **Shift** and **arrow keys** to stop selecting the text and then copy or delete it.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Use Shortcuts to Work Faster on Windows
 
  Undoubtedly, shortcuts make things much easier and faster as you work and play on Windows. So start using the shortcuts discussed above. Once you get used to them, you'll love using them every day.
 
  So let's explore a few shortcuts you can use on your keyboard and other useful ones that will make things easy and snappy.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -119,5 +112,23 @@ No advertising on the website.
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-a-step-by-step-process-for-podcast-rss-creation/"><u>[Updated] A Step-by-Step Process for Podcast RSS Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-flip-your-video-collection-in-a-flash-for-2024/"><u>[Updated] How to Flip Your Video Collection in a Flash for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-digital-collage-creator-8x/"><u>2024 Approved Ultimate Digital Collage Creator 8X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-into-the-depth-of-complete-screenshots-via-windows-snipping-tool/"><u>Dive Into the Depth of Complete Screenshots via Windows' Snipping Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-pc-reawakening-top-3-windows-reset-methods/"><u>Efficient PC Reawakening: Top 3 Windows Reset Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-directdraw-errors-with-ease-on-new-windows-oses/"><u>Fixing DirectDraw Errors with Ease on New Windows OSes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-newest-amd-smbus-drivers-seamless-downloading-guide/"><u>Get Your Newest AMD SMBus Drivers - Seamless Downloading Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/go-live-on-youtube-from-a-phone-no-need-for-huge-fans-yet-for-2024/"><u>Go Live on YouTube From a Phone, No Need for Huge Fans Yet for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/headset-face-off-googles-simplicity-and-samsungs-complexity/"><u>Headset Face-Off Google's Simplicity and Samsung's Complexity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-employ-microsofts-copilot-tool-in-windows-ides/"><u>How to Employ Microsoft's Copilot Tool in Windows IDEs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-get-the-outlook-preview-app-on-windows-10-and-11/"><u>How to Get the Outlook Preview App on Windows 10 and 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-discord-push-to-talk-back-on-track-expert-fixes-and-tips/"><u>How to Get Your Discord Push-To-Talk Back on Track: Expert Fixes and Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-your-usb-wi-fi-adapter-not-connecting-or-working-on-windows-8-ways-to-fix-it/"><u>Is Your USB Wi-Fi Adapter Not Connecting or Working on Windows? 8 Ways to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-discord-interface-fixing-a-dormant-overlay/"><u>Reclaim Your Discord Interface: Fixing a Dormant Overlay</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-oneplus-ace-2-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 OnePlus Ace 2 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+</ul></div>
 

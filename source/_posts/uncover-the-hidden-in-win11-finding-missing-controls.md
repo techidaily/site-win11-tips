@@ -1,7 +1,7 @@
 ---
 title: "Uncover the Hidden in Win11: Finding Missing Controls"
-date: 2025-01-28T17:04:25.901Z
-updated: 2025-02-01T10:29:11.351Z
+date: 2025-01-27T18:55:16.383Z
+updated: 2025-02-02T20:21:18.024Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Control Panel Is Likely Going Away
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
  While Microsoft hasn’t said that it plans to do away with the Control Panel app, and plenty of [old apps remain in Windows 11](https://www.makeuseof.com/ancient-windows-features-still-in-windows-11/). Still, the rate at which the company is moving settings says that Microsoft is at least considering it. Of course, this isn’t necessarily a bad thing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft's New Home For Settings
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 ![The Windows 11 Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/the-windows-11-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Eventually, this decision will likely make even more sense. For the moment, however, it can be tough to find the settings you’re looking for, especially if they’re no longer located where they had been for years.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Finding a Setting's New Home
@@ -75,20 +75,24 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-direct-youtube-tunes-to-mp3s-online-and-offline-options/"><u>[New] In 2024, Direct YouTube Tunes to MP3s Online & Offline Options</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-from-beginner-to-pro-transforming-windows-videos-with-minimal-tools/"><u>[Updated] In 2024, From Beginner to Pro Transforming Windows Videos with Minimal Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-untamed-video-preservation-units/"><u>[Updated] In 2024, Untamed Video Preservation Units</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-techniques-for-snapping-shots-of-your-computer-screen/"><u>Effortless Techniques for Snapping Shots of Your Computer Screen</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/elite-astral-premium-templates-and-themes-by-creative-tim-elevate-your-website-today/"><u>Elite Astral Premium Templates & Themes by Creative Tim: Elevate Your Website Today!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-system-management-through-gpo-refresh-on-pcs/"><u>Enhancing System Management Through GPO Refresh on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-persistent-0x800f0831-error-in-windows-10-and-11/"><u>How to Fix a Persistent 0X800f0831 Error in Windows 10 and 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-guide-to-ae-type-effects/"><u>In 2024, Comprehensive Guide to AE Type Effects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-nvidia-drivers-now-available-geforce-rtx-3070-ti-for-win-1187-safe-to-download/"><u>Official NVIDIA Drivers Now Available: GeForce RTX 3070 Ti for Win 11/8/7 - Safe to Download!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/onedrive-off-a-simple-guide-for-window-explorer-users/"><u>OneDrive Off - A Simple Guide for Window Explorer Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-winscripterrors-quick-windows-script-remedies/"><u>Overcome WinScriptErrors: Quick Windows Script Remedies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-decreasing-background-computation/"><u>Strategies for Decreasing Background Computation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-key-checklist-to-master-before-system-restart/"><u>The Key Checklist to Master Before System Restart</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-ranking-wireless-sound-systems-the-ultimate-guide-to-the-finest-portable-speakers/"><u>Top-Ranking Wireless Sound Systems - The Ultimate Guide to the Finest Portable Speakers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-repair-mastery-5-easy-methods/"><u>Windows Repair Mastery: 5 Easy Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-enhancing-video-discoverability-with-effective-titles-and-tags/"><u>[New] 2024 Approved Enhancing Video Discoverability with Effective Titles & Tags</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-in-depth-evaluation-obs-as-an-advanced-recorder/"><u>[New] 2024 Approved In-Depth Evaluation OBS as an Advanced Recorder</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigate-the-social-media-maze-understanding-insights/"><u>[New] 2024 Approved Navigate the Social Media Maze Understanding Insights</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-guide-to-forming-powerful-content-partnerships-on-youtube-for-2024/"><u>[Updated] Essential Guide to Forming Powerful Content Partnerships on YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-in-making-sense-top-6-persuasive-video-types/"><u>2024 Approved Mastery in Making Sense Top 6 Persuasive Video Types</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-simplified-methods-to-record-gotomeeting-chats/"><u>2024 Approved Simplified Methods to Record GoToMeeting Chats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-cross-language-communication-with-windows-11-hotkeys/"><u>Accelerate Cross-Language Communication with Windows 11 Hotkeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-computer-experience-with-these-6-tools/"><u>Accelerate Your Computer Experience with These 6 Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-failed-writable-operation-files-in-windows/"><u>Addressing Failed Writable Operation Files in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-failed-connectivity-issue-of-mb-in-windows-11/"><u>Addressing the Failed Connectivity Issue of MB in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-purpose-and-use-of-microsofts-phone-link-app/"><u>Deciphering the Purpose and Use of Microsoft's 'Phone Link' App</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-corsair-k70-mouse-up-and-running-with-fresh-driver-downloads/"><u>Get Your Corsair K70 Mouse Up and Running with Fresh Driver Downloads</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-retrieve-accidentally-deleted-notes-from-your-iphone-best-software-solutions/"><u>How to Retrieve Accidentally Deleted Notes From Your iPhone: Best Software Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-more-keyboard-confusion-30-ways-to-fix/"><u>No More Keyboard Confusion: 30 Ways to Fix</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/push-the-boundaries-of-snapchat-choose-from-these-best-edits/"><u>Push the Boundaries of Snapchat Choose From These Best Edits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-student-essentials-asus-vivobook-s-15-reviewed/"><u>The Ultimate Student Essentials - ASUS Vivobook S 15 Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-vac-denied-access-in-steam-windows/"><u>Troubleshooting VAC Denied Access in Steam Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-your-spoken-words-into-written-sense-using-whisper/"><u>Turn Your Spoken Words Into Written Sense Using Whisper</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-guide-to-the-most-innovative-mp3-devices/"><u>ZDNet's Ultimate Guide to the Most Innovative MP3 Devices</u></a></li>
 </ul></div>
 

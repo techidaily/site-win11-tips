@@ -1,7 +1,7 @@
 ---
 title: "Accelerating Battery Performance: Add Custom Alerts to Windows 11"
-date: 2024-08-16T01:11:36.538Z
-updated: 2024-08-17T01:11:36.538Z
+date: 2025-02-01T22:28:04.407Z
+updated: 2025-02-03T00:26:05.250Z
 tags:
   - windows10
   - windows11
@@ -35,15 +35,27 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 8. Then turn on the**Full Battery Notification** option if it’s disabled. A high battery alert will now pop up when the battery reaches the level set on the**Notification** bar.  
 ![The Full Battery Notification option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/full-battery-notification-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can apply some optional tweaking of the full battery notifier after enabling it. Drag the slider on the**Notification level** bar to set a battery charge percentage level. If you only want the alarm to ring for a fully charged battery, set that bar to 100 percent. Drag the slider left to set the notifier to appear at lower charge levels.
 
  You can also change the notification’s sound. Click**Default notification sound** to view a list of alarm sounds. To preview a sound, click its play button. Press the**Set audio** option to select an alternative.
 
 ![Notification sounds in Battery Notification](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/notification-sounds.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This app also has a handy taskbar indicator for your battery. The app’s taskbar icon shows the percentage level of your batter. Thus, you can keep an eye on the battery level on the taskbar when Battery Notification is open.
 
 ![The Battery Notification taskbar icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-battery-notification-taskbar-icon.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Full Battery Charge Alert With Battery Notifier
 
@@ -56,26 +68,17 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 5. Right-click**BatteryNotifier.exe** to select**Run as administrator** .
 6. Next, click the**Battery Notifier** icon in the system to view the app’s panel.  
 ![The Battery Notifier system tray icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/battery-notifier-taskbar-icon.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 7. Make sure the**Full Battery** notification checkbox is set to**On** .  
-![The Full Battery notification setting in Battery Notifier](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/full-battery-checkbox.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Full Battery notification setting in Battery Notifier](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/full-battery-checkbox.jpg)
 
  To configure the Battery Notifier app, click the**Settings** tab. There you can set the battery percentage level for the full and low battery notifiers to alert you. Drag the**Full Battery** bar’s slider to set it how you wish.
 
 ![The Settings tab in Battery Notifier](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-setting-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 
  You can also set custom sounds for the full battery charge notifier. Click the music folder icon below the**Full Battery** bar to view a file selection window. Then choose a music or sound file for the alarm and click**OK** .
 
@@ -84,14 +87,11 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
  There are also alternative theme options available. Selecting**Dark** makes the app black. If you prefer a white app, click the**Light** radio button.
 
 ![The Light theme option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-white-theme.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add a Full Battery Charge Alert Full Battery & Theft Alarm
 
  Alert Full Battery & Theft Alarm is an app with which you add a full battery charge notifier to Windows laptops and Android mobile devices, as it’s available on Google Play. It also provides an additional theft alarm for security. The upgraded version of the app ($1.49) shows your battery history. These are the steps for adding a full battery charge notifier with Full Battery & Theft Alarm.
@@ -105,6 +105,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 6. Click the**Settings** (cog) button at the bottom left of the app.
 7. Set the**Notification Type** option to**Reminder** . Then you can wait for the notification to appear at the bottom right of the desktop when your laptop is charged to the set battery level.  
 ![The Reminder option in Full Battery & Theft Alarm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reminder-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can change the charge percentage for the high alert by dragging the bar on the**Battery level to notify** bar. Below that there’s also a**Low battery level to notify** bar you can configure.
 
@@ -120,9 +124,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Type**ms-settings:notifications** inside Run, and click that accessory’s**OK** option.
 3. Turn on the**Notifications** or**Get notifications** setting.  
 ![The Notifications option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/notifications-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select the**Allow notifications to play sounds** option.
 5. Click the notification toggle switches on for the battery apps in this guide.  
 ![Notification options for battery apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/app-notification-settings.jpg)
@@ -137,8 +138,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,8 +145,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-express-yourself-accessibility-available-for-free/"><u>[New] Express Yourself, Accessibility Available for Free</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-creating-stunning-instagram-profile-screenshots-for-2024/"><u>[Updated] Creating Stunning Instagram Profile Screenshots for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-12-pro-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Realme 12 Pro 5G</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/cookiebot-driven-website-optimization-elevating-your-online-presence/"><u>Cookiebot-Driven Website Optimization: Elevating Your Online Presence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-old-user-id-prompt-in-windows-login-screen/"><u>How to Disable 'Old User ID' Prompt in Windows Login Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-tecno-pova-5-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Tecno Pova 5 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-ways-to-make-your-windows-11-unique/"><u>Innovative Ways to Make Your Windows 11 Unique</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/limiting-users-ability-to-modify-windows-safescreen/"><u>Limiting Users' Ability to Modify Windows SafeScreen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-outlook-and-gmail-synergy-on-your-pc/"><u>Mastering Outlook & Gmail Synergy on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/monetization-approaches-for-microsoft-and-windows-11/"><u>Monetization Approaches for Microsoft & Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regenerating-system-icons-in-windows-os/"><u>Regenerating System Icons in Windows OS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-for-compatible-video-conversion-to-apple-tv-playback/"><u>Step-by-Step Tutorial for Compatible Video Conversion to Apple TV Playback</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secret-to-a-cleaner-win11-experience/"><u>Unveiling the Secret to a Cleaner Win11 Experience</u></a></li>
+</ul></div>
 

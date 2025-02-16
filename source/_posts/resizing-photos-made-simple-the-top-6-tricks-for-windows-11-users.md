@@ -1,7 +1,7 @@
 ---
 title: "Resizing Photos Made Simple: The Top 6 Tricks for Windows 11 Users"
-date: 2025-01-25T16:14:23.676Z
-updated: 2025-02-01T07:17:48.488Z
+date: 2025-01-26T19:12:52.650Z
+updated: 2025-02-03T01:49:18.893Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Resize Images With Photos
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 2. Click**All Photos** to view your images.  
 ![The All Photos button in Microsoft Phots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/photos-app.jpg)
 3. Right-click an image for resizing and select**Open** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Click the**See more** (ellipses) button in the editing window that opens.
 5. Select the**Resize image** option.  
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
  The resize image options in Paint
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. How to Resize Images With Paint 3D
 
  Paint 3D is an advanced version of the aforementioned Paint with options for adding and modifying three-dimensional objects. That Microsoft app also incorporates a tool for resizing images with your mouse and inputting values. This is how you can resize your images within Paint 3D in Windows 11:
@@ -80,14 +80,14 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 ![The Browse files button in Paint 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-files-button.jpg)
 3. Select an image to resize, and click the**Open** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the**View more** options (three-dot) menu button.
 5. Select**Canvas options** to access options for resizing the image’s dimensions.  
 ![The resize image options in Paint 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-3d-s-canvas-options.jpg)
 6. Click the**Resize image** with canvas checkbox to select that option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Now left-click a corner of the image, hold the mouse button, and drag the mouse cursor left/right to reduce or expand the picture. The values in the**Height** and**Width** boxes change as you drag the mouse.
 8. When you’re done resizing, click the**Menu** button.
@@ -111,19 +111,15 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 ![The Image Magic window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-magic-extension.jpg)
 8. Input alternative pixel values in the two**Width** and**Height** boxes.
 
-9. Press the**Convert** button to download the resized image. You’ll find that image in whatever folder you’ve set Edge to download files in.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+9. Press the**Convert** button to download the resized image. You’ll find that image in whatever folder you’ve set Edge to download files in.
 
 ## 5\. How to Resize Images via Windows 11’s Context Menu
 
  Some third-party editing apps for images integrate with File Explorer’s context menu. CoolTweak and Image Resizer are two such apps that add options for resizing images to the context menu. Those options enable you to resize images by right-clicking their files in Explorer. Check out our guide about[adding resize image options to the context menu](https://www.makeuseof.com/windows-11-resize-image-context-menu/) for further details about CoolTweak and Image Resizer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. How to Batch Resize Images With FastStone Photo Resizer
 
@@ -141,19 +137,23 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 ![The FastStone Photo Resizer 4.4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/faststone-image-viewer2.jpg)
 4. Click the**Resize** checkbox if it’s not already selected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**In Pixels** radio button.
 6. Input values in the**New Width** and**New Height** boxes. Or select an option on the**Pick a Standard Size** drop-down menu.  
 ![The resize settings in the Advanced Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/faststone-image-viewer-resize-options.jpg)
 7. Click**OK** to exit Advanced Options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select**Browse** for the**Output Folder** option. Choose a folder to include the resized files, and click the**OK** button.
 9. Press**Convert** to resize the images.
 
  FastStone Photo Resizer also includes additional**In Percentage** ,**In Print Size** , and**Resize based on one side** options for resizing. You can select quarter, half, double, or triple options on the percentage preset drop-down menu. The**In Print Size** option enables you to resize images in centimeters and inches for printing purposes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Your Images Fit Better by Resizing Them in Windows 11
 
@@ -174,24 +174,20 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-saving-instagrams-a-step-by-step-approach-for-windowsmacos-users/"><u>[New] 2024 Approved Saving Instagrams A Step-by-Step Approach for Windows/macOS Users</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-leading-list-of-16-youtube-openers-for-audience-expansion/"><u>[New] In 2024, Leading List of 16 YouTube Openers for Audience Expansion</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-innovative-shots-with-purpose-top-20-ideas-for-inspiration/"><u>[Updated] 2024 Approved Innovative Shots with Purpose Top 20 Ideas for Inspiration</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-livestream-titans-clash-facebook-live-and-youtube-vs-twitter-spaces/"><u>[Updated] Livestream Titans Clash Facebook LIVE & YouTube Vs. Twitter Spaces</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-professional-drone-review-best-5-to-consider/"><u>[Updated] Professional Drone Review Best 5 to Consider</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-current-windows-password-error-in-win11win11/"><u>Eliminating Current Windows Password Error in Win11/Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-workflow-quick-access-in-win-11/"><u>Enhance Your Workflow: Quick Access in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-lack-of-cpu-temperature-control-regulation/"><u>Fixing Lack of CPU Temperature Control Regulation</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do I Stop Someone From Tracking My Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-canon-printer-mp250-firmware-updates-how-to-download-and-install/"><u>Latest Canon Printer MP250 Firmware Updates: How to Download and Install</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimal-passwords-savers-for-enhanced-windows-11-defense/"><u>Optimal Passwords Savers for Enhanced Windows 11 Defense</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/protect-your-data-enabling-controlled-access-on-windows-11/"><u>Protect Your Data: Enabling Controlled Access on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/real-time-internet-insights-for-taskbar-users/"><u>Real-Time Internet Insights for Taskbar Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-communication-in-windows-via-headset-mic/"><u>Restoring Communication in Windows via Headset Mic</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-error-code-failed-task-execution-0x8007000f/"><u>Tackling Windows Error Code: Failed Task Execution (0X8007000f)</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/tecniche-di-decrittazione-come-recuperare-i-tuoi-dati-dallsd-card-crittografata/"><u>Tecniche Di Decrittazione: Come Recuperare I Tuoi Dati Dall'SD Card Crittografata</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mysteries-of-windows-11-faults/"><u>Unraveling the Mysteries of Windows 11 Faults</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-green-screen-software-for-mac-users-for-2024/"><u>Updated The Ultimate Guide to Green Screen Software for Mac Users for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-budget-savvy-shooters-top-5-under-200-cameras/"><u>[Updated] Budget-Savvy Shooters Top 5 Under $200 Cameras</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-advanced-strategies-in-ps3-gaming-broadcasting/"><u>2024 Approved Advanced Strategies in PS3 Gaming Broadcasting</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-economical-360-cameras-for-quality-videography/"><u>2024 Approved Economical 360° Cameras for Quality Videography</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-choice-quick-accurate-screen-reports/"><u>2024 Approved The Ultimate Choice Quick, Accurate Screen Reports</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciding-on-nearby-transfer-google-vs-windows-options/"><u>Deciding on Nearby Transfer: Google Vs. Windows Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhanced-collaboration-on-a-sleeker-platform/"><u>Enhanced Collaboration on a Sleeker Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-guide-to-top-7-secure-windows-applications-153-chars/"><u>Exclusive Guide to Top 7 Secure Windows Applications (153 Chars)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-xbox-one-audio-back-on-track-a-complete-guide/"><u>Getting Your Xbox One Audio Back on Track – A Complete Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-cannot-continue-error-in-amd-installation/"><u>Overcoming the 'Cannot Continue' Error in AMD Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-failure-lockout-period-on-sign-in-errors/"><u>Personalizing Failure Lockout Period on Sign In Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prevent-unwanted-launch-of-snipping-tool-via-print-screen-in-win-11/"><u>Prevent Unwanted Launch of Snipping Tool via Print Screen in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-troubleshooting-msvcr120-deficiency-windows-wise/"><u>Tips for Troubleshooting Msvcr120 Deficiency Windows-Wise</u></a></li>
+<li><a href="https://windows11.techidaily.com/ultimate-7-list-cost-free-windows-media-centers/"><u>Ultimate 7 List: Cost-Free Windows Media Centers</u></a></li>
 </ul></div>
 

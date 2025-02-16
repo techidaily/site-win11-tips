@@ -1,7 +1,7 @@
 ---
 title: 5 Common Complaints Users Have About Windows 11
-date: 2024-08-16T01:10:45.308Z
-updated: 2024-08-17T01:10:45.308Z
+date: 2025-01-28T17:48:08.173Z
+updated: 2025-02-02T17:21:38.337Z
 tags:
   - windows10
   - windows11
@@ -22,21 +22,19 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
 ![Prepare the TPM in TPM Management Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Prepar-the-TPM.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When Windows 10 debuted, Microsoft offered a free upgrade for PCs running Windows 7 and 8.1\. Windows 10 users can also upgrade to Windows 11 for free, but not everyone is eligible because of the stringent hardware requirement.
 
  Windows 10 PCs over six years old will unlikely have the TPM 2.0 technology in the processor. And this is one primary reason why many people are still not being offered the Windows 11 update via the Windows update.
 
  There are ways to bypass the TPM 2.0 requirement and install Windows 11, but how safe and sound the after-effect will be is questionable. You might face all sorts of trouble after installing it by bypassing the minimum hardware requirement. Many Windows 10 users are willing to upgrade if Microsoft withdraws the TPM 2.0 requirement. Meanwhile, you can [bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) , but do it at your own risk.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. The Need for a Microsoft Account During the Windows 11 Setup Process
 
 ![windows 11 login problems](https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa4566634791522addb362bdc3b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You get a lot of benefits if you use Microsoft Account with your Windows 11 PC. Microsoft recommends a Microsoft account to make the most of Windows 11, though it's not mandatory to use it over a local account.
 
@@ -45,33 +43,30 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
  Many users feel that Microsoft should bring back the old system where a Microsoft account was not mandatory during the setup process.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Windows 11 Does Not Offer Significant Benefits Over Windows 10 for Many
 
  For Many people, Windows 11 is worth the upgrade because of its plethora of new features, design changes, and improvements. But for many people, the changes are not practical and are something they will never use. Also, Windows 10 gives users a sense of familiarity because they have been using it for a long time.
 
 ![A Windows 11 laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-windows-11-desktop.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It is important to keep devices updated with the latest version of the software. Doing so will make devices more secure and give you other benefits. But when users feel that the new features don't significantly improve their workflow, they don't want to upgrade to a new version of the OS. If you want a comparison for clarity, here are [the biggest differences between Windows 10 and Windows 11](https://www.makeuseof.com/windows-10-11-major-changes/) .
 
  Many Windows 10 users have complaints that Windows 11 does not offer significant new features that are beneficial to them. The only way to help those people is by adding more practical features to Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Changing Default Apps Is Too Hard
 
 ![Windows 11 Settings Default Apps Mailto](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Windows-11-Settings-Default-Apps-Mailto.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 
  Microsoft came under fierce criticism for making it harder to change default apps. In Windows 10, you have a Default apps interface on the Settings page for configuring default apps for email, music, photo viewing, web browser, and more. All it requires is a couple of clicks to change the default apps in Windows 10.
 
@@ -80,8 +75,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Users want Microsoft to introduce an easier way of changing default apps in Windows 11\. Of all the complaints users have about Windows 11, the issue of changing default apps is likely to be fixed first. Microsoft had already announced that it would introduce [a new Settings deep link URI for applications](https://blogs.windows.com/windowsexperience/2023/03/17/a-principled-approach-to-app-pinning-and-app-defaults-in-windows/) to allow users to change defaults quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. The Limited Functionality of the Windows 11 Taskbar
 
  Users have also raised complaints about the limited functionality of the Windows 11 taskbar. It is currently missing popular features like the "never combine" option, which shows a more informative taskbar button. Windows 11 users have also criticized Microsoft for not allowing the taskbar to move to the sides or the top of the screen. Users want both these taskbar functionalities back in Windows 11\. Beyond these two, there are other [ways Microsoft can improve the Windows 11 taskbar](https://www.makeuseof.com/microsoft-improve-windows-11-taskbar/) .
@@ -94,14 +90,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Surely, with the features mentioned above, Windows 11 will be more appealing to more people.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,8 +103,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastery-of-gamers-channel-graphics-with-template-use/"><u>[New] Mastery of Gamers' Channel Graphics with Template Use</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-cutting-edge-of-vid-extraction-top-5-free-fast-pinterest-tools-for-2024/"><u>[New] The Cutting Edge of Vid Extraction Top 5 Free, Fast Pinterest Tools for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-fix-windows-update-stuck-at-0-issue/"><u>Easy to Fix Windows Update Stuck at 0% Issue</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210401239-9781638149873-get-real-with-god/"><u>Get Real with GOD | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-windows-11-determine-software-harmony/"><u>How Does Windows 11 Determine Software Harmony?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-cant-stop-your-generic-volume-device-error/"><u>How to Fix the “Windows Can’t Stop Your Generic Volume Device” Error</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-peeking-at-the-reason-behind-highlighted-comments-on-youtube/"><u>In 2024, Peeking at the Reason Behind Highlighted Comments on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-data-transfer-mishaps-with-windows-usb-devices/"><u>Reversing Data Transfer Mishaps with Windows USB Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-made-storage-repositioning-in-onedrive-for-win-11/"><u>Tailor-Made Storage Repositioning in OneDrive for Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-bypass-chatbot-assistance-in-win-11-key-gen/"><u>Why Bypass Chatbot Assistance in Win 11 Key Gen</u></a></li>
+</ul></div>
 

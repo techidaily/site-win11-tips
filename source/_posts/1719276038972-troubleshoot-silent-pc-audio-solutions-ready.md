@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Silent PC Audio – Solutions Ready
-date: 2024-08-16T01:12:41.911Z
-updated: 2024-08-17T01:12:41.911Z
+date: 2025-01-27T16:19:02.217Z
+updated: 2025-02-02T23:18:31.205Z
 tags:
   - windows10
   - windows11
@@ -30,15 +30,15 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
  Using a laptop? The mute function is typically found by pressing**Fn** and the corresponding**F** key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 2\. Check the Speaker Jack
 
  Next, check the speaker jack on your PC (a laptop will typically have its own audio).
 
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/computer-sound-card-e1622129361351.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Whether you're using wired headphones or a set of speakers with your PC, they will be connected to the computer with a traditional 3.5mm jack. This should be connected to the audio out socket.
 
@@ -50,11 +50,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If the card is correctly attached to the motherboard, and its power LED appears when the PC is powered up, everything should be fine. However, if you have been using the front audio jack on your PC case, check this is internally attached to the sound card. If you want to dive deep to look into jack issues, then make sure to check [how to fix an unresponsive audio jack on Windows](https://www.makeuseof.com/windows-fix-unresponsive-audio-jack/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Still No Sound From Your Speakers? Check the Power
 
  If you're using external speakers, be sure to check that these are powered on. A small red or green LED should indicate that the speakers are receiving power. Make sure they're connected to the mains electricity, too (or a USB connection, if that's how they receive power).
 
  If everything is okay here and there is still no sound, it's worth connecting the speakers to another device. This might be a different PC or even a phone or tablet. As long as it has a suitable audio port, you should be able to connect your PC speakers or headphones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Confirm That the HDMI Audio Is Selected
 
@@ -77,8 +85,9 @@ Audio should now play on your HDMI TV.
 **Right-click** the device and select**Update driver** . The updated driver should then be installed.
 
 ![update audio driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/update-audio-driver.png)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can use the same fix to update USB drivers if you use a USB headset or USB sound card.
@@ -86,15 +95,13 @@ Audio should now play on your HDMI TV.
  But if your driver really has become corrupted, then the only way out is a reinstallation. In the Device Manager, find the audio driver,**right-click** on it, and select**Uninstall device** .
 
 ![uninstall audio drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/uninstall-audio-drivers.png)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the uninstallation is complete, perform a system reboot. Your computer will install the latest driver on its own at the next boot-up.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Could Your Bluetooth Headset Be the Problem?
 
  When a cable is plugged into your computer, it's obvious that a device is connected. With Bluetooth, however, it's easy to forget.
@@ -116,15 +123,9 @@ Audio should now play on your HDMI TV.
  For example, in this Windows computer, the Realtek High Definition Audio software is equally responsible for managing the sound, as are the speakers themselves. So, if your speaker's software settings are not managed properly, it might lead to sound problems, such as your speakers not working.
 
 ![manage the speakers sound](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/manage-the-speakers-sound-1.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Check for Corruption of Windows System Files
 
  At times, corrupt Windows system files can also lead to speaker driver issues. To check and see if this is the case, run an SFC scan. This will scan and repair the corrupt system files on your PC.
@@ -149,11 +150,12 @@ Audio should now play on your HDMI TV.
 
 ![disabling enhancements from control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/disable-enhancements.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will turn off all enhancements that could be the cause of your speakers not working.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11\. Your Computer Speakers Just Aren't Working
 
  You've checked the mute and volume settings of your speakers and the integrity of the speaker jack. They're powered up and correctly connected to your computer. You've even checked and updated the device drivers.
@@ -162,9 +164,6 @@ Audio should now play on your HDMI TV.
 
  Sure, you could take the time to get your speakers repaired, but unless they're top-end pieces of audio gold, it will probably be cheaper just to buy a new set. And we've collected [the best speakers for PC gaming](https://www.makeuseof.com/best-pc-gaming-speakers/) for an easier time choosing.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Are Your Speakers Working Again?
 
  Whatever the reason for your speaker's malfunctioning, if you are a regular computer worker, then you know how working days on end without good background music can get. Hopefully, one of these tips worked out for you, and your speakers are now blasting as usual.
@@ -175,8 +174,6 @@ Audio should now play on your HDMI TV.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,8 +181,24 @@ Audio should now play on your HDMI TV.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-chromebook-audio-revamp-guide-selecting-the-leading-speech-converters-online/"><u>[New] 2024 Approved Chromebook Audio Revamp Guide Selecting the Leading Speech Converters Online</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-visions-to-reality-vrs-historical-journey/"><u>[New] 2024 Approved Visions to Reality VR's Historical Journey</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-high-definition-capturing-for-switch-gamers-for-2024/"><u>[New] High Definition Capturing for Switch Gamers for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-pioneering-the-path-to-digital-dominance-wirecast-livestreams-on-facebook/"><u>[New] In 2024, Pioneering the Path to Digital Dominance Wirecast Livestreams on Facebook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-creating-captivating-slideshows-on-the-social-media-giant/"><u>2024 Approved Creating Captivating Slideshows on the Social Media Giant</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-network-throughput-measurement/"><u>Advanced Network Throughput Measurement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissolving-onedrive-and-microsoft-id-integration-on-pcs/"><u>Dissolving OneDrive and Microsoft ID Integration on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-find-and-purge-unused-windows-folders-for-a-streamlined-pc/"><u>Efficiently Find & Purge Unused Windows Folders for a Streamlined PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-on-configuring-the-taskbar-for-windows-11-slate-devices/"><u>Expert Advice on Configuring the Taskbar for Windows 11 Slate Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006482521-football-manager-2020-stability-enhanced-no-more-crashing-issues/"><u>Football Manager 2020 Stability Enhanced - No More Crashing Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-unknown-hardware-in-windows-1011-os/"><u>How to Tackle Unknown Hardware in Windows 10/11 OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/imessages-shielded-communication-understanding-apples-proactive-approach-to-prevent-future-cyber-threats-zdnet-analysis/"><u>IMessage's Shielded Communication: Understanding Apple's Proactive Approach to Prevent Future Cyber Threats | ZDNet Analysis</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Realme 11 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-effortlessly-bypass-pin-in-windows-11-projections/"><u>Navigate Effortlessly: Bypass PIN in Windows 11 Projections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-outlooks-failing-notification-system-a-user-friendly-approach/"><u>Troubleshooting Outlook's Failing Notification System: A User-Friendly Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-vpn-connections-failed-on-windows/"><u>Troubleshooting VPN Connections Failed on Windows</u></a></li>
+</ul></div>
 

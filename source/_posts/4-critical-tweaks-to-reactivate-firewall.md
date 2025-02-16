@@ -1,7 +1,7 @@
 ---
 title: 4 Critical Tweaks to Reactivate Firewall
-date: 2024-08-16T01:13:35.186Z
-updated: 2024-08-17T01:13:35.186Z
+date: 2025-01-26T17:00:06.851Z
+updated: 2025-02-03T02:04:00.912Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
  Windows Firewall is crucial to ensure the security of your computer and protect it from potential threats. However, sometimes you may encounter issues while enabling it.
 
  Below, we explore the different solutions you can try to fix this issue for good.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run the Firewall Troubleshooter
 
@@ -43,15 +47,13 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
  Disabling the third-party antivirus software may vary depending on the program you have installed. However, a common approach is to right-click on the antivirus icon located in the taskbar. From the context menu that appears, you should find an option to disable the antivirus temporarily until you restart your computer.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After disabling the antivirus, try enabling the Windows Firewall and check if it functions properly now.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Reset the Windows Firewall settings
 
  The issue might also be with the Firewall settings. You can fix any such issues by resetting Windows Firewall settings, as it will restore the firewall configuration to its default state, undoing any customizations or changes that might be causing conflicts.
@@ -74,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 `netsh firewall set opmode mode=ENABLE exceptions=enable`
 6. Wait for the command to execute and then restart your computer. Check if the problem is now fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Modify the Registry Editor
 
  There is also a chance that a Registry key DisableAntiSpyware is enabled, which is preventing you from enabling Firewall on your computer.
@@ -94,24 +93,25 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 `​​​​​​​HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender`
 5. Move to the right side and look for the DisableAntiSpyware key. If you locate it, delete it. You can also double-click on it and change its value to 0 if you do not want to delete it.  
 ![Disable or delete the registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/antispyware-key.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 1. Once done, head over to the following location:  
 `​​​​​​​​​​​​​​HKEY_LOCAL_MACHINE/SYSTEM/CurrentControlSet/Services/BFE`
 2. Right-click on the **BFE** key and choose **Permissions** from the context menu.  
 ![Access permissions of the key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/access-permissions.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 3. Under "Group or user names", click on **Add**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Type "Everyone" in the "Enter the object names to select" and click **OK**.  
 ![Modify permissions of the key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/modify-permissions.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Now, head over to the "Permissions for Everyone" section and checkmark the box associated with **Full Control** under Allow.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click **Apply** to save the changes and check if the issue is now resolved.
 
 ## Additional Generic Fixes to Try
@@ -122,13 +122,15 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 * **Scan with SFC**: You can also scan the system for underlying corruption errors that might be leading to the problem using the [System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/). You can run it via Command Prompt and analyze the results to find the culprit.
 * **Clean install Windows**: If nothing works and it is essential for you to enable Firewall, you can [perform a clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) of Windows. It will wipe the existing installation and download a new one without any underlying problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Protect Your System With Windows Firewall
 
  The steps above should help you fix issues with Windows Firewall easily. If the error persists and you do not want to clean install the system yet, you can report the issue to Microsoft and wait for them to suggest a fix.
 
  Below, we explore the different solutions you can try to fix this issue for good.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -137,5 +139,24 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-nurturing-natural-light-within-domestic-spaces/"><u>[New] 2024 Approved Nurturing Natural Light Within Domestic Spaces</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-pushing-boundaries-nikons-d500-in-4k-landscape/"><u>[New] Pushing Boundaries Nikon's D500 in 4K Landscape</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-boosting-youtube-descriptions-with-expert-templates-for-2024/"><u>[Updated] Boosting YouTube Descriptions with Expert Templates for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-to-mp4-conversion-made-simple/"><u>[Updated] In 2024, Vimeo to MP4 Conversion Made Simple</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drivers-revival-guide-for-qualcomm-wireless-adapter/"><u>Drivers Revival Guide for Qualcomm Wireless Adapter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empower-your-windows-11-experience-advanced-run-configuration/"><u>Empower Your Windows 11 Experience: Advanced Run Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-block-windows-from-default-cmos-access-on-start/"><u>How to Block Windows From Default CMOS Access on Start</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-discovering-the-magic-behind-youtube-shorts/"><u>In 2024, Discovering the Magic Behind Youtube Shorts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/introducing-the-future-of-driving-gms-revolutionary-electric-chevy-blazer/"><u>Introducing the Future of Driving: GM's Revolutionary Electric Chevy Blazer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-cinematic-frames-a-3-way-insta-guide-for-2024/"><u>Mastering Cinematic Frames A 3-Way Insta Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-correction-of-error-1132-in-windows-11/"><u>Mastering the Correction of Error 1132 in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-xbox-game-pass-error-0x800700e9-on-windows-11/"><u>Overcoming Xbox Game Pass Error: 0X800700E9 on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-portable-projector-picks-expert-reviews-by-zdnet/"><u>Top-Rated Portable Projector Picks - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tutorial-implementing-microsoft-copilot-in-your-windows-workspace/"><u>Tutorial: Implementing Microsoft Copilot in Your Windows Workspace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-third-party-av-solutions-amidst-microsoft-guard/"><u>Unlocking Third-Party AV Solutions Amidst Microsoft Guard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-full-potential-without-tpm/"><u>Unlocking Windows 11'S Full Potential without TPM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-custom-inactive-period-setting/"><u>Windows: Custom Inactive Period Setting</u></a></li>
+</ul></div>
 

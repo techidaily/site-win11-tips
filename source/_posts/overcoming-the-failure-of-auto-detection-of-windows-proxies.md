@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Failure of Auto-Detection of Windows Proxies
-date: 2025-01-27T17:31:45.652Z
-updated: 2025-01-31T20:10:25.814Z
+date: 2025-01-29T17:02:37.225Z
+updated: 2025-02-02T20:23:03.146Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
  If the problem hasn't fixed itself after you reboot your computer and router, continue on with the more detailed steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Review Proxy Settings in Windows
 
  Because this issue is related to your Windows proxy settings, that's a sensible first place to check. To access proxy settings in Windows 10, open**Settings** , select the**Network & Internet** category, and switch to the**Proxy** tab on the left sidebar. This is in the same place on Windows 11, except**Proxy** is an item in the list instead of appearing on a sidebar.
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
  For those who do connect with a proxy, such as people in a business or school environment, you might want to check with your system administrator to make sure you have the correct proxy details here. They'll be able to speak to any issues specific to your network.
 
  After this, try reconnecting to the network again and getting online. If you still get the error, turn off**Automatically detect settings** in the proxy options and try once more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What's a Proxy Server?
 
@@ -76,10 +84,14 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 ![Windows IP Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/01/Windows-IP-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On Windows 11, go to**Settings > Network & internet** and choose**Wi-Fi** or**Ethernet** depending on the connection you're using. Then click your network name. If you don't see**Automatic (DHCP)** next to both**IP assignment** and**DNS server assignment** , click the**Edit** button next to both and set them to this value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update or Roll Back Your Network Driver
 
@@ -90,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
  Then, on the**Driver** tab, you can choose**Roll Back Driver** to uninstall the latest update and return to the previous one. Use this if you started experiencing this issue after updating—though it might not be available in all cases.
 
 ![Windows 10 Device Manager Update Roll Back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Device-Manager-Update-Roll-Back.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to[manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
 
@@ -113,27 +121,27 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 `ipconfig /flushdns`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Review Firewall, VPN, and Antivirus Software
 
 ![Windows 10 firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/firewall-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You should next make sure you don't have a firewall, VPN, or security suite interfering with your network connection. Perhaps your chosen software had an update that changed an option you weren't aware of, or you just installed a new app that changed proxy settings for some reason.
 
  Try disabling your firewall, VPN, and antivirus software one at a time, then see if the error goes away. If it does, the issue lies with one of those apps. You'll need to configure them to avoid interfering with regular network activity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Scan for Malware
 
  Some malware can continually mess with your proxy settings to prevent you from getting online. If you run into the "Windows could not detect this network's proxy settings" message every time you reboot, you may be a victim of this.
 
  You should thus run a scan with a trusted anti-malware app, like[Malwarebytes](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36219/https://try.malwarebytes.com/get-premium/?cjdata=MXxOfDB8WXww&c=cj&s=4112715&k=14452255&utm%5Fsource=cj&utm%5Fmedium=aff&utm%5Fcontent=14452255&utm%5Fcampaign=AFF-CJ%5F4112715&tracking=cj&x-wts=cj&x-affid=4112715&ADDITIONAL%5FAFFID=cj-4112715&cjevent=c8d316be6e5311ee835c008b0a82b82a&clickid=c8d316be6e5311ee835c008b0a82b82a&pid=cj%5Fint) . This will detect any malware running on your system and get rid of it. If the scan finds any infections, take the recommended action and see if your connection works normally again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Utilize a Restore Point
 
@@ -144,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
  In the resulting**System Properties** dialog box on the**System Protection** tab, click**System Restore** to open a new window. Windows will walk you through choosing a restore point and confirming the operation. Of course, if your computer hasn't created any restore points, you can't use this feature.
 
 ![choose a specific restore point and click on next](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/click-on-a-restore-point.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note that using a restore point will remove any programs and drivers you've installed since making that restore point. You can click**Scan for affected programs** on a restore point to see what effect it will have. Using a System Restore won't affect any of your personal files.
 
@@ -160,10 +164,6 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
  Thankfully, Windows 10 makes it easy to reset your whole configuration. Open**Settings > Network & Internet** . On the**Status** tab, find**Network reset** at the bottom and click it. On Windows 11, this is under **Settings > Network & internet > Advanced network settings > Network reset** instead.
 
  Be aware that this will remove all network information from your computer, so you'll need to reconnect to saved networks again. If you're OK with this, click**Reset now** . Your computer will perform the reset, then restart.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Windows Could Not Detect Proxy Settings: Resolved
 
@@ -186,20 +186,22 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-cant-skip-them-10-most-popular-tiktok-tests/"><u>[Updated] 2024 Approved Can't Skip Them 10 Most Popular TikTok Tests</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-moolah-on-youtube-a-creators-handbook-for-2024/"><u>[Updated] Maximizing Moolah on YouTube A Creator's Handbook for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/comprehensive-instructions-effective-strategies-for-hyper-v-virtual-machine-snapshots-and-restores/"><u>Comprehensive Instructions: Effective Strategies for Hyper-V Virtual Machine Snapshots and Restores</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-specified-user-does-not-have-a-valid-profile-app-error-in-windows-11-and-11/"><u>How to Fix the Specified User Does Not Have a Valid Profile App Error in Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leapfrog-yuzu-load-times-windows-style/"><u>Leapfrog Yuzu Load Times, Windows Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-fixing-file-transfers-on-win11-systems/"><u>Overcoming Obstacles: Fixing File Transfers on WIN11 Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/perfect-integration-plugins-chatgpt-and-vs-code-unite/"><u>Perfect Integration Plugins: ChatGPT & VS Code Unite</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/printscreen-versus-snip-and-sketch-for-effective-captures/"><u>PrintScreen versus Snip & Sketch for Effective Captures</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/professionals-palette-prowess-color-command-secrets-for-2024/"><u>Professionals' Palette Prowess - Color Command Secrets for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-discrepancies-with-admin-controlled-options-on-windows-11/"><u>Solving Discrepancies with Admin-Controlled Options on Windows 11</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-review-exploring-every-aspect-of-the-samsung-smartwatch-with-an-array-of-functions-the-gear-s3-frontier/"><u>Top Rated Review: Exploring Every Aspect of the Samsung Smartwatch with an Array of Functions - The Gear S3 Frontier</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tutorial-enhancing-windows-11-sounds-with-dolby-atmos/"><u>Tutorial: Enhancing Windows 11 Sounds with Dolby Atmos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-guide-to-the-most-effective-h265-converters-of-202n-find-your-perfect-match-for-pc-and-mac/"><u>Ultimate Guide to the Most Effective H.265 Converters of 202N: Find Your Perfect Match for PC & Mac</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/windows-11-and-security-does-it-ship-with-built-in-windows-defender-explored-by-yl-software-experts/"><u>Windows 11 and Security: Does It Ship With Built-In Windows Defender? - Explored by YL Software Experts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-guide-stopping-screen-flashing/"><u>Windows 11 Guide: Stopping Screen Flashing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-balancing-creativity-and-logic-in-gaming-videos-for-2024/"><u>[New] Balancing Creativity and Logic in Gaming Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-elite-web-based-voice-recorders-the-best-of-2023-for-2024/"><u>[New] Elite Web-Based Voice Recorders - The Best of 2023 for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-understanding-invisible-social-signals-in-online-media/"><u>[New] In 2024, Understanding Invisible Social Signals in Online Media</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-fading-frequencies-the-gentle-way-with-garageband/"><u>2024 Approved Fading Frequencies The Gentle Way with Garageband</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convenient-cleanup-integrating-uninstall-shortcuts-into-wins-interface/"><u>Convenient Cleanup: Integrating Uninstall Shortcuts Into Win's Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-sudden-win-device-disconnections/"><u>Essential Fixes for Sudden Win Device Disconnections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-halt-automatic-windows-11-reboots/"><u>How to Halt Automatic Windows 11 Reboots</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-a-compelling-movie-mini-epic/"><u>In 2024, Crafting a Compelling Movie Mini-Epic</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-se-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone SE? Learn All 4 Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-websites-for-modern-letterforms/"><u>In 2024, Pioneering Websites for Modern Letterforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-server-slip-solutions-for-microsoft-store-errors/"><u>Mastering Server Slip Solutions for Microsoft Store Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-update-failure-problem-error-code-0x80070003/"><u>Navigating Through Windows' Update Failure Problem (Error Code: 0X80070003)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-file-explorer-top-troubleshooting-for-win11/"><u>Revive Your File Explorer: Top Troubleshooting for Win11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/splitting-scripts-crafting-7-hilarious-youtube-scenes-for-2024/"><u>Side-Splitting Scripts Crafting 7 Hilarious YouTube Scenes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-embellishing-system-tray-with-weather-icons-in-windows-11/"><u>The Complete Guide to Embellishing System Tray with Weather Icons in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-desktop-drawing-tips-and-tricks-compilation/"><u>Windows Desktop Drawing: Tips & Tricks Compilation</u></a></li>
 </ul></div>
 

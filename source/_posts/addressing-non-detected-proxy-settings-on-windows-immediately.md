@@ -1,7 +1,7 @@
 ---
 title: Addressing Non-Detected Proxy Settings on Windows Immediately
-date: 2024-08-16T01:12:22.466Z
-updated: 2024-08-17T01:12:22.466Z
+date: 2025-02-01T19:04:20.875Z
+updated: 2025-02-02T19:08:36.919Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 
  What does this mean, and how do you fix it? Let's take a look at Windows' proxy settings and the steps to repair this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Reboot Your Computer and Router
 
  Before you launch into any specific troubleshooting, it's always a good idea to restart your equipment first. There's a chance that this will clear up your issue in a few moments.
@@ -37,13 +41,14 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
  Here you'll see a list of options related to proxy servers. If you don't use a proxy (as is the case for most home users), make sure that**Use a proxy server** near the bottom is turned off. Leave**Automatically detect settings** on if it is already.
 
 ![Windows 10 Proxy Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Proxy-Settings-Menu.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  For those who do connect with a proxy, such as people in a business or school environment, you might want to check with your system administrator to make sure you have the correct proxy details here. They'll be able to speak to any issues specific to your network.
 
  After this, try reconnecting to the network again and getting online. If you still get the error, turn off**Automatically detect settings** in the proxy options and try once more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What's a Proxy Server?
 
@@ -55,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 
  These are most common in business and school use, where system administrators use them for security and efficiency. It's very unlikely that you would use a proxy server on your home network, unless you specifically set one up. This is why in most home cases, you should clear any proxy settings that might exist when you run into this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the Network Adapter Troubleshooter
 
  When you right-click on the network connection icon in your System Tray and choose to troubleshoot, it runs the**Internet Connections** troubleshooter. This is what results in the "Windows could not detect proxy settings" error. But there's another network troubleshooter you can run that might provide more help.
@@ -76,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 
 ![Windows IP Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/01/Windows-IP-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On Windows 11, go to**Settings > Network & internet** and choose**Wi-Fi** or**Ethernet** depending on the connection you're using. Then click your network name. If you don't see**Automatic (DHCP)** next to both**IP assignment** and**DNS server assignment** , click the**Edit** button next to both and set them to this value.
 
 ## 5\. Update or Roll Back Your Network Driver
@@ -87,15 +93,9 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
  Then, on the**Driver** tab, you can choose**Roll Back Driver** to uninstall the latest update and return to the previous one. Use this if you started experiencing this issue after updating—though it might not be available in all cases.
 
 ![Windows 10 Device Manager Update Roll Back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Device-Manager-Update-Roll-Back.png)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to [manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## 6\. Reset Network Configuration via the Command Prompt
 
  Windows offers many network troubleshooting tools through the Command Prompt. A few quick commands can often clear up your issue in moments. If you're still having trouble at this point, right-click the Start button again and open a Command Prompt, PowerShell, or Windows Terminal window with administrator rights.
@@ -112,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 
 `ipconfig /flushdns`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Review Firewall, VPN, and Antivirus Software
 
 ![Windows 10 firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/firewall-settings.png)
@@ -121,17 +125,15 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
  Try disabling your firewall, VPN, and antivirus software one at a time, then see if the error goes away. If it does, the issue lies with one of those apps. You'll need to configure them to avoid interfering with regular network activity.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Scan for Malware
 
  Some malware can continually mess with your proxy settings to prevent you from getting online. If you run into the "Windows could not detect this network's proxy settings" message every time you reboot, you may be a victim of this.
 
  You should thus run a scan with a trusted anti-malware app, like [Malwarebytes](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36219/https://try.malwarebytes.com/get-premium/?cjdata=MXxOfDB8WXww&c=cj&s=4112715&k=14452255&utm%5Fsource=cj&utm%5Fmedium=aff&utm%5Fcontent=14452255&utm%5Fcampaign=AFF-CJ%5F4112715&tracking=cj&x-wts=cj&x-affid=4112715&ADDITIONAL%5FAFFID=cj-4112715&cjevent=c8d316be6e5311ee835c008b0a82b82a&clickid=c8d316be6e5311ee835c008b0a82b82a&pid=cj%5Fint) . This will detect any malware running on your system and get rid of it. If the scan finds any infections, take the recommended action and see if your connection works normally again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## 9\. Utilize a Restore Point
 
 [The System Restore feature in Windows](http://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) lets you return to a previous point at which your computer was working normally. If your issues started recently, you should try this to see if you can go back in time.
@@ -145,15 +147,12 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
  Note that using a restore point will remove any programs and drivers you've installed since making that restore point. You can click**Scan for affected programs** on a restore point to see what effect it will have. Using a System Restore won't affect any of your personal files.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Reset Your Network Settings
 
 ![Windows 10 Network Reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Network-Reset.png)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After trying everything above, you should resort to a full reset of your network configuration in Windows. You've already spent a lot of time working on this, and a reset should clear whatever persistent problem is blocking your connection with this "cannot detect proxy settings" error.
 
@@ -167,14 +166,11 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 
  Otherwise, some standard network troubleshooting should have you all patched up and ready to get back online.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,8 +179,24 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-utilizing-tailored-volume-reduction-in-audacity/"><u>[New] In 2024, Utilizing Tailored Volume Reduction in Audacity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unleash-your-creative-genius-with-iphone-x-camera/"><u>[New] Unleash Your Creative Genius with iPhone X Camera</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/asus-zenbook-14-oled-review-pcmac-comparison/"><u>ASUS Zenbook 14 OLED Review: PC/Mac Comparison?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-file-sync-solutions-for-windows-users/"><u>Best File Sync Solutions for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-failures-qt-platform-support-error-at-launch/"><u>Correcting Failures: 'Qt Platform Support' Error at Launch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-incorrect-parameters-for-winloadlib/"><u>Dealing with Incorrect Parameters for WinLoadLib</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-w11-desktop-customization-essentials/"><u>Effortless W11 Desktop Customization Essentials</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-way-to-get-the-newest-graphics-card-software-for-your-amd-rx-580-driver-downloads-and-updates/"><u>Effortless Way to Get the Newest Graphics Card Software for Your AMD RX 580: Driver Downloads and Updates</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/ignite-conversations-top-10-creative-reaction-insights-for-videos/"><u>Ignite Conversations Top 10 Creative Reaction Insights for Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-sweating-to-top-exercromise-anthems-and-rhythms/"><u>In 2024, Get Sweating to Top Exercromise Anthems and Rhythms</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s24plus-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S24+ Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tailoring-talent-to-treasure-the-proactive-pursuit-of-video-profitability/"><u>In 2024, Tailoring Talent to Treasure The Proactive Pursuit of Video Profitability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-directory-management-without-renaming-features-in-windows-11/"><u>Mastering Directory Management without Renaming Features in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-absent-d3dx939dll-on-windows-11/"><u>Remedying Absent D3DX9_39.dll on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-disabled-volume-snapshots/"><u>Restoring Functionality to Disabled Volume Snapshots</u></a></li>
+</ul></div>
 

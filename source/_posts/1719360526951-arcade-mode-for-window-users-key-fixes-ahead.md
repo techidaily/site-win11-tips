@@ -1,7 +1,7 @@
 ---
 title: "Arcade Mode for Window Users: Key Fixes Ahead"
-date: 2024-08-16T01:14:04.154Z
-updated: 2024-08-17T01:14:04.154Z
+date: 2025-01-31T21:07:01.243Z
+updated: 2025-02-03T00:22:44.002Z
 tags:
   - windows10
   - windows11
@@ -37,15 +37,13 @@ To run the troubleshooter, follow these steps:
 msdt.exe -id DeviceDiagnostic
 3. The Hardware and Devices Troubleshooter will now open. Click**Next** to start the scan process, and follow the instructions on the screen.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you complete the above steps, restart your computer and check if the arrow keys are now working.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the Keyboard Troubleshooter
 
  If the arrow keys still don’t work, you can run the “Keyboard Troubleshooter”. This tool is similar to the “Hardware and Devices” troubleshooter, but it focuses on keyboard issues. To run it, follow these steps:
@@ -54,11 +52,12 @@ msdt.exe -id DeviceDiagnostic
 2. In the Settings menu, click**System > Troubleshoot > Other troubleshooters** .
 3. Scroll down to the**Keyboard** section and click**Run** .  
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the process and then check if it solves the issue. If not, continue to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Try Using a Different Keyboard
 
@@ -75,13 +74,16 @@ msdt.exe -id DeviceDiagnostic
 3. In the Device Manager window, expand the**Keyboards** category.
 4. Right-click the keyboard entry and select**Update driver** .  
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Choose**Search automatically for drivers** .  
-![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait until the process is complete, then restart your computer. After the restart, check if the arrow keys are now working. If not, reinstall the keyboard driver and see if it works.
@@ -94,20 +96,18 @@ To reinstall the keyboard driver, follow these steps:
  After you uninstall it, restart your computer and the driver will be reinstalled automatically. Once your computer restarts, check if the arrow keys are now working.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Arrows on the Keyboard Are Now Working
 
  Have you got a problem with your keyboard arrows? It's likely due to outdated or corrupted keyboard drivers in your operating system. You might also have problems with hardware issues like a defective or faulty keyboard. Read this guide, it will help you fix the error and get your arrow keys working again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,8 +116,21 @@ To reinstall the keyboard driver, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-guide-converting-youtube-videos-to-mpegmp4/"><u>[New] In 2024, Essential Guide Converting YouTube Videos to MPEG/MP4</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-young-prodigys-riches-soar-in-digital-world-fame/"><u>[Updated] In 2024, Young Prodigy's Riches Soar in Digital World Fame</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-lsassexe-component-not-found-error-in-windows/"><u>Addressing lsass.exe Component Not Found Error in Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/bypassing-the-dvd-shrink-not-working-hurdle-for-windows-10-users-effective-solutions-and-tips/"><u>Bypassing the 'DVD Shrink Not Working' Hurdle for Windows 10 Users: Effective Solutions and Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-persistent-enter-network-credentials-message-on-windows/"><u>How to Fix a Persistent Enter Network Credentials Message on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-spark-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-realme-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Realme</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-14-ultra-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/record-desktop-on-windows-3-simple-cost-free-methods/"><u>Record Desktop on Windows 3 Simple, Cost-Free Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-approach-to-configure-win11s-dns-client-service/"><u>Step-by-Step Approach to Configure Win11's DNS Client Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-windows-security-faults-effectively/"><u>Steps to Tackle Windows Security Faults Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-connectivity-issues-with-geforce-experience-software/"><u>Tackling Connectivity Issues with GeForce Experience Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unpacking-and-solving-the-mystery-of-error-0x8007251d/"><u>Unpacking and Solving the Mystery of Error 0X8007251d</u></a></li>
+</ul></div>
 

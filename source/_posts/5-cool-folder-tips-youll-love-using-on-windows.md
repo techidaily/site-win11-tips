@@ -1,7 +1,7 @@
 ---
 title: 5 Cool Folder Tips You'll Love Using on Windows
-date: 2024-08-16T01:14:31.111Z
-updated: 2024-08-17T01:14:31.111Z
+date: 2025-01-28T20:49:36.800Z
+updated: 2025-02-02T20:57:07.632Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,11 @@ thumbnail: https://thmb.techidaily.com/740b68b56d6bbac7152f3eef9f605d6bffa61f711
 2. The name field of the folder will disappear—actually, it's still there but becomes invisible.  
 ![Folder on Desktop With Name Field Invisible](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/name-field-of-folder-invisible-1.jpg)
 3. Then make the folder invisible too. **Right-click** the folder and choose **Properties** from the menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In **Properties**, select the **Customize** tab. Then under **Folder icons**, select **Change icon**.  
 ![Select Change Icon In Customize Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-icon-in-customize-tab.jpg)
 5. In the **Change Icon for Folder** window scroll to the right with the arrow key to reach a blank space. This blank space is a blank icon—you will know when you select it. Then click on **OK**.  
@@ -56,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/740b68b56d6bbac7152f3eef9f605d6bffa61f711
 
  This way, you can name several folders together—quickly and easily.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 3\. Duplicate a Folder Window
 
  This simple tip will save time and enhance your efficiency.
@@ -67,22 +68,19 @@ DbSchema database designer for all databases, schema design in the team, schema 
  When you're working within a folder that is open on your screen, press the **Ctrl + N** keys together. The folder window you're in will get duplicated.
 
 ![Duplicate Folder Window Created](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/duplicate-folder-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 
  Now with two folder windows, you can move and navigate easily between subfolders and files.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Change Folder Size With the Mouse
 
  You'll find this tip handy if you use a desktop PC with a mouse or a mouse with your laptop.
 
 1. Left-click with your mouse on the desktop, in File Explorer, or within a folder.
 2. Press and hold the **ctrl** key. Then use your **mouse scroll wheel** to change the size of folders on the desktop or subfolders within a folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Find Hidden Folders You Forgot About
 
@@ -94,18 +92,25 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Click the **View** tab.
 3. Then click **Options** and then **Change folder and search options**.  
 ![Select Change Folder and Search Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-folder-options-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 4. In **Folder Options**, select the **View** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Under **Advanced settings**, turn on the option to **Show hidden files, folders, and drives**. Then click **OK**.  
 ![Select Show Hidden Files, Folders, and Drives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-show-hidden-folders.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On Windows 11 and new Windows 10 versions, click the **View** tab in **File Explorer**.
 
 ![Hidden Items Checkbox Ticked in View Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tick-hidden-items-options.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then tick the checkbox next to **Hidden items** to make the hidden files and folders visible. You can then access the folders you are looking for.
@@ -113,15 +118,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
  You can also explore [many other folder options in File Explorer](https://www.makeuseof.com/windows-folder-options-guide/) and learn how to enable them to suit your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use and Enjoy These Folder Tips and Tricks
 
  You'll find the folder tips and tricks explained above simple and easy—you'll enjoy using them. Try them to save time, work smarter, and elevate your Windows experience.
 
  Surely you'd like to know ways to make working with folders easier and better. So here are a few quick folder tips and tricks that make things easy and fun.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -130,5 +134,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-compelling-list-of-premium-free-phone-video-chat-applications-iosandroid/"><u>[New] 2024 Approved Compelling List of Premium-Free Phone Video Chat Applications (iOS/Android)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-essential-free-online-editor-suites-ranked-15/"><u>[Updated] Essential Free Online Editor Suites - Ranked #15</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bf-price-war-save-612-on-endless-win10-lifetime-life/"><u>BF Price War: Save $6.12 on Endless Win10 Lifetime Life</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-lava-agni-2-5g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Lava Agni 2 5G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-a34-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy A34 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-sony-s6500-revisited-fresh-take-on-media-playback/"><u>In 2024, Sony S6500 Revisited Fresh Take on Media Playback</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-constraints-a-guide-to-gpts-restrictions/"><u>Mastering Constraints: A Guide to GPT's Restrictions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-error-code-0xc00000f-strategies-for-success/"><u>Mastery over Windows Error Code 0Xc00000f: Strategies for Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-hidden-paths-of-window-menus-on-pc/"><u>Navigating the Hidden Paths of Window Menus on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-gmaps-windows-pc-guide/"><u>Setting Up GMaps: Windows PC Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-instructions-to-downloading-steelseries-keyboard-engine-driver/"><u>Step-by-Step Instructions to Downloading SteelSeries Keyboard Engine Driver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-synapse-unidentified-razer-peripherals-on-win-11/"><u>Troubleshooting Synapse: Unidentified Razer Peripherals on Win 11</u></a></li>
+<li><a href="https://discover-data.techidaily.com/ultimate-selection-of-complimentary-mac-to-pc-file-sharing-solutions/"><u>Ultimate Selection of Complimentary Mac to PC File Sharing Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-of-windows-settings-dim-display/"><u>Unveiling the Secrets of Windows Settings: 'Dim Display'</u></a></li>
+</ul></div>
 

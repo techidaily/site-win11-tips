@@ -1,7 +1,7 @@
 ---
 title: Strategies for Java VM Initialization Fixes on Windows
-date: 2025-01-25T06:12:22.354Z
-updated: 2025-01-31T18:18:23.549Z
+date: 2025-01-26T20:10:25.504Z
+updated: 2025-02-02T19:23:43.164Z
 tags:
   - windows10
   - windows11
@@ -27,13 +27,13 @@ thumbnail: https://thmb.techidaily.com/0cc7e321d1f451639d7bc59d3e2137f7bee3ef2e1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Verify Your Java Installation
 
 ![verify java installation command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/verify-java-intallation-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Verifying your Java installation can help you determine issues with the release itself. You can use the**java -version** command in Command Prompt to check the current version of Java installed along with the date of installation.
 
@@ -49,6 +49,10 @@ To check the Java version installed on Windows:
 ## 2\. End the Java Process in Task Manager
 
 ![end java process task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-java-process-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the error is triggered when installing Java, check if a Java process is running in the background. You can use Task Manager to find and end background processes that may prevent you from installing the Java Runtime Environment or the development kit.
 
@@ -80,12 +84,12 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![The Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-variables-button.jpg)
 4. In the**System Variables** section, click**New** . It is important to select the correct section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows new system variable java options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-new-system-variable-java-options.jpg)
 5. Type**\-JAVA\_OPTIONS** in the**Variable name** field.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Next, type**\-Xmx512M** in the**Variable value** field. Here,**\-Xmx512M** defines the amount of memory you want to allocate. In this case, it is**512MB** of system memory.
 7. Click**OK** , and**OK** once more to save the changes.
@@ -103,26 +107,26 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 4. In the**Java Control Panel** dialog, open the**Java** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click the**View** button.  
 ![java control panel java tab view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-control-panel-java-tab-view.jpg)
 6. Double-click on the**Runtime Parameters** column and type**\-Xmx512m** to assign 512 MB memory for the Java apps.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Java runtime environment settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-runtime-environment-settings.jpg)
 7. Click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Uninstall and Reinstall Java
 
 ![uninstall java Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-java.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the issue persists, a reinstall may be necessary. You can uninstall and reinstall Java to fix any issues with the release. These issues may remain even if you install a newer version. To fix the issue, uninstall Java using the Java uninstaller and then reinstall the latest version available.
@@ -140,10 +144,6 @@ To clean install Java:
 ## 6\. Install Java in a WindowsClean Boot State
 
  In Clean Boot State, Windows starts with only essential Microsoft services and apps. It’s a troubleshooting method to determine and find third-party app conflicts causing system errors. If you continue to see the error when installing Java,[start your Windows computer in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) and try installing it again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the "Could Not Create the Java Virtual Machine" Error on Windows
 
@@ -166,16 +166,18 @@ To clean install Java:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-boost-your-snapchat-speed-a-basic-beginners-guide/"><u>[Updated] Boost Your Snapchat Speed A Basic Beginner's Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-professional-choice-top-10-4k-dslr-stands-for-filmmakers/"><u>[Updated] In 2024, Professional Choice Top 10 4K DSLR Stands for Filmmakers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-masterclass-approach-unveiling-the-secrets-of-flawless-mobizen-recordings/"><u>[Updated] Masterclass Approach Unveiling the Secrets of Flawless Mobizen Recordings</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-spicing-up-chats-with-gifs-a-complete-snapchat-tutorial/"><u>[Updated] Spicing Up Chats with GIFs A Complete Snapchat Tutorial</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-cinematic-art-with-top-ten-professional-tools/"><u>2024 Approved Mastering Cinematic Art with Top Ten Professional Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/five-slick-methods-to-access-your-windows-assistants/"><u>Five Slick Methods to Access Your Windows Assistants</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-taking-it-upward-panning-high-with-your-phone/"><u>In 2024, Taking It Upward Panning High with Your Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-quick-access-the-10-windows-restore-paths/"><u>Mastering Quick Access: The 10 Windows Restore Paths</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-and-correcting-windows-error-403-on-roblox/"><u>Navigating and Correcting Windows Error 403 on Roblox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-unblocking-resources-in-windows-11/"><u>Strategies for Unblocking Resources in Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-step-by-step-minecraft-video-editing-process/"><u>[New] Step-by-Step Minecraft Video Editing Process</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-best-student-friendly-history-vid-hubs-1-10/"><u>[Updated] 2024 Approved Best Student-Friendly History Vid Hubs (#1-10)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-effortlesssave-expert-perspective/"><u>2024 Approved EffortlessSave Expert Perspective</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guides-to-restore-lock-screen-timeout-mechanism/"><u>Guides to Restore Lock Screen Timeout Mechanism</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-pro-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/launchpad-to-success-as-a-prompt-system-designer/"><u>Launchpad to Success as a Prompt System Designer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-save-settings-restoration-in-windows-1011s-pubg/"><u>Mastering Save Settings Restoration in Windows 10/11'S PUBG</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-ad-ds-printer-fails-in-win-1011/"><u>Resolving AD DS Printer Fails in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switchtonightvisioninnotepadwin/"><u>SwitchToNightVisionInNotepadWin</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/time-honored-treasures-free-of-restrictions/"><u>Time-Honored Treasures, Free of Restrictions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-platforms-overview-facebook-twitter-instagram-youtube/"><u>Top Social Platforms Overview: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-temporary-file-hassles-resolved-instantly/"><u>Windows' Temporary File Hassles Resolved Instantly</u></a></li>
 </ul></div>
 

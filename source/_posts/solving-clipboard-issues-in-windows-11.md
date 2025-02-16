@@ -1,7 +1,7 @@
 ---
 title: Solving Clipboard Issues in Windows 11
-date: 2025-01-27T20:46:12.490Z
-updated: 2025-02-01T07:28:47.979Z
+date: 2025-01-30T01:39:01.755Z
+updated: 2025-02-03T01:55:27.270Z
 tags:
   - windows10
   - windows11
@@ -45,158 +45,6 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 
 ![Windows 11 Settings app showing the Clipboard settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-settings-app-showing-the-clipboard-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- If the issue persists, perform a quick restart to refresh hardware components and Windows services and apps to fix temporary glitches with your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 2\. Perform a Clean Boot
-
- You can [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) to determine if a third-party app conflict is causing the copy-and-paste functionality to malfunction. Third-party app conflicts are among the common contributing factors to this problem.
-
- In clean boot mode, Windows starts with a minimal set of drivers. To do this, you will need to manually disable all the non-essential services and startup programs and restart your PC. To perform a clean boot:
-
-1. Press **Win + R** to open **Run**.
-2. Type **msconfig.msc** and click **OK** to open **System Configuration**. You can also search for system configuration in **Windows Search** and open the app.
-3. In the **System Configuration** window, open the **Services** tab.  
-![Windows 11 System Configuration App showing Hide all Microsoft services option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/hide-all-microsoft-services-clean-boot-windows-11.jpg)
-4. Check the **Hide all Microsoft services** box. This will hide all the essential system services necessary to operate the system so that you don’t accidentally disable them.
-
-5. Click the **Disable All** button to disable third-party services.
-
-1. Open the **Startup** tab and click **Open Task Manager.**
-2. The Task Manager will open in the **Startup** tab.  
-![Windows 11 Task Manager showing the Startup tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/disable-startup-apps-windows-11.jpg)
-3. Select all the **Startup** apps one by one and click **Disable**.
-
-4. Once you have disabled all the startup apps, go back to the **System Configuration** dialog. Click **Apply** and **OK** to save the changes.
-5. Click **Restart** to reboot your PC in clean boot mode.
-
- After the restart, see if you can successfully copy and paste. If the problem is fixed, it's safe to assume a third-party app caused it. To find the troublesome app, open Task Manager and start enabling startup apps one by one until you find the problematic app.
-
- If the issue persists in the clean boot mode, proceed with the next steps. Before that, enable all the disabled services in System Configuration.
-
- To disable the clean boot mode and start Windows normally, open the **System Configuration** utility, go to the **General** tab, then select the **normal startup** option.
-
-![Windows 11 System Configuration dialog.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/normal-startup-windows-11-system-configuration.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- Click **Apply** and **OK** to save the changes. When prompted, click **Restart Now** to reboot your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 3\. Update Your Windows
-
- If the clipboard issue is caused by a known Windows 11 bug, check the Windows Update tab to see if a new patch or fix is available.
-
- To install Windows updates:
-
-1. Open **Start** and click on **Settings**.
-2. Next, open the **Windows Update** tab in the left pane.
-3. If you don't see pending updates, click on **Check for updates.** Windows will look for new updates and list them accordingly.
-4. Install all critical updates and restart your PC.
-
-![Windows 11 Settings showing the Windows Update tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/check-for-windows-update.jpg)
-
-## 4\. Restart File Explorer
-
- File Explorer helps you navigate through the directories and browse files on Windows. Since it is an integral part of the Windows graphical user interface, [restarting the File Explorer process](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) can help you restore the copy-and-paste function in Windows 11\.
-
- To restart File Explorer:
-
-1. Press **Win + X** to open the **WinX** menu.
-2. Click on **Task Manager** to open the app.
-3. In the **Processes** tab, locate and select **Windows Explorer.**
-4. Next, click on **Restart** to restart the process. Your screen may flicker when File Explorer restarts.
-
-![Windows 11 Task Manager showing the Windows Explorer process.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/restart-windows-file-explorer.jpg)
-
-## 5\. Run the Keyboard Troubleshooter
-
- Windows 11 features a built-in keyboard troubleshooter to find and fix common issues. It fixes issues triggered due to malfunctioning drivers and incorrect keyboard configuration.
-
- To run the keyboard troubleshooter:
-
-1. Press **Win + I** to open **Settings**.
-2. In the **System** tab, scroll down and click on **Troubleshoot**.  
-![Windows 11 Settings app showing the Troubleshoot option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-11-troubleshoot.jpg)
-3. Next, click on **Other troubleshooters**.  
-![Windows 11 Settings showing the Keyboard troubleshooter option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-keyboard-troubleshooter-windows-11.jpg)
-4. Scroll down to **Keyboard** and click on **Run**. Wait for the troubleshooter to detect and fix any issues with your keyboard.
-
- The keyboard troubleshooter may not be available on Windows 11 23H2 and above. If so, you can run it using Command Prompt.
-
- So, click **Start**, type **cmd**, and click to open **Command Prompt** from search results. In Command Prompt, type the following command and press Enter:
-
-`msdt.exe /id KeyboardDiagnostic`
-
- In the Keyboard troubleshooter dialog, click **Advanced**, select the **Apply repairs automatically** option, and click **Next**. The troubleshooter will scan your computer for known keyboard issues and try to fix them automatically.
-
-## 6\. Reset the rdpclip.exe Process
-
- If the copy-paste function does not work when using Remote Desktop Connection, restarting the Rdpclip.exe process can help you copy and paste text and files between your local and remote computers.
-
-![Windows 11 Task Manager showing end task option for rdpclip-exe process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-showing-end-task-option-for-rdpclip-exe-process.png)
-
- To restart the rdpclip.exe process, press **Win+X** and choose **Task Manager**. In Task Manager, open the **Details** tab and locate the **rdpclip.exe** process. To end the process, right-click on **rdpclip.exe** and choose **End task**.
-
-![Windows 11 Task Manager create new task dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-create-new-task-dialog.png)
-
- To restart the process, in the Task Manager, click **Run new task**, type **rdpclip.exe**, and click **OK**.
-
-## 7\. Check Your Keyboard for Hardware Issues
-
- If you have [remapped your keyboard keys on Windows,](https://www.makeuseof.com/tag/missing-key-remap-fix-keyboard-layout/) make sure the **Ctrl + C / Ctrl + V** shortcut is set correctly. Also, look for issues with the Ctrl keys. Your keyboard likely features multiple Ctrl keys. Try to use the additional Ctrl key at the bottom right of your keyboard to copy and paste. If it works, you are likely dealing with a faulty left Ctrl key. If there is a faulty key, there are ways to [fix broken keys on your computer keyboard](https://www.makeuseof.com/how-to-fix-keyboard-keys/).
-
-## 8\. Run the System File Checker
-
- If your keyboard is working, scan your system for potential system file corruption. The built-in System File Checker and Deployment Image Service and Management tool can find and fix system-level errors.
-
- To run the System File Checker tool, open the Command Prompt as Administrator and execute the commands:
-
-1. Press the **Win** key, and type **cmd**.
-2. Right-click on **Command Prompt** and select **Run as administrator.**  
-![Windows 11 Command Prompt running the System File Checker utility.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-system-file-checker.png)
-3. In the Command Prompt window, type the following commands one by one and press Enter:  
-
-`DISM /Online /Cleanup-Image /RestoreHealth  
-Sfc /scannow`
-4. First, DISM will scan and repair the Windows image. Then System File Checker will begin the verification phase. It will scan for all protected system files and replace corrupted or missing files. This process may take some time, so wait till the verification is 100% complete.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 9\. Create a New Local User Account
-
- You can create a new local user account in Windows 11 to check if the problem is limited to the current user. You can [create a new local user account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) using the Accounts option in the Settings app.
-
- Once done, log in to your new local account and try to perform a copy-paste. If it works, you can [try to repair the previous account account](https://www.makeuseof.com/tag/recover-lost-windows-10-user-profile/) or continue to use the new local account.
-
- If nothing helps, try to repair and install Windows 11\. This involves performing an in-place upgrade to reinstall the OS without affecting your system settings or files.
-
- Windows 11 comes with an improved clipboard that lets you copy multiple items to the clipboard and paste them as needed. However, the copy and paste function can stop working on your Windows 11 computer.
-
- This issue can occur because of corrupt system files or temporary glitches with Windows File Explorer. Here are a few troubleshooting steps to help you fix and restore the copy-and-paste functionality in Windows 11\.
-
-## 1\. Clear Clipboard Data
-
- If conflicting data formats and corrupted data are causing the issue, [clearing your clipboard data](https://www.makeuseof.com/windows-11-clear-clipboard-history/) can help. Doing so will delete your clipboard history, except for pinned items.
-
- To do this, press **Win+I** to open **Settings** and go to **System > Clipboard**. Click the **Clear** button next to **Clear clipboard data** to delete the history.
-
-![Windows 11 Settings app showing the Clipboard settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-settings-app-showing-the-clipboard-settings.png)
-
  If the issue persists, perform a quick restart to refresh hardware components and Windows services and apps to fix temporary glitches with your computer.
 
 ## 2\. Perform a Clean Boot
@@ -210,144 +58,10 @@ Sfc /scannow`
 3. In the **System Configuration** window, open the **Services** tab.  
 ![Windows 11 System Configuration App showing Hide all Microsoft services option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/hide-all-microsoft-services-clean-boot-windows-11.jpg)
 4. Check the **Hide all Microsoft services** box. This will hide all the essential system services necessary to operate the system so that you don’t accidentally disable them.
-5. Click the **Disable All** button to disable third-party services.
-
-1. Open the **Startup** tab and click **Open Task Manager.**
-2. The Task Manager will open in the **Startup** tab.  
-![Windows 11 Task Manager showing the Startup tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/disable-startup-apps-windows-11.jpg)
-3. Select all the **Startup** apps one by one and click **Disable**.
-
-4. Once you have disabled all the startup apps, go back to the **System Configuration** dialog. Click **Apply** and **OK** to save the changes.
-5. Click **Restart** to reboot your PC in clean boot mode.
-
- After the restart, see if you can successfully copy and paste. If the problem is fixed, it's safe to assume a third-party app caused it. To find the troublesome app, open Task Manager and start enabling startup apps one by one until you find the problematic app.
-
- If the issue persists in the clean boot mode, proceed with the next steps. Before that, enable all the disabled services in System Configuration.
-
- To disable the clean boot mode and start Windows normally, open the **System Configuration** utility, go to the **General** tab, then select the **normal startup** option.
-
-![Windows 11 System Configuration dialog.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/normal-startup-windows-11-system-configuration.jpg)
-
- Click **Apply** and **OK** to save the changes. When prompted, click **Restart Now** to reboot your computer.
-
-## 3\. Update Your Windows
-
- If the clipboard issue is caused by a known Windows 11 bug, check the Windows Update tab to see if a new patch or fix is available.
-
- To install Windows updates:
-
-1. Open **Start** and click on **Settings**.
-2. Next, open the **Windows Update** tab in the left pane.
-3. If you don't see pending updates, click on **Check for updates.** Windows will look for new updates and list them accordingly.
-4. Install all critical updates and restart your PC.
-
-![Windows 11 Settings showing the Windows Update tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/check-for-windows-update.jpg)
-
-## 4\. Restart File Explorer
-
- File Explorer helps you navigate through the directories and browse files on Windows. Since it is an integral part of the Windows graphical user interface, [restarting the File Explorer process](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) can help you restore the copy-and-paste function in Windows 11\.
-
- To restart File Explorer:
-
-1. Press **Win + X** to open the **WinX** menu.
-2. Click on **Task Manager** to open the app.
-3. In the **Processes** tab, locate and select **Windows Explorer.**
-4. Next, click on **Restart** to restart the process. Your screen may flicker when File Explorer restarts.
-
-![Windows 11 Task Manager showing the Windows Explorer process.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/restart-windows-file-explorer.jpg)
-
-## 5\. Run the Keyboard Troubleshooter
-
- Windows 11 features a built-in keyboard troubleshooter to find and fix common issues. It fixes issues triggered due to malfunctioning drivers and incorrect keyboard configuration.
-
- To run the keyboard troubleshooter:
-
-1. Press **Win + I** to open **Settings**.
-2. In the **System** tab, scroll down and click on **Troubleshoot**.  
-![Windows 11 Settings app showing the Troubleshoot option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-11-troubleshoot.jpg)
-3. Next, click on **Other troubleshooters**.  
-![Windows 11 Settings showing the Keyboard troubleshooter option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-keyboard-troubleshooter-windows-11.jpg)
-4. Scroll down to **Keyboard** and click on **Run**. Wait for the troubleshooter to detect and fix any issues with your keyboard.
-
- The keyboard troubleshooter may not be available on Windows 11 23H2 and above. If so, you can run it using Command Prompt.
-
- So, click **Start**, type **cmd**, and click to open **Command Prompt** from search results. In Command Prompt, type the following command and press Enter:
-
-`msdt.exe /id KeyboardDiagnostic`
-
- In the Keyboard troubleshooter dialog, click **Advanced**, select the **Apply repairs automatically** option, and click **Next**. The troubleshooter will scan your computer for known keyboard issues and try to fix them automatically.
-
-## 6\. Reset the rdpclip.exe Process
-
- If the copy-paste function does not work when using Remote Desktop Connection, restarting the Rdpclip.exe process can help you copy and paste text and files between your local and remote computers.
-
-![Windows 11 Task Manager showing end task option for rdpclip-exe process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-showing-end-task-option-for-rdpclip-exe-process.png)
-
- To restart the rdpclip.exe process, press **Win+X** and choose **Task Manager**. In Task Manager, open the **Details** tab and locate the **rdpclip.exe** process. To end the process, right-click on **rdpclip.exe** and choose **End task**.
-
-![Windows 11 Task Manager create new task dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-create-new-task-dialog.png)
-
- To restart the process, in the Task Manager, click **Run new task**, type **rdpclip.exe**, and click **OK**.
-
-## 7\. Check Your Keyboard for Hardware Issues
-
- If you have [remapped your keyboard keys on Windows,](https://www.makeuseof.com/tag/missing-key-remap-fix-keyboard-layout/) make sure the **Ctrl + C / Ctrl + V** shortcut is set correctly. Also, look for issues with the Ctrl keys. Your keyboard likely features multiple Ctrl keys. Try to use the additional Ctrl key at the bottom right of your keyboard to copy and paste. If it works, you are likely dealing with a faulty left Ctrl key. If there is a faulty key, there are ways to [fix broken keys on your computer keyboard](https://www.makeuseof.com/how-to-fix-keyboard-keys/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-## 8\. Run the System File Checker
-
- If your keyboard is working, scan your system for potential system file corruption. The built-in System File Checker and Deployment Image Service and Management tool can find and fix system-level errors.
-
- To run the System File Checker tool, open the Command Prompt as Administrator and execute the commands:
-
-1. Press the **Win** key, and type **cmd**.
-2. Right-click on **Command Prompt** and select **Run as administrator.**  
-![Windows 11 Command Prompt running the System File Checker utility.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-system-file-checker.png)
-3. In the Command Prompt window, type the following commands one by one and press Enter:  
-`DISM /Online /Cleanup-Image /RestoreHealth  
-Sfc /scannow`
-4. First, DISM will scan and repair the Windows image. Then System File Checker will begin the verification phase. It will scan for all protected system files and replace corrupted or missing files. This process may take some time, so wait till the verification is 100% complete.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 9\. Create a New Local User Account
-
- You can create a new local user account in Windows 11 to check if the problem is limited to the current user. You can [create a new local user account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) using the Accounts option in the Settings app.
-
- Once done, log in to your new local account and try to perform a copy-paste. If it works, you can [try to repair the previous account account](https://www.makeuseof.com/tag/recover-lost-windows-10-user-profile/) or continue to use the new local account.
-
- If nothing helps, try to repair and install Windows 11\. This involves performing an in-place upgrade to reinstall the OS without affecting your system settings or files.
-
- Windows 11 comes with an improved clipboard that lets you copy multiple items to the clipboard and paste them as needed. However, the copy and paste function can stop working on your Windows 11 computer.
-
- This issue can occur because of corrupt system files or temporary glitches with Windows File Explorer. Here are a few troubleshooting steps to help you fix and restore the copy-and-paste functionality in Windows 11\.
-
-## 1\. Clear Clipboard Data
-
- If conflicting data formats and corrupted data are causing the issue, [clearing your clipboard data](https://www.makeuseof.com/windows-11-clear-clipboard-history/) can help. Doing so will delete your clipboard history, except for pinned items.
-
- To do this, press **Win+I** to open **Settings** and go to **System > Clipboard**. Click the **Clear** button next to **Clear clipboard data** to delete the history.
-
-![Windows 11 Settings app showing the Clipboard settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-settings-app-showing-the-clipboard-settings.png)
-
- If the issue persists, perform a quick restart to refresh hardware components and Windows services and apps to fix temporary glitches with your computer.
-
-## 2\. Perform a Clean Boot
-
- You can [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) to determine if a third-party app conflict is causing the copy-and-paste functionality to malfunction. Third-party app conflicts are among the common contributing factors to this problem.
-
- In clean boot mode, Windows starts with a minimal set of drivers. To do this, you will need to manually disable all the non-essential services and startup programs and restart your PC. To perform a clean boot:
-
-1. Press **Win + R** to open **Run**.
-2. Type **msconfig.msc** and click **OK** to open **System Configuration**. You can also search for system configuration in **Windows Search** and open the app.
-3. In the **System Configuration** window, open the **Services** tab.  
-![Windows 11 System Configuration App showing Hide all Microsoft services option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/hide-all-microsoft-services-clean-boot-windows-11.jpg)
-4. Check the **Hide all Microsoft services** box. This will hide all the essential system services necessary to operate the system so that you don’t accidentally disable them.
 
 5. Click the **Disable All** button to disable third-party services.
 
@@ -394,163 +108,167 @@ Sfc /scannow`
 4. Next, click on **Restart** to restart the process. Your screen may flicker when File Explorer restarts.
 
 ![Windows 11 Task Manager showing the Windows Explorer process.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/restart-windows-file-explorer.jpg)
-
-## 5\. Run the Keyboard Troubleshooter
-
- Windows 11 features a built-in keyboard troubleshooter to find and fix common issues. It fixes issues triggered due to malfunctioning drivers and incorrect keyboard configuration.
-
- To run the keyboard troubleshooter:
-
-1. Press **Win + I** to open **Settings**.
-2. In the **System** tab, scroll down and click on **Troubleshoot**.  
-![Windows 11 Settings app showing the Troubleshoot option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-11-troubleshoot.jpg)
-3. Next, click on **Other troubleshooters**.  
-
-![Windows 11 Settings showing the Keyboard troubleshooter option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-keyboard-troubleshooter-windows-11.jpg)
-4. Scroll down to **Keyboard** and click on **Run**. Wait for the troubleshooter to detect and fix any issues with your keyboard.
-
- The keyboard troubleshooter may not be available on Windows 11 23H2 and above. If so, you can run it using Command Prompt.
-
- So, click **Start**, type **cmd**, and click to open **Command Prompt** from search results. In Command Prompt, type the following command and press Enter:
-
-`msdt.exe /id KeyboardDiagnostic`
-
- In the Keyboard troubleshooter dialog, click **Advanced**, select the **Apply repairs automatically** option, and click **Next**. The troubleshooter will scan your computer for known keyboard issues and try to fix them automatically.
-
-## 6\. Reset the rdpclip.exe Process
-
- If the copy-paste function does not work when using Remote Desktop Connection, restarting the Rdpclip.exe process can help you copy and paste text and files between your local and remote computers.
-
-![Windows 11 Task Manager showing end task option for rdpclip-exe process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-showing-end-task-option-for-rdpclip-exe-process.png)
-
- To restart the rdpclip.exe process, press **Win+X** and choose **Task Manager**. In Task Manager, open the **Details** tab and locate the **rdpclip.exe** process. To end the process, right-click on **rdpclip.exe** and choose **End task**.
-
-![Windows 11 Task Manager create new task dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-create-new-task-dialog.png)
-
- To restart the process, in the Task Manager, click **Run new task**, type **rdpclip.exe**, and click **OK**.
-
-## 7\. Check Your Keyboard for Hardware Issues
-
- If you have [remapped your keyboard keys on Windows,](https://www.makeuseof.com/tag/missing-key-remap-fix-keyboard-layout/) make sure the **Ctrl + C / Ctrl + V** shortcut is set correctly. Also, look for issues with the Ctrl keys. Your keyboard likely features multiple Ctrl keys. Try to use the additional Ctrl key at the bottom right of your keyboard to copy and paste. If it works, you are likely dealing with a faulty left Ctrl key. If there is a faulty key, there are ways to [fix broken keys on your computer keyboard](https://www.makeuseof.com/how-to-fix-keyboard-keys/).
-
-## 8\. Run the System File Checker
-
- If your keyboard is working, scan your system for potential system file corruption. The built-in System File Checker and Deployment Image Service and Management tool can find and fix system-level errors.
-
- To run the System File Checker tool, open the Command Prompt as Administrator and execute the commands:
-
-1. Press the **Win** key, and type **cmd**.
-2. Right-click on **Command Prompt** and select **Run as administrator.**  
-![Windows 11 Command Prompt running the System File Checker utility.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-system-file-checker.png)
-3. In the Command Prompt window, type the following commands one by one and press Enter:  
-`DISM /Online /Cleanup-Image /RestoreHealth  
-Sfc /scannow`
-4. First, DISM will scan and repair the Windows image. Then System File Checker will begin the verification phase. It will scan for all protected system files and replace corrupted or missing files. This process may take some time, so wait till the verification is 100% complete.
-
-## 9\. Create a New Local User Account
-
- You can create a new local user account in Windows 11 to check if the problem is limited to the current user. You can [create a new local user account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) using the Accounts option in the Settings app.
-
- Once done, log in to your new local account and try to perform a copy-paste. If it works, you can [try to repair the previous account account](https://www.makeuseof.com/tag/recover-lost-windows-10-user-profile/) or continue to use the new local account.
-
- If nothing helps, try to repair and install Windows 11\. This involves performing an in-place upgrade to reinstall the OS without affecting your system settings or files.
-
- Windows 11 comes with an improved clipboard that lets you copy multiple items to the clipboard and paste them as needed. However, the copy and paste function can stop working on your Windows 11 computer.
-
- This issue can occur because of corrupt system files or temporary glitches with Windows File Explorer. Here are a few troubleshooting steps to help you fix and restore the copy-and-paste functionality in Windows 11\.
-
-## 1\. Clear Clipboard Data
-
- If conflicting data formats and corrupted data are causing the issue, [clearing your clipboard data](https://www.makeuseof.com/windows-11-clear-clipboard-history/) can help. Doing so will delete your clipboard history, except for pinned items.
-
- To do this, press **Win+I** to open **Settings** and go to **System > Clipboard**. Click the **Clear** button next to **Clear clipboard data** to delete the history.
-
-![Windows 11 Settings app showing the Clipboard settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-settings-app-showing-the-clipboard-settings.png)
-
- If the issue persists, perform a quick restart to refresh hardware components and Windows services and apps to fix temporary glitches with your computer.
-
-## 2\. Perform a Clean Boot
-
- You can [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) to determine if a third-party app conflict is causing the copy-and-paste functionality to malfunction. Third-party app conflicts are among the common contributing factors to this problem.
-
- In clean boot mode, Windows starts with a minimal set of drivers. To do this, you will need to manually disable all the non-essential services and startup programs and restart your PC. To perform a clean boot:
-
-1. Press **Win + R** to open **Run**.
-2. Type **msconfig.msc** and click **OK** to open **System Configuration**. You can also search for system configuration in **Windows Search** and open the app.
-3. In the **System Configuration** window, open the **Services** tab.  
-![Windows 11 System Configuration App showing Hide all Microsoft services option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/hide-all-microsoft-services-clean-boot-windows-11.jpg)
-4. Check the **Hide all Microsoft services** box. This will hide all the essential system services necessary to operate the system so that you don’t accidentally disable them.
-
-5. Click the **Disable All** button to disable third-party services.
-
-1. Open the **Startup** tab and click **Open Task Manager.**
-2. The Task Manager will open in the **Startup** tab.  
-![Windows 11 Task Manager showing the Startup tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/disable-startup-apps-windows-11.jpg)
-3. Select all the **Startup** apps one by one and click **Disable**.
-4. Once you have disabled all the startup apps, go back to the **System Configuration** dialog. Click **Apply** and **OK** to save the changes.
-5. Click **Restart** to reboot your PC in clean boot mode.
-
- After the restart, see if you can successfully copy and paste. If the problem is fixed, it's safe to assume a third-party app caused it. To find the troublesome app, open Task Manager and start enabling startup apps one by one until you find the problematic app.
-
- If the issue persists in the clean boot mode, proceed with the next steps. Before that, enable all the disabled services in System Configuration.
-
- To disable the clean boot mode and start Windows normally, open the **System Configuration** utility, go to the **General** tab, then select the **normal startup** option.
-
-![Windows 11 System Configuration dialog.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/normal-startup-windows-11-system-configuration.jpg)
-
- Click **Apply** and **OK** to save the changes. When prompted, click **Restart Now** to reboot your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 3\. Update Your Windows
-
- If the clipboard issue is caused by a known Windows 11 bug, check the Windows Update tab to see if a new patch or fix is available.
-
- To install Windows updates:
-
-1. Open **Start** and click on **Settings**.
-2. Next, open the **Windows Update** tab in the left pane.
-3. If you don't see pending updates, click on **Check for updates.** Windows will look for new updates and list them accordingly.
-4. Install all critical updates and restart your PC.
-
-![Windows 11 Settings showing the Windows Update tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/check-for-windows-update.jpg)
-
-## 4\. Restart File Explorer
-
- File Explorer helps you navigate through the directories and browse files on Windows. Since it is an integral part of the Windows graphical user interface, [restarting the File Explorer process](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) can help you restore the copy-and-paste function in Windows 11\.
-
- To restart File Explorer:
-
-1. Press **Win + X** to open the **WinX** menu.
-2. Click on **Task Manager** to open the app.
-3. In the **Processes** tab, locate and select **Windows Explorer.**
-4. Next, click on **Restart** to restart the process. Your screen may flicker when File Explorer restarts.
-
-![Windows 11 Task Manager showing the Windows Explorer process.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/restart-windows-file-explorer.jpg)
-
-## 5\. Run the Keyboard Troubleshooter
-
- Windows 11 features a built-in keyboard troubleshooter to find and fix common issues. It fixes issues triggered due to malfunctioning drivers and incorrect keyboard configuration.
-
- To run the keyboard troubleshooter:
-
-1. Press **Win + I** to open **Settings**.
-2. In the **System** tab, scroll down and click on **Troubleshoot**.  
-![Windows 11 Settings app showing the Troubleshoot option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-11-troubleshoot.jpg)
-3. Next, click on **Other troubleshooters**.  
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+## 5\. Run the Keyboard Troubleshooter
+
+ Windows 11 features a built-in keyboard troubleshooter to find and fix common issues. It fixes issues triggered due to malfunctioning drivers and incorrect keyboard configuration.
+
+ To run the keyboard troubleshooter:
+
+1. Press **Win + I** to open **Settings**.
+2. In the **System** tab, scroll down and click on **Troubleshoot**.  
+![Windows 11 Settings app showing the Troubleshoot option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-11-troubleshoot.jpg)
+3. Next, click on **Other troubleshooters**.  
 ![Windows 11 Settings showing the Keyboard troubleshooter option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-keyboard-troubleshooter-windows-11.jpg)
 4. Scroll down to **Keyboard** and click on **Run**. Wait for the troubleshooter to detect and fix any issues with your keyboard.
 
+ The keyboard troubleshooter may not be available on Windows 11 23H2 and above. If so, you can run it using Command Prompt.
+
+ So, click **Start**, type **cmd**, and click to open **Command Prompt** from search results. In Command Prompt, type the following command and press Enter:
+
+`msdt.exe /id KeyboardDiagnostic`
+
+ In the Keyboard troubleshooter dialog, click **Advanced**, select the **Apply repairs automatically** option, and click **Next**. The troubleshooter will scan your computer for known keyboard issues and try to fix them automatically.
+
+## 6\. Reset the rdpclip.exe Process
+
+ If the copy-paste function does not work when using Remote Desktop Connection, restarting the Rdpclip.exe process can help you copy and paste text and files between your local and remote computers.
+
+![Windows 11 Task Manager showing end task option for rdpclip-exe process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-showing-end-task-option-for-rdpclip-exe-process.png)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ To restart the rdpclip.exe process, press **Win+X** and choose **Task Manager**. In Task Manager, open the **Details** tab and locate the **rdpclip.exe** process. To end the process, right-click on **rdpclip.exe** and choose **End task**.
+
+![Windows 11 Task Manager create new task dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-create-new-task-dialog.png)
+
+ To restart the process, in the Task Manager, click **Run new task**, type **rdpclip.exe**, and click **OK**.
+
+## 7\. Check Your Keyboard for Hardware Issues
+
+ If you have [remapped your keyboard keys on Windows,](https://www.makeuseof.com/tag/missing-key-remap-fix-keyboard-layout/) make sure the **Ctrl + C / Ctrl + V** shortcut is set correctly. Also, look for issues with the Ctrl keys. Your keyboard likely features multiple Ctrl keys. Try to use the additional Ctrl key at the bottom right of your keyboard to copy and paste. If it works, you are likely dealing with a faulty left Ctrl key. If there is a faulty key, there are ways to [fix broken keys on your computer keyboard](https://www.makeuseof.com/how-to-fix-keyboard-keys/).
+
+## 8\. Run the System File Checker
+
+ If your keyboard is working, scan your system for potential system file corruption. The built-in System File Checker and Deployment Image Service and Management tool can find and fix system-level errors.
+
+ To run the System File Checker tool, open the Command Prompt as Administrator and execute the commands:
+
+1. Press the **Win** key, and type **cmd**.
+2. Right-click on **Command Prompt** and select **Run as administrator.**  
+![Windows 11 Command Prompt running the System File Checker utility.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-system-file-checker.png)
+3. In the Command Prompt window, type the following commands one by one and press Enter:  
+
+`DISM /Online /Cleanup-Image /RestoreHealth  
+Sfc /scannow`
+4. First, DISM will scan and repair the Windows image. Then System File Checker will begin the verification phase. It will scan for all protected system files and replace corrupted or missing files. This process may take some time, so wait till the verification is 100% complete.
+
+## 9\. Create a New Local User Account
+
+ You can create a new local user account in Windows 11 to check if the problem is limited to the current user. You can [create a new local user account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) using the Accounts option in the Settings app.
+
+ Once done, log in to your new local account and try to perform a copy-paste. If it works, you can [try to repair the previous account account](https://www.makeuseof.com/tag/recover-lost-windows-10-user-profile/) or continue to use the new local account.
+
+ If nothing helps, try to repair and install Windows 11\. This involves performing an in-place upgrade to reinstall the OS without affecting your system settings or files.
+
+ Windows 11 comes with an improved clipboard that lets you copy multiple items to the clipboard and paste them as needed. However, the copy and paste function can stop working on your Windows 11 computer.
+
+ This issue can occur because of corrupt system files or temporary glitches with Windows File Explorer. Here are a few troubleshooting steps to help you fix and restore the copy-and-paste functionality in Windows 11\.
+
+## 1\. Clear Clipboard Data
+
+ If conflicting data formats and corrupted data are causing the issue, [clearing your clipboard data](https://www.makeuseof.com/windows-11-clear-clipboard-history/) can help. Doing so will delete your clipboard history, except for pinned items.
+
+ To do this, press **Win+I** to open **Settings** and go to **System > Clipboard**. Click the **Clear** button next to **Clear clipboard data** to delete the history.
+
+![Windows 11 Settings app showing the Clipboard settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-settings-app-showing-the-clipboard-settings.png)
+
+ If the issue persists, perform a quick restart to refresh hardware components and Windows services and apps to fix temporary glitches with your computer.
+
+## 2\. Perform a Clean Boot
+
+ You can [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) to determine if a third-party app conflict is causing the copy-and-paste functionality to malfunction. Third-party app conflicts are among the common contributing factors to this problem.
+
+ In clean boot mode, Windows starts with a minimal set of drivers. To do this, you will need to manually disable all the non-essential services and startup programs and restart your PC. To perform a clean boot:
+
+1. Press **Win + R** to open **Run**.
+2. Type **msconfig.msc** and click **OK** to open **System Configuration**. You can also search for system configuration in **Windows Search** and open the app.
+3. In the **System Configuration** window, open the **Services** tab.  
+![Windows 11 System Configuration App showing Hide all Microsoft services option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/hide-all-microsoft-services-clean-boot-windows-11.jpg)
+4. Check the **Hide all Microsoft services** box. This will hide all the essential system services necessary to operate the system so that you don’t accidentally disable them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+5. Click the **Disable All** button to disable third-party services.
+
+1. Open the **Startup** tab and click **Open Task Manager.**
+2. The Task Manager will open in the **Startup** tab.  
+![Windows 11 Task Manager showing the Startup tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/disable-startup-apps-windows-11.jpg)
+3. Select all the **Startup** apps one by one and click **Disable**.
+
+4. Once you have disabled all the startup apps, go back to the **System Configuration** dialog. Click **Apply** and **OK** to save the changes.
+5. Click **Restart** to reboot your PC in clean boot mode.
+
+ After the restart, see if you can successfully copy and paste. If the problem is fixed, it's safe to assume a third-party app caused it. To find the troublesome app, open Task Manager and start enabling startup apps one by one until you find the problematic app.
+
+ If the issue persists in the clean boot mode, proceed with the next steps. Before that, enable all the disabled services in System Configuration.
+
+ To disable the clean boot mode and start Windows normally, open the **System Configuration** utility, go to the **General** tab, then select the **normal startup** option.
+
+![Windows 11 System Configuration dialog.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/normal-startup-windows-11-system-configuration.jpg)
+
+ Click **Apply** and **OK** to save the changes. When prompted, click **Restart Now** to reboot your computer.
+
+## 3\. Update Your Windows
+
+ If the clipboard issue is caused by a known Windows 11 bug, check the Windows Update tab to see if a new patch or fix is available.
+
+ To install Windows updates:
+
+1. Open **Start** and click on **Settings**.
+2. Next, open the **Windows Update** tab in the left pane.
+3. If you don't see pending updates, click on **Check for updates.** Windows will look for new updates and list them accordingly.
+4. Install all critical updates and restart your PC.
+
+![Windows 11 Settings showing the Windows Update tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/check-for-windows-update.jpg)
+
+## 4\. Restart File Explorer
+
+ File Explorer helps you navigate through the directories and browse files on Windows. Since it is an integral part of the Windows graphical user interface, [restarting the File Explorer process](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) can help you restore the copy-and-paste function in Windows 11\.
+
+ To restart File Explorer:
+
+1. Press **Win + X** to open the **WinX** menu.
+2. Click on **Task Manager** to open the app.
+3. In the **Processes** tab, locate and select **Windows Explorer.**
+4. Next, click on **Restart** to restart the process. Your screen may flicker when File Explorer restarts.
+
+![Windows 11 Task Manager showing the Windows Explorer process.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/restart-windows-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 5\. Run the Keyboard Troubleshooter
+
+ Windows 11 features a built-in keyboard troubleshooter to find and fix common issues. It fixes issues triggered due to malfunctioning drivers and incorrect keyboard configuration.
+
+ To run the keyboard troubleshooter:
+
+1. Press **Win + I** to open **Settings**.
+2. In the **System** tab, scroll down and click on **Troubleshoot**.  
+![Windows 11 Settings app showing the Troubleshoot option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-11-troubleshoot.jpg)
+3. Next, click on **Other troubleshooters**.  
+![Windows 11 Settings showing the Keyboard troubleshooter option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-keyboard-troubleshooter-windows-11.jpg)
+4. Scroll down to **Keyboard** and click on **Run**. Wait for the troubleshooter to detect and fix any issues with your keyboard.
 
  The keyboard troubleshooter may not be available on Windows 11 23H2 and above. If so, you can run it using Command Prompt.
 
@@ -575,6 +293,290 @@ Sfc /scannow`
 ## 7\. Check Your Keyboard for Hardware Issues
 
  If you have [remapped your keyboard keys on Windows,](https://www.makeuseof.com/tag/missing-key-remap-fix-keyboard-layout/) make sure the **Ctrl + C / Ctrl + V** shortcut is set correctly. Also, look for issues with the Ctrl keys. Your keyboard likely features multiple Ctrl keys. Try to use the additional Ctrl key at the bottom right of your keyboard to copy and paste. If it works, you are likely dealing with a faulty left Ctrl key. If there is a faulty key, there are ways to [fix broken keys on your computer keyboard](https://www.makeuseof.com/how-to-fix-keyboard-keys/).
+
+## 8\. Run the System File Checker
+
+ If your keyboard is working, scan your system for potential system file corruption. The built-in System File Checker and Deployment Image Service and Management tool can find and fix system-level errors.
+
+ To run the System File Checker tool, open the Command Prompt as Administrator and execute the commands:
+
+1. Press the **Win** key, and type **cmd**.
+2. Right-click on **Command Prompt** and select **Run as administrator.**  
+![Windows 11 Command Prompt running the System File Checker utility.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-system-file-checker.png)
+3. In the Command Prompt window, type the following commands one by one and press Enter:  
+`DISM /Online /Cleanup-Image /RestoreHealth  
+Sfc /scannow`
+4. First, DISM will scan and repair the Windows image. Then System File Checker will begin the verification phase. It will scan for all protected system files and replace corrupted or missing files. This process may take some time, so wait till the verification is 100% complete.
+
+## 9\. Create a New Local User Account
+
+ You can create a new local user account in Windows 11 to check if the problem is limited to the current user. You can [create a new local user account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) using the Accounts option in the Settings app.
+
+ Once done, log in to your new local account and try to perform a copy-paste. If it works, you can [try to repair the previous account account](https://www.makeuseof.com/tag/recover-lost-windows-10-user-profile/) or continue to use the new local account.
+
+ If nothing helps, try to repair and install Windows 11\. This involves performing an in-place upgrade to reinstall the OS without affecting your system settings or files.
+
+ Windows 11 comes with an improved clipboard that lets you copy multiple items to the clipboard and paste them as needed. However, the copy and paste function can stop working on your Windows 11 computer.
+
+ This issue can occur because of corrupt system files or temporary glitches with Windows File Explorer. Here are a few troubleshooting steps to help you fix and restore the copy-and-paste functionality in Windows 11\.
+
+## 1\. Clear Clipboard Data
+
+ If conflicting data formats and corrupted data are causing the issue, [clearing your clipboard data](https://www.makeuseof.com/windows-11-clear-clipboard-history/) can help. Doing so will delete your clipboard history, except for pinned items.
+
+ To do this, press **Win+I** to open **Settings** and go to **System > Clipboard**. Click the **Clear** button next to **Clear clipboard data** to delete the history.
+
+![Windows 11 Settings app showing the Clipboard settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-settings-app-showing-the-clipboard-settings.png)
+
+ If the issue persists, perform a quick restart to refresh hardware components and Windows services and apps to fix temporary glitches with your computer.
+
+## 2\. Perform a Clean Boot
+
+ You can [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) to determine if a third-party app conflict is causing the copy-and-paste functionality to malfunction. Third-party app conflicts are among the common contributing factors to this problem.
+
+ In clean boot mode, Windows starts with a minimal set of drivers. To do this, you will need to manually disable all the non-essential services and startup programs and restart your PC. To perform a clean boot:
+
+1. Press **Win + R** to open **Run**.
+2. Type **msconfig.msc** and click **OK** to open **System Configuration**. You can also search for system configuration in **Windows Search** and open the app.
+3. In the **System Configuration** window, open the **Services** tab.  
+![Windows 11 System Configuration App showing Hide all Microsoft services option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/hide-all-microsoft-services-clean-boot-windows-11.jpg)
+4. Check the **Hide all Microsoft services** box. This will hide all the essential system services necessary to operate the system so that you don’t accidentally disable them.
+
+5. Click the **Disable All** button to disable third-party services.
+
+1. Open the **Startup** tab and click **Open Task Manager.**
+2. The Task Manager will open in the **Startup** tab.  
+![Windows 11 Task Manager showing the Startup tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/disable-startup-apps-windows-11.jpg)
+3. Select all the **Startup** apps one by one and click **Disable**.
+
+4. Once you have disabled all the startup apps, go back to the **System Configuration** dialog. Click **Apply** and **OK** to save the changes.
+5. Click **Restart** to reboot your PC in clean boot mode.
+
+ After the restart, see if you can successfully copy and paste. If the problem is fixed, it's safe to assume a third-party app caused it. To find the troublesome app, open Task Manager and start enabling startup apps one by one until you find the problematic app.
+
+ If the issue persists in the clean boot mode, proceed with the next steps. Before that, enable all the disabled services in System Configuration.
+
+ To disable the clean boot mode and start Windows normally, open the **System Configuration** utility, go to the **General** tab, then select the **normal startup** option.
+
+![Windows 11 System Configuration dialog.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/normal-startup-windows-11-system-configuration.jpg)
+
+ Click **Apply** and **OK** to save the changes. When prompted, click **Restart Now** to reboot your computer.
+
+## 3\. Update Your Windows
+
+ If the clipboard issue is caused by a known Windows 11 bug, check the Windows Update tab to see if a new patch or fix is available.
+
+ To install Windows updates:
+
+1. Open **Start** and click on **Settings**.
+2. Next, open the **Windows Update** tab in the left pane.
+3. If you don't see pending updates, click on **Check for updates.** Windows will look for new updates and list them accordingly.
+4. Install all critical updates and restart your PC.
+
+![Windows 11 Settings showing the Windows Update tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/check-for-windows-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 4\. Restart File Explorer
+
+ File Explorer helps you navigate through the directories and browse files on Windows. Since it is an integral part of the Windows graphical user interface, [restarting the File Explorer process](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) can help you restore the copy-and-paste function in Windows 11\.
+
+ To restart File Explorer:
+
+1. Press **Win + X** to open the **WinX** menu.
+2. Click on **Task Manager** to open the app.
+3. In the **Processes** tab, locate and select **Windows Explorer.**
+4. Next, click on **Restart** to restart the process. Your screen may flicker when File Explorer restarts.
+
+![Windows 11 Task Manager showing the Windows Explorer process.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/restart-windows-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 5\. Run the Keyboard Troubleshooter
+
+ Windows 11 features a built-in keyboard troubleshooter to find and fix common issues. It fixes issues triggered due to malfunctioning drivers and incorrect keyboard configuration.
+
+ To run the keyboard troubleshooter:
+
+1. Press **Win + I** to open **Settings**.
+2. In the **System** tab, scroll down and click on **Troubleshoot**.  
+![Windows 11 Settings app showing the Troubleshoot option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-11-troubleshoot.jpg)
+3. Next, click on **Other troubleshooters**.  
+
+![Windows 11 Settings showing the Keyboard troubleshooter option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-keyboard-troubleshooter-windows-11.jpg)
+4. Scroll down to **Keyboard** and click on **Run**. Wait for the troubleshooter to detect and fix any issues with your keyboard.
+
+ The keyboard troubleshooter may not be available on Windows 11 23H2 and above. If so, you can run it using Command Prompt.
+
+ So, click **Start**, type **cmd**, and click to open **Command Prompt** from search results. In Command Prompt, type the following command and press Enter:
+
+`msdt.exe /id KeyboardDiagnostic`
+
+ In the Keyboard troubleshooter dialog, click **Advanced**, select the **Apply repairs automatically** option, and click **Next**. The troubleshooter will scan your computer for known keyboard issues and try to fix them automatically.
+
+## 6\. Reset the rdpclip.exe Process
+
+ If the copy-paste function does not work when using Remote Desktop Connection, restarting the Rdpclip.exe process can help you copy and paste text and files between your local and remote computers.
+
+![Windows 11 Task Manager showing end task option for rdpclip-exe process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-showing-end-task-option-for-rdpclip-exe-process.png)
+
+ To restart the rdpclip.exe process, press **Win+X** and choose **Task Manager**. In Task Manager, open the **Details** tab and locate the **rdpclip.exe** process. To end the process, right-click on **rdpclip.exe** and choose **End task**.
+
+![Windows 11 Task Manager create new task dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-create-new-task-dialog.png)
+
+ To restart the process, in the Task Manager, click **Run new task**, type **rdpclip.exe**, and click **OK**.
+
+## 7\. Check Your Keyboard for Hardware Issues
+
+ If you have [remapped your keyboard keys on Windows,](https://www.makeuseof.com/tag/missing-key-remap-fix-keyboard-layout/) make sure the **Ctrl + C / Ctrl + V** shortcut is set correctly. Also, look for issues with the Ctrl keys. Your keyboard likely features multiple Ctrl keys. Try to use the additional Ctrl key at the bottom right of your keyboard to copy and paste. If it works, you are likely dealing with a faulty left Ctrl key. If there is a faulty key, there are ways to [fix broken keys on your computer keyboard](https://www.makeuseof.com/how-to-fix-keyboard-keys/).
+
+## 8\. Run the System File Checker
+
+ If your keyboard is working, scan your system for potential system file corruption. The built-in System File Checker and Deployment Image Service and Management tool can find and fix system-level errors.
+
+ To run the System File Checker tool, open the Command Prompt as Administrator and execute the commands:
+
+1. Press the **Win** key, and type **cmd**.
+2. Right-click on **Command Prompt** and select **Run as administrator.**  
+![Windows 11 Command Prompt running the System File Checker utility.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-system-file-checker.png)
+3. In the Command Prompt window, type the following commands one by one and press Enter:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+`DISM /Online /Cleanup-Image /RestoreHealth  
+Sfc /scannow`
+4. First, DISM will scan and repair the Windows image. Then System File Checker will begin the verification phase. It will scan for all protected system files and replace corrupted or missing files. This process may take some time, so wait till the verification is 100% complete.
+
+## 9\. Create a New Local User Account
+
+ You can create a new local user account in Windows 11 to check if the problem is limited to the current user. You can [create a new local user account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) using the Accounts option in the Settings app.
+
+ Once done, log in to your new local account and try to perform a copy-paste. If it works, you can [try to repair the previous account account](https://www.makeuseof.com/tag/recover-lost-windows-10-user-profile/) or continue to use the new local account.
+
+ If nothing helps, try to repair and install Windows 11\. This involves performing an in-place upgrade to reinstall the OS without affecting your system settings or files.
+
+ Windows 11 comes with an improved clipboard that lets you copy multiple items to the clipboard and paste them as needed. However, the copy and paste function can stop working on your Windows 11 computer.
+
+ This issue can occur because of corrupt system files or temporary glitches with Windows File Explorer. Here are a few troubleshooting steps to help you fix and restore the copy-and-paste functionality in Windows 11\.
+
+## 1\. Clear Clipboard Data
+
+ If conflicting data formats and corrupted data are causing the issue, [clearing your clipboard data](https://www.makeuseof.com/windows-11-clear-clipboard-history/) can help. Doing so will delete your clipboard history, except for pinned items.
+
+ To do this, press **Win+I** to open **Settings** and go to **System > Clipboard**. Click the **Clear** button next to **Clear clipboard data** to delete the history.
+
+![Windows 11 Settings app showing the Clipboard settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-settings-app-showing-the-clipboard-settings.png)
+
+ If the issue persists, perform a quick restart to refresh hardware components and Windows services and apps to fix temporary glitches with your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 2\. Perform a Clean Boot
+
+ You can [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) to determine if a third-party app conflict is causing the copy-and-paste functionality to malfunction. Third-party app conflicts are among the common contributing factors to this problem.
+
+ In clean boot mode, Windows starts with a minimal set of drivers. To do this, you will need to manually disable all the non-essential services and startup programs and restart your PC. To perform a clean boot:
+
+1. Press **Win + R** to open **Run**.
+2. Type **msconfig.msc** and click **OK** to open **System Configuration**. You can also search for system configuration in **Windows Search** and open the app.
+3. In the **System Configuration** window, open the **Services** tab.  
+![Windows 11 System Configuration App showing Hide all Microsoft services option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/hide-all-microsoft-services-clean-boot-windows-11.jpg)
+4. Check the **Hide all Microsoft services** box. This will hide all the essential system services necessary to operate the system so that you don’t accidentally disable them.
+
+5. Click the **Disable All** button to disable third-party services.
+
+1. Open the **Startup** tab and click **Open Task Manager.**
+2. The Task Manager will open in the **Startup** tab.  
+![Windows 11 Task Manager showing the Startup tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/disable-startup-apps-windows-11.jpg)
+3. Select all the **Startup** apps one by one and click **Disable**.
+4. Once you have disabled all the startup apps, go back to the **System Configuration** dialog. Click **Apply** and **OK** to save the changes.
+5. Click **Restart** to reboot your PC in clean boot mode.
+
+ After the restart, see if you can successfully copy and paste. If the problem is fixed, it's safe to assume a third-party app caused it. To find the troublesome app, open Task Manager and start enabling startup apps one by one until you find the problematic app.
+
+ If the issue persists in the clean boot mode, proceed with the next steps. Before that, enable all the disabled services in System Configuration.
+
+ To disable the clean boot mode and start Windows normally, open the **System Configuration** utility, go to the **General** tab, then select the **normal startup** option.
+
+![Windows 11 System Configuration dialog.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/normal-startup-windows-11-system-configuration.jpg)
+
+ Click **Apply** and **OK** to save the changes. When prompted, click **Restart Now** to reboot your computer.
+
+## 3\. Update Your Windows
+
+ If the clipboard issue is caused by a known Windows 11 bug, check the Windows Update tab to see if a new patch or fix is available.
+
+ To install Windows updates:
+
+1. Open **Start** and click on **Settings**.
+2. Next, open the **Windows Update** tab in the left pane.
+3. If you don't see pending updates, click on **Check for updates.** Windows will look for new updates and list them accordingly.
+4. Install all critical updates and restart your PC.
+
+![Windows 11 Settings showing the Windows Update tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/check-for-windows-update.jpg)
+
+## 4\. Restart File Explorer
+
+ File Explorer helps you navigate through the directories and browse files on Windows. Since it is an integral part of the Windows graphical user interface, [restarting the File Explorer process](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) can help you restore the copy-and-paste function in Windows 11\.
+
+ To restart File Explorer:
+
+1. Press **Win + X** to open the **WinX** menu.
+2. Click on **Task Manager** to open the app.
+3. In the **Processes** tab, locate and select **Windows Explorer.**
+4. Next, click on **Restart** to restart the process. Your screen may flicker when File Explorer restarts.
+
+![Windows 11 Task Manager showing the Windows Explorer process.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/restart-windows-file-explorer.jpg)
+
+## 5\. Run the Keyboard Troubleshooter
+
+ Windows 11 features a built-in keyboard troubleshooter to find and fix common issues. It fixes issues triggered due to malfunctioning drivers and incorrect keyboard configuration.
+
+ To run the keyboard troubleshooter:
+
+1. Press **Win + I** to open **Settings**.
+2. In the **System** tab, scroll down and click on **Troubleshoot**.  
+![Windows 11 Settings app showing the Troubleshoot option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-11-troubleshoot.jpg)
+3. Next, click on **Other troubleshooters**.  
+
+![Windows 11 Settings showing the Keyboard troubleshooter option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-keyboard-troubleshooter-windows-11.jpg)
+4. Scroll down to **Keyboard** and click on **Run**. Wait for the troubleshooter to detect and fix any issues with your keyboard.
+
+ The keyboard troubleshooter may not be available on Windows 11 23H2 and above. If so, you can run it using Command Prompt.
+
+ So, click **Start**, type **cmd**, and click to open **Command Prompt** from search results. In Command Prompt, type the following command and press Enter:
+
+`msdt.exe /id KeyboardDiagnostic`
+
+ In the Keyboard troubleshooter dialog, click **Advanced**, select the **Apply repairs automatically** option, and click **Next**. The troubleshooter will scan your computer for known keyboard issues and try to fix them automatically.
+
+## 6\. Reset the rdpclip.exe Process
+
+ If the copy-paste function does not work when using Remote Desktop Connection, restarting the Rdpclip.exe process can help you copy and paste text and files between your local and remote computers.
+
+![Windows 11 Task Manager showing end task option for rdpclip-exe process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-showing-end-task-option-for-rdpclip-exe-process.png)
+
+ To restart the rdpclip.exe process, press **Win+X** and choose **Task Manager**. In Task Manager, open the **Details** tab and locate the **rdpclip.exe** process. To end the process, right-click on **rdpclip.exe** and choose **End task**.
+
+![Windows 11 Task Manager create new task dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-create-new-task-dialog.png)
+
+ To restart the process, in the Task Manager, click **Run new task**, type **rdpclip.exe**, and click **OK**.
+
+## 7\. Check Your Keyboard for Hardware Issues
+
+ If you have [remapped your keyboard keys on Windows,](https://www.makeuseof.com/tag/missing-key-remap-fix-keyboard-layout/) make sure the **Ctrl + C / Ctrl + V** shortcut is set correctly. Also, look for issues with the Ctrl keys. Your keyboard likely features multiple Ctrl keys. Try to use the additional Ctrl key at the bottom right of your keyboard to copy and paste. If it works, you are likely dealing with a faulty left Ctrl key. If there is a faulty key, there are ways to [fix broken keys on your computer keyboard](https://www.makeuseof.com/how-to-fix-keyboard-keys/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Run the System File Checker
 
@@ -614,22 +616,22 @@ Sfc /scannow`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-ranked-worlds-best-anime-opening-music/"><u>[New] Ranked World's Best Anime Opening Music</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-dos-and-donts-of-interacting-with-youtube-viewers/"><u>[Updated] 2024 Approved The Do's and Don'ts of Interacting with YouTube Viewers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-make-a-youtube-intro-video-2-ways/"><u>[Updated] How to Make A YouTube Intro Video [2 Ways]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimize-mac-streams-with-these-industrys-favorite-5-apps/"><u>2024 Approved Optimize Mac Streams with These Industry's Favorite 5 Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beyond-limits-with-metro-by-t-mobile-a-comprehensive-look-at-unlimited-roaming-agreements/"><u>Beyond Limits with Metro by T-Mobile: A Comprehensive Look at Unlimited Roaming Agreements</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-the-right-iphone-15-a-comprehensive-guide-to-selecting-between-standard-plus-pro-and-pro-max-models-insights-from-zdnet/"><u>Choosing the Right iPhone 15: A Comprehensive Guide to Selecting Between Standard, Plus, Pro, & Pro Max Models - Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/command-turning-off-geforce-visual-boost-effects/"><u>Command: Turning Off GeForce Visual Boost Effects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/finding-lost-windows-in-your-taskbar-follow-these-6-recovery-steps-in-win-1011/"><u>Finding Lost Windows in Your Taskbar? Follow These 6 Recovery Steps in Win 10/11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-15-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 15 Pro Max Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://media-tips.techidaily.com/get-free-english-subtitles-from-the-best-4-platforms-and-apply-them-to-your-videos/"><u>Get Free English Subtitles From the Best 4 Platforms & Apply Them to Your Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-easily-transform-mpeg-videos-into-3g2-format-for-free-a-guide-by-movavi/"><u>How to Easily Transform MPEG Videos Into 3G2 Format for Free: A Guide by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leading-edge-computing-with-the-most-advanced-windows-systems/"><u>Leading Edge Computing with the Most Advanced Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prevent-task-manager-from-rearranging-programs/"><u>Prevent Task Manager From Rearranging Programs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-system-failures-code-0x0000011b-solution/"><u>Preventing System Failures: Code 0X0000011B Solution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sprinter-mouse-click-techniques-for-speedy-dual-taps/"><u>Sprinter Mouse Click Techniques for Speedy Dual Taps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-crucial-role-of-bsod-in-system-restoration/"><u>The Crucial Role of BSoD in System Restoration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-textual-outputs-with-these-top-pc-apps/"><u>Transform Textual Outputs with These Top PC Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-detailed-evaluation-of-screenflow-pro-mac-edition-for-2024/"><u>[New] Detailed Evaluation of ScreenFlow Pro Mac Edition for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ssential-youtube-movie-binge-guides-for-2024/"><u>[New] Essential YouTube Movie Binge Guides for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-techniques-for-exceptional-iphone-hdr-results/"><u>2024 Approved Pro Techniques for Exceptional iPhone HDR Results</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-automatic-restarts-on-windows-11-devices/"><u>Conquering Automatic Restarts on WIndows 11 Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/crack-the-code-of-imagerys-roots-with-our-reverse-analysis-tools-for-instagram-for-2024/"><u>Crack the Code of Imagery's Roots with Our Reverse Analysis Tools for Instagram for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/determining-the-ideal-speed-for-your-computer-a-comprehensive-guide/"><u>Determining the Ideal Speed for Your Computer: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-update-faults-windows-xp-x8019/"><u>Eradicating Update Faults: Windows XP, X8019</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-bygone-era-to-future-tech-using-windows-7-key-in-11-setup/"><u>From Bygone Era to Future Tech: Using Windows 7 Key in 11 Setup</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-razer-software-on-windows-1187xpvista-complete-guide-for-downloads-and-updates/"><u>How to Get the Latest Razer Software on Windows 11/8/7/XP/Vista: Complete Guide for Downloads and Updates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fostering-creativity-the-most-innovative-6-nft-services/"><u>In 2024, Fostering Creativity The Most Innovative 6 NFT Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-restarting-windows-updates/"><u>Mastering the Art of Restarting Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-lockout-try-these-hacks/"><u>Microsoft Store Lockout? Try These Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-domain-services-error-printer-issues-in-windows-11/"><u>Repairing Domain Services Error: Printer Issues in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11s-fatal-0xf0831-bug/"><u>Resolving Windows 11'S Fatal 0xF0831 Bug</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-into-the-world-of-innovative-youtube-video-techniques-for-2024/"><u>Step Into the World of Innovative YouTube Video Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-setup-guide-for-steam-deck-owners/"><u>Windows Setup Guide for Steam Deck Owners</u></a></li>
 </ul></div>
 

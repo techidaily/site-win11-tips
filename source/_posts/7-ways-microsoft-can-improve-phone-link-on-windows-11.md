@@ -1,7 +1,7 @@
 ---
 title: 7 Ways Microsoft Can Improve Phone Link on Windows 11
-date: 2024-08-16T01:11:02.302Z
-updated: 2024-08-17T01:11:02.302Z
+date: 2025-02-01T16:37:25.360Z
+updated: 2025-02-03T00:25:13.691Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
 
  However, after spending significant time using Phone Link, you might realize the app is missing some key features. Here are some areas we think it could be improved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## 1\. The Ability to Forward Text Messages
 
  One of the major offerings of the Phone Link is that it allows you to receive and send text messages from your PC. This eliminates the need to reach your phone to see if you received any text messages while working on your PC.
@@ -40,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
  However, Microsoft can take the messaging experience of Phone Link to the next level by adding more capabilities. For one, it can add the ability to forward a text message right from the Phone Link app, just like how easily it can be done on phones.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. A Password Protection Feature for the Phone Link App
 
  The Phone Link app can display your private photos, text messages, and apps that you use. And if you are sharing the login information with someone else and your phone gets automatically connected to your PC, all the personal photos and text messages will be a click away.
@@ -51,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
 ## 3\. The Photo Sharing Feature on Phone Link Could Be Improved
 
 ![Screenshot showing the ability to copy image in Phone Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copy-image-edit.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 
  You can copy and share your phone photos via the Phone Link app on your PC. However, the sharing experience is pretty basic in the app. For example, you can not select multiple photos and copy or share them.
 
@@ -66,18 +57,24 @@ No advertising on the website.
  Hopefully, Microsoft will bring the necessary change to improve the sharing experience on Phone Link in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Timestamped Text Messages
 
 ![Screenshot showing messages in Phone Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/phone-link-message-edited.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you open a message on Phone Link, you can't tell easily at what time the messages were received. It shows only the dates and days on which they were sent. However, hovering your mouse cursor over the message will show you the exact date, time, and sender's number.
 
  Instead of needing to hover the mouse cursor over the message to see the time it was received, we should be able to see the time right after the message ends, just like on the messaging app on your mobile phone. This way, it would be much more straightforward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. The Ability to Delete Messages
 
@@ -100,17 +97,14 @@ No advertising on the website.
  Features such as the ability to run phone apps on your PC via Phone Link, Phone screen, and RCS messaging are limited to select Samsung, Surface Duo, and HONOR handsets. Microsoft should make these capabilities available to more devices with lower specifications.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Microsoft Needs to Do More With Phone Link
 
  The features mentioned above will surely make Phone Link much more convenient. But besides adding new features to Phone Link, Microsoft also needs to ensure that it improves the app's reliability and fixes bugs promptly. Apart from Phone Link, Microsoft has plenty of other features in Windows 11 to improve.
 
  In this article, we are suggesting some features and improvements to existing functionalities in Phone Link to alleviate the overall experience. But before that, here is a brief introduction about what the Phone Link can do.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -119,5 +113,21 @@ The powerful video editing program for your Windows PC</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-how-to-announce-a-donation-drive-a-step-by-step-guide/"><u>[New] How to Announce a Donation Drive A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-validity-of-vibration-reduction-in-adobes-world/"><u>[Updated] 2024 Approved The Validity of Vibration Reduction in Adobe's World</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-creative-communication-get-free-voice-effects-today/"><u>2024 Approved Unlock Creative Communication - Get FREE Voice Effects Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/find-your-next-must-read-explore-the-best-artificially-intelligent-book-recommenders-online/"><u>Find Your Next Must-Read: Explore the Best Artificially Intelligent Book Recommenders Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-galaxy-s24-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Galaxy S24 Ultra?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-remove-the-system-requirements-not-met-watermark-in-windows-11/"><u>How to Remove the System Requirements Not Met Watermark in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ideal-nvidia-driver-selection-gameplay-or-studio-focus/"><u>Ideal Nvidia Driver Selection - Gameplay or Studio Focus</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-screenmaster-2023-your-guide-to-window-capturing/"><u>In 2024, ScreenMaster 2023 Your Guide to Window Capturing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intro-to-digital-art-accessing-microsoft-paint-in-windows-11/"><u>Intro to Digital Art: Accessing Microsoft Paint in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-guide-airpods-and-windows-compatibility/"><u>Simplified Guide: AirPods & Windows Compatibility</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/superior-soundtracks-compilation-for-vids-for-2024/"><u>Superior Soundtracks Compilation for Vids for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722872979248-the-ultimate-checklist-for-choosing-the-perfect-dash-camera-discover-these-important-considerations/"><u>The Ultimate Checklist for Choosing the Perfect Dash Camera: Discover These Important Considerations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-vivo-v27e-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo V27e Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-and-the-lost-bluetooth-9-effective-solutions-to-find-your-connection/"><u>Win 11 and the Lost Bluetooth: 9 Effective Solutions to Find Your Connection</u></a></li>
+</ul></div>
 

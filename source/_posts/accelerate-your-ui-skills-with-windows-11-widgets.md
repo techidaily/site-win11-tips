@@ -1,7 +1,7 @@
 ---
 title: Accelerate Your UI Skills with Windows 11 Widgets
-date: 2024-08-16T01:11:27.943Z
-updated: 2024-08-17T01:11:27.943Z
+date: 2025-01-29T23:21:41.037Z
+updated: 2025-02-02T22:46:47.877Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
  Windows 11 widget functionality gives you an at-a-glance view of apps' most important information you may need on the home screen. Besides Microsoft's own applications, Windows 11 also supports widgets from third-party developers such as Spotify.
 
  And now that third-party players are also welcome to take advantage of the widgets panel in Windows 11, it has become all the more important to know how to set it up to serve you the best. We are putting together a list of widgets tweaks to help you achieve that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Display the Widgets Button in Taskbar
 
@@ -44,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
  Microsoft recently added support for third-party developers to bring app widgets to Windows 11\. But even without support for third-party support, you get a decent collection of first-party app widgets, including Outlook, To Do, Weather, Game Pass, and more. And the best thing about Windows 11's widgets is that it takes little effort to add them to the panel.
 
 ![Add Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-widgets-edit.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Follow the below steps to add widgets:
 
@@ -61,9 +62,6 @@ Follow the below steps to add widgets:
  Microsoft allows you to choose the size of widgets. Each widget will display the main information of the app irrespective of which size you choose. However, a large widget will show some additional information that you can not find on a medium or small widget. Windows 11 currently supports three sizes:**Small** ,**Medium** , and**Large** .
 
 ![Size of Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/size-of-widgets.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
 To change the size of widgets, follow the below steps:
 
@@ -73,8 +71,9 @@ To change the size of widgets, follow the below steps:
  You will see the change immediately after you change the size. But bear in mind that not every widget supports all three sizes. For example, Microsoft Outlook only supports**Medium** and**Large** , whereas the Watchlist widget supports**Small** alongside the other two.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Customize Your News Feed to Get a More Personalized Experience
 
 ![My Interests page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/news-feed.jpeg)
@@ -84,28 +83,23 @@ To change the size of widgets, follow the below steps:
  You can personalize news content in multiple ways. If you do not like what you see on the widgets board, you can hide those stories. If you do not care about something, you can also [tune the News Feed](https://www.makeuseof.com/how-to-use-microsoft-start-personalized-news-feed/) in such a way that it will show you fewer stories like that. On the contrary, you can also tweak it to show you more of what you care about.
 
 ![Tweak the news feed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tuning-the-news-feed-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
  It is also possible to view and manage the publishers and interests. If you do not like what you see from specific publishers, you can hide them from the**My Interests** page in Microsoft Start. You can select your field of interest from a range of categories, including Politics, World, Money, Science, and more.
 
  You can go to the Microsoft Start Page by clicking on the**Manage interests** link on the**Widgets settings** page, which you can bring by clicking on the**user profile logo** at the top of the widgets board. However, it is important to note that ability to follow publishers and fine-tune your news feed is currently available for English speakers in the US.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Tweak the Widget Taskbar Behaviors
 
  The customizability of Widgets goes beyond the ability to change their sizes. You can also control how Widgets behave. If you do not like the opening of the Widgets panel on hovering over the button on the left of the Taskbar, you can disable it from**Widgets settings** . Widgets can also display notification badges and announcements.
 
 ![Widgets Settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/widgets-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In**Widgets settings** , you get to tweak the**Widget taskbar behaviors** in three different ways: enabling or disabling**Show notification badges** ,**Show announcements** , and**Open Widgets board on hover** toggles.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Expand the Widgets Panel
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
@@ -119,6 +113,10 @@ To expand the widgets panel, follow the below steps:
 
  It is important to note that a full-screen widgets panel will remember its previous state when you close it. If the previous state of the panel was full-screen, it would take the entire screen space when you launch it next time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Use Widgets Without a Microsoft Account
 
  The widgets panel in Windows 11 will provide you with a more personalized experience when you are logged in with a Microsoft account. However, if you do not want to sign in to the Widgets panel, you can still get the most important information from the supported app widgets in the panel.
@@ -127,18 +125,19 @@ To expand the widgets panel, follow the below steps:
 
  If you are running Windows 11 Insider builds, you can use widgets without logging in with your Microsoft account. If you are running Windows 11 22H2, you need to make sure you have Windows Web Experience Pack version 423.3000.10.0 installed on your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You Are Ready to Get the Most Out of Widgets in Windows 11
 
  Windows 11's widgets can be useful if you know how to take advantage of its several functionalities. The above-mentioned tips and tricks are best suited for anyone looking to be a pro at using the feature. But the best experience comes at the expense of your usage data getting into the hands of Microsoft and other third-party players if you are using widgets developed by them.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,8 +146,19 @@ To expand the widgets panel, follow the below steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-blueprint-to-youtube-wealth-smart-strategies-for-facebook-video-marketing/"><u>[New] In 2024, The Blueprint to YouTube Wealth Smart Strategies for Facebook Video Marketing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-excellent-7-dslrs-elevating-live-stream-cinematic-style/"><u>2024 Approved Excellent 7 DSLRs Elevating Live-Stream Cinematic Style</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/beyond-traditional-tropes-in-depth-analysis-and-review-of-yokus-island-express/"><u>Beyond Traditional Tropes: In-Depth Analysis and Review of Yoku's Island Express</u></a></li>
+<li><a href="https://win-bits.techidaily.com/how-much-room-is-left-on-your-hard-disk-find-out-with-yl-softwares-step-by-step-instructions/"><u>How Much Room Is Left on Your Hard Disk? Find Out with YL Software's Step-by-Step Instructions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-grayed-out-secure-boot-in-the-bios-on-windows/"><u>How to Fix a Grayed-Out Secure Boot in the BIOS on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-efficient-windows-11-performance-tuning/"><u>Mastering Efficient Windows 11 Performance Tuning</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-mobile-shots-ios-11s-camera-innovations-for-2024/"><u>Mastering Mobile Shots IOS 11'S Camera Innovations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-address-retrieve-settings-error-on-winx/"><u>Quick Steps to Address Retrieve Settings Error on WinX</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/redefining-clinical-practice-with-chatgpt-technology/"><u>Redefining Clinical Practice with ChatGPT Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-avoid-dark-screen-while-playing-winos-titles/"><u>Tips to Avoid Dark Screen While Playing WINOS Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-to-do-if-microsoft-outlook-only-opens-in-safe-mode-on-windows/"><u>What to Do if Microsoft Outlook Only Opens in Safe Mode on Windows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/zippy-zeal-in-zoom-outs-adding-text-movement-on-stories/"><u>Zippy Zeal in Zoom-Outs Adding Text Movement on Stories</u></a></li>
+</ul></div>
 

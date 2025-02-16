@@ -1,7 +1,7 @@
 ---
 title: Access and Annotate Comics Easily on Win11
-date: 2024-08-16T01:12:05.399Z
-updated: 2024-08-17T01:12:05.399Z
+date: 2025-02-01T02:15:25.687Z
+updated: 2025-02-03T00:51:20.257Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/45a1460bb3d83c14f6fab217fbb0ba6456c10cd4a
 
 ![The New > Folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-new-folder-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Read Comic Books With Cover
 
  Now you’ve got some comics to read; it’s time to open them in Windows 11\. Cover is a Microsoft Store app with which you can open and read comics. That app supports all major comic file formats, which makes it a good enough choice. Cover is freely available up to a point, as the free app version comes with a 25-comic limit. These are the steps for installing and opening a comic in Cover:
@@ -52,21 +49,24 @@ thumbnail: https://thmb.techidaily.com/45a1460bb3d83c14f6fab217fbb0ba6456c10cd4a
 10. Now you’ll see some thumbnail images for the comics in the selected folder inside the**Library** tab. Click a comic you want to read there to open in Cover.  
 ![Cover's Library tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/covers-library-tab.jpg)
 11. You can flick through the pages by clicking the comic and dragging the slider on the bar. Or press the left and right arrow keys.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The page scroll bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/page-scroll-bar.jpg)
 
  It’s best to read comics in a maximized Cover window since the text might otherwise be a bit small. Click the comic and select its**Two Page** and**Fit width** options to view double pages across the full width of the window. Then you can scroll down the pages with the mouse and flick through pages by pressing the arrow keys.
 
 ![The Fit width option in Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fit-width-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Cover has a**Night Mode** option you can adjust brightness with and enable a night filter. Click the comic and press the**Night mode** button to bring up the**Brightness** bar. Then you can drag the bar’s slider down. Or click the**Night filter** button to dim the light for comics in Cover.
 
 ![The Night Mode option in Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-night-mode-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  As you’re limited to a 25-comic library in Cover, you’ll probably need to erase some comics you’ve read to view new ones at some stage. To do that, open a comic’s source folder in File Explorer. Right-click a comic file in that folder and select**Delete** . Then click the**See more** button at the top right of the Cover app to select**Refresh** library.
 
@@ -83,45 +83,44 @@ thumbnail: https://thmb.techidaily.com/45a1460bb3d83c14f6fab217fbb0ba6456c10cd4a
 1. Then click**Next** \>**Install** to add YACReader to your software library.  
 ![The Install button for YACReader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-install-option.jpg)
 2. Bring up the YACReader app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click the button with the speech mark bubble icon on YACReader’s toolbar.
 4. Select**Open** to view a file selection window.
 5. Then select a comic file in your Comic Books folder, and click**Open** to view it.  
 ![The Open option in YACReader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-open-option.jpg)
 6. Press the**Next** and**Previous** arrow buttons on the toolbar to turn the comic’s pages.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The comics will also be a little small in a non-maximized YACReader window, as in Cover. So, it’s recommended to maximize the app’s window. Click the**Double-page mode** button to view two pages in a single window. Selecting the**Fit to Width** option will give you a view of the comic that’s not too small or big.
 
 ![The toolbar in YACReader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreaders-toolbar.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can save pages in YACReader by clicking the**Set** bookmark button. Select the**Show bookmarks** option to view thumbnails for your saved pages. You can select a bookmarked page to open from there.
 
 ![The YACReader bookmarks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreader-bookmarks.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
  YACReader’s**Show go to flow** option is one of its more unique features. Pressing that button brings up a box that displays page thumbnail previews you can flick through and open pages with. That’s a useful feature for selecting specific pages in a comic.
 
 ![YACReader's page flow feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreader-page-flow-feature.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Page flow has five transition effect presets you can choose in the Options window. Click**Options** on the right side of YACReader’s toolbar. Select the**Page Flow** tab, and choose one of the five preset options. You can also tweak each preset by clicking**Show advanced settings** and dragging the bar slider options. Press the**Save** button and restart YACReader to apply a new preset.
 
 ![The Page Flow tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-page-flow-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Read Comics in Your Web Browser
 
@@ -135,8 +134,9 @@ No advertising on the website.
  You can read comics on those websites by scrolling down their pages in your browser or clicking the next/previous page buttons. However, the page view options for comics on websites are more limited than those in YACReader and Cover. Nor can you select to bookmark pages. So, most users will probably prefer to download and read comics in Cover and YACReader.
 
 ![A Star Wars comic open in a browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/star-wars-comic.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Stuck Into Comics in Windows 11
@@ -149,8 +149,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,8 +156,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-make-your-youtube-moments-come-alive-creating-dynamic-gifs/"><u>[New] How to Make Your YouTube Moments Come Alive Creating Dynamic GIFs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-boosting-collaboration-mastering-real-time-photography-on-google-meet/"><u>[Updated] 2024 Approved Boosting Collaboration Mastering Real-Time Photography on Google Meet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-compliance-with-copyright-law-when-sharing-media-through-fb/"><u>[Updated] Compliance with Copyright Law when Sharing Media Through FB</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-apples-affordable-marvel-ranking-of-cost-free-image-arrangement-apps/"><u>[Updated] In 2024, Apple's Affordable Marvel Ranking of Cost-Free Image Arrangement Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-streamlining-screen-record-on-snapchats-with-your-phone/"><u>[Updated] In 2024, Streamlining Screen Record on Snapchats with Your Phone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-prime-hashtag-combinations-driving-view-count-higher-for-2024/"><u>[Updated] Prime Hashtag Combinations Driving View Count Higher for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-productivity-with-improved-windows-tiling/"><u>Boost Productivity with Improved Windows Tiling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-directory-capacity-assessment-via-windows-powershell/"><u>Demystifying Directory Capacity Assessment via Windows PowerShell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-editing-the-windows-registry-via-terminal/"><u>Essential Tips for Editing the Windows Registry via Terminal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-window-11-style-hacks-and-themes/"><u>Exclusive Window 11 Style Hacks & Themes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-controller-reviving-it-from-steams-oblivion/"><u>Master the Controller: Reviving It From Steam's Oblivion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-adding-the-latest-elements-to-your-kodi-195-matrix/"><u>Step-by-Step Guide: Adding the Latest Elements to Your Kodi 19.5 Matrix</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-premier-manual-for-subtitle-precision-via-web-resources/"><u>The Premier Manual for Subtitle Precision via Web Resources</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninterrupted-file-access-fixing-onedrive-glitches/"><u>Uninterrupted File Access: Fixing OneDrive Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-accessibility-issues-of-purchased-software-on-ms-marketplace/"><u>Unlocking Accessibility Issues of Purchased Software on MS Marketplace</u></a></li>
+</ul></div>
 

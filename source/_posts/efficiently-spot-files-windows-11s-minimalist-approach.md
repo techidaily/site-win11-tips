@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Spot Files: Windows 11'S Minimalist Approach"
-date: 2025-01-26T07:48:52.381Z
-updated: 2025-02-01T03:35:17.853Z
+date: 2025-01-27T22:17:36.234Z
+updated: 2025-02-02T23:26:15.010Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable Compact View in File Explorer Using the Command Bar
@@ -37,10 +37,14 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 2. Choose the **Compact view** option to enable it.  
 ![Compact view option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/comapct-view-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. You might need to restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Compact View in File Explorer Using Folder Options
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With that, you should have less space between your files in File Explorer.
@@ -72,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
@@ -86,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 5. Search for and double-click on the **UseCompactMode** entry in the right pane.
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Change the File Explorer Look Anytime
 
@@ -112,22 +112,18 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/rofessional-tricks-for-youtube-audio-amplification/"><u>[New] Professional Tricks for YouTube Audio Amplification</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-frames-to-frequencies-the-video-transformation/"><u>[Updated] From Frames to Frequencies The Video Transformation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-windows-pc-broadcasting-prodigy-mastering-the-art-of-live-tv-recording/"><u>[Updated] Windows PC Broadcasting Prodigy Mastering the Art of Live TV Recording</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-youtube-to-mp4-the-ultimate-guide/"><u>2024 Approved Mastering YouTube to MP4 The Ultimate Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/core-concepts-in-moving-graphic-artistry/"><u>Core Concepts in Moving Graphic Artistry</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-samsungs-photography-toolkit/"><u>Exploring Samsung's Photography Toolkit</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixed-non-functional-windows-start-menu-entry/"><u>Fixed: Non-Functional Windows Start Menu Entry</u></a></li>
-<li><a href="https://video-capture.techidaily.com/how-to-master-iphone-video-screening/"><u>How to Master iPhone Video Screening</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovative-windows-portable-computing/"><u>Innovative Windows Portable Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-uac-screenshots-on-pc/"><u>Mastering UAC Screenshots on PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-virality-essential-techniques-for-dominating-tiktok/"><u>Mastering Virality: Essential Techniques for Dominating TikTok</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-n-models-essential-guide/"><u>Navigating Through Windows N Models: Essential Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-with-windows-update-fix/"><u>Overcoming Obstacles with Windows Update Fix</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-how-to-for-efficiently-updating-your-windows-11-amd-drivers/"><u>The Ultimate How-To for Efficiently Updating Your Windows 11 AMD Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-engaging-with-windows-11-taskbar-activating-end-task-option/"><u>Understanding and Engaging with Windows 11 Taskbar: Activating End Task Option</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-ipad-and-iphone-potential-with-ios-181-beta-incorporating-enhanced-apple-intelligence-begin-your-test-drive-now/"><u>Unlock iPad & iPhone Potential with iOS 18.1 Beta, Incorporating Enhanced Apple Intelligence - Begin Your Test Drive Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/which-win-pkg-tool-triumphs-choco-vs-wslm-analysis/"><u>Which Win Pkg Tool Triumphs? Choco VS. WSLM Analysis</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-top-10-frugal-video-communication-platforms-catering-to-corporate-and-educational-needs/"><u>[New] 2024 Approved The Top 10 Frugal Video Communication Platforms Catering to Corporate & Educational Needs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-charting-a-course-for-cash-flows-the-3-step-methodology-for-measuring-youtube-earnings/"><u>[Updated] 2024 Approved Charting a Course for Cash Flows The 3-Step Methodology for Measuring YouTube Earnings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-hitting-the-high-notes-of-youtube-editing-audio-addition-secrets-revealed/"><u>2024 Approved Hitting the High Notes of YouTube Editing Audio Addition Secrets Revealed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-haul-video-guide-from-camera-to-final-cut/"><u>2024 Approved The Ultimate Haul Video Guide From Camera to Final Cut</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-top-10-non-vimeo-editors-for-user-generated-content/"><u>2024 Approved Top 10 Non-Vimeo Editors for User-Generated Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unveiling-the-top-10-stealthy-story-audiences/"><u>2024 Approved Unveiling the Top 10 Stealthy Story Audiences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenge-of-restarting-windows-sound-on-booting/"><u>Overcoming the Challenge of Restarting Windows Sound on Booting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/portable-apps-integration-guide-for-w11/"><u>Portable Apps Integration Guide for W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-leaks-auto-shutdown-at-low-activity-windows-11-style/"><u>Preventing Leaks: Auto-Shutdown at Low Activity, Windows 11 Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-discrepancies-in-computers-processor-utilization/"><u>Resolving Discrepancies in Computers' Processor Utilization</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-economical-panasonic-hd-journey/"><u>The Economical Panasonic HD Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-role-of-windows-11-in-software-installation-harmony/"><u>The Role of Windows 11 in Software Installation Harmony</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-your-windows-11-integrating-cutting-edge-run-commands/"><u>Upgrade Your Windows 11: Integrating Cutting-Edge Run Commands</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stop Worrying, Fix the Non-Working Esc Key Today
-date: 2024-08-16T01:12:01.721Z
-updated: 2024-08-17T01:12:01.721Z
+date: 2025-01-31T21:27:08.950Z
+updated: 2025-02-02T17:29:46.528Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 
  Another thing you can do is connect your keyboard to a different computer and test the Esc key. This will help you rule out any potential hardware-related issues.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Restart Your Computer
 
  Restarting your computer is an age-old troubleshooting tip that can help you with a variety of issues, including this one. Doing so will give Windows and its services a fresh start, resolving any temporary glitches.
@@ -40,18 +37,6 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
  Open the**Start menu** , click the**power icon** , and select**Restart** from the resulting menu.
 
 ![Restart Windows Computer From Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Restart-Windows-Computer-From-Start-Menu.jpg)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run the Windows Troubleshooters
 
@@ -71,13 +56,11 @@ To run the keyboard troubleshooter on Windows:
 2. Type**msdt.exe -id DeviceDiagnostic** in the Open field and press**Enter** .
 3. In the Hardware and Devices window, click**Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Turn Off Filter Keys
 
  The Filter keys option in Windows allows it to ignore brief or repeated keystrokes on your computer. However, this feature can sometimes cause Windows to ignore your key inputs entirely. To avoid this, you should disable the Filter keys in Windows by following the steps below.
@@ -88,15 +71,17 @@ To run the keyboard troubleshooter on Windows:
 ![Disable Sticky Keys in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-sticky-keys-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Uninstall Any Key Mapping Software
 
  Are you using any key mapping software on your PC? If so, you need to ensure that the Esc key isn’t disabled or mapped to a different function. If it is, you can either restore the key mapping to its default or remove the key remapping software entirely. In case you need help with the latter, check our guide on [different ways to uninstall software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Run SFC and DISM Scans
 
  Inconsistencies with the system files on your PC can also lead to such anomalies. If the problem is being caused due to a corruption error within system files, running the SFC (System File Checker) and DISM (Deployment Image Servicing and Management) scans should help. For more information on this, check our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) .
@@ -110,9 +95,6 @@ To run the keyboard troubleshooter on Windows:
 3. Right-click on your keyboard and select**Update driver** .
 4. Select**Search automatically for driver** and allow Windows to update the driver.  
 ![Update Keyboard Driver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-keyboard-driver-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the Esc key does not work even after this, the keyboard driver may be corrupt. In that case, uninstall the problematic driver using Device Manager.
 
@@ -125,13 +107,18 @@ To run the keyboard troubleshooter on Windows:
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Check for Malware
 
  If the Esc key is still not working at this point, it’s worth ensuring that your PC isn’t infected by malware. For that, you can run a full system scan using Windows Defender or a third-party antivirus program.
 
  Make sure you take [the necessary steps if you discover malware on your computer](https://www.makeuseof.com/tag/10-steps-to-take-when-you-discover-malware-on-your-computer/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Troubleshoot in Clean Boot State
 
@@ -139,9 +126,6 @@ To run the keyboard troubleshooter on Windows:
 
  If the Esc key works fine during a clean boot, it means one of the apps or programs is responsible for the issue. Apps and programs that you have installed fairly recently are more likely to have caused the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 11\. Perform a System Restore
 
  If all else fails, you can perform a system restore to revert your Windows computer to a state where the Esc key was working fine. This will allow you to undo any changes that may have caused the Esc key to stop working in Windows.
@@ -156,18 +140,23 @@ To perform a system restore on Windows, use these steps:
 6. Click**Finish** to continue.  
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-dialog-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Start Using the Esc Key Again on Windows
 
  Depending on your situation, fixing the Esc key can be as easy as cleaning it or as demanding as restoring your PC to its previous state. However, if none of the above fixes work, it’s likely that the Esc key on your keyboard is damaged and requires repair.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,8 +165,22 @@ To perform a system restore on Windows, use these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-expedited-srt-to-txt-conversion-2023s-efficient-method/"><u>[New] Expedited SRT to TXT Conversion 2023'S Efficient Method</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-world-of-webcams-for-high-quality-streams/"><u>2024 Approved Navigating the World of Webcams for High-Quality Streams</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-punchy-prowess-vs-online-influence/"><u>2024 Approved Punchy Prowess Vs Online Influence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/compact-flight-machines-top-picks-ranked/"><u>Compact Flight Machines - Top Picks Ranked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-virtual-memory-in-windows-11-for-maximum-performance/"><u>Fine-Tuning Virtual Memory in Windows 11 for Maximum Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/icloud-on-windows-common-fixes-for-download-problems/"><u>ICloud on Windows: Common Fixes for Download Problems</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-7-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone 7 Plus and iPad</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-blueant-soundblade-stylish-and-sonorous-performance/"><u>In-Depth Look at the BlueAnt Soundblade - Stylish and Sonorous Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/install-update-and-remove-with-precision-using-windows-package-manager/"><u>Install, Update & Remove with Precision Using Windows Package Manager</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-sculpt-keyboard-driver-enhancements-easy-installation-processes/"><u>Microsoft Sculpt Keyboard Driver Enhancements: Easy Installation Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-printer-connectivity-in-windows-os/"><u>Restoring Printer Connectivity in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-pubg-saved-data-in-windows-1110/"><u>Reviving Your PUBG Saved Data in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-6-windows-to-dos-optimal-apps-compared/"><u>Top 6 Windows To-Dos: Optimal Apps Compared</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-inner-reflections-steps-to-engage-with-windows-covert-personality-console/"><u>Unlocking Inner Reflections: Steps to Engage with Windows' Covert Personality Console</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-solving-the-fcpx-crash-problem-top-solutions/"><u>Updated In 2024, Solving the FCPX Crash Problem Top Solutions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Design Your WinTerral Favourite
-date: 2025-01-25T17:01:22.666Z
-updated: 2025-02-01T10:07:21.082Z
+date: 2025-01-31T20:01:59.864Z
+updated: 2025-02-02T21:07:25.227Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Change Windows Terminal Background Image
 
  You can change the background image of Windows Terminal in three ways: using the**Default** option within the Terminal app or manually editing the settings.json file using**File Explorer** and**Run** dialog box. All three methods achieve the same result and are easy to use.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
  Using the default option is the simplest way to change your background image while editing the settings.json file provides more control and customization options. Below, we will guide you through each option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Change Windows Terminal Background Image via Its Options
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
 ![Change Windows Terminal Background Image via Default Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-windows-terminal-background-image-via-default-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Scroll down to the**Background image** section, then click the**Background image path** option. Next, click the**Browse** option and select an image you want to use as a background.
 
  Click**Open** to confirm your selection. Now you should be able to see the selected image as the background of the terminal.
@@ -66,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
  Once you are satisfied with the changes, click the**Save** button in order to apply them. Your custom background image should now be visible in the Windows Terminal.
 
  If you want to switch to the default image,[reset the Windows Terminal to its default settings](https://www.makeuseof.com/windows-11-reset-terminal-settings/) . This will automatically restore your background to the default image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Change the Windows Terminal Background Image via Windows File Explorer
 
@@ -88,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
 ![How to Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-change-windows-terminal-background-image-from-windows-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then paste this path into the**backgroundImage** section of settings.json. Remember to include a comma (**,**) after the path, as shown in the image above.
 
  Once you have pasted the path of your image, save the settings file and close the text editor. To apply this new background image, simply restart your Windows Terminal. The new background image should be displayed on the terminal window.
@@ -95,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
  You can adjust the image transparency using the same method. Simply input values for the**backgroundImageOpacity** parameters to modify the settings. These additional settings allow you to personalize your Windows Terminal background image even further.
 
  Restart Windows Terminal for the changes to take effect. In this way, you can easily customize your Windows Terminal background image using the settings.json file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change the Windows Terminal Background Image Using the Run Command
 
@@ -110,13 +106,17 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 4. Scroll down to the**backgroundImage** section and replace the image path with your own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Then press**Ctrl + S** on your keyboard to save the changes.
 6. Close Notepad, then open Windows Terminal to see your new background image.
 
  You’re done! Now you know how to customize your Windows Terminal background image using the Run Command tool. You can further explore the settings.json file or use other tools to[customize and personalize your Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set a New Background Image for Windows Terminal
 
@@ -137,21 +137,16 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-30-webcams-elevating-audio-quality/"><u>[New] Top 30 Webcams Elevating Audio Quality</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-bite-sized-video-specialist/"><u>[Updated] 2024 Approved Bite-Sized Video Specialist</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-amazing-ig-video-creation/"><u>[Updated] Mastering Amazing IG Video Creation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-achieving-visual-excellence-aspect-ratio-mastery-on-youtube/"><u>2024 Approved Achieving Visual Excellence ASPECT RATIO Mastery on YOUTUBE</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-lag-top-techniques-for-optimizing-dota-2-in-2e24/"><u>Beat the Lag: Top Techniques for Optimizing Dota 2 in 2E24</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/common-mistakes-to-avoid-when-using-file-explorer-in-windows-11/"><u>Common Mistakes to Avoid When Using File Explorer in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-win-11s-audio-capturing-skills/"><u>Elevate Win 11'S Audio Capturing Skills</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/how-to-spot-and-troubleshoot-power-supply-issues-with-yls-expert-advice/"><u>How to Spot and Troubleshoot Power Supply Issues with YL's Expert Advice</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-is-it-wise-to-keep-off-facebook-activity-displayed-insights/"><u>In 2024, Is It Wise to Keep Off-Facebook Activity Displayed? Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/in-depth-analysis-how-to-garner-windows-11s-sid-data/"><u>In-Depth Analysis: How to Garner Windows 11'S SID Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lowering-cpu-usage-tips-to-mitigate-tiworkerexe-overuse/"><u>Lowering CPU Usage: Tips to Mitigate TiWorker.exe Overuse</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-animation-tools-a-step-by-step-guide-to-bringing-your-drawings-to-life/"><u>New In 2024, Top Animation Tools A Step-by-Step Guide to Bringing Your Drawings to Life</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-flickering-mouse-in-windows-oss/"><u>Remedying Flickering Mouse in Windows OSs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-desktop-view-with-spotlight-based-wallpapers/"><u>Transform Your Desktop View with Spotlight-Based Wallpapers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winpcs-leading-file-sharing-software-compared/"><u>WinPC's Leading File Sharing Software Compared</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-productivity-windows-11-pc-manager-tools-guide/"><u>Enhance Productivity: Windows 11 PC Manager Tools Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-conversion-of-locked-down-m4a-m4p-m4b-audiobooks-into-mp3-format/"><u>Free Conversion of Locked-Down M4A / M4P / M4B Audiobooks Into MP3 Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-music-streaming-services-that-support-airplay-your-ultimate-list-of-must-download-apps-for-high-quality-audio/"><u>Free Music Streaming Services That Support AirPlay – Your Ultimate List of Must-Download Apps for High-Quality Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-reactivate-an-inactive-hotspot-in-windows-11/"><u>Guidelines to Reactivate an Inactive Hotspot in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideas-for-customizing-your-tiktok-video-scene/"><u>Ideas for Customizing Your TikTok Video Scene</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-chaptering-organizing-video-sections/"><u>In 2024, Vimeo Chaptering Organizing Video Sections</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-no-driver-load-for-amd-in-wndows-10-system/"><u>Solved: No Driver Load for AMD in Wndows 10 System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-disabling-discords-auto-checkup-at-startup/"><u>Strategies for Disabling Discord's Auto-Checkup at Startup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-persistent-issues-windows-obs-not-opening-troubleshooting/"><u>Tackling Persistent Issues: Windows OBS Not Opening Troubleshooting</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-comeback-kid-an-analysis-of-facebooks-staying-power/"><u>The Comeback Kid - An Analysis of Facebook’s Staying Power</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-your-inactive-printer-on-pcs/"><u>Winning Back Your Inactive Printer on PCs</u></a></li>
 </ul></div>
 

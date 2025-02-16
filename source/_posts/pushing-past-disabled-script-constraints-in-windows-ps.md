@@ -1,7 +1,7 @@
 ---
 title: Pushing Past Disabled Script Constraints in Windows PS
-date: 2025-01-31T08:15:17.308Z
-updated: 2025-02-01T05:11:57.534Z
+date: 2025-01-30T17:20:41.584Z
+updated: 2025-02-02T17:09:04.490Z
 tags:
   - windows10
   - windows11
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
  Now that everything is clear, let’s explore how you can execute the relevant policies to tackle the "PowerShell cannot load" issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Change the Execution Policy to "Unrestricted"
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 ![Displaying the list of execution policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/displaying-the-list-of-execution-policies.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This should show you how the execution policies are configured for different users and systems.
@@ -101,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 `Set-ExecutionPolicy Unrestricted -Scope CurrentUser`
 
 ![Setting the execution policy on PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-the-execution-policy-on-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To change the execution policy to “Unrestricted” for all users, type the following command and press **Enter**:
 
@@ -126,13 +122,13 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  When you finish, close PowerShell and then restart your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Change the Execution Policy Via the Local Group Policy Editor
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Local Group Policy Editor (LGPE) also makes it easy for you to change the execution policy. In fact, this tool can also help you configure various system settings or troubleshoot tons of PC issues.
 
@@ -152,13 +148,13 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  From there, click **Apply** and then click **OK** to save these changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Change the Execution Policy Using the Registry Editor
 
 ![A lady using her Windows PC while sitting on bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-her-Windows-PC-while-sitting-on-bed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the other methods didn’t help, then try changing the execution policy using the Registry Editor. However, you need to be careful when editing Registry keys. If you tweak the wrong keys, then you might end up damaging your PC.
 
@@ -173,6 +169,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
  Locate the **ExecutionPolicy** value on the right-hand side.
 
 ![Selecting the ExecutionPolicy value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-executionpolicy-value.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the value is missing, create it through these steps:
 
@@ -206,22 +206,18 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-yourselfie-instagrams-verification-essentials/"><u>[New] 2024 Approved Mastering Yourselfie Instagram's Verification Essentials</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/xpert-guide-to-creating-compact-engaging-youtube-content-for-2024/"><u>[New] Expert Guide to Creating Compact, Engaging YouTube Content for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-mastering-your-sound-with-the-compreenas-complete-morphvox-guidebook-for-2024/"><u>[New] Mastering Your Sound with the Compreenas Complete MorphVOX Guidebook for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nlock-video-potential-the-best-10-flv-to-youtube-tools-at-a-glance/"><u>[New] Unlock Video Potential The Best 10 Flv to YouTube Tools at a Glance</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-boldly-step-up-claim-your-set-of-50-exquisite-cost-free-youtube-promo-materials-for-2024/"><u>[Updated] Boldly Step Up Claim Your Set of 50 Exquisite, Cost-Free YouTube Promo Materials for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/embracing-the-future-with-intelligence-the-evolution-from-bing-to-siri-and-why-its-time-for-change/"><u>Embracing the Future with Intelligence: The Evolution From Bing to Siri and Why It's Time for Change</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-15-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 15 Stuck On Activation Lock?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-prevent-print-device-instability-in-win-os/"><u>How to Prevent Print Device Instability in Win OS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y100a-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y100A Phone that is Locked?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lowering-high-contrast-brightness-in-windows/"><u>Lowering High Contrast Brightness in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-windows-calculator-darker/"><u>Making Windows Calculator Darker</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-error-code-0x80071a90-a-quick-guide/"><u>Resolving Windows Error Code: 0X80071a90 - A Quick Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-git-management-with-github-desktop-for-windows-os/"><u>Seamless Git Management with GitHub Desktop for Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-re-associate-file-applications-in-win108/"><u>Strategies to Re-Associate File Applications in Win10/8</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-your-desktop-with-window-notifications/"><u>Streamlining Your Desktop With Window Notifications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-strategies-overcoming-server-notifications-on-apex-legends-(156-chars/"><u>Top Strategies: Overcoming Server Notifications on Apex Legends (<156 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-windows-process-aggregatorhostexe-usage-and-risks-explored/"><u>What Is Windows Process AggregatorHost.exe? Usage and Risks Explored</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-winter-wonderland-in-beijing-olympic-year-2022/"><u>[Updated] 2024 Approved Winter Wonderland in Beijing, Olympic Year 2022</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensive-guide-to-embellishing-images-and-vids-in-windows-10s-photo-app/"><u>[Updated] A Comprehensive Guide to Embellishing Images and Vids in Windows 10'S Photo App</u></a></li>
+<li><a href="https://blog-min.techidaily.com/44cm54plusplus5zyo6ycy6kgm5lit44gu44ot44oh44kq44kv44oq44od44ox44ks5lplusd566h44gz44kl44gf44kb44gu5yq55p6c55qe44gq5oml5rov44cn/"><u>「現在進行中のビデオクリップを保管するための効果的な手法」</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-web-pace-unify-phone-and-laptop-connectivity/"><u>Balancing Web Pace: Unify Phone & Laptop Connectivity</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-tiktok-watermark-removers-online/"><u>Best TikTok Watermark Removers Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/engage-with-windows-11s-screen-snip-functionality/"><u>Engage with Windows 11'S Screen Snip Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-result-visibility-for-windows-1011s-search/"><u>Enhancing Result Visibility for Windows 10/11'S Search</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-silencing-the-defender-firewall-in-win11/"><u>Guide to Silencing the Defender Firewall in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-secure-your-childrens-online-world-windows-11/"><u>Guidelines to Secure Your Children’s Online World: Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-itel-p55-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Itel P55 5G FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12 5G Phone FRP Lock</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-to-immerse-users-in-soundfilters-of-windows-10-photos/"><u>Step-by-Step Guide to Immerse Users in Sound/Filters of Windows 10 Photos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/swedens-script-an-easy-pronunciation-pathway/"><u>Sweden's Script: An Easy Pronunciation Pathway</u></a></li>
 </ul></div>
 

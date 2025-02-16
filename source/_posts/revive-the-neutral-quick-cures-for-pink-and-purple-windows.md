@@ -1,7 +1,7 @@
 ---
 title: "Revive the Neutral: Quick Cures for Pink and Purple Windows"
-date: 2025-01-31T10:43:42.856Z
-updated: 2025-01-31T23:34:11.211Z
+date: 2025-01-26T23:57:54.524Z
+updated: 2025-02-02T20:11:16.941Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Quick Fixes for a Windows Desktop That Turns Pink or Purple
 
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
  In some cases, restarting your Windows device could help. Perform any one of the many[ways to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) and see if that fixes this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Restart File Explorer
@@ -52,7 +56,7 @@ Let’s take a look at the steps for restarting File Explorer:
 ![Restarting the Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Restarting-the-Windows-File-Explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable the Color Filters
@@ -67,10 +71,6 @@ In this instance, here’s how you can resolve the problem:
 4. Turn off the**Turn on color filters** button on the right-hand side. Finally, uncheck the**Allow the shortcut key to toggle filter on or off** box.
 
 ![Turning off the Turn on color filters button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Turn-on-color-filters-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Configure the Night Light Settings
 
@@ -88,7 +88,7 @@ To get rid of the problem, follow these steps:
 ![Turning off the Night light button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Night-light-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, follow these steps if you want to tweak some additional night light settings:
@@ -112,10 +112,6 @@ Let’s first check out how you can update the display drivers:
 
 ![Updating the Display drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/7-Updating-the-Display-drivers-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the next screen, select**Search automatically for updated driver software** and then follow the on-screen instructions.
 
  If this doesn’t resolve the issue, try reinstalling the Display adapters through these steps:
@@ -126,13 +122,13 @@ Let’s first check out how you can update the display drivers:
 4. Close the Device Manager when the process is complete.
 5. Restart your PC to apply these changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Use the Built-In Windows Troubleshooters
 
 ![A person using a Windows computer on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-computer-on-a-brown-desk.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Still struggling to resolve the "desktop color" issue? The Windows built-in troubleshooters could help! However, you should pick a relevant troubleshooter depending on the nature of the problem.
 
@@ -159,7 +155,11 @@ Let’s first check out how you can update the display drivers:
 ![Running the System Maintenance Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-System-Maintenance-Troubleshooter-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Scan and Remove Malware From Your PC
@@ -215,24 +215,19 @@ Here are the steps you need to follow:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-ultimate-tutorial-uploading-360-degree-footage-on-facebook/"><u>[New] 2024 Approved Ultimate Tutorial Uploading 360-Degree Footage on Facebook</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dance-directives-finding-ideal-dj-templates/"><u>[Updated] 2024 Approved Dance Directives Finding Ideal DJ Templates</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-screen-capture-without-a-penny-the-top-apps-reviewed-for-2024/"><u>[Updated] Screen Capture Without a Penny The Top Apps Reviewed for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ai-powered-screenshots-record-your-desktop-webcam-feeds-and-voice-with-winxvideo-effortlessly/"><u>AI-Powered Screenshots: Record Your Desktop, Webcam Feeds, and Voice with Winxvideo Effortlessly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amazons-exclusive-deal-asus-rog-strix-g16-just-1164-for-the-ultimate-2024-gaming-experience/"><u>Amazon's Exclusive Deal: ASUS ROG Strix G16 - Just $1,164 for the Ultimate 2024 Gaming Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/empowering-development-utilizing-windows-11s-dev-drive-tools/"><u>Empowering Development: Utilizing Windows 11'S Dev Drive Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expand-your-workspace-set-up-two-displays-on-your-m3-macbook-pro-as-effortlessly-as-you-do-on-the-macbook-air-insights-from-zdnet/"><u>Expand Your Workspace: Set Up Two Displays on Your M3 MacBook Pro as Effortlessly as You Do on the MacBook Air - Insights From ZDNet</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-stubborn-loading-screens-in-red-dead-redemption-2-a-step-by-step-guide/"><u>Fixing Stubborn Loading Screens in Red Dead Redemption 2 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-interlinking-giants-a-comprehensible-guide-for-instra-and-tikto/"><u>In 2024, Interlinking Giants A Comprehensible Guide for Instra & Tikto</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/increase-efficiency-the-top-5-win-folder-strategies-to-use-on-windows/"><u>Increase Efficiency: The Top 5 Win Folder Strategies to Use on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/outpace-your-connection-surpassing-100mbps-on-windows-pcs/"><u>Outpace Your Connection: Surpassing 100Mbps on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rising-against-suppression-my-stand-for-audio-visual-autonomy-in-edges-world/"><u>Rising Against Suppression: My Stand for Audio-Visual Autonomy in Edge's World</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/smooth-and-steady-turn-off-mouse-accel-in-win-11/"><u>Smooth and Steady: Turn Off Mouse Accel in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-mitigate-internal-error-in-windows-remote-desktop/"><u>Steps to Mitigate Internal Error in Windows Remote Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-for-addressing-error-code-0x80070522-enhancing-privileges/"><u>Tactics for Addressing Error Code 0X80070522: Enhancing Privileges</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-serenity-of-an-unadvertised-windows-start-menu/"><u>The Serenity of an Unadvertised Windows Start Menu</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-lenovo-convertible-reviewed-discover-the-power-of-the-yoga-a94n/"><u>Top Lenovo Convertible Reviewed: Discover the Power of the Yoga A94n</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-formatting-your-macs-hdd-or-external-storage-device/"><u>Ultimate Guide: Formatting Your Mac's HDD or External Storage Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-the-battle-against-xbox-game-passs-error-code-0x800700e9/"><u>Winning the Battle Against Xbox Game Pass’s Error Code: 0X800700E9</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unlocking-creativity-incorinasive-use-of-luts-in-video-editing/"><u>[New] 2024 Approved Unlocking Creativity Incorinasive Use of LUTs in Video Editing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-portable-playstation-storage-best-10-hdds-ssds/"><u>[New] Portable PlayStation Storage Best 10 HDDs, SSDs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-msi-afterburner-cant-recognize-your-graphics-card-in-windows-10-or-11/"><u>How to Fix: MSI Afterburner Can't Recognize Your Graphics Card in Windows 10 or 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-functionality-from-an-iphones-deadly-black-screen-malfunction/"><u>How to Restore Functionality From an iPhone's Deadly Black Screen Malfunction</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-share-your-laptop-screen-on-the-big-screen-using-googles-cast-technology/"><u>How to Share Your Laptop Screen on the Big Screen Using Google's Cast Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-solve-media-creator-tool-errors-winerror-0x8007043c/"><u>How to Solve Media Creator Tool Errors: WinError 0X8007043C</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-breakneck-speed-photo-display-on-your-pc/"><u>In 2024, Breakneck Speed Photo Display on Your PC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-pioneering-your-way-up-on-youtube-26-key-strategies/"><u>In 2024, Pioneering Your Way Up on YouTube 26 Key Strategies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-and-critique-of-the-gaomon-pd1/"><u>In-Depth Analysis and Critique of the Gaomon PD1</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-error-code-31-in-windows-os/"><u>Mastering the Art of Fixing Error Code 31 in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-unidentified-window-second-screen/"><u>Resolving Unidentified Window Second Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-methodology-for-windows-update-reset/"><u>Stepwise Methodology for Windows Update Reset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-win11-space-to-perfection/"><u>Tailoring Your Win11 Space to Perfection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/telnet-integration-in-modern-windows-11/"><u>Telnet Integration in Modern Windows 11</u></a></li>
 </ul></div>
 

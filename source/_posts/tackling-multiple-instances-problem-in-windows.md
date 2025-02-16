@@ -1,7 +1,7 @@
 ---
 title: Tackling 'Multiple Instances' Problem in Windows
-date: 2025-01-25T10:44:54.183Z
-updated: 2025-02-01T03:00:31.939Z
+date: 2025-01-30T01:50:04.489Z
+updated: 2025-02-02T19:55:46.804Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Reinstall Microsoft Visual C++ Packages
@@ -40,13 +40,17 @@ thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb
 4. Choose the most recent side-by-side error from the middle pane and note down the version number under the**General** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Open up your web browser and head over to the[Microsoft Visual C++ Redistributable download page](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) .
 6. Download and install the Visual C++ package corresponding to your version number.
 
  Restart your PC after this (see[how to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and try to launch your app or program one more time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Scans
 
@@ -59,10 +63,6 @@ To run the SFC scan on your computer:
 3. Select**Yes** when the User Account Control (UAC) prompt shows up.
 4. In the console, type**sfc /scannow** and press**Enter** .  
 ![Run SFC Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-SFC-Scan-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for the scan to complete and then run the DISM (or Deployment Image Servicing and Management) scan by entering the following command:
 
@@ -80,10 +80,6 @@ To run the SFC scan on your computer:
 4. Follow the on-screen prompts to run the troubleshooter and see if the error occurs again.  
 ![Program Compatibility Troubleshooter Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Program-Compatibility-Troubleshooter-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Repair the Problematic App
 
  If the Windows troubleshooter fails to find any problems, you can try repairing the problematic app on Windows. Here's how to do it.
@@ -99,6 +95,10 @@ To run the SFC scan on your computer:
 
  Alternatively, you can repair your apps and programs from Control Panel. To learn more about this, check our guide on[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Reinstall the Problematic App
 
  Repairing the app may not help much if the existing app data is corrupted or missing. In that case, your only option is to uninstall the problematic app and install it again.
@@ -108,11 +108,11 @@ To run the SFC scan on your computer:
 3. Select**Uninstall** again to confirm.  
 ![Uninstall App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Uninstall-App-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Head over to Microsoft Store and install the app again. Following this, the error should not bother you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Scan for Malware
 
@@ -127,10 +127,6 @@ To run the SFC scan on your computer:
  Press**Win + I** to open the Settings app and navigate to the**Windows Update** section. Click on**Check for updates** to download and install pending updates.
 
 ![Check for System Updates on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-for-System-Updates-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Perform a System Restore
 
@@ -148,6 +144,10 @@ To perform a system restore on Windows:
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/System-Restore-Dialog-on-Windows.jpg)
 
  Windows will restart and revert to the specified restore point. Following that, the error should be resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Start Using Your Apps Again
 
@@ -168,22 +168,22 @@ To perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-premier-list-top-free-video-recorder-software-explored/"><u>[New] 2024 Approved Premier List - Top Free Video Recorder Software Explored</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-prime-5-replacements-for-twitter-users/"><u>[New] 2024 Approved Prime 5 Replacements for Twitter Users</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-emulating-old-hollywood-style-in-modern-videos/"><u>[New] In 2024, Emulating Old Hollywood Style in Modern Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/choosing-between-a-chromebook-and-laptop-determining-the-ideal-device-for-you-zdnet/"><u>Choosing Between a Chromebook and Laptop: Determining the Ideal Device for You | ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convenient-administration-always-start-terminals-as-admin/"><u>Convenient Administration: Always Start Terminals as Admin</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-sid-sequences-in-windows-11-environments/"><u>Deciphering SID Sequences in Windows 11 Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easing-into-workflow-with-wont-open-photoshop-on-new-pcs/"><u>Easing Into Workflow with Won’t-Open Photoshop on New PCs</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhance-site-functionality-with-cookiebots-advanced-tech/"><u>Enhance Site Functionality with Cookiebot's Advanced Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-handle-windows-media-creator-error-0x8007043c/"><u>How to Handle Windows' Media Creator Error 0X8007043C</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-asus-rog-phone-7-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Asus ROG Phone 7 Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-camon-20-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Camon 20 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/masterful-fix-when-easy-anti-cheat-is-uninstalled-no-more-eac-errors-a-comprehensive-guide/"><u>Masterful Fix: When Easy Anti-Cheat Is Uninstalled, No More EAC Errors – A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-photo-app-achieving-perfect-background-blur/"><u>Mastering Windows 11'S Photo App: Achieving Perfect Background Blur</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-organization-best-windows-to-dos-compared/"><u>Unleashing Organization: Best Windows To-Dos Compared</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-power-options-pathway-to-cpu-extremes/"><u>Unveiling the Power Options Pathway to CPU Extremes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11s-easy-route-to-screen-grabber-tool/"><u>Windows 11'S Easy Route to Screen Grabber Tool</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/onquer-the-crowd-initiating-your-top-ranked-gaming-channel-for-2024/"><u>[New] Conquer the Crowd Initiating Your Top-Ranked Gaming Channel for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-unveiling-the-numbers-comprehensive-guide-to-count-views-clicks-and-cash-in-youtube-for-2024/"><u>[Updated] Unveiling the Numbers Comprehensive Guide to Count Views, Clicks, and Cash in YouTube for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-check-your-windows-computers-model-name/"><u>6 Ways to Check Your Windows Computer's Model Name</u></a></li>
+<li><a href="https://facebook.techidaily.com/addressing-inoperative-fb-postmessage-indicators/"><u>Addressing Inoperative FB Post/Message Indicators</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/breakthrough-backdrop-selection-revolutionize-your-tiktok-videos/"><u>Breakthrough Backdrop Selection Revolutionize Your TikTok Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-study-experience-dive-into-asus-vivobook-s-15/"><u>Elevate Your Study Experience: Dive Into ASUS Vivobook S 15</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-non-windows-tools-that-outperform-snipping-tool/"><u>Essential Non-Windows Tools That Outperform Snipping Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11s-zip-compression-issues-quickly/"><u>Fixing Windows 11'S Zip Compression Issues Quickly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-effortless-techniques-to-archive-google-call-transcripts/"><u>In 2024, Effortless Techniques to Archive Google Call Transcripts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keys-fans-ultimate-guide-to-score-lifetime-windows-11-at-unbeatable-price/"><u>Keys Fans' Ultimate Guide to Score Lifetime Windows 11 at Unbeatable Price</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nubia-red-magic-8s-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nubia Red Magic 8S Pro Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/never-again-struggle-with-file-explorer-on-windows-11/"><u>Never Again Struggle with File Explorer on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-resetting-windows-11-mailcalendar/"><u>Quick Guide: Resetting Windows 11 Mail/Calendar</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/teaching-with-technology-incorporating-youtube-into-lessons/"><u>Teaching with Technology Incorporating YouTube Into Lessons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-playbook-winning-at-ps1-gaming-on-windows-duckstation-edition/"><u>The Ultimate Playbook: Winning at PS1 Gaming on Windows - Duckstation Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-screens-skip-pin-in-windows-11-projections/"><u>Unlocking Screens: Skip PIN in Windows 11 Projections</u></a></li>
 </ul></div>
 

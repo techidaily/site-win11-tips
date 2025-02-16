@@ -1,7 +1,7 @@
 ---
 title: 7 Essential Steps for Dealing with Windows' HTTP Error 0X80860010
-date: 2024-08-16T01:15:06.695Z
-updated: 2024-08-17T01:15:06.695Z
+date: 2025-01-26T18:01:55.557Z
+updated: 2025-02-02T23:46:19.082Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
  But what causes the 0x80860010 error, and how do you resolve it? Let’s find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the "Application Made Too Many Requests" Error (0x80860010)?
 
  Here are some of the things that can cause this error:
@@ -35,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ## 1\. Restart the Affected App or Fix Network Issues
 
 ![A person using a Windows computer on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-computer-on-a-brown-desk.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the issue is caused by a minor bug on the app, then restarting the affected app should help.
 
@@ -52,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ## 2\. Sign Out and Sign Back Into Your Microsoft Account
 
 ![Entering a password on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/entering-a-password-on-a-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It's possible that the cause of the issue is related to your Microsoft account. Fortunately, signing out and then signing back into your account seems to be enough to fix any account-based causes.
 
@@ -74,8 +79,9 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
  Also, don't forget that misconfigured scripts and automation tools can cause apps to generate an excessive number of requests. So if you’re using an automation tool, you might want to configure its settings to get rid of the issue. Meanwhile, if you’re using an automation script, then it could be worth editing it to tackle the problem
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update or Reinstall the Faulty App
 
  If you’re still running into issues, then maybe it’s time to update or reinstall the problematic app. Outdated software can sometimes cause issues with request limits and lead to errors.
@@ -84,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
  If the issue persists, try uninstalling the app. If you're not sure how to do this, check out [the different ways to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). Once it's off your PC, download the app again from a reputable source, such as the developer's website or from the Microsoft Store.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Clean Out the App Cache and Windows' Temporary Files
 
  Accumulated cache and Windows' temporary files can sometimes interfere with an app’s request handling. Fortunately, cleaning both of these out is very easy.
@@ -96,16 +99,18 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
  Once you’ve deleted the cache and temporary files, empty the Recycle Bin to permanently remove the files from your device. Finally, restart your PC to save these changes.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Try Some Generic Windows Fixes
 
 ![A woman using a gray Windows laptop](https://thmb.techidaily.com/749189d3cf96e07116b3345727ad3fbca6dd8d53dc60a64adccf57fc91fbbcad.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
  There are a few tricks that act as a "cure-all" for Windows bugs, so it's worth giving these a try if nothing has worked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Perform a Clean Boot
 
@@ -119,16 +124,11 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
 ##
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conquering the "Application Made Too Many Requests" Error
 
  Coming across the "App made too many requests" error can instantly ruin your day. But the good news is you can tackle this problem by applying any of the solutions we’ve covered.
 
  But what causes the 0x80860010 error, and how do you resolve it? Let’s find out.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -137,5 +137,19 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-guide-to-top-free-vectors-graphics-sites-worldwide/"><u>2024 Approved Guide to Top Free Vectors, Graphics Sites Worldwide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722990661443-banish-freezes-forever-learn-how-pathfinder-for-pc-has-been-optimized-and-enhanced/"><u>Banish Freezes Forever! Learn How Pathfinder for PC Has Been Optimized and Enhanced.</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/effortless-repetition-replay-your-youtube-videos-via-tv-connection-for-2024/"><u>Effortless Repetition Replay Your YouTube Videos via TV Connection for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-experience-dragon-ball-chronologically-a-fans-blueprint/"><u>How To Experience Dragon Ball Chronologically – A Fan's Blueprint</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-winerror-0xc0000005/"><u>Mastering the Art of Fixing WinError 0Xc0000005</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-with-style-installation-and-usage-of-ms-store-themes/"><u>Navigate With Style: Installation and Usage of MS Store Themes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-launchers-security-failures-on-windows-systems/"><u>Navigating Launcher's Security Failures on Windows Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-bring-your-videos-to-life-top-live-photo-creation-apps-and-how-tos/"><u>Updated 2024 Approved Bring Your Videos to Life Top Live Photo Creation Apps and How-Tos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-editorial-techniques-select-from-the-top-8-video-trimming-titles/"><u>Winning Editorial Techniques: Select From The Top 8 Video Trimming Titles</u></a></li>
+<li><a href="https://win-best.techidaily.com/pcx-bmp-movavi/"><u>무료 PCX에서 BMP로 쉽게 전환하세요: Movavi의 사용자 친화적인 해상도 제공</u></a></li>
+</ul></div>
 

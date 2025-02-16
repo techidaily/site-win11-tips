@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Windows 11: Restarting Catroot & Distro Files"
-date: 2025-01-24T17:33:28.028Z
-updated: 2025-02-01T09:38:53.699Z
+date: 2025-02-02T01:15:09.682Z
+updated: 2025-02-02T16:37:53.550Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are the SoftwareDistribution and Catroot2 Folders?
 
@@ -71,7 +75,7 @@ net start msiserver`
 12. Restart the PC and check for updates after clearing those folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Renaming Them
@@ -83,10 +87,6 @@ net start msiserver`
 ![The net stop commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-stop-commands.jpg)
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
@@ -95,15 +95,15 @@ net start msiserver`
 ![The ren catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-catroot2-folder.jpg)
 5. Repeat step 11 of the preceding method by executing the four commands for restarting the disabled services.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The net start command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-start-commands.jpg)
 6. Exit Command Prompt and select to restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders With FixWin 11
@@ -118,10 +118,6 @@ net start msiserver`
 ![The Extract Compressed ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/extract-compressed-window.jpg)
 6. Double-click the **FixWin 11.1.exe** file in the extracted folder for FixWin.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click **Additional Fixes** on the left of the FixWin window.
 8. Select the **Quick Fixes** tab.
 9. Press the **Reset Software Distribution folder** button.  
@@ -129,6 +125,10 @@ net start msiserver`
 10. Click the **Reset catroo2 Folder** option.
 
 11. Exit FixWin and reboot your PC after selecting those options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix Windows Update Issues by Resetting the SoftwareDistribution and Catroot2 Folders
 
@@ -146,16 +146,22 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sound-of-skype-find-and-save-ringtones-easily/"><u>2024 Approved Sound of Skype Find and Save Ringtones Easily</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/experts-choice-top-iphone-file-salvaging-applications-for-ios-17-best-options-to-restore-your-lost-data/"><u>Expert's Choice: Top iPhone File Salvaging Applications for iOS 17 - Best Options to Restore Your Lost Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/game-changing-fps-tools-selecting-the-best-counters-for-your-win-11-setup/"><u>Game-Changing FPS Tools: Selecting the Best Counters for Your Win 11 Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-illusions-hiding-zip-contents-in-pictures/"><u>Mastering Windows 11 Illusions: Hiding Zip Contents in Pictures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-safe-disabling-of-windows-11-features/"><u>Navigating Safe Disabling of Windows 11 Features</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ransomware-on-phones-decoded-for-50-discover-secrets-with-chatgpts-insights-in-our-podcast-series/"><u>Ransomware on Phones Decoded for $50 - Discover Secrets with ChatGPT's Insights in Our Podcast Series</u></a></li>
-<li><a href="https://win11.techidaily.com/re-engaging-lost-lan-discovery-on-windows/"><u>Re-Engaging Lost LAN Discovery on Windows</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/revolutionizing-content-creation-the-insight-into-vimeos-capabilities-for-2024/"><u>Revolutionizing Content Creation The Insight Into Vimeo's Capabilities for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-extracting-ipmac-using-ps-on-pcs/"><u>Step-by-Step Guide: Extracting IP/MAC Using PS on PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-rated-xbox-gaming-headsets-comprehensive-reviews-and-testing-by-experts-zdnet/"><u>Top-Rated Xbox Gaming Headsets : Comprehensive Reviews and Testing by Experts - ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-to-overcome-wows-catastrophic-glitch-132/"><u>Unlocking Secrets to Overcome WoW's Catastrophic Glitch #132</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-ultimate-guide-to-crafting-exquisite-hdr-portraits/"><u>[New] 2024 Approved The Ultimate Guide to Crafting Exquisite HDR Portraits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-guide-converting-youtube-videos-to-mpegmp4/"><u>[New] In 2024, Essential Guide Converting YouTube Videos to MPEG/MP4</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-novel-approach-to-delivery-reinvented-box-revelations/"><u>[Updated] A Novel Approach to Delivery Reinvented Box Revelations</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-creating-engaging-youtube-content-a-step-by-step-approach-for-2024/"><u>[Updated] Creating Engaging YouTube Content A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/advanced-connections-the-premier-selection-of-cablewireless-routers-for-2amoons/"><u>Advanced Connections: The Premier Selection of Cable/Wireless Routers for 2Amoons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-crashing-file-explorer-on-windows-11-now/"><u>Fix Crashing File Explorer on Windows 11 Now</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-quick-clip-art-creator-seamless-image-to-cartoon-conversion/"><u>In 2024, Quick Clip-Art Creator Seamless Image-to-Cartoon Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-removing-window-search-artifacts/"><u>Mastery Over Removing Window Search Artifacts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-code-30015-26-in-m365-for-windows-computers/"><u>Resolving Error Code 30015-26 in M365 for Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stay-connected-tips-for-disabling-usb-power-save-mode/"><u>Stay Connected - Tips for Disabling USB Power Save Mode</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-power-state-errors-linked-to-drivers-on-windows-system/"><u>Step-by-Step Solution for Power State Errors Linked to Drivers on Windows System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-browsing-efficiency-on-windows/"><u>Streamlining Browsing Efficiency on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-path-to-reinstating-default-windows-backups/"><u>The Path to Reinstating Default Windows Backups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trouble-locating-astra-pilot-help-for-windows-11-pcs/"><u>Trouble Locating Astra Pilot? Help For Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-missing-5ghz-network-on-windows-11-top-7-solutions/"><u>Troubleshoot Missing 5GHz Network on Windows 11: Top 7 Solutions</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/understanding-boot-time-error-messages-on-your-pc-insights-from-yl-computing/"><u>Understanding Boot Time Error Messages on Your PC: Insights From YL Computing</u></a></li>
 </ul></div>
 

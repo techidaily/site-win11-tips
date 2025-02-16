@@ -1,7 +1,7 @@
 ---
 title: "Syncing Wireless and Cable on Windows: A Step-by-Step Tutorial"
-date: 2025-01-31T14:07:59.552Z
-updated: 2025-01-31T21:17:21.081Z
+date: 2025-01-26T17:05:44.088Z
+updated: 2025-02-02T22:54:47.220Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
  On the flip side, there are chances of packet loss due to duplicate packets being transmitted via both the Wi-Fi and Ethernet connection. Lower-end routers may also notice decreased speed due to increased load on your network device. This is part of the reasons[why you may want to replace your ISP's router](http://www.makeuseof.com/tag/reasons-replace-isp-router/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Configure Windows to Use Wi-Fi and Ethernet Connections Simultaneously
@@ -49,15 +49,11 @@ To disable packet priority and VLAN on Windows:
 ![control panel network change adapter settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/control-panel-network-change-adapter-settings.jpg)
 4. In the left pane, click on**Change adapter settings.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Right-click on your**Ethernet network adapter** and select**Properties** . Alternatively, double-click on the**Ethernet adapter** and then click on**Properties** .  
 ![ethernet properties configure networking control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ethernet-properties-configure-networking-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. In the**Networking** tab, click the**Configure** button.
@@ -73,6 +69,10 @@ To disable packet priority and VLAN on Windows:
 
  With the network adapter priority option disabled, Windows will now use both network connections simultaneously.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set the Network Priority for Wi-Fi or Ethernet Using Interface Metric
 
  By default, Windows uses an automatic metric to detect and use the best network connectivity option available. However, if you need, you can manually set network priority to force Windows to use Ethernet or Wi-Fi as the preferred connectivity option.
@@ -84,13 +84,13 @@ To change network priority on Windows:
 ![ncpa cpl open control panel network and sharing center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ncpa-cpl.jpg)
 3. Right-click on your Ethernet adapter and select**Properties** . If you want to prioritize your Wi-Fi adapter, choose that instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Next, select**Internet Protocol Version 4 (TCP/IPv4)** and click on**Properties** .  
 ![tcp ip v4 properties control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tcp-ip-v4-properties-control-panel.jpg)
 5. Click the**Advanced** button in the**Properties** dialog.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Next, uncheck**Automatic metric** and type**5** in the**Interface metric** field.
 7. Click**OK** on all the open windows to save the changes.
@@ -99,7 +99,7 @@ To change network priority on Windows:
  With the changes saved, Windows will prioritize your preference when multiple network adapters are connected to your computer. To undo the changes, open**Advanced TCP/IP Settings** and check the**Automatic** **metric** option. Then, click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Your Computer Use Your Wi-Fi and Ethernet at the Same Time
@@ -123,17 +123,14 @@ To change network priority on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-quick-tips-for-saving-and-storing-vimeo-videos/"><u>[New] In 2024, Quick Tips for Saving and Storing Vimeo Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cutting-edge-strategies-for-flawless-custom-shorts-coverage/"><u>[Updated] 2024 Approved Cutting-Edge Strategies for Flawless Custom Shorts Coverage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-digital-deceit-unmasking-fakes-in-windows-store-apps/"><u>Deciphering Digital Deceit: Unmasking Fakes in Windows Store Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-chromiums-network-gateway-through-windows-security/"><u>Enabling Chromium's Network Gateway Through Windows Security</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-12-pro-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme 12 Pro 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-discover-how-to-get-high-quality-images-at-zero-cost/"><u>In 2024, Discover How To Get High-Quality Images at Zero Cost</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-depth-look-is-inshot-the-premier-editing-tool/"><u>In-Depth Look Is InShot the Premier Editing Tool?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/patch-up-the-net-framework-on-windows-efficiently-max-156/"><u>Patch Up the .NET Framework on Windows Efficiently (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pivotal-points-a-roadmap-for-system-refreshment/"><u>Pivotal Points: A Roadmap for System Refreshment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-approach-to-rectify-device-not-found-in-virtualbox/"><u>Stepwise Approach to Rectify 'Device Not Found' In VirtualBox</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-ai-potential-for-improved-health-outcomes/"><u>Unleashing AI Potential for Improved Health Outcomes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-a-day-in-the-life-on-facebook-enhancing-participation-for-2024/"><u>[New] A Day in the Life on Facebook Enhancing Participation for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-dish-on-titles-crafting-captivating-cookery-channel-names-for-2024/"><u>[Updated] Dish on Titles Crafting Captivating Cookery Channel Names for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-step-by-step-emojis-in-youtube-comments/"><u>[Updated] In 2024, Step-by-Step Emojis in YouTube Comments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brightness-boost-for-windows-11-control-your-pcs-glow/"><u>Brightness Boost for Windows 11: Control Your PC's Glow</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/conversion-de-fichier-gratuit-en-ligne-aiff-a-m4a-avec-movavi/"><u>Conversion De Fichier Gratuit en Ligne : AIFF À M4A Avec Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-a1x-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo A1x 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insight-into-the-functionality-of-windows-component-services/"><u>Insight Into the Functionality of Windows Component Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-guide-for-outdated-pcs-on-their-way-to-windows-11/"><u>The Guide for Outdated PCs on Their Way to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-adobes-secrets-ms-store-version-acquisition/"><u>Unlocking Adobe's Secrets: MS Store Version Acquisition</u></a></li>
 </ul></div>
 

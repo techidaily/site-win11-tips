@@ -1,7 +1,7 @@
 ---
 title: "Swift File Stewardship: Streamlining GoogleDrive & Dropbox via Windows C:"
-date: 2024-08-16T01:10:53.558Z
-updated: 2024-08-17T01:10:53.558Z
+date: 2025-01-29T23:28:27.886Z
+updated: 2025-02-02T23:52:00.723Z
 tags:
   - windows10
   - windows11
@@ -48,12 +48,14 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 1. Right-click on **Google Drive's icon** on the tray, click on the **cog icon** on the top right to access its menu and choose **Preferences**. Click on the **cog icon** in Google Drive Preferences window to access your account's settings. Ensure there's a drive letter assigned to your Google Drive.  
 ![Google Drive Settings Drive Letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-settings-drive-letter.jpg)
 2. Visit the actual **drive letter** through any file manager and wonder how there's a "My Drive" folder instead of your files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Google Drive Actual Drive Letter Contents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-actual-drive-letter-contents.jpg)
 3. Try "entering" that folder and marvel at how the **path** changes to the true one where Google Drive's folder is stored, potentially breaking some apps.  
 ![Google Drive True Folder Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-true-folder-path.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, let's fix, or rather "sidestep" this little issue by exploiting how network folders work on Windows.
 
@@ -65,15 +67,23 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
 1. Run your favorite file manager and visit the path "directly above" your cloud storage folder (so that you can see it in your file manager).  
 ![Dropbox Folder In Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-in-windows-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Right-click on the folder and choose **Properties**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Dropbox Folder Windows Explorer Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties.jpg)
 3. Move to the **Sharing** tab and enable sharing for your folder. If you need help, check our guide on [how to access shared folders on Windows](https://www.makeuseof.com/unable-to-access-shared-folder-windows/).  
-![Dropbox Folder Windows Explorer Properties Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties-sharing.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Dropbox Folder Windows Explorer Properties Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties-sharing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Assign Letters to “Networked” Cloud Storage Folders
@@ -86,19 +96,15 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 ![Windows Explorer Localhost Shared Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-localhost-shared-folders.jpg)
 2. Right-click on it and choose **Map network drive**.  
 ![Windows Explorer Localhost Shared Folders Menu Map Network Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-localhost-shared-folders-menu-map-network-drive.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Choose the **letter** you want to assign to your cloud storage folder from the drop-down menu next to **Drive**. Click **Finish** to apply the change.  
 ![Windows Explorer Map Network Drive Letter Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-map-network-drive-letter-selection.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Visit your "new drive" using the letter you assigned, and you should have direct access to your cloud storage's contents.  
-![Windows Explorer Direct Access To Dropbox Folder From Letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-direct-access-to-dropbox-folder-from-letter.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Windows Explorer Direct Access To Dropbox Folder From Letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-direct-access-to-dropbox-folder-from-letter.jpg)
 
  The above implies that you'll set up your cloud storage client to fully sync all files and folders/keep them stored locally.
 
@@ -117,9 +123,9 @@ subst Z: "C:\Cloud Drives\Dropbox"
  After that, your folder should be accessible from the drive you assigned to it. If the change isn't apparent immediately, log off and back on or restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Local Folder for Your Cloud Storage on Windows
 
  Thanks to Microsoft's somewhat square logic of "if it's a shared folder, you can map it, no matter where it is", it's easy to access your cloud storage folders directly from a drive letter. All it takes is to share them with yourself!
@@ -130,8 +136,6 @@ subst Z: "C:\Cloud Drives\Dropbox"
 
  That's why you can find extra third-party tools that assist in using cloud storage "as a normal drive". For this article, though, we'll do the same by exploiting Windows' built-in shared folders functionality!
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -139,5 +143,22 @@ subst Z: "C:\Cloud Drives\Dropbox"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-expert-guide-streaming-and-saving-hulu-seasons-flawlessly/"><u>[Updated] In 2024, Expert Guide Streaming and Saving Hulu Seasons Flawlessly</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-uniting-networks-sharing-fb-vids-on-whatsapp-chat/"><u>[Updated] Uniting Networks Sharing FB Vids on WhatsApp Chat</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024top5/"><u>推薦：2024年熱門免費錄影系統TOP5清單</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-compreenhensive-guide-to-everyones-gpt-4/"><u>A Compreenhensive Guide to Everyone's GPT-4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-an-educational-ambiance-for-windows/"><u>Creating an Educational Ambiance for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-system-performance-via-alomware-settings-utility/"><u>Enhance System Performance via AlomWare Settings Utility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-admin-denial-in-cmd-window-on-windows-10/"><u>Fixing Admin Denial in CMD Window on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-zero-5g-2023-turbo-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Zero 5G 2023 Turbo If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-recover-lost-downloads-in-chrome-on-your-windows-pc/"><u>How to Recover Lost Downloads in Chrome, on Your Windows PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-13-pro-maxipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 13 Pro Max/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-drivers-for-your-hp-deskjet-ink-advantage-3755-now-supports-windows-11-10-8-and-7-download-today/"><u>Latest Drivers for Your HP DeskJet Ink Advantage 3755: Now Supports Windows 11, 10, 8 and 7 - Download Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-proxy-detection-corrections/"><u>Mastering Windows Proxy Detection Corrections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinforced-graphics-elevating-edges-protected-mode/"><u>Reinforced Graphics: Elevating Edge's Protected Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-shopping-microsoft-store-error-0x80072f30-cure/"><u>Simplify Your Shopping: Microsoft Store Error 0X80072F30 Cure</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/understanding-and-fixing-epson-error-x97/"><u>Understanding & Fixing Epson Error X97</u></a></li>
+</ul></div>
 

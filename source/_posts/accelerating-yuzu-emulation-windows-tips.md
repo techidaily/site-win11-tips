@@ -1,7 +1,7 @@
 ---
 title: "Accelerating Yuzu Emulation: Windows Tips"
-date: 2024-08-16T01:12:39.836Z
-updated: 2024-08-17T01:12:39.836Z
+date: 2025-01-31T02:13:15.109Z
+updated: 2025-02-02T21:25:00.338Z
 tags:
   - windows10
   - windows11
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 3. In the right pane, go to the **Display** settings.
 4. Click on **Graphics** under **Related settings**.  
 ![Clicking on the Graphics Option under Related Settings in Display Menu in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Clicking-on-the-Graphics-Option-under-Related-Settings-in-Display-Menu-in-Windows-Settings-App.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Choose the **Desktop app** from the **Add an app** dropdown and click the **Browse** button.  
 ![Clicking on the Browse Button after Choosing Desktop App from the Add an App Dropdown Menu Under Graphics Tab in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/2-Clicking-on-the-Browse-Button-after-Choosing-Desktop-App-from-the-Add-an-App-Dropdown-Menu-Under-Graphics-Tab-in-Windows-Settings-App.jpg)
 6. Go to the location where the Yuzu emulator's executable file resides, which is usually as follows:  
@@ -51,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 ![Clicking on the Options Button After Clicking on the Yuzu Emulator in the List of Installed Apps in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Clicking-on-the-Options-Button-After-Clicking-on-the-Yuzu-Emulator-in-the-List-of-Installed-Apps-in-Windows-Settings-App.jpg)
 9. Hit **Save** after switching the graphics preference to **High performance**.  
 ![Hitting the Save Button after Switching the Graphics Preferences for Yuzu Emulator to High in the Options Tab of Yuzu Emulator in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Hitting-the-Save-Button-after-Switching-the-Graphics-Preferences-for-Yuzu-Emulator-to-High-in-the-Options-Tab-of-Yuzu-Emulator-in-Windows-Settings-App.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're using the Yuzu emulator on Windows 10, follow the instructions in our [guide on choosing the preferred GPU for apps](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) to adjust the graphics preferences.
@@ -67,15 +65,17 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 3. Navigate to the **General** tab on the left.
 4. In the right pane, click **Reset All Settings**.  
 ![Clicking on the Reset All Settings Option in General Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/clicking-on-the-reset-all-settings-option-in-general-settings-of-yuzu-emulator-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have already customized the emulator's settings for your games, you can follow the below tips without resetting the settings. However, if possible, do so before continuing.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Disable VSync
 
  By preventing the screen from tearing, VSync enhances graphics display. However, it comes at the cost of slow game performance. In addition, some graphics cards have difficulty delivering good performance when this option is enabled. Therefore, you should disable this option in the emulator's settings. To do that, follow these steps:
@@ -87,15 +87,13 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 5. Select **Off** next to the **VSync Mode** dropdown menu.
 6. Click **OK**.  
 ![Disabling the VSync Mode in the Yuzu Emulator Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disabling-the-vsync-mode-in-the-yuzu-emulator-settings-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If disabling VSync further disrupts game performance, enable it again.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Switch Region
 
  The emulator also performs better when you select the region closest to you in the emulator settings. Follow these steps to switch the region in the emulator settings:
@@ -107,7 +105,15 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 5. Then click **OK**.  
 ![Clicking on the OK Button after Choosing the Region in the Region Dropdown Menu in the System Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/clicking-on-the-ok-button-after-choosing-the-region-in-the-region-dropdown-menu-in-the-system-settings-of-yuzu-emulator-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have selected the closest region, switch to another region and see how it affects game performance. Choose the one that provides you with the best performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Change Limit Speed Percent Settings
 
@@ -118,8 +124,9 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 3. In the left sidebar, go to the **General** tab.
 4. Set the **Limit Speed Percent** value to **100%**, which is the default. Additionally, you can increase it further to see how it impacts the game's performance or uncheck the option entirely.  
 ![Increasing the Speed Limit by Clicking on the Limit Speed Percent Option in General Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/increasing-the-speed-limit-by-clicking-on-the-limit-speed-percent-option-in-general-settings-of-yuzu-emulator-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Change the Accuracy Level
@@ -134,9 +141,6 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 4. Select the **Advanced** tab.
 5. From the **Accuracy Level** dropdown, choose **Normal**.  
 ![Changing the Accuracy Level to Normal in Yuzu Emulator Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/changing-the-accuracy-level-to-normal-in-yuzu-emulator-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Change Graphics API Settings
 
@@ -149,9 +153,6 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 3. In the left sidebar, go to the **Graphics** tab.
 4. Select your desired **API** from the dropdown menu.  
 ![Switching the API from the Dropdown in Graphics Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/switching-the-api-from-the-dropdown-in-graphics-settings-of-yuzu-emulator-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 10\. Disable Audio
 
@@ -165,15 +166,14 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 ![Dragging the Volume Slider to Left after Selecting Null in the Dropdown Menus of Output Engine Input Device and Output Device Options in Audio Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/dragging-the-volume-slider-to-left-after-selecting-null-in-the-dropdown-menus-of-output-engine-input-device-and-output-device-options-in-audio-settings-of-yuzu-emulator-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Speed Up Yuzu Emulator on Windows
 
  Laggy emulators ruin our leisure time. Hopefully, by making the changes mentioned in the article, you should be able to speed up the Yuzu emulator. If the emulator continues to lag, switch to another Nintendo Switch emulator. As alternatives, Ryujinx and Cemu are the best choices.
 
  Therefore, if the bad performance of the Yuzu emulator spoils your gaming experience, we'll show you how to speed it up and play games at a decent frame rate.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -182,5 +182,18 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-comprehensive-studio-study-xvideo-studio-insights/"><u>[New] In 2024, Comprehensive Studio Study XVideo Studio Insights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-ranking-the-top-10-stealth-story-fans/"><u>[New] In 2024, Ranking the Top 10 Stealth Story Fans</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-infinite-space-top-10-external-hard-drives-for-ps5-for-2024/"><u>[New] Infinite Space Top 10 External Hard Drives for PS5 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-zero-price-maximum-fun-quickmemes-101/"><u>[New] Zero Price, Maximum Fun QuickMemes 101</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-insight-into-hardware-allocated-memory-in-windows/"><u>An Insight Into Hardware-Allocated Memory in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-classic-gaming-collection-with-retroarch-achievements-tutorial/"><u>Enhance Your Classic Gaming Collection with Retroarch Achievements Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-efficiency-of-frozen-windows-safety-mode/"><u>Enhancing Efficiency of Frozen Windows Safety Mode</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-honor-90-gt-by-drfone-android/"><u>How to Bypass FRP from Honor 90 GT?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-revolutionize-your-channels-thumbnails-with-these-tools/"><u>In 2024, Revolutionize Your Channel's Thumbnails with These Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-content-exclusive-access-to-premium-video-editing-for-absolutely-no-cost/"><u>Revolutionize Your Content: Exclusive Access to Premium Video Editing for Absolutely No Cost!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/riding-out-the-storm-conquering-xbox-app-glitches-on-win11/"><u>Riding Out the Storm: Conquering Xbox App Glitches on Win11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Disable Auto-Play of Spotify in Windows
-date: 2025-01-28T00:58:21.746Z
-updated: 2025-02-01T06:41:54.488Z
+date: 2025-01-30T18:09:35.992Z
+updated: 2025-02-02T20:43:54.613Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Stop Spotify From Opening Automatically by Changing Its Startup Behavior
@@ -41,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 ![Spotify Startup Behavior on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/spotify-startup-behavior-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, Spotify should no longer open automatically when you boot up your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Stop Spotify From Opening Automatically Using Windows Task Manager
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 2. Switch to the**Startup apps** tab using the left pane.
 3. Locate and select**Spotify** from the list. Then, click the**Disable** button at the top.  
 ![Disable Spotify as a Startup App Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-spotify-as-a-startup-app-using-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you complete the above steps, Spotify’s status should change to**Disabled** in the Task Manager app. Following that, the app will not open during startup. Later, if you want to re-enable Spotify as a startup app, you can change its status back to**Enabled** .
 
@@ -76,11 +80,7 @@ To stop Spotify from opening at startup via the Settings app:
 ![Disable Spotify as a Startup App via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-spotify-as-a-startup-app-via-windows-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prevent Spotify From Launching at Startup on Windows
@@ -104,19 +104,24 @@ To stop Spotify from opening at startup via the Settings app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-frame-it-right-essential-2023-tools-and-sites-for-image-edits/"><u>[New] 2024 Approved Frame It Right Essential 2023 Tools & Sites for Image Edits</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-filming-availability-pledge-downloading-rights/"><u>[New] In 2024, Filming Availability Pledge Downloading Rights</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-innovative-use-of-plugins-for-skype-call-capture-in-obs-for-2024/"><u>[New] Innovative Use of Plugins for Skype Call Capture in OBS for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-reverting-to-classic-from-sierra-to-os-x-1010-for-2024/"><u>[New] Reverting to Classic From Sierra To OS X 10.10 for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-steps-for-effective-ipad-screen-casts-for-2024/"><u>[New] Steps for Effective iPad Screen Casts for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-and-repairing-defrag-glitch-in-os/"><u>Diagnosing and Repairing Defrag Glitch in OS</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-8-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 8 Plus to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reconnect-steam-in-windows-environment/"><u>How to Reconnect Steam in Windows Environment</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-realme-narzo-60x-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-nature-exceptional-weather-apps-for-windows-11/"><u>Navigating Nature: Exceptional Weather Apps for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-login-problems-8-effective-solutions/"><u>Navigating Windows Login Problems: 8 Effective Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/office-upgrade-effortless-installation-in-windows-1011/"><u>Office Upgrade: Effortless Installation in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-the-enigma-of-endless-c-drive-usage/"><u>Solving The Enigma of Endless C: Drive Usage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-to-optimize-your-use-of-slack-reminders/"><u>Step-by-Step Instructions to Optimize Your Use of Slack Reminders</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-deciphers-for-digital-content-creators-youtubes-keyword-techniques/"><u>[New] 2024 Approved Deciphers for Digital Content Creators YouTube's Keyword Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-expand-your-creative-toolkit-incorporating-custom-fonts-into-after-effects/"><u>[New] Expand Your Creative Toolkit Incorporating Custom Fonts Into After Effects</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716069811180-new-in-2024-capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series/"><u>[New] In 2024, Capturing Screen Content via Built-In Recorders in the Mate and P Series.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-youtube-for-filmmakers-revolutionizing-visual-storytelling/"><u>[New] In 2024, Youtube for Filmmakers Revolutionizing Visual Storytelling</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-next-gen-tech-talk-samsungs-bdplus-k850-ultra-review/"><u>[Updated] Next-Gen Tech Talk Samsung's BD+ K850 Ultra Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-toy-quadcopters-reviewed-kids-edition/"><u>Best Toy Quadcopters Reviewed (Kids Edition)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719381834367-cep-library-integration/"><u>CEP Library Integration:</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-not-empty-assertion-a-practical-guide-to-x80070091-fixes/"><u>Disabling 'Not Empty' Assertion: A Practical Guide to X80070091 Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-user-experience-with-cookiebots-powerful-tracking-solutions/"><u>Enhanced User Experience with Cookiebot's Powerful Tracking Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719218779653-expert-tips-reinstating-functionality-of-wwinplusp-in-os/"><u>Expert Tips: Reinstating Functionality of WWin+P in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-disparities-in-cloud-and-offline-windows-updates/"><u>Exploring Disparities in Cloud and Offline Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrate-compatibility-troubleshoot-in-windows-clippy/"><u>Integrate Compatibility Troubleshoot in Windows Clippy</u></a></li>
+<li><a href="https://win-unique.techidaily.com/macro-editing-find-and-highlight-text-with-emeditor-a-comprehensive-guide/"><u>Macro Editing: Find & Highlight Text with EmEditor - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-prevent-windowed-app-relocations/"><u>Methods to Prevent Windowed App Relocations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-gaming-performance-highlighted-as-amds-zen-4-flagship-surpasses-zen-5-benchmarks-ryzen-7-7800x3d-outpaces-the-previous-generation-with-a-23-speed-lead-o9/"><u>New Gaming Performance Highlighted as AMD's Zen 4 Flagship Surpasses Zen 5 Benchmarks: Ryzen 7 7800X3D Outpaces the Previous Generation with a 23% Speed Lead over Ryzen 9 9900X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/say-goodbye-to-old-files-enabling-the-autodelete-option-on-windows-11/"><u>Say Goodbye to Old Files: Enabling the Autodelete Option on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-address-unsuccessful-onedrive-procedures/"><u>Strategies to Address Unsuccessful OneDrive Procedures</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-honor-x9a-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Honor X9a Phone Hassle-Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-customization-increasing-icon-dimensions-in-w11/"><u>Winning at Customization: Increasing Icon Dimensions in W11</u></a></li>
 </ul></div>
 

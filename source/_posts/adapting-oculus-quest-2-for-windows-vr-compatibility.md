@@ -1,7 +1,7 @@
 ---
 title: Adapting Oculus Quest 2 for Windows VR Compatibility
-date: 2024-08-16T01:14:14.799Z
-updated: 2024-08-17T01:14:14.799Z
+date: 2025-01-28T01:39:00.468Z
+updated: 2025-02-02T20:05:41.952Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
  Many people get the Oculus Quest 2 because it’s a standalone virtual reality (VR) headset that doesn't require a beefy PC to run. However, you can still effectively turn a Quest 2 into an Oculus Rift Windows PC VR headset and open up a whole new world of virtual reality.
 
  Turning the Oculus Quest 2 into a Windows PC VR headset will enable you to access the full Oculus Rift library of apps and manage them from your computer. This is how you can transform the Oculus Quest 2 into a Windows PC VR headset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What You’ll Need to Utilize Oculus Link on Windows
 
@@ -38,17 +42,20 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
 2. Click the**Download Software** option for the Oculus Quest 2.  
 ![The Download Software option for Oculus Windows app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-software-option.jpg)
 3. Double-click the**OculusSetup** file once it's downloaded.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the**Get started** and**Agree** buttons.
 5. Select**Install Now** to add Oculus to your software library.  
 ![The Install Now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-now-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 6. You’ll be prompted to either set up an Oculus account or sign in with an existing one. Select to sign in with the account you use for your Oculus Quest 2 headset.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set Up Oculus Link
 
  When you’ve installed the Oculus software as outlined above, you can connect your Oculus Quest 2 headset to a Windows PC. These are the steps for adding a device with the Oculus software.
@@ -68,23 +75,14 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
 5. Now your Oculus Quest 2 will be connected to the PC. Put on the headset and input the unlock pattern as per usual to enter the home environment.
 6. Select the**Allow** option to allow your PC to access the data on the Oculus Quest 2\. Then you can [transfer files from the Oculus Quest 2 to your PC](https://www.makeuseof.com/transfer-files-oculus-quest-2-windows/) .  
 ![The Allow option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-connected-device-to-access-files.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. The second prompt asks you to enable Oculus Quest Link. Select the**Enable** option.  
 ![The Enable Oculus Link prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-quest-link.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ## How to Get Into Oculus Dash on the Oculus Quest 2
 
  When you’ve enabled Quest Link in your headset, you’ll enter a new Oculus Dash home environment. That’s essentially a new user interface in which you can browse the Oculus Rift store from which to download/install apps for your Quest 2\. Press the**Store** button to bring up the Oculus Rift storefront.
 
 ![The Oculus Rift Store in Dash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/oculus-rift-storefront.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 
  Now you’ll have the Oculus Rift store at your fingertips on your Oculus Quest 2\. There you can download and install VR apps that will be stored on your PC’s hard drive. Download a freely available entertainment app from there to get started.
 
@@ -102,26 +100,36 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
  You can run an app by pressing the**Library** button. Then select the**Apps** tab to view the ones you’ve downloaded. Select an app to launch from there with your Quest 2 controller.
 
 ![The Library button in Dash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/library-button.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Oculus Dash also has a Home VR feature. That’s a customizable virtual living room you can have some fun in. There you can pick up objects and rearrange the living room as you see fit.
 
 ![A screenshot captured in Dash's Home VR feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/home-feature-sceenshot.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can access that virtual environment by pressing the**Home** button on the Dash bar. Press the**Menu** button on the left control stick to bring up the menu for customizing the environment. Then select**Inventory** to add new things to the environment from the**Base** ,**Objects** , and**Decorations** tabs on that menu.
 
 ![The Home customization menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/home-customize-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Virtual Desktop is another notable feature of Dash that enables you to see and access your Windows desktop within the Quest 2 headset – when it works right. However, many users have reported seeing a blank, black screen when they try to utilize that feature.
 
  When you want to go back to the default Quest 2 home environment, select the**Disable Quest Link** option on the Dash taskbar. You can return to the Dash environment anytime from the Settings dashboard. Select the clock with your controller to enable Quest Link from there.
 
 ![The Disable Quest Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-quest-link-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Manage Your PC VR App Library from Windows
 
@@ -132,26 +140,16 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
  To remove apps, click**Library** in the Oculus Windows software; select the**Apps** tab to view your library. Click the menu button for an app to select**Uninstall** .
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-app-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
  The Oculus software also includes library location options, with which you can set the default path for installing Rift Store apps. To access those options, click**Settings** \>**General** . Then press the**Edit** button for the**Library Location** .
 
 ![The Edit library location options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-library-locations.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  You can add a new default installation folder for the apps by pressing the**Add** location button. Choose a new directory in the window, and click the**Select Folder** button. Press the three-dot button for the new location by selecting**Make Default** .
 
  You can configure some options for the headset from the**Devices** tab. Click the headset you’ve added in that tab to bring up Quest 2 microphone, headphone, and graphics preferences settings. Clicking**Graphics Preferences** there will enable you to select alternative Quest 2 refresh rate options and configure the rendering resolution.
 
 ![Audio settings for PC VR in the Oculus software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/audio-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Upgrade the Oculus Quest 2 With Your Windows PC
 
@@ -163,8 +161,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,8 +168,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-crafting-youtube-entrance-videos-with-the-top-tools/"><u>[New] Crafting YouTube Entrance Videos with the Top Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-premier-mobile-gaming-best-android-gb-simulators/"><u>[New] Premier Mobile Gaming Best Android GB Simulators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-crafting-windows-11-extractable-files/"><u>A Step-by-Step Guide to Crafting Windows 11 Extractable Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-windows-pcs-into-transcoding-hubs-via-tdarr/"><u>Boost Windows PCs Into Transcoding Hubs via Tdarr</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-code-0x800f0831-the-key-to-smooth-windows/"><u>Decoding Code 0X800F0831: The Key to Smooth Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/four-straightforward-methods-for-lenovo-screenshots-for-2024/"><u>Four Straightforward Methods for Lenovo Screenshots for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-evaluation-of-the-mohu-leafs-tv-signal-receiver-for-49/"><u>In-Depth Evaluation of the Mohu Leaf's TV Signal Receiver for $49</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/infuse-sound-with-microsoft-powerpoint-decks/"><u>Infuse Sound with Microsoft PowerPoint Decks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-windows-11-admin-details-effectively/"><u>Revamp Your Windows 11 Admin Details Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-choosing-a-smart-sprinkler-controller-for-2e24-features-of-rachio-rainmachine-vs-wyze-by-experts-at-zdnet/"><u>The Ultimate Guide to Choosing a Smart Sprinkler Controller for 2E24: Features of Rachio, Rainmachine Vs. Wyze by Experts at ZDNET</u></a></li>
+<li><a href="https://win-dash.techidaily.com/usb-c-compatibility-essential-drivers-for-windows-11-users/"><u>USB-C Compatibility: Essential Drivers for Windows 11 Users</u></a></li>
+</ul></div>
 

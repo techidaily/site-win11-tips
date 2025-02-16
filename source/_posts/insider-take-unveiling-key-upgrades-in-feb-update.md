@@ -1,7 +1,7 @@
 ---
 title: "Insider Take: Unveiling Key Upgrades in FEB Update"
-date: 2025-01-31T04:39:51.282Z
-updated: 2025-01-31T23:18:09.908Z
+date: 2025-01-28T22:08:55.867Z
+updated: 2025-02-02T20:05:31.691Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
 ![Search in Taskbar Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-in-taskbar-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Before the February 2023 update, there was no search functionality in Task Manager. As a result, users could not find the task or process quickly. The February feature drop fixes the issue by introducing a search strip at the very top of the Task Manager.
 
  If for some reason, you want to check what's happening with a particular task or process, you can easily find it by using the search strip instead of scrolling through the bottom to spot it in Task Manager. After successfully installing the February 2023 update, you should immediately see the search functionality in the Task Manager, as it is enabled by default.
@@ -54,28 +50,24 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
  Bear in mind the ability to select between two taskbar modes is available only for tablets and convertibles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New Designs for the Search Bar in the Taskbar
 
 ![Search design options in Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/searchbar-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can finally change the design of Search on the Windows 11 Taskbar after installing the February 2023 update. Three different design options exist for the Taskbar Search:**Search icon only** ,**Search icon with label** , and**Search box** .
 
  Among the three design options, the last one will occupy the most space in Taskbar. The ability to hide Search from appearing in Taskbar is also there. If you need more help, check out[how to get started with Windows 11 Taskbar Search](https://www.makeuseof.com/windows-11-taskbar-search/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. New Energy Recommendations Settings to Reduce Your Carbon Footprint
 
 ![Energy Recommendations in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/energy-recommendations-in-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The February 2023 feature drop offers a new way to control your environmental impact by introducing**Energy Recommendations** in the Settings app. The new setting allows you to reduce your carbon footprint by lowering the energy consumption of your PC.
 
@@ -93,11 +85,19 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
 ![Windows 11 Studio Effects in Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-studio-effects-in-quick-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image credit:[Microsoft](https://blogs.windows.com/windowsexperience/2023/02/28/introducing-a-big-update-to-windows-11-making-the-everyday-easier-including-bringing-the-new-ai-powered-bing-to-the-taskbar/)
 
  Do you want to look and sound your best in a conference call? The "Windows Studio effects" is your best friend. Windows Studio effects is a collection of audio and video effects you can customize based on the current scenario.
 
  After installing the February 2023 update, you can easily access new Windows Studio effects, as they are now in the Taskbar in Quick Settings. This means you can now tweak the background blur, eye contact, and automatic framing from the Quick Settings in Taskbar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. More Widgets for Windows 11
 
@@ -107,17 +107,9 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
  Hopefully, more first-party and third-party widgets will be available via "Moment" updates in the future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. A Full-Screen Widgets Panel
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can change the size of the Widgets panel to take up the entire space of your PC screen after installing the Windows 11 February feature update. You can click on the**enlarge icon** , located right beside the**user profile logo** , to expand the Widgets panel.
 
@@ -125,19 +117,23 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
  If you are not familiar with Widgets, check out[how to get started with Windows 11's Widgets](<http://If> the previous state of the panel was full-screen, it would take the entire screen space when you launch it next time.) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Record Your Screen With the Snipping Tool
 
 ![New Snipping Tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-snipping-tool-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Before the arrival of the Windows 11 February 2023 update, users were primarily dependent on third-party tools like OBS Studio to capture what was happening on their PC screens. But now, the new Snipping Tool can also start a recording session of what is happening on your PC screen.
 
  You can select a portion of your screen before starting the session. Also, you can pause or resume the recording whenever you like. However, screen recording in Snipping Tool will only record what is going on your screen, not the audio.
 
  You can click the Start button on the Taskbar and type "Snipping Tool," and then press**Enter** on your keyboard to open the app. To start a screen recording session, click the**video cam icon** and click**New** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. A Tabbed Interface in Notepad
 
@@ -150,6 +146,10 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 ## What Else Is Included in the Windows 11 February 2023 Update?
 
  Microsoft also introduced a redesigned Quick Assist app, voice access improvements, AI-powered file recommendations in Start for AAD joined devices, and Phone Link for iOS (Preview) devices in the February 2023 update. The software giant also introduced the new AI Bing in Windows 11 taskbar search but removed it a few days later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You Can Do More With the Windows 11 February 2023 Update
 
@@ -170,19 +170,21 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/he-journey-from-content-creator-to-money-maker-on-youtube-for-2024/"><u>[New] The Journey From Content Creator to Money-Maker on YouTube for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-easy-ways-to-record-google-voice-calls/"><u>[Updated] 2024 Approved Easy Ways to Record Google Voice Calls</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/beyond-cords-discovering-the-m06-audio-revolution/"><u>Beyond Cords: Discovering the M06 Audio Revolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dive-into-cmd-uncovering-five-fascinating-features/"><u>Dive Into CMD: Uncovering Five Fascinating Features</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-pdf-v11-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Free electronic signature for PDF v1.1 document</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-14-plusipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 14 Plus/iPad Without Computer</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-apple-iphone-13-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Apple iPhone 13 Pro Max iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/intel-processor-age-detection-a-windows-users-guide-8-methods/"><u>Intel Processor Age Detection: A Windows User’s Guide (8 Methods)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-terminal-5-amusing-stunts-for-command-line/"><u>Master the Terminal: 5 Amusing Stunts for Command Line</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-corrupted-file-error-0x80070570-on-modern-windows-oses/"><u>Solving Corrupted File Error 0X80070570 on Modern Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-settings-restarting-and-clearing-windows-11-apps/"><u>Streamlined Settings: Restarting and Clearing Windows 11 Apps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-zte-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track ZTE Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-unifying-device-use-for-effortless-stickies/"><u>Windows 11: Unifying Device Use for Effortless Stickies</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-comprehensive-breakdown-exploring-lgs-widescreen-uhd-display-for-2024/"><u>[New] Comprehensive Breakdown Exploring LG's Widescreen UHD Display for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-safaris-picture-in-picture-feature-usage-guide/"><u>[Updated] Safari's Picture-in-Picture Feature Usage Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/atalakitasra-a-legjobb-elevenek-tsmp4-konvertalas-online-mac-windows/"><u>Átalakításra A Legjobb Elevenek - Tsmp4 Konvertálás Online, Mac, Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boosting-creativity-top-tips-and-tricks-for-lunapic-editors/"><u>Boosting Creativity Top Tips & Tricks for LunaPic Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-the-ideal-placement-for-onedrive-on-windows-11/"><u>Crafting the Ideal Placement for OneDrive on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-out-the-webp-savings-in-google-chrome-for-windows/"><u>Cutting Out the WebP Savings in Google Chrome for Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/fb-forum-film-replayer-for-2024/"><u>Fb Forum Film Replayer for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-obs-studio-vs-fraps-which-is-a-better-screen-capture-software/"><u>In 2024, OBS Studio vs Fraps – Which Is A Better Screen Capture Software?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-a-toolbar-update-check-feature-into-windows-11plus11-interface/"><u>Integrating a Toolbar Update Check Feature Into Windows 11+11 Interface</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-trends-through-in-depth-analysis-at-toms-hardware-resource/"><u>Mastering Tech Trends Through In-Depth Analysis at Tom's Hardware Resource</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-dxgi-error-messages-windows-1011/"><u>Navigating Through DXGI Error Messages (Windows 10/11)</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-filtered-spectacles-for-computers/"><u>Optimal Filtered Spectacles for Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-0x80070522-resolving-client-permissions-issue-on-windows-systems/"><u>Overcoming 0X80070522: Resolving Client Permissions Issue on Windows Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/sion-cinematography-ideal-lenses-for-digital-storytellers/"><u>Precision Cinematography Ideal Lenses for Digital Storytellers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-windows-updater-error-0xca00a009/"><u>Repairing Windows Updater Error #0xCA00A009</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-your-pc-mastering-the-art-of-program-minimization/"><u>Speed Up Your PC: Mastering the Art of Program Minimization</u></a></li>
 </ul></div>
 

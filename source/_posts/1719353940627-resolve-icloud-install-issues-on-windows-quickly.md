@@ -1,7 +1,7 @@
 ---
 title: Resolve iCloud Install Issues on Windows Quickly!
-date: 2024-08-16T01:11:41.713Z
-updated: 2024-08-17T01:11:41.713Z
+date: 2025-01-31T20:21:59.475Z
+updated: 2025-02-03T00:23:38.243Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
  If you’re irked by a similar issue yourself, here are some solutions that should help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install the Media Feature Pack
 
  One unusual reason why you might be unable to install iCloud is if Windows Media Player is missing or disabled on your PC. In that case, you might get the error message "Your computer is missing media features" while installing iCloud.
@@ -28,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
 ![iCloud Installation Error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/icloud-installation-error.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 2\. Turn On Media Features
 
  The iCloud app relies on Windows Media Player to play audio and video files on your computer. If you have previously disabled Media Features on your PC, iCloud won't install unless you re-enable them.
@@ -44,15 +45,9 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 5. Tick the checkboxes next to **Media Features** and **Windows Media Player**.
 6. Click **OK** to save changes.  
 ![Enable Media Features on Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enable-media-features-on-windows-pc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 
 [Restart your PC](https://www.makeuseof.com/windows-restart-methods/) after completing the above steps, and then try to install iCloud again.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Remove the Previous Version of iCloud
 
  Another reason why you may have trouble installing iCloud from the Microsoft Store is if an older version of the app is already available on your PC. If that’s the case, you will need to remove the previous version of iCloud to fix the issue. Here’s how you can go about it.
@@ -64,11 +59,12 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 5. Select **Remove** and click **Next**.  
 ![Uninstall iCloud on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/uninstall-icloud-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once removed, you should be able to download and install the iCloud app from the Microsoft Store.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Run the Program Install and Uninstall Troubleshooter
 
  Microsoft offers several useful [troubleshooters for fixing common issues with your Windows](https://www.makeuseof.com/windows-11-troubleshooters/) computer. In this case, you can run the Program Install and Uninstall troubleshooter to fix any problems that may have been [preventing Windows from installing](https://www.makeuseof.com/tag/block-users-installing-software-windows-computer/) iCloud.
@@ -82,7 +78,15 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 5. Select **iCloud** from the list and click **Next**.  
 ![Run Program Install and Uninstall Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-program-install-and-uninstall-troubleshooter-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Allow the troubleshooter to do its thing and see if you can install iCloud after that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Download and Run the iCloud Installer
 
@@ -92,22 +96,18 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 2. Right-click on the installer file and select **Run as administrator**.
 3. Accept the terms in the license agreement and click **Install**.  
 ![Install iCloud on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/install-icloud-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the installer to run and install the iCloud app on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Start Using iCloud on Your Windows Computer
 
  Going through the solutions above should help fix any problems and allow you to download and install the iCloud app on your Windows 10 or 11 PC. Following that, you should be able to use services such as iCloud Photos and Drive on your Windows PC.
 
  If you’re irked by a similar issue yourself, here are some solutions that should help.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -116,5 +116,24 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/oes-instant-subscription-strategy-improve-user-engagement-in-2024/"><u>[New] Does Instant Subscription Strategy Improve User Engagement, In 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ssential-guide-top-10-free-youtube-to-mp3-tools-for-2024/"><u>[New] Essential Guide Top 10 Free YouTube-to-MP3 Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-solving-mysterious-oneself-appearing-in-video-conversations/"><u>[Updated] 2024 Approved Solving Mysterious Oneself Appearing in Video Conversations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-6-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 6 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-fixes-for-no-server-found-on-apex-legends-tips-and-tricks-(156-chars/"><u>8 Fixes for 'No Server Found' On Apex Legends: Tips and Tricks (<156 Chars)</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-your-pdfs-to-web-ready-html-pages-for-free-with-flipbuilder/"><u>Convert Your PDFs to Web-Ready HTML Pages for Free with FlipBuilder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-into-powertoys-for-faster-copy-pasting/"><u>Dive Into PowerToys for Faster Copy-Pasting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-effective-methods-to-align-security-keys-in-windows-11-systems/"><u>Five Effective Methods to Align Security Keys in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-windows-marketplace-fails-error-0x80073cf3/"><u>Guiding Through Windows Marketplace Fails (Error 0X80073CF3)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harness-ai-artistry-mastering-dall-e-3-through-microsoft-bing/"><u>Harness AI Artistry: Mastering DALL-E 3 Through Microsoft Bing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-end-stabilizers-perfecting-mobile-and-professional-shooting-for-2024/"><u>High-End Stabilizers Perfecting Mobile & Professional Shooting for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a05s-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A05s To Phone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/organizing-files-optimizing-drives-defrag-for-win11-users/"><u>Organizing Files, Optimizing Drives: Defrag for Win11 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rethink-ai-six-reasons-to-approach-with-skepticism/"><u>Rethink AI: Six Reasons to Approach with Skepticism</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-solutions-at-fingertips-customizing-shortcuts-for-win-11-repairs/"><u>Speedy Solutions at Fingertips: Customizing Shortcuts for Win 11 Repairs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-solve-0xc0000001-on-windows-os/"><u>Steps to Solve 0XC0000001 on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-xbox-live-service-disruptions-on-pcs/"><u>Troubleshooting Xbox Live Service Disruptions on PCs</u></a></li>
+</ul></div>
 

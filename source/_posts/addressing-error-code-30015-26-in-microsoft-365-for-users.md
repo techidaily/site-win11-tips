@@ -1,7 +1,7 @@
 ---
 title: Addressing Error Code 30015-26 in Microsoft 365 for Users
-date: 2024-08-16T01:14:20.488Z
-updated: 2024-08-17T01:14:20.488Z
+date: 2025-01-31T19:55:02.081Z
+updated: 2025-02-03T01:30:26.080Z
 tags:
   - windows10
   - windows11
@@ -30,11 +30,12 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
 
 ![Running the cleanup tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/cleanup-tool-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to access it faster, you can [add a Disk Cleanup option to the context menu](https://www.makeuseof.com/how-to-add-a-disk-clean-up-option-to-the-local-disk-icons-context-menu-in-windows-11/).
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## 2\. Restart BITS Services
 
  If Microsoft 365 isn’t the only app that can’t automatically update, there might be a problem with the Background Intelligent Transfer Service. This Windows service is responsible for automatically downloading programs and other information.
@@ -47,15 +48,13 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
 4. Click **Start** if the service isn’t running. If the service is already running, click **Stop > Start** to restart it.
 
 ![Restart the BITS service in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/restart-bits-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, reboot your computer and check if Microsoft 365 is still showing the 30015-26 error code.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Try Some Generic Windows Fixes
 
  There are some general tricks you can use on the Office app which help fix app-based errors in general.
@@ -66,18 +65,20 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
 
 ![Repair Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-microsoft-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re still facing the error code 30015-26, go through the instruction again and select **Online repair** for a more detailed fixing process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Check for Corrupted Files
 
  Windows relies on system files to fetch the information it needs to work smoothly. There’s a chance Microsoft 365 is showing the 30015-26 error code if some of the system files are missing or got corrupted.
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortunately, there’s an easy fix for you to try. Log into your administrator account and [run the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to automatically detect and replace any corrupted system files.
@@ -95,8 +96,9 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
  Once the process is complete, go to the [Microsoft 365 website](https://www.microsoft.com/microsoft-365) and download the app. Alternatively, you could download Microsoft 365 through the Microsoft Store.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Turn Off the Antivirus
 
  When updating, Microsoft 365 is establishing a connection with Microsoft’s servers. However, a third-party antivirus software, or even a VPN, might wrongly identify this connection as dangerous and block it.
@@ -111,8 +113,6 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
 
  Now, let’s take a look at how you can get rid of the 30015-26 error code.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -120,5 +120,19 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-elevate-your-film-scenes-with-precision-zooming-on-kinemaster/"><u>[New] In 2024, Elevate Your Film Scenes with Precision Zooming on Kinemaster</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-ultimate-collection-20-chuckle-inducing-detention-cell-photos-for-a-better-day/"><u>[New] In 2024, Ultimate Collection 20 Chuckle-Inducing Detention Cell Photos for a Better Day</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-deciding-on-your-video-recorder-heroes-obs-or-bandicam/"><u>2024 Approved Deciding on Your Video Recorder Heroes OBS or Bandicam</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/free-youtube-video-editing-apps-for-iphone-and-ipad/"><u>Best Free YouTube Video Editing Apps for iPhone & iPad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-using-ical-with-windows-operating-systems/"><u>Bridging the Gap: Using iCal with Windows Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reinstate-windows-photo-viewer-on-win11-pcs/"><u>How to Reinstate Windows Photo Viewer on Win11 PCs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x-fold-2-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo X Fold 2 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/humor-and-heartbreak-the-vhs-story-of-goofy-movie-for-2024/"><u>Humor and Heartbreak The VHS Story of Goofy Movie for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-how-to-setup-touch-typing-feature-on-your-windows-device/"><u>Learn How To Setup Touch Typing Feature on Your Windows Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-voice-commands-keyboard-shortcut-essentials/"><u>Mastering Windows 11'S Voice Commands: Keyboard Shortcut Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purple-pandemonium-restore-your-pcs-color-calibration/"><u>Purple Pandemonium? Restore Your PC's Color Calibration</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/stunning-close-ups-and-macros-with-iphones-advanced-lenses/"><u>Stunning Close-Ups & Macros with iPhone's Advanced Lenses</u></a></li>
+</ul></div>
 

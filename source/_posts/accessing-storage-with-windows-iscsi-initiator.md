@@ -1,7 +1,7 @@
 ---
 title: Accessing Storage with Windows iSCSI Initiator
-date: 2024-08-16T01:12:54.594Z
-updated: 2024-08-17T01:12:54.594Z
+date: 2025-01-26T23:44:39.202Z
+updated: 2025-02-02T21:51:34.717Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ Here are the steps for setting up the iSCSI Initiator:
 
 ![The Targets tab on the iSCSI Initiator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-targets-tab-on-the-iscsi-initiator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At this point, your iSCSI target device should be added to the "Discovered targets" box. Press the**Done** button to proceed.
 
  Can’t find any iSCSI target devices? Navigate to the**Favorite Targets** tab and check if you can find something.
@@ -53,9 +57,6 @@ Otherwise, follow these steps:
 ## 1\. Open the iSCSI Initiator Using the Run Command Dialog Box
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You’ve already discovered how to open the iSCSI Initiator with the Start menu search bar. Now, we'll show you how to access this tool with the Run command dialog box.
 
@@ -67,6 +68,10 @@ Otherwise, follow these steps:
 2. Type**iscsicpl.exe** and press**Enter** to open the iSCSI Initiator.
 
 ![Typing iscsicpl.exe in the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/typing-iscsicpl-exe-in-the-run-command-dialog-box.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Open the iSCSI Initiator Using the Start Menu
 
@@ -90,8 +95,9 @@ Otherwise, follow these steps:
 ![Typing iscsicpl.exe in the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/typing-iscsicpl-exe-in-the-file-explorer-address-bar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Open the iSCSI Initiator Using the Control Panel
 
  Ever used the Control Panel before? It’s an awesome tool that helps you troubleshoot PC issues or configure some system settings.
@@ -107,9 +113,6 @@ Otherwise, follow these steps:
 
 ![Clicking the iSCSI Initiator option on the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-iscsi-initiator-option-on-the-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## 5\. Open the iSCSI Initiator Using the Task Manager
 
  You probably know that you can [force close your Windows programs](https://www.makeuseof.com/tag/how-to-kill-unresponsive-programs-without-the-task-manager/) using the Task Manager. But besides that, this tool can also help you access your apps.
@@ -124,8 +127,9 @@ Otherwise, follow these steps:
 ![Opening the iSCSI Initiator using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/opening-the-iscsi-initiator-using-the-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Open the iSCSI Initiator Using the Command Prompt or PowerShell
 
  We'll now check out how to access the iSCSI Initiator using the Command Prompt and PowerShell.
@@ -147,13 +151,15 @@ Let’s start with the Command Prompt:
 `iscsicpl.exe`
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Search for the iSCSI Initiator in the System32 Directory
 
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also access the iSCSI Initiator by double-clicking on the relevant option in the Windows System32 directory.
@@ -168,16 +174,9 @@ Here are the steps you need to follow:
 6. Double-click on the**iscsicpl** option to open the iSCSI Initiator.
 
 ![Clicking the iscsicpl option in the System32 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-iscsicpl-option-in-the-system32-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
  If you want to make your life much easier, simply pin the iSCSI Initiator to the taskbar. To do that, right-click on the**iscsicpl** option and select**Pin to taskbar** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## 8\. Use a Desktop Shortcut
 
  The Windows desktop shortcuts help you access your apps with ease. So, let’s check out how to create a desktop shortcut for the iSCSI Initiator:
@@ -188,8 +187,9 @@ Here are the steps you need to follow:
 4. Press**Next** to continue.
 
 ![Creating the iSCSI Initiator desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/creating-the-iscsi-initiator-desktop-shortcut.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Type iSCSI Initiator in the**Name** box and then press the**Finish** button. From there, you should easily access the tool using your desktop shortcut.
@@ -200,14 +200,11 @@ Here are the steps you need to follow:
 
  If you want to easily access this tool, check out any of the methods in this article. And if you want to explore other ways to connect to a remote PC, then check out the Windows Remote Desktop Services tool.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -216,8 +213,22 @@ Here are the steps you need to follow:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-boomerang-brilliance-keeping-users-hooked-on-ig/"><u>[New] In 2024, Boomerang Brilliance Keeping Users Hooked on IG</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimizing-chromebook-prime-zoom-features/"><u>[New] Optimizing Chromebook Prime Zoom Features</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-social-narrative-this-years-twittale-highlights-for-2024/"><u>[Updated] The Social Narrative This Year's TwitTale Highlights for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-xr-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone XR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-solution-for-your-windows-photo-app/"><u>A Step-by-Step Solution for Your Windows Photo App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciding-the-best-drive-for-your-xbox-games/"><u>Deciding the Best Drive for Your Xbox Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-battery-life-awareness-charge-notification-tips-for-windows-11/"><u>Enhancing Battery Life Awareness: Charge Notification Tips for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/escape-key-blues-effective-fixes-for-a-non-operational-keys/"><u>Escape Key Blues? Effective Fixes for a Non-Operational Keys</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-defy-2-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Defy 2 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-your-creative-potential-an-overview-of-final-cut-pro/"><u>In 2024, Unlock Your Creative Potential An Overview of Final Cut Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/outwit-facebook-vids-ad-blocking-basics/"><u>Outwit Facebook Vids Ad-Blocking Basics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11-taskbar-for-optimal-datetime-view/"><u>Tailoring Windows 11 Taskbar for Optimal Date/Time View</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-easy-way-to-switch-dall-e-3-generated-webp-photos-to-jpgpng-format/"><u>The Easy Way to Switch DALL-E 3 Generated WebP Photos to JPG/PNG Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-unseen-windows-11-desktop-themes/"><u>Top Unseen Windows 11 Desktop Themes</u></a></li>
+</ul></div>
 

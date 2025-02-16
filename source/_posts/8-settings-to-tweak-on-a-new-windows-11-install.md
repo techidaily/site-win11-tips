@@ -1,7 +1,7 @@
 ---
 title: 8 Settings to Tweak on a New Windows 11 Install
-date: 2024-08-16T01:14:00.030Z
-updated: 2024-08-17T01:14:00.030Z
+date: 2025-01-28T20:33:50.178Z
+updated: 2025-02-02T17:14:08.646Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
  While everybody has a different set of wants from a PC, there are specific settings in Windows 11 that you should tweak irrespective of your use cases. We are putting together a list of settings you should change on Windows 11 before using your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Clipboard History to Move Content Efficiently
 
  The copy and paste function is helpful for everyone because it helps you move your content from one location to another. Windows 11 offers an advanced copy-paste tool that will save you a lot of time, but unfortunately, it is not enabled by default.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 ![Clipboard History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clipboard-history-screenshot-edit.jpg)
 3. Turn on the**Clipboard history** toggle.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can press**Win + V** on your keyboard to bring the Clipboard history and select the desired item from all the previous strings of text or photos you copied previously. And much like previous iterations, Windows 11 Clipboard will forget everything you copied when you turn off your device.
 
 ## 2\. Set Up Nearby Sharing
@@ -41,18 +49,11 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
  If you have multiple PCs running Windows 11 or 10, Nearby Sharing will make it easier for you to transfer content from one to another over WiFi or Bluetooth. However, as the name itself suggests, it works between nearby Windows computers. Check out [how to use Nearby Sharing on Windows 11](https://www.makeuseof.com/how-to-use-nearby-sharing-on-windows-11/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. A Cleaner Desktop Experience
 
  All your important files and folders should be at your fingertips. By creating app or folder shortcuts in Desktop, you can access everything important to you in the fastest way possible. However, these shortcuts should not be so much in number that your Desktop starts looking cluttered.
 
 ![Delete Desktop Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-desktop-shortcuts.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
  You should review what’s important to you from time to time to prioritize what to keep as shortcuts on the Desktop. If you just bought a Windows 11 PC, you will see Desktop icons such as Recycle Bin. You can quickly [hide Desktop icons from your Windows desktop](https://www.makeuseof.com/ways-to-hide-desktop-icons-on-windows/) with just a few clicks. You can also remove shortcuts to any files or folders from the desktop by right-clicking on them and then selecting the trash icon in the bottom right corner of the context menu.
 
@@ -64,14 +65,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  It is important to note that all the changes you are making to Storage Sense apply only to you. It will not affect anyone else using the same PC with a different account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Find My Device to Track Your PC
 
 ![Find My Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-my-device-edit.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you are not using a Windows 11 desktop, you should enable the Find My Device toggle from the Settings app. If your Windows 11 laptop or tablet is lost or stolen, Find My Device can help you find your device’s location. For the setting to work, check out [how to configure location services on Windows](https://www.makeuseof.com/windows-11-configure-location-services/) and enable them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Tweak the Night Light Setting to Get Better Sleep
 
@@ -80,10 +90,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Open the**Settings** app.
 2. Navigate to**System** \>**Display** \>**Night light** .  
 ![Night Light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/night-light-edit.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click on**Turn on now** , right beside Show warmer colors on your display to help you sleep.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also set up the time range, during which Windows 11 will keep Night light on. You can do that by clicking on the**Schedule Night light** toggle.
 
@@ -97,9 +108,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Windows 11 understands your daily activity and automatically chooses a timescale during which you usually do not use your PC. You can choose manually select the time if your daily usage does not follow a particular pattern. You need to tweak this setting to ensure that Windows updates do not come in the way of whatever you are doing during your work schedule.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Enable Dark Mode to Reduce Eyestrain
 
  The Dark mode is also an important display setting for user interfaces in Windows 11\. When turned on, it reduces the light emitted by your PC to help you with eye strain, which comes with prolonged screen time. You should also enable it to save energy consumption on your devices. Also, it will impact the real-world battery life of your Windows 11 laptop or tablet.
@@ -110,28 +118,19 @@ Here is how you can enable Dark mode on your Windows 11 PC:
 2. Go to**Personalization** .
 3. Click on**Colors** .  
 ![Dark Mode toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dark-mode-toggle-edit.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 4. In**Choose your mode** radio menu, select**Dark** .
 
  However, unlike macOS, dark mode in Windows 11 is not available everywhere in the OS. On the bright side, the degree of inconsistency of dark mode in Windows 11 is something you can ignore because dark mode applies to most areas when turned on.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## You Are Better Off Enabling the Above Windows 11 Settings
 
  It is not the case that you will not be able to work on your Windows 11 PC without enabling the above settings. Whatever you do on your PC, with the changes to the Settings app, you will be able to do it in a more efficient manner. The above tweaks will be useful for both casual and advanced users.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,8 +139,20 @@ Here is how you can enable Dark mode on your Windows 11 PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-removing-unseen-frames-from-video-recordings/"><u>[New] 2024 Approved Removing Unseen Frames From Video Recordings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-words-in-motion-a-guide-to-lively-animation-methods/"><u>[Updated] 2024 Approved Words in Motion A Guide to Lively Animation Methods</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-logitech-g510-driver-for-optimal-performance-on-any-window-os/"><u>Download the Latest Logitech G510 Driver for Optimal Performance on Any Window OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-to-run-windows-media-player/"><u>Easy Steps to Run Windows Media Player</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-with-ease-access-calculator/"><u>Navigating Windows 11 with Ease: Access Calculator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-updater-problem-code-0x8019/"><u>Overcoming Updater Problem: Code 0X8019</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-slow-or-non-responsive-windows-download-area/"><u>Repairing Slow or Non-Responsive Windows Download Area</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-hulu-rununk13-a-step-by-step-guide/"><u>Resolving the Hulu RUNUNK13: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solution-to-windows-os-not-found-error/"><u>Swift Solution to Windows OS 'Not Found' Error</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/taming-the-unpredictable-an-in-depth-review-of-monsters-in-monster-hunter-world/"><u>Taming the Unpredictable: An In-Depth Review of Monsters in 'Monster Hunter: World'</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tempo-truths-character-beats-exposed-for-2024/"><u>Tiny Tempo Truths Character Beats Exposed for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-zero-error-mystery-in-windows-11-updates/"><u>Unraveling Zero-Error Mystery in Windows 11 Updates</u></a></li>
+</ul></div>
 

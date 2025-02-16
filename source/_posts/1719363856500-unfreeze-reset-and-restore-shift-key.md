@@ -1,7 +1,7 @@
 ---
 title: Unfreeze, Reset, and Restore Shift Key
-date: 2024-08-16T01:13:13.222Z
-updated: 2024-08-17T01:13:13.222Z
+date: 2025-01-27T18:30:50.227Z
+updated: 2025-02-02T19:41:21.409Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
  The Shift key is a modifier key on a computer keyboard. It capitalizes letters, accesses special characters and symbols, and simultaneously deletes multiple texts.
 
  If the Shift key stops working, it could disrupt your workflow. This guide explains how to troubleshoot and repair the Shift key not functioning on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check for Physical Damage
 
@@ -43,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
 3. Scroll down to the **Interaction** section and click the **Keyboard** option.
 4. From here, locate the **Filter keys** option and toggle it off.  
 ![Turn Off Filter Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-off-filter-keys.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Once done, close the Settings window and see if the shift key is now working.
 
@@ -59,10 +60,12 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
 4. Right-click on your keyboard device and select **Update driver**.  
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 5. On the next page, select the **Search automatically for drivers** option.  
-![Search automatically for drivers-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-automatically-for-drivers-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Search automatically for drivers-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-automatically-for-drivers-1.jpg)
 
  Now follow the instructions displayed on your screen to complete the process. After that, restart your computer and see if it solves the issue. If not, reinstall the keyboard drivers. This resolves compatibility issues and ensures hardware functions properly.
 
@@ -73,11 +76,12 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
 ![Uninstall device in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device-in-device-manager.jpg)
 3. Click **Uninstall** again to confirm the action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now close the Device Manager window and restart your computer. Windows will now automatically install drivers on startup. After that, test the shift key again and see if the problem is solved.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 5\. Run the Hardware and Devices Troubleshooter
 
  Hardware and devices troubleshooter is a Windows program that scans your computer for hardware-related issues. Running this troubleshooter diagnoses and resolves underlying problems that may cause the shift key not to work.
@@ -89,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
 3. In the Troubleshooting window, click **Advanced** and check the box next to **Apply repairs automatically**.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
 4. Click **Next** and follow the instructions displayed on your screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The troubleshooter will now scan your computer for hardware-related issues. When it's done, restart your computer and check if the shift key now works.
 
@@ -103,15 +111,9 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 5. Locate the **Keyboard** option in the list, then click **Run**.  
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 
  Wait until the troubleshooter finishes and restart your computer. After that, check if the shift key functions normally.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Scan for Malware
 
  Viruses or suspicious programs interfere with keyboard functionality, leading to unresponsive keys. To check if this is the issue, [scan your computer for malicious software](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/).
@@ -123,21 +125,20 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
 3. Click on **Virus & threat protection** from the left sidebar.
 4. On the right side of the page, click on **Scan options**.  
 ![Scan options in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scan-options-in-windows-security.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Next, check the **Full scan** box and click **Scan now**.  
-![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 
  Wait for the scan to finish and check if it finds malicious programs. If threats are detected, remove them immediately. After that, restart your computer and see if the shift key is working now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Try a Different Keyboard
 
  If the suggested solutions do not solve the problem, chances are that the issue lies with your keyboard hardware. To isolate this from other causes, try a different keyboard and check if the shift key works now.
@@ -145,8 +146,9 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
  If you don't have another keyboard, open a virtual one. This is an on-screen keyboard that lets you type without physical keys. To access it, press **Win + R** on your keyboard. This will open the Run command dialog box.
 
 ![On-screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/on-screen-keyboard.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Type **osk** in the text field and hit **Enter**. Now test the shift key on this virtual keyboard. If it works now, you should consider replacing the physical keyboard.
@@ -157,8 +159,6 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
 
  If the Shift key stops working, it could disrupt your workflow. This guide explains how to troubleshoot and repair the Shift key not functioning on your computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -166,5 +166,26 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-record-and-share-every-victory-in-obs/"><u>[New] 2024 Approved Record & Share Every Victory in OBS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-why-you-adore-filmora-the-10-key-edits-that-matter/"><u>2024 Approved Why You Adore Filmora The 10 Key Edits That Matter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-a-three-dimensional-soundscape-in-windows-11/"><u>Achieving a Three-Dimensional Soundscape in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audio-visual-assurance-verify-windows-equipment-before-calling/"><u>Audio Visual Assurance: Verify Windows Equipment Before Calling</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-poco-m6-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Poco M6 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/erase-live-video-on-facebook-windows-android-tactics/"><u>Erase Live Video on Facebook Windows, Android Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-resolving-outlook-errors-on-windows/"><u>Expert Tips: Resolving Outlook Errors on Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g42-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia G42 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://ai-video.techidaily.com/in-2024-best-video-translator-app-for-pc-you-cannot-miss/"><u>In 2024, Best Video Translator App for PC You Cannot Miss</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-14-pro-max-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 14 Pro Max Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-s23plus-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy S23+ Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209845053-9781946005014-le-buddhist-boot-camp/"><u>LE BUDDHIST BOOT CAMP | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-intrusive-windows-store-operations/"><u>Overcoming Intrusive Windows Store Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-persistent-microsoft-edge-shortcuts/"><u>Preventing Persistent Microsoft Edge Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-5-best-pc-optimization-tools-on-a-windows-pc/"><u>The 5 Best PC Optimization Tools on a Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-hidden-perils-behind-budget-windows-activation-codes/"><u>The Hidden Perils Behind Budget Windows Activation Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-tackling-steam-disk-errors/"><u>Understanding and Tackling Steam Disk Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-graphic-memory-in-windows-11-systems/"><u>Upgrading Graphic Memory in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workflow-enhancer-integrating-sticky-notes-into-your-windows-morning-ritual/"><u>Workflow Enhancer: Integrating Sticky Notes Into Your Windows Morning Ritual</u></a></li>
+</ul></div>
 

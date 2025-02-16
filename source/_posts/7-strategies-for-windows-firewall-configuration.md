@@ -1,7 +1,7 @@
 ---
 title: 7 Strategies for Windows Firewall Configuration
-date: 2024-08-16T01:14:58.081Z
-updated: 2024-08-17T01:14:58.081Z
+date: 2025-01-28T19:56:02.765Z
+updated: 2025-02-02T22:08:19.550Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
 
 ![Clicking the Restore defaults option on the Windows Defender Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-defaults-option-on-the-windows-defender-firewall-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Use the Command Prompt
 
  Ever used the Command Prompt before? It’s an incredible tool that helps you configure system settings, troubleshoot PC issues, and access various apps.
@@ -53,11 +50,16 @@ netsh advfirewall reset
  Wait for the process to complete. From there, restart your device to save these changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use Windows PowerShell
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Struggling to reset the firewall settings using the Command Prompt? If so, then try [Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/).
 
@@ -71,9 +73,6 @@ netsh advfirewall reset
 
  Wait for the process to complete, and then restart your device.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Use the Windows Security App
 
  The Windows Security app is a tool that helps you scan and fix system bugs. Interestingly, you can also use this tool to reset the firewall settings.
@@ -87,13 +86,11 @@ netsh advfirewall reset
 5. Click the **Restore firewalls to default** option on the next screen.
 
 ![Clicking the Restore firewalls to default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-firewalls-to-default-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use the "Firewall with Advanced Security" Tool
 
  Still can’t reset the firewall settings? Try one of the options in the “Windows Firewall with Advanced Security” screen.
@@ -108,17 +105,9 @@ netsh advfirewall reset
 4. Select the **Restore Default Policy** option.
 
 ![Selecting the Restore Default Policy option on the Firewall with Advanced Security screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-restore-default-policy-option-on-the-firewall-with-advanced-secutiry-screen.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Can’t access the “Windows Defender Firewall with Advanced Security” screen using the steps we’ve covered? Try these methods:
@@ -131,20 +120,21 @@ netsh advfirewall reset
 
  From there, right-click on the **Windows Defender Firewall with Advanced Security on Local Computer** option and select the **Restore Default Policy** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Restoring the Firewall Settings to Their Default Settings
 
  It’s quite frustrating when the firewall settings prevent you from accessing the apps on your PC. But the good news is that you can simply resolve such issues by resetting these settings.
 
  To reset the firewall settings with ease, check out any of the tips we’ve covered. And if you want to reset the Settings app instead, there are solutions for that too!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,8 +143,26 @@ netsh advfirewall reset
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-celebrating-families-this-years-top-10-movie-gems/"><u>[New] In 2024, Celebrating Families This Year’s Top 10 Movie Gems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamlined-techniques-for-rapid-mac-screen-recording-for-2024/"><u>[New] Streamlined Techniques for Rapid Mac Screen Recording for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-elevate-your-virtual-presence-choose-from-these-7-devices/"><u>[Updated] In 2024, Elevate Your Virtual Presence Choose From These 7 Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snapchat-spotlight-101-understanding-its-impact/"><u>[Updated] Snapchat Spotlight 101 Understanding Its Impact</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-technical-odyssey-embracing-hdr-in-windows-11-environments/"><u>A Technical Odyssey: Embracing HDR in Windows 11 Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blend-in-with-the-background-hide-taskbars-language-bar-win11/"><u>Blend in with the Background: Hide Taskbar's Language Bar, Win11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/consolidating-repeated-images-with-different-individuals-into-single-photos-techniques-for-ios-and-macos-devices/"><u>Consolidating Repeated Images with Different Individuals Into Single Photos: Techniques for iOS & macOS Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-audio-subtitle-symphony-streamlining-prime-viewing-in-windows-11/"><u>Decoding Audio-Subtitle Symphony: Streamlining Prime Viewing in Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/usion-the-ultimate-gaming-channel-mix/"><u>FlixFusion The Ultimate Gaming Channel Mix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-handle-internal-windows-error-during-remote-desktop-use/"><u>How to Handle Internal Windows Error During Remote Desktop Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-and-permanently-discard-a-partition-on-windows-pc/"><u>How to Swiftly and Permanently Discard a Partition on Windows PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-present-trends-in-drone-technology-for-the-future/"><u>In 2024, Present Trends in Drone Technology for the Future</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-quick-captioning-method-for-enhanced-youtube-video-quality/"><u>In 2024, Quick Captioning Method for Enhanced YouTube Video Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-efficiency-guide/"><u>Mastering Windows 11: Efficiency Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prevent-non-scrollability-of-ranges-in-excel-windows/"><u>Prevent Non-Scrollability of Ranges in Excel, Windows</u></a></li>
+<li><a href="https://win-info.techidaily.com/redownloading-and-setting-up-windows-operating-system-a-guide-from-yl-software-experts/"><u>Redownloading and Setting Up Windows Operating System: A Guide From YL Software Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-error-0x80246007-on-windows-11-updates/"><u>Solving Error 0X80246007 on Windows 11 Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-approach-to-bypassing-no-permission-on-pc/"><u>Step-by-Step Approach to Bypassing 'No Permission' On PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-strategies-to-address-and-fix-the-windows-update-issue-error-0x80070652/"><u>Step-by-Step Strategies to Address and Fix the Windows Update Issue (Error 0X80070652)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Fix the Secure Boot State Unsupported Error in Windows
-date: 2024-08-16T01:11:57.532Z
-updated: 2024-08-17T01:11:57.532Z
+date: 2025-02-01T20:49:53.307Z
+updated: 2025-02-02T20:26:59.213Z
 tags:
   - windows10
   - windows11
@@ -42,24 +42,22 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 2. Click **System** **Summary** in the left panel.
 3. Check the **Secure Boot State** in the right pane.  
 ![Secure Boot State in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Secure-Boot-State.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the Secure Boot status is **Off**, you'll have to enable it through your BIOS. To do that, follow the instructions:
 
 1. Open the Settings menu by pressing the Win + I hotkey, and navigate to **System** \> **Recovery.**
 2. Click **Restart now** next to **Advanced startup.** It'll restart your computer.  
 ![Restart Now option next to Advanced Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Restart-Now-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 3. In the Advanced startup mode, choose **Troubleshoot** and then **Advanced options.**
 4. Choose **UEFI Firmware Settings** and click **Restart.** I'll boot you straight into Windows UEFI BIOS.
 5. Choose **BIOS Setup.**
 6. Switch to **Secure Boot.**
 7. Check the box before **Secure Boot Enable.**  
 ![Enable Secure Boot in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Secure-Boot-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note that the steps to [enable Secure Boot](https://www.makeuseof.com/how-enable-tpm-secure-boot-before-upgrading-windows-11/) will be different for different manufacturers. You can check out your manufacturer's BIOS page to know how to do it on your computer.
 
@@ -77,7 +75,15 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 4. Choose **Prepare the TPM** from the context menu.  
 ![Prepare the TPM in TPM Management Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Prepar-the-TPM.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer and check for the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Choose UEFI as the BIOS' Mode
 
@@ -93,11 +99,12 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 ![UEFI Option in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/UEFI-Option.jpg)
 4. Save the changes and restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Again, the process will differ for different manufacturers; therefore, you must check your manufacturer's BIOS page to know how to do it on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Convert the Partition Style From MBR to GPT
 
  In modern computers, the boot mode is set to UEFI and has GPT (GUID Partition Style) partition style. However, if your computer is using Legacy Boot mode and MBR (Master Boot Record) partition style, then you will face the problem at hand.
@@ -111,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 4. Switch to the **Volumes** tab.
 5. Check the **Partition style.** If it shows Master Boot Record (MBR), then you will have to convert it to GPT.  
 ![Partition Style in Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Partition-Style.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  To convert the MBR partition style to GPT, follow the below steps:
 
@@ -122,16 +125,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Type **Command Prompt** in the search bar and click the **Run as administrator** option in right pane.
 3. Type **mbr2gpt /validate /allowfullOS** and press Enter. This command will validate the partition.  
 ![Validate command option in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/validate-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Once the validation is complete, type **mbr2gpt /convert /allowfullOS** and press Enter.
 
  That's it. Windows will start converting the partition style. The process may take some time, depending on the size of your drive.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Perform a Clean Boot
 
  Are you still facing the "Secure Boot state unsupported" error? If yes, then you will have to perform a clean boot to troubleshoot the issue. Check out our guide on [how to perform a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) for more information.
@@ -139,8 +140,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  In the clean boot state, check if you're facing the error message again or not.
 
 ![System configuration window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-configuration-window.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If not, then it indicates that one of the services you disabled was causing the problem. To narrow it down, repeat the above process while slowly re-enabling the services until you see the error again.
@@ -155,8 +157,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The error mainly appears when TPM is disabled on your computer. As such, if you're also facing the same problem, follow the fixes below to troubleshoot the problem for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -164,5 +164,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-enhancing-video-top-10-text-techniques/"><u>[New] In 2024, Enhancing Video Top 10 Text Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-podcast-income-the-real-numbers-for-2024/"><u>[Updated] Podcast Income The Real Numbers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplicity-in-story-construction/"><u>2024 Approved Simplicity in Story Construction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/critical-steps-for-a-complete-operating-system-wipe/"><u>Critical Steps for a Complete Operating System Wipe</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-fabletellers-fellowship-esteemed-ensemble/"><u>In 2024, Fabletellers Fellowship – Esteemed Ensemble</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-text-warping-techniques-in-photos-and-videos-for-2024/"><u>Mastering Text Warping Techniques in Photos & Videos for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/mastering-the-art-of-dj-programming-setting-the-tone-for-events-with-perfect-tracks/"><u>Mastering the Art of DJ Programming: Setting the Tone for Events with Perfect Tracks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/professional-insight-expert-analysis-of-the-microsoft-surface-pro-8-at-zdnet/"><u>Professional Insight: Expert Analysis of the Microsoft Surface Pro 8 at ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-this-device-is-being-used-by-someone-else-in-sound/"><u>Resolving 'This Device Is Being Used By Someone Else' In Sound</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-file-download-problems-in-windows/"><u>Strategies to Overcome File Download Problems in WIndows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-art-of-visual-storytelling-ken-burns-effect-in-final-cut-pro-explained-for-2024/"><u>The Art of Visual Storytelling Ken Burns Effect in Final Cut Pro Explained for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-managing-your-network-proxy/"><u>Windows 11: Managing Your Network Proxy</u></a></li>
+</ul></div>
 

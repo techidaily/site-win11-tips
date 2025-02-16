@@ -1,7 +1,7 @@
 ---
 title: "Conquer Windows Problems: Effective Assistance Guide!"
-date: 2024-08-16T01:14:09.445Z
-updated: 2024-08-17T01:14:09.445Z
+date: 2025-01-31T01:41:13.815Z
+updated: 2025-02-03T00:11:18.888Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 
  After outlining the solutions for you, it will list the resources it has used at the bottom so you can learn more about how to fix the problem you've encountered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use the Get Help App
 
  Just as the name suggests, the Get Help app is all about assisting you with issues on your Windows computer. Basically, all you have to do is launch it, ask it a question, and the app will look for a solution for you.
@@ -45,18 +49,21 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 2. Type **get help** in the Search box and click on the **Get Help** app in the search results to launch it.  
 ![launching-the-get-help-app-through-Windows-search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/launching-the-get-help-app-through-windows-search.jpg)
 3. In the text box, type the help you need (make sure it's 80 characters or less) and hit the **Enter** key on your keyboard.  
-![searching-for-help-in-the-get-help-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/searching-for-help-in-the-get-help-app-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![searching-for-help-in-the-get-help-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/searching-for-help-in-the-get-help-app-on-windows.jpg)
 4. The app will search for self-help articles online and display the steps or information you need to solve the problem you're experiencing.  
 ![search-results-in-the-get-help-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/search-results-in-the-get-help-app-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the Get Help app doesn't have a solution, there's another app you can use.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## 3\. Use the Quick Assist App
 
  When it comes to getting help, the Quick Assist app allows you to find a knowledgeable person who can offer remote assistance. The helper can then do a wide range of things, including taking control of your computer to directly fix the issue or annotating parts of your screen to help you figure it out.
@@ -66,20 +73,18 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 1. Press **Win + S** to bring up Windows Search.
 2. Type **quick assist** in the Search box and click on the **Quick Assist** app in the results to launch it.  
 ![launching-the-quick-assist-app-through-Windows-search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/launching-the-quick-assist-app-through-windows-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 3. Enter the security code you got from the helper in the **Get help** section and click **Submit**.  
 ![entering-the-security-code-in-the-quick-assist-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/entering-the-security-code-in-the-quick-assist-app-on-windows.jpg)
 
  Once the helper is able to connect to your PC, you can sit back and let them do their thing.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use the Built-In Windows Troubleshooters
 
  Windows has several built-in troubleshooters that help you diagnose and fix specific problems on your computer. All you have to do is [run the desired troubleshooter on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) and you'll be well on your way to fixing what's wrong. If you're using Windows 11, you can [learn about the different types of Windows Troubleshooters](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) so you know which ones to use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Get Help Online
 
@@ -91,24 +96,24 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 ![the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-microsoft-support-page.jpg)
 2. In the pop-up, click **Get Home support** to access the self-help tool.  
 ![the-pop-up-to-get-support-on-the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-get-support-on-the-microsoft-support-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 3. Once it loads, enter the problem you need help with in the text box and click on **Get Help** so it can find self-help articles for you (yes, this is similar to using the Get Help app).  
 ![searching-for-help-on-the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/searching-for-help-on-the-microsoft-support-page.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want other Windows users to help you, you can [reach out to the Microsoft Community for assistance](https://www.makeuseof.com/how-to-use-the-microsoft-community-to-solve-your-windows-problem/). You can also drop [the MicrosoftHelps Twitter account](https://twitter.com/MicrosoftHelps) a message, or if you're using a Surface or Xbox device, book an appointment with a support professional on the [Microsoft Answer Desk page](https://www.microsoft.com/en-us/store/locations/answer-desk).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Help When Solving Problems on Windows
 
  Your computer and the World Wide Web are full of ways to help you fix problems on Windows, and you can find them if you know where to look. Of course, there are more ways than these to get help with Windows problems. However, with these methods under your tool belt, you hopefully won't have to look far when you encounter issues.
 
  In this guide, we're going to highlight some of the best ways to get help with your Windows PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -117,5 +122,20 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unlocking-the-potential-of-your-youtube-channel-subscribers/"><u>[Updated] 2024 Approved Unlocking the Potential of Your YouTube Channel (Subscribers)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-full-screen-windows-alignment-in-windows/"><u>Achieving Full-Screen Windows Alignment in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/craft-your-win11-boot-experience-steps-to-optimize-service-setups/"><u>Craft Your Win11 Boot Experience: Steps to Optimize Service Setups</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-slow-motion-choosing-the-best-video-cameras/"><u>Elite Slow Motion Choosing the Best Video Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-shortcuts-for-power-users-on-windows/"><u>Essential Shortcuts for Power Users on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/human-expertise-overstated-5-cautionary-tales/"><u>Human Expertise Overstated? 5 Cautionary Tales</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-fix-for-laptop-distorted-angles/"><u>Immediate Fix for Laptop Distorted Angles</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-dialogue-dynamics-balancing-verisimilitude-and-style/"><u>In 2024, Dialogue Dynamics Balancing Verisimilitude and Style</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-ions-shark-automated-vac-av751-performs-well-struggles-with-pathfinding-gadgetguru/"><u>Review: ION's Shark Automated Vac AV751 Performs Well, Struggles with Pathfinding | GadgetGuru</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-reactivate-sound-functionality-in-your-hp-notebook-with-windows-11/"><u>Solution Steps - Reactivate Sound Functionality in Your HP Notebook with Windows 11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streamlining-your-viewing-choices-without-falling-for-the-hype-in-show-reviews/"><u>Streamlining Your Viewing Choices Without Falling for the Hype in Show Reviews</u></a></li>
+<li><a href="https://win-popular.techidaily.com/techniques-avancees-pour-sauvegarder-les-volumes-superieurs-a-2-to-dans-le-server-windows-proplus/"><u>Techniques Avancées Pour Sauvegarder Les Volumes Supérieurs À 2 To Dans Le Server Windows ProPlus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-settings-returning-to-initial-touch-keyboard-configuration/"><u>Win 11 Settings: Returning to Initial Touch Keyboard Configuration</u></a></li>
+</ul></div>
 

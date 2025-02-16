@@ -1,7 +1,7 @@
 ---
 title: Addressing Timeout Issue - Windows 11/10 Semaphore Error 0X80070079
-date: 2024-08-16T01:13:17.399Z
-updated: 2024-08-17T01:13:17.399Z
+date: 2025-01-28T21:31:19.941Z
+updated: 2025-02-03T01:28:42.072Z
 tags:
   - windows10
   - windows11
@@ -37,24 +37,24 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 3. Execute this Hardware and Devices troubleshooter command and hit **Enter**:  
 `msdt.exe -id DeviceDiagnostic`  
 ![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hardware-and-devices-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select **Next** to start the troubleshooting and apply the fixes suggested.  
-![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hardware-and-devices-troubleshooter.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hardware-and-devices-troubleshooter.jpg)
+
  Users who need to fix error 0x80070079 for network drives should consider utilizing the Network Adapter and Internet Connections troubleshooters. You can access both of those troubleshooters in Settings. Check out our [guide about running troubleshooters](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) in Windows for further details about how to open them in Windows 11/10\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Perform Generic Windows-Based Fixes for Troubleshooting USB Drives
 
  If you're still struggling with this error, here are some more general Windows-based fixes you can try:
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Run a System File Check Scan
 
  Corrupted or missing system files on your PC’s drive can cause operations to time out. To resolve such an issue, run a System File Checker command. You can repair the system files on an internal hard drive by executing a standard SFC command as outlined in our guide to [running the SFC tool on Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/).
@@ -62,23 +62,28 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Run the CHKDSK Scan Command
 
  CHKDSK is Windows’ Check Disk utility that scans and repairs bad drive sectors. That tool could be useful for fixing error 0x80070079 if it’s caused by disk errors on a drive you’re trying to transfer files to. So, try scanning the target drive by running the CHKDSK via the Command Prompt. Our guide on [running Check Disk scans on Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=The%20CHKDSK%20utility%20scans%20your,and%20sizes%2C%20and%20bad%20sectors.) includes full instructions for applying this potential fix.
 
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chkdsk-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Turn Off Any Active Firewalls
 
  Disabling firewalls might work when 0x80070079 occurs for wireless transfers from or to network drives. A firewall can block communication with a network drive. So, try temporarily [disabling Windows Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) before transferring any data from or to a network drive. Or turn off any third-party firewall installed.
 
 ![Turn off firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/customize-firewall-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Disable Your Antivirus Shields
 
@@ -91,23 +96,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  You can apply this resolution by following the instructions in our [guide to performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). Restart your PC when you’ve disabled all third-party startup items with Task Manager and System Configuration. Then copy or move the files you need to between drives after clean booting.
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-services-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Update the Driver for Your PC’s Network Adapter Driver
 
  Updating a PC’s network adapter driver can be a viable fix when error 0x80070079 occurs for wireless data transfers. An outdated or faulty network driver could be causing network connection issues between devices.
 
 ![The Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-now-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can update your PC’s network adapter by utilizing driver updater software. Such software will tell you if your network adapter’s driver is outdated and enable you to update it if necessary. Check out [how to update Windows, apps, and drivers](https://www.makeuseof.com/tag/update-windows-software-guide/) to give your PC a quick refresh, including your network adapter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change Your External Drive to NTFS Format
 
@@ -120,17 +124,14 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Reformatting a drive will wipe all the data on it. So, make sure you back up the drive’s data before reformatting if you want to keep any files on it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Reset Your Network
 
  This potential resolution is more applicable for users who encounter error 0x80070079 with network storage drives. Resetting your network will restore it to its settings to default and reinstall your PC’s network adapter. To apply this resolution, check out our [how to reset your network settings on Windows](https://www.makeuseof.com/reset-network-settings-windows-11/) guide.
 
 ![The Reset now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-reset-now-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Note that you’ll need to reconnect your PC to the internet after applying this resolution. So, make sure you have your internet connection name and password details before resetting the network. You can usually find such details stuck on the bottom of most routers.
 
@@ -140,8 +141,6 @@ The ultimate burning program for all your needs!</a>
 
  Some users might wonder what a semaphore is, which is an integer variable. The 0x80070079 error message highlights there’s been an operation timeout. This is how you can fix error 0x80070079 in Windows 11/10\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -149,5 +148,24 @@ The ultimate burning program for all your needs!</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-the-secrets-of-success-top-strategies-for-fb-video-growth-for-2024/"><u>[New] Unlocking the Secrets of Success Top Strategies for FB Video Growth for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-free-memery-masters-explore-and-share-joy/"><u>[Updated] Free Memery Masters Explore & Share Joy</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-motorola-moto-g84-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Motorola Moto G84 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automating-lock-on-time-for-windows-users/"><u>Automating Lock-On Time for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-the-darkness-solving-minecrafts-persistent-screen-troubles/"><u>Banish the Darkness: Solving Minecraft's Persistent Screen Troubles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11s-non-functional-function-keys-for-brightness/"><u>Fixing Windows 11'S Non-Functional Function Keys for Brightness</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/flac-and-ogg-movavi/"><u>FLAC & OGGファイルを変換せずに無料でダウンロード - Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-14-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 14 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-file-explorer-in-windows-10plus/"><u>Jumpstart File Explorer in Windows 10+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-bypassing-ssi-and-installing-unverified-drivers/"><u>Mastering Windows: Bypassing SSI & Installing Unverified Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-route-to-your-windows-disk-space-win-1011/"><u>Quick Route to Your Windows Disk Space (Win 10/11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-default-sound-level-configurations-in-windows/"><u>Restoring Default Sound Level Configurations in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-downside-of-digital-health-assistance-5-times-to-steer-clear-from-chatgpt-medical-tips/"><u>The Downside of Digital Health Assistance: 5 Times to Steer Clear From ChatGPT Medical Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-guide-to-instant-uninstalling-via-windows-shortcuts/"><u>The Guide to Instant Uninstalling via Windows Shortcuts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unearthing-past-pixels-with-3-methods-on-social-media-fb/"><u>Unearthing Past Pixels with 3 Methods on Social Media (FB)</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-aid-unlocking-essential-assistive-tech/"><u>Windows Aid: Unlocking Essential Assistive Tech</u></a></li>
+</ul></div>
 

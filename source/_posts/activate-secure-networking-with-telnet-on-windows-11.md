@@ -1,7 +1,7 @@
 ---
 title: Activate Secure Networking with Telnet on Windows 11
-date: 2024-08-16T01:10:22.965Z
-updated: 2024-08-17T01:10:22.965Z
+date: 2025-01-27T19:48:48.752Z
+updated: 2025-02-02T20:12:54.023Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,11 @@ To enable Telnet Client using Control Panel:
 4. In the left pane, click on the**Turn Windows feature on or off.**  
 ![enable telnet client windows features dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-windows-features-dialog.jpg)
 5. In the Windows Features dialog, scroll down and select**Telnet Client.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**OK** and wait for the feature to install. Once installed, restart your PC to apply the changes and enable the feature.
 
 If you need to disable Telnet:
@@ -42,13 +47,15 @@ If you need to disable Telnet:
 3. Click on**Restart** now to reboot your PC and apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Enable Telnet Client Using Windows PowerShell
 
 ![enable telnet client powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-powershell.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can use the Enable-WindowsOptionalFeature cmdlet to enable Telnet Client using Windows PowerShell. Useful if you are unable to turn on the feature using the Windows Features dialog and it is also faster than the GUI method.
@@ -64,12 +71,13 @@ To enable Telnet using Windows PowerShell:
 `Disable-WindowsOptionalFeature -Online -FeatureName TelnetClient`
 6. Close PowerShell and restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Install Telnet Client Using Command Prompt
 
 ![enable telnet command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
  If you prefer Command Prompt over PowerShell, you can use the DISM /Online command to enable the optional features on your Windows 11 computer.
 
@@ -85,15 +93,9 @@ Follow these steps to install Telnet using Command Prompt:
 6. Wait for the success message.
 7. Type**exit** and press**Enter** to close Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Check the Telnet Client Status on Your PC
 
 ![telnet status enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/telnet-status-enabled.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can check if the Telnet client is enabled on your PC using a Command Prompt command. When enabled, the Telnet command will open a new CMD to connect to remote servers and perform other tasks.
 
@@ -102,22 +104,20 @@ Follow these steps to install Telnet using Command Prompt:
 3. A new CMD with Microsoft Telnet will open.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## All the Ways to Enable Telnet On Your Windows 11 Computer
 
  Telnet is a built-in remote access utility that you can use to troubleshoot firewall and network issues. While it is still part of Windows, system administrators now prefer the more secure SSH protocol to access computers over an unsecured network.
 
  The major disadvantage of Telnet is that it is not secure and prone to a man-in-the-middle attack. If not for particular situations, switch to a more secure network protocol such as SSH and Mosh with better password and public key authentication.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,8 +126,21 @@ Follow these steps to install Telnet using Command Prompt:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-grasping-valheim-greenery-leading-saplings-explored/"><u>[New] In 2024, Grasping Valheim Greenery Leading Saplings Explored</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-knowledge-keepers-guide-10-top-choices-for-lecture-capturers/"><u>[Updated] Knowledge Keeper's Guide 10 Top Choices for Lecture Capturers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-optimal-methods-for-controlling-video-pace-on-snapchat/"><u>[Updated] Optimal Methods for Controlling Video Pace on Snapchat</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-connectivity-iphone-images-to-windows/"><u>2024 Approved Quick Connectivity IPhone Images to Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-alternative-top-recommended-windows-laptop-outshines-macbook-air-at-discounted-prices-insights/"><u>Affordable Alternative: Top-Recommended Windows Laptop Outshines MacBook Air at Discounted Prices - Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comparativa-definitiva-7-zip-x-winrar-x-winzip-que-ofrece-cada-herramienta-para-archivar-y-comprimir/"><u>Comparativa Definitiva: 7-Zip X WinRAR X WinZip - ¿Qué Ofrece Cada Herramienta Para Archivar Y Comprimir?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-file-sharing-capabilities-in-geforce/"><u>Enhancing File-Sharing Capabilities in GeForce</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-usability-faster-uninstall-options-in-win/"><u>Enhancing Usability: Faster Uninstall Options in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-taskbar-responsiveness/"><u>Enhancing Windows 11 Taskbar Responsiveness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/incorporating-external-disk-into-explorer-nav-pane/"><u>Incorporating External Disk Into Explorer Nav Pane</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/put-a-halt-on-application-start-tracking-in-windows/"><u>Put a Halt on Application Start-Tracking in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/surface-laptop-studio-2-review-artists-companion-for-the-future/"><u>Surface Laptop Studio 2 Review: Artists' Companion for the Future</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-list-of-premium-keyboard-picks-for-234-gamers-and-professionals-in-depth-testing-by-experts-zdnet/"><u>Ultimate List of Premium Keyboard Picks for 2^34 Gamers & Professionals, In-Depth Testing by Experts | ZDNET</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-your-cameras-potential-with-top-rated-drones-gimbals-for-2024/"><u>Unleashing Your Camera's Potential with Top-Rated Drones Gimbals for 2024</u></a></li>
+</ul></div>
 

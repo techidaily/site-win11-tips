@@ -1,7 +1,7 @@
 ---
 title: Reclaim Control of Freeze Shift Keys.
-date: 2024-08-16T01:11:03.333Z
-updated: 2024-08-17T01:11:03.333Z
+date: 2025-01-29T23:18:54.129Z
+updated: 2025-02-02T20:04:14.309Z
 tags:
   - windows10
   - windows11
@@ -43,15 +43,9 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 3. Scroll down to the **Interaction** section and click the **Keyboard** option.
 4. From here, locate the **Filter keys** option and toggle it off.  
 ![Turn Off Filter Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-off-filter-keys.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once done, close the Settings window and see if the shift key is now working.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Update or Reinstall Keyboard Drivers
 
  If the shift key is still not working, it could be an issue with your keyboard drivers. Outdated or corrupt drivers may cause compatibility issues and prevent hardware from functioning. To fix this issue, update your keyboard drivers using the below instructions.
@@ -61,13 +55,11 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 3. In the Device Manager window, expand the **Keyboards** section.
 4. Right-click on your keyboard device and select **Update driver**.  
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. On the next page, select the **Search automatically for drivers** option.  
 ![Search automatically for drivers-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-automatically-for-drivers-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now follow the instructions displayed on your screen to complete the process. After that, restart your computer and see if it solves the issue. If not, reinstall the keyboard drivers. This resolves compatibility issues and ensures hardware functions properly.
@@ -91,12 +83,17 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 2. Type "msdt.exe -id DeviceDiagnostic" in the text field and hit Enter.
 3. In the Troubleshooting window, click **Advanced** and check the box next to **Apply repairs automatically**.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 4. Click **Next** and follow the instructions displayed on your screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The troubleshooter will now scan your computer for hardware-related issues. When it's done, restart your computer and check if the shift key now works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Run the Keyboard Troubleshooter
 
@@ -107,17 +104,19 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 3. Scroll down in the right pane and click on **Troubleshoot**.
 4. On the next page, click **Other troubleshooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 5. Locate the **Keyboard** option in the list, then click **Run**.  
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait until the troubleshooter finishes and restart your computer. After that, check if the shift key functions normally.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Scan for Malware
 
  Viruses or suspicious programs interfere with keyboard functionality, leading to unresponsive keys. To check if this is the issue, [scan your computer for malicious software](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/).
@@ -130,13 +129,19 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 4. On the right side of the page, click on **Scan options**.  
 ![Scan options in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scan-options-in-windows-security.jpg)
 5. Next, check the **Full scan** box and click **Scan now**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the scan to finish and check if it finds malicious programs. If threats are detected, remove them immediately. After that, restart your computer and see if the shift key is working now.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Try a Different Keyboard
 
  If the suggested solutions do not solve the problem, chances are that the issue lies with your keyboard hardware. To isolate this from other causes, try a different keyboard and check if the shift key works now.
@@ -147,16 +152,11 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 
  Type **osk** in the text field and hit **Enter**. Now test the shift key on this virtual keyboard. If it works now, you should consider replacing the physical keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Start Using the Shift Key Again on Windows
 
  The Shift key is useful for capitalization, symbols, and navigating Windows menus. However, if it stops working, tasks become tedious and productivity slows down. If other solutions fail, try performing a system restore to return your Windows computer to a previous state where the Shift key worked properly.
 
  If the Shift key stops working, it could disrupt your workflow. This guide explains how to troubleshoot and repair the Shift key not functioning on your computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -165,5 +165,26 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-maintaining-continuous-connections-on-snapchat-tips-and-tricks-for-2024/"><u>[New] Maintaining Continuous Connections on Snapchat Tips & Tricks for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-launched-visuals-review-synopsis/"><u>[Updated] In 2024, Launched Visuals Review Synopsis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-typography-animation-suites/"><u>Advanced Typography Animation Suites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-free-from-frozen-windows-pin-locks/"><u>Breaking Free From Frozen Windows PIN Locks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-realme-gt-neo-5-se-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-tackling-epic-games-sign-in-on-pc/"><u>Efficiently Tackling Epic Games Sign-In on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-calendar-look-with-outlook-customization-tricks/"><u>Elevate Your Calendar Look with Outlook Customization Tricks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/from-hashtags-to-challenges-insta-meets-tiktok-for-2024/"><u>From Hashtags to Challenges Insta Meets TikTok for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enhance-windows-11-task-manager-with-a-search-tool/"><u>How to Enhance Windows 11 Task Manager with a Search Tool</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-12-mini-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oneplus-11r-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My OnePlus 11R Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/including-third-party-storage-on-file-explorer/"><u>Including Third-Party Storage on File Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-interface-clarity-displaying-this-pc-icon/"><u>Optimizing Interface Clarity: Displaying 'This PC' Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unknown-disk-error-in-windows/"><u>Overcoming Unknown Disk Error in Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-installing-and-running-handbrake-on-windows-11/"><u>Step-by-Step Guide: Installing and Running Handbrake on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-9-analytical-points-showcasing-pcs-edge-over-macs/"><u>Top 9 Analytical Points Showcasing PC's Edge Over Macs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-audio-test-failure-immediate-action-plan/"><u>Windows Audio Test Failure: Immediate Action Plan</u></a></li>
+</ul></div>
 

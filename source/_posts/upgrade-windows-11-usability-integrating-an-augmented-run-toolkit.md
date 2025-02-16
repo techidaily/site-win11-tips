@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Windows 11 Usability: Integrating an Augmented Run Toolkit"
-date: 2025-01-25T19:50:30.372Z
-updated: 2025-02-01T15:41:19.164Z
+date: 2025-01-27T20:54:19.512Z
+updated: 2025-02-03T01:03:52.239Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 ![The Extract Compressed (Zipped) folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window2.jpg)
 6. Then double-click the**Run-Command\_x64.exe** in that software’s unzipped folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can utilize Run-Command instead of Run. Input any command you would usually enter in Run into Run-Command. Then click**Run** or**Run as administrator** to open the app with the command entered. This app’s**Run as administrator** option is the first notable difference most users will probably notice.
 
 ![The Run-Command app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-command-window.jpg)
@@ -66,16 +62,12 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
 ![The Favorites menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-favorites-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can remove shortcuts added and edit the menu by clicking the**Manage Favorites** option. Select a shortcut in the Manage Favorites window and click the**X** button to remove it. Or you can click a folder button there to add new subfolders to the menu to move your shortcuts in. To edit a shortcut’s title, select it and click the rename button.
 
 ![The Manage Favorites window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/manage-favorites-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So, what we have here is an alternative Run app in which you can add shortcuts for opening all your favorite software packages. How utterly brilliant; but why hasn’t Microsoft added such a feature to Windows’ native Run app? The Redmond developers should have added a shortcut menu to Run long ago.
@@ -85,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
  However, you can change that keyboard shortcut to something else if preferred. To do so, click the**Options** menu; select**Hot-Key** on that menu to bring up a small window. Then select a key combination in the drop-down menus and click**OK** .
 
 ![The Options menu in Run-Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/options-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
@@ -105,17 +93,25 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 ![The PowerToys setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powertoys-setup-window.jpg)
 7. To open PowerToys, click**Start** and**All apps** (in Windows 11). Select PowerToys on the menu
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select the PowerToys**Run** tab.
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
 ![The Enable PowerToys Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-powertoys-run-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now press the**Alt** +**Space** hotkey to bring up a**Start typing** box. Then input the name of the software you want to launch inside PowerToys Run. Select a matching application within the results shown to open its window.
 
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Getting Familiar With PowerToys Run
 
@@ -124,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
  PowerToys Run has variable plugins you can activate with specific commands. To utilize only the plugin for opening installed programs, input a**.** before the software’s title. For example, input**.Edge** in the**Start typing** box. Then PowerToys Run will only display a couple of results for opening Edge.
 
 ![The .Edge command for opening MS Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-edge-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to search for files with PowerToys, input a**?** followed by a file’s title. PowerToys will show you files matching the search phrase included in the command.
 
@@ -135,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
 ![The $ command for accessing Control Panel applets and Settings pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-command.jpg)
@@ -144,10 +148,6 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
 
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make the Most of the Your Enhanced Run Accessory in Windows 11/10
 
@@ -168,16 +168,19 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-dramatize-depth-and-direct-focus-using-leading-lines-in-iphone-photography/"><u>[New] 2024 Approved Dramatize Depth and Direct Focus Using Leading Lines in iPhone Photography</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-laptop-unlock-free-movie-magic-with-these-tools/"><u>[New] Laptop Unlock Free Movie Magic with These Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-sharexs-standards-met-by-others-for-2024/"><u>[New] ShareX's Standards Met by Others for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-video-threads-on-youtube/"><u>2024 Approved Exploring Video Threads on YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-the-design-divergences-in-windows-11/"><u>Dissecting the Design Divergences in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-unzipping-navigating-through-mass-archive-decompression/"><u>Expert Unzipping: Navigating Through Mass Archive Decompression</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-honor-x7b-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Honor X7b? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-microsoft-error-analysis-on-windows-11/"><u>Mastering the Microsoft Error Analysis on Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-s18-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo S18 Pro Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-to-enable-network-connectivity-in-windows-11/"><u>Solutions to Enable Network Connectivity in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-operational-ccleaner-on-win1011/"><u>Troubleshooting Non-Operational CCleaner on Win10/11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-visual-revolution-integrating-3d-effects-into-your-photoshop-layouts/"><u>[Updated] A Visual Revolution Integrating 3D Effects Into Your Photoshop Layouts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harness-the-power-of-keywords-top-selection-software-unveiled-for-2024/"><u>[Updated] Harness the Power of Keywords Top Selection Software Unveiled for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-guide-to-win-11s-proxy-panel/"><u>A Comprehensive Guide to Win 11'S Proxy Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-error-31-steps-for-fixing-network-connectivity-issues/"><u>Decoding Windows Error 31: Steps for Fixing Network Connectivity Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-techniques-for-device-unlinking-in-google-home-systems/"><u>Effective Techniques for Device Unlinking in Google Home Systems</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/how-to-fix-corsair-hs70-mic-not-working-issue/"><u>How to Fix Corsair HS70 Mic Not Working Issue</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-use-snap-camera-on-google-meet-in-2024/"><u>How to Use Snap Camera on Google Meet, In 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oneplus-nord-3-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from OnePlus Nord 3 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/metro-by-t-mobile-unrestricted-data-plans-and-extensive-roaming-options/"><u>Metro by T-Mobile Unrestricted Data Plans & Extensive Roaming Options</u></a></li>
+<li><a href="https://win-data.techidaily.com/professional-vue-now-ui-suite-premium-pro-version-from-creative-tim/"><u>Professional Vue Now UI Suite – Premium Pro Version From Creative Tim</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-0x80072f8f-0x20000-error-on-pcs/"><u>Resolving 0X80072f8f-0x20000 Error on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-order-7-methods-for-windows-users-disrupted-google-drive/"><u>Restore Order: 7 Methods for Windows Users, Disrupted Google Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-taskbar-absence-during-full-screen-mode/"><u>Tackling Taskbar Absence During Full-Screen Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11s-mysteries-inside-its-registry-files/"><u>Unraveling Windows 11'S Mysteries: Inside Its Registry Files</u></a></li>
 </ul></div>
 

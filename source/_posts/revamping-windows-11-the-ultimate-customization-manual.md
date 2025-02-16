@@ -1,7 +1,7 @@
 ---
 title: "Revamping Windows 11: The Ultimate Customization Manual"
-date: 2025-01-29T16:59:50.494Z
-updated: 2025-02-01T04:55:15.442Z
+date: 2025-02-01T16:12:48.975Z
+updated: 2025-02-02T21:29:53.024Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
  You can extract the archive as covered in our guide on[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) . Double-click**WinBubble.exe** in the extracted WinBubbles directory to open the software.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Customize Desktop Shortcut Icons With WinBubble
@@ -61,19 +61,15 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 ![Metallic bubbles screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/metallic-bubbles.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also adjust the number of ribbons or lines for the different**Ribbon** and**Mystify** screensaver presets. Select a preset and then input values in the number boxes to change how many lines or ribbons are included in the screensavers. You can also input a width value in the**Ribbon** **width** box.
 
 ![A Preset drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-preset-drop-down-menu.jpg)
 
- When you’ve customized a screensaver, click the**View** button to preview it. Select**Set** to save the settings. You might also need to select and set the customized screensaver in the Change screensaver Control Panel applet.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ When you’ve customized a screensaver, click the**View** button to preview it. Select**Set** to save the settings. You might also need to select and set the customized screensaver in the Change screensaver Control Panel applet.
 
 ## 3\. How to Change the Menu Delay With WinBubble
 
@@ -91,20 +87,16 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 ![The submenu context menu settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/context-menu-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then right-click a desktop area to view your new**Control Panel** ,**System Tool** , or**Software** submenus. In Windows 11, you’ll also need to click**Show more options** since this tweak is applied to the classic context menu. Each submenu includes a variety of handy shortcuts.
 
 ![The System Tools submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-system-tools-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. How to Add New Take Ownership Explorer Options for Files and Folders
@@ -118,6 +110,14 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
  WinBubble’s**General** tab includes two settings for adding take ownership options to File Explorer’s context menu. Select both the**“Take the Ownership of this folder”** and**“Take the Ownership of this folder”** checkboxes to add those options. You’ll also need to click**Apply** for this tweak.
 
 ![The Take the Ownership of this folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/take-ownership-off-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. How to Add New Software Shortcuts to the Context Menu
 
@@ -136,6 +136,10 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
  Now, look at the context menu by right-clicking the desktop (selec**t Show more options** in Windows 11). You’ll see a shortcut for opening the software you added there. Click that shortcut to launch the program.
 
 ![A WinBubble context menu shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winbubble-context-menu-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can remove shortcuts added by selecting them in the Explorer/Desktop box within WinBubble’s**Tools** tab. Click the**Remove** option there. Then choose**Yes** when asked to confirm the deletion.
 
@@ -158,7 +162,7 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 ![A WinBubble shortcut in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winbubble-control-panel-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. How to Disable the Registry Editor in WinBubble
@@ -168,10 +172,6 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
  For example, you can select to disable the Registry Editor if you don’t want other users messing around with the registry. To do so, click the**More Policies** \>**System** tabs. Select the**Prevent registry access** **to Registry Editor** checkbox and**Apply** option. An access denied message will then pop up when users try to open Registry Editor.
 
 ![The Prevent access to Registry Editor option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/prevent-access-to-registry-editor-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Customize Windows to Your Liking With WinBubble
 
@@ -192,20 +192,20 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-the-blueprint-for-capturing-compelling-powerpoint-presentations/"><u>[New] In 2024, The Blueprint for Capturing Compelling PowerPoint Presentations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-spin-stitch-and-swirl-videos-on-your-android-tabletphone-for-2024/"><u>[New] Spin, Stitch & Swirl Videos on Your Android Tablet/Phone for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-stream-capture-software-unraveler/"><u>[New] Stream Capture Software Unraveler</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-efficient-methods-for-nvidia-screen-recording/"><u>[Updated] Efficient Methods for NVIDIA Screen Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-essential-knowledge-for-effective-use-of-the-io-screener-for-2024/"><u>[Updated] Essential Knowledge for Effective Use of the IO Screener for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-getting-back-to-basics-in-windows/"><u>Essential Tips: Getting Back to Basics in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-overcoming-the-dxgierrordevicehunk-issue/"><u>Guide to Overcoming the DXGI_ERROR_DEVICE_HUNK Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-switch-off-amdnvidia-ui-features/"><u>Guide to Switch Off AMD/Nvidia UI Features</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nizing-horizons-easy-steps-for-sharing-soundtracks/"><u>Harmonizing Horizons Easy Steps for Sharing Soundtracks</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-exquisite-visual-enhancement-implementing-filters-on-videos-pc-and-mobile/"><u>In 2024, Exquisite Visual Enhancement Implementing Filters on Videos (PC & Mobile)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/real-time-speech-recognition-made-simple-whisper-method/"><u>Real-Time Speech Recognition Made Simple - Whisper Method</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-textbook-script-troubles-a-quick-guide-for-windows/"><u>Tackling Textbook Script Troubles: A Quick Guide for Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-repair-how-to-fix-unpairing-problems-with-your-apple-watch/"><u>Troubleshoot & Repair: How To Fix Unpairing Problems with Your Apple Watch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-the-magic-turning-batch-files-into-winexe/"><u>Unleash the Magic: Turning Batch Files Into WinEXE</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-showcases-affordable-smart-charging-with-enhanced-features-from-emporia-energys-new-ev-charger-range-zdnet/"><u>ZDnet Showcases Affordable Smart Charging with Enhanced Features From Emporia Energy's New EV Charger Range | ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-breaking-down-advanced-photographic-modes-for-enhanced-results/"><u>[New] Breaking Down Advanced Photographic Modes for Enhanced Results</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/arning-estimates-for-youtube-creators-adsense-pay-out-per-1000-viewers-for-2024/"><u>[New] Earning Estimates for YouTube Creators AdSense Pay-Out per 1,000 Viewers for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-evaluating-the-effectiveness-of-shake-reduction-in-adobe-photos-for-2024/"><u>[New] Evaluating the Effectiveness of 'Shake' Reduction in Adobe Photos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-spread-smiles-through-adobe-memes-for-2024/"><u>[New] Spread Smiles Through Adobe Memes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-finding-files-in-windows-11-with-the-search-bar/"><u>Accelerate Finding Files in Windows 11 with the Search Bar</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/are-high-end-tvs-with-aurora-hdr-worth-it-analyzed/"><u>Are High-End TVs with Aurora HDR Worth It? Analyzed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-infinix-zero-30-5g-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Infinix Zero 30 5G.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-back-your-game-fixing-lol-connection-failure/"><u>Bringing Back Your Game: Fixing LoL Connection Failure</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-itel-s23-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Itel S23 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-to-do-restoring-lost-sync-credentials-effectively/"><u>Microsoft To-Do: Restoring Lost Sync Credentials Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-invalid-profiles-in-windows-operating-systems/"><u>Steps to Correct Invalid Profiles in Windows Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-re-listing-bluetooth-on-windows-pc/"><u>Strategies for Re-Listing Bluetooth on Windows PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-desired-upgrades-for-the-next-generation-gpt-5-model/"><u>Top 4 Desired Upgrades for the Next Generation GPT-5 Model</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transforma-tu-portatil-en-una-estacion-de-produccion-de-videos-guia-completa-7-consejos-innovadores-de-movavi/"><u>Transforma Tu Portátil en Una Estación De Producción De Vídeos: Guía Completa - 7 Consejos Innovadores De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/verifying-microphone-function-on-windows/"><u>Verifying Microphone Function on Windows</u></a></li>
 </ul></div>
 

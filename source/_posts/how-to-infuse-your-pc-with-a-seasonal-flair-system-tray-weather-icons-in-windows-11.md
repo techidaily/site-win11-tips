@@ -1,7 +1,7 @@
 ---
 title: "How to Infuse Your PC with a Seasonal Flair: System Tray Weather Icons in Windows 11"
-date: 2025-01-27T09:42:10.669Z
-updated: 2025-02-01T04:52:27.137Z
+date: 2025-01-29T19:16:03.734Z
+updated: 2025-02-02T23:09:33.114Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![weathermate-icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/weathermate-icon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To set your location, press the **Click for options** cog button on the WeatherMate panel. Then select **Locations** to bring up a window from which you can select many US or international locations.
 
  Click the **US** or **International** radio button, select your state or country on the drop-down menu, and then a more specific location. Choose **Add** \> **OK** to set the location.
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 ![The Locations window for WeatherMate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/locations-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  WeatherMate will show only today’s weather info by default. However, you can change that to a weekly forecast via the app’s settings.
@@ -58,14 +62,10 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![The weekly detail setting and forecast](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/detailed-weathermate-forecast.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you can only see the WeatherMate in the taskbar corner overflow menu, you’ll need to set its icon to appear within the taskbar corner (known as the "system tray"). Our guide on [showing and hiding Windows system tray icons](https://www.makeuseof.com/system-tray-icons-windows-11/#:~:text=In%20Taskbar%20settings%2C%20scroll%20down,set%20the%20toggle%20to%20Off.) provides instructions for how to set taskbar corner icons.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a Weather Icon to the System Tray With Weather Bar
@@ -78,16 +78,16 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![The Weather Bar system tray icon and panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/weatherbar-system-tray-icon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can set weather info for your area by clicking the hamburger menu button on the panel and selecting **New location**. Enter your city or town name in the search box to find and select it. If you’re in a village, that location might not be available. In which case, select the nearest city or town you can. Click **Let’s go** to set the new location.
 
 ![The location search box in Weather Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/location-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Check the Weather From the System Tray in Windows 11
@@ -106,22 +106,21 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-exploring-the-monetization-framework-of-tseries-via-youtube/"><u>[New] Exploring the Monetization Framework of TSeries via YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/50139702-new-jumpstart-your-channelstopwatch-seeking-viewers-with-these-youtube-seo-essentials/"><u>[New] Jumpstart Your Channel’stopwatch-Seeking Viewers with These YouTube SEO Essentials</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-video-record-with-vlc-for-2024/"><u>[New] Mastering Video Record with VLC for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-perfecting-youtube-visibility-a-step-by-step-featured-channels-guide/"><u>[Updated] Perfecting YouTube Visibility A Step-by-Step Featured Channels Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-16-steps-to-successfully-livestream-and-save-money-on-education-platforms/"><u>2024 Approved 16 Steps to Successfully Livestream and Save Money on Education Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-resource-discrepancy-appnametext-w11/"><u>Fixing Resource Discrepancy: AppName/Text W11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-iphone-se-2020-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From iPhone SE (2020) Smoothly</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-itel-s23-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-off-gaming-recommendations-in-w11/"><u>Mastering OFF Gaming Recommendations in W11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-the-art-of-spanish-verb-usage/"><u>Mastering the Art of Spanish Verb Usage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-event-log-repair/"><u>Mastering Windows Event Log Repair</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-pc-limitations-impacting-game-capture/"><u>Resolving PC Limitations Impacting Game Capture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sharpen-up-outlook-pace-for-seamless-computing/"><u>Sharpen Up Outlook Pace for Seamless Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-windows-discord-setup-failures/"><u>Steps to Address Windows Discord Setup Failures</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-use-korean-to-english-video-translators-for-creators/"><u>Updated How To Use Korean to English Video Translators for Creators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/websites-on-hold-seven-steps-to-resuscitate-them-in-windows/"><u>Websites On Hold? Seven Steps to Resuscitate Them in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zero-net-windows-update-a-self-service-manual/"><u>Zero-Net Windows Update: A Self-Service Manual</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-destiny-2-weasel-error-code/"><u>[Solved] Destiny 2 Weasel Error Code</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-ultimate-guide-inverse-video-tricks-on-youtube-plustutorials/"><u>[Updated] 2024 Approved Ultimate Guide Inverse Video Tricks on YouTube (+Tutorials)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-faceless-watchers-of-fb-flashbacks/"><u>[Updated] Faceless Watchers of Fb Flashbacks</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-rhymes-that-roam-a-list-of-must-have-tiktok-rap-songs/"><u>2024 Approved Rhymes That Roam A List of Must-Have TikTok Rap Songs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-survivals-tightrope-ranking-the-top-8-zombie-adventures/"><u>2024 Approved Survival's Tightrope Ranking the Top 8 Zombie Adventures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-guide-to-troubleshooting-the-windows-camera-app/"><u>A Complete Guide to Troubleshooting the Windows Camera App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-your-assault-fixing-lags-for-pc-warriors/"><u>Ace Your Assault: Fixing Lags for PC Warriors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-breakdown-windows-saver-dynamics/"><u>Expert Breakdown: Windows Saver Dynamics</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/get-into-it-the-next-level-conversation-ai/"><u>Get Into It: The Next-Level Conversation AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/momentum-builds-with-windows-11s-upcoming-feature-unveil/"><u>Momentum Builds with Windows 11’S Upcoming Feature Unveil</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/obs-studio-for-ps4-step-by-step-screen-capture-for-2024/"><u>Obs Studio for PS4 Step-by-Step Screen Capture for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-the-hidden-search-bar-in-win11s-task-manager/"><u>Revealing the Hidden Search Bar in Win11's Task Manager</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/setting-up-the-dramacool-extension-for-enhanced-asian-entertainment-in-kodi-versions-20-and-19/"><u>Setting Up the DramaCool Extension for Enhanced Asian Entertainment in Kodi Versions 20 and 19</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swivel-your-snaps-with-these-6-steps-for-windows-11-users/"><u>Swivel Your Snaps with These 6 Steps for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-steam-library-accessibility-on-win-11-pcs/"><u>Troubleshooting Steam Library Accessibility on Win 11 PCs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/m-waves-prime-ed-channels-online/"><u>Wisdom Waves Prime Ed Channels Online</u></a></li>
 </ul></div>
 

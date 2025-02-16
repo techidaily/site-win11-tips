@@ -1,7 +1,7 @@
 ---
 title: 8 Ways to Open the File History in Windows 11
-date: 2024-08-16T01:13:48.472Z
-updated: 2024-08-17T01:13:48.472Z
+date: 2025-01-31T01:31:10.519Z
+updated: 2025-02-02T17:34:10.443Z
 tags:
   - windows10
   - windows11
@@ -45,14 +45,8 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 2. Go to the left-hand side section and click on the search bar.
 3. Type **File History** and click on the **Restore your files with File History** search result.  
 ![Open File History Using Settings App-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-settings-app-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. The Control Panel window will open with the File History page.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Using the Run Dialog Box
 
  Launching programs and system apps from the Run dialog box is possible if you know the exact file name or the file path. Repeat the following steps:
@@ -61,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 2. Type **control /name Microsoft.FileHistory** in the text box and press the **Enter** key.  
 ![Open File History Using Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-run-dialog-box.jpg)
 3. The File History page will open.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Using File Explorer
 
@@ -72,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 4. Now, go to the search box present in the top right corner and type File History. Press the **Enter** key to initiate a search.
 5. Double-click on the **FileHistory.exe** file to open the tool.  
 ![Open File History Using File explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-file-explorer.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Using Task Manager
@@ -83,14 +82,12 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 1. Press the **Ctrl + Shift + Esc** keys simultaneously to [open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/).
 2. Click on the **Run new task** button. Now, type **FileHistory.exe** in the text box and click on the **OK** button.  
 ![Open File History Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 3. File History will launch on your system. Close the Task Manager
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Using Terminal App
 
  If you love the terminal and don’t like the idea of opening menus or searching for an app or tool, you can open File History using the Terminal app. Here’s how to do it:
@@ -99,10 +96,15 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 2. Click on the **Terminal** option.
 3. Now, type the following command and press the **Enter** key to execute it: **control /name Microsoft.FileHistory**  
 ![Open File History Using Terminal App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-terminal-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Close the Terminal app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Using a Desktop Shortcut
 
@@ -116,16 +118,14 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 5. Switch to the desktop. Double-click on the newly created File History shortcut to launch the tool.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Access File History Settings In a Jiffy
 
  Microsoft came with this excellent physical backup option for Windows OS. Now, you know eight easy methods to access File History, run a manual backup session, and tweak its settings. You can even add and remove folders in File History, but that requires a bit more effort.
 
  But Control Panel isn’t the only way to access File History on Windows. This guide will list eight quick methods to open the File History page in Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -134,5 +134,21 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-key-to-flawless-shots-using-a-tripod-correctly-in-video-blogging/"><u>[New] The Key to Flawless Shots Using a Tripod Correctly in Video Blogging</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2023s-samsung-bd-j5900-a-detailed-look-for-2024/"><u>2023'S Samsung BD-J5900 A Detailed Look for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-replies-enhancing-interaction-on-telegram-platforms/"><u>2024 Approved Revolutionize Replies Enhancing Interaction on Telegram Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-xpatch-puzzle-error-0x80073712/"><u>Decoding Windows XPatch Puzzle: Error 0X80073712</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-distinctions-a-comparative-analysis-of-standard-login-vs-microsoft-account-on-pcs/"><u>Dissecting Distinctions: A Comparative Analysis of Standard Login vs Microsoft Account on PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-12-best-video-players-and-apps-for-pc-and-mobile-devices-for-2024/"><u>FREE 12 Best Video Players and Apps for PC and Mobile Devices for 2024</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/herunterladen-von-instagram-videos-fur-windows-und-mac-anleitung-fur-iphone-ipad-and-android/"><u>Herunterladen Von Instagram-Videos Für Windows Und Mac – Anleitung Für iPhone, iPad & Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-desktop-icon-spacing-in-windows-11-and-10/"><u>How to Change Desktop Icon Spacing in Windows 11 and 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-common-print-issues-related-to-domain-services-in-modern-windows-oses/"><u>How to Rectify Common Print Issues Related to Domain Services in Modern Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-solutions-for-dead-hubs-and-usb-connectors-win-pc/"><u>Immediate Solutions for Dead Hubs & USB Connectors Win PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-investigating-best-fps-for-outstanding-slow-motion-cinematography/"><u>In 2024, Investigating Best FPS for Outstanding Slow-Motion Cinematography</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-7-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-your-browser-limiting-edges-activity/"><u>Managing Your Browser: Limiting Edge's Activity</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-epic-games-launcher-displaying-a-dark-interface/"><u>Resolved: Fixes for Epic Games Launcher Displaying a Dark Interface</u></a></li>
+</ul></div>
 

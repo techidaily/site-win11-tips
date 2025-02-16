@@ -1,7 +1,7 @@
 ---
 title: Addressing Error X80049DD3 for Smooth Typing on Windows 11
-date: 2024-08-16T01:13:12.081Z
-updated: 2024-08-17T01:13:12.081Z
+date: 2025-02-01T22:48:55.453Z
+updated: 2025-02-02T20:29:59.217Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 
  As a result, users can’t input text with voice typing. Sure, you can always use your keyboard for word processing; but those who need to fix this issue no doubt prefer speech-to-text dictation. This is how you can fix the 0x80049dd Voice Typing error in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Recording Audio and Speech Troubleshooters
 
  Windows 11 includes two troubleshooters that could come in handy for fixing the 0x80049dd3 error. The Recording Audio troubleshooter can resolve sound recording issues. Or you can try running the Speech troubleshooter, which is a slightly more specific one for fixing microphone-related errors. You can open the recording troubleshooting tool in the following steps:
@@ -29,8 +33,17 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 3. Next, click**Other trouble-shooters** to view that part of Settings.  
 ![The Run button for the Recording Audio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-button-for-recording-audio.jpg)
 4. Select the Recording Audio troubleshooter’s**Run** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Run button for the Recording Audio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-button-for-recording-audio.jpg)
 5. Click**Apply this fix** for any solutions suggested by the Recording Audio troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Speech troubleshooter is available in Windows 11’s Control Panel. This is how you can access that troubleshooter:
 
@@ -46,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 8. Press the Speech troubleshooter’s**Next** button to detect and fix issues.  
 ![The Speech troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-speech-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check for Windows 11 Updates
 
  Microsoft has reputedly acknowledged error 0x80049dd3, which means the big M may have released a patch update that addresses it. Windows is usually automatically updated, but there might still be some available updates your PC is missing. So, check for and install all available Windows 11 updates like this:
@@ -63,8 +73,9 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 6. Then select the checkboxes for updates listed there, and click the**Download and install** options.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Check the Settings for Your Microphone
 
  Windows 11’s Settings app includes microphone access options that need to be enabled for voice typing to work. Double-check that microphone access is enabled for all apps you want to utilize for voice typing. This is how you can enable mic access in Windows 11:
@@ -73,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 2. Then select**Privacy & security** in Settings.
 3. Next, click the**Microphone** navigation option.  
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microphone-navigation-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Toggle on the**Microphone access** option if it is disabled.  
 ![The microphone access settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microphone-access-settings.jpg)
 5. Turn on the**Let apps access your microphone** setting.
@@ -90,13 +98,11 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
  If Driver Booster, or alternative software, shows your microphone’s driver needs updating, you can select to update it from there. Our [guide to updating drivers with Driver Booster 8](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) (now version 10) tells you how to update device drivers with that software.
 
 ![The Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-driver-booster-software.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Set Up a New User Account
 
  Creating a new user account is among the most widely confirmed solutions for error 0x80049dd3\. Thus, this error is seemingly often a user account issue. Try setting up and switching to a new user account in the following steps:
@@ -106,9 +112,6 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 3. Select the**Family & other users** navigation option.
 4. Click**Add account** for the**Add other user** option.  
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-add-account-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Select the **I don’t have this person’s sign-in information** option on the Microsoft account window.  
 ![The I don't have this person's sign-in information option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-i-dont-have-sign-in-information-option.jpg)
 
@@ -119,20 +122,18 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 4. Click the new account’s down arrow in Settings to expand it.
 5. Press the**Change account type** button for your new account.  
 ![The Change account type button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-account-type-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Select the**Administrator** option on the Change account type window, and click**OK** to save.  
 ![The Administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-administrator-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. Sign out of Windows 11 and log in to the newly created user account.
 8. Try using voice typing in your new user account.
 
  If this solution works, you can transfer your user files to the new account. To do that, you’ll need to copy all the data from an old user account folder and paste it into the new one with the**Ctrl** +**C** and**Ctrl** +**V** hotkeys. You can copy data from your old account into the new one at these folders paths:
 
 `C:\Users\<Old_Username>\nC:\Users\<New_Username>`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset Your Network Connection
 
@@ -144,7 +145,16 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 4. Select the**Network reset** option, and click**Yes** to confirm.  
 ![The Reset now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-reset-now-option.jpg)
 5. Restart Windows 11 after resetting the network.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Then you’ll need to reconnect your PC to the internet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Voice Typing Again on Windows 11
 
@@ -156,8 +166,6 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,8 +173,26 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/hoose-your-perfect-wedding-tales-youtubes-finest-8-for-2024/"><u>[New] Choose Your Perfect Wedding Tales - Youtube's Finest 8 for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-dive-into-high-quality-audio-7-royalty-free-selections-for-2024/"><u>[Updated] Dive Into High-Quality Audio 7 Royalty-Free Selections for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/a-compreenas-step-by-step-guide-for-bordered-instagram-images/"><u>A Compreenas Step-by-Step Guide for Bordered Instagram Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-search-on-windows-11-the-top-5-must-knows/"><u>Elevating Search on Windows 11: The Top 5 Must-Knows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-0x800f0845-from-windows-updates/"><u>Eradicating 0X800f0845 From Windows Updates</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-top-smart-frames-to-buy/"><u>Expert Picks: Top Smart Frames to Buy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuito-conversor-imagenes-en-formato-jpeg-online-herramienta-de-alta-calidad-movavi/"><u>Gratuito Conversor Imagenes en Formato JPEG Online: Herramienta De Alta Calidad - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-install-microsoft-defender-application-guard-for-edge-in-windows-11/"><u>How to Install Microsoft Defender Application Guard for Edge in Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-an-ultimate-overview-of-polarr-photo-editor/"><u>In 2024, An Ultimate Overview of Polarr Photo Editor</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-openai-struggling-to-maintain-authority-over-chatgpt/"><u>Is OpenAI Struggling to Maintain Authority Over ChatGPT?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-of-windows-photo-viewer-in-win11/"><u>Restoring Functionality of Windows Photo Viewer in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-missing-data-from-windows-1011s-search-feature/"><u>Restoring Missing Data From Windows 10/11'S Search Feature</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/stay-one-step-ahead-of-cpu-issues-game-devs-breakthrough-alert-for-intel-core-processors-easy-fix-procedures-revealed/"><u>Stay One Step Ahead of CPU Issues: Game Dev's Breakthrough Alert for Intel Core Processors - Easy Fix Procedures Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correcting-file-errors-in-windows-11/"><u>Steps to Correcting File Errors in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-error-code-0x80070091-empty-directories-unveiled/"><u>Tackling Windows Error Code 0X80070091 - Empty Directories Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-surface-computer-firmware-update-manual/"><u>The Ultimate Surface Computer Firmware Update Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-altering-window-icons-distance-on-11plus-windows/"><u>Title: Altering Window Icons' Distance on 11+ Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tracing-the-roots-a-concise-look-at-electric-automobile-innovation/"><u>Tracing the Roots: A Concise Look at Electric Automobile Innovation</u></a></li>
+</ul></div>
 

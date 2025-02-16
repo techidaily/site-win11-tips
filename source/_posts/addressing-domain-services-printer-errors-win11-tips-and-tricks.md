@@ -1,7 +1,7 @@
 ---
 title: "Addressing Domain Services Printer Errors: Win11 Tips & Tricks"
-date: 2024-08-16T01:14:33.216Z
-updated: 2024-08-17T01:14:33.216Z
+date: 2025-01-30T23:40:51.180Z
+updated: 2025-02-03T00:14:20.898Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
  The “Active Directory Domain Services” error occurs for some users when they try to print things with Windows software, such as MS Word, Excel, etc. When users select to find a printer in affected software, they see this error message, “The Active Directory Domain Services is currently unavailable.” As a result, users can’t print with affected software packages.
 
  This error means that the software can’t detect a connected printer. It’s a widely reported issue to occur for MS Office applications but can affect a wide range of apps. These are the best ways to fix the “Active Directory Domain Services” error in Windows 10 and 11\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run the Printer Troubleshooter
 
@@ -42,16 +46,14 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 5. Select the **Startup type** menu’s **Automatic** option if a different setting is set there.
 6. Click **Run** to start Print Spooler if it’s stopped.  
 ![The Print Spooler Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-spooler-service-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Select **Apply** and **OK** to save all the Print Spooler options you’ve just selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Print Spooler is already running, restart that service. To do so, right-click **Print Spooler** in the Services window and select **Restart**. Or select the **Stop** and **Start** options within that service’s properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 3\. Uninstall and Reinstall Your Printer’s Driver
 
  A faulty printer driver is a possible cause for the “Active Directory Domain Services” error on your PC. To address such a potential cause, try reinstalling your printer’s driver like this:
@@ -60,26 +62,16 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 2. Double-click **Print queues** to extend that device category.
 3. Right-click your printer and select **Uninstall device**.  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-device-option.jpg)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select **Uninstall** on the confirmation window.  
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-device-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. To reinstall a driver, right-click the printer in Device Manager and select **Search automatically for updated driver software** option. Windows will detect a printer driver available on your PC and install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also reinstall a driver by downloading it from the device manufacturer’s website. Open the driver download page on your printer manufacturer’s website. Then select your printer model there and download the latest driver for it. Double-click the printer driver package you downloaded to bring up a setup wizard and select to install it from there.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Manually Add a Printer
 
  The Control Panel includes a Devices and Printers applet from which you can manually add printers. You can remove a printer and then manually add it from there to see if that fixes the “Active Directory Domain Services” error. Doing so will effectively reinstall the printer on your PC. Follow these steps to manually add the affected printer:
@@ -93,12 +85,18 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 6. Press the **Add a printer** button in the Devices and Printers applet.  
 ![The Add a printer option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-a-printer.jpg)
 7. Select the printer you just removed and click **Next**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Add a device window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-a-device.jpg)
 8. If the printer you need isn’t available for selection within the wizard, click the printer that I want isn’t listed. Then select a suitable option for finding the printer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Edit Three Registry Keys' Permissions
 
  Many users confirm editing the permissions for the PrinterPorts, Windows, and Devices registry keys fixes the “Active Directory Domain Services” error. Applying that registry tweak will ensure your account can access those keys. Edit the permissions for those registry keys like this:
@@ -109,6 +107,11 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 3. Right-click the **Devices** registry key to select **Permissions**.  
 ![The Permissions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/permissions-option.jpg)
 4. Next, select the user profile in which the error occurs within the **Group** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Then select the **Full Control** checkbox within the **Allow** column.  
 ![The Full Control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/full-control-checkbox.jpg)
 6. Repeat step five for all groups and user names shown within the **Security** tab.
@@ -116,9 +119,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 8. Repeat the previous five steps for the **PrinterPorts** and **Windows** registry keys.
 9. Close out of Registry Editor and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## 6\. Try Printing With a Pre-Installed Windows App
 
  Windows includes some pre-installed apps with which you can print documents and images. Some of those pre-installed apps might be able to find your printer without issues. Users confirm finding a printer and printing with Notepad can resolve the “Active Directory Domain Services” error. This is how you can find a printer in Notepad:
@@ -128,10 +128,12 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 3. Enter some text into Notepad.
 4. Then click **File** on Notepad’s menu bar.  
 ![The Print option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 5. Select **Print** to bring up the **General** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **Find Printer** button.  
 ![The Find Printer button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-window.jpg)
 7. If you can find the printer with Notepad, print the text you entered with that app.
@@ -143,8 +145,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
  This error means that the software can’t detect a connected printer. It’s a widely reported issue to occur for MS Office applications but can affect a wide range of apps. These are the best ways to fix the “Active Directory Domain Services” error in Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -152,5 +152,26 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ultimate-top-5-list-ps3-games-on-windows-platforms/"><u>[New] In 2024, Ultimate Top 5 List PS3 Games on Windows Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-deciphering-the-magic-behind-magixs-pixel-editor/"><u>[Updated] Deciphering the Magic Behind MAGIX's Pixel Editor</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-elevate-your-minecraft-skills-with-the-art-of-circle-and-sphere-creation/"><u>[Updated] In 2024, Elevate Your Minecraft Skills with the Art of Circle & Sphere Creation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-mastery-guide-on-the-world-of-voice-recordings/"><u>[Updated] In 2024, Mastery Guide on the World of Voice Recordings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-adventure-essentials-ultimate-guide-to-1-10-gopro-protectors/"><u>2024 Approved Adventure Essentials - Ultimate Guide to #1-10 GoPro Protectors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-unveiled-six-techniques-for-novelists/"><u>ChatGPT Unveiled: Six Techniques for Novelists</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-11s-advanced-setup/"><u>Decoding Windows 11'S Advanced Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-error-unresponsive-audio-device-stopped/"><u>Eradicating Windows Error: Unresponsive Audio Device Stopped</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-edge-against-rivals-in-the-gaming-realm/"><u>Evaluating Edge Against Rivals in the Gaming Realm</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-gpresult-the-ultimate-gpo-report-tool/"><u>Exploring GPResult: The Ultimate GPO Report Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/game-gateway-3-steps-to-direct-folder-entry-on-pc/"><u>Game Gateway: 3 Steps to Direct Folder Entry on PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultrafine-a-deep-dive-into-lgs-elite-4k-display-features/"><u>In 2024, UltraFine A Deep Dive Into LG's Elite 4K Display Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-display-configurations-on-nvidia/"><u>Overcoming Missing Display Configurations on Nvidia</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-ms-teams-error-80080300-on-windows-11-a-guide/"><u>Resolving MS Teams Error 80080300 on Windows 11: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-screen-organization-multi-window-mastery-with-win1110/"><u>Simplified Screen Organization: Multi-Window Mastery with Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-11-remedy-six-steps-to-resurrect-lost-panes/"><u>The Ultimate Windows 11 Remedy: Six Steps to Resurrect Lost Panes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/time-travelled-titles-tamed-the-power-of-retroarcs-visual-shapers/"><u>Time-Travelled Titles Tamed: The Power of RetroArc's Visual Shapers</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-no-cost-dvd-flick-substitutes-for-windows-11-10-and-earlier-versions/"><u>Top No-Cost DVD Flick Substitutes for Windows 11, 10 & Earlier Versions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Realme GT 3 | Dr.fone</u></a></li>
+</ul></div>
 

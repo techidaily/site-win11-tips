@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Web Safety: Windows 11 Controls Overview"
-date: 2025-01-26T00:31:02.591Z
-updated: 2025-02-01T02:42:53.561Z
+date: 2025-01-30T23:32:19.575Z
+updated: 2025-02-02T20:13:17.361Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create an Account for Your Child on Windows 11
 
  The first step of setting up parental control in Windows 11 is to create a child account. If you haven’t done it already, here’s how you can do it:
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 ![Create child account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/child-account-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Since you will not use this account too often, you should learn[how to start using a password manager](https://www.makeuseof.com/how-to-start-using-password-manager/) to remember its credentials.
@@ -51,15 +55,15 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
 ![Parental control settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/parental-control-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will bring up the Microsoft Family Safety website. Click the**Sign in to Family Safety** and enter your Microsoft account credentials. There you’ll see every account connected to your Microsoft account, including your child’s account.
 
  To manage your child’s account, you’ll have to connect it to a device. If you want to connect it to your computer, sign in using its credentials.
 
  Now, head back to the Family Safety webpage as shown before, and click your child’s account. In the left pane, you can see the categories for setting and changing permissions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Monitor and Change Permissions in Parental Control
 
@@ -67,10 +71,14 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
 ![Parental control overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/monitor-and-change-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t have the time to constantly check the account, scroll down to**Activity settings** . There, turn on the toggle below**Activity reporting** , so you can monitor your child’s activity on all of their devices. Also, you can turn on the toggle below**Send a weekly email to me** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Use Parental Control to Limit Screen Time
@@ -83,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
 ![How to limit screen time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/edit-time-limit-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There, use the slider to set how long they can use their device. Also, you can decide between which hours they can access the device. To save the schedule, click**Finished** .
 
 ### How to Use Parental Control to Filter Content
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
  Also, you can block certain websites, if you think they might be inappropriate for your child.
 
  The filters and activity reporting work only if your kid is using Microsoft Edge. However, you can add the other internet browsers to the list of blocked apps in the**Overview** menu, or you can[use a parental control app for Windows](https://www.makeuseof.com/tag/best-parental-control-apps-windows/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Use Parental Control to Overview Spending
 
@@ -126,22 +126,18 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-from-novice-to-pro-a-complete-exploration-of-zd-software-recording-features/"><u>[New] 2024 Approved From Novice to Pro A Complete Exploration of ZD Software Recording Features</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-legacy-of-dungeons-vs-new-gameplay-concepts/"><u>[New] 2024 Approved Legacy of Dungeons Vs. New Gameplay Concepts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-core-definitions-of-cyber-storytelling/"><u>[New] Core Definitions of Cyber Storytelling</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/6-proven-strategies-for-leveraging-chatgpt-skills-for-data-analysis/"><u>6 Proven Strategies for Leveraging ChatGPT Skills for Data Analysis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-windows-device-disabled-code-22-glitch/"><u>Eliminating Window's Device Disabled (Code 22) Glitch</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-possibility-of-having-and-maintaining-dual-youtube-channels/"><u>Exploring the Possibility of Having and Maintaining Dual YouTube Channels</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-run-android-apps-in-windows-11/"><u>How to Run Android Apps in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-past-the-barrier-fixing-windows-updates-0x800736cc/"><u>Navigate Past the Barrier: Fixing Windows Update's 0X800736CC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overriding-defenders-restrictions-for-additional-security/"><u>Overriding Defender's Restrictions for Additional Security</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-unrequested-console-emergence-on-pcs/"><u>Preventing Unrequested Console Emergence on PCs</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-xcover-7-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy XCover 7 won’t play MP4 files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/staying-ahead-adding-passwords-to-your-win-texts-proactively/"><u>Staying Ahead: Adding Passwords to Your Win Texts Proactively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-up-your-file-organization-game-windows-11-and-11-style/"><u>Step Up Your File Organization Game - Windows 11 & 11 Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-reviving-the-inactive-wsreset-service/"><u>Strategies for Reviving the Inactive WSReset Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-mystery-of-missing-drive-letters-in-windows-systems-a-compreayers-guide-to-fixing-it/"><u>The Mystery of Missing Drive Letters in Windows Systems - A Compreayer's Guide to Fixing It</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/troubleshooting-tips-reviving-your-malfunctioning-scanner-insights-from-yl-computing-and-software-solutions/"><u>Troubleshooting Tips: Reviving Your Malfunctioning Scanner - Insights From YL Computing & Software Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wininetdll-not-detected-heres-how-to-repair-it-fast/"><u>Wininet.dll Not Detected? Here's How to Repair It Fast</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-reno-11-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo Reno 11 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-pixel-art-generator-for-2024/"><u>New What Is AI Pixel Art Generator for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/photo-editing-mastery-leveraging-photoshops-background-eraser-tool-to-perfection/"><u>Photo Editing Mastery Leveraging Photoshop's Background Eraser Tool to Perfection</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-13-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silence-windows-aggressive-contrast-mode/"><u>Silence Windows' Aggressive Contrast Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-with-leading-winning-apps-for-windows/"><u>Supercharge with Leading Winning Apps for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/superior-vm-choices-to-upgrade-windows-11-performance/"><u>Superior VM Choices To Upgrade Windows 11 Performance</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-powerhouse-of-portability-in-depth-look-at-the-lg-gram-17-notebook/"><u>The Powerhouse of Portability - In-Depth Look at the LG Gram 17 Notebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-macbook-enhancers-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated MacBook Enhancers : Comprehensive Reviews by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-non-responsive-clipboard-features-in-windows-11/"><u>Troubleshooting Steps for Non-Responsive Clipboard Features in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-durable-google-pixel-case-brands-your-complete-guide-to-safekeeping/"><u>Ultimate Selection of Durable Google Pixel Case Brands : Your Complete Guide to Safekeeping</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/sh-the-power-of-your-youtube-channel-with-expert-editing-techniques-for-2024/"><u>Unleash the Power of Your YouTube Channel with Expert Editing Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/website-standoffs-on-pc-seven-saving-strategies-for-cross-browser-issues/"><u>Website Standoffs on PC: Seven Saving Strategies for Cross-Browser Issues</u></a></li>
 </ul></div>
 

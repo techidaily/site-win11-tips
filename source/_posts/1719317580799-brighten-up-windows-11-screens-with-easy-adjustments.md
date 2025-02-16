@@ -1,7 +1,7 @@
 ---
 title: Brighten Up Windows 11 Screens with Easy Adjustments
-date: 2024-08-16T01:14:25.839Z
-updated: 2024-08-17T01:14:25.839Z
+date: 2025-01-26T19:56:35.638Z
+updated: 2025-02-02T17:50:00.461Z
 tags:
   - windows10
   - windows11
@@ -29,15 +29,13 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
  In most cases, you cannot change external monitor brightness from Windows settings—you must manually adjust this setting. If the external monitor's brightness setting is unresponsive, check your monitor's manual to find the brightness buttons' location and how you can adjust it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Reboot Your Device
 
  If none of the methods for changing your display's brightness work, reboot your device once. Doing so will ensure that a temporary problem with your operating system isn't preventing you from changing the brightness. If rebooting your device does not make a difference, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update, Restart, or Reinstall the Drivers
 
  If restarting your computer didn't fix the issue, you should check for driver updates. This lets you determine whether corrupt or malfunctioning graphics drivers cause the problem. Follow these steps to update the relevant drivers:
@@ -51,17 +49,15 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
  If updating the drivers does not resolve the issue, right-click on both drivers individually and select**Disable device** . To enable them again, right-click on each and select**Enable device** .
 
 ![Enable Display Device in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-enable-display-device-in-windows-device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 
  In case that doesn't work either, you should uninstall both drivers. To do that, right-click on both drivers individually and select**Delete device** . After that, reboot your device again, and Windows will reinstall them.
 
 ![Uninstall Display Device in Windows Device Mananger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-uninstall-display-device-in-windows-device-mananger.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Recharge Your Device
 
  Is your device running low on battery power? If that is the case, Windows may not allow you to change the brightness. The operating system does this to help save energy and will enable you to stretch your remaining battery even longer. Because of this, your computer will reduce its brightness significantly and might not even let you turn it up manually.
@@ -69,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
  Likewise, turning on battery-saving mode could also interfere with the brightness adjustment. If you set your laptop to conserve as much battery as possible, it might minimize its display's brightness to help save power.
 
  If your battery is low, you should recharge your computer. Once your battery reaches a healthy level, you can adjust the brightness as usual. Or if you experienced the problem when you turned on battery-saving mode, you should turn it off or change its settings to allow you to change your monitor's brightness.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Repair Corrupted System Files
 
@@ -87,14 +87,16 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 ![Go to Display Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-go-to-display-settings-in-windows-settings-app.jpg)
 3. Expand the**Brightness** menu and uncheck the boxes beside**Change brightness automatically when lighting changes** and **Help improve battery by optimizing the content shown and brightness** .  
 ![Change the Display Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-the-display-settings-in-windows-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 4. After that, turn off the toggle next to**Night light** if it is turned on.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Install Pending Windows Updates
 
  If you don't update Windows, you can run into unforeseen issues. If you have done that in a while, you could eventually encounter problems, like the inability to adjust your screen's brightness.
@@ -107,23 +109,17 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 
  That's why you should [create a restore point on Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) every time you make a significant change, like installing a new app.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Take the Strain Off Your Eyes
 
  Extreme brightness levels and super dim screens will give you eyestrain. Hopefully, you have solved the issue with the above fixes and can adjust the screen again to fit your need.
 
  But if you're still having occasional trouble adjusting your monitor's brightness or are looking for a way to balance the brightness of multiple displays, you should check out the best brightness control apps on Windows to help you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,8 +128,23 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-strategic-placement-sites-for-video-marketing/"><u>[New] Strategic Placement Sites for Video Marketing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-astral-adventures-with-your-luxury-sj4000-essential-accompaniments/"><u>[Updated] 2024 Approved Astral Adventures with Your Luxury SJ4000 - Essential Accompaniments</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-exploring-eight-premium-tablets-revolutionizing-photography-editing/"><u>[Updated] In 2024, Exploring Eight Premium Tablets Revolutionizing Photography Editing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-acoustic-ambiance-in-photo-videos/"><u>2024 Approved Acoustic Ambiance in Photo Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-journey-mastering-the-art-of-gs-with-kinemaster/"><u>2024 Approved Step-by-Step Journey Mastering the Art of GS with KineMaster</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-practical-approach-to-using-windows-11-calendar/"><u>A Practical Approach to Using Windows 11 Calendar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapt-calc-app-for-night-time-viewing-dark-mode-tutorial/"><u>Adapt Calc App for Night-Time Viewing: Dark Mode Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-inactive-windows-system-voices/"><u>Addressing Inactive Windows System Voices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effort-free-conversion-techniques-from-any-video-to-divx/"><u>Effort-Free Conversion Techniques From Any Video to DivX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-lock-screen-and-screen-saver-timeout-settings-on-windows/"><u>How to Change the Lock Screen and Screen Saver Timeout Settings on Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-augmenting-realities-for-better-outcomes/"><u>In 2024, Augmenting Realities for Better Outcomes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-your-way-a-guide-to-mapping-drives-on-windows-11/"><u>Navigate Your Way: A Guide to Mapping Drives on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-unrecoverable-windows-errors/"><u>Solutions to Unrecoverable Windows Errors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-xiaomi-redmi-note-13-pro-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Xiaomi Redmi Note 13 Pro 5G Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-over-controller-woes-a-guide-to-steam-detection/"><u>Win Over Controller Woes: A Guide to Steam Detection</u></a></li>
+</ul></div>
 

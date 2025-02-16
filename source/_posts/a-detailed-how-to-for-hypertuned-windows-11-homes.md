@@ -1,7 +1,7 @@
 ---
 title: A Detailed How-To for Hypertuned Windows 11 Homes
-date: 2024-08-16T01:11:32.251Z
-updated: 2024-08-17T01:11:32.251Z
+date: 2025-02-01T16:44:53.213Z
+updated: 2025-02-02T19:36:17.728Z
 tags:
   - windows10
   - windows11
@@ -39,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 7. Your PC will restart with the Hardware Virtualization enabled. Now you can continue to install Hyper-V on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install Hyper-V on Windows 11 Home
 
  The next step is to create and run a batch script to install the required files to enable Hyper-V in Windows 11 Home.
@@ -52,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
  1\. Open a new Notepad file. To do this, press **Win + R**, type notepad, and click **OK.**
 
 ![hyper v install windows 11 home script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/hyper-v-install-windows-11-home-script.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2\. In the Notepad file, copy and paste the following script:
 
@@ -67,8 +72,9 @@ pause`
  4\. In the file name field, type **hyperv.bat.** The **.bat** extension at the end of the file name is important to execute the script.
 
 ![save hyperv install script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/save-hyperv-install-script.png)
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. Next, click the drop-down for **Save as type** and select **All Files.**
@@ -76,8 +82,9 @@ pause`
  6\. Click the **Save** button to save the file.
 
 ![run hyperv bat script administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/run-hyperv-bat-script-administrator.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7\. Next, right-click on the **hyperv.bat** file and select **Run as administrator**. Click **Yes** if prompted by User Account Control.
@@ -87,9 +94,6 @@ pause`
  9.Once completed, you will see the Operation completed successfully message.
 
 ![install hyper v install windows 11 home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/install-hyper-v-install-windows-11-home.png)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  10\. Type **Y** to confirm and restart your PC. If not, enter N to exit the Command Prompt.
 
@@ -106,15 +110,12 @@ pause`
 3. The above command uses the Deployment Imaging Service and Management (DISM) tool to enable Microsoft Hyper-V and the necessary dependencies on your Windows computer. The operation completed successfully message means you have successfully enabled Hyper-V.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Disable Hyper-V on Windows 11 Home
 
 ![disable hyper v windows 11 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-windows-11-windows-features.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You can disable Hyper-V in Windows 11 Home using the Windows Features dialog.
 
@@ -138,8 +139,6 @@ pause`
 
  If you don’t want to use a third-party virtual machine manager, here is how to install Hyper-V on Windows 11 Home using a batch script hack.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -147,5 +146,18 @@ pause`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unlocking-creative-potential-embedding-online-videos-in-slideshows/"><u>[New] In 2024, Unlocking Creative Potential Embedding Online Videos in Slideshows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-real-time-capture-simplified-a-deep-dive-into-vimeo-record-for-2024/"><u>[Updated] Real-Time Capture Simplified A Deep Dive Into Vimeo Record for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-quick-tour-to-windows-booting-point/"><u>A Quick Tour to Windows' Booting Point</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-center-personalizing-folders-through-comments-in-11/"><u>Command Center: Personalizing Folders Through Comments in 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-desktop-experience-with-windows-11-widgets/"><u>Elevate Your Desktop Experience with Windows 11 Widgets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exhilarating-stories-from-the-field-and-court-top-sporting-motion-pictures-to-enjoy-now/"><u>Exhilarating Stories From the Field and Court: Top Sporting Motion Pictures to Enjoy Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-skeptic-to-enthusiast-the-top-3-compelling-features-that-transformed-my-view-on-apple-watch-series-10-analysis-at-zdnet/"><u>From Skeptic to Enthusiast: The Top 3 Compelling Features That Transformed My View on Apple Watch Series 10 | Analysis at ZDNET</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-unveiling-the-real-value-in-cloud-storage-charges/"><u>In 2024, Unveiling the Real Value in Cloud Storage Charges</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smartphone-photography-faceoff-unveiling-winner-and-surprise-in-pixel-e9xl-vs-iphone-15-pro-shootout-experts/"><u>Smartphone Photography Faceoff: Unveiling Winner and Surprise in Pixel E9XL vs iPhone 15 Pro Shootout Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-win-11-taskbar-power/"><u>The Ultimate Guide to Win 11 Taskbar Power</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-window-tricks-to-unlock-facebook-chats/"><u>Winning Window Tricks to Unlock Facebook Chats</u></a></li>
+</ul></div>
 

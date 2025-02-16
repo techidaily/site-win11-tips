@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the PAudio Knot: Audacity's Windows Remedy Guide"
-date: 2025-01-27T14:11:24.202Z
-updated: 2025-02-01T04:34:28.985Z
+date: 2025-01-29T23:01:22.824Z
+updated: 2025-02-02T20:20:00.623Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Playing Audio Troubleshooter
 
  Windows has a "Playing Audio" troubleshooter to help users resolve audio playback issues. As the Internal PortAudio error breaks sound playback in Audacity, that troubleshooter could be useful for fixing this issue. You can access the Playing Audio troubleshooter in Windows 10 and 11 via the Control Panel like this:
@@ -40,17 +36,9 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 5. Select**Troubleshooting** to access that applet.  
 ![The Control Panel applets window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-control-panel-items.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Next, select the**View all** navigation link on the left of the Control Panel window.  
 ![The Troubleshooting applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-troubleshooting-applet.jpg)
 2. Click Playing Audio to launch that troubleshooter.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The troubleshooting list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-troubleshooting-list.jpg)
 3. Select the troubleshooter’s**Next** option to continue.
@@ -68,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 3. If the service is disabled, select an**Automatic** startup option on the drop-down menu.  
 ![The Automatic service option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/automatic-service.jpg)
 4. Then select the properties window’s**Start** option to run the service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click**Apply** and**OK** to save the options and exit the Audio Properties window.
 6. Repeat steps four to eight for the Windows Audio Endpoint Builder service.
@@ -89,12 +81,12 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 ![The Recording tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recording-tab.jpg)
 7. Click disabled recording devices with the mouse’s right button to select their**Enable** options. Enable all disabled devices listed there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select the Sound window’s**Apply** option to save settings.
 9. Click**OK** on the Sound window to exit, and then restart your Windows 11/10 desktop or laptop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Select the Rescan Audio Devices
 
@@ -105,6 +97,14 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 3. Select the**Rescan Audio Devices** option.  
 ![The Rescan Audio Devices option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rescan-audio-devices-option.jpg)
 4. Wait for the rescan to finish, and then restart**Audacity** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall Audio Device Drivers
 
@@ -117,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 4. Right-click your speaker’s audio device and select**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device.jpg)
@@ -129,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 7. If you utilize any sound devices with USB ports, double-click the**Universal Serial Bus** category and select to uninstall all host controllers listed there. Users who don’t have sound devices connected via USB can skip this step.
 8. Restart your PC for automatic driver reinstallation. If some drivers aren’t reinstalled after the restart, select the**Action** \>**Scan for hardware** changes options in Device Manager.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Update the Realtek Audio Codec Driver
 
  Does your PC have a Realtek audio codec driver? If so, it’s recommended to update that driver for the sake of fixing the Internal PortAudio error. Update that Realtek driver as follows:
@@ -138,10 +142,6 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 3. Click**Uninstall** to remove the driver.  
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/programs-and-features.jpg)
 4. Then bring up the[Realtek audio driver](https://www.realtek.com/en/component/zoo/category/pc-audio-codecs-high-definition-audio-codecs-software) page.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click the**Download** button for the latest compatible Realtek driver for your PC.
 6. Open the folder containing the downloaded Realtek driver package.
@@ -156,7 +156,7 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 ![The download Audacity option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/download-audacity-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Some users have said that reinstalling older, not newer, versions of Audacity resolved the Internal PortAudio error on their PCs. Although it’s recommended to install the latest version first, reinstalling an older version is another troubleshooting option worth considering. This[uptodown archives page](https://audacity.en.uptodown.com/windows/versions) includes a good library of older Audacity versions for download.
@@ -180,15 +180,20 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-quick-guide-accessorizing-windows-with-a-clownfish-speech-modifier/"><u>[New] In 2024, Quick Guide Accessorizing Windows with a Clownfish Speech Modifier</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-reschedule-image-file-storage-from-mac/"><u>[Updated] Reschedule Image File Storage From Mac</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-budget-drone-expeditions-top-5-affordable-options/"><u>2024 Approved Budget Drone Expeditions Top 5 Affordable Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-media-creation-tool-issue-x8007043c/"><u>Decoding Windows' Media Creation Tool Issue X.8007043C</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-continuity-a-guide-to-safekeeping-your-game-progress/"><u>Ensuring Continuity: A Guide to Safekeeping Your Game Progress</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-wifi-disconnection-issue-on-windows-laptopspcs/"><u>Fixing WiFi Disconnection Issue on Windows Laptops/PCs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-look-at-recuva-leading-application-for-file-reconstruction-and-retrieval/"><u>In Depth Look at Recuva: Leading Application for File Reconstruction and Retrieval</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ranking-der-10-besten-stamboom-speicherlosungen-2024-ein-direkter-vergleich-mit-movavi/"><u>Ranking Der 10 Besten Stamboom Speicherlösungen 2024: Ein Direkter Vergleich Mit Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-the-saved-image-effect-uninstalling-webp-in-chrome-win-wise/"><u>Reversing the Saved Image Effect: Uninstalling WebP in Chrome, Win-Wise</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweeting-visual-stories-from-vids-to-interactive-gifs/"><u>Tweeting Visual Stories From Vids to Interactive GIFs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-behind-the-scenes-of-iscreen-capture/"><u>[New] Behind the Scenes of iScreen Capture</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-scaling-up-on-igtv-through-powerful-hash-tagging/"><u>[Updated] Scaling Up on IGTV Through Powerful Hash Tagging</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-closure-in-digital-landscapes/"><u>[Updated] Seamless Closure in Digital Landscapes</u></a></li>
+<li><a href="https://win-lab.techidaily.com/como-mover-archivos-de-servidor-sin-coste-adicional-3-metodos-efectivos/"><u>Cómo Mover Archivos De Servidor Sin Coste Adicional: 3 Métodos Efectivos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-win1011-context-menu-integrate-disk-space-viewer/"><u>Customizing Win10/11 Context Menu: Integrate Disk Space Viewer</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-steps-successfully-opening-an-iso-image-file/"><u>Easy Steps: Successfully Opening an ISO Image File</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-photo-editing-experience-with-photoshop/"><u>Enhancing Photo Editing Experience with Photoshop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-cannot-open-files-in-windows-system/"><u>How to Resolve 'Cannot Open' Files in Windows System</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-y56-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo Y56 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-note-12-proplus-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi Note 12 Pro+ 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-yt-watch-tactics-streamlining-screen-sessions-for-all/"><u>In 2024, YT Watch Tactics Streamlining Screen Sessions for All</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-windows-service-reactivation/"><u>Optimal Windows Service Reactivation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-ensuring-reliable-intel-wireless-networks-in-windows/"><u>Techniques: Ensuring Reliable Intel Wireless Networks in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-shaded-world-of-microsofts-simple-scribbler/"><u>The Shaded World of Microsoft's Simple Scribbler</u></a></li>
 </ul></div>
 

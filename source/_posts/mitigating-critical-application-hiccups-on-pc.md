@@ -1,7 +1,7 @@
 ---
 title: Mitigating Critical Application Hiccups on PC
-date: 2025-01-30T03:36:25.114Z
-updated: 2025-02-01T09:12:20.763Z
+date: 2025-01-31T21:51:15.628Z
+updated: 2025-02-02T21:29:35.373Z
 tags:
   - windows10
   - windows11
@@ -36,12 +36,16 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
  If none of the above checks resolve the error, apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use the Microsoft Store App Until the Issue Is Resolved
 
 ![Roblox Microsoft Store App Listing on Windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/roblox-microsoft-store-app-listing-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Roblox users have reported that the error under discussion only affects those who attempt to join Roblox experiences from the web, not Roblox's Microsoft Store app. Because of this, if you have encountered a crash when joining an experience through the Roblox website, download Roblox's app from the [Microsoft Store](https://apps.microsoft.com/store/detail/roblox/9NBLGGGZM6WM) and join the experience through it.
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
  If you don't use a virtual machine and still get the **"the application encountered an unrecoverable error"** error, virtualization could be enabled in the BIOS settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable Virtualization From the BIOS
@@ -80,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
  If you're using a device from another manufacturer, visit its official website for steps on disabling virtualization.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Check for Browser Interference
@@ -104,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 4. Right-click on the **Roblox** folder and click **Delete**.  
 ![Delete Roblox Temporary Folder in the Windows Temp Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-roblox-temporary-folder-in-the-windows-temp-folder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Report the Problem to the Roblox Support Team
 
  If none of the above fixes resolve the issue, you should follow the instructions in the error message: get a crash dump, and send it to Roblox. Follow these steps to do that:
@@ -117,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
  (If subfolders aren't already there, create them)  
 ![Create and Save a JSON File in the Roblox App Data Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/creating-and-saving-a-json-file-in-the-roblox-app-data-folder.jpg)
 2. Open the newly created file, add the following text, and save it:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `{"DFIntWriteFullDmpPercent": 100}`
 3. Run Roblox and let it crash.
@@ -130,10 +134,6 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
  If the Roblox installation gets corrupt, it can also crash and present the **"the application encountered an unrecoverable error"** error. To ensure that's not the case, uninstall the previous installation and reinstall Roblox from scratch. If you do not know how to do this, refer to our guide on [how to uninstall any software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
  Once the Roblox client has been uninstalled, navigate to the **C:\\Users\\<your username>\\AppData\\Local** and delete the Roblox folders. Then, go to Roblox's official website and reinstall the Roblox client. You should avoid downloading the Roblox client from third-party sources since unsigned third-party applications are prone to causing issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Don't Let Roblox Crash on Windows
 
@@ -153,22 +153,24 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-cash-flow-of-creative-content-youtubers-earnings-per-sponsored-video/"><u>[New] The Cash Flow of Creative Content Youtuber's Earnings per Sponsored Video?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-top-5-android-screen-recorders-essential-app-selection/"><u>2024 Approved Top 5 Android Screen Recorders Essential App Selection</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/7-catalysts-how-multilingualism-transforms-you/"><u>7 Catalysts: How Multilingualism Transforms You</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/determining-your-pcs-readiness-compatibility-requirements-for-running-windows-defender-efficiently-guide-by-yl-software-solutions/"><u>Determining Your PC's Readiness: Compatibility Requirements for Running Windows Defender Efficiently | Guide by YL Software Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixed-skies-rescuing-ragnaroks-sse/"><u>Fixed Skies: Rescuing Ragnarok's SSE</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guides-to-correct-windows-update-error-x8024a205/"><u>Guides to Correct Windows Update Error X8024A205</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-write-an-attractive-vlog-script/"><u>How to Write an Attractive Vlog Script</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-exploring-the-functionalities-in-free2x-cam-tech/"><u>In 2024, Exploring the Functionalities in Free2X Cam Tech</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tips-for-quicker-periscope-livestreams/"><u>In 2024, Tips for Quicker Periscope Livestreams</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/interacting-with-server-drives-from-mobile/"><u>Interacting with Server Drives From Mobile</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-disk-space-in-windows-with-these-cost-effective-methods/"><u>Maximize Disk Space in Windows with These Cost-Effective Methods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-poco-c65-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Poco C65 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preserving-your-cortana-settings-and-logs-in-windows/"><u>Preserving Your Cortana Settings & Logs in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-restore-windows-11-troubleshooter-functionality/"><u>Steps to Restore Windows 11 Troubleshooter Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-digital-space-with-ease-using-ms-store-themes/"><u>Tailoring Your Digital Space with Ease Using MS Store Themes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-the-troubled-windows-11-recycle-bin-errors/"><u>Unblocking the Troubled Windows 11 Recycle Bin Errors</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/visioncast-feedback-interface-for-2024/"><u>VisionCast Feedback Interface for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-techniques-for-concurrent-webcam-and-screen-recordings/"><u>[New] 2024 Approved Techniques for Concurrent Webcam & Screen Recordings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-breaking-barriers-on-frozen-grounds-olympic-snowboard-speed-showdown/"><u>[New] In 2024, Breaking Barriers on Frozen Grounds - Olympic Snowboard Speed Showdown</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-youtube-channel-descriptions/"><u>[New] Mastering YouTube Channel Descriptions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-periscope-uncovered-free-entry-details-and-signup-method/"><u>[New] Periscope Uncovered Free Entry Details and Signup Method</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastering-social-media-finding-youtube-content-on-fb/"><u>[Updated] Mastering Social Media Finding YouTube Content on FB</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-reversing-frozen-dark-theme-on-computers/"><u>A Guide to Reversing Frozen Dark Theme on Computers</u></a></li>
+<li><a href="https://win-data.techidaily.com/activate-total-freedom-with-windows-11s-hidden-admin-powers-a-step-by-step-guide-to-enabling-and-understanding-god-mode/"><u>Activate Total Freedom with Windows 11'S Hidden Admin Powers: A Step-by-Step Guide to Enabling and Understanding God Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gateway-to-your-inner-world-accessing-windows-hidden-char-personality-screen/"><u>Gateway to Your Inner World: Accessing Windows' Hidden Char Personality Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-restore-a-non-installed-disk-on-your-win-11-pc/"><u>How to Restore a Non-Installed Disk on Your Win 11 PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-c53-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Realme C53 Without Password?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-check-for-updates-in-system-context-menu/"><u>Integrating Check for Updates in System Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-rectifying-dism-failure-0x800f082f/"><u>Mastering the Art of Rectifying DISM Failure: 0X800F082F</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-connectivity-problems-in-the-steam-user-community-interface/"><u>Overcoming Connectivity Problems in the Steam User Community Interface</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-realme-c67-4g-by-fonelab-android-recover-data/"><u>Recover lost data from Realme C67 4G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-audio-issues-with-windows-tone-test/"><u>Resolving Audio Issues with Windows Tone Test</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-techniques-how-to-utilize-the-background-blur-on-w11-photos/"><u>Streamlined Techniques: How to Utilize the Background Blur on W11 Photos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/tackle-chromes-inability-to-load-fb-videos/"><u>Tackle Chrome's Inability to Load FB Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-network-issues-demystifying-windows-error-0x800704b3/"><u>Tackling Network Issues - Demystifying Windows' Error: 0X800704B3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-error-0x80131500-on-microsoft-shop/"><u>Unlocking Error #0X80131500 on Microsoft Shop</u></a></li>
 </ul></div>
 

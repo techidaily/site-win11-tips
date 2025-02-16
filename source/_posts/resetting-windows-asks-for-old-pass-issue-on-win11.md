@@ -1,7 +1,7 @@
 ---
 title: Resetting “Windows Asks for Old Pass” Issue on Win11
-date: 2025-01-28T02:47:49.339Z
-updated: 2025-02-01T01:52:12.621Z
+date: 2025-01-30T16:20:23.175Z
+updated: 2025-02-02T20:01:32.951Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the “We’ll Need Your Current Windows Password One Last Time” Error?
@@ -41,31 +41,31 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 
  Either way, this local admin account is the “master key” for accessing your device. When you try to link your Microsoft account, Windows requires the password to this local admin account to confirm that you’re the admin. Fortunately, there are some quick fixes for resolving this error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Try All of Your Commonly Used Passwords
 
 ![A padlock standing on the keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-pc-keyboard.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you encounter this error, you should first try all of the commonly used passwords you’ve used with the device. It’s possible that once upon a time, you changed the password to the default local administrator account. However, this only applies if you’re experiencing this error as a result of a system reset.
 
  Try your Microsoft account password, any pin you’ve used with the device, and your commonly used passwords.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Press Enter While the Password Field Is Blank
 
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Reset Your Windows Password
 
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 3. Then, select **Sign-In Options** \> **Passwords**. You’ll find **Add** if you’re creating a password for the first time. Otherwise, you’ll find **Change**, meaning you’ll need to [reset your local admin account password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
@@ -105,18 +105,20 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-expert-moves-for-sharing-youtube-and-twitter-on-whatsapp-platform-for-2024/"><u>[New] Expert Moves for Sharing YouTube and Twitter on WhatsApp Platform for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-sleight-of-the-brain-navigating-top-room-riddles/"><u>[Updated] In 2024, Sleight of the Brain Navigating Top Room Riddles</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-xsipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone XS/iPad/iPod</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhanced-collaboration-with-top-5-windows-fs-programs/"><u>Enhanced Collaboration with Top 5 Windows FS Programs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/explore-the-top-5-resources-for-innovative-text-designs/"><u>Explore the Top 5 Resources for Innovative Text Designs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-apples-upcoming-non-flashy-ai-innovation-could-change-everything-this-years-wwdc/"><u>How Apple's Upcoming Non-Flashy AI Innovation Could Change Everything This Year's WWDC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-sound-quality-with-dolby-atmos-for-windows/"><u>Maximize Sound Quality with Dolby Atmos for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-inconsistent-colors-on-windows-devices/"><u>Resolving Inconsistent Colors on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/syncing-files-smoothly-with-nvidia-gui/"><u>Syncing Files Smoothly with NVIDIA GUI</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-nubia-red-magic-9-proplus-by-drfone-android/"><u>Three Ways to Sim Unlock Nubia Red Magic 9 Pro+</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-wizardry-easy-pathways-to-new-directories/"><u>Windows Wizardry: Easy Pathways to New Directories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-approach-for-file-type-conversion-tutorials/"><u>Winning Approach for File Type Conversion Tutorials</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-premium-selection-top-8-tripods-for-clear-4k-videos/"><u>[New] In 2024, Premium Selection Top 8 Tripods for Clear 4K Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-inside-sharex-analysis-reviews-and-counterparts-for-2024/"><u>[New] Inside ShareX Analysis Reviews & Counterparts for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-a-list-of-ig-edits-essential-apps-for-marketers/"><u>[New] The A-List of IG Edits Essential Apps for Marketers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/approaches-to-addressing-critical-app-issues/"><u>Approaches to Addressing Critical App Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cartoonify-photos-wirelessly-on-pcs-macs-and-more-for-2024/"><u>Cartoonify Photos Wirelessly on PCs, Macs, and More for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configure-touch-input-in-windows-enabledisable-steps/"><u>Configure Touch Input in Windows: Enable/Disable Steps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/lg-360-camera-full-review-2023-update/"><u>LG 360 Camera Full Review -2023 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-driver-load-failure-in-win11/"><u>Overcoming Device Driver Load Failure in Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-contact-failure-with-dhcp-server-problems/"><u>Step-by-Step Solution for 'Contact Failure with DHCP Server' Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-future-windows-laptops-top-picks/"><u>The Ultimate Guide to Future Windows Laptops: Top Picks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/tips-for-achieving-crystal-clear-1080p-on-fb-for-2024/"><u>Tips for Achieving Crystal Clear 1080P on FB for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-16-converteurs-mp4-en-mp3-pour-lannee-2024-le-guide-ultime/"><u>Top 16 Converteurs MP4 en MP3 Pour L'année 2024 : Le Guide Ultime</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-tecno-camon-20-premier-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Tecno Camon 20 Premier 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-folder-customization-adding-movecopy-context-functionality/"><u>Windows 11 Folder Customization - Adding Move/Copy Context Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-ultimate-toolkit-to-counteract-bsod-on-win10/"><u>Your Ultimate Toolkit to Counteract BSOD on Win10</u></a></li>
 </ul></div>
 

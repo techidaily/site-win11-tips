@@ -1,7 +1,7 @@
 ---
 title: Addressing GPU Thermal Spikes During Play
-date: 2024-08-16T01:12:52.500Z
-updated: 2024-08-17T01:12:52.500Z
+date: 2025-01-27T16:15:40.065Z
+updated: 2025-02-02T16:30:14.706Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 
  Below are a few ways to prevent your CPU usage from reaching 100 percent during gameplay, helping your system perform at its best.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Perform Some Basic Windows Fixes
 
  Start the troubleshooting process by applying the following basic checks and fixes, as they may reduce CPU usage right away:
@@ -34,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
  If none of the above checks help or resolve the problem, move on to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check if the Game Is Really Straining the CPU
 
  First, double-check that the game you blame for high CPU usage is really straining it. There is a chance that some other programs running simultaneously with the game might be using more CPU resources than the game itself. So, closing those resource-hungry tasks alone may free up enough resources and lower CPU usage.
@@ -45,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
  If other tasks seem to occupy a higher percentage of the CPU resources, those processes are more demanding on the CPU than the game. Therefore, close them if they are not essential, and CPU usage will fall dramatically. To terminate any task, right-click on it and hit**End task** .
 
 ![Close Microsoft Edge Process From Windows Task Manager For Consuming the Most CPU Resources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-microsoft-process-from-windows-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 
  However, if the game alone appears to be causing the most CPU strain, you should investigate the issue further.
 
@@ -62,7 +64,15 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 3. Click**Options** and select**High Performance** .  
 ![screenshot of sonic frontiers switching to high performance in windows graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_switching_to_high_performance.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Forcing the game to use the dedicated GPU will likely reduce CPU usage. If not, check whether the problem is game-specific.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Ensure That the Problem Isn't Confined to One Game
 
@@ -70,16 +80,14 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 
  Likewise, if you're having this issue with a newly released game, ensure the problem doesn't lie with the game's version. Find out if other users are experiencing the same issue on the game's official forum. If others are experiencing the same problem, there could be a problem with the game version. In that case, you will need to wait for the release of the updated version.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## 5\. Sacrifice Graphics Quality
 
  If the above checks and fixes do not reduce CPU resource consumption, lower the game's graphics settings. This will reduce the game's graphics processing requirements, reducing the load on your CPU. This step will undoubtedly reduce your CPU usage but at the expense of your game's graphics quality.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Enable Efficiency Mode for the Game
 
  If none of the above fixes resolve the issue, your last resort should be to switch on the efficiency mode for the game. The Windows 11 efficiency mode feature limits CPU resource usage for less important tasks so critical processes can run first. If you turn on efficiency mode for the game, it will be treated as a low-priority process and won't occupy all of your CPU's resources.
@@ -93,16 +101,10 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
  Sometimes, Windows does not allow us to enable the efficiency mode for some games, and this option will appear grayed out in the Task Manager for them.
 
 ![Efficiency Mode Option Grayed Out for Roblox Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/efficiency-mode-option-grayed-out-for-roblox-game.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To prevent such games from consuming a lot of CPU resources, you need to enable the efficiency mode for their subprocesses. To enable efficiency mode for a subprocess, expand the game process, find the subprocess straining the CPU the most, right-click on it, and select**Efficiency Mode** .
 
 ![Enabling Efficiency Mode for a Roblox Subprocess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enabling-efficiency-mode-for-a-roblox-subprocess.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ## Bring the CPU Usage Down While You Game on Windows
 
@@ -110,14 +112,11 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 
  If nothing works, check the CPU usage percentage during idle time. If it remains high even when no processes or games are running on your device, your CPU could be defective. If that's the case, it's time to have your device inspected.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,8 +125,19 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-mastering-character-voice-modification-techniques-in-free-fire-no-cost-for-2024/"><u>[New] Mastering Character Voice Modification Techniques in Free Fire (No Cost!) For 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastermakers-in-av-production-top-5-list/"><u>[New] Mastermakers in AV Production Top 5 List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-audio-exploration-the-comprehensible-review-of-pazera/"><u>[Updated] Audio Exploration The Comprehensible Review of Pazera</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-breaking-down-lgs-360-camera-updates-and-features/"><u>[Updated] In 2024, Breaking Down LG's 360 Camera Updates & Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-cameras-unsuccessful-save-attempts/"><u>Decoding Windows Camera's Unsuccessful Save Attempts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-13-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 13 in the Best Ways</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-shine-up-advanced-setups-to-make-your-clips-pop/"><u>In 2024, Shine Up Advanced Setups to Make Your Clips Pop</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/820212-9780813171302-lake-monster-mysteries/"><u>Lake Monster Mysteries | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-functionality-with-these-8-bubbleui-upgrades/"><u>Maximize Functionality with These 8 BubbleUI Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-simplification-how-to-defrag-a-drive-with-win11/"><u>System Simplification: How to Defrag a Drive with Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-endless-entertainment-the-ultimate-list-of-free-preschool-game-destinations/"><u>Unlock Endless Entertainment: The Ultimate List of Free Preschool Game Destinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-command-power-in-minutes/"><u>Unlock Full Command Power in Minutes</u></a></li>
+</ul></div>
 

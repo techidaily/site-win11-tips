@@ -1,7 +1,7 @@
 ---
 title: Fix Unseen Camera Issue in Windows Device Manager
-date: 2025-01-31T04:48:44.466Z
-updated: 2025-01-31T20:33:11.262Z
+date: 2025-01-29T01:56:01.298Z
+updated: 2025-02-02T20:52:13.201Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 
  Now that you know the causes, let's look at fixes you can apply to restore the camera driver in Device Manager.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9 Ways to Fix the Camera Driver Missing in Device Manager
 
  If the camera driver doesn't appear in the Device Manager, ensure it's not hidden and that the camera isn't disabled. If that isn't the case, install camera drivers manually, reset the camera, run the camera troubleshooter, and run Windows built-in scans. If these fixes fail, you should manually add the hardware or reset your computer.
@@ -57,10 +53,6 @@ Now let's see how to apply these fixes.
 
 Apply the remaining fixes if the above checks don't help.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Ensure Camera Isn't Hidden in the Device Manager
 
  The Device Manager gives users an option to hide devices. Once you hide them, these devices disappear from the Device Manager. Therefore, if you don't see the Camera device, it might have been hidden by mistake. To make sure that's not the case or to unhide the device if it has been hidden, follow these steps:
@@ -69,6 +61,14 @@ Apply the remaining fixes if the above checks don't help.
 2. Go to the**View** tab.
 3. If you see a tick mark before the**Show hidden devices** option, then hidden devices are already displaying. If you don't see this tick mark, click on this option, and hidden devices will appear.  
 ![Showing Hidden Devices From the View Tab of Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-showing-hidden-devices-from-the-view-tab-of-windows-device-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Run the Camera Troubleshooter
 
@@ -83,16 +83,12 @@ Apply the remaining fixes if the above checks don't help.
 5. Click the**Run** button next to the**Camera** troubleshooter.  
 ![Clicking on the Run Button Next to Camera Troubleshooter in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-clicking-on-the-run-button-next-to-camera-troubleshooter-in-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Run a Few Scans
 
  Make sure corrupt system files are not causing the problem. To rule out this possibility, you need to run a few scans, such as SFC, DISM, and CHKDSK. If you have never performed these scans before, our guide on[repairing corrupt files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) explains how to run them. So, run these scans before moving on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Download the Camera Drivers Manually
@@ -100,10 +96,6 @@ Apply the remaining fixes if the above checks don't help.
  When a driver gets corrupt, or you mistakenly uninstall it, Windows is supposed to automatically reinstall it when you restart the computer. If the camera driver is not appearing in Device Manager after restarting the computer, you should manually install it.
 
  To do that, go to your laptop manufacturer's website, for instance,[HP](https://www.hp.com/us-en/home.html) ,[Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fpk%2Fen%2F) ,[Dell](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2021669/https://www.dell.com/en-pk) , etc., search for the latest camera driver, and download it. Once you have downloaded the driver, follow the on-screen instructions to install it, just like any other driver or program.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Let the Camera App Access Your Camera
 
@@ -118,7 +110,7 @@ Here are the steps to check:
 ![Ensuring the Camera Access is Enabled in the Camera App Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5-ensuring-the-camera-access-is-enabled-in-the-camera-app-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Reset the Camera App
@@ -138,10 +130,6 @@ Here are the steps to check:
 ![Clicking on the Add Legacy Hardware in the Action Tab of Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/6-clicking-on-the-add-legacy-hardware-in-the-action-tab-of-windows-device-manager.jpg)
 3. Click**Next** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select **Search for and install the hardware automatically (Recommended)** and click**Next** .  
 ![Clicking on the Next Button After Selecting the Search For and Install the Hardware Automatically Recommended Option in the Add Hardware Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/7-clicking-on-the-next-button-after-selecting-the-search-for-and-install-the-hardware-automatically-recommended-option-in-the-add-hardware-wizard.jpg)
 
@@ -149,21 +137,33 @@ Here are the steps to check:
 
 ![Clicking on the Next Button After Selecting Install the Hardware That I Manually Select From a List Advanced Option in the Add Hardware Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/8-clicking-on-the-next-button-after-selecting-install-the-hardware-that-i-manually-select-from-a-list-advanced-option-in-the-add-hardware-wizard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then click**Next** , and double-click on**Camera** from available hardware types.
 
 ![Clicking on the Next Button After Double-Clicking on the Camera App Device in the Add Hardware Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/9-clicking-on-the-next-button-after-double-clicking-on-the-camera-app-device-in-the-add-hardware-wizard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you can't find your camera's manufacturer or model number here, there might be a problem with your camera hardware.
 
 ![No Manufacturer or Model Number of Camera Device Showing in the Add Hardware Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/10-no-manufacturer-or-model-number-of-camera-device-showing-in-the-add-hardware-wizard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 9\. Get Your Laptop Checked
 
  If none of these fixes work and the camera device doesn't appear in the Device Manager, there may be a hardware issue. So, you should take your laptop for a thorough inspection. If the device is still under warranty, you should have it checked by the manufacturer rather than a local shop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore the Camera Driver in the Device Manager
 
@@ -184,22 +184,24 @@ Here are the steps to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-azures-speech-to-text-an-easy-guide/"><u>[New] Azure's Speech-to-Text An Easy Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigating-high-definition-video-production-in-the-facebook-era/"><u>[New] In 2024, Navigating High Definition Video Production in the Facebook Era</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-step-by-step-installation-of-professional-vrecorder-for-2024/"><u>[Updated] Step-by-Step Installation of Professional VRecorder for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722959773144-brother-hl-2240-perfect-match-latest-windows-drivers-available-now/"><u>Brother HL-2240 Perfect Match - Latest Windows Drivers Available Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-instant-remote-desktop-in-win-11/"><u>Enabling Instant Remote Desktop in Win 11</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/essential-digital-applications-for-sounding-transformation-for-2024/"><u>Essential Digital Applications for Sounding Transformation for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-13-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone 13</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-overcome-windows-xupdate-error-code-0x80246007/"><u>How to Overcome Windows XUpdate Error: Code 0X80246007</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-stop-microsoft-teams-from-freezing-in-ws11ws10/"><u>How to Stop Microsoft Teams From Freezing in WS11/WS10</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/installing-android-files-in-a-flash-on-windows-11/"><u>Installing Android Files in a Flash on Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-video-playback-rate-adjustments-in-snapchat-for-2024/"><u>Mastering Video Playback Rate Adjustments in Snapchat for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-handling-closed-captioning-on-windows-10/"><u>Quick Fixes: Handling Closed Captioning on Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-recurring-login-prompt-in-windows/"><u>Remedying Recurring Login Prompt in Windows</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-review-mastering-the-art-of-picsart-for-2024/"><u>Step-by-Step Review Mastering the Art of PicsArt for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/utilizing-camera-and-mic-under-windows-11-edge-guard/"><u>Utilizing Camera & Mic Under Windows 11 Edge Guard</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-pc-energy-audit-usage-inspection-and-analysis/"><u>Windows PC Energy Audit: Usage Inspection & Analysis</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-ultimate-list-of-quick-pace-audio-apps/"><u>[New] In 2024, Ultimate List of Quick-Pace Audio Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-15-creative-strategies-for-free-capture-of-online-workshops/"><u>[Updated] 2024 Approved 15 Creative Strategies for Free Capture of Online Workshops</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-instagram-growth-strategy-handbook/"><u>[Updated] 2024 Approved The Instagram Growth Strategy Handbook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-travel-film-kit-the-necessary-arsenal/"><u>2024 Approved Travel Film Kit The Necessary Arsenal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-open-disk-management-in-windows-11-and-11/"><u>4 Ways to Open Disk Management in Windows 11 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-admin-restrictions-on-windows-safety-settings/"><u>Bypassing Admin Restrictions on Windows Safety Settings</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ling-youtube-ads-across-chrome-firefox-android-and-ios-browsers/"><u>Disabling YouTube Ads Across Chrome, Firefox, Android & iOS Browsers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-cleaning-for-a-functional-windows-11-space/"><u>Effortless Cleaning for a Functional Windows 11 Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-keyboard-commands-to-sharpen-your-3d-skills/"><u>Essential Keyboard Commands to Sharpen Your 3D Skills</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-spark-10-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Spark 10 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-disconnects-and-fixes-javascript-issues-in-discord-win-11/"><u>Mastering Disconnects & Fixes: JavaScript Issues in Discord Win 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-androids-intelligent-framework-a-deep-dive-into-system-brilliance/"><u>Navigating the World of Android's Intelligent Framework: A Deep Dive Into System Brilliance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-security-faults-and-fixes/"><u>Navigating Through Windows Security Faults & Fixes</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unleash-your-creativity-10-public-domain-image-sites/"><u>New Unleash Your Creativity 10 Public Domain Image Sites</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-oculus-winerror-a-step-by-step-guide/"><u>Resolving Oculus WinError: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-address-offline-lsa-warning/"><u>Steps to Address Offline LSA Warning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-11-password-strategy/"><u>Transforming Windows 11 Password Strategy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-chkdsk-sfc-vs-dism-in-os-maintenance/"><u>Understanding CHKDSK, SFC Vs. DISM in OS Maintenance</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-extract-audio-from-webm-files-top-10-converter-tools-for-2024/"><u>Updated Extract Audio From WebM Files Top 10 Converter Tools for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Addressing Phantom Noise: Fixing Inactive Notifications From Phone Link"
-date: 2024-08-16T01:14:03.073Z
-updated: 2024-08-17T01:14:03.073Z
+date: 2025-02-01T01:13:00.978Z
+updated: 2025-02-03T01:36:45.117Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 6. Check the boxes that read**Show notification banners** and**Show notifications in notification center** .  
 ![Enable Notifications for Phone Link on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-phone-link-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check In-App Notification Settings
 
  The Phone Link app allows you to choose which notifications from your phone appear on your PC. You need to review Phone Link’s in-app settings and ensure that notifications for calls, messages, or other apps are not disabled.
@@ -47,13 +51,7 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
  If Phone Link is failing to show notifications from a specific app, click**Choose which apps I get notifications from** and enable alerts for that app.
 
 ![Configure Phone Link Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-phone-link-notifications.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## 3\. Allow Phone Link App to Run in the Background
 
  On Windows, you can block specific apps from running in the background and using system resources. If you have previously restricted the Phone Link app from working in the background, it will fail to sync notifications. As a result, you won't receive any notifications for calls, messages, or other app alerts.
@@ -67,15 +65,17 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 5. Click the**three-dot menu icon** next to the app and select**Advanced options** .
 6. Click the drop-down menu under**Background apps permissions** and choose**Always** .  
 ![Allow Phone Link to Run in the Background on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/allow-phone-link-to-run-in-the-background-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Is the background app permission options missing from the Settings app? Here's [how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable Battery Saver Mode
 
  Enabling the battery-saver mode on Windows can extend the battery life of your laptop by a few extra hours. However, this feature can also prevent apps like Phone Link from syncing data and displaying notifications. To avoid such issues, it’s best to disable the battery-saver mode on Windows.
@@ -87,8 +87,9 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 3. Click on**Battery saver** to expand it.
 4. Click the**Turn off now** button.  
 ![Turn Off Battery Saver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-battery-saver-in-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It's worth noting that Windows might activate the battery saver mode automatically if the battery level falls below 20 percent. To prevent this, keep your laptop connected to a power source while using the Phone Link app.
@@ -104,9 +105,6 @@ To disable the Do Not Disturb mode, use these steps:
 3. Turn off the toggle next to**Do not distrub** .
 4. Expand the**Turn on do not disturb automatically** and clear all the checkboxes.  
 ![Turn Off DND in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-dnd-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 6\. Unlink and Link Your Phone Again
 
@@ -116,15 +114,20 @@ To disable the Do Not Disturb mode, use these steps:
 2. Click the**gear icon** in the top right corner to visit the settings menu.
 3. In the**My Devices** tab, click the three-dot menu icon next to your phone and select**Remove** .  
 ![Unlink Device From Phone Link App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unlink-device-from-phone-link-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart the Phone Link app and follow the on-screen instructions to pair your device again. After that, check if your notifications work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Try Generic Fixes for Windows Apps
 
  There are a few tricks you can try to fix the Phone Link app that also works with any other Windows app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Repair or Reset the App
 
@@ -142,14 +145,11 @@ To disable the Do Not Disturb mode, use these steps:
 
  Do you use Phone Link only to stay on top of your phone notifications? There are several other apps, such as Intel Unison, Pushbullet, and AirDroid that let you view your phone notifications on Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,8 +158,20 @@ To disable the Do Not Disturb mode, use these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-elite-green-tech-in-the-world-of-screen-capture/"><u>[New] In 2024, Elite Green Tech in the World of Screen Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-top-strategies-for-capturing-lol-matches/"><u>[New] In 2024, Top Strategies for Capturing LOL Matches</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-visual-flair-a-collection-of-ae-text-presets-for-2024/"><u>[New] Visual Flair A Collection of AE Text Presets for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-navigating-the-maze-of-communication-features-on-snapchat/"><u>2024 Approved Navigating the Maze of Communication Features on Snapchat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/becoming-a-storage-strategy-expert-with-windows-diskusage-commands-mastery/"><u>Becoming a Storage Strategy Expert with Windows' DiskUsage Commands Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-computer-experience-running-task-manager-as-admin-on-win11/"><u>Elevate Your Computer Experience: Running Task Manager as Admin on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-compliance-with-insider-editions/"><u>Ensuring Compliance with Insider Editions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-suppress-gaming-suggestions-in-windows-11-ui/"><u>How to Suppress Gaming Suggestions in Windows 11 UI</u></a></li>
+<li><a href="https://techtrends.techidaily.com/join-the-twitter-conversation-a-step-by-step-guide/"><u>Join the Twitter Conversation: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/les-3-meilleurs-choix-de-sauvegarde-des-donnees-en-2024-avantages-et-defis-compares-a-backblaze/"><u>Les 3 Meilleurs Choix De Sauvegarde Des Données en 2024: Avantages Et Défis Comparés À Backblaze</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-print-control-in-windows-11-9-ways-short-version-max-48-chars/"><u>Navigating Print Control in Windows 11 (9 Ways) - Short Version (Max 48 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-0x80070570-error-in-windows-restoring-damaged-data/"><u>Overcoming 0X80070570 Error in Windows: Restoring Damaged Data</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-the-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Hub: The Comprehensive Guide to Computer Hardware</u></a></li>
+</ul></div>
 

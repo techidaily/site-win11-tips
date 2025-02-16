@@ -1,7 +1,7 @@
 ---
 title: "Optimize It All: The Top 7 Ways to Use Windows 11 Effectively (39)"
-date: 2025-01-27T22:48:40.882Z
-updated: 2025-02-01T14:52:44.186Z
+date: 2025-01-31T22:50:00.988Z
+updated: 2025-02-02T22:41:07.795Z
 tags:
   - windows10
   - windows11
@@ -47,44 +47,44 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 ![Epic games launcher on windows 11 app search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/epic-games-launcher-on-windows-11-app-search.jpg)
 2. Right-click the app, then select **Pin to taskbar**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Pin to taskbar option Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-to-taskbar-option-windows-11.jpg)
 
  As a further benefit, some programs offer additional quick access options that you can view by right-clicking on them. The options include shortcuts to common in-app features. You can also open any app on the taskbar by holding the **Windows** key, followed by the number representing the app's position on the taskbar. For instance, **Windows + 3** will open the third item on the taskbar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Create Desktop Shortcuts
 
 ![Desktop Shortcuts on Windows 11 Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/desktop-shortcuts-on-windows-11-desktop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Creating desktop shortcuts is one of the fastest ways to access apps with minimal effort. Before starting, you’ll first want to [declutter your Windows 11 Desktop](https://www.makeuseof.com/revamp-windows-11-desktop/) to create a clean environment for your apps.
 
  To pin an app to the desktop, hit the **Windows** button to open the Start menu, then select **All apps** button located in the corner of the Pinned section. Scroll through the alphabetical list to find the app, then click and drag it to any available space on your desktop. If done correctly, a small pop-up titled **Link** should display.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Use the Run Dialog
 
 ![Run Dialogue on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-dialogue-on-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Not all apps are easy to find, especially if you’re a developer. The Run dialogue is a powerful tool to locate programs that are harder to find on your Windows 11 device.
 
  To open the Run dialogue, use the shortcut **Windows + R**. In the search box, you can type the executable file name of any app to open it. Some basic commands include typing “calc” to open the calculator app, “notepad” to open Windows 11’s Notepad, and “control” to open the Control Panel. View our [Run commands cheat sheet](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for a full list of handy shortcuts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Create Custom Keyboard Shortcuts
 
 ![oranage and black mechanical keyboard on table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/oranage-and-black-mechanical-keyboard-on-table.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of the less-known methods to open Windows apps quicker is by creating custom keyboard shortcuts. By using these shortcuts, you can open a program instantly from any location.
@@ -97,23 +97,27 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 3. In File Explorer, right-click the file and select **Properties**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Tutorial 5 Step 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-3.jpg)
 4. Click in the box next to the Shortcut Key field and enter a desired shortcut.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Tutorial 5 Step 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this method is of interest, you can explore our guide for creating shortcuts to [install websites as apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/).
 
 ## 6\. Utilize the Quick Access Menu
 
 ![Quick Access Menu on Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/quick-access-menu-on-windows-11-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Quick Access menu is a list of common programs and tools. This is not to be confused with the Quick Access feature seen in Windows File Explorer. However, the two features achieve similar goals.
 
@@ -125,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
  You can use the Quick Access menu to [access the task manager on Windows 11](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) and open a bunch of other frequently used apps. There are also some useful extra tools you can access via the Quick Access menu. You can hit the **Desktop** option to minimize all apps. You’ll also find power options, including **Sleep** and **Shut Down**.
 
  For even faster access, you can hit the underlined letter on your keyboard to open that program. (Note, this only works when using the keyboard shortcut method to open the Quick Access Menu). The Quick Access menu is a great way to access a wide range of useful apps with only the keyboard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Switch Between Apps Faster
 
@@ -158,22 +158,24 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-how-to-download-discord-videos-free-in-2024/"><u>[Updated] How to Download Discord Videos FREE, In 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-realms-intersecting-delving-into-vr-augmented-and-mixed-immersion/"><u>[Updated] Realms Intersecting Delving Into VR, Augmented & Mixed Immersion</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-realme-note-50-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme Note 50 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/best-screen-recorder-for-chrome-devices-for-2024/"><u>Best Screen Recorder for Chrome Devices for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/concealing-status-bars-language-symbol-win11-edition/"><u>Concealing Status Bar's Language Symbol, Win11 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-we-couldnt-find-a-fingerprint-scanner-compatible-with-windows-hello-fingerprint-error-on-windows/"><u>How to Fix the “We Couldn’t Find a Fingerprint Scanner Compatible With Windows Hello Fingerprint” Error on Windows</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-camera-roll-to-screen-share-photos-fast-and-simple/"><u>In 2024, From Camera Roll to Screen Share Photos Fast and Simple</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-cpu-temp-regulation-for-windows-users/"><u>Mastering CPU Temp Regulation for Windows Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-express-yourself-but-better-the-advantages-of-final-cut-pro/"><u>New Express Yourself, But Better The Advantages of Final Cut Pro</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/quick-and-easy-snapshot-in-zoom-video-call-for-2024/"><u>Quick and Easy Snapshot in Zoom Video Call for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/splitcams-journey-to-video-excellence-an-overview/"><u>SplitCam's Journey to Video Excellence An Overview</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-connect-and-repair-a-nonfunctional-ps4-controller/"><u>Step-by-Step Troubleshooting: Connect and Repair a Nonfunctional PS4 Controller</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-7-password-creation-software-that-cost-nothing/"><u>Top 7 Password Creation Software That Cost Nothing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-phones-for-efficient-windows-audio-input/"><u>Transform Phones for Efficient Windows Audio Input</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-synapse-not-recognizing-razer-devices/"><u>Troubleshooting Synapse Not Recognizing Razer Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-full-administrative-powershell-capability/"><u>Unlocking Windows 11'S Full Administrative PowerShell Capability</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-cc-setup-issues-in-windows-11/"><u>Unraveling the Mystery of CC Setup Issues in Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-boost-creativity-learn-how-to-insert-text-onto-digital-photographs-on-pcmac/"><u>[New] 2024 Approved Boost Creativity Learn How to Insert Text Onto Digital Photographs on PC/Mac</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-evaluating-a-64gb-drive-writable-by-videos-for-2024/"><u>[New] Evaluating a 64GB Drive' Writable by Videos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-audiovisual-powerhouses-select-best-laptops-for-editing/"><u>[New] In 2024, Audiovisual Powerhouses Select Best Laptops for Editing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-m1-pro-and-m1-max-a-comparative-insight-into-apples-latest-chips/"><u>[New] In 2024, M1 Pro and M1 Max - A Comparative Insight Into Apple's Latest Chips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-tv-broadcasts-repeating-youtube-videos-effortlessly/"><u>[New] In 2024, Mastering TV Broadcasts Repeating YouTube Videos Effortlessly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-access-high-quality-youtube-images-without-paying-a-dime/"><u>[Updated] Access High-Quality YouTube Images Without Paying a Dime</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-diy-filmmaking-for-youtube-personalities/"><u>[Updated] In 2024, DIY Filmmaking for YouTube Personalities</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-easy-path-to-engaging-animation-in-your-videos/"><u>[Updated] In 2024, The Easy Path to Engaging Animation in Your Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-missing-mfc71udll-in-windows-os/"><u>Addressing Missing Mfc71u.dll in Windows OS</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oneplus-nord-3-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for OnePlus Nord 3 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correct-disabled-volume-adjustment-on-windows/"><u>Correct Disabled Volume Adjustment on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-lost-connection-problem-on-windows-vpn-client/"><u>Fixing Lost Connection Problem on Windows VPN Client</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacking-the-login-loop-in-windows-1011/"><u>Hacking the Login Loop in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insightful-strategies-for-hardware-serial-numbers-on-windows/"><u>Insightful Strategies for Hardware Serial Numbers on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-with-ease-the-windows-11-touchpad-guide/"><u>Navigating with Ease: The Windows 11 Touchpad Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-vr-screens-producers-for-2024/"><u>Premier VR Screens Producers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-windows-note-placement-guide/"><u>Tailored Windows Note Placement Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-walkthrough-for-finding-windows-keys-losses/"><u>The Complete Walkthrough for Finding Windows Keys Losses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-mastery-building-hotkeys-for-repetitive-text-snapping-tasks/"><u>Windows 11 Mastery: Building Hotkeys for Repetitive Text Snapping Tasks</u></a></li>
 </ul></div>
 

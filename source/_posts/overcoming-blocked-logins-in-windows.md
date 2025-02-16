@@ -1,7 +1,7 @@
 ---
 title: Overcoming Blocked Logins in Windows
-date: 2025-01-25T04:45:21.892Z
-updated: 2025-02-01T07:13:31.635Z
+date: 2025-02-01T02:46:12.997Z
+updated: 2025-02-02T16:24:09.184Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the "Sign-In Option Is Disabled Because of Failed Sign-In Attempts" Error?
 
  The error message indicates the possible causes for the error are multiple failed sign-in attempts or repeated shutdowns. However, in most instances, the error pops up without reason, even when you are using the correct PIN.
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
  Fortunately, you can fix this error by resetting the login PIN and a registry tweak to disable the account lockout option. Follow all the steps in the given order, and you should be able to fix the error and log in to your Windows computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Keep Your Device Powered On for Two Hours
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
  The two-hour cooling period seemingly comes with strings attached. Once you see the wait for two hours message after entering the PIN, reboot your computer. When the login screen appears, don't sign in immediately. Wait for two hours and then put in your PIN to sign in.
 
  That said, if you can't wait for two hours, try to log in using an alternate sign-in option, such as a password or biometric authentication. To use the alternate sign-in option, click the dotted icon under the Sign-in options in the error screen to log in with your password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Reset the Account Password from the Sign-In Screen
 
@@ -66,12 +66,12 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 ![reset account password security question windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-security-question-windows.jpg)
 3. Now, you must answer the three security questions and press **Enter**. If the password is correct, a password reset option will appear.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![reset account password windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-windows.jpg)
 4. Enter your new password and then re-enter the password to confirm the same.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Press **Enter** to sign-in to your user account.
 
@@ -95,8 +95,18 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 4. Locate and right-click on your user account name.  
 ![local users and groups account properties windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-account-peroperties-windows.jpg)
 5. Next, select **Properties**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![local users and groups unselect account is disabled account is locked out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-unselect-account-is-disabled-account-is-locked-out.jpg)
 6. In the **Properties** dialog, open the **General** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Here, uncheck Account is disabled, and Account is locked out option.
 8. Click **Apply** and **OK** to save the changes.
 
@@ -114,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 ![script remove pin win user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sccript-remove-pin-win-user-account.jpg)
 2. Next, copy and paste the following script into the Notepad file:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `@echo off  
 powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'  
 'takeown /f C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\NGC /r /d y'  
@@ -130,6 +136,10 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 3. Press **Ctrl + S** to open the Save dialog and name the file **Remove-Win-Account-PIN.bat**.  
 ![save remove win account pin batch script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/save-remove-win-account-pin-batch-script.jpg)
 4. Next, click the **Save as type** drop-down and select **All files**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click **Save** to create the batch script.
 
@@ -175,19 +185,11 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 ![modify Maxdenials registry DWORD value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor.jpg)
 6. Type **0** in the **Value data** field and click **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Close Registry Editor and reboot your computer to apply the changes.
 
  After the restart, you can sign in without receiving the sign-in is disabled notification. If the issue persists, [try to clear the TPM on Windows](https://www.makeuseof.com/clear-tpm-windows-11/). This can be a tricky solution depending on how your account is set up. Clearing TPM may lock you out of your computer. Attempt this only if you have a password-based sign-in option enabled.
 
  If all else fails, try third-party recovery tools like the Trinity Rescue Kit. It is a useful little utility that can help you reset your password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Resolving the "Disabled Sign-In Options Due to Failed Attempts" Error on Windows
 
@@ -205,19 +207,17 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-connecting-a-deep-dive-into-instagram-live-for-2024/"><u>[Updated] The Art of Connecting A Deep Dive Into Instagram Live for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-transform-your-file-management-free-cloud-storage-service-guide-for-2024/"><u>[Updated] Transform Your File Management - Free Cloud Storage Service Guide for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comment-configurer-handbrake-pour-codage-dav1-guide-complet/"><u>Comment Configurer Handbrake Pour Codage D’AV1 - Guide Complet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/curing-virtual-disk-service-crash-on-windows-systems/"><u>Curing Virtual Disk Service Crash on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhanced-pc-performance-with-auto-windows-and-amd-update/"><u>Enhanced PC Performance with Auto-Windows & AMD Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/for-windows-novices-accessing-tools-simplified/"><u>For Windows Novices: Accessing Tools Simplified</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-correcting-windows-error-0x800704b3/"><u>Guidelines for Correcting Windows Error 0X800704B3</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nubia-red-magic-9-proplus-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nubia Red Magic 9 Pro+ Phone Now with These Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-the-art-of-igtv-a-comprehensive-guide-for-social-media-pros/"><u>Mastering the Art of IGTV A Comprehensive Guide for Social Media Pros</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-your-horizon-zero-dawn-adventure-with-optimal-fps-enhancement-techniques/"><u>Maximize Your Horizon Zero Dawn Adventure with Optimal FPS Enhancement Techniques</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-best-video-editing-software-for-32-bit-windows/"><u>New 2024 Approved FREE Best Video Editing Software for 32-Bit Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shield-your-pc-from-invisible-windows-tasks/"><u>Shield Your PC From Invisible Windows Tasks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/step-into-the-future-mastering-instagram-filters-for-enhanced-imagery-for-2024/"><u>Step Into the Future Mastering Instagram Filters for Enhanced Imagery for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/understanding-permalinks-in-seo-comprehensive-guide-with-best-practices/"><u>Understanding Permalinks in SEO: Comprehensive Guide with Best Practices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-chuckle-worthy-captures-for-iphones/"><u>[Updated] Chuckle-Worthy Captures for IPhones</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unveiling-the-essentials-of-ios-screen-capture-capabilities/"><u>[Updated] Unveiling the Essentials of Io's Screen Capture Capabilities</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-transform-your-webcam-footage-edit-and-export-tips/"><u>2024 Approved Transform Your WebCam Footage Edit & Export Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-snipping-tool-with-a-simple-key-combo-on-win-11/"><u>Activating Snipping Tool with a Simple Key Combo on Win 11</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/discovering-mao-zedong-the-revolutionary-leader-behind-the-establishment-of-the-peoples-republic-of-china-insights-by-yl-computing-and-software-solutions/"><u>Discovering Mao Zedong: The Revolutionary Leader Behind the Establishment of the People's Republic of China - Insights by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-entry-into-your-windows-11s-application-arcade/"><u>Effortless Entry Into Your Windows 11'S Application Arcade</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Oppo Reno 11 5G Phone Without Password?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-laughing-lineup-step-by-step-guide-to-funny-memes/"><u>In 2024, Laughing Lineup Step-by-Step Guide to Funny Memes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-themes-for-enhanced-terminal-views/"><u>Innovative Themes for Enhanced Terminal Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reignite-the-gaming-revolution-integrate-trophies-and-awards-using-retroarch/"><u>Reignite the Gaming Revolution - Integrate Trophies and Awards Using Retroarch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-stabilizing-dwarf-fortress-on-win/"><u>Solutions for Stabilizing Dwarf Fortress on Win</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-7-unveiled-anticipated-features-pricing-info-and-launch-timeline-released/"><u>Upcoming Google Pixel 7 Unveiled: Anticipated Features, Pricing Info & Launch Timeline Released</u></a></li>
 </ul></div>
 

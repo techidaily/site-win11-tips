@@ -1,7 +1,7 @@
 ---
 title: "Access Display Settings: Right-Click on the Desktop and Select Display Settings"
-date: 2024-08-16T01:14:39.549Z
-updated: 2024-08-17T01:14:39.549Z
+date: 2025-01-30T23:35:14.935Z
+updated: 2025-02-03T02:03:23.354Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
  In most cases, you cannot change external monitor brightness from Windows settings—you must manually adjust this setting. If the external monitor's brightness setting is unresponsive, check your monitor's manual to find the brightness buttons' location and how you can adjust it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Reboot Your Device
 
  If none of the methods for changing your display's brightness work, reboot your device once. Doing so will ensure that a temporary problem with your operating system isn't preventing you from changing the brightness. If rebooting your device does not make a difference, apply the remaining fixes.
@@ -42,24 +39,23 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 1. Right-click the Windows**Start** button and select**Device Manager** .
 2. Expand the**Monitors** category, right-click on the drivers listed there, and choose**Update driver** .  
 ![Updating the Generic PnP Monitor Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/updating-the-generic-pnp-monitor-driver.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. After that, expand the**Display adapters** category, right-click on the drivers listed there, and click**Update driver** .  
 ![Update Display Driver in Display Adapters Category of Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-update-display-driver-in-display-adapters-category-of-windows-device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If updating the drivers does not resolve the issue, right-click on both drivers individually and select**Disable device** . To enable them again, right-click on each and select**Enable device** .
 
 ![Enable Display Device in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-enable-display-device-in-windows-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In case that doesn't work either, you should uninstall both drivers. To do that, right-click on both drivers individually and select**Delete device** . After that, reboot your device again, and Windows will reinstall them.
 
 ![Uninstall Display Device in Windows Device Mananger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-uninstall-display-device-in-windows-device-mananger.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Recharge Your Device
@@ -70,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
  If your battery is low, you should recharge your computer. Once your battery reaches a healthy level, you can adjust the brightness as usual. Or if you experienced the problem when you turned on battery-saving mode, you should turn it off or change its settings to allow you to change your monitor's brightness.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 5\. Repair Corrupted System Files
 
  Corrupt system files can impede many Windows features from working correctly and cause your device's brightness to freeze. So, you should rule out this possibility. Fortunately, Windows has a built-in tool—the System File Checker—to fix corrupt system files.
@@ -93,22 +86,28 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 4. After that, turn off the toggle next to**Night light** if it is turned on.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Install Pending Windows Updates
 
  If you don't update Windows, you can run into unforeseen issues. If you have done that in a while, you could eventually encounter problems, like the inability to adjust your screen's brightness.
 
  You should check for and [install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) to ensure that's not the case.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Perform a System Restore
 
  If your PC is fully updated and you still can't adjust its brightness, your next step is performing a system restore. While this fix is what some would call the "nuclear option" as it reverts customizations you've made since the last restore point, it will undo any changes to the system that have caused the brightness issue you're experiencing.
 
  That's why you should [create a restore point on Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) every time you make a significant change, like installing a new app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Take the Strain Off Your Eyes
 
@@ -116,14 +115,11 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
  But if you're still having occasional trouble adjusting your monitor's brightness or are looking for a way to balance the brightness of multiple displays, you should check out the best brightness control apps on Windows to help you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,8 +128,22 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-direct-dissemination-from-tiktok-to-social-networks/"><u>[Updated] 2024 Approved Direct Dissemination From TikTok to Social Networks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-streamline-filming-borders-on-instagram-videos/"><u>[Updated] 2024 Approved Streamline Filming Borders on Instagram Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-video-magic-top-5-effect-tools/"><u>[Updated] Free Video Magic Top 5 Effect Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-exclusive-symphony-broadcasts/"><u>2024 Approved Exclusive Symphony Broadcasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-setting-up-windows-11s-pc-manager/"><u>A Step-by-Step Approach to Setting Up Windows 11'S PC Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-access-entry-error-in-microsoft-os/"><u>Disabling 'Access Entry' Error in Microsoft OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-chatgpt-redefines-medical-advice-top-7-insights/"><u>How ChatGPT Redefines Medical Advice: Top 7 Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-windows-securitys-unexpected-error-in-windows-11-and-11/"><u>How to Fix Windows Security’s “Unexpected Error” In Windows 11 & 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-redmi-k70e-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Redmi K70E Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-remote-connection-issues/"><u>Mastering Windows Remote Connection Issues</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-audio-enhancer-on-android-for-2024/"><u>Premium Audio Enhancer on Android for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rejuvenate-outdated-systems-why-not-windows/"><u>Rejuvenate Outdated Systems: Why Not Windows?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/retro-game-revival-elevating-experiences-by-adding-achievements-using-retroarch/"><u>Retro Game Revival: Elevating Experiences by Adding Achievements Using Retroarch</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/step-up-content-creation-standard-studio-vs-beta-access/"><u>Step-Up Content Creation Standard Studio Vs. Beta Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveil-windows-potential-get-the-outlook-preview-installed/"><u>Unveil Windows' Potential: Get the Outlook Preview Installed</u></a></li>
+</ul></div>
 

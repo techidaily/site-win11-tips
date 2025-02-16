@@ -1,7 +1,7 @@
 ---
 title: Addressing Microsoft's Administrative Default Configurations in Windows 11
-date: 2024-08-16T01:10:42.187Z
-updated: 2024-08-17T01:10:42.187Z
+date: 2025-01-31T00:43:03.457Z
+updated: 2025-02-03T01:21:56.859Z
 tags:
   - windows10
   - windows11
@@ -30,27 +30,18 @@ thumbnail: https://thmb.techidaily.com/4cde13e35fb005f35b03fe575a760700ef2f31716
 
 Let's now see how to fix this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Restart Your Computer
 
  The first thing to fix the "some settings are managed by your organization" error is to restart your computer. This will resolve any temporary glitches. If you need help, check out [the different ways to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) .
 
  Your computer will then start to reboot and hopefully, your Settings app will now be free from any restrictions.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check for Windows Updates
 
  If restarting your computer doesn't do the trick, make sure you've got the latest Windows updates installed on your computer. Microsoft routinely rolls out updates that could potentially address quite a few problems with its operating system. So, it is advised to search for any pending Windows Updates as another potential solution.
 
  Usually, restart your computer to complete the installation process. Then check to see if you can now make changes in your Settings app.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Uninstall the Third-Party Application
 
  If you've recently added any third-party application installed on your Windows PC, it could be the cause of this issue. Uninstalling such applications can solve the problem.
@@ -58,6 +49,10 @@ Let's now see how to fix this problem.
  Think back to any applications you installed before the error began appearing. If you have an idea as to what might be the cause, follow our guide on [how to uninstall programs on Windows 10](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) or [Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) to get rid of it.
 
  Once done, restart your computer to apply the changes. If it hasn't gone away yet, try getting rid of any other recent applications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change Diagnostic Data Settings
 
@@ -71,11 +66,16 @@ Let's now see how to fix this problem.
 ![Send optional diagnostic data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/send-optional-diagnostic-data.jpg)
 4. If the "Send optional diagnostic data" switch is off, make sure you toggle it to**On** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you complete the above steps, close the Settings window and restart your system. See if that resolves the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Edit the Local Group Policy Editor
 
  In case the Settings window fails to open or is not accessible, you can enable sending additional diagnostic data through the Group Policy Editor. Before proceeding, take note that the application will only operate on Windows Professional and Enterprise editions.
@@ -91,11 +91,13 @@ Computer Configuration > Administrative Templates > Windows Components > Data Co
 4. Now move to the right pane, right-click on**Allow Diagnostic Data** , and select**Edit** from the context menu.  
 ![Allow Diagnostic Data Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-diagnostic-data-using-group-policy.jpg)  
  If your system runs Windows 10 or an earlier version, you will see**Allow Telemetry** instead of**Allow Diagnostic Data** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. On the next pop-up page, check the**Enabled** radio button.  
 ![Enabled Allow Diagnostic Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enabled-allow-diagnostic-data.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Under the**Options** section, click the drop-down menu and select**Send optionally diagnostics data** .
 7. Finally, click**Apply > OK** to save the changes.
 
@@ -112,25 +114,24 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 4. Now go to the right side pane and look for the**Wuserver** key.  
 ![Edit Registry Editor to fix the error message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-registry-editor-to-fix-the-error-message.jpg)
 5. Then right-click on it and choose**Delete** from the context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. If a pop-up menu appears on the screen, click**Yes** to confirm.
 
  Once you have made these changes, close the Registry editor window and restart your computer. Next time you start your PC, the error message will be gone.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing “Some Settings Are Managed by Your Organization” on Windows
 
  When updating Windows or changing certain settings, you may encounter an error message that says "Some settings are managed by your organization". If so, this guide will help you fix the error and get back in control of your system settings.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,8 +140,17 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/trategic-trailer-planning-for-increased-channels-profitability-for-2024/"><u>[New] Strategic Trailer Planning for Increased Channels' Profitability for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ideal-proportions-a-guide-to-video-aspect-ratios/"><u>[Updated] In 2024, Ideal Proportions A Guide to Video Aspect Ratios</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-the-wattage-of-your-windows-pc-setup/"><u>Discovering the Wattage of Your Windows PC Setup</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oneplus-nord-n30-se-phone-by-drfone-android/"><u>How to Unlock a Network Locked OnePlus Nord N30 SE Phone?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/illuminating-photography-with-dynamic-mosaic-creations-for-2024/"><u>Illuminating Photography with Dynamic Mosaic Creations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-mobile-links-android-and-windows-compatible-tools/"><u>Key Mobile Links: Android & Windows Compatible Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-stop-motion-magic-top-rated-apps-for-iphone-and-android/"><u>New Stop Motion Magic Top-Rated Apps for iPhone and Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/peak-performance-selective-software-secrets-for-speedy-wins/"><u>Peak Performance: Selective Software Secrets for Speedy Wins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-the-windows-11-ui-to-prompt-users-for-system-updates/"><u>Tailoring the Windows 11 UI to Prompt Users for System Updates</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-performance-excellence-how-the-alienware-aurora-r11-dominated-pc-gaming-of-2021/"><u>Unveiling Performance Excellence: How the Alienware Aurora R11 Dominated PC Gaming of 2021</u></a></li>
+</ul></div>
 

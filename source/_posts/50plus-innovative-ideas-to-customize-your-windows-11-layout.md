@@ -1,7 +1,7 @@
 ---
 title: 50+ Innovative Ideas to Customize Your Windows 11 Layout
-date: 2024-08-16T01:11:58.611Z
-updated: 2024-08-17T01:11:58.611Z
+date: 2025-01-26T19:42:17.471Z
+updated: 2025-02-02T21:31:42.183Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  The default customization options within Windows 11 and 10 are relatively limited. However, some third-party software packages give you lots more options for customizing Microsoft’s desktop operating system. WinBubble is freeware customization software that enables you to tweak the Windows platform in many different ways. Here are eight ways you can tweak Windows 11/10 with WinBubble.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## First, Download and Extract WinBubble
 
  The latest version of WinBubble is primarily designed for customizing Windows 10\. Its WinBubble for Windows 10 title makes it clear what platform it’s intended for. There are older versions of the software for Windows 7 and Vista.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  You can extract the archive as covered in our guide on [how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) . Double-click**WinBubble.exe** in the extracted WinBubbles directory to open the software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Customize Desktop Shortcut Icons With WinBubble
 
  The icons for desktop shortcuts on Windows include little arrows on them. However, you can change that with WinBubble’s Customize Shortcut Icon option. That option enables you to remove the arrow or change it to a star, heart, or Windows logo. You can tweak the desktop shortcut icons like this:
@@ -38,6 +46,11 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 2. Then click the**Customize Shortcut Icon** drop-down menu to select a**No Arrow** ,**Heart** ,**Star** , or**Win** (Windows logo) option.  
 ![The Customize Shortcut Icon drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/customize-shortcut-icon-drop-down-menu.jpg)
 3. Press the**Set** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**OK** on the dialog box that prompts a restart.
 5. Then you’ll need to restart Windows for this customization to take effect.
 
@@ -50,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
  For example, you can select**Glassy Bubbles** or**Metallic Bubbles** options with different sizes for the Bubbles screensaver. Selecting the**Metallic Bubbles** option will give you multicolored bubbles shown in the snapshot below.
 
 ![Metallic bubbles screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/metallic-bubbles.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  You can also adjust the number of ribbons or lines for the different**Ribbon** and**Mystify** screensaver presets. Select a preset and then input values in the number boxes to change how many lines or ribbons are included in the screensavers. You can also input a width value in the**Ribbon** **width** box.
 
@@ -60,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  When you’ve customized a screensaver, click the**View** button to preview it. Select**Set** to save the settings. You might also need to select and set the customized screensaver in the Change screensaver Control Panel applet.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Change the Menu Delay With WinBubble
 
  You can speed up menus a bit by reducing the menu delay. By default, Windows has a 400-millisecond menu delay, which you can cut to zero. WinBubble includes a**Menu Show Delay** option you can configure among numerous other optimization settings.
@@ -71,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  While you’re at it, you can also speed up the Window shutdown process a little. To do this, select WinBubble’s**Decrease Shutdown Time for services** and**Do not Clear Pagefile at Shutdown** checkboxes on the same**Optimize** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. How to Add New Submenus to the Context Menu
 
  WinBubble includes lots of customization settings for the desktop context menu in Windows. It enables you to add three alternative shortcut submenus to the desktop context menu. You can select to add context menu submenus for opening Control Panel applets, Microsoft apps, and system tools.
@@ -81,20 +85,19 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
  Click the**General** tab to view those customization settings for the context menu. Select a**Control Panel Menu** ,**MS Software Menu** , or**System Tools Menu** option on that tab to add one of those submenus. Click**Run** on any Open File warning dialog box to apply.
 
 ![The submenu context menu settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/context-menu-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then right-click a desktop area to view your new**Control Panel** ,**System Tool** , or**Software** submenus. In Windows 11, you’ll also need to click**Show more options** since this tweak is applied to the classic context menu. Each submenu includes a variety of handy shortcuts.
 
 ![The System Tools submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-system-tools-menu.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. How to Add New Take Ownership Explorer Options for Files and Folders
 
  You can’t open folders with restricted access unless you take ownership of them in Windows 11/10\. To manually take ownership of a folder, you’ll need to change its security settings via its properties window.
@@ -106,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
  WinBubble’s**General** tab includes two settings for adding take ownership options to File Explorer’s context menu. Select both the**“Take the Ownership of this folder”** and**“Take the Ownership of this folder”** checkboxes to add those options. You’ll also need to click**Apply** for this tweak.
 
 ![The Take the Ownership of this folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/take-ownership-off-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. How to Add New Software Shortcuts to the Context Menu
 
@@ -124,11 +131,12 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
 ![A WinBubble context menu shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winbubble-context-menu-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can remove shortcuts added by selecting them in the Explorer/Desktop box within WinBubble’s**Tools** tab. Click the**Remove** option there. Then choose**Yes** when asked to confirm the deletion.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. How to Add New Items to the Control Panel
 
  WinBubble’s**Tools** tab also includes a section that enables you to add new items to the Control Panel. You can add third-party software shortcuts to the Control Panel from there in the following steps:
@@ -139,9 +147,6 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 4. Click**Open** to add the software’s path.
 5. Enter a title for the selected software in the**Name** box.  
 ![Control Panel item options in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/control-panel-item-shortcuts.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Press the**Set** button.
 7. Then click**OK** to close the message dialog that pops up.
 
@@ -149,9 +154,6 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
 ![A WinBubble shortcut in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winbubble-control-panel-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## 8\. How to Disable the Registry Editor in WinBubble
 
  The**More Policies** tab in WinBubble enables you to disable many things in Windows. It incorporates four subtabs from which you can disable desktop, Start menu, taskbar, machine, system, and Control Panel features. Plus, there are also some additional miscellaneous quick tweak settings available.
@@ -161,8 +163,9 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 ![The Prevent access to Registry Editor option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/prevent-access-to-registry-editor-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Customize Windows to Your Liking With WinBubble
 
  Those are just some of the different ways you can customize Windows 10 and 11 with WinBubble. WinBubble is packed to the rafters with many more handy settings for tweaking Windows to your heart’s content. So, have fun customizing Windows with WinBubble!
@@ -173,8 +176,6 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,8 +183,20 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-breakthrough-vloggers-reviewed-the-best-15-youtube-channels-for-product-reviews/"><u>[New] Breakthrough Vloggers Reviewed The Best 15 YouTube Channels for Product Reviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-rhythmic-reinvention-the-art-of-voice-in-free-fire/"><u>[New] Rhythmic Reinvention The Art of Voice in Free Fire</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-virtual-venues-validation-for-2024/"><u>[New] VIRTUAL VENUES VALIDATION for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-shot-upgrade-no-money-needed-for-2024/"><u>[Updated] Ultimate Shot Upgrade - No Money Needed for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-failure-of-intels-wi-fi-6d-driver-in-os/"><u>Addressing Failure of Intel's Wi-Fi 6D Driver in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-troubleshooting-steps-for-internal-error-on-windows-1111-pro/"><u>Essential Troubleshooting Steps for Internal Error on Windows 11/11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-editing-text-via-snipping-tool/"><u>Expert Guide: Editing Text via Snipping Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-converter-transform-ogg-files-into-wmv-format-with-just-a-click/"><u>Free Online Converter: Transform OGG Files Into WMV Format with Just a Click</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-xiaomi-redmi-13c-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Xiaomi Redmi 13C Face Lock?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-with-ease-your-guide-to-windows-11-audio-control/"><u>Navigating with Ease: Your Guide to Windows 11 Audio Control</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/principles-of-impactful-narrative-writing-for-films-for-2024/"><u>Principles of Impactful Narrative Writing for Films for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-stalled-amd-driver-in-windows-environment/"><u>Remedying Stalled AMD Driver in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-error-code-0x800713f-windows-11s-mail-woes/"><u>Unraveling Error Code 0X800713F: Windows 11'S Mail Woes</u></a></li>
+</ul></div>
 

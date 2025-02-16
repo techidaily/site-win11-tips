@@ -1,7 +1,7 @@
 ---
 title: RAM Unraveling Made Simple on Windows PCs
-date: 2025-01-29T00:01:32.357Z
-updated: 2025-02-01T15:40:36.810Z
+date: 2025-01-29T01:03:39.092Z
+updated: 2025-02-02T21:17:46.115Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Check the RAM Type With Command Prompt
 
  The most straightforward to check the RAM type on your Windows PC is via Command Prompt. You can use this method even [if you're a beginner with the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/), as it only requires you to run a single command.
@@ -43,16 +39,12 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 ![Check Memory Type Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-memory-type-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Compare the numerical value from the **MemoryType** column with the following table to identify the RAM type. For instance, if the code number is **24**, it means your computer has **DDR3** RAM.
 
 ![A Table Showing RAM Type and Numeric Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-table-showing-ram-type-and-numeric-value.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Check the RAM Type With PowerShell
 
@@ -70,6 +62,14 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 ![A Table Showing RAM Type and Numeric Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-table-showing-ram-type-and-numeric-value.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. How to Check the RAM Type Using the Task Manager App
 
  Windows Task Manager can provide you with all the necessary hardware information you need about your PC, including the type of RAM installed. However, it's important to note that Task Manager does not show the memory type if your PC has [DDR4 or DDR5 RAM](https://www.makeuseof.com/ddr4-vs-ddr5-should-you-upgrade/). So, this method will only work for PCs with DDR3 or lower-generation RAM.
@@ -81,14 +81,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 3. Select **Memory** from the left pane. You should see the amount and type of RAM your PC has in the top right corner of the screen.  
 ![Check Memory Type Using Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-memory-type-using-windows-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Windows Task Manager does more than show hardware information. You also use it to manage running programs, end tasks, and view resource usage. To learn more, read our guide on the best [Windows Task Manager tips that you may not know](https://www.makeuseof.com/tag/10-windows-task-manager-tricks-didnt-know/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Check the RAM Type Using CPU-Z
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  Download and open the [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) app on your PC. Click on the **Memory** tab to get a detailed breakdown of the installed RAM. Under the **General** section, look for the value in the **Type** field to know the type of RAM installed on your PC.
 
 ![Check Memory Type Using CPU-Z App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-memory-type-using-cpu-z-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Know the Type of RAM Installed on Your Windows PC
 
@@ -115,19 +115,16 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-best-gif-recorders-for-capturing-animated-gifs-on-windows/"><u>[New] 2024 Approved Best GIF Recorders for Capturing Animated GIFs on Windows</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-secrets-lowering-playback-rate-for-better-views-for-2024/"><u>[Updated] Snapchat Secrets Lowering Playback Rate for Better Views for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-blur-it-out-simplified-identity-obscuration-techniques/"><u>2024 Approved Blur It Out Simplified Identity Obscuration Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-dreamscape-films-entering-vr-worlds/"><u>2024 Approved Dreamscape Films Entering VR Worlds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-productivity-with-self-crafted-windows-11-shortcuts/"><u>Enhance Productivity with Self-Crafted Windows 11 Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-auditory-experience-with-win11-custom-controls/"><u>Enhance Your Auditory Experience with Win11 Custom Controls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expansive-yet-unimpressive-storage-speeds-of-mp60/"><u>Expansive Yet Unimpressive Storage Speeds of MP60</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-mkv-video-editing-software-top-cutting-tools/"><u>Free MKV Video Editing Software Top Cutting Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/improve-iphone-photography-effective-methods-for-restoring-focus-functionality/"><u>Improve iPhone Photography: Effective Methods for Restoring Focus Functionality</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-from-raw-footage-to-high-quality-mpeg-youtube-conversion-techniques/"><u>In 2024, From Raw Footage to High-Quality MPEG YouTube Conversion Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unforeseen-device-removal-in-windows/"><u>Overcoming Unforeseen Device Removal in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-chromes-network-permission-denied-issue-on-windows-pc/"><u>Resolving Chrome's Network Permission Denied Issue on Windows PC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/softening-volume-windowsmac-audio-tips-for-2024/"><u>Softening Volume Windows/Mac Audio Tips for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-prevent-washed-out-iphone-hd-videos-with-effective-premiere-pro-techniques/"><u>[Updated] 2024 Approved Prevent Washed-Out iPhone HD Videos with Effective Premiere Pro Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-harnessing-the-power-of-post-production-colors/"><u>[Updated] In 2024, Harnessing the Power of Post-Production Colors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-step-by-step-on-instagram-filter-usage-2023/"><u>[Updated] The Ultimate Step-by-Step on Instagram Filter Usage 2023</u></a></li>
+<li><a href="https://article-helps.techidaily.com/capture-the-essence-of-movement-in-iphone-photography/"><u>Capture the Essence of Movement in iPhone Photography</u></a></li>
+<li><a href="https://discover-best.techidaily.com/handbrake-nutzen-lernen-sie-wie-sie-mkv-dateien-ohne-qualitatsverlust-in-mp4-umwandeln/"><u>HandBrake Nutzen: Lernen Sie, Wie Sie MKV-Dateien Ohne Qualitätsverlust in MP4 Umwandeln</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-boot-into-safe-mode-and-efficiently-uninstall-graphics-driver-on-windows-8/"><u>How To Boot Into Safe Mode & Efficiently Uninstall Graphics Driver On Windows 8</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS Max To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insight-into-cab-files-their-purpose-within-the-windows-domain/"><u>Insight Into CAB Files: Their Purpose Within the Windows Domain</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-missing-power-configurations-in-win-11-os/"><u>Reclaiming Missing Power Configurations in Win 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seize-the-deal-unmissable-black-friday-612-win10/"><u>Seize the Deal: Unmissable Black Friday - $6.12 Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-resolving-battlenet-not-available-errors-on-win-1011/"><u>Tips for Resolving Battle.net Not Available Errors on Win 10/11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Hone Your WSL 2 & Docker Skills on Windows Systems
-date: 2025-01-31T12:24:20.109Z
-updated: 2025-01-31T19:21:04.254Z
+date: 2025-01-31T18:42:34.600Z
+updated: 2025-02-02T21:51:19.738Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Docker?
 
  Docker is an open-source platform that allows developers to efficiently build, deploy and run their applications within a container. All dependencies are bundled up so your project can easily be deployed in any environment.
@@ -37,11 +33,19 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 
  For software developers, Docker streamlines workflow by creating individual containers for different microservices that include the necessary dependencies, libraries, and configurations. Each microservice container is isolated and individually scalable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Docker on WSL 2
 
  Docker is compatible with all major operating systems, such as Windows, macOS, and Linux. If you’re on Windows 10 or 11, you can use Docker via Docker Desktop and[integrate it with the Windows Subsystem for Linux 2](https://www.makeuseof.com/how-to-install-docker-windows-10-11/) for improved performance. You can download Docker Desktop for Windows from the[official Docker website](https://www.docker.com/products/docker-desktop/) .
 
 ![newly built image on docker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/newly-built-image-on-docker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Windows Subsystem for Linux (WSL) is a valuable feature that allows Windows users to run Linux distributions like Ubuntu and Kali without setting up a virtual machine or dual-boot.
 
@@ -64,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 ![wsl extension in VS Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsl-extension.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you integrate VS Code into the Windows Subsystem for Linux, you can take advantage of its specialized Linux kernel to enhance cross-platform compatibility. You can further streamline your workflow by utilizing the integrated terminal within VS Code with WSL 2.
@@ -72,12 +76,16 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
  To[set up VS Code with WSL 2 on Windows](https://www.makeuseof.com/how-to-set-up-vs-code-with-wsl-2-windows-10-11/) , you can configure the**WSL** extension from the VS Code Marketplace and get things going.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Utilize the WSL 2 File System
 
  To properly run your Docker containers, it's vital that you rely on the file system of your WSL 2 distro and not heavily depend on the native Windows file system. Throughout my experience of working with Docker containers on WSL 2, I’ve discovered it’s better to store your project files within WSL.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use Native Linux Scripts
 
@@ -95,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 
 `export DOCKER_BUILDKIT=1.`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Set Up Resource Limits
 
  When you integrate the WSL 2 backend with Docker Desktop, you give Docker access to all your CPU resources. Doing so helps improve performance for containers that are resource heavy.
@@ -114,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
  You can recover all of the memory that is unnecessarily being utilized as a cache by running the following command via root in WSL 2:
 
 `echo 1 > /proc/sys/vm/drop_caches`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Smarter With WSL 2
 
@@ -138,21 +138,16 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-ideas-to-influence-an-insider-look-at-strategic-instagram-videos/"><u>[New] 2024 Approved From Ideas to Influence An Insider Look at Strategic Instagram Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellent-series-of-animated-type-options/"><u>[Updated] Excellent Series of Animated Type Options</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-revolutionizing-content-creation-the-future-of-live-video-on-facebook-for-2024/"><u>[Updated] Revolutionizing Content Creation The Future of Live Video on Facebook for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-strategies-maximizing-efficiency-in-windows-10/"><u>[Updated] Top Strategies Maximizing Efficiency in Windows 10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1715860155322-2024-approved-a-stepwise-approach-for-creating-an-interactive-skype-conversation-among-users-from-multiple-operating-systems/"><u>2024 Approved A Stepwise Approach for Creating an Interactive Skype Conversation Among Users From Multiple Operating Systems.</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/best-of-the-best-10-leading-video-call-apps-for-iphones-and-android/"><u>Best of the Best 10 Leading Video Call Apps for iPhones & Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-the-windows-error-0x8007007e-blue-screen/"><u>Handling the Windows Error 0X8007007E Blue Screen</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-y36i-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo Y36i to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-clearing-vac-error-on-windows/"><u>Mastering the Art of Clearing VAC Error on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ppt-pro-tips-top-6-routes-to-prevent-save-failures-in-windows/"><u>PPT Pro Tips: Top 6 Routes to Prevent Save Failures in Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-top-four-reasons-im-not-upgrading-to-an-iphone-16-pro-from-my-iphone-14-explained-by-zdnet/"><u>The Top Four Reasons I'm Not Upgrading to an iPhone 16 Pro From My iPhone 14, Explained by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/time-saving-techniques-for-old-files-in-windows-oses/"><u>Time-Saving Techniques for Old Files in Windows OSes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-discounts-on-laptops-during-amazons-october-2024-prime-day-blowout-insights/"><u>Top-Rated Discounts on Laptops During Amazon's October 2024 Prime Day Blowout - Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-sync-in-the-world-of-microsoft-to-do/"><u>Troubleshooting Non-Sync in the World of Microsoft To Do</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-and-fixing-windows-error-code-0x8007007e/"><u>Unraveling and Fixing Windows Error Code: 0X8007007E</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-you-should-care-about-the-new-update-plan-for-windows-11-h2/"><u>Why You Should Care About the New Update Plan for Windows 11 H2</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-uncomplicated-techniques-reverse-playback-in-vlc-media-player/"><u>[Updated] In 2024, Uncomplicated Techniques Reverse Playback in VLC Media Player</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-the-labyroud-of-vrs-latest-creations/"><u>[Updated] Inside the Labyroud of VR's Latest Creations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1384930-9781101660867-dare-to-be-great/"><u>Dare to Be Great! | Free Book</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/high-performance-7-cameras-for-cutting-edge-vlogging-tech/"><u>High-Performance 7 Cameras For Cutting-Edge Vlogging Tech</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oppo-a1-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Oppo A1 5G Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-winerror-x8019/"><u>Mitigating WinError: X8019</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamlessly-change-the-dynamic-background-in-windows-os/"><u>Seamlessly Change the Dynamic Background in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-language-settings-add-and-switch-layouts-in-win-11-os/"><u>Streamlining Language Settings: Add & Switch Layouts in Win 11 OS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/visual-storytelling-for-social-media-editing-vt-videos-in-fcpx-for-2024/"><u>Visual Storytelling for Social Media Editing VT Videos in FCPX for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-dynamic-system-health-enhancement/"><u>Windows' Dynamic System Health Enhancement</u></a></li>
 </ul></div>
 

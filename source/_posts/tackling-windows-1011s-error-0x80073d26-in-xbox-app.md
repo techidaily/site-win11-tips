@@ -1,7 +1,7 @@
 ---
 title: Tackling Windows 10/11'S Error 0X80073D26 in Xbox App
-date: 2025-01-28T23:53:08.250Z
-updated: 2025-02-01T11:56:10.978Z
+date: 2025-02-01T02:15:29.947Z
+updated: 2025-02-02T20:27:19.523Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,15 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 
 ![The Windows Store Apps window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-app-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can run the same troubleshooter tool in Windows 10, but the steps for accessing it are a bit different. Click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters** in Windows 10’s Settings app. Then select **Windows Store Apps** \> **Run the troubleshooter** to get troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Repair and Reset the Microsoft Store App
 
@@ -47,11 +55,7 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Edit the Registry
@@ -65,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 4. Right-click the **GamingServices** subkey within the Services key to select **Delete** \> **Yes**.  
 ![The Delete registry key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-option-1.jpg)
 5. Click the **GamingServicesNet** key with the mouse’s right button and select the **Delete** \> **Yes** options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Exit Registry Editor and restart your PC.
 
@@ -91,16 +91,12 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 6. Close out of PowerShell to restart Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Reopen Powershell and execute the following command:  
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`
 8. Then click the **Get** button for installing Gaming Service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Perform Some Generic Windows Fixes for Errors
 
@@ -116,20 +112,20 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another possibility is that a software conflict might be causing error 0x80073D26 to occur on your PC. Setting Windows to clean boot by disabling third-party startup items will likely eliminate such a potential cause. That will stop third-party apps and services that could be conflicting with the Microsoft Store from automatically starting.
 
  To apply this fix, check out this guide about [clean-booting Windows 10 or 11](https://www.makeuseof.com/clean-boot-windows-11/). Disable startup programs in Task Manager and services in MS Config as covered within that guide; then restart your PC and try installing Microsoft Store games again to see if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reinstall the Microsoft Store
 
 ![The remove Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-microsoft-store-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Some users might need to reinstall the Microsoft Store to fix error 0x80073D26\. Such a resolution might be necessary for fixing wider issues with the Microsoft Store app other potential solutions don’t address.
@@ -145,6 +141,10 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
  Performing a Windows 11 in-place upgrade is relatively straightforward. All you need to do is download the latest Windows 11 ISO file, open it up, and launch the setup wizard from there. Our article about [performing an in-place upgrade of Windows 11](https://www.makeuseof.com/in-place-upgrade-windows-11/) includes full guidelines for how to do this.
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-setup-window2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
 
@@ -164,21 +164,18 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-pro-cloud-storage-guide-optimal-options-highlighted/"><u>[New] Pro-Cloud Storage Guide Optimal Options Highlighted</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-prohero-gopro-vs-nikkor-keymission-camera-faceoff/"><u>[New] ProHero GoPro VS Nikkor Keymission Camera Faceoff</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-webcam-innovations-for-enhanced-connectivity-for-2024/"><u>[New] Webcam Innovations for Enhanced Connectivity for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-ideal-recording-gear-for-vloggers/"><u>[Updated] In 2024, Ideal Recording Gear for Vloggers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-quick-guide-sharing-videos-on-instagram-for-2024/"><u>[Updated] Quick Guide Sharing Videos on Instagram for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/corsair-void-pro-driver-setup-made-easy-for-windows-systems/"><u>Corsair Void Pro Driver Setup Made Easy for Windows Systems</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/creative-tims-bootstrap-5-material-admin-a-complimentary-material-dashboard-experience/"><u>Creative Tim's Bootstrap 5 Material Admin - A Complimentary Material Dashboard Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decorate-and-differentiate-personalizing-your-calendar-in-windows-outlook/"><u>Decorate and Differentiate: Personalizing Your Calendar in Windows Outlook</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-note-30-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Note 30 Pro Location by Number | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ms-project-unleashing-the-power-of-keys/"><u>MS Project: Unleashing the Power of Keys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-chromes-file-saving-functionality-a-windows-guide/"><u>Reviving Chrome's File Saving Functionality: A Windows Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-configure-windows-for-fingerspeedtyping/"><u>Steps to Configure Windows for Fingerspeedtyping</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailored-strategies-reading-comics-on-windows-11/"><u>Tailored Strategies: Reading Comics on Windows 11</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/iques-for-exceptional-audio-recording-without-a-mic/"><u>Techniques for Exceptional Audio Recording without a Mic</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-overcome-the-virtualboxs-efail-error-0x80004005-on-win/"><u>Tips to Overcome the VirtualBox's E_FAIL (Error 0X80004005) on Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-tips-for-windows-hello-fingerprint-errors/"><u>Troubleshooting Tips for Windows Hello Fingerprint Errors</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-effortlessly-connect-zoom-with-gmail/"><u>[New] How to Effortlessly Connect Zoom with Gmail</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-advanced-techniques-for-audacity-audio-mastery/"><u>[Updated] Advanced Techniques for Audacity Audio Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-insight-on-effortless-photo-and-video-importers-in-windows-10/"><u>[Updated] In-Depth Insight on Effortless Photo & Video Importers in Windows 10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-personalize-speakability-changing-your-tone-on-instagram-posts/"><u>2024 Approved Personalize Speakability Changing Your Tone on Instagram Posts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-travel-video-setup-must-have-items-checklist/"><u>2024 Approved Travel Video Setup Must-Have Items Checklist</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-make-a-video-call-in-whatsapp-web-in-laptop/"><u>How to Make a Video Call in WhatsApp Web in Laptop</u></a></li>
+<li><a href="https://win-tips.techidaily.com/incremental-differential-backup-solution-step-by-step-guide/"><u>Incremental Differential Backup Solution: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methodical-approach-to-reviving-frozen-start-button/"><u>Methodical Approach to Reviving Frozen Start Button</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-your-hard-drives-terrain-a-guide-to-diskusage-in-windows/"><u>Navigating Through Your Hard Drive's Terrain: A Guide to DiskUsage in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-disable-the-win11-firewall/"><u>Strategies to Disable the Win11 Firewall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategy-to-eradicate-error-0x80300024-on-pcs/"><u>Strategy to Eradicate Error 0X80300024 on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-swordsmans-secrets-tackle-windows-lag-in-star-wars-battlefront-2/"><u>Swift Swordsman's Secrets: Tackle Windows Lag in Star Wars Battlefront 2</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-zexmo-bluetooth-adapter-support-for-windows-users-win11-win7-and-win8/"><u>Updated Zexmo Bluetooth Adapter Support for Windows Users (Win11, Win7, and Win8)</u></a></li>
 </ul></div>
 

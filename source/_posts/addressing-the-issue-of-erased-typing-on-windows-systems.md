@@ -1,7 +1,7 @@
 ---
 title: Addressing the Issue of Erased Typing on Windows Systems
-date: 2024-08-16T01:15:03.360Z
-updated: 2024-08-17T01:15:03.360Z
+date: 2025-01-31T02:14:03.396Z
+updated: 2025-02-02T21:14:34.841Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 
  If your keyboard is not physically damaged, [reboot your Windows computer](https://www.makeuseof.com/windows-restart-methods/). This general troubleshooting tip often repairs minor glitches and refreshes your system. Once your computer restarts, see if the Delete key works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the Hardware and Devices Troubleshooter
 
  Hardware and Devices troubleshooter is an inbuilt Windows program that diagnoses and solves hardware-related issues. So, if restarting the computer didn't work, try this tool. It will scan your system for problems and suggest fixes.
@@ -46,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 3. Click **Advanced** and check **Apply repairs automatically**.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
 4. Now click **Next** and it'll scan for hardware problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the end, it will suggest possible fixes. Follow the instructions and see if that resolves the issue.
 
@@ -59,11 +60,18 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 2. In the Settings window, navigate to **System > Troubleshoot > Other troubleshooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 3. Scroll down and locate the **Keyboard** troubleshooter.  
-![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
 4. Next, click **Run**. You'll see a prompt asking for your consent to run diagnostics and attempt automated steps to resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click on **Yes**, and the troubleshooter starts scanning.
 
  If it finds any problems, it will suggest possible fixes. Follow the instructions to see if it solves the Delete key issue.
@@ -75,15 +83,8 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 1. Press **Win + X** on your keyboard and select **Device Manager** from the menu.
 2. Expand the **Keyboards** section and right-click on your keyboard driver.  
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Select Update driver from the context menu. You'll see two options: **Search automatically for drivers** and **Browse my computer for drivers**.  
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 4. Choose the first option and let Windows search for available updates. If it finds one, follow the prompts to install it.
 5. After that, restart your computer and see if the Delete key works.
 
@@ -100,32 +101,28 @@ The ultimate burning program for all your needs!</a>
 1. Press **Win +** **X** on your keyboard and select **Settings**.
 2. From the left sidebar, select **Time & language**.  
 ![Language & region in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/language-region-in-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 3. In the right pane, click on **Language & region**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Under **Preferred languages**, click the three dots next to the language you're using and select **Language options**.  
 ![Language Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/language-options.jpg)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 5. Next, scroll down to the **Keyboards** section and click **Add a keyboard**. Then choose a different layout from the list.  
 ![Add a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-a-keyboard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After adding the new layouts, switch to them and see if the Delete key works. To switch between layouts, press **Win + Space** on your keyboard. If switching to a different layout solves the Delete key issue, you can remove the added layouts and stick to the one that works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Check for Malware or Software Conflicts
 
  Windows OS is also prone to malware attacks. It could disrupt the normal functioning of your keyboard. So, if none of the methods above work, [try running a malware scan](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/).
 
  For this, you must use [antivirus software that provides real-time protection](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/). If you don't have one, we recommend Windows Defender. It's a free and reliable alternative. You can also try [Windows PowerShell to scan and remove malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). After running a full system scan, see if the Delete key works correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Try the On-Screen Keyboard
 
@@ -137,6 +134,10 @@ The ultimate burning program for all your needs!</a>
 2. Type **osk** in the text box and press **Enter**. This will pop up an on-screen keyboard.  
 ![Try On-Screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/try-on-screen-keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Use the mouse or touchpad to click on the Delete key and see if it works. If it does, you can continue using the on-screen keyboard until you find a permanent solution.
 
 ## Your Delete Key Is Now Working Again
@@ -145,8 +146,6 @@ The ultimate burning program for all your needs!</a>
 
  This guide walks you through possible fixes for a non-functioning Delete key on a Windows PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -154,5 +153,20 @@ The ultimate burning program for all your needs!</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-camera-essentials-for-rookie-filmmakers/"><u>[New] Camera Essentials for Rookie Filmmakers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-link-up-in-the-world-of-instagram-for-2024/"><u>[New] How-To Link Up in the World of Instagram for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-effortless-transition-from-spotify-to-youtube-find-the-best-apps/"><u>[Updated] In 2024, Effortless Transition From Spotify to YouTube Find the Best Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-top-profit-generating-online-entertainer/"><u>[Updated] In 2024, Top Profit Generating Online Entertainer</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-hot-30i-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-capturing-the-action-a-twitch-broadcasters-handbook/"><u>2024 Approved Capturing the Action A Twitch Broadcaster's Handbook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-laptop-onoff-trick-for-energy-conservation/"><u>Boost Your Laptop: On/Off Trick for Energy Conservation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-footage-excellence-with-these-best-apps-for-windows-11/"><u>Enhance Footage Excellence with These Best Apps for Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-guide-to-android-time-lapse-video-magic-for-2024/"><u>Expert Guide to Android Time-Lapse Video Magic for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/find-your-perfect-tablet-understanding-the-8-crucial-criteria-to-review-beforehand/"><u>Find Your Perfect Tablet: Understanding The 8 Crucial Criteria To Review Beforehand</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/lenovo-legion-slim-5-amd-edition-comprehensive-review-of-the-ultimate-mid-range-gamers-laptop/"><u>Lenovo Legion Slim 5 : AMD Edition - Comprehensive Review of the Ultimate Mid-Range Gamer's Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-solving-obs-errors-windows-edition/"><u>Understanding and Solving OBS Errors: Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-power-management-features-for-maximum-efficiency/"><u>Unlocking Power Management Features for Maximum Efficiency</u></a></li>
+</ul></div>
 

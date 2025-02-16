@@ -1,7 +1,7 @@
 ---
 title: Reclaim Shift Control with Easy Fixes.
-date: 2024-08-16T01:13:05.152Z
-updated: 2024-08-17T01:13:05.152Z
+date: 2025-01-26T23:58:05.179Z
+updated: 2025-02-02T17:40:42.946Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 
  If the Shift key stops working, it could disrupt your workflow. This guide explains how to troubleshoot and repair the Shift key not functioning on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check for Physical Damage
 
  If your shift key suddenly stops working, it could be a sign of physical damage. To check for physical damage, turn off your computer and carefully inspect the key for dirt or debris. You can also turn your laptop upside down and shake it gently. If you find any, use a soft brush or compressed air to gently clean the area.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 
  This will ensure that none of your work is lost because of the restart. After restarting, open a text document and try typing again. If the shift key remains unresponsive, there may be an issue with your software settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 3\. Check Your Keyboard Settings
 
  The Filter key is an accessibility feature on Windows that could interfere with your keyboard's normal functioning. It ignores brief or repeated keystrokes, which may fail to process the input entirely. To prevent this from happening, try disabling the Filter key option and see if it solves the issue.
@@ -48,11 +48,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. From here, locate the **Filter keys** option and toggle it off.  
 ![Turn Off Filter Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-off-filter-keys.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, close the Settings window and see if the shift key is now working.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update or Reinstall Keyboard Drivers
 
  If the shift key is still not working, it could be an issue with your keyboard drivers. Outdated or corrupt drivers may cause compatibility issues and prevent hardware from functioning. To fix this issue, update your keyboard drivers using the below instructions.
@@ -64,8 +69,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 5. On the next page, select the **Search automatically for drivers** option.  
 ![Search automatically for drivers-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-automatically-for-drivers-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now follow the instructions displayed on your screen to complete the process. After that, restart your computer and see if it solves the issue. If not, reinstall the keyboard drivers. This resolves compatibility issues and ensures hardware functions properly.
@@ -75,9 +81,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Right-click on Start and select **Device Manager** from the list.
 2. Double-click on **Keyboards** and select **Uninstall device**.  
 ![Uninstall device in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device-in-device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click **Uninstall** again to confirm the action.
 
  Now close the Device Manager window and restart your computer. Windows will now automatically install drivers on startup. After that, test the shift key again and see if the problem is solved.
@@ -92,9 +95,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Type "msdt.exe -id DeviceDiagnostic" in the text field and hit Enter.
 3. In the Troubleshooting window, click **Advanced** and check the box next to **Apply repairs automatically**.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Click **Next** and follow the instructions displayed on your screen.
 
  The troubleshooter will now scan your computer for hardware-related issues. When it's done, restart your computer and check if the shift key now works.
@@ -110,15 +110,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 5. Locate the **Keyboard** option in the list, then click **Run**.  
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 
  Wait until the troubleshooter finishes and restart your computer. After that, check if the shift key functions normally.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Scan for Malware
 
  Viruses or suspicious programs interfere with keyboard functionality, leading to unresponsive keys. To check if this is the issue, [scan your computer for malicious software](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/).
@@ -132,8 +130,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Scan options in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scan-options-in-windows-security.jpg)
 5. Next, check the **Full scan** box and click **Scan now**.  
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the scan to finish and check if it finds malicious programs. If threats are detected, remove them immediately. After that, restart your computer and see if the shift key is working now.
@@ -145,19 +144,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If you don't have another keyboard, open a virtual one. This is an on-screen keyboard that lets you type without physical keys. To access it, press **Win + R** on your keyboard. This will open the Run command dialog box.
 
 ![On-screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/on-screen-keyboard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Type **osk** in the text field and hit **Enter**. Now test the shift key on this virtual keyboard. If it works now, you should consider replacing the physical keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Start Using the Shift Key Again on Windows
 
  The Shift key is useful for capitalization, symbols, and navigating Windows menus. However, if it stops working, tasks become tedious and productivity slows down. If other solutions fail, try performing a system restore to return your Windows computer to a previous state where the Shift key worked properly.
 
  If the Shift key stops working, it could disrupt your workflow. This guide explains how to troubleshoot and repair the Shift key not functioning on your computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -166,5 +164,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-zeroing-in-precision-backdrop-deduplication-with-photopea/"><u>[New] 2024 Approved Zeroing In Precision Backdrop Deduplication with Photopea</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-core-principles-of-crafting-convincing-video-endorsements/"><u>[New] Core Principles of Crafting Convincing Video Endorsements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-amongst-windows-n-versions-key-considerations/"><u>Choosing Amongst Windows N Versions: Key Considerations</u></a></li>
+<li><a href="https://article-files.techidaily.com/drafting-a-powerful-post-for-online-fundraising/"><u>Drafting a Powerful Post for Online Fundraising</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-windows-terminals-quake-setting/"><u>Enabling Windows Terminal's Quake Setting</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968289386-get-your-free-qualcomm-atheros-ar938x-driver-instantly-here/"><u>Get Your Free Qualcomm Atheros AR938X Driver Instantly Here!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-share-a-podcast-on-instagram-story-or-post/"><u>In 2024, Share a Podcast on Instagram Story or Post</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/record-complete-page-display/"><u>Record Complete Page Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-data-sorting-adding-text-to-windows-11-folders/"><u>Simplifying Data Sorting: Adding Text to Windows 11 Folders</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-changing-the-battery-in-your-ipad/"><u>Step-by-Step Guide: Changing the Battery in Your iPad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-computing-the-ai-enhanced-windows/"><u>Transforming Computing: The AI-Enhanced Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unraveling-drone-use-in-the-now-and-next-frontier-for-2024/"><u>Unraveling Drone Use in the Now & Next Frontier for 2024</u></a></li>
+</ul></div>
 

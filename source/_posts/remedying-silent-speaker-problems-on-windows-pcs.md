@@ -1,7 +1,7 @@
 ---
 title: Remedying Silent Speaker Problems on Windows PCs
-date: 2025-01-30T03:35:44.401Z
-updated: 2025-02-01T11:55:50.820Z
+date: 2025-01-27T00:07:47.692Z
+updated: 2025-02-02T21:29:04.620Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Playing Audio Troubleshooter
 
  Windows has a Playing Audio troubleshooter that’s there to help you resolve sound-related issues. So, try running that troubleshooter first to see if it offers any potential fixes for the volume control slider not working. You can open and run the Playing Audio troubleshooter like this:
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 ![Browse my computer for drivers option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/browse-my-computer-for-drivers.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Scan and Repair System Files
@@ -58,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 ![The Windows Explorer process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-restart-option.jpg)
 4. Click**Restart** in the bottom right corner of the**Processes** tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Start or Restart Windows Audio Service
 
  Restarting the Windows Audio service is a potential resolution that users confirm can fix the volume control slider. Some users may need to start that service if it’s not already running. This is how you can start or restart the Windows Audio Service:
@@ -68,20 +76,12 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-audio.jpg)
 4. Open the**Startup type** menu to select an**Automatic** option for the service.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select Windows Audio’s**Start** button if the service isn’t running. If Windows Audio is running, restart that service instead by clicking**Stop** and**Start** in the properties window.  
 ![The Automatic option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/automatic-option.jpg)
 6. Press**Apply** and**OK** to set the new Windows Audio service options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change the Scale Setting
@@ -92,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 2. Click**Display** to access the**Scale** option.
 3. Select the**125%** option on the**Scale** drop-down menu. Or change the**Scale** setting to a different**100%** or**150** value if 125% is already selected.  
 ![The Scale option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-scale-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Update the Audio Device Driver
 
@@ -109,20 +113,17 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 ![Browse my computer for drivers option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/browse-my-computer-for-drivers.jpg)
 6. Click the**Let me** **pick** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Let me pick option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/let-me-pick-option.jpg)
 7. Select High Definition Audio and click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The sound driver selection box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/driver-selection.jpg)
 8. Click**Yes** to install the selected audio driver.
 
 9. Exit Device Manager and restart your desktop/laptop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall Your PC’s Audio Device Driver
 
@@ -139,19 +140,11 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 
 6. Or you can reinstall device drivers by clicking the**Scan for hardware changes** option in Device Manager without restarting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Disable Absolute Volume Control by Editing the Registry
 
  This potential resolution is specifically for fixing the volume control slider not working with Bluetooth speakers. The Absolute Volume feature can cause the volume control to stop working with incompatible Bluetooth devices. Users with Bluetooth speakers have confirmed disabling Absolute Volume by editing a CT registry key resolves that issue.
 
  Our guide about[disabling Absolute Volume on Windows](https://www.makeuseof.com/windows-10-absolute-volume-enable-disable/#:~:text=Go%20to%20HKEY%5FLOCAL%5FMACHINE%20%3E%20SYSTEM%20%3E%20ControlSet001,Restart%20your%20computer.) includes full instructions for how to apply this potential fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Reinstall Windows With an In-Place Upgrade
 
@@ -159,9 +152,17 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-setup.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Resetting Windows is a similar troubleshooting method to an in-place upgrade that will restore the platform to default settings. However, you can’t select to preserve all the apps you’ve installed within the "Reset this PC" tool. This article about[factory resetting Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) tells you how to utilize the "Reset this PC" utility.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-reset-this-pc-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Adjust the Audio Level With the Volume Control Slider Again on Windows
 
@@ -182,18 +183,21 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-various-ways-to-earn-on-youtube/"><u>[New] 2024 Approved Exploring Various Ways to Earn on YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-quick-recording-techniques-for-firaxis-age-of-empires-ii/"><u>[New] 2024 Approved Quick Recording Techniques for Firaxis' Age of Empires II</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-cultivating-cash-by-critiquing-consumer-commodities-online-for-2024/"><u>[Updated] Cultivating Cash by Critiquing Consumer Commodities Online for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-jaunt-vr-odyssey-revisited/"><u>[Updated] The Jaunt VR Odyssey Revisited</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/displaying-network-performance-a-taskbar-update/"><u>Displaying Network Performance: A Taskbar Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-failed-operations-error-709/"><u>Fixing Failed Operations: Error 709</u></a></li>
-<li><a href="https://extra-information.techidaily.com/master-the-airwaves-gratis-applications-to-revolutionize-your-vocal-artistry/"><u>Master the Airwaves Gratis Applications to Revolutionize Your Vocal Artistry</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/perfect-pairing-sound-and-imagery-in-media-production/"><u>Perfect Pairing Sound & Imagery in Media Production</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rejuvenating-non-operational-windows-pen-devices/"><u>Rejuvenating Non-Operational Windows Pen Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-moto-e13-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Moto E13 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-steps-to-tranquility-for-pcs/"><u>The Essential Steps to Tranquility for PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unplugging-from-the-clouds-offline-onedrive-access-tips/"><u>Unplugging From the Clouds: Offline OneDrive Access Tips</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-what-is-chatgpt-in-2024/"><u>Updated What Is ChatGPT, In 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-7-tips-for-capturing-live-online-classes-gratis-for-2024/"><u>[Updated] 7 Tips for Capturing Live Online Classes Gratis for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-online-tale-creation-fundamentals/"><u>[Updated] In 2024, Mastering Online Tale Creation Fundamentals</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-netizen-chucklers-aid/"><u>[Updated] Netizen Chuckler's Aid</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unveil-the-leading-10-hidden-story-viewers/"><u>2024 Approved Unveil the Leading 10 Hidden Story Viewers</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-upconversion-unveiled-sdr-to-hdri-a-complete-guide/"><u>2024 Approved Upconversion Unveiled SDR to HDRI - A Complete Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-back-into-your-pcs-arrow-keys/"><u>Breathe Life Back Into Your PC's Arrow Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-real-time-response-on-windows-discord/"><u>Enhancing Real-Time Response on Windows Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-awful-chrome-glitches-on-microsoft-os/"><u>Fixing Awful Chrome Glitches on Microsoft OS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-c67-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme C67 5G Without PUK Codes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-recover-faulty-windows-file-organizer/"><u>Methods to Recover Faulty Windows File Organizer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-installation-issues-with-windows-11-troubleshooter/"><u>Solving Installation Issues with Windows 11 Troubleshooter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-clear-of-low-performance-pitfalls-intel-gpu-resolution/"><u>Steering Clear of Low-Performance Pitfalls: Intel GPU Resolution</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-walkthrough-to-update-and-download-sandisk-drivers-on-your-new-windows/"><u>The Ultimate Walkthrough to Update & Download SanDisk Drivers on Your New Windows ✨🖥️</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tips-for-playing-old-championship-manager-on-pc/"><u>Top Tips for Playing Old Championship Manager on PC</u></a></li>
 </ul></div>
 

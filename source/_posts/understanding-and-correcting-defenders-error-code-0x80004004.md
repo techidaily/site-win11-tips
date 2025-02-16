@@ -1,7 +1,7 @@
 ---
 title: "Understanding & Correcting Defender's Error Code: 0X80004004"
-date: 2025-01-30T19:46:13.994Z
-updated: 2025-02-01T11:42:08.455Z
+date: 2025-02-01T18:33:51.348Z
+updated: 2025-02-02T17:42:10.155Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There can be a number of reasons why this error might be occurring on your system. Here are some of the most common ones:
@@ -61,6 +61,10 @@ Here is how you can do that:
 ![Access Defender properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-defender-properties.jpg)
 5. Now, click on the**Start** button if the service is stopped. If it is functional, click on the**Stop** button, wait for a few seconds, and click**Start** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Make sure the Startup type is set to**Automatic** .
 7. Click**Apply** \>**OK** to save the changes.
 
@@ -77,24 +81,24 @@ Here is how you can do that:
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Try Some Generic Windows-Based Fixes
 
  Now that you've tried some specific fixes for this error, it's time to try some more general ways for fixing errors like this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Run the Windows Update Troubleshooter
 
  If you are encountering the error code while trying to update Microsoft Defender, then you can[run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Install the Update Manually
 
@@ -103,10 +107,6 @@ Here is how you can do that:
  If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on[the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
 
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Change Your Antivirus Program
 
@@ -133,20 +133,17 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-streamline-your-shots-a-windows-11-guide/"><u>[New] 2024 Approved Streamline Your Shots A Windows 11 Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-save-money-save-time-the-best-22-audio-crackers-for-youtube-downloads/"><u>[Updated] Save Money, Save Time The Best 22 Audio Crackers for YouTube Downloads</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-listenguide-review/"><u>2024 Approved ListenGuide Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clear-out-windows-a-guide-to-auto-delete-files-and-folders/"><u>Clear Out Windows: A Guide to Auto-Delete Files and Folders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/command-prompt-access-for-admin-tasks-on-pc/"><u>Command Prompt Access for Admin Tasks on PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-s23-tactical-edition-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy S23 Tactical Edition Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovating-interfaces-cleansing-and-configuring-windows-11-programs/"><u>Innovating Interfaces: Cleansing and Configuring Windows 11 Programs</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-convert-dailymotion-videos-online-for-free-no-cost/"><u>New In 2024, Convert Dailymotion Videos Online for Free - No Cost</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfecting-multi-modal-captures-how-to-use-snipping-tools-audio-feature-max-156/"><u>Perfecting Multi-Modal Captures: How to Use Snipping Tool's Audio Feature (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solve-self-shutdown-issues-win11-techniques/"><u>Solve Self-Shutdown Issues: Win11 Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-mastering-bluescreenview/"><u>Step-by-Step Guide to Mastering BlueScreenView</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-itel-s23plus-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Itel S23+.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-12-complimentary-voip-services-best-picks/"><u>Top 12 Complimentary VoIP Services: Best Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-creativity-with-a-home-based-automation-hub-the-power-of-personal-production-via-robotics/"><u>Unleashing Creativity with a Home-Based Automation Hub: The Power of Personal Production via Robotics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-volume-mixer-a-step-by-step-guide/"><u>Windows 11 Volume Mixer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-revolutionize-your-content-strategy-a-guide-to-youtube-savvy-tips/"><u>[Updated] 2024 Approved Revolutionize Your Content Strategy A Guide to YouTube Savvy Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-shooting-hdr-iphones-pathway-to-enhanced-images/"><u>[Updated] 2024 Approved Shooting HDR IPhone's Pathway to Enhanced Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choosing-the-right-gimbal-dslr-vs-mirrorless-edition/"><u>[Updated] Choosing the Right Gimbal DSLR vs Mirrorless Edition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-optimize-your-youtube-videos-faster-rendering-smarter-uploads/"><u>[Updated] Optimize Your YouTube Videos Faster Rendering, Smarter Uploads</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-best-10-final-cut-pro-plugins-ever/"><u>2024 Approved The Best 10 Final Cut Pro Plugins Ever</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/3-easy-steps-to-remove-applications-from-your-macbook-a-step-by-step-guide/"><u>3 Easy Steps to Remove Applications From Your MacBook: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-security-enlarge-pins-best-practices-in-windows-1111/"><u>Boost Security, Enlarge Pins: Best Practices in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/converting-gmail-to-outlook-on-windows-a-step-by-step-guide/"><u>Converting Gmail To Outlook on Windows – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-the-words-start-talking-windows-11s-method/"><u>Cut the Words, Start Talking: Windows 11'S Method</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-art-of-condensation-editing-youtube-video-durations/"><u>The Art of Condensation Editing YouTube Video Durations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-clear-up-a-white-login-screen-on-windows-1011/"><u>Tips to Clear Up a White Login Screen on Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-peripherals-failure-in-windows-7-heres-how-you-can-repair-them/"><u>USB Peripherals Failure in Windows 7? Here's How You Can Repair Them!</u></a></li>
 </ul></div>
 

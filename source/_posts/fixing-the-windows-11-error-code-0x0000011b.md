@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Windows 11 Error: Code 0X0000011B"
-date: 2025-01-27T21:31:51.606Z
-updated: 2025-02-01T15:34:15.509Z
+date: 2025-02-02T00:19:54.850Z
+updated: 2025-02-02T16:15:09.283Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/06e60fe3d947d58be6e231820ad1f116434db798e
 ![print spooler service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/print-spooler-service-properties.jpg)
 4. Next, right-click on the service and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![print spooler service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/print-spooler-service-startup-type-automatic.jpg)
 5. In the**Properties** dialog, open the**General** tab.  
 
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/06e60fe3d947d58be6e231820ad1f116434db798e
 6. Click the**Startup type** drop-down and set it to**Automatic** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Click**Apply** and**OK** to save the changes.
@@ -69,6 +65,10 @@ To check and install Windows updates:
 4. Click on**Download & install** to install the updates.
 5. Once installed, restart your PC and check for any improvements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Install the Printer Manually via the Local Port
 
  A little complicated, yet a working solution to fix the operation failed error 0x0000011B is to[add your printer manually to Windows](https://www.makeuseof.com/windows-11-add-wired-wireless-printer/) for the local port. Here’s how to do it.
@@ -78,10 +78,6 @@ To check and install Windows updates:
 3. Next, click on**Add a printer or scanner** . Windows will scan for available printers.  
 ![the printer that i want isnt listed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-printer-that-i-want-isnt-listed.jpg)
 4. Click on the**The printer that I want isn’t listed** option. If you don't see the option immediately, wait for a few seconds after clicking on the**Add a printer or scanner** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. In the**Add Printer** dialog, select **Add a local printer or network printer with manual settings.**  
 ![add local printer network printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-local-printer-network-printer.jpg)
@@ -105,7 +101,7 @@ To check and install Windows updates:
  Your newly added printer will now appear under**Device and Printer** in**Control Panel** and the**Settings** app. Give a new print job to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable the CVE-2021-1678 Registry Fix
@@ -129,19 +125,15 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 ![registry editor modify rpcauthlevelprivacyenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled.jpg)
 6. Right-click on the**RpcAuthnLevelPrivacyEnabled** value and select**Modify** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![registry editor modify rpcauthlevelprivacyenabled 0 disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled-0-disabled.jpg)
 8. Close**Registry Editor** and restart your PC to apply the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. After the restart, try to use your shared printer and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Uninstall Recently Installed Updates
 
@@ -156,17 +148,25 @@ To uninstall Windows updates:
 ![control panel uninstall programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs.jpg)
 3. Next, click on**Programs** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
 4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
 5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the 0x0000011b Printing Error on Windows
 
@@ -187,14 +187,17 @@ To uninstall Windows updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-extensive-review-gecata-recording-device-analysis/"><u>[New] 2024 Approved Extensive Review Gecata Recording Device Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/awesome-apple-prank-list-unbelievable-tricks-to-pull-off-on-iphone-and-ipad-owners/"><u>Awesome Apple Prank List: Unbelievable Tricks to Pull Off on iPhone and iPad Owners</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-realme-narzo-60-pro-5g-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-techniques-to-overcome-battlenet-freeze-ups-on-win-os/"><u>Efficient Techniques to Overcome Battle.net Freeze-Ups on Win OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-failed-screen-projection-across-computers/"><u>How to Fix Failed Screen Projection Across Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-wsl-fixing-error-code-4294967295-on-windows/"><u>Remedying WSL: Fixing Error Code 4294967295 on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-spotify-application-halt/"><u>Resolving Windows 11 Spotify Application Halt</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721820687315-the-ultimate-hack-for-stunning-presentations-tap-into-chatgpt-today/"><u>The Ultimate Hack for Stunning Presentations: Tap Into ChatGPT Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrade-your-connection-hdmi-driver-update-for-usb-systems/"><u>Upgrade Your Connection: HDMI Driver Update for USB Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-delivering-quality-imagery-applying-lut-techniques-in-adobes-tools/"><u>[Updated] 2024 Approved Delivering Quality Imagery Applying LUT Techniques in Adobe's Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-best-cameras-to-amplify-your-yt-presence-for-2024/"><u>[Updated] Best Cameras to Amplify Your YT Presence for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-mastering-youtube-screens-final-touches/"><u>[Updated] In 2024, Mastering YouTube Screens' Final Touches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/20247windows-10/"><u>選擇202^4年7月專業相片查看器：Windows 10上建議之最佳品牌解決方案</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/becoming-a-savvy-vr-tour-connoisseur/"><u>Becoming a Savvy VR Tour Connoisseur</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gearing-up-with-best-laptops-from-ifa-2023/"><u>Gearing Up with Best Laptops From IFA 2023</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ghostly-pause-recorder-tutorial/"><u>Ghostly Pause Recorder Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-internal-error-in-windows-11-remote/"><u>Mastering the Art of Fixing Internal Error in Windows 11 Remote</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-itunes-operational-status-on-your-pc/"><u>Restoring iTunes Operational Status on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-dxgierrordevicehunk-on-windows-11/"><u>Steps to Tackle DXGI_ERROR_DEVICE_HUNK on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-lsass-component-resolution-a-user-friendly-guide/"><u>Win LSass Component Resolution: A User-Friendly Guide</u></a></li>
 </ul></div>
 

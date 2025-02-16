@@ -1,7 +1,7 @@
 ---
 title: Swift Remedies to Win 10/11 Active Directory Domain Services Printer Issues
-date: 2025-01-29T11:37:27.371Z
-updated: 2025-01-31T17:48:23.464Z
+date: 2025-01-27T19:33:36.587Z
+updated: 2025-02-02T21:53:22.617Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,23 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Printer Troubleshooter
 
  Windows has a Printer troubleshooter to help you fix printing issues. So, we recommend you try troubleshooting the “Active Directory Domain Services” error with that printer. You can open the Printer troubleshooting tool from Settings by following the instructions in our guide to [running troubleshooters on Windows 10 and 11](https://www.makeuseof.com/run-troubleshooter-windows-10-11/).
 
 ![The Run button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you’ve opened the Printer troubleshooter, select the printer model to fix and click **Next**. Then select **Apply this fix** for all possible resolutions suggested within the troubleshooter.
 
 ![The Printer troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/printer-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Start or Restart Windows’ Print Spooler Service
 
@@ -50,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/services-window.jpg)
 5. Select the **Startup type** menu’s **Automatic** option if a different setting is set there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click **Run** to start Print Spooler if it’s stopped.  
 ![The Print Spooler Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-spooler-service-window.jpg)
 7. Select **Apply** and **OK** to save all the Print Spooler options you’ve just selected.
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
  If Print Spooler is already running, restart that service. To do so, right-click **Print Spooler** in the Services window and select **Restart**. Or select the **Stop** and **Start** options within that service’s properties window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Uninstall and Reinstall Your Printer’s Driver
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
  You can also reinstall a driver by downloading it from the device manufacturer’s website. Open the driver download page on your printer manufacturer’s website. Then select your printer model there and download the latest driver for it. Double-click the printer driver package you downloaded to bring up a setup wizard and select to install it from there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Manually Add a Printer
@@ -93,17 +93,21 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-device-option.jpg)
 4. Click **Yes** to remove the printer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Make sure the printer you want to add is connected to the PC.
 6. Press the **Add a printer** button in the Devices and Printers applet.  
 ![The Add a printer option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-a-printer.jpg)
 7. Select the printer you just removed and click **Next**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Add a device window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-a-device.jpg)
 8. If the printer you need isn’t available for selection within the wizard, click the printer that I want isn’t listed. Then select a suitable option for finding the printer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Edit Three Registry Keys' Permissions
 
@@ -116,20 +120,12 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 ![The Permissions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/permissions-option.jpg)
 4. Next, select the user profile in which the error occurs within the **Group** box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Then select the **Full Control** checkbox within the **Allow** column.  
 ![The Full Control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/full-control-checkbox.jpg)
 6. Repeat step five for all groups and user names shown within the **Security** tab.
 7. Click **Apply** to save the key’s new permission settings.
 8. Repeat the previous five steps for the **PrinterPorts** and **Windows** registry keys.
 9. Close out of Registry Editor and restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Try Printing With a Pre-Installed Windows App
 
@@ -141,6 +137,10 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 4. Then click **File** on Notepad’s menu bar.  
 ![The Print option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-option.jpg)
 5. Select **Print** to bring up the **General** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Click the **Find Printer** button.  
 ![The Find Printer button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-window.jpg)
@@ -164,20 +164,19 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-revolutionizing-videography-with-the-impressive-nikon-j5-for-2024/"><u>[New] Revolutionizing Videography with the Impressive Nikon J5 for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-strategies-for-optimizing-zoom-video-quality/"><u>[New] Top Strategies for Optimizing Zoom Video Quality</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-rated-components-for-smooth-live-transmissions-for-2024/"><u>[New] Top-Rated Components for Smooth Live Transmissions for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-crafting-content-for-success-how-to-start-your-own-youtube-chanel/"><u>[Updated] In 2024, Crafting Content for Success How to Start Your Own YouTube Chanel</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-techniques-to-apply-watermarks-on-fb-content/"><u>2024 Approved Techniques to Apply Watermarks on FB Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-plan-for-eradicating-wsl-on-windows/"><u>Comprehensive Plan for Eradicating WSL on Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/independent-analysis-unveiling-the-mysteries-of-3dr-for-2024/"><u>Independent Analysis Unveiling the Mysteries of '3DR' For 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-taskmanager-leadership-at-windows/"><u>Securing TaskManager Leadership at Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speed-up-your-workflow-nircmd-and-windows-command-shortcuts/"><u>Speed Up Your Workflow: NirCmd & Windows Command Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-block-non-requested-cmd-appearances/"><u>Techniques to Block Non-Requested CMD Appearances</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-reasons-to-steer-clear-of-chatgpt-applications-in-the-apple-macintosh-application-catalog/"><u>Top Reasons to Steer Clear of ChatGPT Applications in the Apple Macintosh Application Catalog</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-a-new-world-of-sound-the-top-15-movies-featuring-dolby-atmos-technology-perfect-for-in-home-enjoyment/"><u>Unlock a New World of Sound: The Top 15 Movies Featuring Dolby Atmos Technology, Perfect for In-Home Enjoyment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-and-fixing-windows-interrupted-by-exceptions/"><u>Unraveling and Fixing Windows Interrupted by Exceptions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-for-the-most-frequent-windows-errors/"><u>Unveiling Fixes for the Most Frequent Windows Errors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fraudulent-fronts-navigating-the-minefield-of-fake-youtube-viewers/"><u>[New] In 2024, Fraudulent Fronts Navigating the Minefield of Fake YouTube Viewers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-reverse-order-effortless-methods-for-list-rearrangement/"><u>[New] In 2024, Reverse Order Effortless Methods for List Rearrangement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-crafting-perfection-an-essential-guide-to-hdr-imaging-for-2024/"><u>[Updated] Crafting Perfection An Essential Guide to HDR Imaging for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-storytellers-supreme-curated-yt-channels-for-2024/"><u>[Updated] Storytellers Supreme Curated YT Channels for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-insightful-analysis-the-phenomenon-of-mixed-reality/"><u>2024 Approved Insightful Analysis The Phenomenon of Mixed Reality</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aussteigende-verabschiedungssprunge-im-deutschen/"><u>Aussteigende Verabschiedungssprünge Im Deutschen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/descargar-la-herramienta-online-de-conversion-de-archivos-w64-sin-coste-alguno/"><u>Descargar La Herramienta Online De Conversión De Archivos W64 Sin Coste Alguno</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-windows-crash-focus-on-0x800f0831/"><u>Eliminate Windows Crash: Focus on 0X800f0831</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-file-failsafe-six-steps-for-correcting-winrar-sums/"><u>Fixing File Failsafe: Six Steps for Correcting WinRAR Sums</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-how-to-turn-mundane-games-into-epic-scenes/"><u>In 2024, How to Turn Mundane Games Into Epic Scenes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-screen-space-removing-windows-overscan-effects/"><u>Maximizing Screen Space: Removing Windows Overscan Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-advantages-of-using-dxvk-on-your-windows-system/"><u>The Advantages of Using DXVK on Your Windows System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-best-free-must-have-tools-for-windows-11/"><u>The Best Free Must-Have Tools for Windows 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-profile-pics-templates-available/"><u>YouTube Profile Pics Templates Available</u></a></li>
 </ul></div>
 

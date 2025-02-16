@@ -1,7 +1,7 @@
 ---
 title: Resolving Microsoft Store Crash Code 0X80072EFD
-date: 2025-01-29T09:27:49.919Z
-updated: 2025-01-31T21:17:05.357Z
+date: 2025-01-31T22:29:34.353Z
+updated: 2025-02-02T19:42:43.828Z
 tags:
   - windows10
   - windows11
@@ -36,19 +36,15 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-list-in-windows-11.jpg)
 5. Go through and apply any suggestions the troubleshooter offers.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-store-apps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Internet Connections** is another troubleshooter that may be useful for fixing the Microsoft Store's 0x80072EFD error. So, consider running that troubleshooter if the Windows Store Apps option doesn't help.
 
  Note that the troubleshooting tools are accessible in the**Update & Security** category in the Settings app if you use Windows 10\. Click the**Troubleshoot** tab and**Additional troubleshooters** option to access them from there. Then press the**Run this troubleshooter** buttons for Windows Store Apps or Internet Connections.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Refresh the SoftwareDistribution Folder
 
@@ -71,25 +67,25 @@ net stop msiserver`
 ![The rename catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/rename-catroot2-command.jpg)
 7. Restart the turned-off services by inputting and executing the following commands:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `net start wuaserv  
 net start cryptSvcc  
 net start bits  
 net start msiserver`
 8. Then bring up your Start menu to select**Restart** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Reset the Microsoft Store's Cache
 
  Microsoft store has a cache in which data accumulates. Resetting or clearing that cache's data is a reliable solution to various Microsoft Store issues. So, we recommend users try doing that when troubleshooting the 0x80072EFD error. You can clear that cache in Settings, as covered in our[guide for resetting apps](https://www.makeuseof.com/windows-reset-app/) in Windows 11 and Windows 10.
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Proxy Server
 
@@ -106,11 +102,7 @@ net start msiserver`
 6. Select the Local Area Network window's**OK** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Double-Check the Time Settings in Windows
@@ -140,10 +132,14 @@ net start msiserver`
 ![The Advanced tab in Internet Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-advanced-tab.jpg)
 5. Click**Apply** to set the protocol options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select**OK** to exit the Internet Options window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reregister Microsoft Store
@@ -158,17 +154,21 @@ net start msiserver`
 ![The reregister MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reregister-ms-store-command.jpg)
 5. Wait until you're sure the command has finished.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Then exit PowerShell, and select the**Restart** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reset Your Network
 
  Resetting network settings in Windows is another 0x80072EFD error fix that's worked for some users. Note that this measure will erase Wi-Fi and Ethernet connection details, so you'll need to re-establish your connection after applying it. You can apply this potential fix as covered in our[how-to reset networks in Windows 11](https://www.makeuseof.com/reset-network-settings-windows-11/) guide.
 
 ![The Reset now button for networks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-now-network-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Shopping in Microsoft Store Again
 
@@ -189,18 +189,24 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-drones-in-media-production/"><u>[New] 2024 Approved Mastering Drones in Media Production</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-transform-ordinary-pictures-into-art-using-pixlr-secrets/"><u>[New] 2024 Approved Transform Ordinary Pictures Into Art Using Pixlr Secrets</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-accelerated-pathway-through-keying-fundamentals/"><u>[New] In 2024, Accelerated Pathway Through Keying Fundamentals</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-elite-catch-footage-cameras-top-5-list/"><u>[New] In 2024, Elite Catch Footage Cameras - Top 5 List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-spotlight-on-premium-360cameras-for-professionals/"><u>[New] Spotlight on Premium 360°Cameras for Professionals</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-reno-10-proplus-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo Reno 10 Pro+ 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/commencing-your-google-meet-experience-for-2024/"><u>Commencing Your Google Meet Experience for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-c210-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia C210 Phone Screen?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-reviving-your-windows-photo-viewer-approaches-for-w10-enthusiasts/"><u>In 2024, Reviving Your Windows Photo Viewer Approaches for W10 Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-blue-screen-error-0x8007007e-in-windows-systems/"><u>Resolving Blue Screen Error 0X8007007E in Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sd-card-reader-wont-show-in-file-explorer-heres-how-to-fix-it/"><u>SD Card Reader Won't Show in File Explorer? Here's How to Fix It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-typing-latency-win-11s-top-fixes-summarized/"><u>Troubleshoot Typing Latency: Win 11'S Top Fixes Summarized</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-empty-folder-error-on-win11-error-code-0x80070091/"><u>Unblocking Empty Folder Error on Win11 (Error Code 0X80070091)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-ancient-artifacts-iphone-x-selfies/"><u>[Updated] 2024 Approved Ancient Artifacts – iPhone X Selfies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boost-length-on-youtube-entry-filming-for-2024/"><u>[Updated] Boost Length on YouTube Entry Filming for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-transforming-realities-into-engaging-documentaries-through-scriptwriting/"><u>[Updated] Transforming Realities Into Engaging Documentaries Through Scriptwriting</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-your-path-to-metaverse-dominance-with-7-key-devices-for-2024/"><u>[Updated] Your Path to Metaverse Dominance with 7 Key Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebooks-videography-preference-which-orientation/"><u>2024 Approved Facebook's Videography Preference Which Orientation?</u></a></li>
+<li><a href="https://games-able.techidaily.com/chdmans-secret-for-slimming-retro-games-without-loss-of-functionality/"><u>CHDMAN's Secret for Slimming Retro Games without Loss of Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-0x800704cf-from-windows-marketplace/"><u>Eliminating 0X800704CF From Windows Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fasten-up-your-pc-launches-mastering-windows-11-quick-start-mode/"><u>Fasten Up Your PC Launches: Mastering Windows 11 Quick Start Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fingerprint-fraud-unraveling-the-latest-hack-on-windows-hello/"><u>Fingerprint Fraud? Unraveling the Latest Hack on Windows Hello</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-guide-to-unwavering-visual-captures/"><u>In 2024, A Guide to Unwavering Visual Captures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-starting-windows-media-player/"><u>Mastering the Art of Starting Windows Media Player</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-ways-to-create-live-photos-from-videos-on-your-phone/"><u>New Best Ways to Create Live Photos From Videos on Your Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-prioritize-disk-format-in-windows-errors/"><u>Resolving Prioritize Disk Format in Windows Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-google-drives-synced-files-with-7-key-steps/"><u>Reviving Google Drive's Synced Files with 7 Key Steps</u></a></li>
+<li><a href="https://win-bits.techidaily.com/section-3c-qandas/"><u>Section 3C: Q&As</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-combat-gaming-induced-laptop-overheating/"><u>Steps to Combat Gaming-Induced Laptop Overheating</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-device-synergy-samsung-dex-for-galaxy-users/"><u>Streamlining Device Synergy: Samsung DeX for Galaxy Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-to-new-life-for-your-outdated-computer/"><u>Transition to New Life for Your Outdated Computer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Oppo Reno 8T | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Unchangeable Power Settings in Win11
-date: 2025-01-31T13:53:03.498Z
-updated: 2025-01-31T16:31:10.331Z
+date: 2025-01-29T22:41:19.096Z
+updated: 2025-02-02T23:55:36.032Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can't You Change the Power Mode in Windows 11?
 
  Several factors can prevent you from changing the power mode in Windows. Here are the most common reasons behind this problem:
@@ -47,21 +51,17 @@ Here is how you can proceed:
 ![Click on Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/large-icons-control-panel.jpg)
 4. Now, look for**Power options** and click on it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
 5. You should now be able to see your current power plan. Click on**Create a power plan** in the left pane.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once done, check if you can now change the power mode successfully.
 
@@ -83,11 +83,7 @@ Here is how you can run the troubleshooter:
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
@@ -104,10 +100,6 @@ powercfg –restoredefaultscheme
 ![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
 5. Once the command is executed, check if you can change the power mode successfully.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
 
 Here is how you can do that:
@@ -123,6 +115,10 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 
 Hopefully, this will resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Revert the System to an Older Working State
 
  Another way to fix the problem is by reverting the system back to a state where you can change the power modes without any issues. This can be achieved using the System Restore feature,[one of the most important PC-Saving Windows Tools available](https://www.makeuseof.com/tag/8-pc-saving-windows-tools-must-not-overlook/) , which periodically creates restore points on the system.
@@ -130,6 +126,10 @@ Hopefully, this will resolve the issue.
  The restore points represent a point in time when the system was in a certain state, and by choosing one, you can return the system to that point in time.
 
  In this case, you can choose a state where the current issue is not present.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Switch Power Modes Easily
 
@@ -152,20 +152,14 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-from-dreamer-to-doer-sign-up-for-a-youtube-channel/"><u>[New] In 2024, From Dreamer To Doer Sign Up for a YouTube Channel</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-screen-grabs-revealed-gaming-edition-reviewed/"><u>[New] In 2024, Screen Grabs Revealed Gaming Edition Reviewed</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-easyshadecleanse-professionally-crafted-erase-software/"><u>[Updated] In 2024, EasyShadeCleanse Professionally Crafted Erase Software</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-how-to-save-twitter-videos-seamlessly-on-your-android/"><u>[Updated] In 2024, How to Save Twitter Videos Seamlessly on Your Android</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-perfecting-your-podcast-in-depth-zoom-video-recording-tutorial/"><u>In 2024, Perfecting Your Podcast In-Depth Zoom Video Recording Tutorial</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-switch-onoff-youtubes-pip-mode-on-your-iphone/"><u>In 2024, Switch On/Off YouTube's PIP Mode on Your iPhone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/magix-video-pro-x-analysis/"><u>Magix Video Pro X Analysis</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/phoenix-fix-new-jpeg-tool-by-stellar-on-macos/"><u>Phoenix Fix: New JPEG Tool by Stellar on macOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-misuse-of-windows-11-insider-releases/"><u>Preventing Misuse of Windows 11 Insider Releases</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-salvation-from-script-setbacks-in-windows-os/"><u>Swift Salvation From Script Setbacks in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essence-and-function-of-wu-and-orchestrator-services/"><u>The Essence and Function of WU & Orchestrator Services</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tomorrows-tech-landscape-windows-plus-artificial-intelligence/"><u>Tomorrow's Tech Landscape: Windows + Artificial Intelligence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-audio-issues-automatic-startup-fixes-for-wake/"><u>Troubleshooting Audio Issues: Automatic Startup Fixes for Wake</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-magic-6-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor Magic 6 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-windows-11-power-through-service-configuration/"><u>Unlock Windows 11 Power Through Service Configuration</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chuckles-and-characters-a-guide-to-top-meme-generators/"><u>[New] Chuckles & Characters A Guide to Top Meme Generators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-pc-data-collection-using-everywhereapp/"><u>Accelerated PC Data Collection Using EverywhereApp</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-and-fixing-closed-caption-failures-in-windows-11/"><u>Avoiding and Fixing Closed Caption Failures in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-functional-read-aloud-in-office-suite-word/"><u>Fixing Non-Functional Read Aloud in Office Suite (Word)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-infinix-smart-8-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Infinix Smart 8 Pro Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-solution-for-0x80072af9-issue/"><u>Mastering Solution for 0X80072AF9 Issue</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/prime-methods-for-youtube-content-into-mpeg-for-2024/"><u>Prime Methods for YouTube Content Into MPEG for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/step-by-step-guide-to-installing-hp-envy-504-printers/"><u>Step-by-Step Guide to Installing HP Envy 504 Printers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-v29-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo V29 Pro Android SIM Unlock APK</u></a></li>
 </ul></div>
 

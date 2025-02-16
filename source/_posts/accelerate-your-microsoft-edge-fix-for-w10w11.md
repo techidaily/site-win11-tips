@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Your Microsoft Edge: Fix for W10/W11"
-date: 2024-08-16T01:11:20.162Z
-updated: 2024-08-17T01:11:20.162Z
+date: 2025-01-28T23:17:40.734Z
+updated: 2025-02-02T16:52:23.445Z
 tags:
   - windows10
   - windows11
@@ -31,14 +31,16 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 1. Press and hold **Ctrl** + **Shift** + **Esc** keys to open Task Manager.
 2. Look for Microsoft Edge from the list. Click it and press **End Task**. This will completely close the app.  
 ![Relaunch Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/end-edge-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 3. Launch Microsoft Edge and see if it works okay.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Update Edge
 
  Outdated programs such as Microsoft Edge can lead to a slow user experience. This is because developers introduced new updates to address several bugs and issues. If you don’t update it, the problems present on the app will stay and hamper your usage.
@@ -48,13 +50,11 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 1. Open Microsoft Edge and click the **three-dot** menufound on the right side of the screen. From this menu, click **Settings.**
 2. Once you're in Settings, select **About Microsoft Edge** from the left-side navigation. Then, install any available updates. If there’s none, proceed to the next fix.  
 ![Update Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-edge-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Disable the "Preload New Tab Page" Option
 
  Unfortunately, Microsoft Edge’s new tab page includes a lot of content that can consume a lot of resources. Apart from an animated background, it also has Microsoft news, weather widget, traffic updates, and more. Loading all of them in the background can make your browser feel slow, especially if your computer doesn’t have much memory left on it.
@@ -69,16 +69,13 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
  Relaunch Microsoft Edge and check if it works faster.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Close Unnecessary Tabs
 
  If you have a lot of open tabs, Microsoft Edge might slow down its performance. Try to close some of the tabs you no longer need to free some of Edge resources. Alternatively, you could use a [browser extension to help you manage your tabs](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi).
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Change the Tracking Prevention Setting
 
  Microsoft Edge is big on privacy. That’s why it has a built-in feature that prevents companies from collecting your information when browsing. This feature comes in three different settings, and you can choose how you want to be protected.
@@ -97,9 +94,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The Balanced setting still protects your privacy like the Strict option. However, it doesn't stop parts of some sites from working. You may still see ads on your browser, but it’s much better than turning this feature off completely.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Clear Cache and Cookies
 
  Sometimes, cookies and cache cause a slow Microsoft Edge on Windows 10 and 11\. If the browser has a lot of them, it can affect its speed. Luckily, the fix is easy. You only need to delete them, and you’re good to go. However, deleting the data can log you out of some websites you frequently visit. If this is the case, don’t panic. All you need to do is to log in again.
@@ -111,14 +108,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. On the Settings page, click **Cookies and site permissions**.
 4. Next, click **Manage and delete cookies and site data**.
 5. ![Microsoft Edge cookies and data stores settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-cookies-1.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  Then, press **See all cookies and site data**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. ![Sell all cookies in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/see-all-cookies-1.jpg)  
  Under All cookies and site data, click **Remove all**.
 7. ![Remove all Edge cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-all-cookies-1.jpg)  
  Check your browser and see if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Disable Browser Extensions
 
@@ -140,9 +143,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Restart your browser and check if this solution improved its performance.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 9\. Repair Microsoft Edge
 
  Microsoft has incorporated a repair feature for some of Windows' built-in apps. And, fortunately, Edge is one of them. So, if you had no luck removing the browser cache or disabling the extension, you should [repair Microsoft Edge](https://www.makeuseof.com/windows-11-microsoft-edge-not-working-repair/).
@@ -155,8 +155,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The latest Microsoft Edge comes with many new features such as sleep tabs, tab groups, and more that can help with productivity and efficiency. However, these updates can sometimes slow down Edge. If you are experiencing this, follow the fixes below to speed your browser up.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -164,5 +162,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-combining-forces-sharing-tweets-on-facebook-networks/"><u>[New] Combining Forces Sharing Tweets on Facebook Networks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-the-core-technology-behind-superior-screen-captures-by-recmeister/"><u>[New] Unveiling the Core Technology Behind Superior Screen Captures by Recmeister</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-maximize-engagement-discover-the-8-best-timers-for-android-and-iphone/"><u>[Updated] In 2024, Maximize Engagement Discover the 8 Best Timers for Android & iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pioneering-techniques-in-health-and-wellness-fb-campaigns/"><u>[Updated] Pioneering Techniques in Health & Wellness FB Campaigns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-the-way-for-smooth-steam-disk-operations/"><u>Clearing the Way for Smooth Steam Disk Operations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/complete-rundown-upgrading-video-card-drivers/"><u>Complete Rundown: Upgrading Video Card Drivers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/download-facebook-videos-anywhere-winmacosiphone-for-2024/"><u>Download Facebook Videos Anywhere Win/macOS/iPhone for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-for-eliminating-windows-temp-files/"><u>Expert Advice for Eliminating Windows' Temp Files</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-13-mini-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone 13 mini Without Apple ID Password?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-xiaomi-redmi-13c-by-drfone-android/"><u>In 2024, How to Bypass FRP from Xiaomi Redmi 13C?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-d3d11-gpu-error-landscape-for-windows-1110/"><u>Navigating the D3D11 GPU Error Landscape for Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-problems-with-saving-windows-volume-configurations/"><u>Overcoming Problems with Saving Window's Volume Configurations</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-win-keybinds-guide-for-enhanced-productivity/"><u>Quick Win Keybinds Guide for Enhanced Productivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalizing-steam-data-flow-escaping-slowdown-traps/"><u>Revitalizing Steam Data Flow: Escaping Slowdown Traps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-telnet-activation-on-latest-windows-systems/"><u>Secure Telnet Activation on Latest Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speeding-up-a-halted-download-the-windows-method/"><u>Speeding up a Halted Download: The Windows Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-capability-of-windows-11-with-multi-display-setup/"><u>Unlock the Full Capability of Windows 11 With Multi-Display Setup</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-top-10-free-webm-video-editors-you-need-to-try/"><u>Updated The Ultimate List Top 10 Free WebM Video Editors You Need to Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-clean-boot-a-beginners-approach/"><u>Windows 11 Clean Boot: A Beginner's Approach</u></a></li>
+</ul></div>
 

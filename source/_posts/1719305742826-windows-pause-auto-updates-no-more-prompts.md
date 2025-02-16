@@ -1,7 +1,7 @@
 ---
 title: "Windows Pause Auto-Updates: No More Prompts"
-date: 2024-08-16T01:15:13.244Z
-updated: 2024-08-17T01:15:13.244Z
+date: 2025-01-27T20:29:05.607Z
+updated: 2025-02-02T22:02:02.865Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 3. Under Windows Update, you will find the **Restart now** option.
 4. Select this option to restart your computer and install the pending updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Install Pending Updates
 
  If your computer keeps reminding you to update and shuts down, check for pending updates. It is possible that the updates were not installed properly and Windows is now asking you to complete them.
@@ -42,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
  This will search for available updates and install them if there are any. If you see no updates, continue to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Windows Update Troubleshooter
 
  Windows operating system comes with troubleshooting tools specific to each problem. To solve update-related issues, use the Windows Update troubleshooter. This tool detects corrupted, or faulty files associated with updates and fixes them automatically.
@@ -55,16 +60,15 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 3. On the next page, click **Other trouble-shooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 4. Look for **Windows Update** and click **Run** next to it.  
-![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
  Follow the instructions on the screen to let Windows Update Troubleshooter detect and fix problems. After running the troubleshooter, restart your computer and check if it solves the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Clear the Software Distribution Folder
 
  The Software Distribution folder contains downloaded updates and installation files. If these files become corrupted, it could lead to this issue. To fix it, clear the Software Distribution directory and check if that solves the problem.
@@ -102,9 +106,6 @@ net start msiserver`
 2. Type **services.msc** in the dialog box and press Enter. This will open the Services console.
 3. Search for **Windows Update**, right-click on it, and select **Stop**.  
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 4. Now double-click on **Windows Update** to open the Properties window.
 5. On the **General** tab, click the **Startup type** drop-down and select **Disabled**.  
 ![Disable Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-windows-update-service.jpg)
@@ -118,8 +119,9 @@ net start msiserver`
  ​​​​​After restarting, you should no longer see the “Update and Restart” or “Update and Shut Down” message.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reset the Windows Update Components
 
  If none of the solutions above work, reset Windows Update components. It deletes all the temporary download files and resets the registry keys containing information about Windows Update. This process also clears any corrupted files associated with updates and allows Windows to download the updates again.
@@ -187,20 +189,20 @@ net start cryptsvc`
 5. Save the file as **ResetWindowsUpdate.bat** and close Notepad.  
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-windows-update-components.jpg)
 6. Now right-click on the .bat file and select **Run as administrator**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. When the UAC window appears, select **Yes** to continue.
 
  The script will start resetting the Windows Update components and may take a few minutes to complete. Once done, restart your computer and this should solve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Resolving Incorrect Notifications for Updates and Restarts
 
  Now that you know how to fix incorrect notifications for updates and restarts, you can avoid this issue in the future. Make sure Windows Update is configured correctly and reset components. Also, keep your computer updated with the latest security patches. Doing this will also ensure smooth system operation.
 
  However, you may sometimes encounter the same message prompting even after performing these actions. Read this guide to resolve this issue and stop getting such annoying notifications.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -209,5 +211,19 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-audiovisual-powerhouses-select-best-laptops-for-editing/"><u>[New] Audiovisual Powerhouses Select Best Laptops for Editing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unseen-features-in-depth-look-at-instagrams-ask-emoji-for-2024/"><u>[New] Unseen Features In-Depth Look at Instagram’s Ask Emoji for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-big-sur-breakdown-understanding-the-latest-macos-update/"><u>[Updated] In 2024, Big Sur Breakdown Understanding the Latest macOS Update</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-innovators-playbook-recording-shows-in-the-cloud-for-2024/"><u>[Updated] The Innovator’s Playbook Recording Shows in the Cloud for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/cerebral-quests-the-ultimate-list-of-escape-rooms/"><u>Cerebral Quests The Ultimate List of Escape Rooms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/forge-ahead-with-stronger-windows-security-top-four-password-keepers/"><u>Forge Ahead with Stronger Windows Security: Top Four Password Keepers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-clear-visual-elements-from-search-bar/"><u>How to Clear Visual Elements From Search Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/operas-plight-unleash-it-from-windows-freeze/"><u>Opera's Plight? Unleash It From Windows Freeze!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-no-connection-in-windows-ethernet/"><u>Overcoming No Connection in Windows Ethernet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-utorrent-peer-relationships-on-win/"><u>Reestablishing uTorrent Peer Relationships on Win</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1127080-9781612832975-signs-on-the-earth/"><u>Signs on the Earth | Free Book</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unraveling-the-secrets-of-recording-hulu-across-computersmobile-for-2024/"><u>Unraveling the Secrets of Recording Hulu Across Computers/Mobile for 2024</u></a></li>
+</ul></div>
 

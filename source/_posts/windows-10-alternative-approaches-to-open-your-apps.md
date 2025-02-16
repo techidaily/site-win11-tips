@@ -1,7 +1,7 @@
 ---
 title: "Windows 10: Alternative Approaches to Open Your Apps"
-date: 2025-01-29T18:13:40.205Z
-updated: 2025-01-31T20:57:32.857Z
+date: 2025-02-02T01:06:43.952Z
+updated: 2025-02-02T21:41:08.480Z
 tags:
   - windows10
   - windows11
@@ -34,20 +34,20 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![Open Apps and Programs Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Apps and Programs Using Its EXE File
 
 ![Open Apps and Programs Using Desktop Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-desktop-shortcuts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you install an app or program on Windows, it often adds a shortcut to the EXE file on your desktop. This allows you to launch the app or program by double-clicking the shortcut.
 
  If the desktop shortcut isn't available, you can[find where the program is installed on Windows](https://www.makeuseof.com/windows-ways-to-find-programs-install-location/) and double-click on its EXE file to open it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Open Programs With the Run Tool
 
@@ -58,7 +58,11 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![Open Apps and Programs Using Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-run-dialog.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Open Programs via Task Manager
@@ -82,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![Open Apps and Programs Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. How to Open Programs With Keyboard Shortcuts
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 3. Click the**Shortcut key** field and press the key combination you want to assign.
 4. Hit**Apply** followed by**OK** .  
 ![Open Apps and Programs Using Keyboard Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-keyboard-shortcuts.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, you can quickly launch the app or program by pressing the assigned key combination.
 
@@ -122,20 +122,24 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-understanding-youtubers-income-average-ad-revenues-per-play/"><u>[New] Understanding Youtuber's Income Average Ad Revenues per Play?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-explore-top-12-gear-best-on-the-go-flip-screen-cameras/"><u>[Updated] In 2024, Explore Top 12 Gear Best On-the-Go Flip-Screen Cameras</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/dable-methods-for-video-and-text-synergy/"><u>Affordable Methods for Video and Text Synergy</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/asus-vivobook-pro-15-the-ultrabook-that-trades-off-screen-size-for-superior-specifications/"><u>Asus Vivobook Pro 15 - The Ultrabook That Trades Off Screen Size for Superior Specifications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-mc-lan-troubles-7-fixes-for-windows-users/"><u>Decoding MC LAN Troubles: 7 Fixes for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-desktop-space-display-gmail-on-pc-taskbar/"><u>Enhancing Desktop Space: Display Gmail on PC Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-cleanup-indispensable-windows-programs-for-removal/"><u>Essential Cleanup: Indispensable Windows Programs for Removal</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-streamline-your-media-files-8-pro-convertors-sub-to-srt-style/"><u>In 2024, Streamline Your Media Files 8 Pro Convertors, Sub to Srt Style</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-itel-p55plus-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Itel P55+ for Streaming | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-7-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 7 Properly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lowering-cpu-load-wmi-worker-fixes/"><u>Lowering Cpu Load: WMI Worker Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/post-cortana-era-brings-4-enhanced-windows-features/"><u>Post-Cortana Era Brings 4 Enhanced Windows Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-the-enigma-wsl-error-4294967295-on-windows-pcs/"><u>Resolving the Enigma: WSL Error 4294967295 on Windows PCs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-ultimate-desk-mats-the-most-comfortable-and-ergonomic-choices/"><u>Top-Rated Ultimate Desk Mats: The Most Comfortable & Ergonomic Choices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/untethered-accessibility-windows-edition-of-onedrive/"><u>Untethered Accessibility: Windows Edition of OneDrive</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unravel-your-pcs-potential-with-windows-10s-latest-games/"><u>[Updated] Unravel Your PC's Potential with Windows 10'S Latest Games</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-r9-200-series-how-to-download-and-install-the-best-graphics-card-drivers-on-windows/"><u>AMD Radeon R9 200 Series: How to Download and Install the Best Graphics Card Drivers on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-kid-friendly-virtual-games-for-fun-and-learning-online/"><u>Best Kid-Friendly Virtual Games for Fun and Learning Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conducting-an-intuitive-in-place-windows-11-transition/"><u>Conducting an Intuitive, In-Place Windows 11 Transition</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-win10-use-strategies-post-upgrade-decision/"><u>Efficient Win10 Use Strategies Post Upgrade Decision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-managing-extraneous-tasks-on-windows/"><u>Efficiently Managing Extraneous Tasks on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-your-discomfort-expert-solutions-for-eliminating-display-shaking-problems/"><u>End Your Discomfort: Expert Solutions for Eliminating Display Shaking Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-icon-display-ease/"><u>Enhancing Windows 11 Icon Display Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-reactivate-a-non-functional-windows-download-folder/"><u>Methods to Reactivate a Non-Functional Windows Download Folder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-initial-load-hurdles-in-lol/"><u>Overcoming Initial Load Hurdles in LOL</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/rediscovering-iconic-pixels-an-expert-review-on-super-mario-for-nintendos-portable-gem/"><u>Rediscovering Iconic Pixels: An Expert Review on Super Mario for Nintendo's Portable Gem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-clearing-admin-not-allowed-message-in-os/"><u>Strategies for Clearing Admin Not Allowed Message in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-windows-1011-revamping-using-winbubble/"><u>The Complete Guide to Windows 10/11 Revamping Using WinBubble</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-spyro-reignited-collection-a-petite-guardians-grand-adventure/"><u>Unboxing Spyro Reignited Collection - A Petite Guardian's Grand Adventure</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrade-to-thunderbird-52-for-enhanced-security-and-performance-from-mozilla/"><u>Upgrade to Thunderbird 52 for Enhanced Security & Performance From Mozilla</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-and-windows-aturinates-gpu-performance-solutions-revealed/"><u>Warzone and Windows Aturinates GPU Performance - Solutions Revealed</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oppo-reno-11f-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo Reno 11F 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-transcends-platforms-iphoneipadmacpc-compatibility-announced/"><u>Windows Transcends Platforms: IPhone/iPad/Mac/PC Compatibility Announced</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Accelerate PC Search: Mastering EverywhereApp"
-date: 2024-08-16T01:11:52.253Z
-updated: 2024-08-17T01:11:52.253Z
+date: 2025-01-26T23:14:46.709Z
+updated: 2025-02-02T17:57:02.098Z
 tags:
   - windows10
   - windows11
@@ -27,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/3c1c3c36ffd528acf80507ec017f8e098843112bc
  What makes Everything so fast is how it indexes files and folders. Unlike the [Windows Search Indexer](https://www.makeuseof.com/windows-search-indexer-guide/) , which relies on both filenames and their content, Everything uses just file and folder names. Hence, indexing files and folders take less time, which, in turn, speeds up the entire process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install Everything on Windows
 
  Everything is available for all versions of Windows. And depending on whether you plan on using Everything on your or someone else's computer, you can either install it or run it as a portable executable from a thumb drive. We'll focus on installing Everything directly on a computer in this guide.
@@ -44,13 +45,11 @@ thumbnail: https://thmb.techidaily.com/3c1c3c36ffd528acf80507ec017f8e098843112bc
  Wait for a few seconds, and Everything will create a database by indexing all the files and folders on your computer
 
 ![Everything search indexed database](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-search-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Perform Basic Everything Configuration
 
  Everything works just fine out of the box. However, there are some settings and options, which you should modify to get more out of the program. Head over to**Everything Options** by clicking on**Tools > Options** or pressing the**Ctrl + P** keyboard shortcut, and you'll see a bunch of these options.
@@ -75,51 +74,35 @@ We recommend enabling the following options from here:
  When you want to look up a file or folder on your computer, click the search box at the top and start typing its name. Everything will start showing a list of all the relevant results as you do this with information like path, size, and date modified.
 
 ![simple search in Everything](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/search-file-folder-on-everything.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to limit your search to a particular drive, you can specify the drive letter in your search query. For example, using**d:\\** before your query will show you only those files and folders that are present in the**D** drive.
 
  Similarly, you can specify a folder name to tell Everything to find a file or folder inside that specific folder. For instance, if you'd like to search files inside the**Music** directory in**D** drive, your query would look like this:**d:\\music.**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Get More Information and Perform Operations on Search Results
 
  If you wish to find out details about a file/folder in the results, select it, and Everything will show its details in the status bar below.
 
 ![view details about a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/get-details-about-a-file.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 
  Similarly, you can double-click on a file or folder to open it in File Explorer. Or right-click on it to bring up the context menu.
 
  Depending on what file or folder you're doing this on, you'll see a range of options in this menu, like rename, copy full path, open path, cut, copy, delete, and more. Most of the actions you perform here will apply directly to the file/folder on the file system and reflect in the File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Sort Your Results
 
  If Everything returns multiple files and folders matching your query, you can sort them by different properties to quickly get to the item you need. To do this, click on**View** , select**Sort by** , and select a sorting option.
 
 ![Everything sorting options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-sort-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Filter Results by Type
 
  By default, when you search for something in Everything, it looks through all the indexed data, which includes different types of files and folders, to find a match. However, if you want, you can select the type beforehand to get results even faster.
@@ -127,6 +110,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  To use a filter, enter your search query in the search bar at the top, and then go to**Search** and select a file type from the available options.
 
 ![filter results by type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/filter-everything-results-by-type.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Everything will filter the results and only show you files and folders that match the specified type.
 
@@ -139,6 +126,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![match case option in Everything](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/match-case-in-everything-search.jpg)
 
  Everything will then return only those files and folders that match the specified case style.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use Advanced Search
 
@@ -166,6 +157,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 **Example:** If you want to find all the files inside the**Images** folder that are less than**15MB** , you can use the size function to get to them:**images\\ size:>15MB** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything Goes Beyond What We've Covered
 
  Everything is quite a powerful tool, as you've seen by now. However, we've only scratched the surface here, and there are several other advanced search options that it offers to simplify file and folder searches on your computer.
@@ -180,8 +175,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,8 +182,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2023-techniques-posting-tiktoks-on-twitter/"><u>[Updated] 2023 Techniques Posting TikToks on Twitter</u></a></li>
+<li><a href="https://video-capture.techidaily.com/download-and-audit-voice-recordings-for-2024/"><u>Download & Audit Voice Recordings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/erase-past-windows-decor-three-methods/"><u>Erase Past Windows Decor: Three Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-or-reinstall-lost-d3dx928dll-for-smooth-computer-operation/"><u>How to Restore or Reinstall Lost d3dx9_28.dll for Smooth Computer Operation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-y02t-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo Y02T Phone Pattern Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-admin-level-command-prompt-in-windows-11-pro/"><u>Initiating Admin-Level Command Prompt in Windows 11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-always-seeing-your-sticky-notes-in-windows/"><u>Secrets to Always Seeing Your Sticky Notes in Windows</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/titre-la-meilleure-alternative-gratuite-a-synctoy-pour-les-systemes-dexploitation-windows-11-10-et-versions-anterieures/"><u>Titre : La Meilleure Alternative Gratuite À SyncToy Pour Les Systèmes D'exploitation Windows 11, 10 Et Versions Antérieures</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-bokeh-magic-the-best-ios-and-android-apps-for-creative-blur-effects/"><u>Updated Bokeh Magic The Best iOS and Android Apps for Creative Blur Effects</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-video-editing-face-off-sony-vegas-pro-vs-adobe-premiere-pro-features-pricing-and-more/"><u>Updated In 2024, Video Editing Face-Off Sony Vegas Pro vs Adobe Premiere Pro - Features, Pricing, and More</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vivetool-blueprint-engaging-windows-companion/"><u>ViveTool Blueprint: Engaging Windows Companion</u></a></li>
+</ul></div>
 

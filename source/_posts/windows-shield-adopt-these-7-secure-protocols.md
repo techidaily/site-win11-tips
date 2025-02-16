@@ -1,7 +1,7 @@
 ---
 title: "Windows Shield: Adopt These 7 Secure Protocols"
-date: 2025-01-26T10:45:16.241Z
-updated: 2025-02-01T14:13:27.849Z
+date: 2025-01-29T23:49:27.743Z
+updated: 2025-02-02T21:16:33.559Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the Point of Security Measures Against Unauthorized Windows Access?
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
  Putting in strong checks against such attacks, therefore, is essential. Let's look at all possible options on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use a Strong PIN or Password
 
  Passwords are often the first things that spring to mind when you think of security. It's for a good reason.
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
  A strong password works like a digital lock, only letting in the people who enter the correct passcode. So if you work on a public network or if your PC is accessed by more than one person, you should have a strong password or PIN in place since yesterday.
 
 [Setting up a PIN on Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) is slightly different from putting a password on Windows. While both carry out a similar function, you might prefer one over the other depending on your interests. Whatever option you pick, make sure you always have a strong account encryption set up for your Windows from here on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set Up Two-Factor Authentication on Your Microsoft Account
 
@@ -63,16 +71,12 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
 ![windows firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/winodws-firewall.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another critical aspect of Windows security, or any network for that matter, is a firewall. A firewall works by monitoring the traffic going in and out of your PC. Depending on the set rules, a firewall works by quickly blocking out any unauthorized entering or leaving of data from your PC.
 
  On Windows, this firewall is called the Windows Firewall, which you can enable or disable with the help of Windows Security. So be sure to [set up Windows Firewall](https://www.makeuseof.com/windows-11-open-firewall-control-panel/) and you will be good to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use BitLocker
@@ -93,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
 ![man looking at laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/man-looking-at-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Social engineering](https://www.makeuseof.com/tag/social-engineering-makeuseof-explains/) is about using clever hacks and manipulating people into giving or stealing their personal information. It makes use of the common weaknesses in human nature to break into otherwise strong systems.
 
  While it is a massive topic in itself, we will give you three quick tips to stay safe from social engineering hacks:
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
  Because social engineering scams involve fooling humans, there are limited tech hacks to counter them. In fact, the most significant way to avoid them is by being mindful of the present moment and refraining from taking instant reactions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best Ways to Stop Unauthorized Access to Your Windows Computer
@@ -129,20 +129,14 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-optimal-speech-recognition-for-silent-input/"><u>[New] 2024 Approved Optimal Speech Recognition for Silent Input</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-how-to-make-a-group-chat-on-skype-for-windows-and-mac/"><u>[Updated] 2024 Approved How to Make a Group Chat on Skype [For Windows and Mac]</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-web-based-fb-music-extractor/"><u>[Updated] 2024 Approved Web-Based FB Music Extractor</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-the-ultimate-guide-to-youtubes-best-vr-video-sets/"><u>2024 Approved The Ultimate Guide to YouTube's Best VR Video Sets</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-mouse-properties-guide-to-win11-controls/"><u>Decoding Mouse Properties: Guide to Win11 Controls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-glitch-in-nvidia-experience-w11-edition/"><u>Eradicating Glitch in Nvidia Experience, W11 Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-check-for-driver-updates-on-windows-11-and-11/"><u>How to Check for Driver Updates on Windows 11 & 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-nubia-z50-ultra-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nubia Z50 Ultra Safely | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reset-blocked-app-status-on-windows-system/"><u>How to Reset Blocked App Status on Windows System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/missing-sd-card-displayed-heres-a-quick-fix/"><u>Missing SD Card Displayed? Here's a Quick Fix</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ps5-versus-ps5-slim-which-console-is-right-for-you/"><u>PS5 Versus PS5 Slim: Which Console Is Right for You?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unlocking-creative-potential-turning-graphics-into-stickers-on-chat-apps/"><u>Unlocking Creative Potential Turning Graphics Into Stickers on Chat Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-distinctions-between-windows-cloud-and-local-downloads/"><u>Unveiling Distinctions Between Windows Cloud & Local Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-hidden-windows-color-the-guide-to-fixes/"><u>Unveiling Hidden Windows Color: The Guide to Fixes</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-excellent-apps-to-keep-your-data-on-the-go-androids-cloud-keeper-list-for-2024/"><u>[New] Excellent Apps to Keep Your Data on the Go - Android's Cloud Keeper List for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-7-pro-tips-to-enhance-your-foodie-filmography/"><u>[Updated] 7 Pro Tips to Enhance Your Foodie Filmography</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/centrifugal-pumps-use-rotational-energy-from-an-impeller-to-create-fluid-flow/"><u>Centrifugal Pumps Use Rotational Energy From an Impeller to Create Fluid Flow.</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effective-strategies-to-avoid-computer-overheating-insights-from-yl-computing-and-yl-software/"><u>Effective Strategies to Avoid Computer Overheating - Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-windows-1011-climate-choices/"><u>Exclusive Windows 10/11 Climate Choices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-6s-plus-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-voice-commands-xbox-and-pc-synergy/"><u>Mastering Voice Commands: Xbox & PC Synergy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/peak-potential-identifying-the-top-pc-boosters-for-windows/"><u>Peak Potential: Identifying the Top PC Boosters for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-c0000005-error-on-your-pcs-operating-system/"><u>Remedy for C0000005 Error on Your PC's Operating System</u></a></li>
 </ul></div>
 

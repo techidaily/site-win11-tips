@@ -1,7 +1,7 @@
 ---
 title: "Decoding Drive Selection: Your Key to Effortless Gaming"
-date: 2025-01-29T09:57:57.395Z
-updated: 2025-02-01T14:24:12.736Z
+date: 2025-01-28T18:50:28.418Z
+updated: 2025-02-02T17:14:40.461Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
  To restart, press the**Alt + F4** hotkeys to open the Shut Down Windows prompt, click the drop-down icon, choose**Restart** from the context menu, and then click**OK.** After restart, launch the Xbox app and check if you can choose a different drive to install games. If not, then it's time to dive into the advanced troubleshooting methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Change the Installation Directory in the Xbox App Settings
 
  There are two places from where you can change the installation drive on the Xbox app. One is while installing the game, whereas the other is the Xbox settings menu.
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 3. Click the**Change folder** option under**Change where this app installs games by default** .  
 ![Change Folder in Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-folder.jpg)
 4. Choose the location where you want to install the game and then click the**Select Folder** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Customize the System Settings
 
@@ -58,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 ![New apps will save to section in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-apps-will-save-to-section.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it! Restart your computer and check if the problem continues.
@@ -66,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 ## 4\. Restart Important Xbox Services
 
 ![Restart Service option in Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-service.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There are certain Xbox services that must be running for you to use the Xbox app properly. If any of these services fail to start properly, you might face the problem at hand.
 
@@ -82,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 Xbox Live Game Save  
 Xbox Live Auth Manager  
 Xbox Live Networking Service`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall the Gaming Services App
 
@@ -109,7 +117,7 @@ Xbox Live Networking Service`
  After uninstalling the Gaming Services app, restart your computer. Then, open the Microsoft Store, search for and[download the Gaming Services](https://apps.microsoft.com/store/detail/gaming-services/9MWPM2CQNLHN?hl=en-us&gl=us) app again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Repair the Xbox App
@@ -117,10 +125,6 @@ Xbox Live Networking Service`
  It's very common for the Xbox app to get corrupt and throw various issues. The best way to remove corruption from the UWP apps like the Xbox app is to use the Windows repair feature.
 
  Check out[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for information on how to do this.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Update the Xbox App
 
@@ -134,10 +138,6 @@ To update the Xbox app, follow the below steps:
  The Microsoft Store will now automatically download updates for installed apps, including the Xbox app.
 
  While you're at installing updates, we'd also recommend[downloading any available Windows updates](https://www.makeuseof.com/tag/update-windows-software-guide/) . To do so, launch the Settings app, choose**Windows Update** from the left sidebar, and then click the**Check for Updates** button to install any available update on your computer. Following this, you will be able to choose a drive to install games on the Xbox app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Change the Download Location of the Xbox App
 
@@ -160,20 +160,18 @@ To update the Xbox app, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-is-there-a-cash-incentive-in-critique-videos/"><u>[Updated] 2024 Approved Is There a Cash Incentive in Critique Videos?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-efficient-strategies-for-saving-youtube-thumbnails-on-any-os/"><u>[Updated] In 2024, Efficient Strategies for Saving Youtube Thumbnails on Any OS</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-checklist-of-key-elements-in-tagging-a-video/"><u>[Updated] The Ultimate Checklist of Key Elements in Tagging a Video</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-look-at-best-videographer-selection/"><u>2024 Approved In-Depth Look at Best Videographer Selection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/data-driven-mastery-unlock-4-steps-for-accessing-disk-management-in-win11/"><u>Data-Driven Mastery: Unlock 4 Steps for Accessing Disk Management in Win11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keeping-your-vision-unique-in-a-digital-world-nightshade-for-artistic-integrity/"><u>Keeping Your Vision Unique in a Digital World: Nightshade for Artistic Integrity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-steam-connection-mainteninas-a-rust-windows-solution-guide/"><u>Mastering Steam Connection Mainteninas: A Rust-Windows Solution Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-common-cannot-find-gpeditmsc-error-in-windows/"><u>Overcoming Common Cannot Find Gpedit.msc Error in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proven-methods-eliminate-windows-11s-search-visibility/"><u>Proven Methods: Eliminate Windows 11'S Search Visibility</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/schritt-fur-schritt-anleitung-zum-zurucksetzen-von-symbolen-auf-dem-desktop-bei-windows-11/"><u>Schritt-Für-Schritt-Anleitung Zum Zurücksetzen Von Symbolen Auf Dem Desktop Bei Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-nullifying-internal-pc-keys/"><u>Techniques for Nullifying Internal PC Keys</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ideal-companion-15-tripods-and-mounts-for-gopro-excellence/"><u>The Ideal Companion 15 Tripods and Mounts for GoPro Excellence</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-your-oculus-link-in-minutes-top-6-tips-to-resolve-the-black-screen-problem/"><u>Troubleshoot Your Oculus Link in Minutes: Top 6 Tips to Resolve the Black Screen Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-server-stumbled-error-for-a-smooth-microsoft-store-experience-on-windows-11-and-11/"><u>Unblocking Server Stumbled Error for a Smooth Microsoft Store Experience on Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-and-purge-the-ultimate-windows-10-history-cleanup/"><u>Uncover & Purge: The Ultimate Windows 10 History Cleanup</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-counter-flow-strategy-reversing-your-youtube-video-sequence/"><u>[Updated] In 2024, The Counter-Flow Strategy Reversing Your YouTube Video Sequence</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-snaptweet-transporter-swift-transfer-of-tweets-content/"><u>[Updated] SnapTweet Transporter Swift Transfer of Tweets' Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-tinysnap-capture-assessment-with-variants-for-2024/"><u>[Updated] TinySnap Capture Assessment with Variants for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-note-taking-with-obsidians-artistic-touch/"><u>Elevate Note-Taking with Obsidian's Artistic Touch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-communication-translate-foreign-words-with-hotkeys/"><u>Enhance Communication: Translate Foreign Words with Hotkeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-message-display-on-discord-desktop/"><u>Fixing Failed Message Display on Discord Desktop</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-commitment-to-completion-a-guide/"><u>From Commitment to Completion: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-window-11-mails-default-html-settings-for-clarity/"><u>Overhauling Window 11 Mail's Default HTML Settings for Clarity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/precision-review-of-elite-parrots-ar-model-20-for-2024/"><u>Precision Review of Elite Parrot's AR Model 2.0 for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/seo-breakthrough-dominating-the-podcast-rankings-landscape/"><u>SEO Breakthrough Dominating the Podcast Rankings Landscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-correctly-installing-an-ms-store-app/"><u>Steps for Correctly Installing an MS Store App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformative-windows-tips-top-20-cmd-commands/"><u>Transformative Windows Tips: Top 20 CMD Commands</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers on Windows 11</u></a></li>
 </ul></div>
 

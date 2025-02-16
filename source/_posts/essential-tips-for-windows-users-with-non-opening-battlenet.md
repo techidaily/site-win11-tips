@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Windows Users With Non-Opening Battle.net
-date: 2025-01-25T21:16:17.434Z
-updated: 2025-02-01T06:10:30.987Z
+date: 2025-01-31T00:25:53.170Z
+updated: 2025-02-02T22:23:17.656Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 
  In addition, running the software in compatibility mode might help some users fix Battle.net not opening. You can do that by selecting the**Run this program in compatibility mode** option on the same**Compatibility** tab. Choose Windows 8 on the drop-down menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Delete the Battle.net and Blizzard Entertainment Data Folders
 
  Battle.net and Blizzard Entertainment are two cache folders for Blizzard’s game launcher software. The Battle.net software often doesn’t start right when those folders contain corrupted data. Deleting those directories will clear Battle.net’s cache.
@@ -55,15 +51,23 @@ This is how you can erase those folders in Windows 11/10:
 4. Right-click the Battle.net directory and select the**Delete** context menu option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-button.jpg)
 5. Next, erase the Blizzard Entertainment folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Try opening Battle.net again.
 
  This should hopefully clear any cache issues and Battle.net should open correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check the Secondary Logon Service Is Enabled
 
@@ -73,13 +77,14 @@ This is how you can erase those folders in Windows 11/10:
 2. Double-click**Secondary Logon** to view the properties window for that service.  
 ![The Secondary Logon service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/secondary-logon-service.jpg)
 3. Set the**Startup type** option to**Automatic** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the**Start** service button for Secondary Logon.  
 ![The Secondary Logon Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-logon-properties-window.jpg)
 5. Remember to select**Apply** to save the setting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Select**OK** to exit the Secondary Logon Properties window.
 7. Click**Restart** on the Start menu in Windows 11/10.
@@ -87,7 +92,7 @@ This is how you can erase those folders in Windows 11/10:
  If you find Secondary Logon is already enabled, restart the service instead. Right-click Secondary Logon on the Services window to select**Restart** . Or you can click**Stop** and**Start** in the service’s properties window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off the Windows Defender Firewall
@@ -98,10 +103,6 @@ This is how you can erase those folders in Windows 11/10:
 2. Select the**Turn Windows Defender Firewall on or off** navigation option on the left of the applet.  
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-defender-control-panel-applet.jpg)
 3. Click the**Turn off Windows Defender Firewall** options for both the public and private network settings.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Turn off Windows Defender Firewall radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-off-windows-defender-firewall-settings.jpg)
 4. Select**OK** to save the new WDF options.
@@ -128,12 +129,12 @@ This is how you can erase those folders in Windows 11/10:
 ![The LAN settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/LAN-settings-button.jpg)
 6. Uncheck (deselect) the**Use a proxy server** option if its checkbox is selected.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-use-a-proxy-server-checkbox.jpg)
 7. Press the**OK > Apply** buttons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Malware can activate a proxy server setting on Windows. If you discover a proxy server enabled, but didn’t select it yourself, consider manually running an antivirus scan. Our[Windows Security (Defender) guide](https://www.makeuseof.com/windows-11-quick-security-guide/) tells you how to run a scan with the built-in antivirus utility on Windows.
 
@@ -143,6 +144,10 @@ This is how you can erase those folders in Windows 11/10:
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-services-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After setting a clean boot, restart your PC and try launching Battle.net. Did that potential resolution work? If it did, clean booting likely eliminated a program or service conflicting with Battle.net. Then you can keep the boot configuration as it is or attempt to figure out what software or service caused the issue.
 
 ## 8\. Reinstall the Battle.net Software
@@ -150,10 +155,6 @@ This is how you can erase those folders in Windows 11/10:
  Finally, reinstall Battle.net Launcher if all else fails. Reinstalling that software will replace its files and ensure you’re utilizing the latest version. That won’t uninstall games installed with Battle.net.
 
 ![The Programs and Features Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-programs-and-features-applet.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can remove Battle.net in Control Panel’s Programs and Features applet, as outlined in our[guide for uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After uninstalling the game launcher, open the[Battle.net desktop app](https://www.blizzard.com/en-us/apps/battle.net/desktop) download page; click**Download for Windows** on that page. Then double-click the**Battle.net-Setup.exe** file in whatever folder it downloaded to, and go through the setup wizard to install.
 
@@ -178,19 +179,22 @@ This is how you can erase those folders in Windows 11/10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-5-webcams-for-cutting-edge-twitch-live-streaming-quality/"><u>[New] In 2024, Top 5 Webcams for Cutting-Edge Twitch Live Streaming Quality</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-best-value-video-meeting-applications-compatible-with-both-windowsmac/"><u>[Updated] Best Value Video Meeting Applications Compatible with Both Windows/MAC</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-treasure-trove-of-9-complete-holiday-flicks-free-streaming/"><u>2024 Approved A Treasure Trove of 9 Complete Holiday Flicks, Free Streaming</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-securing-your-gaming-victories-through-fbx/"><u>2024 Approved Securing Your Gaming Victories Through FBX</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-error-x800704cf-on-windows-1111/"><u>Disabling Error X800704CF on Windows 11/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-experience-the-best-10-uses-for-powertoys/"><u>Enhance Your Experience: The Best 10 Uses for PowerToys</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/facebooks-full-spectrum-maximizing-story-linking/"><u>Facebook's Full Spectrum Maximizing Story Linking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-error-code-0xc00000f-on-windows-pc/"><u>How to Fix Error Code 0Xc00000f on Windows PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-12-mini-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 12 mini?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/hp-envy-27-leading-edge-4k-monitor-review/"><u>HP Envy 27 Leading Edge 4K Monitor Review</u></a></li>
-<li><a href="https://driver-download.techidaily.com/newest-compatible-driver-update-brother-hl-2240-for-windows-systems/"><u>Newest Compatible Driver Update: Brother HL-2240 for Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-the-application-couldnt-start-code-0xc000003e-in-win11/"><u>Steps to Resolve The Application Couldn't Start: Code 0XC000003E in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-a-driverirqlnotlessorequal-on-pc/"><u>Tackling A DRIVER_IRQL_NOT_LESS_OR_EQUAL on PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-canon-pixma-mg2522-driver-a-step-by-step-tutorial/"><u>Update Your Canon PIXMA MG2522 Driver - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-light-up-the-screen-techniques-for-stunning-youtube-visuals/"><u>[New] Light Up the Screen Techniques for Stunning YouTube Visuals</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-get-ready-to-download-best-ios-apps-transforming-fb-videos/"><u>[Updated] 2024 Approved Get Ready to Download Best iOS Apps Transforming FB Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-gameplay-journey-top-10-adventures-in-gaming/"><u>[Updated] The Ultimate Gameplay Journey Top 10 Adventures in Gaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-artful-annotation-distortion-techniques/"><u>2024 Approved Artful Annotation Distortion Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-workflow-speed-with-effective-fixes-for-excel-on-windows/"><u>Boost Workflow Speed with Effective Fixes for Excel on Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/crafting-a-perfect-paradise-the-top-stardew-valley-mods-7-14/"><u>Crafting a Perfect Paradise The Top Stardew Valley Mods (#7-14)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-vehicle-electrification-the-key-differences-between-bev-phev-fcev-and-hybrid-options/"><u>Decoding Vehicle Electrification: The Key Differences Between BEV, PHEV, FCEV, & Hybrid Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-1011-iphone-picture-import-glitches/"><u>Fixing Windows 10/11 iPhone Picture Import Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/for-the-newcomer-in-windows-11-world-sidestep-these-8-missteps/"><u>For the Newcomer in Windows 11 World, Sidestep These 8 Missteps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/giggle-grove-memetic-magic-for-all-ages/"><u>Giggle Grove Memetic Magic for All Ages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-recovery-for-non-functional-windows-software/"><u>Immediate Recovery for Non-Functional Windows Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-infinix-hot-40-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Infinix Hot 40 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-win-gameplay-with-dxvk-why-gamers-should-care/"><u>Maximize Win Gameplay with DXVK – Why Gamers Should Care</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-it-admin-access-restricted-on-windows/"><u>Resolving 'IT Admin Access Restricted' On Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-app-crash-common-issues-and-fixes/"><u>Resolving Windows App Crash: Common Issues & Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/side-by-side-comparison-how-does-the-newly-launched-roku-express-stack-up-against-the-original-roku-stick/"><u>Side-by-Side Comparison: How Does the Newly Launched Roku Express Stack Up Against the Original Roku Stick?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-cleansing-windows-arp-cache/"><u>Understanding and Cleansing Windows ARP Cache</u></a></li>
 </ul></div>
 

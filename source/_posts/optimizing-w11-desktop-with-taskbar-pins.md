@@ -1,7 +1,7 @@
 ---
 title: Optimizing W11 Desktop with Taskbar Pins
-date: 2025-01-28T21:18:09.314Z
-updated: 2025-01-31T22:08:53.599Z
+date: 2025-01-29T16:59:48.413Z
+updated: 2025-02-02T19:17:40.218Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 2. Click/tap on **Pin to taskbar**.  
 ![Open App Being Pinned to Windows 11 Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-pin-open-app-to-taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Pin a Windows 11 App to the Taskbar From the Start Menu or All Apps Menu
 
  If there's an app from the Start menu that you use a lot, you can save an extra click by pinning it to the taskbar instead.
@@ -63,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![App Being Pinned From Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-pin-app-from-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Pin a Folder to Windows 11's Taskbar
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![Shortcut Being Created to Pin Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-right-click-folder-to-pin-to-taskbar.jpg)
 2. **Right-click** or press and hold on the folder shortcut on your desktop, then click/tap on **Properties**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the **Shortcut** tab, add the word **explorer** followed by a space, in front of the **Target** path, which as you can see in the screenshot is "C:\\Users\\Neeraj\\Pictures\\Screenshots". Then click/tap on **Apply.**  
 ![Type Explorer in Shortcut Target Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-type-explorer-in-shortcut-target-path.jpg)
 4. Click/tap on the **Change icon** button.
@@ -82,13 +82,13 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![Folder Icon Being Chosen to Pin Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-choose-folder-icon-and-press-apply.jpg)
 6. Then, in the folder Properties, click/tap on **OK**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. The icon of the folder's shortcut on your desktop would have changed to the icon you had selected. **Right-click** or press and hold on the folder shortcut, then click/tap on **Show more options** **\> Pin to taskbar**, as in the screenshot below.  
 ![Folder Shortcut Being Pinned to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-pin-folder-shortcut-to-taskbar.jpg)
 8. Your folder is now pinned to the taskbar. Just open with a click/tap.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Folder Shortcut Icon Pinned to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-folder-shortcut-pinned-to-taskbar.jpg)
 9. Delete the folder shortcut on your desktop.
@@ -103,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
  Once done, you will be able to open your pinned file with a click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Pin a Drive to the Windows 11 Taskbar
 
  If you have several drives set up on your PC, you can pin them to the taskbar for quick and easy access.
@@ -113,16 +117,16 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 3. A prompt to create the drive's shortcut on the desktop will pop up. Click/tap on **Yes** to create the shortcut.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Prompt to Create Drive Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/10-click-yes-on-shortcut-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After this, the process is the same as we covered above for pinning a folder from step 2 onwards. So follow those steps to pin your preferred drive to the taskbar. Of course, just replace the word "folder" with the word "drive" instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Pin a Website to the Taskbar From Microsoft Edge
 
@@ -132,6 +136,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 2. Open the site you want to pin to the taskbar. I opened <https://www.makeuseof.com> in this example.
 3. Click/tap on the 3-dots menu **Settings and more** **\> More tools > Pin to taskbar**.  
 ![Website Being Pinned From Edge Browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/11-pin-website-from-edge-browser.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Pin a Website or Webpage to the Taskbar From Chrome
 
@@ -146,7 +154,7 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 4. A prompt to name the shortcut will pop up as seen in the screenshot below. Here, you can personalize the shortcut to better identify it. For this shortcut, I have named "Gmail-Neeraj" to better describe where it leads. Once you're done, click on **Create**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Gmail Shortcut Being Named to Pin to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/13-name-gmail-shortcut.jpg)
@@ -155,7 +163,7 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![Gmail Shortcut Pinned To Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/14-gmail-shortcut-pinned-to-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortunately, this feature isn't restricted to just Gmail. You can follow these steps on any website to pin it to your taskbar quickly and easily.
@@ -174,17 +182,9 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![Switch from Search box to Search icon in Taskbar Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/15-change-search-box-to-search-icon-on-taskbar-1.jpg)
 4. Click on the **Down arrow** next to the **Search box** to open the options. And switch from the **Search box** to **Search icon only**. Instantly, you will find the **Search icon** on the taskbar instead of the Search box.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![More Apps Pinned by Changing to Search icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/16-pin-more-apps-with-more-space.jpg)
 
  So now, you have more space to add a few more apps or almost anything to the taskbar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Customize the Windows 11 Taskbar and Add Another Taskbar Too
 
@@ -210,21 +210,18 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-software-for-enthusiasts-top-5-ps1-emulators/"><u>[New] Essential Software for Enthusiasts Top 5 PS1 Emulators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hymn-based-ringtone-options-for-every-believer/"><u>[New] Hymn-Based Ringtone Options for Every Believer</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-gaming-and-video-content-showdown-twitch-and-youtube-compared/"><u>[Updated] Gaming and Video Content Showdown Twitch & YouTube Compared</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-windows-sonic-conflicts/"><u>Clearing Up Windows' Sonic Conflicts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-controlling-chromes-autonomous-tabs/"><u>Guidelines for Controlling Chrome's Autonomous Tabs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/how-to-get-your-fb-message-videos-flowing-again-on-mobile-devices/"><u>How to Get Your FB Message Videos Flowing Again on Mobile Devices</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Without Passcode?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-implement-three-column-layouts-in-win11-ui/"><u>How To: Implement Three-Column Layouts in Win11 UI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-personalized-window-snaps-in-windows/"><u>Step-by-Step Guide: Personalized Window Snaps in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-potential-with-kali-integration-in-windows/"><u>Unleash Potential with Kali Integration in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/user-directory-customization-in-windows-11/"><u>User Directory Customization in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wsl-impact-on-desktop-linux-popularity/"><u>WSL Impact on Desktop Linux Popularity</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728471220713-windows-11windows-7/"><u>デュアルブートを楽にして、Windows 11とWindows 7</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagram-maximizing-post-engagement/"><u>[New] Mastering Instagram Maximizing Post Engagement</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ransforming-youtube-content-advanced-strategies-to-perfect-videos-after-publishing/"><u>[New] Transforming YouTube Content Advanced Strategies to Perfect Videos After Publishing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hearing-heroism-essential-online-picks-for-tts-files/"><u>[Updated] Hearing Heroism Essential Online Picks for TTS Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-budget-game-capture-options-ranked-no-1-10/"><u>[Updated] In 2024, Best Budget Game Capture Options Ranked No. 1-10</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-perfect-picture-spotlights-how-to-zoom-in-and-out-on-insta-stories/"><u>[Updated] Perfect Picture Spotlights How to Zoom in & Out on Insta Stories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chip-harmony-editors-reap-the-benefits-of-syncopated-precision/"><u>In 2024, Chip Harmony Editors Reap the Benefits of Syncopated Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-low-latency-techniques-for-discord-on-windows/"><u>Mastering Low-Latency Techniques for Discord on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-persistent-failures-of-cp-configurations-on-win11/"><u>Mending Persistent Failures of CP Configurations on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-unsuccessful-nvidia-connect-attempts-in-windows-11/"><u>Resolving Unsuccessful Nvidia Connect Attempts in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-recover-from-failed-discord-games-detection-on-windows/"><u>Steps to Recover From Failed Discord Games Detection on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-storage-4-methods-to-tap-into-windows-11s-disk-manager/"><u>Streamline Storage: 4 Methods to Tap Into Windows 11'S Disk Manager</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-10-for-mac-gif-capturing-expert-reviews-for-2024/"><u>Top 10 for Mac GIF Capturing Expert Reviews for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-the-secrets-of-windows-iscsi-initiator-accessibility/"><u>Uncovering the Secrets of Windows iSCSI Initiator Accessibility</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Guide: Adding Emulators to Playnite on PC"
-date: 2024-08-16T01:12:38.780Z
-updated: 2024-08-17T01:12:38.780Z
+date: 2025-01-26T17:56:06.648Z
+updated: 2025-02-02T19:29:29.390Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 
 ![Playnite Add Ons Browse For More Metadata Sources Wikipedia Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-add-ons-browse-for-more-metadata-sources-wikipedia-selected.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Since we are dealing with emulated content and retro games, we suggest you install the following metadata sources:
 
 * GameTDB Metadata Provider
@@ -56,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 
  You can click on each one in Playnite and check the details pane to learn more about them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The "Generic" Page
 
  Although we won't use them for this article, Playnite has some emulation-related add-ons, making your retro-gaming life easier.
@@ -66,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
  You can find those on the **Generic** page, directly below the **Metadata Sources** page we saw above.
 
 ![Playnite Add Ons Browse For More Generic Emulation Toolbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-add-ons-browse-for-more-generic-emulation-toolbox.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  The ones we suggest you check are the following:
 
@@ -88,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 
  That's useful for a seamless gaming experience, especially if you're also using your PC as a media center/console alternative, and want to keep it joypad-friendly. If you're in the opposite camp, you might prefer multitasking on your ultrawide monitor and keeping multiple windows in view. For that, check our guide on [how you can force all your games into windowed mode in Windows 10 & 11](https://www.makeuseof.com/windows-10-11-windowed-mode-games/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Prevent Automatic ROM Scans
 
  Are you often adding or removing titles to your emulated games collection or otherwise fiddling with it? You might want to avoid including your emulated games in Playnite's regular library updates. Having Playnite rescan huge ROM libraries with thousands of files could make the app crawl.
@@ -99,11 +101,6 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
  Then, select **Updating** in the navigational tree on the left of that window. Use the drop-down menu on the right of **Scan emulation folders** to change its value to **Only manually**. Then, click **Save** to register your tweak and exit that window.
 
 ![Playnite Settings Updating Emulation Folders Only Manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-settings-updating-emulation-folders-only-manually.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
  With that out of the way, it's time to add some emulators to Playnite.
 
@@ -112,8 +109,13 @@ The powerful video editing program for your Windows PC</a>
 ![Playnite Menu Library Configure Emulators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-library-configure-emulators.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Download Emulators in Playnite
 
  There are dozens of emulators available for every retro platform imaginable. If they support flags, you can use them through Playnite. However, you'll have to create a configuration for them yourself. Thankfully, Playnite already supports many of them and offers predefined configurations that enable their use without lifting a finger to "add support" for them.
@@ -135,8 +137,9 @@ The powerful video editing program for your Windows PC</a>
  With those flags, and depending on the emulator, you can, for example, set a specific resolution for launching your games, change the input device you'll use for playing, etc.
 
 ![Playnite Configure Emulators Duckstation Default Profile Arguments](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-emulators-duckstation-default-profile-arguments.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also create more profiles with alternative configurations for each emulator. Still, we won't go over this in this article.
@@ -144,8 +147,9 @@ The powerful video editing program for your Windows PC</a>
  Since you can use many emulators for each platform, Playnite treats emulators and emulated platforms distinctly. By visiting the second tab of that window, **Auto-scan Configurations**, you can select with which emulator you want to scan a platform's titles. You can also choose if they should be included in the update scans of your whole Playnite game library.
 
 ![Playnite Configure Auto Scan Configurations PS3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-auto-scan-configurations-ps3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Depending on how you keep your game ROMs stored and the chosen emulator, you can also select if you want to import those titles using a relative path, scan the chosen platform's folder for more games within subfolders, scan inside archives, and if all files related to a title should be presented individually or "merged" into a single library entry.
@@ -159,13 +163,14 @@ The powerful video editing program for your Windows PC</a>
 
 ![Playnite Menu Update Game Library Update Emulated Folders Update All](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-update-game-library-update-emulated-folders-update-all.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Playnite might ask you from which metadata source to "pull" details for a title. The app may also ask you to ensure it identified some games correctly, presenting a list of titles for them it deems similar.
 
  After a while, your Playnite library should present all your emulated titles for all the emulators and platforms you've added among your "native" PC games.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Navigating Your Emulated Games in Playnite
 
  You can treat your emulated games through Playnite like your installed "native" PC games. You can use Playnite's **Search** functionality, accessible from the field on the top left of its interface, to seek a particular title based on its name.
@@ -175,23 +180,17 @@ The powerful video editing program for your Windows PC</a>
  To do that, visit Playnite's **Filters** pane, and find the aptly-named **Platform** filter. From there, select the platform whose titles you want to see.
 
 ![Playnite Filtering Library Down To Sony PlayStation 3 Titles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-filtering-library-down-to-sony-playstation-3-titles.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To play a game, since thanks to your actions above Playnite knows which emulator to use to launch it, you can simply click on its **play icon**.
 
 ![Playnite Seeking God Of With God Of War III Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-seeking-god-of-with-god-of-war-iii-selected.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If, even after you have access to every single game on your PC through Playnite, it still doesn't cut it for you, there are alternatives worth trying. Check [our list of the best game launchers to launch and organize PC games](https://www.makeuseof.com/tag/pc-game-launchers/), but keep in mind that many of them are less emulation-friendly.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Retro Gaming Made Easier With Playnite
 
  Playnite's major pro is how it can unify all your titles from all your libraries, no matter the digital store you bought them from, and present them through an easy-to-navigate interface. Thanks to everything we saw here, you can add all your emulated games to the mix.
@@ -200,8 +199,6 @@ The powerful video editing program for your Windows PC</a>
 
  Let's see how you can have Playnite detect them, scan your emulated games, and include them in your unified game library.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -209,5 +206,22 @@ The powerful video editing program for your Windows PC</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-essential-distinctions-between-metaverse-and-multimeva/"><u>[New] In 2024, The Essential Distinctions Between Metaverse and Multimeva</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-making-a-buzz-aesthetic-strategies-for-podcast-brands-for-2024/"><u>[New] Making a Buzz Aesthetic Strategies for Podcast Brands for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-srt-fundamentals-explored-in-detail-and-clarity/"><u>[Updated] SRT Fundamentals Explored in Detail and Clarity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-htc-vive-review-the-epitome-of-ultimate-virtual-reality-playtime/"><u>2024 Approved HTC Vive Review The Epitome of Ultimate Virtual Reality Playtime</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amend-non-working-shortcuts-solve-f-keys-issue-on-windows-11/"><u>Amend: Non-Working Shortcuts - Solve F Keys Issue on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-instructions-for-hp-840-g3-printer-drivers/"><u>Easy Installation Instructions for HP 840 G3 Printer Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-setup-for-your-steelseries-keyboard-with-free-engine-driver-download/"><u>Easy Setup for Your SteelSeries Keyboard with Free Engine Driver Download</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-linux-performance-via-windows-apps/"><u>Elevating Linux Performance via Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-windows-camera-recording-retention/"><u>Expert Tips for Windows Camera Recording Retention</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-trigger-or-suppress-windows-file-dialogs/"><u>How to Trigger or Suppress Windows File Dialogs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-the-most-of-windows-11s-enhanced-bar/"><u>Make the Most of Windows 11'S Enhanced Bar</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-video-captioning-on-youtube-for-2024/"><u>Mastering Video Captioning on YouTube for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-onedrive-overcoming-delayed-folder-upload-errors/"><u>Mastering Windows OneDrive: Overcoming Delayed Folder Upload Errors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unveiling-the-secrets-of-professional-srt-file-generation-for-2024/"><u>Unveiling the Secrets of Professional SRT File Generation for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-swift-notification-off-switch/"><u>Windows 11: Swift Notification OFF Switch</u></a></li>
+</ul></div>
 

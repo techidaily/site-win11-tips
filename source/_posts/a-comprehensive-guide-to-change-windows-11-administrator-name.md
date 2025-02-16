@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Guide to Change Windows 11 Administrator Name
-date: 2024-08-16T01:12:42.916Z
-updated: 2024-08-17T01:12:42.916Z
+date: 2025-01-28T23:40:40.872Z
+updated: 2025-02-02T20:58:42.988Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,19 @@ thumbnail: https://thmb.techidaily.com/cbf529e05dd3135fe67a52edb00f230c5ea151216
 6. Under your Profile photo, you'll see your name. Click the**Edit name** option and enter your new name.  
 ![Modify Microsoft Account Name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/modify-microsoft-account-name.jpg)
 7. To ensure that you are a real person and not an automated program, type the characters in the Captcha field.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click the**Save** changes button, and you're all set.
 
  Your Microsoft account administrator name has been successfully changed.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Change the Administrator Name Through Control Panel
 
  The Control Panel is a graphical user interface (GUI) in Microsoft Windows that you can use to change your computer's hardware and software features.
@@ -50,16 +56,18 @@ thumbnail: https://thmb.techidaily.com/cbf529e05dd3135fe67a52edb00f230c5ea151216
 2. In the Control Panel window, scroll down and click**User Accounts** .
 3. On the right side of the page, click the**Change your account name** link.  
 ![Change your account name in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-your-account-name-in-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Enter the new name and click**Change Name** .  
 ![Rename account in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rename-account-in-control-panel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your Microsoft account administrator name will now be changed. Now you can access all the services provided by Windows with your new name.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Change the Administrator Name Through Command Prompt
 
@@ -78,9 +86,9 @@ thumbnail: https://thmb.techidaily.com/cbf529e05dd3135fe67a52edb00f230c5ea151216
  Press**Enter** to apply the changes. Your Microsoft account administrator name has been successfully changed. You can now sign in with your new Microsoft account administrator.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Change the Administrator Name Through Run Command
 
  Another tool you can use to change the Microsoft account administrator name is the Run dialog command. Here's how to do it:
@@ -89,29 +97,20 @@ thumbnail: https://thmb.techidaily.com/cbf529e05dd3135fe67a52edb00f230c5ea151216
 2. In the Run dialog box, type**netplwiz** and press Enter. This will open the User Accounts window.
 3. Select the Microsoft account you want to change and click**Properties** .  
 ![Change the account name in User Account window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-the-account-name-in-user-account-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Under the**General** tab, enter the new name in the**Full Name** field.
 5. Click**Apply > OK** to save the changes.
 
 Your Microsoft account administrator name is now changed.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Make a Change to Your Windows Admin Name
 
  Need to change the name of your Microsoft Account administrator? All you have to do is follow the instructions outlined in this article and your Microsoft account administrator name will be changed.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,8 +119,18 @@ Your Microsoft account administrator name is now changed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-expertly-curated-audio-experience-on-android/"><u>[New] Expertly Curated Audio Experience on Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-30-beneath-the-surface-tips-for-optimized-windows-11/"><u>[New] In 2024, Top 30 Beneath-the-Surface Tips for Optimized Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unlocking-the-door-to-seamless-zoom-sessions/"><u>[Updated] 2024 Approved Unlocking the Door to Seamless Zoom Sessions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/pchdd/"><u>早押しスキルでPCデータを安全に外部HDDへ移行する手順</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/address-the-empty-spaces-for-windows-11-image-tiles/"><u>Address the Empty Spaces for Windows 11 Image Tiles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/beyerdynamic-mmx-300-pro-assessment-excellent-audio-quality-with-simple-features/"><u>BeyerDynamic MMX 300 Pro Assessment - Excellent Audio Quality with Simple Features</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/deciphering-cameras-smart-hdr-features-and-their-impact-for-2024/"><u>Deciphering Camera's Smart HDR Features and Their Impact for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-organize-your-notes-visually-with-obsidian-canvas/"><u>How to Organize Your Notes Visually With Obsidian Canvas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-offline-windows-enhancements/"><u>Navigating Offline Windows Enhancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-geforce-experience-settings-retrieval-issues/"><u>Overcoming GeForce Experience Settings Retrieval Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-next-chapter-begins-with-moment-22h2s-features/"><u>Windows 11'S Next Chapter Begins With Moment #22H2's Features</u></a></li>
+</ul></div>
 

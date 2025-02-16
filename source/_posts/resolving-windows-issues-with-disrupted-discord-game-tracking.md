@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows Issues with Disrupted Discord Game Tracking
-date: 2025-01-26T16:56:12.483Z
-updated: 2025-02-01T04:04:28.407Z
+date: 2025-01-26T16:22:33.601Z
+updated: 2025-02-02T17:40:53.279Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But First, Some Preliminary Checks
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 ![Clicking on the Run as Administrator Option by Right-clicking on the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Clicking-on-the-Run-as-Administrator-Option-by-Right-clicking-on-the-Discord-App-on-Windows-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Play the game again and see if Discord's game detection feature detects it this time. If not, proceed to the next fix.
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 5. Let the changes take effect by relaunching Discord.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Move on to the next fix if the activity status feature was already enabled or if enabling the feature makes no difference.
@@ -99,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
 ![Checking the Discord Version in Discord’s User Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/7-Checking-the-Discord-Version-in-Discord’s-User-Settings-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If they match, your Discord app is updated. If not, you can update the app by following these steps:
 
 1. At the right end of the taskbar, open the **System Tray**.
@@ -106,19 +110,11 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 ![Clicking on Check for Updates by Right-clicking on Discord in the Windows System Tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/8-Clicking-on-Check-for-Updates-by-Right-clicking-on-Discord-in-the-Windows-System-Tray.jpg)
 3. Relaunch Discord, and hopefully, the updates will be automatically installed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Ensure Your Antivirus or Firewall Isn't Blocking Discord's Game Detection
 
  Your antivirus or Windows Defender Firewall can also prevent Discord from detecting the game. Discord won't be able to detect the game if its access to it has been restricted. To rule out this possibility, you must whitelist Discord in the Windows Defender Firewall or antivirus settings.
 
  If you use the antivirus that comes included with Windows, check out our article on [how to whitelist files in Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you aren't familiar with the process. If you use a third-party program, each antivirus software has a different process for whitelisting an app in its settings. Refer to the official website or documentation of your antivirus for more information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Manually Add the Game to Discord
 
@@ -130,15 +126,19 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 ![Clicking on the Registered Games Option Under Activity Settings in User Settings in the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/9-Clicking-on-the-Registered-Games-Option-Under-Activity-Settings-in-User-Settings-in-the-Discord-App-on-Windows.jpg)
 4. Next to "Not seeing your game?", click on **Add it**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the box, paste the path to the game's executable file.  
 ![Pasting the Path to the Game’s Executable File in the Box under Add it Option in the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/11-Pasting-the-Path-to-the-Game’s-Executable-File-in-the-Box-under-Add-it-Option-in-the-Discord-App-on-Windows.jpg)
 6. Select the game from the search results.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  By following the above instructions, you will be able to add the game to Discord manually and show up as you are playing it now. Even though it's handy, you'll have to add the game every time you play it and remove it when you're done. Reinstalling Discord will help you overcome this problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall Discord
 
@@ -164,20 +164,20 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/smr-knowledge-beyond-what-you-see-for-2024/"><u>[New] ASMR Knowledge Beyond What You See for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-charting-the-course-from-adsense-income-to-savings/"><u>[New] Charting the Course From AdSense Income to Savings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-ethical-engagement-sustainable-strategies-for-content-creeps/"><u>[New] In 2024, Ethical Engagement Sustainable Strategies for Content Creeps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-recode-video-files-to-audio-outputs/"><u>[New] In 2024, Recode Video Files to Audio Outputs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/dont-get-left-behind-secure-your-online-presence-ahead-of-schedule-amidst-googles-controversial-decision-to-cleanse-abandoned-user-profiles-digital-safety-u34/"><u>Don't Get Left Behind: Secure Your Online Presence Ahead of Schedule Amidst Google's Controversial Decision to Cleanse Abandoned User Profiles | Digital Safety Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-delayed-downloads-on-your-windows-system/"><u>Fixing Delayed Downloads on Your Windows System</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-itel-p40-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Itel P40 to Protect Your Individual Information</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-diagnostic-tools-in-winos/"><u>Restoring Functionality to Diagnostic Tools in WinOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/right-click-for-the-win-add-compatibility-tools-to-your-menu/"><u>Right-Click for the Win: Add Compatibility Tools to Your Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-smooth-msstore-operation-after-error-0x0-in-windows-os/"><u>Securing Smooth MsStore Operation After Error 0X0 in Windows OS</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simple-steps-for-fixing-javascript-glitches-on-discord-platform/"><u>Simple Steps for Fixing JavaScript Glitches on Discord Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-reset-power-configurations-in-windows/"><u>Techniques to Reset Power Configurations in WIndows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-snipping-tool-how-to-record-audio-and-video-simultaneously-on-windows-11-max-156/"><u>Unlocking Snipping Tool: How to Record Audio and Video Simultaneously on Windows 11 (Max 156)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-becoming-a-meet-maestro-chat-techniques-unveiled-for-2024/"><u>[New] Becoming a Meet Maestro Chat Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/t7/"><u>容易なサムスンT7ドライブ形式変更手順をご紹介</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapting-oculus-quest-2-as-a-windows-vr-device/"><u>Adapting Oculus Quest 2 as a Windows VR Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-responsive-spotify-app-on-windows-11-pcs/"><u>Fixing Non-Responsive Spotify App on Windows 11 PCs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebooks-recent-views-uncovered-for-you/"><u>In 2024, Facebook’s Recent Views Uncovered for You</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-viewership-live-stream-optimization-techniques/"><u>In 2024, Maximizing Viewership Live Stream Optimization Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-professional-camera-choices-complete-360-guide-2023/"><u>In 2024, Top Professional Camera Choices - Complete 360 Guide 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-video-drivers-errors/"><u>Mastering the Art of Fixing Video Drivers Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-local-drive-space-in-windows-11-safely-no-data-loss-max-156-chars/"><u>Maximize Your Local Drive Space in Windows 11 Safely (No Data Loss, Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unreachable-issues-fixing-mb-service-disconnect-in-windows-11/"><u>Overcoming Unreachable Issues: Fixing MB Service Disconnect in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-computers-top-8-windows-tricks/"><u>Reinvigorating Computers: Top 8 Windows Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-non-scrolling-issue-in-microsoft-excel-pc/"><u>Resolve Non-Scrolling Issue in Microsoft Excel PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-workday-woes-into-productivity-peaks-using-windows-11s-tools/"><u>Transform Workday Woes Into Productivity Peaks Using Windows 11'S Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/xbox-game-memories-save-them-with-screenshots-in-2024/"><u>Xbox Game Memories, Save Them with Screenshots, In 2024</u></a></li>
 </ul></div>
 

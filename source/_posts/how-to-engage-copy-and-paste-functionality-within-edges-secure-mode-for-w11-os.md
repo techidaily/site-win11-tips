@@ -1,7 +1,7 @@
 ---
 title: How To Engage Copy & Paste Functionality Within Edge's Secure Mode for W11 OS
-date: 2025-01-27T04:53:49.590Z
-updated: 2025-01-31T22:32:12.204Z
+date: 2025-02-01T01:29:30.211Z
+updated: 2025-02-02T18:42:26.155Z
 tags:
   - windows10
   - windows11
@@ -38,14 +38,14 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 6. Search for the**Copy and paste** option, then click the toggle to enable it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Enable Copy and Paste via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-via-windows-settings.jpg)
 7. The UAC prompt will appear on the screen. Click**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve completed the steps, restart your computer for the changes to work. Now, you can securely transfer data between a virtualized environment and your device without any worries about security risks - malicious websites and applications will be blocked even with this setting enabled.
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
  If you ever need to disable copy and paste in Application Guard for Edge, you can follow the same steps mentioned above. Just be sure to toggle off the Copy and Paste setting from the Isolated browsing menu instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Enable Copy and Paste Using Registry Editor
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 3. Put**EnableClipboard** as the name for the new DWORD key, then press Enter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click twice on the newly created DWORD key to open a pop-up window.
@@ -83,15 +83,15 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 ![Enable Copy and Paste with Application Guard for Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-with-application-guard-for-edge.jpg)
 6. Finally, click**OK** to save your changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve completed the steps, close any running applications and restart your computer
 
  If you'd like to turn off this feature, just repeat the aforementioned steps, but set the Value data to**0** and click**OK** . That's all it takes for your changes to be put into effect!
 
  Now that you've read the above steps, you should have a clear understanding of how to enable and disable copy and paste within Application Guard for Edge on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Copy and Paste Now Works With Edge Application Guard
 
@@ -112,14 +112,18 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-leading-android-moba-games-unveiled/"><u>[New] Leading Android MOBA Games Unveiled</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-breaking-boundaries-with-eizos-spectaculous-cg318-4k/"><u>[Updated] In 2024, Breaking Boundaries with EIZO's Spectaculous CG318-4K</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1728487196676-windows-11/"><u>耐久性を確保：Windows 11ブート領域消失後のリカバリ手順</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-the-0x800700e9-error-a-step-by-step-approach/"><u>Eliminating the 0X800700E9 Error: A Step-by-Step Approach</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-page-not-loaded-issue-in-windows-store/"><u>Fixing 'Page Not Loaded' Issue in Windows Store</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pixeled-up-transform-your-shots-for-free/"><u>In 2024, Pixeled-Up Transform Your Shots for Free</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionary-techniques-for-freeing-up-disk-space-in-win11-without-file-deletion-max-156-chars/"><u>Revolutionary Techniques for Freeing Up Disk Space in Win11 Without File Deletion (Max 156 Chars)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/swift-windows-insight-sharing-methods/"><u>Swift Windows Insight Sharing Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfreezing-stalled-files-transfers-in-windows-11-environment/"><u>Unfreezing Stalled Files Transfers in Windows 11 Environment</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elite-channel-analyzer-top-youtube-positioning-tool/"><u>[New] 2024 Approved Elite Channel Analyzer Top YouTube Positioning Tool</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-mastering-the-moment-detailed-analysis-of-slomo-2024/"><u>[New] Mastering the Moment Detailed Analysis of SloMo, 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-excellent-4k-televisions-ranked-for-2024/"><u>10 Excellent 4K Televisions Ranked for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-unravel-the-potential-of-multiple-screen-usage-in-netflix/"><u>2024 Approved Unravel The Potential of Multiple Screen Usage in Netflix</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-walking-into-tomorrow-the-premier-vr-treadmills-reviewed/"><u>2024 Approved Walking Into Tomorrow The Premier VR Treadmills Reviewed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-clutter-convert-videos-discover-the-best-alternatives-for-flv-to-yt/"><u>Cut the Clutter, Convert Videos Discover the Best Alternatives for Flv to YT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-dilemran-of-winscripterrors/"><u>Deciphering the Dilemran of WinScriptErrors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-full-use-of-the-control-key-in-windows-11/"><u>Enabling Full Use of the Control Key in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-model-names-unraveling-your-device-in-six-easy-ways/"><u>Mastering Model Names: Unraveling Your Device in Six Easy Ways</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-getting-sound-blaster-z-driver-for-windows-10-operating-system/"><u>Quick Guide: Getting Sound Blaster Z Driver for Windows 10 Operating System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shift-key-woes-try-these-fixes-now/"><u>Shift Key Woes? Try These Fixes Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enable-digital-supervision-in-windows-11-pcs/"><u>Steps to Enable Digital Supervision in Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-ftdibussys-its-impact-on-windows-memory-protocols/"><u>Unraveling ftdibus.sys: Its Impact on Windows Memory Protocols</u></a></li>
 </ul></div>
 

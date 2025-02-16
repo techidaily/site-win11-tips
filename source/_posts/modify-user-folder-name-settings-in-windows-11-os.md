@@ -1,7 +1,7 @@
 ---
 title: Modify User Folder Name Settings in Windows 11 OS
-date: 2025-01-25T01:05:55.331Z
-updated: 2025-01-31T21:27:16.915Z
+date: 2025-01-29T18:17:36.916Z
+updated: 2025-02-03T00:02:49.295Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
  Windows, by default, will use the first five characters of your user account name as the profile folder name. If you don’t like the user profile folder name, you can change it using a registry hack. Here, we show you how to change the name of the user profile folder in Windows 11\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## But First, Some Potential Issues That May Arise From These Steps
 
  While the registry hack should help you successfully change your user account folder name, it can lead to some complications. For example, some of your Microsoft Store apps, including OneDrive and Outlook, can stop working.
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
  Try to sign out and sign in to your app as a quick fix. If that does not work, you’ll need to move the existing path and define the new correct path after changing the user folder name.
 
  Also, [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and exercise extreme caution while changing your user name folder. Incorrect modification to the Windows Registry can cause serious issues and may require reinstallation of the operating system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create a New Administrator User Account in Windows 11
 
@@ -58,20 +58,16 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 4. Click **Other users.** This option is useful to create a local user account without a Microsoft Account.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Add other user account in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-other-user-account-windows-11.png)
 5. Next, click on **I don’t have this person’s sign-in information.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Creating a local user account without a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/create-local-user-account-without-Microsoft-account.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Click on **Add a user** **without a Microsoft account.**
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 ![User accounts properties.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-accounts-properties.jpg)
 5. In the **User Properties** dialog, you’ll see your **User name** and **Full name.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Type a name for your user name, click **OK** and **Apply**.  
 ![user account user name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-acount-user-name.jpg)
 2. Close the **User Account** dialog and perform a restart.
@@ -104,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 3. Next, open the Command Prompt. To do this, press **Win + R,** type **cmd,** and click **OK**.  
 ![SID command prompt user account.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/SID-command-prompt-user-account.png)
 4. In the Command Prompt window, type the following command to view **SID (Security Identifier)** for all user accounts:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `wmic useraccount get name,SID`
 5. Here, note the **SID** for the user account you want to change the user profile folder name. In this case, the **SID** for the username **tashr** is **S-1-5-21-200486166-247335145-1769094253-1001.**
@@ -129,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 ![Rename user profile folder name.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/rename-user-profile-folder-name.png)
 8. Select your **user profile** and press **F2** to rename it. Enter a new name for your user profile (it must match the user name entered in the Registry Editor).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Click away and then click **Continue** to save the changes.
 
  You may sometimes encounter the "You can’t perform this action" error when renaming the folder. This error often occurs if you switch to a different administrator account without signing out from the primary user account. Alternatively, restart your PC and repeat the steps to rename the user profile folder without the error.
@@ -149,18 +149,19 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-tackling-the-challenge-of-video-not-broadcasting-via-fb-messenger/"><u>[New] 2024 Approved Tackling the Challenge of Video Not Broadcasting via FB Messenger</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-comprehensive-commentary-delving-deep-into-bublcams-360-degree-world-for-2024/"><u>[New] Comprehensive Commentary Delving Deep Into Bublcam's 360-Degree World for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-techniques-to-amplify-youtube-video-clarity/"><u>[Updated] 2024 Approved Techniques to Amplify YouTube Video Clarity</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-improving-the-endurance-of-your-gopro-power-source-for-2024/"><u>[Updated] Improving the Endurance of Your GoPro Power Source for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-exclusive-guide-to-the-best-20-incarceration-moments-that-spark-smiles-online/"><u>[Updated] In 2024, Exclusive Guide to the Best 20 Incarceration Moments that Spark Smiles Online</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-mellow-moves-discover-top-20-serene-country-songs-for-groovy-dancing-tiktok/"><u>2024 Approved Mellow Moves Discover Top 20 Serene Country Songs for Groovy Dancing (TikTok)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/5yuv55s75asj5oplusb44o75zyn57iu6ygo56il44gn55m655sf44gz44kl44ko44op44o844go44gd44km44gr5aplusplus44gz44kl6kej5rg6562w/"><u>動画変換・圧縮過程で発生するエラーとそれに対する解決策</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/designing-submenu-sections-in-windows-11-menu-bar/"><u>Designing Submenu Sections in Windows 11 Menu Bar</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/revival-of-previous-powerpoint-presentation-effortless-restoration/"><u>Revival of Previous PowerPoint Presentation - Effortless Restoration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-stalled-peer-connections-with-utorrent-on-windows/"><u>Reviving Stalled Peer Connections with uTorrent on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-boot-basics-a-step-guide/"><u>Unlocking Windows Boot Basics: A Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-a-smooth-startup-top-5-tactics-for-secure-windows-errors/"><u>Unveiling a Smooth Startup: Top 5 Tactics for Secure Windows Errors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-lead-the-charge-with-our-12-best-tycoon-games-ever-played/"><u>[New] 2024 Approved Lead the Charge with Our #12 Best Tycoon Games Ever Played</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-turn-your-watched-fb-video-into-an-mp3-file/"><u>[New] 2024 Approved Turn Your Watched FB Video Into an MP3 File</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-mistakes-people-should-avoid-as-a-new-youtuber/"><u>[New] 8 Mistakes People Should Avoid as a New YouTuber</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-insert-sound-clips-to-enhance-visual-presentations/"><u>[New] In 2024, Insert Sound Clips to Enhance Visual Presentations</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-how-to-promote-videos-cross-platform-youtube-meets-facebook/"><u>[Updated] How to Promote Videos Cross-Platform YouTube Meets Facebook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-best-tools-for-real-time-video-broadcasting/"><u>[Updated] In 2024, Best Tools for Real-Time Video Broadcasting</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-speak-out-altering-soundtracks-in-ps4ps5-games/"><u>[Updated] In 2024, Speak Out Altering Soundtracks in PS4/PS5 Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ins-and-outs-of-designing-a-standout-podcast-promo/"><u>2024 Approved The Ins and Outs of Designing a Standout Podcast Promo</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-maximus-x-hero-driver-maintenance-made-simple-and-swift-update-procedures-inside/"><u>ASUS Maximus X Hero Driver Maintenance Made Simple and Swift – Update Procedures Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-java-vm-not-found-issue-on-windows-devices/"><u>Fixing Java VM Not Found Issue on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterpiece-ahead-initiating-mspaint-windows-11-style/"><u>Masterpiece Ahead: Initiating MSPaint, Windows 11 Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-visibility-unveiling-windows-11s-system-tray-and-hidden-items/"><u>Maximizing Visibility: Unveiling Windows 11'S System Tray & Hidden Items</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restarting-the-windows-indexer-a-quick-guide/"><u>Restarting the Windows Indexer: A Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-turning-onoff-secure-boot-in-virtualbox/"><u>Step-by-Step Guide: Turning On/Off Secure Boot in VirtualBox</u></a></li>
 </ul></div>
 

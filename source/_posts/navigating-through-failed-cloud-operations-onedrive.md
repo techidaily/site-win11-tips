@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Failed Cloud Operations (OneDrive)
-date: 2025-01-24T23:59:34.312Z
-updated: 2025-01-31T19:23:58.575Z
+date: 2025-01-27T00:54:50.888Z
+updated: 2025-02-03T01:28:55.620Z
 tags:
   - windows10
   - windows11
@@ -35,8 +35,16 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![The Settings option in OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-option.jpg)
 4. Click the**Unlink this PC** option.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Unlink this PC option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unlink-this-pc.jpg)
 5. Select**Unlink account** to sign out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. If a sign-in window doesn’t automatically open, input OneDrive in the Windows search box and select to open it there.
 2. Input your OneDrive email address (for your Microsoft account), and click the**Sign in** option.  
@@ -47,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 5. Press the**Open my OneDrive** **folder** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Free Up Hard Drive Space
@@ -57,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
  First, check your PC’s drive storage space by launching File Explorer and clicking**This PC** . The C: drive icon there shows you how much free storage is available.
 
 ![The Local Disk storage icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-disk-storage-icon.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about[how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
 
@@ -75,12 +79,12 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![The reset OneDrive Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-reset-one-drive-command.jpg)
 4. Click**OK** to execute the reset command for OneDrive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If the OneDrive icon doesn’t reappear after the reset, input this command into Run and click**OK** :  
 `%localappdata%\Microsoft\OneDrive\onedrive.exe`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Sync OneDrive to Another Drive Location
 
@@ -97,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 7. Keep clicking**Next** a few times, and select the**Open my OneDrive folder** option.  
 ![The Open my OneDrive folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-my-onedrive-folder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable the "Always Keep on Device" and "Free Up Space" Options
 
  Some OneDrive users have confirmed selecting to always keep affected files on the device, along with a "free up space" option, can fix error 0x80070185\. Selecting the "always keep on this device" option makes a OneDrive file available offline.
@@ -113,7 +113,15 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![The Always keep on this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/always-keep-on-this-device-option.jpg)
 4. Then right-click the same file again to select**Free up** **space** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Repeat these steps for all files you can’t access because of error 0x80070185.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Turn Off Any Active Firewalls
 
@@ -126,20 +134,12 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-defender-firewall-applet.jpg)
 5. Select the two**Turn off Windows Defender Firewall** network settings, and click**OK** to apply.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-windows-defender-firewall-option.jpg)
 6. Return to OneDrive to see if the 0x80070185 error persists with the firewall off.
 
  It’s also recommended to turn off any third-party firewalls installed. Some antivirus utilities also have firewalls. If you’ve installed any additional security software, select the option to disable its firewall if it has one.
 
  Should this potential solution resolve error 0x80070185, set up a firewall exception for OneDrive. You can do that for the Windows firewall as instructed in our[how to allow apps through Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) piece. Users with third-party firewalls can allow OneDrive through them with the exclusion settings in their security apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall OneDrive
 
@@ -158,7 +158,7 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 8. Click**Get** to reinstall OneDrive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Access your OneDrive Files again
@@ -180,21 +180,21 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-mx-player-pro-next-gen-streaming-tool/"><u>[New] MX Player Pro Next-Gen Streaming Tool</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-capturing-snapchat-on-screen-a-step-by-step-guide/"><u>[Updated] 2024 Approved Capturing Snapchat on Screen A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-amateur-to-artist-top-8-beginner-camera-selections/"><u>2024 Approved From Amateur to Artist Top 8 Beginner Camera Selections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/circumvent-windows-updates-error-code-0x80242016/"><u>Circumvent Windows Update's Error: Code 0X80242016</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-your-screen-setup-gmail-pinned-to-the-windows-edge/"><u>Customizing Your Screen Setup: Gmail Pinned to the Window's Edge</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722990711699-fix-your-steam-game-crashes-and-startup-problems-in-windows-10-easily/"><u>Fix Your Steam Game Crashes and Startup Problems in Windows 10 Easily</u></a></li>
-<li><a href="https://win-blog.techidaily.com/hell-let-loose-performance-fix-overcoming-frequent-pc-interruptions/"><u>Hell Let Loose Performance Fix: Overcoming Frequent PC Interruptions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-the-loss-of-razer-device-support-in-win1011/"><u>Mending the Loss of Razer Device Support in Win10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-mail-app-html-glitches-in-email-previews/"><u>Overcoming Windows 11'S Mail App HTML Glitches in Email Previews</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prime-picks-for-live-tv-access-and-streaming-for-2024/"><u>Prime Picks for Live TV Access and Streaming for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguard-internet-experience-include-trusted-sites-on-windows-11/"><u>Safeguard Internet Experience: Include Trusted Sites on Windows 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-apple-ecosystem-the-complete-tutorial-for-activating-passkeys-across-iphone-ipad-and-mac/"><u>Secure Your Apple Ecosystem: The Complete Tutorial for Activating Passkeys Across iPhone, iPad & Mac</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95783028-9781620550571-sharp-spear-crystal-mirror/"><u>Sharp Spear, Crystal Mirror | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-the-keys-how-to-fix-quieted-pc-sounds/"><u>Taming the Keys: How to Fix Quieted PC Sounds</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-5-solutions-for-resolving-zoom-cant-start-video-issue/"><u>Top 5 Solutions for Resolving 'Zoom Can't Start Video' Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-window-management-taskmanager-priority/"><u>Unveiling Window Management: TaskManager Priority</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-elite-25-instagram-personalities-worth-following-for-2024/"><u>[New] Elite 25 Instagram Personalities Worth Following for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-multiple-clips-an-android-tutorial/"><u>[New] Harmonizing Multiple Clips An Android Tutorial</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-uniting-platforms-post-videos-across-twitter-and-tumblr-for-2024/"><u>[New] Uniting Platforms Post Videos Across Twitter & Tumblr for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-overcome-no-image-problem-in-youtube-shorts/"><u>[Updated] How To Overcome No Image Problem in YouTube Shorts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-retract-macos-upgrade-from-sierra-to-el-capitan/"><u>2024 Approved How to Retract macOS Upgrade From Sierra to El Capitan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chrome-opening-woes-resolved-fast-fixed-for-windows-11-users/"><u>Chrome Opening Woes Resolved: Fast Fixed for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crucial-software-aid-the-best-windows-apps-that-facilitate-mac-switch/"><u>Crucial Software Aid: The Best Windows Apps That Facilitate MAC Switch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-dissolving-ms-teams-error-80080300-on-win11-platform/"><u>Deciphering and Dissolving MS Teams Error 80080300 on Win11 Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-addressing-and-correcting-pc-crashes-in-cult-of-the-lamb-game/"><u>Expert Advice: Addressing and Correcting PC Crashes in Cult of the Lamb Game</u></a></li>
+<li><a href="https://article-tips.techidaily.com/exploring-the-metaphysics-of-metaverse-selling-for-2024/"><u>Exploring the Metaphysics of Metaverse Selling for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/extended-support-for-windows-10-dashed-microsofts-unspoken-decision-explained-insights-from-zdnet/"><u>Extended Support for Windows 10 Dashed – Microsoft's Unspoken Decision Explained | Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-boredom-to-chuckles-generating-funny-memes-for-2024/"><u>From Boredom to Chuckles Generating Funny Memes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-books-8-effective-studying-tips-on-windows/"><u>Mastering the Books: 8 Effective Studying Tips on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-record-windows-uac-notifications/"><u>Quick Steps to Record Windows UAC Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-windows-administrator-security-configs/"><u>Steps to Tackle Windows Administrator Security Configs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-removing-signature-rejection-on-pcs/"><u>Strategies for Removing Signature Rejection on PCs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Methods to Correct Failed Loads for Messages on Discord Desktop
-date: 2025-01-24T23:50:44.670Z
-updated: 2025-02-01T10:48:26.026Z
+date: 2025-01-29T16:27:45.243Z
+updated: 2025-02-02T22:02:54.131Z
 tags:
   - windows10
   - windows11
@@ -29,27 +29,27 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 
 ![Checking Discord Status on Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/1-Checking-Discord-Status-on-Discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before you start tweaking any settings, ensure Discord isn't down first. Check the[Discord status page](https://discordstatus.com/) for any reported problems, and keep an eye out for server connection issues. If other Discord users have reported a similar issue, there might be a problem on the backend.
 
  If the problem is with Discord's servers you can't do much about it until the developers resolve the server issues. Once they're done, Discord should return to normal operation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Rule Out Any Internet Issues
 
 ![Wi-Fi router with power adapter on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/how-to-access-your-router-remotely.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A weak or unstable internet connection could be the cause of this error. Therefore, ensure you have an active internet connection when you try to access Discord. You can also run other apps on your device to ensure your internet is working.
 
  If other apps are not loading correctly and the issue is consistent throughout the operating system, then the internet is to blame. In that case, we recommend checking out our guide on[fixing network access issues when connected to Wi-Fi on Windows](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) .
 
  However, if other apps do work, try closing bandwidth-hogging apps on your PC. Double-check if any devices on your network are soaking up bandwidth, too. Once you've freed up some space, try running Discord again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Give Discord a Fresh Start
 
@@ -58,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 ## 4\. Switch Your Network Connection
 
 ![It's important to troubleshoot slow internet speeds to determine if ISP is throttling you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Troubleshoot-internet-router-modem-connection.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Although less likely, your ISP may also be responsible for annoying app issues. When your ISP is at fault, you will likely have similar problems with other apps. So, if you're also experiencing problems with other apps, ensure that the problem isn't with your ISP.
 
@@ -84,15 +80,11 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 4. Wait a few minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Right-click on the same server or channel, and select**Unmute Channel** or**Unmute Server** .  
 ![Unmuting the Muted Server in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/2-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Mark Messages as Read
 
@@ -102,6 +94,14 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 2. Right-click the channel or server where the messages are stuck and click on**Mark As Read** .  
 ![Clicking on the Mark As Read to Auto Read the Stuck Messages in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/3-1.jpg)
 3. Wait for the app to load messages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Make Sure You Are Not Temporarily Banned From Discord
 
@@ -114,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 ## 9\. Enable or Disable a VPN
 
 ![vpn app active on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/vpn-on-phone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you encounter the error when accessing Discord for the first time from a new location, Discord might be blocked in that area. Likewise, you may encounter the error under discussion if your IP address is banned by Discord.
 
@@ -133,6 +137,10 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 4. Right-click each folder and select**Delete** .  
 ![Deleting the Cache Code, Cache, and GPU Cache Folders in the Discord AppData Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have completed these steps, close the Discord app and restart your device. When your device has fully restarted, open Discord and see if messages have loaded successfully this time. If the messages remain stuck and the error persists, move on to the next step.
 
 ## 11\. Update Discord
@@ -143,25 +151,17 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 
  Click on the**green download button (downward arrow)** in the top-right corner to check for updates or press**CTRL + R** to force Discord to check for updates. Check if installing updates made any difference if updates were pending.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 12\. Switch to a Different Discord Client
 
 ![A finger pointing at the Discord logo on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/A-finger-pointing-at-the-Discord-logo-on-a-phone--(1).jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If none of the fixes have worked, you should try loading messages on a different Discord client. You can access Discord in several ways, including a PC client, a mobile app, and a web version you can use in your browser.
 
  To double-check if the problem lies within your chosen client or not, try connecting to Discord via a different one. If it doesn't work in one client but works in another, you should[uninstall Discord](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) from your device and install it again to fix the problem. If the problem is with the web version, try[clearing the cookies and cache](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) and see if that fixes the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 13\. Report the Problem to Discord Support as a Last Resort
 
@@ -188,19 +188,19 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-glow-up-your-android-footage/"><u>[New] Glow Up Your Android Footage</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-fastest-rising-youtube-influencers-you-cant-miss/"><u>[New] The Fastest Rising YouTube Influencers You Can't Miss</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-pushing-boundaries-in-video-production-acquire-free-green-screen-expertise-from-4-youtube-gurus/"><u>[Updated] Pushing Boundaries in Video Production Acquire Free Green Screen Expertise From 4 YouTube Gurus</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-freesync-review-the-latest-from-lg-27uhd68-monitor/"><u>2024 Approved FreeSync Review The Latest From LG 27UHD68 Monitor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-edge-techniques-for-configuring-dns-on-windows-11/"><u>Cutting-Edge Techniques for Configuring DNS on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deleting-defender-logs-on-win-1111-a-user-friendly-approach/"><u>Deleting Defender Logs on Win 11/11: A User-Friendly Approach</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/hddmicrosoft-office/"><u>HDDの再フォーマット前にMicrosoft Officeのデータ保存方法</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 7 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-become-a-gif-artist-basic-steps/"><u>In 2024, Become a GIF Artist Basic Steps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-the-art-of-viewing-youtube-video-reactions-and-votes/"><u>In 2024, Mastering the Art of Viewing YouTube Video Reactions and Votes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95918138-9781683255390-las-cartas-adivinatorias-del-karma/"><u>Las cartas adivinatorias del karma | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolve-windows-issues-swiftly-with-expert-insights/"><u>Resolve Windows Issues Swiftly with Expert Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/savvy-buyers-unlocking-cost-effective-windows-10-deals/"><u>Savvy Buyers: Unlocking Cost-Effective Windows 10 Deals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-steps-to-unlock-word-meanings-in-win11/"><u>Swift Steps to Unlock Word Meanings in Win11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-achieving-youtube-earnings-excellence-strategies-and-beyond/"><u>[New] In 2024, Achieving YouTube Earnings Excellence - Strategies and Beyond</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photographing-the-stars-at-night-with-iphones/"><u>[New] Photographing the Stars at Night with iPhones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-ultimate-action-cam-editing-picks/"><u>2024 Approved Ultimate Action Cam Editing Picks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-eliminating-files-and-directories-via-command-line-in-win-10/"><u>Comprehensive Tutorial on Eliminating Files and Directories via Command Line in Win 10</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/empowering-your-business-communication-google-meet-to-youtube-steps-for-2024/"><u>Empowering Your Business Communication Google Meet to YouTube Steps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensure-non-crashy-windows-user-experience/"><u>Ensure Non-Crashy Windows User Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-youtube-playback-speed-delays-in-chrome/"><u>Fixing YouTube Playback Speed Delays in Chrome</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-motorola-moto-g-stylus-2023-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Motorola Moto G Stylus (2023) is off? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unlock-the-magic-of-capturing-youtube-content-the-no-cost-way/"><u>In 2024, Unlock the Magic of Capturing YouTube Content - The No-Cost Way</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-pc-revival-unearthing-windows-best-eight-methods/"><u>Quick PC Revival: Unearthing Windows' Best Eight Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-your-muted-windows-start-button-icon/"><u>Resurrecting Your Muted Windows Start Button Icon</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transforming-viewers-into-active-participants/"><u>Transforming Viewers Into Active Participants</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-windows-headset-microphone-blockage/"><u>Unblocking Windows Headset Microphone Blockage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-role-of-windows-print-management-interface/"><u>Understanding the Role of Windows Print Management Interface</u></a></li>
 </ul></div>
 

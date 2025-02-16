@@ -1,7 +1,7 @@
 ---
 title: Achieving Windows 11 and Parallels Confluence in MacOS
-date: 2024-08-16T01:13:38.385Z
-updated: 2024-08-17T01:13:38.385Z
+date: 2025-01-28T01:25:17.477Z
+updated: 2025-02-03T02:09:48.067Z
 tags:
   - windows10
   - windows11
@@ -33,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
  In February 2023, Microsoft announced official support for Windows virtualization on ARM via Parallels Desktop 18.1\. With it, you can safely run the ARM version of Windows 11 on Apple silicon Macs and regular Windows versions on Intel-based Macs, knowing Microsoft has blessed this solution from a licensing perspective.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows 11 Virtualization With Parallels 18
 
  As a result of this collaboration, Parallels customers can download, install, and configure Windows 11 on their Macs in just a few clicks. Parallels 18.1 also provides a virtual [TPM chip](https://www.makeuseof.com/what-is-a-trusted-platform-module-tpm/) and support for Windows features like BitLocker, Secure Boot, and Windows Hello. Getting these security features is one of the [reasons to install Windows on a Mac](https://www.makeuseof.com/tag/reasons-install-windows-mac/) .
@@ -53,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
  With the disk image mounted, double-click the**Install Parallels Desktop** app. To finish installing Parallels, you must accept the terms, provide your Mac's username and password, and permit Parallels to access your Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Step 2: Install Windows 11 in Parallels
 
 ![Installation Assistant in Parallels Desktop 18 for macOS offering to download and install Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-installation-assistant-download-install-windows-11.jpg)
@@ -63,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
  Launch Parallels, and the Installation Assistant should take over. If it doesn't show up, click the**File** menu and choose**New** to create a fresh virtual machine. If the Installation Assistant offers to download and install Windows 11, accept by clicking the**Install Windows** button.
 
 ![A "Downloading Windows 11" message in Parallels Desktop 18 for macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-installation-assistant-downloading-windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  People with a Windows 11 ISO file already downloaded can optionally choose the**Install Windows or another OS from a DVD or image file** option and hit**Continue** . Assuming you've opted for automatic installation, Parallels will now automatically download a version of the Windows 11 ISO from Microsoft's website that's appropriate for your Mac hardware.
@@ -80,18 +79,16 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
  Parallels will now boot your virtual machine to finish installing Windows 11\. The Windows License Agreement comes up next, so click the**Accept** button to continue.
 
 ![Windows 11 running in Parallels Desktop 18 alongside macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-windows-11-dektop-edge-browser.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
  You should now land on the Windows 11 desktop in a macOS window. With everything installed and set up correctly, you can run your favorite Windows apps and games alongside macOS!
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 4\. Install the Parallels Toolbox
 
 ![Accessing Parallels Desktop Toolbox from the macOS menu bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Parallels-Desktop-Toolbox-macOS-menu-bar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This step is optional, but the Parallels Toolbox includes a variety of helpful utilities for freeing up storage space, content creation, optimizing computer settings for a presentation, and more. To get them, launch Parallels Desktop and click**Parallels > Install Parallels Toolbox for Mac** from the menu bar, then click**Install Now** .
 
@@ -104,9 +101,9 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 ## Step 5\. Customize Your Windows 11 Virtual Machine
 
 ![Choosing primary Windows 11 use case in Parallels Desktop 18 for macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-settings-configure-for.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can adjust various settings by clicking**Parallels > Configure** from the menu bar (some of the settings cannot be changed until your virtual machine is shut down). Under the**General** tab, click the**Change** button next to**Configure for** to choose whether you'll primarily use Windows 11 for productivity, gaming, development, etc.
@@ -115,13 +112,14 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
 ![Adjusting Windows 11 virtual machine graphics in Parallels Desktop 18 for macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-settings-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, click the**Hardware** tab to fine-tune your virtual machine by adjusting the amount of virtual RAM, processors, graphics cores, and other features available to Windows 11.
 
  Click additional sections in the sidebar to configure other simulated hardware capabilities and how software features like sharing and picture-in-picture behave. Close the settings window to save the changes to your virtual PC.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Unsupported Features in Windows on ARM
 
  According to [Microsoft's support document](https://support.microsoft.com/windows/options-for-using-windows-11-with-mac-computers-with-apple-m1-and-m2-chips-cd15fd62-9b34-4b78-b0bc-121baa3c568c) , some features are unsupported in Windows on ARM:
@@ -134,28 +132,20 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 * **Virtualization-based Security:** Isolating a secure region of memory from the normal operating system is unsupported.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Reasons to Run Windows on Your Mac
 
  There are some perfectly valid reasons to run Windows 11 on a Mac. For example, you may need to use an old accessory that lacks macOS support. Occasionally, you may need to run a niche app or an ancient piece of software that doesn't exist in macOS.
 
  Or, maybe you want to check out cool Windows games on your Mac. Regardless of your reason, virtualization software like Parallels is a very convenient method to run Microsoft's latest and greatest operating system alongside macOS with minimal effort.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,8 +154,22 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-stabilizing-pixels-the-truth-behind-photoshop-shake/"><u>[Updated] Stabilizing Pixels The Truth Behind Photoshop Shake</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-solutions-for-turtle-beach-recon-70-microphone-malfunctions/"><u>Common Solutions for Turtle Beach Recon 70 Microphone Malfunctions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-ways-to-expand-hard-drive-capacity-in-windows-for-free/"><u>Efficient Ways to Expand Hard Drive Capacity in Windows, For Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-responding-spotify-app-in-w10-and-w11/"><u>Fixing Non-Responding Spotify App in W10 & W11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/framing-the-frame-top-camera-techniques-for-visuals-for-2024/"><u>Framing the Frame Top Camera Techniques for Visuals for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-leap-forward-easy-learning-for-an-extraordinary-savings/"><u>Language Leap Forward - Easy Learning for an Extraordinary Savings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-windows-snip-and-sketch-with-one-move/"><u>Launching Windows Snip & Sketch With One Move</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/local-installation-guide-for-llama-2-step-by-step-instructions/"><u>Local Installation Guide for Llama 2: Step-by-Step Instructions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-calculator-display-timeframe-on-windows/"><u>Maximizing Calculator Display Timeframe on Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/e-media-crafter-for-2024/"><u>Online Media Crafter for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purely-native-drive-duality-creation-guide/"><u>Purely Native Drive Duality Creation Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-windows-management-with-effective-key-combinations/"><u>Streamline Windows Management with Effective Key Combinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-domain-based-biometric-use-in-windows-11/"><u>Tailoring Domain-Based Biometric Use in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-complete-guide-to-asus-proart-pa-329q-professionals-features/"><u>The Complete Guide to Asus ProArt PA 329Q Professional's Features</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/why-isnt-the-video-display-on-sony-a6400-for-2024/"><u>Why Isn't the Video Display on Sony A6400 for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Compreran Guide to Windows 11 Widget Toolbar Usage
-date: 2024-08-16T01:13:46.367Z
-updated: 2024-08-17T01:13:46.367Z
+date: 2025-01-28T20:01:45.597Z
+updated: 2025-02-02T23:38:48.670Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 
  In this guide, we'll explore how to enable the Widgets Toolbar so that you can reap its benefits.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable the Widgets Toolbar in Windows 11
 
  In order to enable and use the widget's toolbar, you will need to [download ViveTool from GitHub](https://github.com/thebookisclosed/ViVe/releases). Once the zip file has been downloaded, extract its contents into the folder **C:/ViVeTool** on your computer.
@@ -32,6 +36,10 @@ c:\vivetool\vivetool /enable /id:40772499
 
 ![Enable Toolbar for Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-toolbar-for-widgets-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the command is executed on your computer, you will see a message saying "Successfully set feature configuration (s)". After executing the above command, restart your device for the changes to take effect.
 
  So that's it. You have now enabled the new toolbar in Windows 11\. It provides various useful features, including maps, news, and other options that you can find through its popular services.
@@ -42,23 +50,25 @@ c:\vivetool\vivetool /disable /id:40772499
 
 ![Disable Widgets Toolbar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-widgets-toolbar-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After executing the program, you should restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows 11 Now Has a New Toolbar for Widgets
 
  With Windows 11 build 25227, there is a new toolbar that provides quick access to critical services on the Widgets menu. Hopefully, we have helped you enable and disable the Widgets Toolbar to access these Microsoft services easily.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -67,8 +77,17 @@ c:\vivetool\vivetool /disable /id:40772499
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-demystifying-chromecast-for-effortless-broadcasting/"><u>[New] Demystifying Chromecast for Effortless Broadcasting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlined-method-for-modifying-fish-vocal-patterns/"><u>[New] Streamlined Method for Modifying Fish Vocal Patterns</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-definitive-steps-for-online-streaming-audio-archiving/"><u>[Updated] The Definitive Steps for Online Streaming Audio Archiving</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-time-and-date-on-windows-11-taskbar/"><u>Configuring Time and Date on Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enable-smart-color-settings-in-windows-11-programs/"><u>Enable Smart Color Settings in Windows 11 Programs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-recover-from-a-missing-jscriptdll-file-a-users-manual-for-quick-fixes/"><u>How To Recover From a Missing JScript.dll File – A User's Manual for Quick Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-gt-5-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme GT 5 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-printer-access-for-windows-users/"><u>Unblocking Printer Access for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-windows-error-code-0x80071a90/"><u>Understanding and Correcting Windows Error Code: 0X80071A90</u></a></li>
+<li><a href="https://win-able.techidaily.com/watch-dogs-legion-stability-guide-eliminate-game-crashes-on-pc-with-these-fixes/"><u>Watch Dogs: Legion Stability Guide - Eliminate Game Crashes on PC with These Fixes</u></a></li>
+</ul></div>
 

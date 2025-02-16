@@ -1,7 +1,7 @@
 ---
 title: "Nixing WebP Saves: Customizing Chrome's Image Formats for PCs"
-date: 2025-01-27T09:36:09.585Z
-updated: 2025-02-01T02:55:37.709Z
+date: 2025-01-29T18:47:44.330Z
+updated: 2025-02-02T18:59:37.917Z
 tags:
   - windows10
   - windows11
@@ -29,19 +29,11 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 
  The WebP image format was introduced by Google more than a decade ago, and during the last few years, it has become mainstream. The images in this format are smaller and lighter than others, and its superior compressibility has made it quite popular lately. Even though it is smaller, it maintains a high level of quality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Does Chrome Save Images as WebP?
 
  According to [Google Developers' documentation](https://developers.google.com/speed/webp), WebP images are more than 25% smaller than other popular image formats. Thus, they are relatively easy to load on the web, which helps web pages load faster. Due to this, most web developers prefer to serve WebP images on their websites to load quickly and boost their search engine rankings.
 
  So, if Chrome saves images as WebP, then most likely, the website owner is serving images in the WebP format to its visitors so that the website loads faster. But is it possible to stop Chrome from saving images in the WebP format?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Stop Chrome From Saving Images as WebP?
 
@@ -63,15 +55,23 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 ![Adding the Save Image as Type Extension from the Chrome Web Store in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Adding-the-Save-Image-as-Type-Extension-from-the-Chrome-Web-Store-in-Chrome.jpg)
 2. Once added, navigate to the image you want to download in a different format than WebP.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Open the context menu by right-clicking on the image, and you'll see a **Save image as Type** option.
 4. To download an image in the desired format, navigate to the **Save image as Type** menu and choose your preferred format.  
 ![Selecting the Preferred Format by Navigating to the Save Image as Type Menu to Download Image in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2-Selecting-the-Preferred-Format-by-Navigating-to-the-Save-Image-as-Type-Menu-to-Download-Image-in-Chrome.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The extension supports JPEG, WebP, and PNG formats, so you can download any format you wish. If you are not interested in taking that route, follow the next workaround.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use the Paint App on Windows
 
@@ -86,16 +86,12 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 6. To save the image in the desired format, go to the **Save as** menu and choose the desired format.  
 ![Saving the Copied Image in the Desired Format by Clicking on the Save As Menu in Paint App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/4-Saving-the-Copied-Image-in-the-Desired-Format-by-Clicking-on-the-Save-As-Menu-in-Paint-App-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have already downloaded the images in WebP format, open them in Paint and follow the same steps to convert them.
 
  Although this method doesn't affect image quality in most cases, if quality drops too much for specific images, you should download them in WebP format and then use the Paint app to convert them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Use a Web-Based Image Converter
@@ -111,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 ![Selecting the Image to Convert by Clicking on the Choose Files Option on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/6-Selecting-the-Image-to-Convert-by-Clicking-on-the-Choose-Files-Option-on-the-Online-Convert-Website.jpg)
 5. Click **Start** once the image has been uploaded.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. After converting the image, click on the **Download** button to download the image.  
 ![Downloading the Image by Clicking on the Download Button on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Downloading-the-Image-by-Clicking-on-the-Download-Button-on-the-Online-Convert-Website.jpg)
 
@@ -121,7 +121,7 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
  If you open a webpage in a browser that does not support WebP format, images will be served in their original format. Thus, if you don't wish to use any of the methods mentioned above, download browsers that do not support the format. You can also use an older version of your default browser that did not previously support the format.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can You Open WebP Images on Windows?
@@ -146,16 +146,21 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-feed-flourish-elevating-engagement-from-ordinary-posts/"><u>[New] In 2024, Feed Flourish Elevating Engagement From Ordinary Posts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-real-time-hardware-for-vr-for-2024/"><u>[New] Real-Time Hardware for VR for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/minati-unmasked-the-monetary-milestones-for-2024/"><u>CarryMinati Unmasked The Monetary Milestones for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/going-beyond-gpt-3-the-top-4-reasons-to-switch-to-claude-3/"><u>Going Beyond GPT-3 - The Top 4 Reasons to Switch to Claude 3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-unhandled-exception-has-occurred-in-your-application-error-on-windows/"><u>How to Fix the Unhandled Exception Has Occurred in Your Application Error on Windows</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-agni-2-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Lava Agni 2 5G Bootloader Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/managing-system-heat-levels-with-windows-os-controls/"><u>Managing System Heat Levels with Windows OS Controls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-error-1053-non-responding-windows-service/"><u>Resolving Error 1053: Non-Responding Windows Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-obs-studio-audio-issue-on-windows-11/"><u>Resolving OBS Studio Audio Issue on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-software-removal-building-effective-shortcuts-on-windows/"><u>Streamlining Software Removal: Building Effective Shortcuts on Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-conquering-the-dilemma-how-to-send-videos-on-facebook-message/"><u>[Updated] 2024 Approved Conquering the Dilemma How to Send Videos on Facebook Message</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-vr-accessories-unleashed-in-depth-reviews-for-2024/"><u>[Updated] VR Accessories Unleashed In-Depth Reviews for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-crafters-guide-to-crafting-a-unique-tiktok-keyphrase/"><u>2024 Approved Crafters' Guide to Crafting a Unique TikTok Keyphrase</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-elevate-your-content-with-expertly-crafted-360-videos-for-fb/"><u>2024 Approved Elevate Your Content with Expertly Crafted 360 Videos for FB</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/convenient-tactics-for-transferring-imovie-projects-to-vimeo/"><u>Convenient Tactics for Transferring iMovie Projects to Vimeo</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/gradual-amplitude-reduction-guide/"><u>Gradual Amplitude Reduction Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-12-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme 12 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-comparison-between-the-latest-flagships-galaxy-s24-ultra-and-s23-ultra/"><u>In-Depth Comparison Between the Latest Flagships – Galaxy S24 Ultra and S23 Ultra</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-items-into-windows-11-taskbar/"><u>Integrating Items Into Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-windows-apps-into-linux-world/"><u>Integrating Windows Apps Into Linux World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-networks-security-keys-five-steps-towards-error-elimination-in-windows/"><u>Mastering Your Network's Security Keys: Five Steps Towards Error Elimination in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-browser-resource-usage-winmacchromeos-comparison/"><u>Minimizing Browser Resource Usage: Win/Mac/ChromeOS Comparison</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-talk-the-key-to-a-visible-mouse-indicator-in-windows-os/"><u>Tech Talk: The Key to a Visible Mouse Indicator in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreezing-stuck-photoshopping-in-windows-11-versions-2023/"><u>Unfreezing Stuck Photoshopping in Windows 11, Versions 2023</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-iphone-15-deserves-a-spot-in-the-professional-lineup-expert-review/"><u>Why iPhone 15 Deserves a Spot in the 'Professional' Lineup | Expert Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-ways-the-best-fixes-to-skip-the-long-wait-in-install-steps/"><u>Winning Ways: The Best Fixes to Skip the Long Wait in Install Steps</u></a></li>
 </ul></div>
 

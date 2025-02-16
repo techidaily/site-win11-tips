@@ -1,7 +1,7 @@
 ---
 title: Instant Printer Removal Guide for Windows Users
-date: 2025-01-28T07:25:38.619Z
-updated: 2025-01-31T19:49:22.890Z
+date: 2025-01-28T16:15:12.586Z
+updated: 2025-02-03T01:29:11.605Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 3. Scroll down and click on **Printers & scanners**. This will list all the printers connected to your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click on the printer device that you want to remove.  
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 5. Click the **Remove** button in the top right corner and click **Yes** to confirm the action.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you encounter an error, stop the Print Spooler service in the Services snap-in and try again!
@@ -61,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 ![Print Spooler Service Stop Option in Services MMC on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-stop-1.jpg)
 5. Minimize the **Services** window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now open the **Windows Settings pane**l, go to **Bluetooth & devices > Scanners and Printer**, and try to remove your printer device.
 7. Once the printer is removed, go back to the **Services** window.  
 ![Print Spooler Service Start Option in Services MMC on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-start-1.jpg)
@@ -68,13 +72,13 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 
 [Restarting the Printer Spooler service](https://www.makeuseof.com/windows-restart-print-spooler-service/) is necessary. If disabled, you may encounter the [printer spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) error on your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Remove the Printer Software to Delete the Printer
 
 ![Remove HP Printer Software in Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/hp-printer-remove-software.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the deleted printer option still appears, you can remove the printer driver associated with the device to uninstall it completely. You can remove the driver using the Apps & feature tab in Windows 10 and 11\.
 
@@ -87,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 5. Select **Uninstall** and then click on **Uninstall** again to confirm the action.
 6. Wait for the driver to uninstall, then look for any other drive or software associated with the printer and remove them too.
 7. Once uninstalled, restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Remove the Printer Using the Control Panel
 
@@ -108,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 ![Remove Printer Option in Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/remove-printer-ccontrol-panel.jpg)
 6. Right-click on the printer and select **Remove Device.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click **Yes** to confirm the action.
 
 ## 4\. Remove the Printer Using Windows' Print Server Properties
@@ -122,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 ![Hardware and Sound Option in Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/control-panel-hardware-and-sound-1.jpg)
 4. Select any available printer and click on **Print server properties.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Print Server Properties Option in Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-server-properties.jpg)
 5. Open the **Drivers** tab in the **Print Server Properties** dialog.
 
@@ -135,10 +135,6 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 
 8. Click **OK** to confirm the action and remove the driver.
 9. Restart your PC to complete the driver removal process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Uninstall the Printer Using the Device Manager
 
@@ -152,6 +148,10 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 ![Device Manager App With Show Hidden Devices Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/device-manager-show-hidden-devices.jpg)
 4. Next, expand the **Printers** section to view your printer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right-click on the printer and select **Uninstall device.**  
 ![Uninstall Printer Option Selected in Device Manager on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/uninstall-printer-device-manager.jpg)
 6. Select the **Delete the driver software for this device** option and click **Uninstall**.
@@ -160,7 +160,7 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 8. Close Device Manager and restart your computer to complete the uninstall process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. How to Uninstall a Printer Using the Command Prompt
@@ -181,7 +181,7 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 6. Hit **Enter** to execute the command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Remove the Printer Drive Using Print Management
@@ -219,7 +219,7 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 5. In the above command, replace Printer-Name with the printer name you want to remove.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Many Ways to Remove a Printer in Windows 10 and 11
@@ -238,24 +238,15 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-unleash-your-creativity-cutting-edge-pc-techniques-for-youtube-success/"><u>[New] In 2024, Unleash Your Creativity Cutting-Edge PC Techniques for YouTube Success</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-make-my-video-perfectly-fit-instagram-in-2024/"><u>[New] Make My Video Perfectly Fit Instagram, In 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-capture-memories-safely-explore-all-inclusive-free-and-charged-cloud-storage-solutions-for-2024/"><u>[Updated] Capture Memories Safely Explore All-Inclusive Free and Charged Cloud Storage Solutions for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-x100-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo X100 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/burning-e-books-as-cds-with-flipbuilder-step-by-step-instructions/"><u>Burning E-Books as CDs with FlipBuilder - Step by Step Instructions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comparative-analysis-exe-versus-msi-file-formats/"><u>Comparative Analysis: Exe Versus Msi File Formats</u></a></li>
-<li><a href="https://windows11.techidaily.com/getting-started-with-the-windows-11-voice-chat/"><u>Getting Started with the Windows 11 Voice Chat</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-honor-magic5-ultimate-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Honor Magic5 Ultimate Location | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-depth-exploration-of-the-cutting-edge-technology-within-the-apple-iphone-15-pro/"><u>In-Depth Exploration of the Cutting-Edge Technology Within the Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/making-the-smart-choice-prioritizing-a-timeless-mobile-device-over-a-novelty-computer-accessory/"><u>Making the Smart Choice: Prioritizing a Timeless Mobile Device Over A Novelty Computer Accessory</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-pc-fps-stability-in-valorant/"><u>Mastering PC FPS Stability in Valorant</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-solving-windows-11-login-problems/"><u>Quick Fix: Solving Windows 11 Login Problems</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-xiaomi-redmi-note-12-pro-4g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Xiaomi Redmi Note 12 Pro 4G Black and White | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securely-remove-print-support-from-windows-11-pc/"><u>Securely Remove Print Support From Windows 11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-phantom-device-mistake-on-windows-os/"><u>Solving Phantom Device Mistake on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-faster-download-rates-in-the-ms-store/"><u>Strategies for Faster Download Rates in the MS Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-tackle-windows-error-code-0x8007007e/"><u>Techniques to Tackle Windows Error Code: 0X8007007E</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-slow-cursor-movement-turn-off-mouse-accel-windows-11/"><u>The Art of Slow Cursor Movement: Turn Off Mouse Accel Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trimming-down-cpu-consumption-by-tiworkerexe-tasks/"><u>Trimming Down CPU Consumption by TiWorker.exe Tasks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-a-complete-guide-to-downloading-youtube-videos-to-iphone-or-ipad/"><u>2024 Approved A Complete Guide to Downloading YouTube Videos to iPhone or iPad</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-inshot-adding-your-favorite-tunes/"><u>2024 Approved Mastering InShot Adding Your Favorite Tunes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-deep-dive-prodigious-polarrs-editing-capabilities/"><u>A Deep Dive Prodigious Polarr's Editing Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-text-hotkeys-setup-for-custom-snip-tapping-in-win11/"><u>Advanced Text Hotkeys Setup for Custom Snip Tapping in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-and-remedying-0x80072af9-issues/"><u>Breaking Down and Remedying 0X80072AF9 Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ignite-old-pcs-with-windows-11-version-22h2/"><u>Ignite Old PCs with Windows 11 Version 22H2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-discord-install-failure/"><u>Overcoming Windows 11 Discord Install Failure</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-on-creating-a-sony-playstation-online-id/"><u>The Ultimate Tutorial on Creating a Sony PlayStation Online ID</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-drone-vr-integration-guide/"><u>Ultimate Drone-VR Integration Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-frame-your-moments-the-best-vignette-editing-apps-for-mobile-free-and-paid/"><u>Updated Frame Your Moments The Best Vignette Editing Apps for Mobile Free & Paid</u></a></li>
 </ul></div>
 

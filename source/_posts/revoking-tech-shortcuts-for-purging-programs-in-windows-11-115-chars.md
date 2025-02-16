@@ -1,7 +1,7 @@
 ---
 title: "Revoking Tech: Shortcuts for Purging Programs in Windows 11 (115 Chars)"
-date: 2025-01-28T12:49:42.667Z
-updated: 2025-02-01T04:59:48.285Z
+date: 2025-01-29T01:09:04.118Z
+updated: 2025-02-02T21:54:06.670Z
 tags:
   - windows10
   - windows11
@@ -39,14 +39,10 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![programs-and-features-applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/programs-and-features-applet.png)
 6. Then select **Yes** on any confirmation dialog boxes that might pop up.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. An uninstaller wizard for the software might then open. Go through that wizard to select the required uninstall options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uninstall Software in Settings
@@ -60,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 4. Click a three-dot button on the right side of an app to select **Uninstall**.  
 
 ![uninstall-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/uninstall-option.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Uninstall Software via the Start Menu
 
@@ -102,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 7. Then input this command:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `product where name="program name" call uninstall`
@@ -128,16 +120,24 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 6. Then input this uninstall app command and press **Return**:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `Remove-AppxPackage [App Name]`
 
 ![The Remove-AppxPackage command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/remove-apppackage.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure you replace **\[App Name\]** in that command with the PackageFullName for the app you want to uninstall. A command to uninstall Edge would look like this:
 
 `Remove-AppxPackage Microsoft.MicrosoftEdge_44.19041.1266.0_neutral__8wekyb3d8bbwe`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Remove Software With Third-Party Uninstallers
 
@@ -162,7 +162,11 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/uninstall-option-in-epic-games.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. How to Uninstall Software With Registry Editor and Run
@@ -178,10 +182,6 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![The value data for an UninstallString](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-uninstallstring-string.jpg)
 6. Click **OK** on the **Edit String** window and close the Registry Editor.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Next, you’ll need to start the Run dialog, which has a convenient **Windows** logo + **R** hotkey.
 8. Click in Run’s **Open** box and press **Ctrl** \+ **V** to paste in the copied value for the **UninstallString**.  
 ![The Run dialog that includes an UninstallString value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-run-dialog.jpg)
@@ -194,7 +194,7 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![The value data for a DisplayName string](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-displayname-string-value.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11\. Uninstall Software via the Context Menu
@@ -206,7 +206,7 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![The Uninstall desktop context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-uninstall-context-menu-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Uninstall Software You Don’t Need
@@ -225,24 +225,19 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-speedy-explorer-windows-10-photography-interface/"><u>[New] 2024 Approved Speedy Explorer - Windows 10 Photography Interface</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-vegaspro-2019-edition-highlights/"><u>[New] Exploring VegasPro 2019 Edition Highlights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-syncopating-songs-implementing-fades-in-logic-pro-x/"><u>[New] Syncopating Songs Implementing Fades in Logic Pro X</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-vmix-mover-for-apple-and-pcs/"><u>[New] VMix Mover for Apple and PCs</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-enhanced-visual-content-incorporate-bb-overlays-in-fb-video-frames/"><u>[Updated] In 2024, Enhanced Visual Content Incorporate BB Overlays in FB Video Frames</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/explore-books-anywhere-with-the-stylish-and-functional-kobo-clara-hd/"><u>Explore Books Anywhere with the Stylish and Functional Kobo Clara HD</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-connection-error-0x800704b3/"><u>Fixing Windows 11 Connection Error 0X800704B3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-adobe-photoshop-2021-2023-not-opening-on-windows-11-and-11/"><u>How to Fix Adobe Photoshop 2021-2023 Not Opening on Windows 11 & 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-motorola-g54-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Motorola G54 5G Without Password?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-motorola-edge-2023-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Motorola Edge 2023 Android SIM Unlock APK</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-your-productivity-and-entertainment-with-discounted-lenovo-technology-save-550-this-memorial-day-on-premium-gear/"><u>Maximize Your Productivity & Entertainment with Discounted Lenovo Technology - Save $550 This Memorial Day on Premium Gear</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-apex-legends-crashes-in-windows-11/"><u>Navigating Apex Legends Crashes in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-touch-sensitivity-for-a-seamless-experience/"><u>Optimizing Touch Sensitivity for a Seamless Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rekindle-the-yuletide-spark-in-home-windows/"><u>Rekindle the Yuletide Spark in Home Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-disconnected-resources-with-expertise-on-windows-platform/"><u>Tackling Disconnected Resources with Expertise on Windows Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-wsl2-for-more-effective-android-resource-management/"><u>Tailoring WSL2 for More Effective Android Resource Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turn-off-high-memory-scan-on-antivirus-program/"><u>Turn Off High-Memory Scan on Antivirus Program</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/unveiling-the-secrets-to-successful-iphone-sound-captures-for-2024/"><u>Unveiling the Secrets to Successful iPhone Sound Captures for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/which-video-codec-should-you-use-on-windows-and-why/"><u>Which Video Codec Should You Use on Windows, and Why?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-building-a-repository-of-metaverse-comedy-artifacts/"><u>[New] Building a Repository of Metaverse Comedy Artifacts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/remier-collectors-list-top-shorts-for-free-online/"><u>[New] Premier Collector's List Top Shorts for FREE Online</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-10-cost-free-screen-capture-apps-for-mac-users/"><u>[Updated] 2024 Approved Top 10 Cost-Free Screen Capture Apps for Mac Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-hidden-recycling-bin-icon-on-windows-11/"><u>Activating Hidden Recycling Bin Icon on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-spooler-not-running-issue-in-microsoft-os/"><u>Correcting Spooler Not Running Issue in Microsoft OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-and-instant-set-up-your-own-gpt-4powered-ai-chatbot-on-windows/"><u>Free & Instant: Set Up Your Own GPT-4Powered AI Chatbot on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-end-broadcast-decision-pmix-vs-wirecast-for-professionals-for-2024/"><u>High-End Broadcast Decision PMix Vs. Wirecast for Professionals for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-12t-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 12T Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-subnet-changes-in-win11/"><u>Navigating Subnet Changes in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unresponsive-windows-outlook-conditional-rules/"><u>Overcoming Unresponsive Windows Outlook Conditional Rules</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-reversed-computer-screen-angle/"><u>Rectifying Reversed Computer Screen Angle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/teams-upgrade-fast-memory-conscious-solution/"><u>Teams Upgrade: Fast, Memory-Conscious Solution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-xbox-virtual-reality-headset-anticipated-launch-details-and-pricing-insights/"><u>Upcoming Xbox Virtual Reality Headset - Anticipated Launch Details & Pricing Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-permanent-file-disposal-via-custom-trash-bin-setup/"><u>Windows 10/11: Permanent File Disposal via Custom Trash Bin Setup</u></a></li>
 </ul></div>
 

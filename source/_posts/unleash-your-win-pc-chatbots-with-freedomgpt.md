@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your WIN-PC ChatBots: With FreedomGPT"
-date: 2025-01-26T12:10:09.188Z
-updated: 2025-01-31T17:20:02.178Z
+date: 2025-01-28T20:40:08.301Z
+updated: 2025-02-02T19:04:12.510Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Not Just Use ChatGPT?
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
  If you'd like to learn more about where your data is going when you use ChatGPT, check out [if ChatGPT is a big security risk](https://www.makeuseof.com/chatgpt-privacy-risk/). We also did a piece on [if ChatGPT has privacy issues](https://www.makeuseof.com/chatgpt-privacy-issues/).
 
  That's why many companies have forbidden using ChatGPT internally, and why it's generally considered a bad idea to share sensitive information with it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. OpenAI Sets Limits on How You Use ChatGPT
 
@@ -68,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
  With FreedomGPT's "app" part downloaded and installed, run its installed local instance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Download AI Models in FreedomGPT
 
  Although FreedomGPT is a complete AI chatbot solution, it initially lacks "the brains" that will allow you to interact with it: an AI model.
@@ -83,14 +75,22 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 2. You can store downloaded AI models anywhere. Still, saving them within FreedomGPT's folder or a subfolder is best to keep things tidy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Even the most compact AI models can be multiple gigabytes in size, so it may take a while to download your chosen model. Fortunately, FreedomGPT will show you a download progress bar.  
 ![FreedomGPT Downloading Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-downloading-model-1.jpg)
 4. Once you've downloaded an AI mode, a new button will appear on the left, allowing you to **Select** which downloaded AI model you'd like to use.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![FreedomGPT AI Model Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-ai-model-selection-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Chat With FreedomGPT
 
@@ -101,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 2. Press **Enter** after typing your prompt, and it will show up in FreedomGPT's conversation view. The AI model's response will appear below your prompt. If you don't like how it's going, you can cut a response short by clicking on the **Stop Responding** button, which appears while a reply is produced.  
 ![FreedomGPT Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-chatting-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Switch Models in FreedomGPT
 
  If you want to try another AI model, you don't have to exit and rerun FreedomGPT. You can switch models from within the app.
@@ -110,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 2. The model management panel is identical to the screen you saw when you first ran FreedomGPT. You can switch to another model from this panel by clicking on **Select** before its name or **Download** and install more models.  
 
 ![FreedomGPT Switch Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-switch-models-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Talk to an AI Whenever You Like With FreedomGPT
 
@@ -131,18 +131,17 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-audiophiles-ultimate-narrative-guides/"><u>[New] 2024 Approved Audiophile's Ultimate Narrative Guides</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-mixed-bag-of-emotions-engrossed-in-action-yet-exhausted-my-thoughts-on-watching-beloved-shows-via-apple-vision-pro-insight/"><u>A Mixed Bag of Emotions: Engrossed in Action yet Exhausted - My Thoughts on Watching Beloved Shows via Apple Vision Pro Insight</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-network-caches-spotlight-on-arp/"><u>Decoding Windows Network Caches: Spotlight on ARP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-non-operational-windows-programs/"><u>Essential Fixes for Non-Operational Windows Programs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experts-pick-of-the-most-innovative-smart-home-solutions-for-2eue-2024-zdnet/"><u>Experts' Pick of the Most Innovative Smart Home Solutions for 2Eue 2024 | ZDNET</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-samsung-galaxy-z-flip-5-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Samsung Galaxy Z Flip 5? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-ssd-speed-using-ssd-fresh-on-windows/"><u>Maximizing SSD Speed: Using SSD Fresh on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-5-scarcity-lifted-anticipated-price-slashes/"><u>PlayStation 5 Scarcity Lifted: Anticipated Price Slashes?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-instantaneous-upload-failures-in-your-onedrive-drive/"><u>Quick Fixes for Instantaneous Upload Failures in Your OneDrive Drive</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-htc-u23-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 HTC U23 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformative-visuals-unleash-the-power-of-6-video-types-for-2024/"><u>Transformative Visuals Unleash the Power of 6 Video Types for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-cortana-potential-vivetool-tactics/"><u>Unlocking Cortana Potential: ViveTool Tactics</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/warno-not-working-properly-on-pc-here-are-solutions-to-stabilize-your-gameplay/"><u>Warno Not Working Properly on PC? Here Are Solutions to Stabilize Your Gameplay</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-recording-your-live-feed-without-spending-a-dime/"><u>[New] 2024 Approved Recording Your Live Feed without Spending a Dime</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-uncover-the-past-advanced-methods-for-instagram-image-retrieval/"><u>[New] Uncover the Past Advanced Methods for Instagram Image Retrieval</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-film-to-mp3-conversion-tactics/"><u>[Updated] 2024 Approved Instagram Film to MP3 Conversion Tactics</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-transforming-archived-content-for-livestream-audiences-on-facebook-for-2024/"><u>[Updated] Transforming Archived Content for Livestream Audiences on Facebook for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-v30-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-windows-net-runtime-requirement-hurdle/"><u>Avoiding Windows' .NET Runtime Requirement Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-overcoming-steam-auth-problems-with-rust-on-windows/"><u>Detailed Guide to Overcoming Steam Auth Problems with Rust on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-mspcm-interface-on-windows-11-easily/"><u>Navigating the MSPCM Interface on Windows 11 Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-steam-connectivity-woes-in-w11/"><u>Navigating Through Steam Connectivity Woes in W11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/new-drivers-installation-for-sysware-device/"><u>New Drivers Installation for SysWare Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-inactivity-in-new-os-sleep-mode/"><u>Overcoming Device Inactivity in New OS Sleep Mode</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/sh-potential-creating-a-youtube-channel-that-shines-in-games-for-2024/"><u>Unleash Potential Creating a YouTube Channel that Shines in Games for 2024</u></a></li>
 </ul></div>
 

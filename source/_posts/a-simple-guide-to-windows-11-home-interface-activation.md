@@ -1,7 +1,7 @@
 ---
 title: A Simple Guide to Windows 11 Home Interface Activation
-date: 2024-08-16T01:11:17.084Z
-updated: 2024-08-17T01:11:17.084Z
+date: 2025-01-27T21:02:20.107Z
+updated: 2025-02-02T20:36:53.297Z
 tags:
   - windows10
   - windows11
@@ -31,12 +31,16 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
  The new Home section brings all the common settings under one roof, so the users don't have to dive deep into the Settings app to change a network or personalization setting.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable the Home Section in the Settings App
 
  Repeat the following steps to enable and use the Home section in the Settings App:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Download the Latest Insider Build and ViveTool
 
@@ -48,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 
  After the download completes, navigate to the download location using File Explorer and extract the contents of the archive to a folder named "**Vive**". Move the folder containing the Vivetool to the **C** drive.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Enable the Home Section in the Settings App
 
  After updating your Windows PC and installing Vivetool, repeat the following steps:
@@ -61,26 +62,26 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 4. Now, you need to switch to the folder where Vivetool is present. Since we extracted the tool to a folder named “**Vive**” our command becomes: **cd vive**.
 5. Type **vivetool** and press the **Enter** key to check if the tool runs perfectly or not.  
 ![Enable the New Home Section in the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-the-new-home-section-in-the-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 6. Now, type the following commands and press the **Enter** key to execute them one by one:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `vivetool /enable /id:42058345  
 vivetool /enable /id:42058313`
 7. **Close** the Command Prompt window.  
 ![Enable the New Home Section in the Settings App 2-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-the-new-home-section-in-the-settings-app-2-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 8. **Restart** your PC to apply the changes made by the Vivetool in the Settings app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does the Enhanced Settings App Look Like?
 
  We compared the experimental and the old Settings app, and there are a few noticeable changes. For example, you automatically land on the Home section every time you open the enhanced Settings app.
@@ -97,16 +98,11 @@ vivetool /enable /id:42058313`
 
  Still, it is a much-needed overhaul from the existing Settings app, which will improve the overall user experience. Microsoft is also trying out a Home section in the File Explorer app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## A Revamped Settings App on Windows
 
  Microsoft’s take on the new Home section in the Settings app is a change we would definitely want to see in the stable builds in the upcoming months. But there are major changes arriving to the File Explorer and other Windows apps like the Photos app which recently got an update to support the dark mode and some zoom and usability improvements.
 
  However, it isn't just a cosmetic change because many utilities and Control Panel items are migrated to the Settings app. Microsoft also released a different version of the Settings app which incorporates a new Home section and a layout that will help you access the most commonly used settings. Let’s learn how to enable it on your PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -115,5 +111,20 @@ vivetool /enable /id:42058313`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-step-by-step-guide-to-creating-a-peak-vr-environment-for-2024/"><u>[Updated] Step-by-Step Guide to Creating a Peak VR Environment for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/backup-basics-steps-to-create-system-snapshot-with-windows-control-panel-tips-from-yl-computing/"><u>Backup Basics: Steps to Create System Snapshot with Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-connect-airpods-to-windows-machines/"><u>Effortlessly Connect AirPods to Windows Machines</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-diy-filmmaking-tricks-for-top-notch-results/"><u>Essential DIY Filmmaking Tricks for Top-Notch Results</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/getting-the-official-seal-of-approval-on-x-essential-tips-and-tricks/"><u>Getting the Official Seal of Approval on X: Essential Tips & Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-changing-windows-11-search-icons-backwards/"><u>Guidelines for Changing Windows 11 Search Icons Backwards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/latency-free-leap-essential-tips-for-clean-video-windows-streams/"><u>Latency-Free Leap: Essential Tips for Clean Video Windows Streams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-hidden-time-display-on-windows-bar/"><u>Setting Up Hidden Time Display on Window's Bar</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/techniques-de-recouvrement-des-carte-sdxc-les-5-facons-les-plus-performantes/"><u>Techniques De Recouvrement Des Carte SDXC : Les 5 Façons Les Plus Performantes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-dims-handbook-for-windows-11-repair/"><u>The Complete DIMS Handbook for Windows 11 Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-tactics-reactivating-windows-defender-protection-mechanism/"><u>Top 5 Tactics: Reactivating Windows Defender Protection Mechanism</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-spark-20c-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Spark 20C FRP Bypass</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-explores-how-ecoflows-battery-powered-up-an-entire-home-during-outages-your-ultimate-guide-to-portable-solutions/"><u>ZDNet Explores How EcoFlow's Battery Powered Up an Entire Home During Outages: Your Ultimate Guide to Portable Solutions</u></a></li>
+</ul></div>
 

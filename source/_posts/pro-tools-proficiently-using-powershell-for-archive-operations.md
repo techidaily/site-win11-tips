@@ -1,7 +1,7 @@
 ---
 title: "Pro Tools: Proficiently Using PowerShell for Archive Operations"
-date: 2025-01-26T10:42:48.526Z
-updated: 2025-02-01T15:43:03.460Z
+date: 2025-02-01T16:15:04.989Z
+updated: 2025-02-02T22:19:06.595Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Zip Files Using Command Prompt
 
  You can zip files through Command Prompt using the tar command. It's a command line tool that helps you to extract files and create archives. However, this command only works in Windows 10 or later.
@@ -42,6 +38,10 @@ Here's how to zip files using Command Prompt:
 ![Place of the file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/place.jpg)
 4. Type**dir** and press**Enter** . It'll show the files inside the selected folder.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Dir command in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dir.jpg)
 5. To zip all the files inside the selected folder, type the following command and press**Enter** . Replace '**Compressed** ' with the name you want to give your folder where the zip file will be stored. Also, replace '**FileExt** ' with the extension of the file you're zipping.  
 
@@ -49,15 +49,11 @@ Here's how to zip files using Command Prompt:
 ![Tar command in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tar.jpg)
 6. To zip a single file, execute the following command. Again, replace '**Compressed** ' with the name you want to give your folder where the zip file will be stored, '**FileExt** ' with your file's extension, and '**FileName** ' with the name of the file you want to zip.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `tar -a -c -f Compressed.zip FileName.FileExt`  
 ![Compressing one file in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/compressing-one-file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Zip Files Using Windows PowerShell
@@ -71,16 +67,16 @@ Here's how to zip files using Windows PowerShell:
 `Compress-Archive -LiteralPath 'file destination\file name' -DestinationPath 'target location\destination name'`  
 ![Zipping command in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to zip multiple files, execute the following command. Replace**file destination** and**file destination 1** with the location of the first and second files, respectively. And replace**file name** and**file name 2** with the first and second file names.
 
 `Compress-Archive -LiteralPath 'file destination\file name', 'file destination 1\file name 2 -DestinationPath 'target location\destination name'  
 `
 
 ![Zipping 2 files at once](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Unzip Files Using Command Prompt
 
@@ -91,6 +87,10 @@ Here's how to zip files using Windows PowerShell:
 3. Type the following command and press**Enter** . Replace '**Name** ' with the name of the zip file.  
 `tar -xf Name.zip`  
 ![Unzipping file in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping-file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You've successfully unzipped the file.
 
@@ -104,7 +104,7 @@ You've successfully unzipped the file.
 ![Unzipping file in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Save Up Space on Windows 11 by Zipping Your Files
@@ -128,17 +128,16 @@ You've successfully unzipped the file.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-face-to-face-conferencing-woes-9-fixes-for-clear-video-chats/"><u>[New] Face-to-Face Conferencing Woes? 9 Fixes for Clear Video Chats</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-final-cut-pros-essential-effect-enhancers-the-top-10-selection/"><u>[New] In 2024, Final Cut Pro’s Essential Effect Enhancers The Top 10 Selection</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-trendy-ways-to-save-your-gaming-moments/"><u>[New] Trendy Ways to Save Your Gaming Moments</u></a></li>
-<li><a href="https://extra-information.techidaily.com/establishing-value-driven-partnerships-with-brand-sponsors-in-youtubesphere/"><u>Establishing Value-Driven Partnerships with Brand Sponsors in Youtubesphere</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-offer-612-annual-win10-just-for-you/"><u>Exclusive Offer: $6.12 Annual Win10 - Just for You</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-align-your-windows-id-with-microsoft-accounts/"><u>How to Align Your Windows ID with Microsoft Accounts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-se-2022-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone SE (2022) Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-integrating-intels-network-devices-on-os-x/"><u>Quick Guide: Integrating Intel's Network Devices on OS X</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reacquiring-your-windows-11-pin-a-fix-guide/"><u>Reacquiring Your Windows 11 PIN: A Fix Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-4-compelling-reasons-to-pause-your-gaming-spree-in-the-coming-year/"><u>Top 4 Compelling Reasons to Pause Your Gaming Spree in the Coming Year</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-a-100-savings-on-apples-magic-keyboard-for-your-workspace-this-black-friday-insights/"><u>Unlock a $100 Savings on Apple's Magic Keyboard for Your Workspace This Black Friday Insights</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-your-potential-with-these-leading-cost-free-editions-for-2024/"><u>Unlock Your Potential with These Leading Cost-Free Editions for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-audio-visual-accomplishments-the-best-10-recording-devices-for-education/"><u>[Updated] Audio-Visual Accomplishments The Best 10 Recording Devices for Education</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-seamless-shift-an-introduction-to-crossfades/"><u>[Updated] The Seamless Shift An Introduction to Crossfades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-batch-installing-apps-using-winstall-in-windows-11/"><u>A Step-by-Step Approach to Batch Installing Apps Using Winstall in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decrease-overhead-memory-use-by-antivirus-programs/"><u>Decrease Overhead Memory Use by Antivirus Programs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-asus-ryzen-ai-laptops-rzne-ai-9-hx-370-and-rzne-ai-9-365-unveiling-on-july-17-for-tuf-gaming-rog-zephyrus-zenbook-and-proart/"><u>Discover the Latest Asus Ryzen AI Laptops: RZne AI 9 HX 370 & RZne AI 9 365 - Unveiling on July 17 for TUF Gaming, ROG Zephyrus, Zenbook, and ProArt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-into-mobility-control-deactivation-win-11/"><u>Dive Into Mobility Control Deactivation (Win 11)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-the-blend-of-style-and-might-in-the-4k-apple-imac-215-desktop-computer/"><u>Expert Review: The Blend of Style and Might in the 4K Apple iMac 21.5 Desktop Computer</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-top-editors-for-youtube-writers-and-creators-all-free/"><u>In 2024, Top Editors for YouTube' Writers and Creators - All Free</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/making-sense-of-english-language-contractions-strategies-and-tips/"><u>Making Sense of English Language Contractions: Strategies and Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-mending-exception-error-on-win-os/"><u>Understanding and Mending Exception Error on Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-winservicesexe-deciphering-windows-process/"><u>Understanding WinServices.exe: Deciphering Windows Process</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Monitor Space: Eliminate Windows Overscan"
-date: 2025-01-28T14:43:43.334Z
-updated: 2025-02-01T06:13:44.704Z
+date: 2025-01-27T17:06:12.334Z
+updated: 2025-02-02T16:31:58.747Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disconnect and Reconnect the Display
@@ -46,7 +46,15 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 3. Click the drop-down menu next to **Display resolution** to select the correct resolution from the list. If you don’t know the appropriate display resolution for your display, refer to the product manual or experiment with different options.  
 ![Change Display Resolution in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-display-resolution-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When attempting this fix, some users report having their screen resolution settings appear grayed out. If such is the case for you too, check our guide on [fixing inaccessible screen resolution settings on Windows](https://www.makeuseof.com/windows-inaccessible-screen-resolution-settings/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change the Display Scale
 
@@ -77,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 ![Fix Overscanning Using the Intel Graphics Command Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fix-overscanning-using-the-intel-graphics-command-center.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix Overscanning Using the NVIDIA Control Panel
@@ -91,16 +99,20 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 7. Click **OK** and then **Apply**.  
 ![Fix Overscanning Using the NVIDIA Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fix-overscanning-using-the-nvidia-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix Overscanning via AMD Radeon Settings
 
 1. Right-click on an empty spot on your desktop and select **AMD Radeon Settings** from the context menu.
 2. Select the **Display** tab at the top.
 3. Move the slider next to **HDMI Scaling** to make the display fit the screen.  
 ![Fix Overscanning via AMD Radeon Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fix-overscanning-via-amd-radeon-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you make the necessary adjustments using the above steps, the issue should not occur again.
 
@@ -110,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 
  Look for settings such as "Auto Adjust," "Screen Fit," "1:1," or "Scaling" on the menu. Experiment with different options and see if they help resolve overscanning or overscaling issues on your Windows PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Run the Display Calibration Tool
 
  Both Windows 10 and 11 offer a display calibration tool that can help you fix various display-related issues, including this one. Here's how you can run it.
@@ -122,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 2. Type **Calibrate Display Color** in the search box and select the first result that appears.
 3. In the **Display Color Calibration** window, follow the on-screen prompts.  
 ![Calibrate Display on Windows Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calibrate-display-on-windows-computer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Complete the calibration process and see if the overscanning issue still occurs on Windows.
 
@@ -142,10 +146,6 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 6. Click **Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the troubleshooter to find and fix any issues, and see if the issue persists.
 
 ## 8\. Try Some Generic Fixes
@@ -156,7 +156,7 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 * **Install Windows Updates:** It is possible that the overscanning issue is caused by a buggy Windows build. In such cases, [installing pending Windows updates](https://www.makeuseof.com/update-windows-manually/) should help resolve the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Overcome Overscanning on Windows
@@ -177,24 +177,20 @@ thumbnail: https://thmb.techidaily.com/2ef3dcd0a65154e26137d2fe405a5df0d2493a533
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-extracting-images-from-videos-in-windows-11-photos-for-2024/"><u>[New] Extracting Images From Videos in Windows 11 Photos for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-future-is-now-how-vida-transforms-video-editing-for-2024/"><u>[Updated] The Future Is Now How Vida Transforms Video Editing for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-security-with-new-passwords-in-windows-11/"><u>Enhance Security with New Passwords in Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-the-updated-windows-11-interface/"><u>Exploring the Updated Windows 11 Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-unique-launcher-tools-for-windows-applications/"><u>Exploring Unique Launcher Tools for Windows Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-crashes-maintaining-stability-of-windows-epic-launcher/"><u>Fix Crashes: Maintaining Stability of Windows Epic Launcher</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-regularity-of-access-control-on-win11/"><u>Guide to Regularity of Access Control on Win11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/io-screen-recorder-user-manual-overview/"><u>IO Screen Recorder User Manual Overview</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/live-speech-recognition-mastery-with-whisper/"><u>Live Speech Recognition Mastery with Whisper</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/loudness-leaders-4-tools-taking-windows-limits-beyond-reach/"><u>Loudness Leaders: 4 Tools Taking Windows' Limits Beyond Reach</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-from-raw-footage-to-hit-vids-a-step-by-step-guide-for-editors-for-2024/"><u>New From Raw Footage to Hit Vids A Step-by-Step Guide for Editors for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/optimal-vision-selections-of-best-4k-dslrs-in-action-for-2024/"><u>Optimal Vision Selections of Best 4K DSLRs in Action for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-conversion-of-mobile-to-desktop-android-webcams-in-windows-11/"><u>Seamless Conversion of Mobile to Desktop: Android Webcams in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-devices-strengthening-passcodes-in-windows-11-and-11/"><u>Securing Devices, Strengthening Passcodes in Windows 11 and 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-5-metodi-gratis-per-ridurre-le-dimensioni-dei-file-video-in-formato-mkv/"><u>Top 5 Metodi Gratis per Ridurre Le Dimensioni Dei File Video in Formato Mkv</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/ultimate-list-of-12-amazing-alternatives-to-handbrake-software/"><u>Ultimate List of 12 Amazing Alternatives to HandBrake Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-quickfix-guide-to-windows-camera-troubleshooting/"><u>Ultimate Quickfix Guide to Windows Camera Troubleshooting</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-achieved-optimal-resolution/"><u>Win10: Achieved Optimal Resolution</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028705810-mp4/"><u>ビデオプロジェクトを改良：MP4動画を上手に分割・カットする方法</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-truth-behind-aurora-hdr-image-clarity/"><u>[New] The Truth Behind Aurora HDR Image Clarity</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-on-demand-acting-rights-form/"><u>[Updated] In 2024, On-Demand Acting Rights Form</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/download-the-latest-version-karaoki-beta-update-085895-now-ready/"><u>Download the Latest Version: Karaoki Beta Update 0.8.5895 Now Ready</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-keygen-malware-on-windows-recognition-and-eradication-steps/"><u>Identifying Keygen Malware on Windows: Recognition and Eradication Steps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-expert-advice-the-most-effective-ways-to-capture-your-virtual-sessions/"><u>In 2024, Expert Advice The Most Effective Ways to Capture Your Virtual Sessions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ios-guide-disabling-access-to-youtube-on-your-tablet/"><u>IOS Guide: Disabling Access to YouTube on Your Tablet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-pc-storage-identifying-excess-disk-usage-in-windows/"><u>Maximizing PC Storage: Identifying Excess Disk Usage in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-integration-wirelessly-link-dualshock-3-and-win/"><u>Seamless Integration: Wirelessly Link DualShock 3 & Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stay-connected-disable-usb-sleep-on-windows-11-pc/"><u>Stay Connected: Disable USB Sleep on Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-5-best-torrent-clients-for-windows/"><u>The 5 Best Torrent Clients for Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-rebooting-your-airpods-know-when-and-how-to-do-it-right-digitalsavvy/"><u>The Ultimate Guide to Rebooting Your AirPods: Know When & How to Do It Right | DigitalSavvy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-full-potential-of-the-windows-key/"><u>Unlocking Full Potential of the Windows Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-troubleshooting-for-elusive-temp-files/"><u>Windows Troubleshooting for Elusive Temp Files</u></a></li>
 </ul></div>
 

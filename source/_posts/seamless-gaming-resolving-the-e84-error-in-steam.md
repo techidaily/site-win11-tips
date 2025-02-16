@@ -1,7 +1,7 @@
 ---
 title: "Seamless Gaming: Resolving the E84 Error in Steam"
-date: 2025-01-26T16:26:36.095Z
-updated: 2025-02-01T11:27:02.165Z
+date: 2025-01-26T21:23:57.816Z
+updated: 2025-02-02T18:10:20.016Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Perform Some Preliminary Checks
 
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 ![Click on the Login Button on Steam Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-click-on-the-login-button-on-steam-website.jpg)
 3. Enter your username, and without entering your password (even if you remember it), click on**Help, I can't sign in** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Click on Help I Can’t Sign In Option From the Login Page on Steam Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-click-on-help-i-can-t-sign-in-option-from-the-login-page-on-steam-website.jpg)
 4. Then, click on**I forgot my Steam Account name or password** .
 5. Enter the email address or phone number linked to your account, verify Captcha, and click on**Search** .  
@@ -68,10 +68,14 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 ![Click on Reset My Password Option on Steam Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-click-on-reset-my-password-option-on-steam-website.jpg)
 9. Then, follow the on-screen instructions to reset your password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After changing your password, restart your device once and try to sign in again with the new password. Hopefully, this time you won't encounter any errors. If resetting the account password does not resolve the issue, proceed to the next step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Add or Remove Launch Parameters
@@ -84,12 +88,13 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
 ![Go to Shortcut Tab in the Steam Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-go-to-shortcut-tab-in-the-steam-properties-window.jpg)
 3. To modify the**Target** field, click at its end, add a space, and type**"-noreactlogin** .**"**
-4. Click**Apply** and then hit**OK** .  
-![Click on OK Button After Adding a Launch Parameter in Steam Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-click-on-ok-button-after-adding-a-launch-parameter-in-steam-properties-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Click**Apply** and then hit**OK** .  
+![Click on OK Button After Adding a Launch Parameter in Steam Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-click-on-ok-button-after-adding-a-launch-parameter-in-steam-properties-window.jpg)
 
  If you see that some launch parameters are already added to the Target field, consider removing them. According to some users on[GitHub](https://github.com/ValveSoftware/steam-for-linux/issues/9031) , Steam no longer supports the**"noreactlogin"** flag and suggests removing it. Remove this flag if it is already there. Taking this step will ensure that this extra parameter is not contributing to the problem.
 
@@ -102,16 +107,12 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
  To confirm that the issue isn't with your Steam account, sign in to Steam using a different account (If you don't have another account, create one). If you successfully log in using the other account, it indicates that your primary account has an issue. So, contact Steam support through their[official Steam Support website](https://help.steampowered.com/en/) and ask them to investigate it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Whitelist Steam in All Active Security Apps
 
  Valve recommends whitelisting Steam's executable files in Windows' built-in or third-party security suites. So, go to Steam's installation folder, filter out all the executable files, and[whitelist them from Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) or any other third-party antivirus software you use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Rid of Steam's Error Code 84 on Windows
 
@@ -132,19 +133,14 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-perfecting-tiktok-videos-efficient-techniques-for-numerical-edits/"><u>[New] Perfecting TikTok Videos Efficient Techniques for Numerical Edits</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-idleness-tranquil-phone-game-recommendations/"><u>[Updated] Essential Idleness Tranquil Phone Game Recommendations</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-foremost-techniques-for-transforming-seminars-into-videos/"><u>2024 Approved The Foremost Techniques for Transforming Seminars Into Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-look-at-logitechs-high-quality-4k-cam/"><u>2024 Approved The Ultimate Look at Logitech's High-Quality 4K Cam</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anticipating-the-next-apple-event-dates-news-scoops-and-hot-gossip-await/"><u>Anticipating the Next Apple Event? Dates, News Scoops, and Hot Gossip Await!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combatting-common-packages-access-issues-in-ws10ws11-systems/"><u>Combatting Common Packages Access Issues in WS10/WS11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-management-of-high-cpuram-consumption-by-unrealcefsubprocess/"><u>Effective Management of High-CPU/RAM Consumption by UnrealCEFSubprocess</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-zoom-glitches-overcoming-error-1132/"><u>Fixing Zoom Glitches: Overcoming Error 1132</u></a></li>
-<li><a href="https://windows11.techidaily.com/mobile-devices-enhancing-windows-microphone-use/"><u>Mobile Devices Enhancing Windows Microphone Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/retro-upgrade-reskinning-windows-11-in-98-style/"><u>Retro Upgrade: Reskinning Windows 11 in '98 Style</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplifying-team-meetings-using-artificial-intelligence/"><u>Simplifying Team Meetings Using Artificial Intelligence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-secure-browsing-in-win-11-using-ms-defender-application-guard-tech/"><u>Streamline Secure Browsing in Win 11 Using MS Defender Application Guard Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-unsuccessful-cloud-operations-onedrive/"><u>Tackling Unsuccessful Cloud Operations: OneDrive</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-quick-tips-eradicate-online-ads-from-your-feed/"><u>[New] Quick Tips Eradicate Online Ads From Your Feed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-step-by-step-guide-to-efficient-video-capture-with-zd-software-tools/"><u>[Updated] 2024 Approved Step-by-Step Guide to Efficient Video Capture with ZD Software Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterful-descriptions-for-impactful-podcast-intros/"><u>[Updated] Masterful Descriptions for Impactful Podcast Intros</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-keystrokes-using-typingaid/"><u>Accelerate Your Keystrokes Using TypingAid</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amending-disabled-windows-shadow-snapshots/"><u>Amending Disabled Windows Shadow Snapshots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generative-ai-and-its-revolutionary-role-in-redefining-career-pathways-top-7-insights/"><u>Generative AI and Its Revolutionary Role in Redefining Career Pathways – Top 7 Insights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-rewind-and-play-instagrams-backwards-videos-unveiled/"><u>In 2024, Rewind and Play Instagram's Backwards Videos Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-recollection-of-previous-windows-password/"><u>Mending “Recollection of Previous Window's Password”</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-mspm-setup-obstacles-in-windows-vista/"><u>Overcoming MSPM Setup Obstacles in Windows Vista</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Disabling Accelerated GPU Task Execution in Windows Operating System
-date: 2025-01-29T15:33:05.917Z
-updated: 2025-02-01T14:50:50.999Z
+date: 2025-01-27T02:30:15.428Z
+updated: 2025-02-02T16:34:50.742Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
 ![Discrete GPU made by NVIDIA](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Discrete-GPU-by-NVIDIA.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Most of the time, [GPU hardware scheduling is worth turning on in Windows](https://www.makeuseof.com/windows-10-gpu-hardware-scheduling-worth-turning-on/), especially if your computer isn’t equipped with one of the latest GPU models. But enabling the GPU scheduling feature can also backfire, and have a negative impact on your computer’s performance. For example, on an older GPU, it might cause latency between the frames or even significant lag while gaming.
 
  Also, GPU scheduling is known for causing conflict with Windows services, such as dxgmms2.sys, which helps render graphics, especially during gaming sessions. So, if you keep running into the [dxgmms2.sys error in Windows 11](https://www.makeuseof.com/windows-11-dxgmms2-sys-error-fix/), you’ll have to disable the Hardware- accelerated GPU scheduling feature.
@@ -62,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
 ![The Optimizations for windowed games setting option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/optimizations-for-windowed-games-setting.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using Windows 10, here’s how you can disable the GPU hardware scheduling feature:
 
 1. Right-click the **Start** button and select **Settings**.
@@ -73,11 +73,11 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 ![How to disable hardware accelerated gpu-scheduling in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hardware-acc-win10-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Disable Hardware Accelerated GPU Scheduling Through Windows Registry
@@ -94,11 +94,11 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 ![How to disable hardware accelerated GPU scheduling through Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/registry-acc-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPU Scheduling Is Good, but It’s Not Perfect
@@ -117,24 +117,19 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-make-vimeo-videos/"><u>[Updated] 2024 Approved How to Make Vimeo Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-diverse-designs-at-your-fingertips-from-these-6-websites/"><u>[Updated] In 2024, Diverse Designs at Your Fingertips From These 6 Websites</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-best-subtitle-converters-reviewed-the-top-8-win-osx-sbt-to-srts-software/"><u>2024 Approved Best Subtitle Converters Reviewed The Top 8 Win-OSX SBT to SRTS Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-direct-link-between-spotify-and-youtube-the-top-tools-for-music-sharing/"><u>2024 Approved Direct Link Between Spotify and YouTube The Top Tools for Music Sharing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-step-by-step-guide-to-elevating-video-presence-through-thumbnails/"><u>2024 Approved Step-by-Step Guide to Elevating Video Presence Through Thumbnails</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/apples-m1-processor-showdown-m1-pro-versus-m1-max-differences-for-2024/"><u>Apple’s M1 Processor Showdown M1 Pro versus M1 Max Differences for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-and-correcting-character-mapping-errors-on-windows/"><u>Decoding and Correcting Character Mapping Errors on Windows</u></a></li>
-<li><a href="https://article-files.techidaily.com/free-webm-viewers-the-ultimate-comparison-of-options-for-2024/"><u>Free WebM Viewers The Ultimate Comparison of Options for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-configure-clipboard-functionality-within-microsoft-written-assurance-mode-windows-11/"><u>How to Configure Clipboard Functionality Within Microsoft' Written Assurance Mode, Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correct-no-available-display-options-on-pc/"><u>How to Correct No Available Display Options on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-solve-camera-unavailable-issue-on-windows-11/"><u>How to Solve Camera Unavailable Issue on Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-zte-axon-40-lite-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from ZTE Axon 40 Lite to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-12plus-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme 12+ 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-the-maze-of-typical-anydesk-issues-on-windows/"><u>Navigating Through the Maze of Typical AnyDesk Issues on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reconnect-your-printer-to-regain-printing-power/"><u>Reconnect Your Printer to Regain Printing Power</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-incessant-pause-windows-errors/"><u>Remedy for Incessant Pause Windows Errors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/story-1-the-misunderstanding-of-dupuytrens-contracture/"><u>Story 1: The Misunderstanding of Dupuytren's Contracture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-executing-clean-boots-on-windows-11/"><u>Understanding and Executing Clean Boots on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-status-audit-top-3-strategies/"><u>Windows 11 Status Audit: Top 3 Strategies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-clear-cuts-for-chilling-youtube-content-no-more-silent-lapses/"><u>[New] 2024 Approved Clear Cuts for Chilling YouTube Content – No More Silent Lapses</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discover-the-best-15-youtube-science-think-tanks/"><u>[Updated] In 2024, Discover the Best 15 YouTube Science Think Tanks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-prime-visual-cutting-software-for-windows-editors-choice-list/"><u>2024 Approved Prime Visual Cutting Software for Windows - Editor’s Choice List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-25-secrets-for-effective-win10-use/"><u>2024 Approved Top 25 Secrets for Effective Win10 Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eject-incompatible-setup-warnings-in-win11/"><u>Eject Incompatible Setup Warnings in Win11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/first-choice-of-android-photo-editors-for-2024/"><u>First Choice of Android Photo Editors for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-gt-5-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme GT 5 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-nokia-xr21-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Nokia XR21</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s Plus without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-rapid-launcher-loading/"><u>Mastering the Art of Rapid Launcher Loading</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-permission-problems/"><u>Mastery over Windows Permission Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-fn-key-tasks-in-windows-1011-oses/"><u>Tailoring FN Key Tasks in Windows 10/11 OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-overcoming-windows-notepad-hangups/"><u>Tips for Overcoming Windows Notepad Hangups</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-4k-video-conversion-software-2023s-best-picks-for-2024/"><u>Updated Top-Rated 4K Video Conversion Software 2023S Best Picks for 2024</u></a></li>
 </ul></div>
 

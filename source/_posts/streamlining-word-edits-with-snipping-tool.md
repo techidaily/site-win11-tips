@@ -1,7 +1,7 @@
 ---
 title: Streamlining Word Edits with Snipping Tool
-date: 2025-01-25T02:19:48.647Z
-updated: 2025-02-01T00:53:21.210Z
+date: 2025-01-30T20:01:20.088Z
+updated: 2025-02-02T17:32:51.688Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the Text Actions Feature in the Snipping Tool?
 
  At the time of writing, the current version of Snipping Tool lets you capture and annotate screenshots. You can even [screen record using the Snipping tool](https://www.makeuseof.com/how-to-screen-record-with-windows-11-snipping-tool/).
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
  However, the latest build of Microsoft Insider Dev and Canary channel featured an updated version of the Snipping Tool, including the "Text Action" feature. This brings OCR support for screenshots, meaning you can scan your captured images for text.
 
  You can copy a selected portion of the identified text or copy all the text from the screenshot before saving it. Moreover, you can also redact the text and then copy the remaining portion of the text from the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable and Use Text Actions Feature in the Snipping Tool
 
@@ -48,18 +56,18 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 4. The feature will identify all the text in the captured screenshot and highlight it. Click and drag the mouse to select a particular word or sentence from the screenshot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click on the **Copy all text** to copy everything from the image and save it to the clipboard.  
 ![Text Actions Feature Identifying text from Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-feature-identifying-text-from-screenshot.jpg)
 6. Press the **Win** key, type **Notepad**, and press **Enter**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Paste all the copied text in the Notepad and save it for later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Redact Text in the Snipping Tool
 
@@ -69,15 +77,7 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 ![Redacting Text in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/redacting-text-in-snipping-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to apply only one kind of redact option, click on the arrow icon next to the Quick Redact option. Now, unselect any option and then click on the Quick Redact option once again. Lastly, if you want to remove the redact effect from the screenshot, click on the arrow icon and then click on the **Remove all redactions** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our Observations on the Snipping Tool
 
@@ -85,11 +85,11 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 ![Text Actions For Hindi Language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-for-hindi-language.jpg)
 
- So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
 
 ## Copy Text From Screenshots in a Snap
 
@@ -107,22 +107,18 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-thieye-t5e-vs-sjcam-sj6-legend-which-one-should-i-buy/"><u>[New] In 2024, Thieye T5e Vs SJCAM SJ6 Legend Which One Should I Buy</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-reimagining-art-top-6-influencers-shaping-nft-culture/"><u>[New] Reimagining Art Top 6 Influencers Shaping NFT Culture</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unveiling-the-ideal-12-vlogging-cameras-with-seamless-screen-control/"><u>[Updated] 2024 Approved Unveiling the Ideal 12 Vlogging Cameras with Seamless Screen Control</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/guide-to-converting-and-downloading-icloud-photos-in-jpeg-format-for-windows-users/"><u>Guide to Converting and Downloading iCloud Photos in JPEG Format for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-open-the-authorization-manager-in-windows-11/"><u>How to Open the Authorization Manager in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-overcome-windows-installation-mishap-0xc004f050/"><u>How to Overcome Windows Installation Mishap 0xC004F050</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723001694671-how-to-stop-phoenix-point-from-crashing-proven-fixes-that-work/"><u>How to Stop Phoenix Point From Crashing: Proven Fixes That Work</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-motorola-moto-g13-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Motorola Moto G13 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-management-of-windows-credentials-11/"><u>Mastering the Management of Windows Credentials (11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-potential-unlock-the-most-innovative-windows-powertoy-tips/"><u>Maximize Potential: Unlock the Most Innovative Windows PowerToy Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-win-11s-task-monitor-real-time-updates/"><u>Optimize Win 11'S Task Monitor Real-Time Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-obstacles-reinstate-mspm-in-windows-7/"><u>Overcome Obstacles: Reinstate MSPM in Windows 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-headset-mic-connectivity-issues/"><u>Resolving Windows Headset Mic Connectivity Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-arrange-bunched-up-taskbar-icons/"><u>Strategies to Arrange Bunched-Up Taskbar Icons</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-ai-uprising-between-gemini-max-and-gptplusplus/"><u>The Ultimate AI Uprising: Between Gemini Max & GPT++</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-disable-youtube-preview-across-platforms/"><u>[Updated] Disable Youtube Preview Across Platforms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastery-in-gameye-advanced-recording-tips/"><u>[Updated] In 2024, Mastery in GamEye Advanced Recording Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-story-straightforward-recording-tips-for-2024/"><u>[Updated] Instagram Story Straightforward Recording Tips for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-poco-f5-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Poco F5 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-pathway-to-create-high-quality-audio-cds-from-mp3-files-using-imgburn-windows/"><u>Easy Pathway to Create High Quality Audio Cds From MP3 Files Using ImgBurn (Windows)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-reliability-and-functionality-of-the-sea-tech-blu-ray-external-drive-for-usb-connectivity/"><u>Evaluating the Reliability and Functionality of the Sea Tech Blu-Ray External Drive for USB Connectivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-the-ultimate-guide-to-zero-cost-win-media-tools/"><u>Explore the Ultimate Guide to Zero-Cost Win Media Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-windows-fingerprint-reader-software-latest-update-available-now/"><u>Free Windows Fingerprint Reader Software - Latest Update Available Now!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-11-zero-cost-youtube-moniker-makers/"><u>In 2024, Essential 11 Zero-Cost YouTube Moniker Makers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-connexent-driver-update-for-windows-10-version-2004-a-comprehensive-guide/"><u>Installing the Connexent Driver Update for Windows 10 Version 2004: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-captcha-troubles-in-steam/"><u>Overcoming Windows CAPTCHA Troubles in Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-lost-steam-games-iconage/"><u>Solutions for Lost Steam Games Iconage</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/streaming-uefa-champions-league-top-methods-for-live-viewing-on-your-computer/"><u>Streaming UEFA Champions League: Top Methods for Live Viewing on Your Computer</u></a></li>
 </ul></div>
 

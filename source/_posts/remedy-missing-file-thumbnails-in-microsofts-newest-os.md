@@ -1,7 +1,7 @@
 ---
 title: Remedy Missing File Thumbnails in Microsoft's Newest OS
-date: 2025-01-26T22:01:13.635Z
-updated: 2025-02-01T11:50:33.049Z
+date: 2025-01-28T19:06:32.555Z
+updated: 2025-02-02T19:36:10.801Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![Go to Folder Options in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-go-to-folder-options-in-windows-file-explorer.jpg)
 3. In the**Folder Options** window, uncheck the box beside**Always show icons, never thumbnails** (if it's checked).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Apply** and hit**Ok** .  
 ![Uncheck the Box Beside Always Show Icons Never Thumbnails.in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-uncheck-the-box-beside-always-show-icons-never-thumbnails-in-windows-file-explorer.jpg)
 
@@ -55,16 +51,12 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
 ![Change the Icon Size of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-change-the-icon-size-of-folders-in-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If changing the icon size doesn't make a difference, change the view style by right-clicking in the same folder, navigating to**View** , and selecting**Tiles** or**Content** .
 
 ![Change the View Style of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-change-the-view-style-of-folders-in-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Check for Files or Format Specific Issues
@@ -75,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
  Sometimes, users have to manually enable thumbnail previews in the software settings. Check if the software you use offers such a feature, and if it does, enable it, and you'll begin to see thumbnails for that software's files. However, if the software does not offer this feature, you will have to use third-party file managers to see thumbnails for its files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Close Interfering Apps
 
  Using third-party apps lets users preview thumbnails for file formats that Windows don't natively support. However, these third-party apps can interfere with the basic functionality of Windows' features, causing many of them to stop working.
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
  To close such an app and all associated processes, right-click the**Start** button and open**Task Manager** . Look for processes that seem to be relevant to that app. When you find them, right-click on each of them and click**End task** .
 
 ![Closing the OBS Studio Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/end-task.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Rebuild the Thumbnail Cache
 
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![restart file explorer process windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-explorer-process-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Enable Thumbnail Preview From Visual Effects
@@ -112,15 +112,11 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 2. Check the circle beside**Adjust for best appearance** in the**Performance Options** window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Then, ensure the box beside**Show thumbnails** **instead of icons** is checked.  
 ![Change Visual Effects to Get the Best Appearance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-enable-certain-options-in-visual-effects-tab-of-performance-options-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Apply Generic Windows 11 Fixes
 
@@ -129,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 * Ensure that the drive where you are experiencing this issue has enough free storage space. Consider[freeing up the storage space](https://www.makeuseof.com/windows-11-free-up-storage-space/) if it's running low.
 * [Change the default app in Windows 11](https://www.makeuseof.com/change-windows-11-default-apps/) for files that don't have thumbnails.
 * Install any pending Windows updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quickly Find Relevant Files Using Thumbnails on Windows 11
 
@@ -149,22 +149,18 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-exclusive-listing-the-top-10-places-to-snag-pristine-photos/"><u>[New] Exclusive Listing The Top 10 Places to Snag Pristine Photos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-windows-11-apps-and-games-to-explore-and-download/"><u>[New] Windows 11 Apps and Games to Explore and Download</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-discover-the-best-voice-interpretation-tech-for-mac-users/"><u>[Updated] 2024 Approved Discover the Best Voice Interpretation Tech for Mac Users</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-easycapture-prox-diagnosis-for-2024/"><u>[Updated] EasyCapture ProX Diagnosis for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-maximizing-profile-video-attraction-strategies-for-2024/"><u>[Updated] Maximizing Profile Video Attraction Strategies for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-luminous-upgrades-5-must-try-online-video-tools/"><u>2024 Approved Luminous Upgrades 5 Must-Try Online Video Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-steps-to-revert-settings-after-system-restart/"><u>Easy Steps to Revert Settings After System Restart</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-hidden-windows-bar-when-window-is-full-screen/"><u>Overcoming Hidden Windows Bar when Window Is Full Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-addressing-lsa-deactivation-issue/"><u>Quick Guide to Addressing LSA Deactivation Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-unrecognized-razers-by-synapse-in-latest-windows-os/"><u>Remedy Unrecognized Razers by Synapse in Latest Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shaping-the-future-of-windows-11-with-ai-assistance/"><u>Shaping the Future of Windows 11 with AI Assistance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-libgdk-win32-20-0dll-file-missing-issues/"><u>Solutions for Resolving .libgdk-win32-2.0-0.dll File Missing Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723201338798-spacebar-key-stuck-or-unresponsive-in-windows-11-heres-what-to-do/"><u>Spacebar Key Stuck or Unresponsive in Windows 11? Here's What to Do</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sticking-with-the-classic-top-7-factors-favoring-windows-10/"><u>Sticking with the Classic: Top 7 Factors Favoring Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-windows-update-classification/"><u>Understanding Windows Update Classification</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-deep-dive-mastery-of-activating-concealed-character-profile-tool/"><u>Windows Deep Dive: Mastery of Activating Concealed Character Profile Tool</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-fading-audio-dynamics-a-logic-pro-approach/"><u>[Updated] Fading Audio Dynamics A Logic Pro Approach</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-sidestep-social-snubs-10-proven-steps-for-fb-freedom-for-2024/"><u>[Updated] Sidestep Social Snubs 10 Proven Steps for Fb Freedom for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhance-visual-appeal-edit-videos-for-instagram-success/"><u>2024 Approved Enhance Visual Appeal Edit Videos for Instagram Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-operation-of-microsofts-phone-link-app/"><u>Demystifying the Operation of Microsoft's 'Phone Link' App</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-pro-max-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 Pro Max System? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/immersive-escapes-delving-into-jaunt-vr/"><u>Immersive Escapes Delving Into Jaunt VR</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-multiplayer-sessions-with-xbox-zoom-support/"><u>In 2024, Seamless Multiplayer Sessions with Xbox Zoom Support</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-and-folder-combination-in-windows-11/"><u>Mastering File & Folder Combination in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/obscure-yet-outstanding-windows-11-themes/"><u>Obscure yet Outstanding Windows 11 Themes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719341208077-pause-on-snipwise-discover-fixes-today-here/"><u>Pause on SnipWise? Discover Fixes Today, Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/probing-windows-bsod-files-and-their-residues/"><u>Probing Windows BSOD Files & Their Residues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-9-methods-to-control-volume-levels-in-windows-11/"><u>Unlock 9 Methods to Control Volume Levels in Windows 11</u></a></li>
 </ul></div>
 

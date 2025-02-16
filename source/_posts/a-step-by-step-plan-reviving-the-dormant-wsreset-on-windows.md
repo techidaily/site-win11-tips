@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Plan: Reviving the Dormant WSReset on Windows"
-date: 2024-08-16T01:12:17.032Z
-updated: 2024-08-17T01:12:17.032Z
+date: 2025-01-31T18:56:04.414Z
+updated: 2025-02-02T23:24:19.005Z
 tags:
   - windows10
   - windows11
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
 
  Now let's move on to troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Run WSReset.exe as an Administrator
 
  WSReset.exe requires administrative privileges to run properly. If you're not running it as an administrator, it may fail to reset the Windows Store cache.
@@ -45,33 +42,29 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
 2. Select **System** from the left sidebar.
 3. In the right pane, click **Troubleshoot > Other troubleshooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. On the troubleshooter page, scroll down to **Windows Store Apps** and click **Run**.  
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-store-apps-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As the troubleshooter scans, it detects and fixes any existing issues. Once that's done, restart your computer again and try running WSReset.exe again.
 
  If you use Windows 10 version, the process will be slightly different. Press **Win + R**, type **ms-settings:troubleshoot**, and hit Enter. In the Settings menu, click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**.
 
 ![Windows Additional Troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Windows-Additional-Troubleshooters.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select **Windows Store Apps** from the list and click **Run the troubleshooter**.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Repair and Reset Windows Store
 
  If WSReset.exe is still not working, chances are the Windows Store app might be corrupted or not functioning correctly. In that case, try [repairing and resetting the Windows Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/). This will restore the application to its default settings and often solves errors
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 4\. Remove the Latest Windows Updates
 
  Although Microsoft releases regular Windows updates to improve overall system performance, sometimes these updates cause problems instead. WSReset.exe not working is one such issue related to a recent Windows update.
@@ -88,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
 
  Follow the onscreen instructions and restart your computer when it's done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Clear the Microsoft Store Cache via the Registry
 
  If you're still having issues with WSReset.exe, clear the Microsoft Store cache via the registry. This wipes out temporary files, settings, or preferences that may cause this issue.
@@ -101,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
 `wmic useraccount get name,sid`
 5. Running this command will list all user accounts on your computer. Find the SID of your user account and copy it.  
 ![List all user account via command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/list-all-user-account-via-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Next, open the Registry Editor. For this, click on **Start** \> type **regedit** in the search box, then select it from the results list.
 7. If the UAC pop-up appears, click **Yes** to continue.
 8. When the Registry Editor opens, navigate to the following registry key:  
@@ -118,8 +112,9 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
  Now, open the Command Prompt window with administrative privileges again and run WSReset.exe to see if it works properly. If so, you have successfully cleared the Microsoft Store cache via the registry.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reinstall the Microsoft Store
 
  Sometimes Windows Store files are corrupted or damaged. This may require you to [reinstall the Microsoft Store app](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/). The process replaces corrupted or missing files and prevents WSReset.exe from malfunctioning.
@@ -132,13 +127,15 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
 
  You could also [run System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to fix errors and replace corrupt files. If none of the above-mentioned steps work, [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/) and restore your computer to an earlier point when it was working fine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Resolving the WSReset.exe Issue on Windows
 
  Today WSReset.exe is a well-known tool among Windows users. Despite being simple, this can be tricky to troubleshoot if it fails to reset or clear the Windows Store. Hopefully, it's just a system glitch, and you can fix the problem using the suggestions provided in this article.
 
  However, if you encounter problems with WSReset.exe or receive frequent errors, your computer may have an underlying issue that needs to be addressed. This article offers guidance on troubleshooting and fixing WSReset.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -147,5 +144,18 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-enhancing-imagery-add-filters-to-videos-on-devices-for-2024/"><u>[New] Enhancing Imagery Add Filters to Videos on Devices for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-gif-mastery-10-key-elements-to-perfect-creation/"><u>[Updated] In 2024, GIF Mastery 10 Key Elements to Perfect Creation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-mastering-content-structure-elevated-templates-for-yt/"><u>2024 Approved Mastering Content Structure Elevated Templates for YT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-simplicity-of-storytelling/"><u>2024 Approved Unveiling the Simplicity of Storytelling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-the-haste-of-edges-tabs-in-w11/"><u>Halt the Haste of Edge's Tabs in W11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-a38-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo A38</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-yourphoneexe-malware-insights-on-windows-87/"><u>Is YourPhone.exe Malware? Insights on Windows 8/7</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-best-of-the-best-top-rated-2d-animation-software-free-trials-and-paid-plans-for-2024/"><u>New The Best of the Best Top-Rated 2D Animation Software Free Trials & Paid Plans for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-access-reactivating-ms-store-apps-in-windows-11/"><u>Regaining Access: Reactivating MS Store Apps in Windows 11</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/understanding-gaming-related-system-crashes-insights-from-yl-computing/"><u>Understanding Gaming-Related System Crashes: Insights From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-windows-11-potential-via-powertoys-install/"><u>Unleashing Windows 11 Potential via PowerToys Install</u></a></li>
+</ul></div>
 

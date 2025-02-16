@@ -1,7 +1,7 @@
 ---
 title: Navigating to Public IP on Win 10/11 via CLI
-date: 2025-01-28T00:32:44.773Z
-updated: 2025-02-01T01:07:13.836Z
+date: 2025-02-01T20:52:12.295Z
+updated: 2025-02-02T19:31:18.019Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Check Your Private IP Address on Windows
 
 ![command prompt ipconfig private ip address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-ipconfig-private-ip-address.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows offers multiple ways to view your network information, including the IP address. For instance, you can easily [check your IP address from the Settings app](https://www.makeuseof.com/tag/find-ip-address-windows-10/). You can also use the Network and Sharing Center in Control Panel or dig a little bit in the Task Manager’s Performance tab to access your system’s network details.
 
@@ -49,12 +49,16 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
  If you need to share the output for troubleshooting purposes, you can export the output to a text file. In Command Prompt, run **ipconfig > NetworkInfo.txt** to save the output to a **NetworkInfo.text** file. By default, it is saved to the **C:\\Users\\Username** directory.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Get Your Public IP Address on Windows
 
 ![Command Prompt running Curl command showing Public IP Address on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-public-ip-address-curl.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unlike the private IP address, the **ipconfig** command cannot retrieve the public IP address of your ISP. Instead, you’ll need to [use the curl command-line utility to make HTTP requests](https://www.makeuseof.com/curl-how-make-http-requests/) using a third-party service, like ifconfig.me, to obtain IP address mapping information.
@@ -74,16 +78,12 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
  If you check your public IPv6 address again after a few hours or days—depending on the router's configuration—you may notice a different IPv6 address. Due to privacy concerns, your router dynamically assigns and changes the IPv6 address for all connected devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Online Tools to Get Your Public IP Address
 
 ![whatismyip online public ip address tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/whatismyip-online-public-ip-address-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you prefer a more intuitive experience, you can use online web services that can provide information on your network configuration. These services can also detect the ISP location and other information, including the user agent.
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 * **Use a search engine**: If you don’t want to remember another website to do basic stuff, try your search engine. Type “What’s my IP” in Google or Bing search to get your public IPv4/IPv6 address quickly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Many Ways to Check Your Public IP Address on Windows
@@ -113,22 +113,19 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-identifying-tech-giants-iphone-x-and-samsungs-face-recognition/"><u>[Updated] Identifying Tech Giants IPhone X & Samsung's Face Recognition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-desktop-capture-the-windows-user-guide/"><u>2024 Approved Desktop Capture The Windows User Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-pc-utilization-despite-high-cpuram-demands-from-unrealcefsubprocess/"><u>Efficient PC Utilization Despite High CPU/RAM Demands From UnrealCEFSubprocess</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-directx-setup-failure-causes/"><u>Eliminating DirectX Setup Failure Causes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-the-significance-of-build-numbers-on-windows/"><u>Exploring the Significance of Build Numbers on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-manage-which-devices-can-wake-your-windows-pc-from-sleep-mode/"><u>How to Manage Which Devices Can Wake Your Windows PC From Sleep Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-actions-for-split-view-malfunctions/"><u>Immediate Actions for Split View Malfunctions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-moto-g23-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Moto G23? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y78-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y78 5G Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pinnacle-designs-premium-no-cost-ae-toolkit/"><u>In 2024, Pinnacle Designs Premium, No-Cost AE Toolkit</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-convenience-setting-up-seamless-sign-in-for-windows-users/"><u>Mastering Convenience: Setting Up Seamless Sign-In for Windows Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pc-strategies-mastering-the-game-of-pokemon-unite/"><u>PC Strategies: Mastering the Game of Pokémon Unite</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-itel-a60s-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Itel A60s and Browser | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rearranging-your-onedrive-storage-path-on-windows-10/"><u>Rearranging Your OneDrive Storage Path on Windows 10</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-best-free-online-webm-video-compressor-options-for-2024/"><u>The Best Free Online WebM Video Compressor Options for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-improve-web-safety-on-windows-1011-oses/"><u>Tips to Improve Web Safety on Windows 10/11 OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-install-location-mysteries-in-windows-environment/"><u>Unlocking Install Location Mysteries in Windows Environment</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-boost-visibility-with-customized-channel-names/"><u>[New] 2024 Approved Boost Visibility with Customized Channel Names!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-new-to-vector-art-dive-into-basics-forms-and-software/"><u>[New] 2024 Approved New to Vector Art? Dive Into Basics, Forms, and Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-steps-to-create-an-impactful-youtube-trailer/"><u>[Updated] Steps to Create an Impactful YouTube Trailer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-routines-to-pause-windows-and-office-software-updates/"><u>4 Routines to Pause Windows & Office Software Updates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/a-revolutionary-leap-in-gaming-the-unmatched-prowess-of-the-xbox-series-x-with-4k-graphics/"><u>A Revolutionary Leap in Gaming: The Unmatched Prowess of the Xbox Series X with 4K Graphics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-potential-role-in-reviving-frustrated-sonos-device-experiences/"><u>Apple's Potential Role in Reviving Frustrated Sonos Device Experiences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-right-video-coding-technique-for-win-os-users/"><u>Deciphering the Right Video Coding Technique for Win OS Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-through-terminal-restart-on-win11/"><u>Guiding Users Through Terminal Restart on Win11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-nintendo-switch-online-currently-unavailable-diagnosing-network-issues-and-service-interruptions/"><u>Is Nintendo Switch Online Currently Unavailable? Diagnosing Network Issues and Service Interruptions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-video-production-on-mac-with-adobe-premiere-pro/"><u>New Elevate Your Video Production on Mac with Adobe Premiere Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-steam-symbols-on-pc/"><u>Resetting Steam Symbols on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/separate-your-online-storage-onedrive-and-microsoft-ids/"><u>Separate Your Online Storage: OneDrive & Microsoft IDs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-for-acquiring-flawless-photos-on-the-internet/"><u>Strategies for Acquiring Flawless Photos on the Internet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-usb-flash-drive-picks-your-ultimate-guide/"><u>Top-Rated USB Flash Drive Picks : Your Ultimate Guide</u></a></li>
 </ul></div>
 

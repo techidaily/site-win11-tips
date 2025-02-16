@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Windows Subsystem After Upgrade
-date: 2025-01-31T08:41:28.586Z
-updated: 2025-01-31T20:57:24.964Z
+date: 2025-01-27T17:18:42.676Z
+updated: 2025-02-02T23:00:40.911Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check That WSL Is Enabled
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 ![checking if WSL is enabled in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsl-enabled.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. In Windows Search, type**Turn Windows features on or off** and click the search result that should appear at the top.
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
  Hopefully, WSL is now working, and you can begin using the tool. If not, read on for some other possible solutions.
 
  Learn more about the[things you can do with WSL and Linux](https://www.makeuseof.com/pros-cons-windows-subsystem-for-linux/) on your Windows computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable Hyper-V and Virtual Machine Platform
 
@@ -75,11 +79,11 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 ![Advanced app options in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-wsl.jpg)
 4. Click the**Repair** button and follow the on-screen instructions if repairs are necessary.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![repairing an app in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-wsl-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check if WSL is working. If not, try uninstalling and reinstalling the Linux distribution app.
 
@@ -93,16 +97,12 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 3. Click the**Open** button, and the default Linux distro app should launch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If a command line interface window opens instead, it will probably tell you a required feature is missing. See**Enable Hyper-V and Virtual Machine Platform** above.
 
  If forcing WSL to open doesn't work, try the same with the Linux distro app you are using. Open the Store, search for your distro, and click the**Open** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Uninstall Recent Updates to Fix WSL
 
@@ -137,20 +137,20 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-art-of-engaging-audiences-with-facebooks-split-screen-tech/"><u>[New] 2024 Approved The Art of Engaging Audiences with Facebook's Split Screen Tech</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-audio-engineers-guide-switching-from-srt-to-ttml/"><u>[New] 2024 Approved The Audio Engineer’s Guide Switching From SRT to TTML</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-discover-the-best-iphones-selfie-upgrades-all-for-free-now-for-2024/"><u>[Updated] Discover the Best iPhones' Selfie Upgrades - All for Free, Now for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-execute-a-budget-friendly-youtube-seminar/"><u>[Updated] How to Execute a Budget-Friendly Youtube Seminar</u></a></li>
-<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/animating-elegance-self-designed-tricks-and-effects-for-2024/"><u>Animating Elegance Self-Designed Tricks & Effects for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-anomaly-top-disruptive-music-apps-for-iosandroid-for-2024/"><u>Audio Anomaly Top Disruptive Music Apps for iOS/Android for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dive-into-device-uptime-a-comprehensive-guide-for-windows-11-users/"><u>Dive Into Device Uptime: A Comprehensive Guide for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-software-installation-windows-11s-toolkit/"><u>Enhancing Software Installation: Windows 11’S Toolkit</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-failed-game-installations-in-ms-store/"><u>Fixing Failed Game Installations in MS Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-your-photo-size-in-windows-11-with-these-top-6-tips/"><u>Master Your Photo Size in Windows 11 with These Top 6 Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-malfunctioning-ccleaner-in-win11/"><u>Mending Malfunctioning CCleaner in Win11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/step-by-step-approach-to-mastery-with-iphone-x-animoji-use/"><u>Step-by-Step Approach to Mastery with iPhone X Animoji Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-audio-recorder-9999-issue-in-windows/"><u>Troubleshooting Audio Recorder 9999 Issue in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-users-bitter-experiences-counted/"><u>Windows 11: Users' Bitter Experiences Counted</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chill-championships-highlighting-cold-climates-sports/"><u>[New] Chill Championships Highlighting Cold Climates Sports</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-audio-techniques-capturing-clear-sound-for-2024/"><u>[Updated] Essential Audio Techniques Capturing Clear Sound for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-leverage-these-10-devices-for-crystal-clear-zooms/"><u>2024 Approved Leverage These 10 Devices for Crystal Clear Zooms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-csgo-start-problems-on-w11/"><u>Fixing CS:GO Start Problems on W11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mute-unwanted-tips-and-hints-in-windows-notification-hub/"><u>Mute Unwanted Tips and Hints in Windows Notification Hub</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photo-editing-mastery-leveraging-photoshops-background-eraser-tool-to-perfection-for-2024/"><u>Photo Editing Mastery Leveraging Photoshop's Background Eraser Tool to Perfection for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedies-for-not-enough-memory-available-problem-windows-vmware/"><u>Remedies for 'Not Enough Memory Available' Problem (Windows VmWare)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-overlapping-app-images-in-os-interface/"><u>Removing Overlapping App Images in OS Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-enabling-non-standard-windows-apps/"><u>Strategies for Enabling Non-Standard Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-pcs-display-lock-settings/"><u>Tailor Your PC's Display Lock Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-clear-microsofts-watchdog-logs-on-windows/"><u>Techniques to Clear Microsoft's Watchdog Logs on Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-compilation-top-vr-games-on-google-cardboard/"><u>The Ultimate Compilation Top VR Games on Google Cardboard</u></a></li>
+<li><a href="https://win-premium.techidaily.com/troubleshooting-steps-resolving-no-scanner-detected-error-on-your-device-expert-advice-from-yl-computing/"><u>Troubleshooting Steps: Resolving 'No Scanner Detected' Error on Your Device - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/tutorial-per-risolvere-lerrore-del-download-bloccato-allo-0-o-al-99-in-windows-10/"><u>Tutorial per Risolvere L'errore Del Download Bloccato Allo 0% O Al 99% in Windows 10</u></a></li>
 </ul></div>
 

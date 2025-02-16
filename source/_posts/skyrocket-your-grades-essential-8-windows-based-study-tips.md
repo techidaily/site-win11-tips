@@ -1,7 +1,7 @@
 ---
 title: "Skyrocket Your Grades: Essential 8 Windows-Based Study Tips"
-date: 2025-01-29T06:38:41.420Z
-updated: 2025-02-01T02:05:12.961Z
+date: 2025-01-28T00:04:35.526Z
+updated: 2025-02-02T20:41:41.055Z
 tags:
   - windows10
   - windows11
@@ -65,15 +65,7 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 ![Google Drive Preferences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences.jpg)
 6. Click on **Done** and then **Save** to finish the backup process.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Google Drive Preferences Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We asked you to create the main folder (in the previous section) for a reason. Now that your main folder is synced live, whatever files/folders you save to that, you can access all of them from your smartphone.
 
@@ -86,11 +78,11 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 ![Focus Session Option On Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/focus-session-option-on-windows11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Install Useful Browser Extensions
@@ -108,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
  For non-Chromium based browsers, you can visit the official websites of the respective extensions to download supported add-ons.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Annotate Your PDFs With Drawboard PDF
@@ -124,8 +116,16 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 ![Drawboard PDF Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-option.jpg)
 3. Click on **Always** to set Drawboard as your default PDF viewer app.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![App Picker In Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/app-picker-in-windows11.jpg)
 4. The app will ask you to create a new Drawboard account or sign in with your already existing one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. The PDF file should open in Drawboard now. If you've not used Drawboard before, we suggest clicking on the (**+**) plus button on the left side of the ribbon. Set up or configure the annotation tools to add highlights, text, or shapes at your convenience.  
 ![Drawboard PDF Advanced Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-advanced-tools.jpg)
@@ -149,14 +149,10 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 ![Notion Page Example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/notion-page-example.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We already have a [beginner's guide to get started with Notion](https://www.makeuseof.com/beginners-guide-to-notion/). Besides, you can also browse [Notion templates for students](http://www.notion.so/templates/category/school) to start with an attractive setup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Install ChatGPT on Your PC
 
@@ -167,6 +163,10 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 ![ChatGPT Website Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-website-screenshot.jpg)
 
  Besides, if you don't know how to use ChatGPT for note-taking, you can refer to our guide on [how to use ChatGPT to take notes](https://www.makeuseof.com/use-chatgpt-to-take-notes/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Your Windows Productivity Hub Is Now Ready
 
@@ -186,24 +186,20 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-beginners-pathway-prime-video-game-editing-applications/"><u>[New] 2024 Approved Beginner's Pathway Prime Video Game Editing Applications</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-smooth-volume-changes-in-fl-studio/"><u>[New] 2024 Approved Mastering Smooth Volume Changes in FL Studio</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-digital-creativity-unleashed-changing-numbers-in-tiktok-for-2024/"><u>[New] Digital Creativity Unleashed Changing Numbers in TikTok for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-essential-guide-video-recording-with-vlc/"><u>[Updated] 2024 Approved Essential Guide Video Recording with VLC</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-master-quick-youtube-video-uploads-and-rendering-secrets/"><u>[Updated] Master Quick YouTube Video Uploads and Rendering Secrets</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-secure-recording-techniques-masking-personal-details/"><u>2024 Approved Secure Recording Techniques Masking Personal Details</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-of-both-worlds-affordable-plus-all-purpose-in-the-tiny-asus-vivobook-11/"><u>Best of Both Worlds: Affordable + All-Purpose in the Tiny Asus Vivobook 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-ai-techniques-understanding-nlp-vs-machine-learning/"><u>Comparing AI Techniques: Understanding NLP Vs. Machine Learning</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/downloading-and-installing-windows-11-arm-an-iso-based-tutorial/"><u>Downloading & Installing Windows 11 ARM: An ISO-Based Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-customizable-fn-key-features-in-windows-11/"><u>Exploring Customizable FN Key Features in Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-j5-tacticals-v1-pro-flashlight-durability-meets-convenience-for-nighttime-visibility/"><u>In-Depth Analysis of J5 Tactical's V1-Pro Flashlight – Durability Meets Convenience for Nighttime Visibility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-remove-stubborn-software-in-windows-11/"><u>Methods to Remove Stubborn Software in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/migrating-user-defined-powertoys-settings/"><u>Migrating User-Defined PowerToys Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinvigorating-antique-directx-games-using-dxvk/"><u>Reinvigorating Antique DirectX Games Using DXVK</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trick-installing-outlook-preview-in-windows-1011/"><u>Trick: Installing Outlook Preview in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-why-you-shouldnt-turn-off-wins-11-notifications/"><u>Understanding Why You Shouldn’t Turn Off Wins 11 Notifications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-secrets-opening-win11s-system32/"><u>Unraveling the Secrets: Opening Win11's System32</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11-storage-management-relocate-your-onedrive/"><u>Win 11 Storage Management: Relocate Your OneDrive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-strategy-against-default-saving-failures/"><u>Winning Strategy Against Default Saving Failures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-taste-of-film-home-cooks-visual-journey/"><u>[New] 2024 Approved A Taste of Film Home Cook's Visual Journey</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-game-enhancement-select-top-hdds-for-xbox/"><u>[New] 2024 Approved Game Enhancement Select Top HDDs for Xbox</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capture-clarity-selecting-best-gimbals-for-your-camera/"><u>[New] Capture Clarity Selecting Best Gimbals for Your Camera</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-deciphering-how-burst-improves-video-continuity/"><u>[Updated] 2024 Approved Deciphering How Burst Improves Video Continuity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-act-reducing-excessive-background-load/"><u>Balancing Act: Reducing Excessive Background Load</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-pairing-problems-with-bluetooth-devices-on-windows-10-tips/"><u>How to Overcome Pairing Problems with Bluetooth Devices on Windows 10 - Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sonorized-snapshots-a-cinematic-symphony/"><u>In 2024, Sonorized Snapshots A Cinematic Symphony</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlocking-composite-power-with-blend-mode-knowledge/"><u>In 2024, Unlocking Composite Power with Blend Mode Knowledge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-pc-printer-link-fixes/"><u>Mastering PC Printer Link Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x80072efd-in-windows-devicesstore-apps/"><u>Overcoming Error 0X80072EFD in Windows Devices/Store Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-secure-your-browsing-with-microsofts-defender-in-win-11/"><u>Step-by-Step: Secure Your Browsing with Microsoft's Defender in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-system-performance-by-adding-disk-space-analyzer-tool/"><u>Streamline System Performance by Adding Disk Space Analyzer Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-skip-out-of-s-mode-with-ease-for-your-pc/"><u>Swiftly Skip Out of S Mode with Ease for Your PC</u></a></li>
+<li><a href="https://win-top.techidaily.com/unlocking-local-search-success-a-guide-to-understanding-the-local-pack-and-effective-seo-strategies/"><u>Unlocking Local Search Success: A Guide to Understanding the Local Pack & Effective SEO Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-playnite-with-emulated-game-support/"><u>Upgrade Playnite with Emulated Game Support</u></a></li>
 </ul></div>
 

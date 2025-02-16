@@ -1,7 +1,7 @@
 ---
 title: "How to Add the D: Drive to File Explorer's Navigation Pane"
-date: 2025-01-26T11:33:16.445Z
-updated: 2025-02-01T01:55:29.032Z
+date: 2025-01-30T02:38:42.199Z
+updated: 2025-02-03T02:22:57.005Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Before You Proceed…
@@ -33,15 +33,15 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Furthermore, we highly recommend that you learn how to [back up and restore the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/). That way, you have a way of returning it to the state it was in before you made any changes that broke it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Do I Add the D: Drive to the Navigation Pane in File Explorer?
 
  Start by pressing **Win + S** to bring up Windows Search. Then, type **notepad** in the Search box, and when Notepad shows up in the search results, click on it to launch it.
 
 ![The Notepad search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/notepad-search-result.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then copy and paste the below text into Notepad:
 
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ![saving a registry file in Notepad on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/save-reg-file-add-drive-nav-pane.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, double-click the Registry file you just created and click **Yes** on the UAC prompt. You’ll then be asked if you want to continue with the merge, so click **Yes**. Afterward, press **Win + E** to open File Explorer.
@@ -91,10 +91,14 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ![the D drive showing in the bottom section of the Navigation pane on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/d-drive-nav-pane.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The D: drive should now be visible in the bottom part of the Navigation pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do I Remove the D: Drive From the Navigation Pane in File Explorer?
 
@@ -111,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Now the D: drive should be gone from the navigation pane in File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create an Easier Way to Access the D: Drive on Your Windows Computer
 
  With this guide, you will remove an extra step when accessing the D: drive on your Windows computer. Once you have created the registry files, adding and removing the D: drive from the Navigation pane will be easy. While the registry files are safe, don’t forget to create a backup of your Registry or a system restore point for good measure.
@@ -129,22 +129,20 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-top-8-gold-text-in-3d-realms/"><u>[New] Ultimate Guide to Top 8 Gold Text in 3D Realms</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-unveiling-top-10-trending-tweets-of-2023/"><u>[New] Unveiling Top 10 Trending Tweets of 2023</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-top-5-alternatives-to-tiktok-you-should-know-updated/"><u>[Updated] In 2024, Top 5 Alternatives to TikTok You Should Know [Updated ]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-action-gopro-for-dynamic-time-lapses/"><u>2024 Approved Expertise in Action GoPro for Dynamic Time-Lapses</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-13-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi 13 Ultra without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clarifying-system-repair-tools-chkdsk-vs-sfc-and-dissect-processes/"><u>Clarifying System Repair Tools: Chkdsk Vs. Sfc & Dissect Processes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/converting-gmail-to-outlook-mail-on-windows/"><u>Converting Gmail to Outlook Mail on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-windows-11-camera-glitch-code-a00f4289/"><u>Correcting Windows 11 Camera Glitch Code A00F4289</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-for-a-smooth-wsl-2-experience-with-docker-tools/"><u>Expert Tips for a Smooth WSL 2 Experience with Docker Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-google-pixel-8-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Google Pixel 8 Pro online without jailbreak</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>New An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-mail-app-failure-decode-windows-11s-0x800713f/"><u>Overcoming Mail App Failure: Decode Windows 11’S 0X800713F</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reclaim-space-fix-error-36-in-macos-trash/"><u>Reclaim Space: Fix Error 36 in macOS Trash</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/script-snafus-say-goodbye-with-these-windows-fixes/"><u>Script Snafus? Say Goodbye with These Windows Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-your-productivity-in-windows-with-these-top-apps/"><u>Skyrocket Your Productivity in Windows with These Top Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-unsyncing-google-drive-on-your-pc-instantly/"><u>Troubleshoot Unsyncing Google Drive on Your PC Instantly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-metas-hidden-virtual-reality-masterpiece-a-potential-game-changer-for-the-tech-world-eclipsing-apples-vision-pro/"><u>Unveiling Meta's Hidden Virtual Reality Masterpiece: A Potential Game-Changer for the Tech World, Eclipsing Apple's Vision Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-agile-approaches-storing-ppt-speeches/"><u>[Updated] 2024 Approved Agile Approaches Storing PPT Speeches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-effective-ways-to-extend-gopro-battery-use-for-2024/"><u>[Updated] Effective Ways to Extend GoPro Battery Use for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-razer-gaming-mouse-up-and-running-on-windows-with-this-quick-installation-guide/"><u>Get Your Razer Gaming Mouse Up And Running On Windows with This Quick Installation Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-erase-personal-info-from-sign-in-window/"><u>Guide to Erase Personal Info From Sign-In Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-restoring-a-dysfunctional-downloads-hub-in-windows/"><u>Guidelines for Restoring a Dysfunctional Downloads Hub in Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-applications-for-animating-3d-scenes/"><u>In 2024, Premium Applications for Animating 3D Scenes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719298672852-leveraging-local-links-to-global-drives-dropbox-and-googledrive-via-c/"><u>Leveraging Local Links to Global Drives: Dropbox & GoogleDrive via C:</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/protecting-your-porch-for-a-price-in-depth-review-of-the-wallet-friendly-remobell-device/"><u>Protecting Your Porch for a Price: In-Depth Review of the Wallet-Friendly RemoBell Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-rendition-accelerating-prints-on-windows-system/"><u>Rapid Rendition: Accelerating Prints on Windows System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reworking-records-6-windows-applications-for-date-revision/"><u>Reworking Records: 6 Windows Applications for Date Revision</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/trailblazers-in-virtual-reality-experience/"><u>Trailblazers in Virtual Reality Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-more-than-one-antivirus-isnt-ideal-for-windows-users/"><u>Why More Than One Antivirus Isn't Ideal for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-woes-8-strategies-for-neutralizing-pink-displays/"><u>Windows Woes: 8 Strategies for Neutralizing Pink Displays</u></a></li>
 </ul></div>
 

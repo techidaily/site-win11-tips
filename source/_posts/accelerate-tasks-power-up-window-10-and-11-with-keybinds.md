@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Tasks: Power-Up Window 10 and 11 with Keybinds"
-date: 2024-08-16T01:10:49.452Z
-updated: 2024-08-17T01:10:49.452Z
+date: 2025-01-27T23:24:02.431Z
+updated: 2025-02-02T16:23:29.736Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,11 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 1. Click any area of your Windows desktop with the mouse’s right button and select the **New** and **Shortcut** options.  
 ![The Shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/shortcut-option.jpg)
 2. Then input (or copy and paste) one of the NirCmd commands below in the item location box as follows:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `C:\Users\nircmd-x64\nircmd.exe NirCmd command`  
 ![The Create Shortcut window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-shortcut-wizard.jpg)
 3. Click **Next** to continue to the final step in the shortcut wizard.
@@ -48,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
  Of course, that desktop shortcut will only work if you extract NirCmd to the Users folder as instructed above. You can extract NirCmd anywhere you wish, but the full path of that software’s extracted file must be included in the item location box before the command. You can see the full path for the nircmd.exe file by right-clicking it and selecting **Properties**.
 
 ![A NirCmd file path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/path-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you’ve created desktop shortcuts for the commands below, go ahead and try them out. Double-clicking the desktop shortcuts will execute the NirCmd commands they’re based on.
 
@@ -69,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 
  Now you can set up NirCmd desktop and keyboard command shortcuts that do all kinds of things. Here are eight handy NirCmd commands to create shortcuts for.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Empty the Recycle Bin
 
  A keyboard shortcut for emptying the Recycle Bin would undoubtedly be handy, but Windows doesn’t have one. You can create a desktop shortcut or hotkey for emptying the Recycle Bin with this NirCmd command:
@@ -79,8 +85,9 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 `nircmd.exe emptybin`
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Center Align All Windows
 
  This NirCmd command will centrally align all restored down windows. It’s a useful command for organizing windows on the desktop. The command for centrally aligning windows is:
@@ -88,17 +95,15 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 `nircmd.exe win center alltop`
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Log Out of Windows
 
  A hotkey for [signing out of your Windows user account](https://www.makeuseof.com/windows-11-how-to-sign-out/) would be useful. You can create such a keyboard shortcut with this NirCmd command:
 
 `nircmd.exe exitwin logoff`
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### 4\. Read Out the Copied Clipboard Item
 
  This NirCmd command will read out the most recently copied text item on the Windows clipboard. Creating a hotkey for it will give you a convenient way to check what text you’ve copied to the clipboard. The NirCmd command for reading a copied clipboard item aloud is:
@@ -119,11 +124,6 @@ keywords: Accelerate Windows,Keybind Power-Up,10/11 Speed Boost,Task Management 
 thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a292d3d2c56946946b1d875c1f.jpg
 ---
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### 5\. Activate Your Windows 11/10 Screensaver
 
  Do you have a screensaver set that you love viewing? If so, set up a NirCmd command shortcut that enables you to immediately activate that screensaver. You can create a desktop and keyboard shortcut for activating the screensaver with this NirCmd command:
@@ -137,8 +137,9 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 `nircmd.exe win close class CabinetWClass`
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. Keep the Calculator on Top of All Windows
 
  The pre-installed Calculator app is one many users no doubt need when browsing the web or utilizing other software packages. You can create a NirCmd command shortcut that always keeps Calculator on top of other windows when you’re utilizing that app. To do so, you’ll need to input this command within a desktop shortcut’s item location box:
@@ -151,13 +152,15 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 
 `nircmd.exe setbrightness 60 3`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create Handy Windows Task Shortcuts With NirCmd
 
  Those are just a few handy Windows tasks for which you can create desktop and keyboard shortcuts with NirCmd commands. This [NirCmd command reference page](https://nircmd.nirsoft.net/) shows there are 105 NirCmd commands available for creating Windows task shortcuts. So, you can also create Windows task shortcuts for adjusting the volume, setting display resolution, restarting File Explorer, saving screenshots, converting images, and much more!
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -166,5 +169,20 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-streamline-your-path-to-youtubes-srt-files/"><u>[New] Streamline Your Path to YouTube's SRT Files</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unlock-the-power-of-podcasts-15-task-filled-activities-to-do-while-listening-to-your-favorite-talk-shows/"><u>[Updated] 2024 Approved Unlock the Power of Podcasts 15 Task-Filled Activities to Do While Listening to Your Favorite Talk Shows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-wondershare-filmora-and-other-best-video-editing-software-for-windows-10/"><u>[Updated] In 2024, Wondershare Filmora and Other Best Video Editing Software for Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-steam-goals-a-complete-walkthrough/"><u>Clearing Steam Goals: A Complete Walkthrough</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-redmi-note-12r-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Redmi Note 12R to Protect Your Individual Information</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-sign-in-troubles-solutions-await/"><u>Microsoft Store Sign-In Troubles? Solutions Await</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-fcpx-tutorial-trimming-and-cropping-images-like-a-pro/"><u>New In 2024, FCPX Tutorial Trimming and Cropping Images Like a Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-non-responsive-ctrl-issue-in-windows-11/"><u>Overcoming the Non-Responsive Ctrl Issue in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-unavailable-windows-updates-in-windows/"><u>Restoring Unavailable Windows Updates in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-to-configuring-pc-manager/"><u>Unveiling the Secrets to Configuring PC Manager</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/werden-itunes-synchronisierte-bilder-nach-behebung-entfernt/"><u>Werden ITunes-Synchronisierte Bilder Nach Behebung Entfernt?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-sid-exploration-a-comprehensible-guidebook/"><u>Windows 11 SID Exploration: A Comprehensible Guidebook</u></a></li>
+</ul></div>
 

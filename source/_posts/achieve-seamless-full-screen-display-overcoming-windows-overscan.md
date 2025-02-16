@@ -1,7 +1,7 @@
 ---
 title: "Achieve Seamless Full-Screen Display: Overcoming Windows Overscan"
-date: 2024-08-16T01:13:28.905Z
-updated: 2024-08-17T01:13:28.905Z
+date: 2025-01-29T22:06:25.832Z
+updated: 2025-02-02T22:12:28.698Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
  Fortunately, it’s possible to fix the overscanning or overscaling issues in Windows so that all the content is visible. This guide will walk you through the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disconnect and Reconnect the Display
 
  Overscanning problems on Windows can arise from a poorly connected [HDMI or DisplayPort](https://www.makeuseof.com/displayport-vs-hdmi/) cable. This can cause the screen image to appear stretched or cut off. Hence, the first thing you should do is disconnect and reconnect the display.
@@ -27,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
  Turn off your monitor or TV and unplug the HDMI or DisplayPort cable. Wait a few seconds, and then plug the cable back in. While you’re at it, ensure that both the cable's connector and the port are clean and free from any visible dust to ensure a secure connection.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Change the Display Resolution
 
  Although Windows can automatically detect and adjust the resolution of a connected display, it may encounter difficulties at times. This can lead to overscanning or other display-related problems. In such cases, you can attempt to fix the issue by manually adjusting the display resolution.
@@ -39,24 +44,13 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 2. Select the **System** tab and click on **Display**.
 3. Click the drop-down menu next to **Display resolution** to select the correct resolution from the list. If you don’t know the appropriate display resolution for your display, refer to the product manual or experiment with different options.  
 ![Change Display Resolution in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-display-resolution-in-windows.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When attempting this fix, some users report having their screen resolution settings appear grayed out. If such is the case for you too, check our guide on [fixing inaccessible screen resolution settings on Windows](https://www.makeuseof.com/windows-inaccessible-screen-resolution-settings/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Change the Display Scale
 
  Opting for an incorrect display scale may result in certain desktop elements being cropped or extending beyond the visible screen area, leading to an overscaled display. To fix this, you need to adjust the display scale on Windows using the steps below:
@@ -65,15 +59,9 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 2. Head to **System > Display**.
 3. Click the drop-down menu next to **Scale** to select the **Recommended** value.  
 ![Change Display Scale on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-display-scale-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
  After changing the display scale, disconnect and reconnect the display and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use the Graphics Control Panel
 
  If adjusting the display resolution and scale via the Windows Settings app proves ineffective, you can try using the built-in graphics control panel to apply the changes. The exact steps will vary depending on whether your PC is equipped with Intel, NVIDIA, or AMD graphics.
@@ -92,8 +80,13 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 ![Fix Overscanning Using the Intel Graphics Command Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fix-overscanning-using-the-intel-graphics-command-center.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix Overscanning Using the NVIDIA Control Panel
 
 1. Open the **NVIDIA Control Panel** using the search menu.
@@ -104,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 6. Adjust the **Width** and **Height** sliders so that the display fits the screen.
 7. Click **OK** and then **Apply**.  
 ![Fix Overscanning Using the NVIDIA Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fix-overscanning-using-the-nvidia-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix Overscanning via AMD Radeon Settings
 
@@ -128,9 +125,6 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 2. Type **Calibrate Display Color** in the search box and select the first result that appears.
 3. In the **Display Color Calibration** window, follow the on-screen prompts.  
 ![Calibrate Display on Windows Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calibrate-display-on-windows-computer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Complete the calibration process and see if the overscanning issue still occurs on Windows.
 
@@ -150,9 +144,9 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
  Wait for the troubleshooter to find and fix any issues, and see if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Try Some Generic Fixes
 
  If you are still struggling with the overscanning issue, you can try your luck with a couple of generic Windows fixes to see if they resolve the problem.
@@ -160,9 +154,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * **Update Display Drivers:** Faulty or outdated display drivers on your PC can cause such anomalies. You can try [updating the display drivers on your Windows](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) computer to see if that helps.
 * **Install Windows Updates:** It is possible that the overscanning issue is caused by a buggy Windows build. In such cases, [installing pending Windows updates](https://www.makeuseof.com/update-windows-manually/) should help resolve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overcome Overscanning on Windows
 
  Overscanning issues on Windows can make it difficult to use your computer, as they can cause menus, options, and other elements to be cut off.
@@ -171,8 +162,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Fortunately, it’s possible to fix the overscanning or overscaling issues in Windows so that all the content is visible. This guide will walk you through the process.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -180,5 +169,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-elevate-your-channel-identity-essential-youtube-naming-strategies-for-2024/"><u>[Updated] Elevate Your Channel Identity Essential YouTube Naming Strategies for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-filmmakers-guide-to-selecting-excellent-lenses/"><u>[Updated] In 2024, The Filmmaker's Guide to Selecting Excellent Lenses</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-essential-tips-for-high-quality-discord-recordings/"><u>2024 Approved Essential Tips for High-Quality Discord Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-premium-accelerated-photo-browser-for-windows/"><u>2024 Approved Premium Accelerated Photo Browser for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-updates-and-error-windows-0x800f0845/"><u>Fixing Updates and Error: Windows 0X800F0845</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-itel-p55-drfone-by-drfone-android/"><u>How to Screen Mirroring Itel P55? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-sony-xperia-1-v-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Sony Xperia 1 V to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jolt-from-hibernation-freeze-on-your-pc/"><u>Jolt From Hibernation Freeze on Your PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-greyed-out-unlock-pin-function-in-windows-11/"><u>Overcoming Greyed Out Unlock Pin Function in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719365826035-resolve-camera-woes-in-windows-heres-how/"><u>Resolve Camera Woes in Windows, Here’s How!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/revolutionary-approaches-to-share-fb-videos-on-whatsapp/"><u>Revolutionary Approaches to Share FB Videos on WhatsApp</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sculpt-sketch-and-color-like-never-before-microsoft-paint-enhancements/"><u>Sculpt, Sketch & Color Like Never Before: Microsoft Paint Enhancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-administrator-privileges-denial-in-cmd-prompt/"><u>Solving Administrator Privileges Denial in Cmd Prompt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-unusual-wsl-error-4294967295-on-pcs/"><u>Tackling Unusual WSL Error 4294967295 on PCs</u></a></li>
+</ul></div>
 

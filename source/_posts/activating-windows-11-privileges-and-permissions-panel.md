@@ -1,7 +1,7 @@
 ---
 title: Activating Windows 11 Privileges and Permissions Panel
-date: 2024-08-16T01:13:19.537Z
-updated: 2024-08-17T01:13:19.537Z
+date: 2025-02-01T23:04:59.747Z
+updated: 2025-02-03T00:52:56.297Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,6 @@ To access the Authorization Manager, follow these steps:
 
  You should now see the Authorization Manager window in the search results. Click on the result to launch the app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Use Run Dialog Box
 
  Another way to open the Authorization Manager in Windows is through the Run dialog box. Here's how to do it:
@@ -44,8 +41,9 @@ To access the Authorization Manager, follow these steps:
  With this approach, you don't have to browse through multiple menus or folders and can begin managing your computer's authorization settings in a moment.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use Windows File Explorer
 
  Windows File Explorer is a handy tool to manage your files and folders, allowing you to view, create, move, rename, delete, and organize files. It is also the gateway to accessing hidden files and system settings. Here's how to open Authorization Manager:
@@ -54,8 +52,9 @@ To access the Authorization Manager, follow these steps:
 2. In the File Explorer address bar, type**azman.msc** and hit**Enter** .
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Use the Command Prompt and PowerShell
 
  You may be familiar with the command prompt if you’re a system administrator or an advanced user. To open Authorization Manager using this tool, follow these steps:
@@ -63,16 +62,10 @@ To access the Authorization Manager, follow these steps:
 1. Right-click on**Start** and select**Run** from the menu that appears.
 2. Type**cmd** in the dialog box and press**Enter** .  
 ![Open the Authorization Manager Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-using-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. In the Command Prompt, type**azman.msc** and press**Enter** .
 
  This will instantly open the Authorization Manager window on your computer screen. The same command will also work if you launch and execute it in Windows PowerShell.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Use the Task Manager
 
  Task Manager is a great way to manage your computer's performance and troubleshoot any issues. Besides this, it also provides quick access to the Authorization Manager. Here's how:
@@ -83,8 +76,13 @@ To access the Authorization Manager, follow these steps:
 3. In the text box, type "azman.msc" and press**Enter** or click**OK** . This will open the Authorization Manager application in a moment.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Create a Desktop Shortcut
 
  A desktop shortcut is simply an icon on your computer’s desktop that links to a program or file. With this method, you won’t have to navigate through several menus just to find the Authorization Manager program.
@@ -94,6 +92,11 @@ To access the Authorization Manager, follow these steps:
 1. Right-click on your desktop and select**New > Shortcut** from the context menu.  
 ![Open the Authorization Manager With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-with-desktop-shortcut.jpg)
 2. In the text field, type the following and then click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 C:\WINDOWS\system32\azman.msc
 3. Give it a name and click**Finish** .
 
@@ -103,14 +106,11 @@ C:\WINDOWS\system32\azman.msc
 
  Windows Authorization Manager allows you to manage user roles and permissions in order to have greater control over your system's security. In case you are having difficulties, here are some methods you can try.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,8 +119,21 @@ C:\WINDOWS\system32\azman.msc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-cost-effective-gaming-selecting-the-best-keyboard-choices/"><u>[New] In 2024, Cost-Effective Gaming Selecting the Best Keyboard Choices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-free-translation-top-8-choices-revealed/"><u>2024 Approved Mastering Free Translation Top 8 Choices Revealed</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-closer-look-at-ais-individuality-and-innovation/"><u>A Closer Look at AI's Individuality and Innovation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ancient-pc-modern-atlasos/"><u>Ancient PC, Modern AtlasOS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-insights-into-the-powerhouse-that-is-samsungs-gear-s3-frontier-a-multi-featured-wrist-companion/"><u>Comprehensive Insights Into the Powerhouse that Is Samsung's Gear S3 Frontier – A Multi-Featured Wrist Companion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defend-with-confidence-top-4-password-protectors-for-win-11-users/"><u>Defend With Confidence: Top 4 Password Protectors for Win 11 Users</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-12-pro-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 12 Pro to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-x50-gt-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor X50 GT FRP Locks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-gameplay-revolution-elevating-ram-usage-for-minecraft/"><u>In 2024, Gameplay Revolution Elevating Ram Usage for Minecraft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-reinstalling-microsofts-mspm/"><u>Master the Art: Reinstalling Microsoft's MSPM</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-iphone-x-the-ultimate-guide-for-users-for-2024/"><u>Mastering iPhone X The Ultimate Guide for Users for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-peaceful-sleep-windows-1011-automatic-shutdown/"><u>Securing Peaceful Sleep: Windows 10/11 Automatic Shutdown</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-opengl32dll-files-on-your-pc/"><u>Troubleshooting Missing OpenGL32.dll Files on Your PC</u></a></li>
+</ul></div>
 

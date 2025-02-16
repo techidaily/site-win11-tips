@@ -1,7 +1,7 @@
 ---
 title: Solving Your Computer's Print Command Conundrum with Effective Tips
-date: 2024-08-16T01:11:14.927Z
-updated: 2024-08-17T01:11:14.927Z
+date: 2025-01-28T17:42:03.561Z
+updated: 2025-02-03T00:17:31.620Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
 
  Another generic fix you can try is [performing an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to find and replace any corrupted or damaged system files on your PC that can cause **Win** \+ **P** to not work. Also, if you managed to [create a system restore point](https://www.makeuseof.com/use-system-restore-windows/) when the shortcut was working, you can revert your PC's settings to that restore point to potentially fix the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Turn Off Game Mode
 
  Game Mode on Windows is a feature that turns off programs and tasks running in the background. That way, your PC has more resources to dedicate toward a smooth gaming experience. However, this feature is known to cause conflicts with the keyboard, and you can fix this by turning it off.
@@ -34,11 +38,16 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
 
 ![Game Mode settings in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/game-mode-settings-windows-search.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the **Game Mode** toggle is **On**, click on it to set it to the **Off** position.
 
 ![Turn Off the Game Mode From Game Mode Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-turn-off-the-game-mode-from-game-mode-settings-in-windows-settings-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, try the **Win + P** shortcut again to see if the display switch options will show up.
@@ -50,8 +59,9 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
  Usually, it could just be that you, someone else, or a virus has somehow disabled the Action Center. In that case, you just need to re-enable it to get the shortcut to work again. If the reason is a virus, fire up your antivirus and scan your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Try a Different User Account
 
  If your user account on Windows is corrupted, it can cause certain things to not work, including the **Win + P** shortcut. To verify whether your account is the problem or not, sign out and sign in to a different user account on your PC. Then, try the shortcut on the other user account, and if it works, you can use that one when you need to bring up the display switch options.
@@ -65,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
  To do that, right-click an empty part of your Desktop and select **New > Shortcut**.
 
 ![The New and Shortcut options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/new-shortcut-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 
  The table below shows the locations of the various shortcuts for the display options:
 
@@ -82,29 +88,22 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
  Depending on the option you want to use, enter the appropriate shortcut location in the text box of the Create Shortcut wizard and click **Next**.
 
 ![entering the shortcut path for display switch in the Create Shortcut wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-shortcut-display-switch-shortcut.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Give the display switch shortcut a name and click **Finish**.
 
 ![naming the display switch shortcut in the Create Shortcut wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/naming-display-switch-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You will find the display switch shortcut on the desktop, and when you double-click it, it will switch to the desired display option. You can create display switches for each option if you want.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Win + P Working Again on Windows
 
  When you want to switch displays on Windows, the **Win + P** shortcut comes in handy. If it's not working, you can try the fixes above to get it to work. And if nothing helps, try creating a display switch shortcut as we've shown you.
 
  If you don't want to use the display switch shortcut, and you're sure there's nothing wrong with your keyboard, you can try the nuclear option: resetting your Windows PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -113,5 +112,22 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-chuckle-champs-twitters-humor-heap/"><u>[New] 2024 Approved Chuckle-Champs Twitter’s Humor Heap</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-online-video-hubs-picking-between-vimeo-youtube-and-dailymotion/"><u>[New] 2024 Approved Online Video Hubs Picking Between Vimeo, YouTube & Dailymotion</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ifas-favorite-footage-charted-on-youtube-for-2024/"><u>[New] FIFA's Favorite Footage Charted on YouTube for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-online-title-mastery-techniques-you-cant-ignore/"><u>[New] Online Title Mastery Techniques You Can't Ignore</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-top-choice-for-capturing-quality-content-on-youtube/"><u>[Updated] Top Choice for Capturing Quality Content on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-quick-walkthrough-on-windows-11-sound-settings-navigation/"><u>A Quick Walkthrough on Windows 11 Sound Settings Navigation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-blocked-paths-in-windows-update/"><u>Clearing Up Blocked Paths in Windows Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cortana-ends-new-windows-aid-emerges/"><u>Cortana Ends, New Windows Aid Emerges</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-aol-instant-messenger-an-overview-of-the-iconic-communication-tool/"><u>Demystifying AOL Instant Messenger: An Overview of the Iconic Communication Tool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-top-notch-productivity-hp-laptop-mouse-setup-plus-microsoft-365-for-just-400-exclusive-offer-now/"><u>Experience Top-Notch Productivity: HP Laptop, Mouse Setup + Microsoft 365 for Just $400 – Exclusive Offer Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-microsofts-apppack-and-msibundle-files-to-enhance-productivity/"><u>Integrating Microsoft's Apppack and MsiBundle Files to Enhance Productivity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/launch-your-clips-free-intro-downloads/"><u>Launch Your Clips Free Intro Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-exception-handling-breaking-point-solution/"><u>Mastering Windows Exception Handling: Breaking Point Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-hardware-new-horizinas-guiding-windows-11-22h2-installation/"><u>Old Hardware, New Horizinas: Guiding Windows 11 22H2 Installation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-m14-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy M14 5G Phone Hassle-Free</u></a></li>
+</ul></div>
 

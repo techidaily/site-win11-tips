@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Guide to Unlocking Windows 11’S Credential Vault
-date: 2024-08-16T01:11:23.251Z
-updated: 2024-08-17T01:11:23.251Z
+date: 2025-01-28T00:30:12.603Z
+updated: 2025-02-02T21:45:33.564Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 2. Type**Credentials Manager** and click on the**Open** option.
 3. The Credential Manager utility will launch on your system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## 2\. Using Windows Search
 
  Alternatively, you can use the new and improved Windows Search tool to find and open Credential Manager on your system. Here’s how to do it:
@@ -39,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 ![Open Credentials Manager Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-windows-search.jpg)
 2. Type Credential Manager and click on the first relevant search result to open the tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Using the Run Command Box
 
  You can launch Credentials Manager without using your mouse and clicking on options or the context menu using the Run command box. Repeat the following steps:
@@ -49,10 +43,15 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 1. Press**Win + R** to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type**control /name Microsoft.CredentialManager** in the text input box and press the**Enter** key.  
 ![Open Credentials Manager Using the Run Command Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-run-command-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Credential Manager will open in a separate control panel window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Using the File Explorer
 
@@ -66,10 +65,11 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 6. Navigate to the C drive and click on the Windows folder. Then, open the SysWOW64 folder.
 7. Find the**Control.exe** program and select it. Click on the**Open** button.  
 ![Open Credentials Manager Using the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 8. Window Control Panel will be added to the list of supported programs.**Double-click** on it to open keymgr.dll file in Control Panel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Using the CMD
 
@@ -79,14 +79,8 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 2. Type**cmd** and press**Ctrl + Shift + Enter** to launch Command Prompt with administrator privileges.
 3. In the Command Prompt window, type the following command and press the**Enter** key:**control.exe keymgr.dll**  
 ![Open Credentials Manager Using the CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-cmd.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Credentials Manager will launch on your system. Close the Command Prompt window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 6\. Using Control Panel
 
  Control Panel is the central hub for many system utilities and also contains Credential Manager. If you prefer the GUI method to open any Windows utility, you can use Control Panel. Repeat the following steps:
@@ -97,8 +91,9 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 3. Lastly, click on the**Credential Manager** option to launch the tool.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Using a Desktop Shortcut
 
  A desktop shortcut can save much time in Credential Manager on the system. Since it is not an executable program but a DLL file, merely making a desktop shortcut won’t work. Instead, we will create a shortcut of the Credential Manager DLL file and configure it to open with Control Panel.
@@ -113,8 +108,9 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 5. Now, double-click on the shortcut to open Credential Manager.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Using the Settings App
 
  Microsoft hasn’t moved all Control Panel options to the Settings app. But it is possible to search and access Credential Manager inside the Settings app. Here’s how to do it:
@@ -122,14 +118,6 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 1. **Right-click** on the Start button to open the Power User menu. Select the**Settings** option from the menu.
 2. Navigate to the top-left corner and click on the**Find a setting** option.  
 ![Open Credentials Manager Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-settings-app.jpg)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Type**Credential Manager** and click on the first relevant search result for the utility.
 
 ## 9\. Using a PowerShell Command
@@ -141,6 +129,14 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 3. Type the following command in the PowerShell window and press the**Enter** key:**start-process control.exe keymgr.dll**  
 ![Open Credentials Manager Using a PowerShell Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-a-powershell-command.jpg)
 4. Credential Manager will open. Type the**exit** command in the PowerShell window and press the**Enter** key to close it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Using a Batch File
 
@@ -155,9 +151,6 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 5. Right-click on it and select the**Run as administrator** option.
 6. The PowerShell window will launch and close automatically. Credential Manager will launch on your system.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11\. Using the Task Manager
 
  You can open Credentials Manager by running a new task in Task Manager. Here’s how to do it:
@@ -166,20 +159,22 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 2. In the Task Manager window, click on the**Run new task** button.  
 ![Open Credentials Manager Using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-task-manager.jpg)
 3. Type**control.exe keymgr.dll** in the Create new task window and click on the**OK** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Credential Manager will open in a new window. Exit the Task Manager window.
 
 ## Check Your Credentials on Windows Quickly With These Tips
 
  Windows Credential Manager is an excellent utility that automatically saves usernames and login pairs without installing a separate application. Even if you don’t use the feature for saving passwords of your favorite websites, you can still save login information of all the Windows apps which you use.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -188,8 +183,18 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-perfect-proposal-to-perfection-8-best-weddings-online/"><u>[Updated] 2024 Approved The Perfect Proposal to Perfection 8 Best Weddings Online</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-zero-to-hundred-hundreders-yt-success-story/"><u>[Updated] From Zero to Hundred Hundreders YT Success Story</u></a></li>
+<li><a href="https://win-webster.techidaily.com/best-quick-methods-securing-your-system-with-uefi-hardening-techniques-for-windows-1011/"><u>Best Quick Methods: Securing Your System with UEFI Hardening Techniques for Windows 10/11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-edge-40-neo-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola Edge 40 Neo to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/league-of-legends-troubleshooting-overcoming-lag-issues-successfully/"><u>League of Legends Troubleshooting - Overcoming Lag Issues Successfully</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-fixing-device-disconnection-on-win-1011/"><u>Navigating and Fixing Device Disconnection on Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-non-uniform-colour-realms-in-windows/"><u>Navigating Non-Uniform Colour Realms in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solve-stuck-sheets-and-frozen-viewport-in-excel/"><u>Solve Stuck Sheets and Frozen Viewport in Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/squashing-faulty-empty-directory-alert-with-0x80070091-on-windows-11/"><u>Squashing Faulty Empty Directory Alert with #0X80070091 on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-free-online-platforms-for-live-sporting-events/"><u>Top 5 Free Online Platforms for Live Sporting Events</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-security-settings-through-gpo/"><u>Unveiling Windows Security Settings Through GPO</u></a></li>
+</ul></div>
 

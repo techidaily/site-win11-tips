@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Fixing No Write Saves, WinOS
-date: 2024-08-16T01:10:07.110Z
-updated: 2024-08-17T01:10:07.110Z
+date: 2025-01-27T16:11:15.138Z
+updated: 2025-02-03T02:25:42.184Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
  After modifying the folder permissions, you should be able to save files without any problems.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## 2\. Change the Folder's Owner
 
  If changing the folder permissions does not help, you can make yourself the folder owner. This will allow you to freely access, modify, and save files in that folder. It's worth noting that you can only do this if you're [logged in with an administrative account](https://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/).
@@ -46,18 +43,12 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 2. Under the **Security** tab, select **Advanced**.
 3. Click the **Change** option next to the **Owner** field.  
 ![Folder Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Folder-Security-Settings-on-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select **Yes** if the User Account Control (UAC) prompt appears.
 5. In the **Enter the object name to select** field, type in your username, and click the **Check Names** button. Then, hit **OK**.  
 ![Change Folder Owner on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Change-Folder-Owner-on-Windows.jpg)
 6. Tick the checkbox that reads **Replace owner on subcontainers and objects**.
 7. Hit **Apply** and then **OK**.  
 ![Advanced Security Settings for a folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Replace-Folder-Owner-on-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you take ownership of the folder, the permission error should not appear again. If the above method doesn't work for some reason, you can use a [third-party tool to take ownership of a folder on Windows](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/). The best part is that these tools allow you to take ownership of multiple folders at once.
 
@@ -69,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
  If this method works, you can configure the app to always run with administrative privileges. If you need help with that, refer to our guide on [how to always run apps as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run the Program Compatibility Troubleshooter
 
  Another thing you can do to fix this error is run the Windows Program Compatibility troubleshooter. It’ll automatically detect and fix any compatibility issues with your program and attempt to fix the error. Here’s how to run it.
@@ -77,12 +72,13 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 2. In the Program Compatibility Troubleshooter window, select **Troubleshoot program**.
 3. Mark the checkbox that reads **The program requires additional permissions** and hit **Next**.  
 ![Program Compatibility Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Program-Compatibility-Troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Wait for the troubleshooter to do its thing, and then click the **Test the program** button.
 
  After completing the above steps, see if you can save files without getting any errors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Check Your Antivirus Program
 
@@ -100,16 +96,21 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 2. Type **change user account control settings** and select the first result that appears.
 3. In the **User Account Control Settings** window, drag the slider to the bottom and hit **OK**.  
 ![User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/User-Account-Control-Settings-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Select **Yes** when the User Account Control prompt shows up.
 
  After disabling User Account Control, check to see if you can save files in the desired folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Save the File in a Different Location, Then Move It
 
  One way to bypass the "You don’t have permission to save in this location" error is to save your file in a different location and then move it to your desired folder. This is more of a workaround that you can use if the above methods don't work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Create a New User Account
 
@@ -123,11 +124,16 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 4. In the Microsoft account window, click on the **I don't have this person's sign-in information** link.
 5. Follow the on-screen prompts to create a new user account.  
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sign in with your newly created account, and the error should not appear after that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Troubleshoot the Issue in Safe Mode
 
@@ -137,16 +143,11 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
  There are [several ways to boot Windows into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/). Use your preferred method to boot your PC in Safe Mode and then check if you can save your files successfully. If this method works, it’s likely that a program or service in the background is causing the problem. Apps and programs that you've installed recently are more likely to have caused the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Save Your Files Without Any Issues
 
  In most cases, you should be able to fix the “You don’t have permission to save in this location” error by modifying folder permissions or running your program with administrative privileges. If not, you might have to resort to one of the other methods listed above to fix the annoying error message.
 
  If you can't figure out what's causing the error, work your way through the following troubleshooting tips to fix the underlying issue.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -155,5 +156,24 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/void-commonplace-channel-titles-finding-uniqueness-with-filmora/"><u>[New] Avoid Commonplace Channel Titles Finding Uniqueness with Filmora</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-bridge-the-gap-between-skype-and-zoom-with-simple-steps/"><u>[Updated] 2024 Approved Bridge the Gap Between Skype & Zoom with Simple Steps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-iphones-best-5-podcast-audio-platforms/"><u>[Updated] 2024 Approved IPhone's Best 5 Podcast Audio Platforms</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-adobe-photos-sway-decrease-a-crucial-feature-for-2024/"><u>[Updated] Adobe Photos' Sway Decrease - A Crucial Feature for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-window-shifts-gone-but-not-forgotten/"><u>6 Window Shifts: Gone But Not Forgotten</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-add-ons-for-disk-image-duality-on-pc/"><u>Avoiding Add-Ons for Disk Image Duality on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-the-superiority-of-pcs-to-macs-in-9-areas/"><u>Dissecting the Superiority of PCs to Macs in 9 Areas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-system-performance-with-effective-use-of-windows-law-filters/"><u>Elevating System Performance with Effective Use of Window's LAW Filters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ignite-innovation-top-picks-from-microsofts-store-2-infuse-your-living-space-with-a-touch-of-history-while-maintaining-modern-comfort-and-style-lets-embark-20/"><u>Ignite Innovation: Top Picks From Microsoft's Store, 2 Infuse Your Living Space with a Touch of History While Maintaining Modern Comfort and Style? Let's Embark on an Exciting Home Decor Journey Together!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-building-your-signature-solo-podcast-series/"><u>In 2024, Building Your Signature Solo Podcast Series</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-strategic-approaches-broadcasting-live-sports-with-precision/"><u>In 2024, Strategic Approaches Broadcasting Live Sports with Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-closed-caption-settings-in-windows-11/"><u>Mastering Closed Caption Settings in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-utorrent-not-launching-properly-on-windows-desktops/"><u>Solving uTorrent Not Launching Properly on Windows Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steam-deck-windows-installation-essentials/"><u>Steam Deck: Windows Installation Essentials</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/by-step-setting-up-your-business-youtube-channel-on-mobile/"><u>Step-by-Step Setting Up Your Business YouTube Channel on Mobile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-mystery-fixing-windows-error-code-0x0000004e/"><u>Tackling the Mystery: Fixing Windows Error Code 0X0000004E</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-ultimate-guide-to-altering-video-speed-in-stories-for-2024/"><u>The Ultimate Guide to Altering Video Speed in Stories for 2024</u></a></li>
+</ul></div>
 

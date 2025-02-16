@@ -1,7 +1,7 @@
 ---
 title: Streamlined Photo Navigation in Modern Windows Explorer
-date: 2025-01-31T07:26:12.389Z
-updated: 2025-02-01T02:10:32.246Z
+date: 2025-02-01T22:22:33.152Z
+updated: 2025-02-02T20:41:06.831Z
 tags:
   - windows10
   - windows11
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
  You will also need ViVeTool to enable these experimental features on your system. You can[download ViVetool from GitHub](https://github.com/thebookisclosed/ViVe/releases) , but make sure that you pick the most recent release. Extract the tool to the C drive and then proceed to the next section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Enabling Gallery in Windows File Explorer
@@ -66,11 +66,11 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 ![Enable Gallery in File Explorer in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-gallery-in-file-explorer-in-windows-11-2.jpg)
 8. Restart your computer for the changes made by Vivetool to take effect.
 
-9. Once your computer boots up, press**Win + E** to open File Explorer. You will see a new**Gallery** option in the left pane below the**Home** option.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+9. Once your computer boots up, press**Win + E** to open File Explorer. You will see a new**Gallery** option in the left pane below the**Home** option.
 
 ## How to View the Gallery in File Explorer
 
@@ -78,11 +78,11 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 
 ![Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gallery-in-windows-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The gallery app allows you to adjust the view of the image tiles to accommodate more or less in a single window. You can use the View option in the menu bar of File Explorer to change the image tile size. If you click on any image, it will open in a separate app window (Photos app or any other app that you use).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add or Remove Locations From Gallery in Windows File Explorer
 
@@ -93,7 +93,7 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 2. Now select any folder or sub-folder with images and click on the**Include Folder** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. The selected folder will appear in the list of available folders. Click on the**OK** button.
@@ -108,7 +108,7 @@ To remove a folder from Gallery, repeat the following steps:
 4. Lastly, click on the**OK** button to finalize the changes. The Gallery section won’t display any images from the excluded folder from now onwards.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Problems With the Gallery Section in Windows File Explorer
@@ -136,19 +136,17 @@ To remove a folder from Gallery, repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-sharpen-the-scene-expert-insights-for-cropping-videos-with-insta-flair/"><u>[New] In 2024, Sharpen the Scene Expert Insights for Cropping Videos with Insta Flair</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-secrets-to-professional-voice-overs-on-a-budget/"><u>[New] Secrets to Professional Voice Overs on a Budget</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-revolutionize-your-harvest-stardews-top-7-upgrades/"><u>[Updated] In 2024, Revolutionize Your Harvest Stardew's Top 7 Upgrades</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-swift-and-secure-efficient-downloads-of-podcasts-onto-iphone/"><u>[Updated] Swift and Secure Efficient Downloads of Podcasts Onto iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-way-activatedeactivate-energy-saving-feature/"><u>Effortless Way: Activate/Deactivate Energy-Saving Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/embracing-dark-themes-in-ms-paint/"><u>Embracing Dark Themes in MS Paint</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202139299-fixing-the-issue-steelseries-arctis-5-headset-microphone-malfunction-resolved/"><u>Fixing the Issue: SteelSeries Arctis 5 Headset Microphone Malfunction Resolved!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enlarge-pins-display-area-in-win-11/"><u>How to Enlarge Pins Display Area in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-tips-to-reset-failed-windows-discord-updates/"><u>Quick Tips to Reset Failed Windows Discord Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-login-simplified-top-5-fixes-for-key-conflicts-on-windows-11-networks/"><u>Secure Login Simplified: Top 5 Fixes for Key Conflicts on Windows 11 Networks</u></a></li>
-<li><a href="https://win-popular.techidaily.com/simple-mp3-finder-easy-online-music-search-and-download/"><u>Simple MP3 Finder: Easy Online Music Search & Download</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speed-indicator-static-widgets-on-pc-monitor/"><u>Speed Indicator: Static Widgets on PC Monitor</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-guide-to-using-bandicam-insights-users/"><u>Step-by-Step Guide to Using Bandicam – Insights Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-harmonize-your-content-a-guide-to-musical-instagrams/"><u>[Updated] In 2024, Harmonize Your Content A Guide to Musical Instagrams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unveiling-hidden-sights-in-google-meet-conferences/"><u>[Updated] Unveiling Hidden Sights in Google Meet Conferences</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-action-cam-faceoff-hero5-black-and-yis-4k-battle-revisited/"><u>2024 Approved Action Cam Faceoff Hero5 Black and Yi's 4K Battle Revisited</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winx-dvd-copy-pro-nocopy-dvd-iso-dvd/"><u>公式 WinX DVD Copy Pro 使用感NOCOPY - 無料でダウンロード！ DVD を ISO イメージ、DVDフォルダーへスムーズに変換</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-side-by-side-error-corrective-techniques-for-win10/"><u>Addressing Side-by-Side Error: Corrective Techniques for Win10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/craft-compelling-loops-best-practices-for-instagram-posts/"><u>Craft Compelling Loops Best Practices for Instagram Posts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curing-obscured-network-visibility-in-windows/"><u>Curing Obscured Network Visibility in Windows</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/guia-definitiva-para-resolver-windows-10-reinicios-atascados-en-cualquier-porcentaje-tipos-y-soluciones-eficaces/"><u>Guía Definitiva Para Resolver Windows 10 Reinicios Atascados en Cualquier Porcentaje: Tipos Y Soluciones Eficaces</u></a></li>
+<li><a href="https://discover-able.techidaily.com/how-to-verify-your-pcs-hardware-works-with-windows-expert-tips-from-yl-software/"><u>How To Verify Your PC's Hardware Works With Windows - Expert Tips From YL Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-chromebook-and-hp-beginners-guide-to-webcam-recordings/"><u>In 2024, Chromebook & HP Beginner’s Guide to Webcam Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-cutting-the-fat-in-windows-11/"><u>The Ultimate Guide to Cutting the Fat in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-hack-design-your-own-unique-pin-pattern/"><u>Windows 10/11 Hack: Design Your Own Unique Pin Pattern</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ease-of-Use Tactics for Stuck Windows Update
-date: 2025-01-30T20:23:21.874Z
-updated: 2025-02-01T05:35:24.576Z
+date: 2025-01-30T23:00:36.355Z
+updated: 2025-02-02T18:14:09.265Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Restart Your Computer
 
@@ -61,24 +65,20 @@ To fix this, you can try restarting Cryptographic Services.
 3. In**Properties** , click the**Stop** button to stop Cryptographic Services.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
 4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
 5. Then click**Apply** and then**OK** .
 
  Now close Services and try running the Windows Update Troubleshooter again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run System File Checker and DISM Command
 
@@ -103,14 +103,18 @@ To fix this, you can try restarting Cryptographic Services.
 ![Advanced Options in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options-windows-update.jpg)
 3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
 4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Configure Troubleshooting in Group Policy Editor
 
@@ -139,10 +143,6 @@ To edit and enable the Scripted Diagnostics policy:
 
  Now close the Group Policy Editor and run the Windows Update Troubleshooter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Get the Windows Update Troubleshooter Working Again to Fix Update Errors
 
  It's important to have the Windows Update Troubleshooter running fine. Try the above fixes if it ever gets stuck or stops working. And ensure you can install essential updates to enjoy a smooth and secure Windows experience.
@@ -164,20 +164,22 @@ To edit and enable the Scripted Diagnostics policy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-navigating-through-top-rated-livestreams-your-guide-to-watching-cricket/"><u>[New] 2024 Approved Navigating Through Top-Rated Livestreams Your Guide to Watching Cricket</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-top-15-youtube-recording-software-for-gamers/"><u>[New] In 2024, Top 15 YouTube Recording Software for Gamers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-power-of-pausing-incorporating-effective-chapters-in-your-youtube-series/"><u>[New] The Power of Pausing Incorporating Effective Chapters in Your YouTube Series</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-engagement-on-igtv-with-well-oriented-videos/"><u>[Updated] Enhancing Engagement on IGTV with Well-Oriented Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-streamlining-your-monetization-mastering-youtube-adsense/"><u>[Updated] In 2024, Streamlining Your Monetization Mastering YouTube AdSense</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-become-a-design-pro-expertise-in-bypassing-backgrounds-with-canva/"><u>2024 Approved Become a Design Pro Expertise in Bypassing Backgrounds with Canva</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/curtailing-windows-auto-update-interruptions/"><u>Curtailing Windows Auto-Update Interruptions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-lenovos-innovative-tech-seamlessly-transfers-files-from-iphones-with-latest-laptop-models-why-you-shouldnt-miss-out/"><u>Discover Lenovo's Innovative Tech: Seamlessly Transfers Files From iPhones with Latest Laptop Models - Why You Shouldn't Miss Out!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-package-incompatibility-issues-in-windows/"><u>Fixing Package Incompatibility Issues in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-restore-d3dx939dll-in-win11-environment/"><u>How to Restore D3DX9_39.dll in Win11 Environment</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oppo-reno-10-proplus-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Oppo Reno 10 Pro+ 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-to-net-recovery-in-windows-max-156/"><u>Quick-Fix Guide to .NET Recovery in Windows (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-windows-thermal-management-guidelines/"><u>Setting Windows' Thermal Management Guidelines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-productivity-getting-comfortable-with-windows-11s-search-bar/"><u>Unlock Productivity: Getting Comfortable with Windows 11'S Search Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winterral-pick-new-bg/"><u>WinTerral: Pick New Bg</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-live-stream-to-instagram-from-obs/"><u>[New] Live Stream to Instagram From OBS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-elevate-sound-recording-on-windows-the-ultimate-guide/"><u>[Updated] Elevate Sound Recording on Windows The Ultimate Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unlock-social-data-with-top-free-facebook-downloaders-for-2024/"><u>[Updated] Unlock Social Data with Top Free Facebook Downloaders for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-novel-way-to-manage-galaxy-devices-with-windows-11/"><u>A Novel Way to Manage Galaxy Devices with Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138597309-9781449720407-after-the-avalanche/"><u>After the Avalanche | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/classic-lookup-resurrecting-w11-file-explorer/"><u>Classic Lookup: Resurrecting W11 File Explorer</u></a></li>
+<li><a href="https://facebook.techidaily.com/delay-in-actions-by-facebooks-regulatory-authority/"><u>Delay in Actions by Facebook's Regulatory Authority</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-reno-11-pro-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Reno 11 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-se-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone SE Lock Screen</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-online-interaction-insights-on-facebook-twitter-instagram-youtube/"><u>Navigating the World of Online Interaction: Insights on Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-audible-acuity-ending-echo-of-empty-spaces/"><u>Regain Audible Acuity: Ending Echo of Empty Spaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-virtualboxs-usb-failure-message-a-step-by-step-guide-for-windows-users/"><u>Resolving VirtualBox's USB Failure Message: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-pin-access-issues/"><u>Resolving Windows 11 PIN Access Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-windows-program-functionality-with-ease/"><u>Restoring Windows Program Functionality with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-easing-through-administrative-denial-of-installers/"><u>Strategies for Easing Through Administrative Denial of Installers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/tiktok-video-safeguarding-on-smartphones-uncovered-for-2024/"><u>TikTok Video Safeguarding on Smartphones Uncovered for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncompromised-security-in-windows-app-downloads/"><u>Uncompromised Security in Windows App Downloads</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Addressing Deceptive Virus Notifications on Windows Chrome
-date: 2024-08-16T01:13:58.964Z
-updated: 2024-08-17T01:13:58.964Z
+date: 2025-01-31T22:00:41.089Z
+updated: 2025-02-02T20:02:49.739Z
 tags:
   - windows10
   - windows11
@@ -34,13 +34,11 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 2. Copy the download link of the file you are having trouble downloading.
 3. Paste the downloaded link into the**URL** search bar.  
 ![pasting the downloaded link of the file into the url search bar on the virustotal official website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pasting-the-downloaded-link-of-the-file-into-the-url-search-bar-on-the-virus-totals-official-website.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Press**Enter** to continue.  
 ![scan results of a file being downloaded checked on the virus totals official website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-results-of-a-file-being-downloaded-checked-on-the-virus-totals-official-website.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the scan is complete, see if it returns a clean result. If the tool detects some viruses, you'd be better off not downloading the file. If the scan comes back clean but you're still getting the error, it's time to try something else
@@ -70,12 +68,13 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 4. Under**Exclusions** , click**Add or remove exclusions** .
 5. Click on**Add an exclusion** button and select**Folder** .  
 ![Adding an Exclusion for Downloads Folder in Windows Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-6-Adding-an-Exclusion-for-Downloads-Folder-in-Windows-Security-Settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Browse to the**Downloads** folder or any other location you have set as a download location.
 
  By following the above steps, you will prevent Windows Defender from scanning the files in the Downloads folder, so if Windows Defender is causing the error even when the file you're downloading is safe, you won't encounter it again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add the File to Windows Defender's Whitelist
 
@@ -85,17 +84,11 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 2. In the left-sidebar, click**Virus & threat protection** .
 3. In the right-hand pane, click on**Protection history** .  
 ![Checking Protection History under Virus and Threat Protection in Windows Security App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-7-Checking-Protection-History-under-Virus-and-Threat-Protection-in-Windows-Security-App.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Locate and expand the blocked app or file.
 5. Expand the**Actions** dropdown menu and click**Allow** .
 
  This time, you should not encounter any errors when downloading the file. If the problem persists, tweak Chrome's security settings.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## 6\. Temporarily Disable Microsoft Defender Firewall
 
  Excluding the Downloads folder and adding the file to Microsoft Defender's whitelist should prevent the Windows built-in security scanner from scanning this file and allow it to download successfully. However, if you still encounter the same error, we suggest temporarily disabling the Microsoft Defender firewall.
@@ -112,20 +105,20 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 2. In the left-sidebar, click**Privacy and security** .
 3. In the right-hand pane, click**Security** .  
 ![Go to Security Settings in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/tweaking-chromes-security-settings-by-clicking-on-security-option-under-the-privacy-and-security-tab-in-chrome-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 4. Check the circle for**No Protection (not recommended)** .  
-![check the ircle for no protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/checking-the-circle-for-no-protection-not-recommended-option-in-chromes-security-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![check the ircle for no protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/checking-the-circle-for-no-protection-not-recommended-option-in-chromes-security-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You might be able to download files successfully by disabling Safe Browsing, but once you disable it, Chrome's built-in security won't protect you from malware and malicious downloads. Therefore, after downloading your files, be sure to turn Safe Browsing back on again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Tweak the Windows Registry Editor
 
  Does Windows Defender still block downloading the completely safe file? If so, let's tweak Registry Editor to force antivirus to stop scanning downloaded attachments. You can do that by following the below steps:
@@ -137,16 +130,19 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\
 ![Tweaking Windows Registry Editor by Renaming Newly Created Registry Key under Policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-11-Tweaking-Windows-Registry-Editor-by-Renaming-Newly-Created-Registry-Key-under-Policies.jpg)
 4. Right-click on**Attachments** and navigate to**New > DWORD (32-bit) Value** .  
 ![Creating the DWORD (32-bit) String Value in the Attachments Key in Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-12-Creating-the-DWORD-(32-bit)-String-Value-in-the-Attachments-Key-in-Registry-Editor-App.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 5. Rename the newly created String Value to**ScanWithAntiVirus** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Double-click on**ScanWIthAntiVirus** and enter**"1"** under**Value data** .  
 ![Changing the Value Data by Double-clicking on Newly Renamed ScanWIthAntiVirus String Value in Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-13-Changing-the-Value-Data-by-Double-clicking-on-Newly-Renamed-ScanWIthAntiVirus-String-Value-in-Registry-Editor-App.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Because tweaking Registry Editor can be tricky and harmful, we recommend you ask an expert to perform this fix if you don't know how to edit Registry Editor manually.
 
@@ -155,6 +151,10 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\
  If you still experience the problem under discussion after applying the fixes listed above, you should ensure your device has not been infected, causing it to behave abnormally. It's possible for malware hidden inside your device to prevent Chrome from downloading files. So, you should make sure that's not the case here.
 
  Run a malware scan to rule out this possibility. While you can use any third-party antivirus software to scan your device for threats, we recommend [running Microsoft Defender's offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) for complete virus removal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Rid of the "Failed - Virus Detected" Error in Chrome for Windows
 
@@ -166,8 +166,6 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,8 +173,24 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-preserving-the-past-in-motion-photo-to-video-transition/"><u>[Updated] Preserving the Past in Motion Photo to Video Transition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-pinnacle-of-visual-expression-best-mac-drawing-tools/"><u>[Updated] The Pinnacle of Visual Expression - Best Mac Drawing Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-walkthrough-for-displaying-hidden-files-on-a-mac-with-terminal-techniques/"><u>A Comprehensive Walkthrough for Displaying Hidden Files on a Mac with Terminal Techniques</u></a></li>
+<li><a href="https://win-news.techidaily.com/access-bing-chats-latest-update-with-dark-mode-your-comprehensive-tutorial-on-switching-it-on-zdnet/"><u>Access Bing Chat's Latest Update with Dark Mode: Your Comprehensive Tutorial on Switching It On | ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crucial-mistakes-to-sidestep-on-your-first-day-with-windows-11/"><u>Crucial Mistakes to Sidestep on Your First Day with Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-when-your-pc-cant-find-bluetooth-gadgets-in-windows-10/"><u>Fixes for When Your PC Can't Find Bluetooth Gadgets in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-apply-local-group-policies-to-a-specific-user-account-in-windows-11-and-11/"><u>How to Apply Local Group Policies to a Specific User Account in Windows 11 and 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-avoiding-common-pitfalls-in-your-search-for-spectacular-pexels-photos/"><u>In 2024, Avoiding Common Pitfalls in Your Search for Spectacular Pexels Photos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-uninterruptible-power-supplies-ups-for-enhanced-energy-security-2024-edition/"><u>Leading Uninterruptible Power Supplies (UPS) for Enhanced Energy Security, 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/navigate-audio-troubleshooting-for-windows-11-follow-this-quintet-of-fixes/"><u>Navigate Audio Troubleshooting for Windows 11: Follow This Quintet of Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-android-to-windows-shared-drives/"><u>Navigating Android to Windows Shared Drives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precise-methods-to-address-windows-activation-failure-code-0x803f700f/"><u>Precise Methods to Address Windows Activation Failure Code 0X803F700f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-invisible-displays-when-gaming-on-win-os/"><u>Preventing Invisible Displays When Gaming on Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-instant-addition-problems-with-windows-onedrive-a-compreenhensive-guide/"><u>Resolving Instant Addition Problems with Windows OneDrive - A Compreenhensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reviewing-affordability-and-dependability-of-the-thermopro-tp67-instant-read-thermometer/"><u>Reviewing Affordability and Dependability of the ThermoPro TP67 Instant Read Thermometer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-non-working-windows-lock-screen-delay/"><u>Reviving Non-Working Windows Lock Screen Delay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-failed-cloud-operations-on-windows-devices/"><u>Solutions for Failed Cloud Operations on Windows Devices</u></a></li>
+</ul></div>
 

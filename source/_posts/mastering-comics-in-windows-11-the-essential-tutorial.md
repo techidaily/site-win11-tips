@@ -1,7 +1,7 @@
 ---
 title: "Mastering Comics in Windows 11: The Essential Tutorial"
-date: 2025-01-25T18:26:31.401Z
-updated: 2025-02-01T09:06:55.326Z
+date: 2025-01-30T19:03:47.127Z
+updated: 2025-02-02T21:06:55.656Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 
 ![The New > Folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-new-folder-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Read Comic Books With Cover
 
  Now you’ve got some comics to read; it’s time to open them in Windows 11\. Cover is a Microsoft Store app with which you can open and read comics. That app supports all major comic file formats, which makes it a good enough choice. Cover is freely available up to a point, as the free app version comes with a 25-comic limit. These are the steps for installing and opening a comic in Cover:
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 7. Click the**Add local folder** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Next, select the Comic Books folder previously set up that includes some comics.
@@ -64,29 +60,25 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 ![Cover's Library tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/covers-library-tab.jpg)
 11. You can flick through the pages by clicking the comic and dragging the slider on the bar. Or press the left and right arrow keys.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The page scroll bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/page-scroll-bar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s best to read comics in a maximized Cover window since the text might otherwise be a bit small. Click the comic and select its**Two Page** and**Fit width** options to view double pages across the full width of the window. Then you can scroll down the pages with the mouse and flick through pages by pressing the arrow keys.
 
 ![The Fit width option in Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fit-width-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Cover has a**Night Mode** option you can adjust brightness with and enable a night filter. Click the comic and press the**Night mode** button to bring up the**Brightness** bar. Then you can drag the bar’s slider down. Or click the**Night filter** button to dim the light for comics in Cover.
 
 ![The Night Mode option in Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-night-mode-option.jpg)
 
  As you’re limited to a 25-comic library in Cover, you’ll probably need to erase some comics you’ve read to view new ones at some stage. To do that, open a comic’s source folder in File Explorer. Right-click a comic file in that folder and select**Delete** . Then click the**See more** button at the top right of the Cover app to select**Refresh** library.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Read Comic Books With YACReader
 
@@ -117,16 +109,24 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 ![The YACReader bookmarks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreader-bookmarks.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  YACReader’s**Show go to flow** option is one of its more unique features. Pressing that button brings up a box that displays page thumbnail previews you can flick through and open pages with. That’s a useful feature for selecting specific pages in a comic.
 
 ![YACReader's page flow feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreader-page-flow-feature.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Page flow has five transition effect presets you can choose in the Options window. Click**Options** on the right side of YACReader’s toolbar. Select the**Page Flow** tab, and choose one of the five preset options. You can also tweak each preset by clicking**Show advanced settings** and dragging the bar slider options. Press the**Save** button and restart YACReader to apply a new preset.
 
 ![The Page Flow tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-page-flow-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Read Comics in Your Web Browser
 
@@ -142,7 +142,7 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 ![A Star Wars comic open in a browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/star-wars-comic.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Stuck Into Comics in Windows 11
@@ -164,19 +164,18 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-loom-screen-recorder-downloader/"><u>[New] Loom Screen Recorder Downloader</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-breakthrough-techniques-for-effective-macscreenscreencasting/"><u>2024 Approved Breakthrough Techniques for Effective MacScreenscreencasting</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-metaverse-versus-multimeva-defining-their-differences-clearly/"><u>2024 Approved Metaverse Versus Multimeva Defining Their Differences Clearly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-the-airwaves-dismissing-error-a00f4289-in-win11-webcam/"><u>Clearing the Airwaves: Dismissing Error A00F4289 in Win11 Webcam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configure-windows-11s-volume-mixer-for-improved-audio/"><u>Configure Windows 11'S Volume Mixer for Improved Audio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-operation-errors-windows-1011-edition/"><u>Conquering Operation Errors: Windows 10/11 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-tech-at-toms-hardware-expert-reviews/"><u>Discover the Latest in Tech at Tom's Hardware Expert Reviews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-file-clarity-committing-comments-in-windows-11/"><u>Elevating File Clarity: Committing Comments in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-restore-functionality-of-windows-spotlight-feature-on-windows-11/"><u>How to Restore Functionality of Windows Spotlight Feature on Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-poco-c65-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-honor-70-lite-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Honor 70 Lite 5G FRP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-file-management-via-powertoys-lockmaster/"><u>Optimizing File Management via PowerToys Lockmaster</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvd-macx-dvd-ripper-proshow/"><u>マックでDVDをリッパして変更する - MacX DVD Ripper Pro：ダウンロードから始めまSHOW！</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unhindered-routine-changing-video-direction-with-vlc/"><u>[New] 2024 Approved Unhindered Routine Changing Video Direction with VLC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-artisans-approach-crafting-unique-shareable-youtube-shorts/"><u>[Updated] In 2024, The Artisan's Approach Crafting Unique, Shareable YouTube Shorts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-express-faster-window-photo-sorter/"><u>2024 Approved Express Faster Window Photo Sorter</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-mastering-the-mechanics-of-voice-over-production-in-videos/"><u>2024 Approved Mastering the Mechanics of Voice Over Production in Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-zte-nubia-flip-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix ZTE Nubia Flip 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/effective-techniques-for-trading-cryptocurrencies-according-to-yl-software-experts/"><u>Effective Techniques for Trading Cryptocurrencies, According to YL Software Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-address-error-0x800700e1-issues-on-windows-11-pcs/"><u>Essential Steps to Address Error 0X800700E1 Issues on Windows 11 PCs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unveiling-the-top-10-facebook-video-platforms/"><u>In 2024, Unveiling the Top 10 Facebook Video Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-change-new-directions-for-winadmin-access-control/"><u>Initiating Change: New Directions for WinAdmin Access Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-not-responding-problem-for-spotify-software/"><u>Resolving the Not Responding Problem for Spotify Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-overcoming-windows-run-time-errors/"><u>Unraveling the Mystery: Overcoming Windows 'Run-Time Errors'</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb/"><u>Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Oppo A58 4G? | Dr.fone</u></a></li>
 </ul></div>
 

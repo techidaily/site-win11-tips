@@ -1,7 +1,7 @@
 ---
 title: 5 Tips to Quickly Solve Windows Screen Problems
-date: 2024-08-16T01:12:21.417Z
-updated: 2024-08-17T01:12:21.417Z
+date: 2025-01-28T16:03:22.790Z
+updated: 2025-02-02T22:40:30.943Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 
  It doesn't require much fixing after you exit the app, though. In most cases, the resolution should revert to what you've set in Windows by default. If it doesn't, just go to Setting and change the resolution as explained in the previous section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Problems With the Hardware
 
  The resolution issue could also result from hardware issues. There are two components you need to check: the graphics card, and the display cable.
@@ -56,18 +60,21 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 4. Once you are inside the Command Prompt, execute the command below:  
 msdt.exe -id DeviceDiagnostic  
 ![The Hardware and Devices troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hardware-troubleshooter-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 5. In the following dialog, click **Next** and wait for the troubleshooter to scan the system. If it finds an issue, it will notify you and suggest a fix. In that case, click on **Apply this fix**.  
-![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
+
 ## 4\. Faulty or Corrupt Display Drivers
 
  Drivers are necessary for your hardware to function properly. If your display driver is corrupt or outdated, it could lead to a problem with your display. Fortunately, it's easy to update the display or graphics driver. Below, we walk you through the steps of both updating and reinstalling drivers in detail.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update Drivers
 
@@ -75,18 +82,20 @@ msdt.exe -id DeviceDiagnostic
 
 ![updating the driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/update-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can search for drivers automatically, but there's a good chance Windows won't find anything. The second option will let you install the driver manually.
 
  To use the second option, you'll need to first download driver installation files from the manufacturer's website. When you're done, add the driver folder's location in the wizard and follow the wizard's prompts.
 
 ![updating the drivers manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/update-manual.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Rollback or Reinstall Drivers
 
  In some cases, the updated driver can cause a problem instead of fixing it. If you started encountering the resolution issue after an update, consider rolling back the updated driver. Doing so uninstalls the updated driver and reverts to the previous driver.
@@ -98,13 +107,9 @@ msdt.exe -id DeviceDiagnostic
  Finally, if updating the driver or rolling it back to a previous version has not worked for you, you can consider reinstalling the driver using the manufacturer's website. Follow the steps in our guide on [cleanly installing and reinstalling GPU drivers on Windows](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) for step-by-step instructions on this.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. An Incorrect Display Adapter Mode
 
  If you've got multiple monitors connected to your PC, and one or more of them seem to have a resolution problem, try checking the Display Mode settings on Windows. If you're duplicating a display on two screens that have different resolutions, one of them will have the wrong resolution.
@@ -114,9 +119,6 @@ msdt.exe -id DeviceDiagnostic
  To change the Display Adapter mode, go to **Settings** and navigate to **System > Display > Advanced Display**. Click on **Display adapter properties for Display 1** (click this option for the relevant display). Click on **List All Modes**, select the correct resolution, and click **OK**.
 
 ![changing the display mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/display-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Incorrect Font and Icon Sizes
 
@@ -128,16 +130,11 @@ msdt.exe -id DeviceDiagnostic
 
 ![changing DPI scaling on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/custom-scaling.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows Resolution Issues Resolved
 
  Hopefully, you were able to identify the issue and fix it. If you're facing a resolution issue while gaming, you might be tempted to choose the highest resolution from within the game. However, for you to be able to run the game at that resolution, your hardware will need to support it. It's best to get a basic idea of the best gaming resolution for your PC before you change it.
 
  Regardless of the reason for your viewing perils, we're going to help troubleshoot the display issue, so you can go back to enjoying high-quality viewing. We'll talk about the problems that can lead to a screen resolution issue and how you can fix them.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -146,5 +143,24 @@ msdt.exe -id DeviceDiagnostic
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-social-sync-combining-ig-and-youtube-videos/"><u>[New] In 2024, Social Sync Combining IG and YouTube Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-insiders-guide-to-on-screen-text-in-youtube-media/"><u>[New] The Insider's Guide to On-Screen Text in YouTube Media</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-pinterest-videos-to-mp3s-essential-strategies/"><u>2024 Approved Mastering Pinterest Videos to MP3s Essential Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/apps-calm-demeanor-hides-computational-challenges-for-windows-users/"><u>Apps' Calm Demeanor Hides Computational Challenges for Windows Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/asmr-magic-made-simple-high-performance-at-economic-prices-for-2024/"><u>ASMR Magic Made Simple High Performance at Economic Prices for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-artful-iphone-snaps-master-these-top-10-design-tactics/"><u>Crafting Artful iPhone Snaps - Master These Top 10 Design Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-approaches-to-adjacent-and-distinct-windows-partition-merging/"><u>Cutting-Edge Approaches to Adjacent and Distinct Windows Partition Merging</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-terminal-usage-make-it-primary-choice/"><u>Elevate Your Terminal Usage: Make It Primary Choice</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-phantom-v-fold-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Phantom V Fold to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-restart-printers-automatic-service-in-win/"><u>Methods to Restart Printer's Automatic Service in Win</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/still-discounted-the-second-generation-apple-watch-se-retails-at-80-less-post-prime-day-insights/"><u>Still Discounted: The Second Generation Apple Watch SE Retails at $80 Less Post-Prime Day - Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reduce-cpu-and-ram-overuse-by-unrealcefsubprocess-on-systems/"><u>Strategies to Reduce CPU and RAM Overuse by UnrealCEFSubprocess on Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11s-geforce-now-error-xc0f1103f/"><u>Tackling Windows 11'S GeForce Now Error Xc0f1103f</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-ultimate-tiktok-playbook-driving-view-growth-and-engagement-for-2024/"><u>The Ultimate TikTok Playbook Driving View Growth and Engagement for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-the-secrets-of-running-imessage-on-windows/"><u>Uncovering the Secrets of Running iMessage on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-honor-x9a-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor X9a Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-unveiled-major-updates-on-windows-11-vs-10/"><u>Windows Unveiled: Major Updates on Windows 11 Vs. 10</u></a></li>
+</ul></div>
 

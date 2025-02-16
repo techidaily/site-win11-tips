@@ -1,7 +1,7 @@
 ---
 title: Addressing Glitches in Windows Google Nearby Share App
-date: 2024-08-16T01:14:36.368Z
-updated: 2024-08-17T01:14:36.368Z
+date: 2025-01-27T17:31:01.290Z
+updated: 2025-02-02T16:54:52.212Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
  If Google’s Nearby Share is not working on your Windows PC, here's how you can fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Make Sure Your PC Meets the Minimum Hardware Requirements
 
  One of the most common reasons why Google's Nearby Share app may not work on your Windows PC is due to compatibility issues. Hence, it’s the first thing you should check.
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
  If the Nearby Share app is not working even though your PC meets the minimum hardware requirements, continue with the solutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Restart the Nearby Share App
 
  Nearby Share, like any other app, may have problems from time to time. In most cases, you can fix minor issues or glitches by simply restarting the app on your computer.
@@ -39,13 +44,12 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
 ![Close Nearby Share App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/close-nearby-share-app-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Reopen the app after this, and see if you can send and receive files as before.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 3\. Make Sure Bluetooth and Wi-Fi Are Turned On
 
  The Nearby Share app for Windows relies on Bluetooth and Wi-Fi to transfer files between your devices. If you have accidentally turned off either of these functionalities, your transfers will fail.
@@ -53,8 +57,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  You can quickly enable Bluetooth and Wi-Fi on your PC [using the Quick Settings panel on Windows](https://www.makeuseof.com/use-quick-settings-on-windows-11/). Additionally, you should connect both your Windows PC and Android phone to the same Wi-Fi network to improve the sharing experience.
 
 ![Quick Settings Panel in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/quick-settings-panel-in-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bring Both Devices Closer
@@ -68,9 +73,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  To change the device visibility settings in the Nearby Share app, click the **Device is hidden** drop-down menu and select one of the following options: **Receive from everyone**, **Receive from contacts**, or **Receive from your devices**. Following this, your PC should show up as an available device to nearby Android devices.
 
 ![Visibility Setting in Nearby Share App for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/visibility-setting-in-nearby-share-app-for-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 6\. Change the Default Save Location
 
@@ -94,15 +96,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Navigate to **System > Notifications**.
 3. Under **Notifications from apps and other senders**, locate the **Nearby Share from Google** and turn on the toggle next to it.  
 ![Enable Notifications for Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-notifications-for-google-nearby-share-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Additionally, you should also ensure that the Do Not Disturb mode is turned off on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Repair the Nearby Share App
 
  Your Windows PC has a built-in feature that can help repair broken apps and programs. While the feature does not guarantee to fix every problem, it is still worth trying.
@@ -117,11 +113,16 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 6. Click the **Repair** option at the top.
 7. Select **Yes** if the User Account Control (UAC) prompt appears, and then follow the on-screen prompts to finish the repair.  
 ![Repair Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-google-nearby-share-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart the Nearby Share app after this and see if it works as expected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Reinstall the Nearby Share App
 
@@ -132,9 +133,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 3. In the Programs and Features window that opens, locate **Nearby Share** on the list. Right-click on it and select **Uninstall**.
 4. Follow the on-screen instructions to remove the app.  
 ![Uninstall Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-nearby-share-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you have uninstalled the app, be sure to remove any residual app files from your computer. If you need help with that, you can learn how to [eradicate leftovers from uninstalled software in Windows](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/).
 
@@ -148,8 +146,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  If Google’s Nearby Share is not working on your Windows PC, here's how you can fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -157,5 +153,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-essential-guide-to-rapid-signature-removal/"><u>[New] Essential Guide to Rapid Signature Removal</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-robust-defense-how-to-upgrade-your-pin-in-windows-11/"><u>Achieving Robust Defense: How to Upgrade Your Pin in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-review-of-the-sonos-era-300-the-ultimate-smart-speaker-minus-a-notable-shortcoming-gadgetsphere/"><u>Comprehensive Review of the Sonos Era 300: The Ultimate Smart Speaker, Minus a Notable Shortcoming | GadgetSphere</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-and-disabling-windows-key-in-windows-os/"><u>Enabling and Disabling Windows Key in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-resolve-rpc-fails-on-windows-os/"><u>Essential Steps to Resolve RPC Fails on Windows OS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evaluating-sns-hdr-pros-value-and-comparisons-for-2024/"><u>Evaluating SNS HDR Pro's Value & Comparisons for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-open-source-tranquility-tracks/"><u>In 2024, Open Source Tranquility Tracks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-visual-narratives-instagram-carousel/"><u>In 2024, Visual Narratives Instagram Carousel</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/seeking-the-perfect-cut-choose-between-filmora-or-democreator-for-2024/"><u>Seeking the Perfect Cut? Choose Between Filmora or Democreator for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-windows-experience-with-customized-fn-keys-settings/"><u>Tailor Your Windows Experience with Customized FN Keys Settings</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-se-2022-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone SE (2022)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-managing-wins-ram-cache/"><u>Understanding and Managing Win's RAM Cache</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-diablo-secrets-basic-techniques/"><u>Unlocking Diablo Secrets: Basic Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-power-of-placement-comments-in-windows-explorer/"><u>Unveiling the Power of Placement Comments in Windows Explorer</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fast Fixes for ISDone.dll Error on Windows 11 Systems
-date: 2025-01-28T01:05:33.987Z
-updated: 2025-02-01T02:01:02.889Z
+date: 2025-01-27T02:12:08.747Z
+updated: 2025-02-03T00:23:36.831Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the Game’s Installer With Admin Rights
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 8. Select**OK** to close the setup properties window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set the Game’s Setup Wizard at High Priority
@@ -61,7 +61,11 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 ![The Set priority option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-set-priority-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run System File and Image Scans
@@ -70,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-sfc-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In addition, you can also run a Deployment Image Servicing Management scan on top. That scan can resolve issues with the system image. You can run that utility in the Command Prompt by executing this command:
 
 `DISM /Online /Cleanup-Image /RestoreHealth`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Increase Virtual Memory Allocation
 
@@ -87,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 ![The Virtual Memory window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/custom-radio-button.jpg)
 
  For example, a PC with four GB RAM would have 4096 megabytes of memory. Then you would need to multiply 1.5 by 4096 to input a value of 6144 in the**Initial** box. Three times 4096 amounts to 12288, which would be the value to enter the**Maximum size** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Install Any Missing Visual C++ Redistributables
 
@@ -120,17 +128,9 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Users who’ve installed alternative security software packages on PCs will need to disable the third-party antivirus shields. To do that, click a system tray icon for an antivirus app to bring up its context menu. Then, select an option for turning off (or disabling) the antivirus shield.
 
  However, don’t leave your antivirus software disabled. Instead, turn it off and then try to install whatever game the ISDone.dll error occurs for. Then make sure you re-enable the antivirus shield afterward.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Clean Boot the Windows PC
 
@@ -138,11 +138,11 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-tab.jpg)
 
- Our guide to[configuring a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup apps and services with Task Manager and MSConfig. When you’ve set the clean boot and restarted Windows, try installing the game the ISDone.dll error occurs for. Then you can restore the original boot configuration afterward.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Our guide to[configuring a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup apps and services with Task Manager and MSConfig. When you’ve set the clean boot and restarted Windows, try installing the game the ISDone.dll error occurs for. Then you can restore the original boot configuration afterward.
 
 ## Enjoy Your Windows Games Again
 
@@ -163,20 +163,17 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-compre-points-with-perfect-pictures-snap-techniques-for-teams/"><u>[New] Compre Points with Perfect Pictures Snap Techniques for Teams</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-windows-11-unveiled-pro-level-hacks-and-tips-for-2024/"><u>[Updated] Windows 11 Unveiled Pro-Level Hacks and Tips for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-infographic-mind-numbing-youtube-factsfigures-and-statistics-2017/"><u>2024 Approved Infographic - Mind Numbing YouTube Facts,Figures and Statistics 2017</u></a></li>
-<li><a href="https://techtrends.techidaily.com/are-dvd-copying-and-ripping-actions-considered-legal-or-not/"><u>Are DVD Copying and Ripping Actions Considered Legal or Not?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-google-translate-an-in-depth-comparison-of-their-linguistic-abilities/"><u>ChatGPT Vs. Google Translate: An In-Depth Comparison of Their Linguistic Abilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-understanding-windows-11-error-codes/"><u>Expert Tips: Understanding Windows 11 Error Codes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-blurry-looks-simple-ways-to-hide-identities-in-pictures/"><u>In 2024, Blurry Looks Simple Ways to Hide Identities in Pictures</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-infinix-smart-8-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Infinix Smart 8 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-to-fun-in-command-prompt-with-these-5-tricks/"><u>Navigate to Fun in Command Prompt with These 5 Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-rectify-windows-zoom-error-code-1132/"><u>Quick Guide to Rectify Windows Zoom Error Code 1132</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/redefining-computing-standards-best-non-windows-apps-for-win-11/"><u>Redefining Computing Standards: Best Non-Windows Apps for Win 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-c51-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme C51</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-switch-to-bings-ai-windowly-integration-in-win-11-menu/"><u>Swift Switch to Bing’s AI Windowly Integration in Win 11 Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-voice-chat-problems-for-multiplayer-games-valorant/"><u>Troubleshooting Voice Chat Problems for Multiplayer Games (Valorant)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-animpros-full-review-and-exploration-2024/"><u>[New] AnimPros Full Review & Exploration 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-art-of-crafting-successful-instagram-posts/"><u>[New] In 2024, The Art of Crafting Successful Instagram Posts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-efficiently-start-and-schedule-a-zoom-call-on-any-android-device/"><u>[Updated] 2024 Approved Efficiently Start & Schedule a Zoom Call on Any Android Device</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-ultimate-speed-boost-for-vimeo-videos/"><u>2024 Approved Ultimate Speed Boost for Vimeo Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/does-windows-subsystem-enhance-linux-presence/"><u>Does Windows Subsystem Enhance Linux Presence?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/evaluating-the-need-for-maintaining-pagefilesys-filespace/"><u>Evaluating the Need for Maintaining Pagefile.sys Filespace</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-enhancing-viewability-of-fb-videos-hv-debate/"><u>In 2024, Enhancing Viewability of FB Videos – H/V Debate</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-find-feature-in-windows-11-taskbar-activation-guide/"><u>Instant Find Feature in Windows 11 Taskbar – Activation Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-common-captioning-hurdles-on-windows-10-devices/"><u>Solving Common Captioning Hurdles on Windows 10 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/take-full-advantage-of-windows-11-features/"><u>Take Full Advantage of Windows 11 Features</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-optimal-music-file-converter-transforming-mpa-files-into-high-quality-mp3s-without-cost/"><u>Updated Optimal Music File Converter Transforming MPA Files Into High-Quality MP3s Without Cost</u></a></li>
 </ul></div>
 
