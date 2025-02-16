@@ -36,8 +36,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg">
-<meta property="article:published_time" content="2025-01-28T11:36:25.464Z">
-<meta property="article:modified_time" content="2025-02-02T15:38:16.526Z">
+<meta property="article:published_time" content="2025-02-14T15:56:21.826Z">
+<meta property="article:modified_time" content="2025-02-15T09:38:39.737Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -723,15 +723,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-01-28 19:36:25</span>
-        <span class="mobile">2025-01-28 19:36:25</span>
+        <span class="desktop">2025-02-14 23:56:21</span>
+        <span class="mobile">2025-02-14 23:56:21</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-02-02 23:38:16</span>
-            <span class="mobile">2025-02-02 23:38:16</span>
+            <span class="desktop">2025-02-15 17:38:39</span>
+            <span class="mobile">2025-02-15 17:38:39</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -803,21 +803,22 @@
 </blockquote>
 <h2 id="How-to-Extend-the-PIN-Length-by-Editing-the-Registry"><a href="#How-to-Extend-the-PIN-Length-by-Editing-the-Registry" class="headerlink" title="How to Extend the PIN Length by Editing the Registry"></a>How to Extend the PIN Length by Editing the Registry</h2><p> Windows 11&#x2F;10 Home doesn’t have any built-in setting for extending the minimum PIN length. So, many users will have to extend PIN length by creating a new PINComplexity registry key. Then you can set a new minimum PIN length value within that key. You can extend the Windows Hello PIN length by editing the registry as follows:</p>
 <ol>
-<li><p>To view the file finder tool, press that utility’s <strong>Win + S</strong> keyboard shortcut.</p>
-</li>
-<li><p>Type <strong>regedit</strong> in the file search box and select its result to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-open-registry-editor/" >open Registry Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-</li>
-<li><p>Enter this path inside Registry Editor’s address bar and press <strong>Return</strong>:<br><code>HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\</code></p>
-</li>
-<li><p>If the Microsoft key doesn’t have a PassportForWork subkey, you’ll need to set one up. To do so, right-click on the Microsoft key and select <strong>New</strong> &gt; <strong>Key</strong>.<br><img  
+<li>To view the file finder tool, press that utility’s <strong>Win + S</strong> keyboard shortcut.</li>
+<li>Type <strong>regedit</strong> in the file search box and select its result to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-open-registry-editor/" >open Registry Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>Enter this path inside Registry Editor’s address bar and press <strong>Return</strong>:<br><code>HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\</code></li>
+<li>If the Microsoft key doesn’t have a PassportForWork subkey, you’ll need to set one up. To do so, right-click on the Microsoft key and select <strong>New</strong> &gt; <strong>Key</strong>.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-key-options3.jpg"
                       alt="The New &gt; Key options"
-                ></p>
-</li>
-<li><p>Type <strong>PassportForWork</strong> in the new key’s text box.</p>
-</li>
+                ></li>
+<li>Type <strong>PassportForWork</strong> in the new key’s text box.</li>
+</ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<ol>
 <li><p>Next, right-click on the <strong>PassportForWork</strong> key to select the <strong>New</strong> and <strong>Key</strong> options on Registry Editor’s context menu.</p>
 </li>
 <li><p>Enter <strong>PINComplexity</strong> inside the key’s text box to set that name.</p>
@@ -833,12 +834,6 @@
 </li>
 <li><p>Double-click the new <strong>MinimumPINLength</strong> DWORD you’ve created.</p>
 </li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol>
 <li><p>Select the <strong>Decimal</strong> option.</p>
 </li>
 <li><p>Then input a number higher than four in the <strong>Value data</strong> box and click <strong>OK</strong>. The value you enter there will be the new minimum character length for the Windows Hello PIN.<br><img  
@@ -850,6 +845,12 @@
 </li>
 <li><p>You can also set a maximum PIN length. To do so, right-click <strong>PINComplexity</strong> again and select the <strong>DWORD (32-bit) Value</strong> option on the <strong>New</strong> submenu.</p>
 </li>
+</ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<ol start="4">
 <li><p>Type <strong>MaximumPINLength</strong> into the DWORD’s text box.<br><img  
                      lazyload
                      src="/images/loading.svg"
@@ -872,7 +873,7 @@
 </li>
 </ol>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> Now you’ll see an “organization requires that you change your PIN message” when you try to sign in with the PIN usually entered. Click <strong>OK</strong> to view some options for setting a new PIN. Then input a longer identification number with the minimum number of characters required inside the <strong>New</strong> and <strong>Confirm</strong> PIN boxes.</p>
@@ -883,7 +884,7 @@
                       alt="The change your PIN message"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/setup-remove-pin-windows-11/" >setting a PIN in Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> includes instructions for how to do so. Your PIN must have the minimum number of characters set with the <strong>PINComplexity</strong> registry key.</p>
@@ -922,21 +923,16 @@
 </li>
 <li><p>Select <strong>Apply</strong> and <strong>OK</strong> to set the new PIN length policy.</p>
 </li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="5">
-<li>You can also set a max PIN length much the same by clicking the <strong>Maximum PIN Length</strong> policy, selecting <strong>Enabled</strong>, and inputting a new value. Then click on <strong>Apply</strong> and <strong>OK</strong> within the Maximum PIN length window.<br><img  
+<li><p>You can also set a max PIN length much the same by clicking the <strong>Maximum PIN Length</strong> policy, selecting <strong>Enabled</strong>, and inputting a new value. Then click on <strong>Apply</strong> and <strong>OK</strong> within the Maximum PIN length window.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg"
                       alt="The Maximum PIN Length policy window"
-                ></li>
+                ></p>
+</li>
 </ol>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Extend-Your-Windows-PIN-to-Make-It-More-Secure"><a href="#Extend-Your-Windows-PIN-to-Make-It-More-Secure" class="headerlink" title="Extend Your Windows PIN to Make It More Secure"></a>Extend Your Windows PIN to Make It More Secure</h2><p> Extending the minimum PIN length for logging in to Windows with one of the methods above is a good security measure. The longer your Windows Hello PIN is, the more secure your PC will be. However, an overly long PIN will be harder to remember. So, don’t make your PIN too long!</p>
@@ -950,17 +946,23 @@
       data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://fox-access.techidaily.com/updated-expert-tips-on-basic-color-correction-in-photos/"><u>[Updated] Expert Tips on Basic Color Correction in Photos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-approaches.techidaily.com/updated-the-decades-guide-to-superior-social-media-management-smm/"><u>[Updated] The Decade's Guide to Superior Social Media Management (SMM)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-and-utilizing-widgets-in-windows-11/"><u>Accessing and Utilizing Widgets in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-boot-routine-secrets/"><u>Breaking Down Windows Boot Routine Secrets</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-that.techidaily.com/common-problems-and-quick-fixes-for-an-unresponsive-qr-scanner-on-iphone/"><u>Common Problems and Quick Fixes for an Unresponsive QR Scanner on iPhone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://buynow-tips.techidaily.com/mastering-the-new-era-in-commuting-with-mods-simplistic-sidecar-e-bike-design/"><u>Mastering the New Era in Commuting with Mod's Simplistic Sidecar E-Bike Design</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-shift-whats-updated-in-windows-11/"><u>Navigating the Shift: What's Updated in Windows 11?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-fixed-bluetooth-pairing-error-in-win-os/"><u>Quick Guide to Fixed: Bluetooth Pairing Error in Win OS</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-blog.techidaily.com/solution-found-fixes-for-world-of-warcraft-unable-to-start-on-windows-systems/"><u>Solution Found: Fixes for 'World of Warcraft' Unable to Start on Windows Systems</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win11.techidaily.com/strategies-to-skyrocket-your-winning-frames-in-csgo/"><u>Strategies to Skyrocket Your Winning Frames in CS:GO</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-howtos.techidaily.com/the-best-fixes-for-frozen-taskbar-in-windows-10-step-by-step-solutions/"><u>The Best Fixes for Frozen Taskbar in Windows 10: Step-by-Step Solutions</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-boxes.techidaily.com/new-podcast-perfection-elite-webcam-selection-guide-for-2024/"><u>[New] Podcast Perfection Elite Webcam Selection Guide for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://article-posts.techidaily.com/updated-accelerate-footage-leading-android-apps/"><u>[Updated] Accelerate Footage Leading Android Apps</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-zero.techidaily.com/approved-from-visionary-to-victory-channel-command-school/"><u>2024 Approved From Visionary to Victory Channel Command School</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-solutions.techidaily.com/acesse-as-melhores-dicas-e-foruns-educacionais-no-portal-de-aprendizagem-movavi/"><u>Acesse as Melhores Dicas E Fóruns Educacionais No Portal De Aprendizagem Movavi</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://buynow-info.techidaily.com/comprehensive-review-of-apples-finest-ipad-pro-11-inch-model-2018-release/"><u>Comprehensive Review of Apple's Finest: IPad Pro 11-Inch Model (2018 Release)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-ui-context-menu-with-disk-space-insight-tool/"><u>Enhancing Windows UI: Context Menu with Disk Space Insight Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enrich-windows-11-notepad-through-synergistic-tech/"><u>Enrich Windows 11 Notepad Through Synergistic Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-page-not-rendered-in-ms-marketplace/"><u>How to Rectify Page Not Rendered in MS Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-microsoft-defender-blocking-third-party-antivirus-software-on-windows/"><u>How to Stop Microsoft Defender Blocking Third-Party Antivirus Software on Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-videos.techidaily.com/in-2024-2023s-undisclosed-video-download-tools-1-8-rankings/"><u>In 2024, 2023'S Undisclosed Video Download Tools #1-8 Rankings</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-this-non-adobe-windows-errors/"><u>Overcoming 'This Non-Adobe' Windows Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-improve-file-transfers-on-win11-pcs-1/"><u>Strategies to Improve File Transfers on WIN11 PCs (1)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-dusk-drawers-of-microsoft-paint/"><u>The Dusk Drawers of Microsoft Paint</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-location-track.techidaily.com/top-9-meizu-21-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Meizu 21 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ai-voice.techidaily.com/updated-in-2024-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>Updated In 2024, Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-insights-what-patch-wxx-brings-to-windows-11/"><u>Upgrade Insights: What Patch W.x.x Brings to Windows 11</u></a></li>
 </ul></div>
 
 
@@ -973,11 +975,11 @@
         <li><strong>Title:</strong> Maximizing PIN Security: Windows 11 Pin Length Enhancement</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2025-01-28 19:36:25</li>
+                :</strong> 2025-02-14 23:56:21</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-02-02 23:38:16
+                    :</strong> 2025-02-15 17:38:39
             </li>
         
         <li>
@@ -1021,13 +1023,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/beat-up-hypervisor-bsos-on-windows-step-by-step/"
+                        href="/a-step-by-step-approach-to-gmaps-installation-on-pc/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Beat Up Hypervisor BSOS on Windows, Step by Step</span>
+                                <span class="post-nav-title-item">A Step-by-Step Approach to GMaps Installation on PC</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1037,10 +1039,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/addressing-cluttered-symbol-groups-on-windows-shell/"
+                        href="/a-beginners-path-to-mastering-mouse-controls-on-win11/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Addressing Cluttered Symbol Groups on Windows Shell</span>
+                                <span class="post-nav-title-item">A Beginner&#39;s Path to Mastering Mouse Controls on Win11</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
