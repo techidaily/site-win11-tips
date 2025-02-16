@@ -1,7 +1,7 @@
 ---
 title: 8 Things You Should Avoid Doing on Windows 11
-date: 2024-08-16T01:20:07.050Z
-updated: 2024-08-17T01:20:07.050Z
+date: 2025-02-13T17:23:06.464Z
+updated: 2025-02-15T16:10:58.721Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  We've put together a list of things you should never do in Windows 11\. Not only that, but we're also giving reasons why you should not change them on your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Microsoft Defender Protects Your PC From Threats, Never Disable It
 
 ![Microsoft Defender Logo on Laptop Screen](https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b1c96fbfb8d71b7193c17bd8.jpg)
@@ -35,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 ## 2\. You Should Not Download Software From Untrusted Sources
 
 ![The Microsoft Store app](https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec38a9d51d9c25c70c5f788347.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
  No matter how advanced antivirus software you use on your PC, never download software from untrusted sources. And if you're not much of an internet person, it can be tricky to identify trustworthy sources.
 
@@ -45,12 +46,13 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  If you're not good at searching the internet, try using Microsoft Store to download your apps. Apps available on the Microsoft Store are checked by Microsoft and considered safe. Notably, downloading anything from Microsoft Store will require a Microsoft account.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Windows Updates Are Important, Never Miss Them
 
 ![Checking for Available Windows Updates in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-1-Checking-for-Available-Windows-Updates-in-Windows-Settings-App.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After releasing a major Windows update, Microsoft continues to push security updates to keep your PC safe from the latest malware. Avoiding or delaying installing those monthly security updates will put your PC at severe risk.
 
@@ -58,12 +60,13 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  Granted, Windows updates can cause annoyance sometimes and impact your workflow. But most of the time, only a small set of users with specific pieces of hardware are affected. And even if you're part of that small set of users, Microsoft is quick enough to issue a fix via a software update. In short, the rewards are bigger than the risks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## 4\. You Should Not Choose Weak Passwords
 
 ![Password and lock symbol on white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-passwords-browser.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While being able to log in to our online accounts and services without having to type a password sounds like a great idea, we're not quite there yet. We use passwords everywhere to keep our online and offline accounts safe.
 
@@ -75,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  If you're not a pro at generating a strong password by yourself, check our list of the [best password generators for Windows](https://www.makeuseof.com/desktop-password-generators-windows/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Never Use Public Wi-Fi Without VPN
 
 ![connecting to a virtual private network on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/laptop-screen-showing-a-vpn-connection.jpg)
@@ -87,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
  Before the benefits lure you into logging into public WiFi, just be aware of the risk involved. However, you can mitigate the risks by using a VPN service.
 
  A VPN service will not expose your true identity to hackers, thus helping you stay protected and protect your privacy. We have a guide to help you choose between the [fastest VPN services](https://www.makeuseof.com/tag/5-great-free-vpn-services-compared-which-is-fastest/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Outdated Software Can Give You Trouble, Try to Avoid Them
 
@@ -99,8 +103,9 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 ## 7\. You Shouldn't Disable User Account Control, Unless You're an Advanced User
 
 ![The User Account Control Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-uac-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  User Account Control (UAC) is a security feature in Windows 11\. It's enabled by default to keep your PC safe from risks that could be triggered when you make specific changes to your PC.
@@ -115,9 +120,6 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  Moreover, you should always keep an eye on the number of apps running in the background. And if too many of them are in the background, the app currently in use may not be as responsive as you'd want it to be. Installing too many apps on your PC makes your system more cluttered and makes it difficult to find them.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Now You're Aware of What You Shouldn't Do in Windows 11
 
  All the features you find in Windows 11 are meant to achieve something, but they're not for everyone. Just because you're allowed to do something doesn't mean the OS encourages you to do that.
@@ -126,8 +128,6 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  We've put together a list of things you should never do in Windows 11\. Not only that, but we're also giving reasons why you should not change them on your PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -135,5 +135,22 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-maximizing-spotifys-ad-space/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Maximizing Spotify's Ad Space</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-discovering-the-quintessential-25-influence-kings-and-queens/"><u>[Updated] 2024 Approved Discovering The Quintessential 25 Influence Kings and Queens</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-elevate-your-income-with-proven-vimeo-advertising-strategies/"><u>[Updated] 2024 Approved Elevate Your Income with Proven Vimeo Advertising Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-intellij-unison-crashes-in-windows-11/"><u>Fixing IntelliJ Unison Crashes in Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-xs-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone XS Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowest-black-friday-keys-fan-discount-on-windows-11-free-forever/"><u>Lowest Black Friday Keys Fan Discount on Windows 11, Free Forever</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-powershell-a-key-for-administrators/"><u>Mastering PowerShell: A Key for Administrators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-missing-file-detection-problems-on-win-11/"><u>Mitigating Missing File Detection Problems on Win 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/obs-and-shadowplay-which-streams-better/"><u>Obs and ShadowPlay - Which Streams Better?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-endless-boot-loop-tips-and-tricks-for-windows-11-stability/"><u>Overcome the Endless Boot Loop: Tips & Tricks for Windows 11 Stability</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211145175-9781804530412-pisces/"><u>Pisces | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-failed-system-call-on-windows-systems/"><u>Steps to Tackle Failed System Call on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-dxgierrordeviceremoved-challenge/"><u>Tackling the DXGI_ERROR_DEVICE_REMOVED Challenge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-power-of-repair-for-compromised-system-files/"><u>Unlocking the Power of Repair for Compromised System Files</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-a79-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo A79 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

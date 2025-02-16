@@ -1,7 +1,7 @@
 ---
 title: Mastering GPO Searches in Modern Windows OS
-date: 2025-01-25T07:49:33.506Z
-updated: 2025-02-01T03:20:14.308Z
+date: 2025-02-12T22:41:19.206Z
+updated: 2025-02-15T20:30:58.323Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![the menu that shows up when you right-click Administrative Templates in the Loca Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/lgpe-search-filter-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Filter Options dialog box, make sure to check the **Enable Keyword Filters** checkbox. Next, in the text box next to **Filter for word(s)**, enter the search terms for the policy or, if you know it, the exact name of the policy.
 
 ![the Filter Options dialog box with the Enable Keywords and filter text box part showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/lgpe-search-filter-options-search-phrase-windows.jpg)
@@ -53,29 +49,25 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![the Filter Options dialog box showing the requirements section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/lgpe-search-filter-option-requirements-filters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Back in the LGPE, you should start to see the folders and policies decrease in number since others have been filtered out. To quickly find the policy you were searching for, click **All Settings**.
 
 ![All Settings selected in the Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/lgpe-search-filter-results-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While editing, keep in mind that changing the right [group policies can make your PC better](https://www.makeuseof.com/tag/12-ways-windows-group-policy-can-make-pc-better/), or, if you tweak the wrong one, make it worse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Search Using the Group Policy Website
 
  Besides using filters in the LGPE, you can also use the [Group Policy Search](https://gpsearch.azurewebsites.net/) website. While on the site, click the **filter icon** in the top left corner and uncheck all the products you don’t want to include in the search.
 
 ![filtering out products on the Group Policy Search website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/gps-website-filters.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click on the search box at the top, enter the search terms for the policy, and hit the **Enter** key. If you want to do an exact search, be sure to put the search string within quotes, like “disable context menu,” for example.
 
@@ -84,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  The search policy will appear in the second column, so click on it to reveal more information about it in a pop-up. You will see where to find the policy in the LGPE directly under the heading.
 
 ![the search results on the Group Policy Search website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/gps-website-searching-policy-results.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Where it says **Key**, you can see where to find the setting in the Registry Editor.
 
@@ -100,10 +96,14 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 ![the results of searching for a group policy in the reference sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/group-policy-reference-sheet-policy-path.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That’s the folder you need to look at in the LGPE to find the policy that you need to edit.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Find the Group Policy You Need on Windows
 
@@ -121,18 +121,22 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-from-capture-to-sharing-fb-video-uploads-via-pc-plus-android-for-2024/"><u>[New] From Capture to Sharing FB Video Uploads via PC + Android for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-making-sense-of-virtual-realitys-promise-and-peril/"><u>[New] Making Sense of Virtual Reality's Promise and Peril</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-mastermind-mind-games-trivia-channel-hunt-for-24/"><u>[New] Mastermind Mind Games - Trivia Channel Hunt for '24</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-novice-to-expert-creating-your-avatar-with-confidence/"><u>[Updated] From Novice to Expert Creating Your Avatar with Confidence</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-game-crash-woes-in-final-fantasy-xiv-with-our-step-by-step-pc-solution-guide/"><u>Banish Game Crash Woes in Final Fantasy XIV with Our Step-by-Step PC Solution Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-windows-1011-app-starter-issue-code-0xc000003e/"><u>Eliminating Windows 10/11 App Starter Issue: Code 0XC000003E</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-connection-problems-with-your-pcs-built-in-anti-phishing-system/"><u>How to Resolve Connection Problems With Your PC's Built-In Anti-Phishing System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-powershell-scripts-to-unblock-files/"><u>Navigating Through PowerShell Scripts to Unblock Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-savvy-strategies-testing-audiovisual-gear-before-meetings/"><u>Tech-Savvy Strategies: Testing Audio/Visual Gear Before Meetings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-syncing-in-ms-to-do-app/"><u>Troubleshooting Non-Syncing in MS To-Do App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfreeze-your-toolbar-6-solutions-for-stuck-context-menus/"><u>Unfreeze Your Toolbar: 6 Solutions for Stuck Context Menus</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/unveiling-the-distinctions-restore-vs-recover-data-insights-with-yl-computing/"><u>Unveiling the Distinctions: Restore Vs. Recover - Data Insights with YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/window-adjustment-guide-dealing-with-windows-overscan/"><u>Window Adjustment Guide: Dealing with Windows Overscan</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-unveiling-top-10-destinations-for-high-end-vectors/"><u>[New] 2024 Approved Unveiling Top 10 Destinations for High-End Vectors</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-lgs-leap-into-limitless-vision-the-4k-spectacle-of-the-31mu97-b-for-2024/"><u>[New] LG's Leap Into Limitless Vision - The 4K Spectacle of the 31MU97-B for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-get-a-grip-on-frame-rates-to-improve-snapchat-videos-for-2024/"><u>[Updated] Get a Grip on Frame Rates to Improve Snapchat Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disconnecting-guests-from-windows-protocols/"><u>Disconnecting Guests From Windows Protocols</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/enjoy-endless-tunes-stream-top-rated-free-webcasters-from-the-comprehensive-internet-radio-directory/"><u>Enjoy Endless Tunes: Stream Top-Rated Free Webcasters From the Comprehensive Internet Radio Directory</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-y36i-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo Y36i FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-good-is-chatgpt-at-making-cocktails/"><u>How Good Is ChatGPT at Making Cocktails?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-approaches-to-using-ping-in-modern-windows-os/"><u>Innovative Approaches to Using Ping in Modern Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-microsofts-mspcm-toolbar-on-w11-os/"><u>Leveraging Microsoft's MSPCM Toolbar on W11 OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newest-thunderbolt-3-dock-controllers-optimizing-your-lenovo-thinkpad-experience/"><u>Newest Thunderbolt 3 Dock Controllers: Optimizing Your Lenovo ThinkPad Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-file-consolidation-feature/"><u>Overcoming Disabled File Consolidation Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-your-defender-footprint-in-windows-systems/"><u>Overhauling Your Defender Footprint in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-windows-1011s-defender-record-simple-guide/"><u>Resetting Windows 10/11'S Defender Record - Simple Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-video-making-on-mac-top-tools-and-tips/"><u>The Ultimate Guide to Video Making on Mac Top Tools and Tips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transform-communication-skills-with-7-essential-afrikaans-tips-on-mondly/"><u>Transform Communication Skills with 7 Essential Afrikaans Tips on Mondly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-reconnect-your-printer-to-pc/"><u>Troubleshooting: Reconnect Your Printer to PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-clipboard-functionality-within-microsoft-edge-for-app-guard/"><u>Unlocking Clipboard Functionality Within Microsoft Edge for App Guard</u></a></li>
 </ul></div>
 

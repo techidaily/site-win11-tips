@@ -1,7 +1,7 @@
 ---
 title: 11 Fast Passes to the Control Settings Hub
-date: 2024-08-16T01:21:24.227Z
-updated: 2024-08-17T01:21:24.227Z
+date: 2025-02-09T23:33:39.616Z
+updated: 2025-02-15T20:58:44.394Z
 tags:
   - windows10
   - windows11
@@ -38,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 3. Click the **Control Panel icon** when it appears.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Access the Control Panel via the Run Command Dialog Box
 
  The Run command dialog box helps you quickly search for the apps on your PC. Here's how you can use it to access the Control Panel:
@@ -58,8 +59,9 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 3. Select **Control Panel** from the menu items.
 
 ![Opening the Control Panel Via the Windows Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Windows-Start-Menu.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Access the Control Panel via the Quick Access Menu
@@ -76,8 +78,9 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
  Finally, type **Control Panel** in the search box and press **Enter**.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Access the Control Panel via the File Explorer Address Bar
 
  File Explorer's address bar makes it easy for you to access the software programs on your device. So, let's take you through the process of using this tool to access the Control Panel:
@@ -86,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 2. Navigate to **File Explorer’s address bar**, type **Control Panel**, and then press **Enter**.
 
 ![Opening the Control Panel Via File Explorer's Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-File-Explorers-Address-Bar.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
  Alternatively, type **C:\\Windows\\System32** in the File Explorer address bar and click **control.exe** or **control** in the next window.
 
@@ -111,8 +110,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Type **Control Panel** in the search field and click the relevant option from the search results.
 
 ![Opening the Control Panel Via the System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-System-Settings.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Access the Control Panel via the Command Prompt or PowerShell
@@ -132,6 +136,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Type **powershell** and press **Ctrl + Shift + Enter** to open an elevated PowerShell window.
 3. Type **control panel** and press **Enter**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Access the Control Panel via the System32 Directory
 
  Did you know that you can access most of your [Windows apps](https://www.makeuseof.com/new-windows-pc-must-have-applications-to-install-first/) using the executable (.exe) files in the System32 folder?
@@ -146,8 +154,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Clicking the control option in the System32 Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-control-option-in-the-system32-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Access the Control Panel Using a Desktop Shortcut
 
  Do you have a Desktop shortcut for the Control Panel? If so, then click on it to easily access the Control Panel!
@@ -159,15 +168,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Type **%windir%\\system32\\control.exe** in the **location box** and click **Next** to continue.
 
 ![Creating a Control Panel desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/creating-a-control-panel-desktop-shortcut.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the next window, type **Control Panel** in the name field and then click **Finish** to save the shortcut. Now, you can easily access the Control Panel anytime by clicking on its Desktop shortcut.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 11\. Pin the Control Panel to Your Taskbar or Start Menu
 
  If you tend to use the Control Panel more often, then it'd be a good idea to pin it to your taskbar or Start menu. That way, you can access the tool with just a few quick clicks.
@@ -179,15 +186,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Select either **Pin to taskbar** or **Pin to Start** from the options.
 
 ![Clicking the Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-pin-to-taskbar-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  And that's it! You can now access the Control Panel by clicking its icon in the taskbar or Start menu, depending on where you've pinned it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## What's Your Favorite Method for Opening the Control Panel?
 
  The Control Panel is a critical tool that helps you easily configure your system settings. If you're unsure about how to open this tool, try any of the methods we’ve covered. And if you still can’t access the Control Panel, then perhaps you need to try a few troubleshooting fixes.
@@ -196,8 +197,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  In this article, we'll look at the 11 different methods for accessing this incredible tool.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -205,5 +204,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-listening-preferences-deciding-between-podcasts-and-youtube/"><u>[New] Listening Preferences Deciding Between Podcasts & YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-orchestrating-peak-canon-temporal-scenes/"><u>[New] Orchestrating Peak Canon Temporal Scenes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-from-silence-to-soundscape-step-by-step-in-audition/"><u>[Updated] From Silence to Soundscape Step-by-Step in Audition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-make-your-time-lagged-footage-shine-with-easy-android-tricks/"><u>[Updated] Make Your Time-Lagged Footage Shine with Easy Android Tricks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-channel-evolution-via-studio/"><u>[Updated] The Ultimate Guide to Channel Evolution via Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphraning-the-message-of-crossed-out-icons-on-files/"><u>Deciphraning: The Message of Crossed-Out Icons on Files</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-s17t-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo S17t</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-approaches-to-adding-items-to-win-11-contextual-menu/"><u>Innovative Approaches to Adding Items to Win 11 Contextual Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mouse-settings-in-windows-11-with-minimal-hassle/"><u>Mastering Mouse Settings in Windows 11 with Minimal Hassle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-spur-up-your-printers-speed/"><u>Quick Fixes to Spur Up Your Printer's Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-graphics-drivers-on-windows-11-systems/"><u>Refreshing Graphics Drivers on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sequencing-your-viewing-the-ultimate-guide-to-watching-all-of-taylor-swifts-films/"><u>Sequencing Your Viewing: The Ultimate Guide to Watching All of Taylor Swift's Films</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/solutions-innovantes-aux-difficultes-du-chkdsk-comment-continuer-en-mode-lecture/"><u>Solutions Innovantes Aux Difficultés Du Chkdsk: Comment Continuer en Mode Lecture ?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-computere-clock-display-top-5-windows-screensaver-apps-for-dynamic-visuals/"><u>Transform Your Computer’e Clock Display: Top 5 Windows Screensaver Apps for Dynamic Visuals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreezing-and-restoring-itunes-on-windows-devices/"><u>Unfreezing and Restoring iTunes on Windows Devices</u></a></li>
+</ul></div>
 

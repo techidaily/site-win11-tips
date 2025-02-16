@@ -1,7 +1,7 @@
 ---
 title: "Accelerating Windows 11: Eradicate Delays and Lags"
-date: 2024-08-16T01:21:53.697Z
-updated: 2024-08-17T01:21:53.697Z
+date: 2025-02-10T17:51:58.006Z
+updated: 2025-02-15T20:44:38.716Z
 tags:
   - windows10
   - windows11
@@ -33,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1
  Changing your device's power plan to high performance can significantly improve its performance. So, you should [change the power plan](https://www.makeuseof.com/windows-11-change-power-plan/) from balanced to high-performance. Note that switching to this plan will increase your device's performance but will also increase its power consumption. So, expect that your laptop's battery will drain faster than usual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disable Some Third-Party Services
 
  Third-party apps usually launch their services when you install them. These services help keep the app up-to-date and running smoothly. Even though they are helpful, they can overwhelm your system resources, especially if they accumulate over time. Disabling them can improve the performance of your system.
@@ -43,17 +44,20 @@ To turn off these services, follow these steps:
 
 1. Type**"System Configuration"** into Windows Search and open the**System Configuration** window.  
 ![Open System Configuration Window From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-system-configuration-window-from-windows-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 2. Go to the**Services** tab and check the box beside**Hide all Microsoft services** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Check the boxes beside the services you don't use much from the remaining services.
 4. Click**Disable all** \>**Apply** \>**OK** .  
 ![Hit OK After Disabling Certain Services in Windows System Configuration App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hit-ok-after-disabling-certain-services-in-windows-system-configuration-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable Notifications
 
  Windows sends notifications regularly to inform users of new app updates, unresolved issues with installed apps, improper syncing, etc. While such notifications are sometimes handy, they consume a ton of system resources. So, disabling these notifications for specific apps and services can make your device more efficient.
@@ -64,14 +68,8 @@ To turn off these notifications, follow the below steps:
 ![Go to Notifications Settings in the System Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/go-to-notifications-settings-in-the-system-tab-of-the-windows-settings-app.jpg)
 2. Disable the toggle next to**Notifications** to stop receiving all notifications.  
 ![Turn Off the Toggle Next to Notifications to Disable Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-the-toggle-next-to-notifications-to-disable-notifications.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Disable the toggle next to specific apps in the**Notifications from apps and other senders** section.  
 ![Disable the Toggle Next to Specific Apps in the Notifications From Apps and Other Senders Section in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-the-toggle-next-to-specific-apps-in-the-notifications-from-apps-and-other-senders-section-in-windows-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Disable Some Windows Permissions
 
@@ -83,8 +81,9 @@ To turn off these notifications, follow the below steps:
 ![Windows Permissions Settings in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-permissions-settings-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Don't Let Windows Updates Hamper Your Device's Performance
 
  Letting Windows updates install as they become available helps your system perform more efficiently. However, if these updates download in the background or if you don't install them on time, they can affect system performance negatively. Considering that, you should smartly manage Windows updates.
@@ -98,11 +97,12 @@ To pause updates, follow these steps:
 3. Expand the dropdown next to**Pause updates** and select the desired timeframe.  
 ![Paused Windows Updates in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-2-Resuming-the-Paused-Windows-Updates-in-Windows-Settings-App.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Besides this, Windows updates are sometimes buggy and can slow down your computer's performance. If the symptoms started after this, you could [fix Windows slowing down after an update](https://www.makeuseof.com/windows-10-slow-after-update-fix/) in several ways.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Check Which Apps Burden Your CPU, Memory, and Storage
 
  If you have made the above tweaks and they have failed to boost the performance of your device, some unnecessary processes might be overburdening it. So, you need to identify which processes are causing the most stress and which components they are straining. You can quickly check that in Task Manager.
@@ -114,8 +114,9 @@ To pause updates, follow these steps:
 ![high cpu usage service task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/high-cpu-usage-service-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Some Other Ways to Improve Performance
 
  Besides the above tips, removing unwanted programs, defragmenting storage drives, debloating your Windows operating system, and disabling visual effects are other ways to speed up your device. Our [guide on speeding up Windows 11](https://www.makeuseof.com/windows-11-speed-up-tricks/) includes more detailed instructions on how to make these tweaks.
@@ -128,14 +129,11 @@ So, try them out to boost your system's performance.
 
  If you do not see any improvement in performance after making the above tweaks, you may have low-end components installed on your device. Therefore, you'll need to upgrade your device to improve its performance.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,8 +142,23 @@ So, try them out to boost your system's performance.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-tactics-for-securing-royalty-free-creative-pieces/"><u>[New] Tactics for Securing Royalty-Free Creative Pieces</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-transitioning-from-standard-to-custom-thumbnails-in-twitter-videos-for-2024/"><u>[Updated] Transitioning From Standard to Custom Thumbnails in Twitter Videos for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unblocking-the-pathway-for-an-obs-camera-feed/"><u>[Updated] Unblocking the Pathway for an OBS Camera Feed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-overcoming-unseen-thumbnails-in-youtube-shorts/"><u>2024 Approved Overcoming Unseen Thumbnails in YouTube Shorts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hiccup-in-snipsyncs-workflow-9-strategies-to-patch/"><u>Hiccup in SnipSync's Workflow? 9 Strategies to Patch</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-se-2022-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone SE (2022)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-run-the-system-file-checker-sfc-in-windows/"><u>How to Run the System File Checker (SFC) in Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-users-rejoice-ios-18-release-and-what-you-need-to-know-for-upgrading-your-device-digital-gadgets-hub/"><u>IPhone Users Rejoice: IOS 18 Release and What You Need to Know for Upgrading Your Device | Digital Gadgets Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-wifi-identification-faults-in-microsofts-new-os/"><u>Mending Wifi Identification Faults in Microsoft's New OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-amd-195-installer-errors-in-windows-systems/"><u>Solving AMD 195 Installer Errors in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathway-for-pixelated-pasties-from-game-drawer-to-windows-photos/"><u>The Pathway for Pixelated Pasties: From Game Drawer to Windows Photos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-photographers-guide-to-pc-gaming-scenes-for-2024/"><u>The Photographer’s Guide to PC Gaming Scenes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-mend-text-not-showing-up-on-discord-windows/"><u>Tips to Mend Text Not Showing Up on Discord Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vintage-gear-future-functions-embrace-windows-11-with-to-go-and-rufus/"><u>Vintage Gear, Future Functions: Embrace Windows 11 with To Go and Rufus</u></a></li>
+</ul></div>
 

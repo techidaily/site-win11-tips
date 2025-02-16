@@ -1,7 +1,7 @@
 ---
 title: "Win11 Wonderland: The Art of Dossiers Design"
-date: 2025-01-29T16:24:59.720Z
-updated: 2025-02-02T23:20:41.578Z
+date: 2025-02-13T03:54:54.812Z
+updated: 2025-02-15T18:35:27.952Z
 tags:
   - windows10
   - windows11
@@ -36,11 +36,11 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
 ![Create New Folder in Windows 11 Using the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-the-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Create a New Folder Using File Explorer
@@ -55,6 +55,10 @@ To create a new folder using File Explorer's menu:
 4. Give your folder a suitable name, and then press**Enter** .  
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Create a New Folder With a Keyboard Shortcut
 
  If you prefer to work with the keyboard rather than a mouse, or if you simply want to create a new folder faster, you can use the**Ctrl + Shift + N** keyboard shortcut on Windows.
@@ -63,11 +67,11 @@ To create a new folder using File Explorer's menu:
 
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
 
- For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
 ## 4\. Create a New Folder With Command Prompt or PowerShell
 
@@ -85,16 +89,12 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-command-prompt.jpg)
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Creating Folders in Windows 11 Quickly
 
@@ -115,18 +115,24 @@ To create a new folder using File Explorer's menu:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/igital-wealth-creation-through-video-networking-for-2024/"><u>[New] Digital Wealth Creation Through Video Networking for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-selfie-verification-everything-you-need-to-know/"><u>[New] In 2024, Instagram Selfie Verification - Everything You Need to Know</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-future-of-human-computer-conversation-systems/"><u>[New] In 2024, The Future of Human-Computer Conversation Systems</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-whats-your-youtube-revenue-breakdown-per-branded-playlist/"><u>[New] In 2024, What's Your Youtube Revenue Breakdown per Branded Playlist?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-keep-the-sparkle-alive-sustaining-your-snapchat-streak-for-2024/"><u>[New] Keep the Sparkle Alive Sustaining Your Snapchat Streak for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ptimizing-audience-retention-through-engaging-shorts/"><u>[New] Optimizing Audience Retention Through Engaging Shorts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-windows-component-services-interface-quickly/"><u>Accessing Windows' Component Services Interface Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-your-system-ready-for-windows-11-with-our-top-3-usb-tips/"><u>Get Your System Ready for Windows 11 with Our Top 3 USB Tips</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-infinix-note-30-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Infinix Note 30</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-streamline-note-taking-with-win-11-display-rules/"><u>How to Streamline Note-Taking with Win 11 Display Rules</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-the-empty-phone-3-prospect-release-dates-price-forecast-and-leaked-hardware-features-unveiled/"><u>Inside the 'Empty Phone 3': Prospect Release Dates, Price Forecast & Leaked Hardware Features Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-prolong-pin-length-for-enhanced-safety/"><u>Tips to Prolong PIN Length for Enhanced Safety</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-the-power-of-sandbox-with-win-11/"><u>Unleashing the Power of Sandbox with Win 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-video-narrative-enhancer/"><u>[Updated] Video Narrative Enhancer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-secrets-to-successful-twitpicingvideos-included/"><u>2024 Approved Secrets to Successful Twitpicing—Videos Included</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-superior-webcams-revolutionizing-podcast-recording/"><u>2024 Approved Superior Webcams Revolutionizing Podcast Recording</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-y77t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo Y77t Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reveal-hidden-elements-in-windows-11-ui/"><u>How to Reveal Hidden Elements in Windows 11 UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-off-virtualization-on-windows-11/"><u>How to Turn Off Virtualization on Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-5-easy-free-methods-to-master-youtube-video-frames/"><u>In 2024, 5 Easy, Free Methods to Master YouTube Video Frames</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-androids-best-collage-creators-our-choices/"><u>In 2024, Explore Android's Best Collage Creators – Our Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insider-look-at-opened-windows-content/"><u>Insider Look at Opened Windows Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/notable-top-5-superlight-action-camera-picks-for-2024/"><u>Notable Top 5 Superlight Action Camera Picks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precise-windows-lockout-after-downtime/"><u>Precise Windows Lockout After Downtime</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-keyboard-issues-in-the-windows-snipper/"><u>Resolving Keyboard Issues in the Windows Snipper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-steam-storage-write-failure/"><u>Resolving Windows' Steam Storage Write Failure</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-your-icloud-connectivity-issues-expert-tips-and-solutions-unveiled/"><u>Resolving Your iCloud Connectivity Issues: Expert Tips and Solutions Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-mouse-interaction-with-windows-clicklock-feature/"><u>Revamping Mouse Interaction with Windows ClickLock Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-altering-windows-index-settings/"><u>Step-by-Step: Altering Windows Index Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-the-component-services-of-windows-11/"><u>Unlocking Secrets: The Component Services of Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-assassins-creed-valhalla-out-yet-answered/"><u>Why Isn't Assassin's Creed: Valhalla Out Yet? [Answered]</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95717976-9781624144516-wtf-is-tarot/"><u>WTF is Tarot? | Free Book</u></a></li>
 </ul></div>
 

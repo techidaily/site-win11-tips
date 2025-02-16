@@ -1,7 +1,7 @@
 ---
 title: Reviving a Dead Grammarly Feature with Simple Steps
-date: 2025-01-26T16:43:39.105Z
-updated: 2025-02-03T02:26:45.254Z
+date: 2025-02-12T02:06:35.608Z
+updated: 2025-02-15T19:42:24.583Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
  The best part is that you can troubleshoot most of these issues quickly. So, review the steps below and get your Grammarly app working on your Windows computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Troubleshoot Using General Fixes
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  Grammarly's Windows client offers limited settings to adjust. However, you can manage two crucial settings to resolve most Grammarly issues: block list and Grammarly startup settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Clear the Grammarly Block List
 
  Sometimes, Grammarly may stop working on specific websites or apps. This issue mainly occurs when you add them to the block list unknowingly.
@@ -88,11 +92,11 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 ![Grammarly App Windows Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-app-homescreen.jpg)
 3. Open the **Block List** tab and click **Remove** next to any website you want to exclude.  
 
-![Grammarly Blocklist Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-blocklist-settings.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Grammarly Blocklist Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-blocklist-settings.jpg)
 
  Note that the settings should apply automatically once you click **Remove**; if it doesn't, restart the app once.
 
@@ -107,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 3. Locate the **Grammarly** app in the list and right-click on it. Click **Enable** from the context menu to launch Grammarly whenever you boot up your computer.  
 ![Grammarly Startup Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-startup-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Sign Out and Sign In Again
 
  If Grammarly is not functioning as expected, try signing out and signing in again.
@@ -122,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 ![Grammarly App Account Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-app-account-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Clear Grammarly's AppData Folder
@@ -142,7 +142,7 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
  Clearing the AppData folder will erase any locally saved information associated with the Grammarly app. For instance, any websites you have on Grammarly's block list and any personalized settings will reset. So, back up or note them down before deleting its AppData folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Repair Microsoft .NET Framework
@@ -160,11 +160,11 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 4. Finally, click the **Finish** button once the repair is complete.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall the Grammarly App
@@ -201,16 +201,18 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-manuals.techidaily.com/boost-your-spreadsheet-skills-by-integrating-chatgpt-for-effortless-excel-formula-generation/"><u>Boost Your Spreadsheet Skills by Integrating ChatGPT for Effortless Excel Formula Generation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/circumventing-verify-errors-for-third-party-windows-apps/"><u>Circumventing Verify Errors for Third-Party Windows Apps</u></a></li>
-<li><a href="https://win-updates.techidaily.com/comment-effacer-le-dossier-de-corbeille-inaccessible-sous-windows-11-10-8-et-7/"><u>Comment Effacer Le Dossier De Corbeille Inaccessible Sous Windows 11, 10, 8 Et 7?</u></a></li>
-<li><a href="https://win-online.techidaily.com/discover-the-rich-hues-of-fall-stunning-backgrounds-and-inspirational-images-from-yl-softwares-2022-collection/"><u>Discover the Rich Hues of Fall: Stunning Backgrounds and Inspirational Images From YL Software's 2022 Collection</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-master-the-skill-of-trimming-youtube-videos-for-perfect-bites/"><u>In 2024, Master the Skill of Trimming YouTube Videos for Perfect Bites</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-resolve-instagram-video-glitches-today/"><u>In 2024, Resolve Instagram Video Glitches Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-setup-for-bings-ai-assistance-in-windows-11-search-shortcuts/"><u>Instant Setup for Bing's AI Assistance in Windows 11 Search Shortcuts</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/no-money-all-fcp-unveiled-methods-for-2024/"><u>No Money, All FCP – Unveiled Methods for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snowflake-surprises-gifting-windows-games-via-mstore/"><u>Snowflake Surprises: Gifting Windows Games via MSTORE</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-installer-lacks-permissions-in-windows-1110/"><u>Troubleshooting Installer Lacks Permissions in Windows 11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-wins-update-failure-on-win11-v22h2/"><u>Troubleshooting Wins Update Failure on Win11 V22H2</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-shining-a-light-top-photo-illumination-hacks/"><u>[New] In 2024, Shining a Light Top Photo Illumination Hacks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expertly-choosing-the-best-screen-snipers-on-windows/"><u>[Updated] Expertly Choosing The Best Screen Snipers on Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-free-and-fast-guide-to-detecting-fraudulent-accounts-among-instragrammers-for-2024/"><u>[Updated] Free & Fast Guide to Detecting Fraudulent Accounts Among Instragrammers for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/codec-comparison-are-we-better-with-av1-or-vp9/"><u>Codec Comparison Are We Better With AV1 or VP9?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-method-to-delete-wsl/"><u>Comprehensive Method to Delete WSL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-out-delays-for-administrator-level-terminals/"><u>Cut Out Delays for Administrator-Level Terminals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-controlled-folder-access-in-windows-10-and-11/"><u>How to Enable Controlled Folder Access in Windows 10 & 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/refining-ai-communication-top-prompting-methods-for-better-outputs/"><u>Refining AI Communication: Top Prompting Methods for Better Outputs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speeding-up-browsing-with-microsoft-edge-on-win10w11/"><u>Speeding Up Browsing with Microsoft Edge on Win10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/start-up-synergy-launching-sticky-notes-with-windows-logon/"><u>Start-Up Synergy: Launching Sticky Notes with Windows Logon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unboxing-the-stars-latest-laptops-from-ifa-2023/"><u>Unboxing the Stars - Latest Laptops From IFA 2023</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unveiling-excellent-video-creatives/"><u>Unveiling Excellent Video Creatives</u></a></li>
 </ul></div>
 

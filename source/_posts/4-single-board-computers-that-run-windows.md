@@ -1,7 +1,7 @@
 ---
 title: 4 Single-Board Computers That Run Windows
-date: 2024-08-16T01:19:02.544Z
-updated: 2024-08-17T01:19:02.544Z
+date: 2025-02-11T19:05:59.959Z
+updated: 2025-02-15T21:47:24.223Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
  **SCROLL TO CONTINUE WITH CONTENT**
 
  Some of these boards won’t run Windows at all, and some of those that can run it perform poorly and stutter every step of the way. Your options are limited if you're looking for a single-board computer that can run Windows properly. However, there are a few devices out there that can do the job quite well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows System Requirements
 
@@ -47,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 * **Trusted Platform Module** : TPM version 2.0
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1. LattePanda 3 Delta
 
  The LattePanda 3 Delta is the much more powerful successor to the original LattePanda released in 2018\. It is also known as LattePanda 3 Delta 864, with the ‘8’ and ‘64’ representing the 8GB RAM and 64GB eMMC storage, respectively.
@@ -71,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
 ![Khadas Edge2 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/khadas-edge-2-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: [Khadas](https://www.khadas.com/edge2)
 
  The Khadas Edge2 is an ARM-based single-board computer that is designed to provide maximal performance in a minimal form factor. It is particularly suited for deep learning and natural language processing applications due to the embedded neural processing unit (NPU) capable of computing at 6 TOPS (tera operations per second).
@@ -88,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 | **Other Features** | 3 x MIPI CSI connectors, 2 x MIPI DSI connectors, 2 x 30-pin GPIO expansion header                             |
 | **Power**          | USB-C Power Delivery 12V 2A (24W)                                                                              |
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3. Hackboard 2 SBC
 
 ![Hackboard 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/hackboard2kit_fe.png)
@@ -111,8 +117,9 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 | **Power**             | 12V DC, 3A power supply                                                                                                                                                |
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4. UDOO BOLT V8
 
  The UDOO BOLT V8 is quite expensive at $550, but it packs a lot of specs that may appeal to users who need the heavy-lifting power. For purists, the V8 is not technically a single-board computer, as the RAM is inserted in SODIMM sockets and is not embedded in the board itself.
@@ -131,14 +138,12 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 | **Other Features** | Consumer IR receiver, fan controller, RTC battery included, 40-pin GPIO header, Microchip ATmega32U4 co-processor (Arduino Leonardo compatible) |
 | **Power**          | DC-in jack 19V 65W, USB Type-C Power Delivery                                                                                                   |
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Honorable Mention: Raspberry Pi 4
 
 ![The Raspberry Pi 4 Model B Official Case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/praveen-thirumurugan-pkn_rlsbmzo-unsplash.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While the experience is anything but seamless, and you may have trouble with some drivers, running Windows on the [Raspberry Pi 4B flagship SBC](https://www.makeuseof.com/tag/raspberry-pi-4-overview/) might be a worthwhile challenge for some users. If you're interested, we have written a complete guide on how to [install Windows on a Raspberry Pi the easy way](https://www.makeuseof.com/how-to-install-windows-10-and-11-on-a-raspberry-pi-4-the-easy-way/) . It is not ideal for everyday use, but it is workable with a certain amount of elbow grease.
@@ -155,9 +160,6 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 | **Other Features**    | Two-lane MIPI DSI display port, two-lane MIPI CSI camera port                             |
 | **Power**             | 5V 3A power via USB-C port and GPIO; Power over Ethernet (PoE) capable using optional HAT |
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Run Windows on a Single-Board Computer
 
  Both ARM and x64 single-board computers are capable of running the Windows operating system. That aside, you will have an easier time running Windows on x64 computers. If you're planning to use an ARM SBC as your daily driver, Windows is not the best choice currently. You'll be better served with an operating system created specifically for ARM computers such as Armbian or a supported Android distribution.
@@ -168,8 +170,6 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,8 +177,21 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-speech-recorder-evaluation-guide/"><u>[New] 2024 Approved Speech Recorder Evaluation Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-essential-video-editing-apps-for-youtube-creators/"><u>[Updated] Essential Video Editing Apps for YouTube Creators</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-steps-to-prevent-thumbnail-absence-on-shorts-videos-for-2024/"><u>[Updated] Steps to Prevent Thumbnail Absence on Shorts Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-the-mystery-mastering-attention-grabbing-posts-on-instagram/"><u>[Updated] Unveiling the Mystery Mastering Attention-Grabbing Posts on Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-harmony-with-googles-cross-platform-tool/"><u>Achieving Harmony with Google's Cross-Platform Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/android-fun-integrating-games-into-windows-11-through-google-play/"><u>Android Fun: Integrating Games Into Windows 11 Through Google Play</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-between-windows-and-photoshop-open-up-delays/"><u>Bridging the Gap Between Windows and PhotoShop Open-Up Delays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/browser-blackout-blues-efficient-strategies-to-unlock-windows-sites/"><u>Browser Blackout Blues: Efficient Strategies to Unlock Windows Sites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-user-account-prompts-in-windows/"><u>Bypassing User Account Prompts in Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/el-choices-youtube-vs-tiktok-battle/"><u>Channel Choices Youtube vs TikTok Battle</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-current-windows-11-powershell-version-a-comprehensive-guide/"><u>Determining Your Current Windows 11 PowerShell Version: A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719360477145-reigniting-your-computers-print-functionality-with-effective-wwin-solutions/"><u>Reigniting Your Computer's Print Functionality with Effective WWin Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trouble-with-chatgpt-5-effective-tactics-to-verify-its-up-and-running/"><u>Trouble with ChatGPT? 5 Effective Tactics to Verify It's Up and Running</u></a></li>
+</ul></div>
 

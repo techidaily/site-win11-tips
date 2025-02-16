@@ -1,7 +1,7 @@
 ---
 title: 10 Ways to Simplify Network Connection Configurations in WinOS
-date: 2024-08-16T01:21:36.549Z
-updated: 2024-08-17T01:21:36.549Z
+date: 2025-02-13T22:39:29.693Z
+updated: 2025-02-15T19:00:57.307Z
 tags:
   - windows10
   - windows11
@@ -32,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 ![Opening the Network Connections Tool via the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/opening-the-network-connections-tool-via-the-start-menu-search-bar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Use the Run Command Dialog Box
 
  The Run command dialog box also offers an easy way to open the Network Connections tool. To use this tool, follow these steps:
@@ -42,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 2. Type **ncpa.cpl** and press **Enter** to open the Network Connections tool.
 
 ![Opening the Windows Network Connections Tool with the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-with-the-Run-command-dialog-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use the Quick Access Menu
 
@@ -53,13 +58,15 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 2. Select **Network Connections** from the menu items.
 
 ![Opening the Windows Network Connections Tool using the Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-the-Quick-Access-Menu.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Use File Explorer's Address Bar
 
  File Explorer’s address bar is an incredible tool that can help you access tons of [Windows apps](https://www.makeuseof.com/new-windows-pc-must-have-applications-to-install-first/). Here’s how you can use it to open the Network Connections tool:
@@ -68,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 2. Type **ncpa.cpl** in the address bar and press **Enter** to open the Network Connections tool.
 
 ![Opening the Windows Network Connections Tool using File Explorer's Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-File-Explorers-Address-Bar.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Use the Wi-Fi Icon or System Settings
 
@@ -80,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 2. Finally, click **Change adapter options** to open the Network Connections tool.
 
 ![Opening the Windows Network Connections Tool using the Wi-Fi icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-the-Wi-Fi-icon.png)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, open the Network Connections tool via the system settings through these steps:
 
@@ -90,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 2. Click **Network & Internet** from the menu options.
 3. In the next window, select **Status** on the left-hand side pane.
 4. Click **Change adapter options** to open the Network Connections tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Use the Command Prompt or PowerShell
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
@@ -108,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 2. Type **Powershell** and press **Ctrl + Shift + Enter** to open an elevated PowerShell window.
 3. Type **ncpa.cpl** and press **Enter** to open the Network Connections tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Use the Control Panel
 
  The Control Panel is a reliable tool that helps with troubleshooting Windows system-related issues. This tool can also help you easily access most of the software programs on your Windows device.
@@ -119,28 +128,9 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 3. Select the **Network and Sharing Center** from the menu options.
 
 ![Opening the Windows Network Connections Tool using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-the-Control-Panel.png)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the next window, click **Change adapter settings** to open the Network Connections tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## 8\. Use the Task Manager
 
  You can always rely on the Task Manager when you want to analyze system processes and monitor device performance. The Task Manager also helps you terminate active software programs with ease. But did you know that this tool can also help you access various Windows software programs?
@@ -152,8 +142,9 @@ No advertising on the website.
 3. Type **ncpa.cpl** in the search box and click **OK** to open the Network Connections tool.
 
 ![Opening the Windows Network Connections Tool using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-the-Task-Manager.png)
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Use the Executable File in the System32 Directory
@@ -169,8 +160,9 @@ No advertising on the website.
 ![Clicking the ncpa.cpl option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-ncpa-cpl-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Create a Network Connections Desktop Shortcut
 
  Desktop shortcuts make it easy for you to access the apps on your Windows device. So, let’s take a look at how to create a Desktop shortcut for the Network Connections tool:
@@ -180,11 +172,6 @@ No advertising on the website.
 3. Type **ncpa.cpl** in the **location box** and click **Next** to continue.
 
 ![Creating the Network Connections Tool shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/creating-the-network-connections-tool-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 
  From there, type **Network Connections Tool** in the name field and click **Finish**. Now, you can easily access the Network Connections tool using the desktop shortcut you've just created.
 
@@ -223,8 +210,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  In this article, we’ll show you the various ways to open the Windows Network Connections tool. From there, we'll explore how you can check your network connection status on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -232,5 +217,21 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-facebook-id-video-overview-length-aspect-ratio-frame-rate-for-2024/"><u>[New] Facebook ID Video Overview Length, Aspect Ratio, Frame Rate for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-perfecting-your-craft-making-time-lapse-films-with-ipad-for-2024/"><u>[New] Perfecting Your Craft Making Time-Lapse Films with iPad for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-premiere-illustrator-adjustments/"><u>[Updated] 2024 Approved Premiere Illustrator Adjustments</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-pioneering-the-next-level-of-streaming-setups-for-2024/"><u>[Updated] Pioneering the Next Level of Streaming Setups for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-8-best-open-source-videoconference-systems-for-enterprises-today-for-2024/"><u>[Updated] The 8 Best Open Source Videoconference Systems for Enterprises Today for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-best-editors-for-diy-dji-film-production-at-home/"><u>2024 Approved Best Editors for DIY DJi Film Production at Home</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-xiaomi-14-ultra-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Xiaomi 14 Ultra to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-13-pro-max-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 13 Pro Max From Your Apple ID</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lack-of-drive-letters-on-your-windows-pc-heres-why-and-how-to-fix-it/"><u>Lack of Drive Letters on Your Windows PC? Here's Why & How to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-unhandled-exception-error-on-windows-systems/"><u>Quick Fix for Unhandled Exception Error on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-ancient-computers-win11-22h2-guide/"><u>Reinvigorating Ancient Computers: Win11 22H2 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revenue-sources-for-windows-11-microsofts-strategy/"><u>Revenue Sources for Windows 11: Microsoft's Strategy</u></a></li>
+<li><a href="https://article-tips.techidaily.com/trailblazers-top-intro-list-for-zooids-for-2024/"><u>Trailblazers Top Intro List for Zooids for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-your-inner-hero-basic-diablo-play-mechanics/"><u>Unleashing Your Inner Hero: Basic Diablo Play Mechanics</u></a></li>
+</ul></div>
 

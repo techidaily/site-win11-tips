@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Windows 11 Desk Drawings
-date: 2024-08-16T01:18:08.291Z
-updated: 2024-08-17T01:18:08.291Z
+date: 2025-02-14T20:05:31.290Z
+updated: 2025-02-16T00:48:16.236Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 
  Epic Pen and gInk are two apps that enable you to seamlessly scribble on the Windows desktop and software as you would on a drawing board. This is how you can draw on the Windows 10 and 11 desktop with those apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Draw on the Windows Desktop With Epic Pen
 
  Epic Pen is freemium software with limited functionality. The free version enables you to scribble on the screen in Windows 11/10, 8, and 7 with its pen and highlighter. However, tools for adding shapes, straight lines, and text are only available in Epic Pen Pro. You can download and install the basic Epic Pen software like this:
@@ -34,21 +38,24 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 7. Select**I don’t want to use Epic Pen Pro right now** on the activation window to utilize the software without trial features. You can still activate the trial features later.  
 ![The I don't want to use Epic Pen Pro right now option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/epic-pen-setup-window.jpg)
 8. Then you can select an**Enable Epic Pen Pro features for free** option to permanently unlock a Pro feature by opting into the Brightdata scheme for sharing your PC’s resources. You can opt into that scheme later if you wish, but to try out the basic version first click **I don’t want to enable free Epic Pen Pro features right now** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Brightdata scheme option for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-epic-pen-pro-features-option.jpg)
 9. Select**Finish** (with the**Launch** checkbox enabled) to start Epic Pen.
 
 Now you can get scribbling on the Windows desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Use Epic Pen to Draw on Your Desktop
 
  Click the**pen** button on Epic Pen’s drawing toolbar. To change the pen width, click**pen size** and select smaller or larger options. You can select one of four colors on the toolbar’s palette. Hold down the**left mouse button** and move the cursor around to draw on your desktop.
 
 ![The pen button in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-drawing-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Epic Pen has a transparent highlighter you can use for highlighting on-screen text and details. To access that tool, click the**pen** button and select**highlighter** . Or you can press the**Ctrl** +**Shift** +**F4** hotkey to use it.
@@ -62,15 +69,13 @@ Now you can get scribbling on the Windows desktop.
  Epic Pen has an arrow and shapes you can activate on a limited-time trial basis. Click the**line** option to select arrow, rectangle, or ellipse. Then select the**Start free trial** button.
 
 ![Start free trial option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-free-trial-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You can also permanently activate some of the features in Epic Pen Pro without splashing out for the upgrade by opting into its brightdata.com scheme. To do so, click**Menu** \>**Settings** . Select the**Enable the Text tool** or**Enable the Whiteboard tool** option to activate one of those features and share device resources.
 
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Draw on the Windows Desktop With gInk
@@ -86,23 +91,12 @@ Now you can get scribbling on the Windows desktop.
  Now you can try out the gInk on-screen drawing (or annotation) tool in Windows. Click the**Pen 1** option, and scribble on the desktop by holding the**left mouse button** and moving the cursor. You can also select three other pen options for different colors.
 
 ![The qInk toolbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/qink-toolbar.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
  The fifth pen is a transparent highlighter option. Click**Pen 5** to activate the tool’s highlighter. You can utilize this tool for highlighting things in presentations.
 
  You can adjust the drawing tool’s widths by selecting**Pen width** . Drag the slider along the bar to increase or decrease the width of your pen.
 
 ![The pen width bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pen-width-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
  The gInk toolbar includes a screenshot tool you can use for taking snapshots of what you’ve drawn on the desktop. Click the**Snapshot** (camera) button on the app’s toolbar to activate it. Drag the rectangle around an area to include in the captured output to take the picture. That snapshot will automatically save to a folder path specified within gInk’s**General** tab.
 
@@ -111,6 +105,10 @@ Now you can get scribbling on the Windows desktop.
  Click the**Pens** tab on the**Options** window, and select the checkboxes for additional pens. You can also configure the pens’ colors and widths from that tab by clicking the palette boxes and**Width** drop-down menus for them.
 
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
 
@@ -124,8 +122,6 @@ Now you can get scribbling on the Windows desktop.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,8 +129,22 @@ Now you can get scribbling on the Windows desktop.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-insiders-guide-to-efficient-phone-recording/"><u>[Updated] Insider's Guide to Efficient Phone Recording</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-two-pronged-approach-to-perfecting-your-youtube-video-introduction-for-2024/"><u>[Updated] Two-Pronged Approach to Perfecting Your YouTube Video Introduction for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-reasons-why-windows-11-is-better-than-macos/"><u>6 Reasons Why Windows 11 Is Better Than macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-locate-elusive-gpeditmsc-on-pc/"><u>7 Ways to Locate Elusive 'Gpedit.msc' On PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-remedies-to-clear-windows-setup-stuck-on-validation-error/"><u>9 Remedies to Clear Windows Setup Stuck on Validation Error</u></a></li>
+<li><a href="https://article-helps.techidaily.com/a-practical-approach-to-zoom-meetings-for-2024/"><u>A Practical Approach to Zoom Meetings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-quick-walkthrough-to-unveil-ms-paint-windows-11/"><u>A Quick Walkthrough to Unveil MS Paint, Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-efficiency-with-automatic-file-disposal-in-windows-11/"><u>Boost Efficiency with Automatic File Disposal in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-buzz-around-apples-forthcoming-domestic-bot-expected-price-tag-release-forecast-and-technical-specs/"><u>Decoding the Buzz Around Apple's Forthcoming Domestic Bot: Expected Price Tag, Release Forecast, and Technical Specs</u></a></li>
+<li><a href="https://win-premium.techidaily.com/diagnosing-the-source-of-distinctive-clicking-sounds-from-your-hard-drive-expert-advice-by-yl-computing/"><u>Diagnosing the Source of Distinctive Clicking Sounds From Your Hard Drive - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-simple-guide-linking-laptop-to-tv-seamlessly-tips/"><u>Fast & Simple Guide: Linking Laptop to TV Seamlessly - Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xs-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XS without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pros-choices-essential-uav-extras-unveiled/"><u>Pros' Choices Essential UAV Extras Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719284654722-software-environment-setup/"><u>Software Environment Setup:</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-straightening-correcting-fisheye-in-gopro-footage-for-2024/"><u>The Art of Straightening Correcting Fisheye in GoPro Footage for 2024</u></a></li>
+</ul></div>
 

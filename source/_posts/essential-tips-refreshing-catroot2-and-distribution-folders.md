@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips: Refreshing Catroot2 and Distribution Folders"
-date: 2025-01-30T01:33:31.330Z
-updated: 2025-01-31T18:19:23.897Z
+date: 2025-02-13T17:46:44.371Z
+updated: 2025-02-16T00:23:40.441Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
  Therefore, resetting those folders is a troubleshooting method for fixing Windows 11 update installation issues. Resetting the SoftwareDistribution and Catroot2 folders removes corrupted data they might contain, which rebuilds them. You can reset those folders by deleting their contents or renaming them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Erasing Their Contents
 
  This method for resetting the SoftwareDistribution and Catroot2 folders involves manually eradicating the data in them via File Explorer. It’s also necessary to disable and re-enable certain services via the Command Prompt to ensure they’re not utilizing files in them. Delete the files in the SoftwareDistribution and Catroot2 folders as follows:
@@ -55,14 +59,15 @@ net stop msiserver`
 8. Right-click and select **Delete** (the trash can button) to eradicate selected content.  
 ![The SoftwareDistribution folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/softwaredistribution-folder.jpg)
 9. Bring up the catroot2 folder by entering this path in Explorer’s address bar:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `C:\Windows\System32\catroot2`
 10. Repeat steps seven and eight above to erase everything in that folder.  
 ![The catroot2 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/catroot2folder.jpg)
 11. Return to the Command Prompt and execute these separate commands for restarting the disabled services.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `net start bits  
 
@@ -74,7 +79,7 @@ net start msiserver`
 12. Restart the PC and check for updates after clearing those folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Renaming Them
@@ -86,24 +91,24 @@ net start msiserver`
 ![The net stop commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-stop-commands.jpg)
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `ren %systemroot%\system32\catroot2 catroot2.bak`  
 ![The ren catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-catroot2-folder.jpg)
 5. Repeat step 11 of the preceding method by executing the four commands for restarting the disabled services.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The net start command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-start-commands.jpg)
 6. Exit Command Prompt and select to restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders With FixWin 11
 
@@ -123,10 +128,6 @@ net start msiserver`
 ![The Quick Fixes tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/quick-fixes-tab.jpg)
 10. Click the **Reset catroo2 Folder** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 11. Exit FixWin and reboot your PC after selecting those options.
 
 ## Fix Windows Update Issues by Resetting the SoftwareDistribution and Catroot2 Folders
@@ -145,17 +146,17 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-light-up-the-screen-techniques-for-stunning-youtube-visuals/"><u>[New] Light Up the Screen Techniques for Stunning YouTube Visuals</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-premier-picks-essential-mp4-lists-for-2024/"><u>[New] Premier Picks Essential MP4 Lists for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-step-up-your-content-quality-with-these-8-mirrorless-cams/"><u>[Updated] In 2024, Step Up Your Content Quality with These 8 Mirrorless Cams</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unraveling-the-mystery-of-apples-new-ios-camera/"><u>[Updated] Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/a-newbies-blueprint-to-mastering-av1/"><u>A Newbie's Blueprint to Mastering AV1</u></a></li>
-<li><a href="https://win11.techidaily.com/achieve-peak-productivity-configure-multiple-monitors-in-win11/"><u>Achieve Peak Productivity: Configure Multiple Monitors in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combatting-edgechrome-taskbar-disappearance-in-full-size-views/"><u>Combatting Edge/Chrome Taskbar Disappearance in Full-Size Views</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-guide-on-downloading-all-formats-of-comedy-central-shows-mp4-wmv-avi-and-more/"><u>Comprehensive Guide on Downloading All Formats of Comedy Central Shows - MP4, WMV, AVI & More</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/to-fun-converting-youtube-videos-to-playful-download-free-gifs-for-2024/"><u>Flip to Fun Converting YouTube Videos to Playful, Download-Free GIFs for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamping-windows-11-the-ultimate-customization-manual/"><u>Revamping Windows 11: The Ultimate Customization Manual</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-a-dysfunctional-resource-monitor-on-windows-11/"><u>Reviving a Dysfunctional Resource Monitor on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revoking-tech-shortcuts-for-purging-programs-in-windows-11-115-chars/"><u>Revoking Tech: Shortcuts for Purging Programs in Windows 11 (115 Chars)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nhance-your-content-filmmaking-for-youtube-trailers-with-filmora-for-2024/"><u>[New] Enhance Your Content Filmmaking for YouTube Trailers with Filmora for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-venturing-into-new-realities-best-metaverse-headsets-guide/"><u>[New] Venturing Into New Realities Best Metaverse Headsets Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-prime-selection-of-invisible-android-recorders/"><u>[Updated] 2024 Approved Prime Selection of Invisible Android Recorders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-system-failures-employing-command-prompt-for-identifying-and-fixing-error-codes/"><u>Deciphering System Failures: Employing Command Prompt for Identifying and Fixing Error Codes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-doordashs-innovative-drone-delivery-trials/"><u>Exploring DoorDash's Innovative Drone Delivery Trials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-immediate-failure-in-adding-folders-with-windows-onedrive/"><u>Fixing Immediate Failure in Adding Folders with Windows OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-a-three-column-widgets-board-in-windows-11/"><u>How to Enable a Three-Column Widgets Board in Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-90-lite-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor 90 Lite Device SIM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-admin-interface-in-windows-os/"><u>Mastering Admin Interface in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-transition-wsl-and-windows-11-written-by-your-name/"><u>Navigating the Transition: WSL and Windows 11' Written by [Your Name]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-sound-crackles-master-the-art-of-troubleshooting-cyberpunk-2077s-audio-problems/"><u>No More Sound Crackles! Master the Art of Troubleshooting Cyberpunk 2077'S Audio Problems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tips to Resolve Severe JS Failure Issues Within Discord, Specifically for Win OSes
-date: 2024-12-15T16:43:34.072Z
-updated: 2024-12-21T16:54:52.517Z
+date: 2025-02-10T03:32:37.903Z
+updated: 2025-02-16T00:27:19.461Z
 tags:
   - windows10
   - windows11
@@ -31,14 +31,6 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Uninstall BetterDiscord
 
  BetterDiscord is an extension for customizing the Discord app. However, some BetterDiscord custom scripts can cause Discord issues like the fatal JavaScript error. Furthermore, using that app doesn’t fall within Discord’s terms of service. If you have installed BetterDiscord, try removing that app as follows:
@@ -51,6 +43,11 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 6. Select the**Uninstall BetterDiscord** option, and click**Next** again.  
 ![The Uninstall BetterDiscord option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-betterdiscord-option.jpg)
 7. Choose a**Discord** version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click**Uninstall** to finish.
 
 ## 3\. Delete Discord’s Data Folders
@@ -65,10 +62,20 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 4. Terminate all Discord-related processes by selecting them and clicking their**End task** options.  
 ![A Discord-related processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-related-process.jpg)
 5. Open Windows Explorer with**Win + E** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
 7. Then select the Discord data folder and click Explorer's**Delete** option on the**Home** tab or command bar.  
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
 
 ## 4\. Reinstall Discord
@@ -87,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
 9. Go through Discord’s installation wizard to reinstall the software.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Disable Any Third-Party Antivirus Tools
 
  Conflicting third-party antivirus tools can also cause the fatal Javascript error by blocking some of Discord’s files. Avast Antivirus is one such utility known to conflict with Discord. If you’ve got that third-party software installed or another alternative, try disabling its shield before attempting to start (or install) Discord.
@@ -106,15 +109,11 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 ![The Virus & threat protection tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/virus-threat-protection.jpg)
 3. Click**Manage Settings** to view the options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
@@ -130,17 +129,22 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
 6. Press the service’s**Start** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Select**Log On** at the top of the service’s properties window.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Input your user account within the**Enter** object name box.
 10. Click**OK** to close out of the Select user window.
 11. To save the service’s new settings, select its**Apply** option.
 12. Then exit the window by selecting**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Start Chatting in Discord Again on Windows
 
@@ -161,18 +165,20 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/s-there-a-science-to-youtubes-quick-subscribe-tactic-in-2024/"><u>[New] Is There a Science to YouTube's Quick Subscribe Tactic, In 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-exploring-the-merits-of-obs-studio-and-fraps-for-recording-screens-for-2024/"><u>[Updated] Exploring the Merits of OBS Studio & Fraps for Recording Screens for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-guide-to-best-youtube-banner-size-and-channel-art-dimension/"><u>[Updated] Ultimate Guide to Best YouTube Banner Size and Channel Art Dimension</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-updating-or-downloading-canon-pixma-mx490-drivers-on-windows-systems/"><u>Easy Guide to Updating or Downloading Canon PIXMA MX490 Drivers on Windows Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-samsung-galaxy-a23-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Samsung Galaxy A23 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-configure-word-to-open-email-attachments-exclusively-in-read-view/"><u>How to Configure Word to Open Email Attachments Exclusively in Read View</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-action-delete-printer-in-windows-11/"><u>Immediate Action: Delete Printer in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-no-app-associated-files-on-windows/"><u>Remedy for No App Associated Files on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/silence-is-golden-steps-for-identifying-and-resolving-a-noisy-computer-fan-issue/"><u>Silence Is Golden: Steps for Identifying and Resolving a Noisy Computer Fan Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simple-steps-custom-windows-1111-menu-add-ons/"><u>Simple Steps: Custom Windows 11/11 Menu Add-Ons</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-potential-the-essentials-of-msistore-world/"><u>Unleash Potential: The Essentials of MSIStore World</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-did-social-networking-services-crash/"><u>Why Did Social Networking Services Crash?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-guide-reviving-the-absence-of-dxgidll-file/"><u>Win11 Guide: Reviving the Absence of Dxgi.dll File</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-craft-clever-comical-content/"><u>[New] Craft Clever, Comical Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-lead-the-way-in-igtv-videos-with-best-ever-edits/"><u>[New] Lead the Way in IGTV Videos with Best-Ever Edits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ginger-isle-strategies-for-stardew/"><u>[Updated] Ginger Isle Strategies for Stardew</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-examination-lg-bp350-screen-specifications-and-reviews/"><u>[Updated] In-Depth Examination LG BP350 Screen Specifications and Reviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-try-these-free-online-tempo-trackers-today/"><u>[Updated] Try These FREE Online Tempo Trackers Today</u></a></li>
+<li><a href="https://win-top.techidaily.com/comment-recupere-t-on-des-donnees-apres-un-formatage-de-disque-dur/"><u>Comment Récupère-T-On Des Données Après Un Formatage De Disque Dur ?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-identifying-hard-drive-vs-solid-state-drive-on-windows/"><u>Expert Tips for Identifying Hard Drive vs Solid State Drive on Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebooks-2023-video-innovations-embracing-the-short-form-approach/"><u>Facebook’s 2023 Video Innovations Embracing the Short-Form Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-insufficient-rights-error-during-windows-setup/"><u>Fixing Insufficient Rights Error During Windows Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rescue-missing-pin-in-windows-11-after-an-error/"><u>How To Rescue Missing PIN in Windows 11 After An Error</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-the-art-of-video-production-initial-setup/"><u>In 2024, Mastering the Art of Video Production Initial Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-error-code-0x80073d26-on-windows-oses/"><u>Resolving Microsoft Store Error Code 0X80073D26 on Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-why-you-shouldnt-turn-off-windows-11s-alerts/"><u>Revealing Why You Shouldn’t Turn Off Windows 11'S Alerts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/stream-smart-chromecast-vs-roku-determining-the-superior-media-player/"><u>Stream Smart: Chromecast Vs. Roku - Determining the Superior Media Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-5-tracks-to-windows-startup-landscape/"><u>The 5 Tracks to Windows Startup Landscape</u></a></li>
 </ul></div>
 

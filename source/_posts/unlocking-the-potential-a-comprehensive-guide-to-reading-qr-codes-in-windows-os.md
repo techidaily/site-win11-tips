@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Potential: A Comprehensive Guide to Reading QR Codes in Windows OS"
-date: 2024-12-18T03:47:25.857Z
-updated: 2024-12-22T05:51:50.150Z
+date: 2025-02-10T21:50:16.019Z
+updated: 2025-02-16T04:08:32.475Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Scan QR Codes Using the Windows Camera App](#how-to-scan-qr-codes-using-the-windows-camera-app)
@@ -28,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 * [How to Scan QR Codes Using the Codex App on Windows](#how-to-scan-qr-codes-using-the-codex-app-on-windows)
 
  You're probably used to scanning QR codes with your smartphone to access email addresses, phone numbers, and website links. But how do you scan them on a Windows PC without your phone? Let's see.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. How to Scan QR Codes Using the Windows Camera App
 
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 4. Place your QR code in front of your computer's camera and the app will scan it automatically.  
 ![Windows Camera Barcode Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-camera-barcode-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It's worth noting that the QR code option in the Camera app may not be visible if you aren't running the most recent version of Windows. In this case, you must enable the experimental features in the Windows Camera app to access the QR code option. Here's how:
 
 1. Open the **Camera** app on your PC using Windows Search. Check out [how to use Windows Search](https://www.makeuseof.com/windows-search-use-guide/) if you need help.
@@ -51,15 +55,7 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 4. Enable the toggle next to **Try out new experimental features**.  
 ![Enable Experimental Features in Windows Camera](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-experimental-features-in-windows-camera.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart the Camera app after completing the above steps, and you should see the QR code scanner option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Scan QR Codes From an Image on Windows
 
@@ -74,7 +70,11 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 ![Scan QR Code From an Image on Windows PC Using an Online Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/scan-qr-code-from-an-image-on-windows-pc-using-an-online-service-copy.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Scan QR Codes Using the Codex App on Windows
@@ -102,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 5. The app will immediately scan the QR code within the selected image and open it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You now know some quick and simple ways to scan QR codes on your Windows computer. The QR scanner built into the Camera app, a dedicated QR code scanner app, or a web-based solution should be all you need for everyday use.
@@ -119,18 +119,20 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/deciphering-non-installed-disk-errors-and-how-to-tackle-them-in-windows-11/"><u>Deciphering 'Non-Installed Disk' Errors and How To Tackle Them in Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/designing-dramatic-podcast-clips/"><u>Designing Dramatic Podcast Clips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-error-in-file-history-settings-on-windows-pcs/"><u>Fixing Error in File History Settings on Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-premium-value-save-big-on-your-new-robot-vacuum-purchase-the-enhanced-yeedi-c13-pro-model/"><u>Get Premium Value: Save Big on Your New Robot Vacuum Purchase - The Enhanced YEEDI C13 Pro Model</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-dreamlight-valley-from-crashing-on-your-computer-a-step-by-step-fix/"><u>How to Stop Dreamlight Valley From Crashing on Your Computer - A Step-by-Step Fix</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-p40plus-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Itel P40+ Users</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-smart-outlet-solutions-the-ultimate-guide/"><u>Leading Smart Outlet Solutions: The Ultimate Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-best-free-video-rotation-apps-for-android-iphone-windows-and-mac/"><u>New Best Free Video Rotation Apps for Android, iPhone, Windows, and Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-directx-installation-problems/"><u>Overcoming DirectX Installation Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-your-gameplay-win-troubleshooting-epic-login/"><u>Reviving Your Gameplay: Win Troubleshooting Epic Login</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-0x80246007-windows-update-problems/"><u>Swift Solutions to 0X80246007 Windows Update Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailor-your-views-configuring-windows-11-dual-monitors/"><u>Tailor Your Views: Configuring Windows 11 Dual Monitors</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-future-symphony-how-spotify-and-facebook-are-converging-on-project-boombox/"><u>The Future Symphony: How Spotify & Facebook Are Converging on Project Boombox</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-finest-9-mic-recording-devices-compared/"><u>[Updated] 2024 Approved The Finest 9 Mic Recording Devices Compared</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-and-repairing-the-persistent-0x802n40017-issue-in-windows-updates/"><u>Bypassing and Repairing the Persistent 0X802n40017 Issue in Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-print-fixes-for-common-windows-11-printer-hiccups/"><u>Easy Print Fixes for Common Windows 11 Printer Hiccups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-microsoft-store-crash-code-0x800704cf/"><u>Eradicating Microsoft Store Crash: Code 0X800704CF</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-hide-the-task-view-button-from-the-windows-11-taskbar/"><u>How to Hide the Task View Button From the Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-taskmanager-front-and-center-in-windows/"><u>Keep TaskManager Front and Center in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-file-capacity-with-win-1011-tips/"><u>Managing File Capacity with Win 10/11 Tips</u></a></li>
+<li><a href="https://win-net.techidaily.com/mastering-keyboard-customization-remapping-keys-via-microsofts-powertoys-feature-insights-from-zdnet/"><u>Mastering Keyboard Customization: Remapping Keys via Microsoft’s PowerToys Feature - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-from-photos-to-film-a-beginners-guide-to-video-creation-for-2024/"><u>New From Photos to Film A Beginners Guide to Video Creation for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/razer-drivers-download-and-update-in-windows-10-8-7-xp-and-vista/"><u>Razer Drivers Download & Update in Windows 10, 8, 7, XP and Vista</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-access-to-off-screen-panes-win11-guide/"><u>Regaining Access to Off-Screen Panes: Win11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-windows-11-performing-an-uncluttered-reboot/"><u>Reviving Windows 11: Performing an Uncluttered Reboot</u></a></li>
+<li><a href="https://win-studio.techidaily.com/top-libres-herramientas-de-clonacion-ssd-para-evitar-errores-de-inicio/"><u>Top Libres Herramientas De Clonación SSD Para Evitar Errores De Inicio</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unlocking-top-five-transformative-facebook-traits/"><u>Unlocking Top Five Transformative Facebook Traits</u></a></li>
 </ul></div>
 

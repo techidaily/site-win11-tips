@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Grayed-Out Screensaver in Win OS: Top Fixes"
-date: 2024-08-16T01:17:01.708Z
-updated: 2024-08-17T01:17:01.708Z
+date: 2025-02-08T18:58:49.556Z
+updated: 2025-02-15T22:53:47.002Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
  Fortunately, we’ve got all the solutions you need. So, let’s dive in and check out the four ways to resolve this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Local Group Policy Editor
 
  The “grayed out screen saver settings” error might be caused by issues that stem from the Local Group Policy Editor (LGPE). So, the best way to tackle the problem is to make some changes in the LGPE.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 4. Double-click on the **Enable screen saver** option on the right-hand side.
 
 ![Clicking the Enable screen saver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-enable-screen-saver-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check the **Enabled** box on the next screen. From there, click **Apply** and then click **OK**.
 
@@ -82,9 +90,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
  Once you’re inside the "Control Panel" key, navigate to the right-hand side and locate the **ScreenSaveActive** option.
 
 ![Clicking the ScreenSaveActive option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-screensaveactive-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this value is missing, create it through these steps:
 
@@ -95,14 +100,12 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  To enable the “ScreenSaveActive” option in the Registry Editor, double-click on this option and then set the "Value data" as **1**. From there, press **OK** and then restart your device to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Change the Power Settings
 
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You might not be aware of this, but configuring the power settings usually has an effect on the other system settings.
@@ -111,9 +114,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  Now, let's check out how to configure a few power settings to tackle the “grayed out screen saver settings” issue.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### Change the Power Settings Via the Screen Saver Settings Window
 
  Did you know that you can tweak the power settings directly from the Screen Saver Settings window? Here are the steps you need to follow:
@@ -123,8 +123,9 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 3. Click the **Change power settings** option.
 
 ![Clicking the Change power settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-change-power-settings-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select the **Change plan settings** option on the "Power Options" screen. This will display the "Edit Plan Settings" screen.
@@ -137,6 +138,10 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
 ![Clicking the Save Changes button on the Edit plan settings screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-save-changes-button-on-the-edit-plan-settings-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, configure the advanced power settings through these steps:
 
 1. Type **Change screen saver** in the Start menu search bar and select the **Best match**.
@@ -146,8 +151,9 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
  Expand the contents in the "Display" section and select **Never** for both the "On battery" and "Plugged in" options.
 
 ![Selecting the Display option in the Power Options screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-display-option-in-the-power-options-screen.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, expand the "Desktop background settings" option and select **Never** for all the options in this section. Finally, click **Apply** and then click **OK** to save these changes.
@@ -173,21 +179,17 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  From there, you can edit all the necessary power settings using the tips we covered in the previous section.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 4\. Get Rid of System Corruption or Update Your PC
 
 ![Computer antivirus illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Computer-antivirus-illustration.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Still struggling to resolve the "grayed out screen saver settings" issue? If so, then maybe the error is caused by corrupted system files. In this case, you can [repair corrupt Windows files with built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) like DISM and SFC.
 
  And if all else fails, [update your Windows device](https://www.makeuseof.com/update-windows-manually/) and see if that helps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You've Successfully Restored Your Screen Saver Settings
 
@@ -197,8 +199,6 @@ The powerful video editing program for your Windows PC</a>
 
  Fortunately, we’ve got all the solutions you need. So, let’s dive in and check out the four ways to resolve this issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -206,5 +206,24 @@ The powerful video editing program for your Windows PC</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-practices-selecting-devices-for-zoom-recording/"><u>[New] Best Practices Selecting Devices for Zoom Recording</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-ignite-your-videos-with-these-top-50plus-inspirational-quotes-for-2024/"><u>[New] Ignite Your Videos with These Top 50+ Inspirational Quotes for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-decoding-youtubes-mystery-a-sequential-exploration-guide/"><u>[Updated] 2024 Approved Decoding YouTube's Mystery A Sequential Exploration Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-2023-how-to-make-facebook-videos-full-screen/"><u>2024 Approved 2023 | How to Make Facebook Videos Full Screen?</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/arrow-key-calm-a-guide-for-win-users/"><u>Arrow Key Calm: A Guide for Win Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-fit-selecting-vms-that-thrive-on-windows-11-platforms/"><u>Best Fit: Selecting VMs That Thrive On Windows 11 Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-dedicated-video-ram-capacity-on-modern-windows/"><u>Boost Dedicated Video RAM Capacity on Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-performance-by-rebooting-windows-11-ram/"><u>Boost Performance by Rebooting Windows 11 RAM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-productivity-harness-windows-smart-launcher-techniques/"><u>Boost Productivity: Harness Windows' Smart Launcher Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-windows-apps-with-efficient-internet-fixes/"><u>Boost Your Windows Apps with Efficient Internet Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-edges-app-guard-with-enhanced-graphics/"><u>Boosting Edge's App Guard with Enhanced Graphics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-ultimate-battle-of-ai-chatbots-chatgpt-vs-microsoft-bings-new-brain-vs-google-bard/"><u>Decoding The Ultimate Battle of AI Chatbots - ChatGPT Vs Microsoft Bing's New Brain vs Google Bard</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-horizon-zero-dawns-stability-issues-on-windows-a-comprehensive-guide/"><u>How to Resolve Horizon Zero Dawn's Stability Issues on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-artisans-guide-to-aesthetic-photographic-adjustments/"><u>In 2024, The Artisan's Guide to Aesthetic Photographic Adjustments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719327147890-secrets-to-perfect-full-screen-snipping-with-windows-toolkit/"><u>Secrets to Perfect Full-Screen Snipping with Windows' Toolkit</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-free-video-editing-software-virtualdub-review-and-top-competitors/"><u>Updated The Best Free Video Editing Software Virtualdub Review and Top Competitors</u></a></li>
+</ul></div>
 

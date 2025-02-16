@@ -1,7 +1,7 @@
 ---
 title: "Unlock Windows 11 Potentials: Effective Change Strategies"
-date: 2024-12-19T18:41:59.514Z
-updated: 2024-12-22T07:53:05.281Z
+date: 2025-02-09T19:35:00.476Z
+updated: 2025-02-16T01:54:28.361Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable Clipboard History to Move Content Efficiently
 
  The copy and paste function is helpful for everyone because it helps you move your content from one location to another. Windows 11 offers an advanced copy-paste tool that will save you a lot of time, but unfortunately, it is not enabled by default.
@@ -44,15 +40,15 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
  Now you can press**Win + V** on your keyboard to bring the Clipboard history and select the desired item from all the previous strings of text or photos you copied previously. And much like previous iterations, Windows 11 Clipboard will forget everything you copied when you turn off your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Set Up Nearby Sharing
 
 ![Nearby Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nearby-sharing-edit.jpg)
 
  If you have multiple PCs running Windows 11 or 10, Nearby Sharing will make it easier for you to transfer content from one to another over WiFi or Bluetooth. However, as the name itself suggests, it works between nearby Windows computers. Check out[how to use Nearby Sharing on Windows 11](https://www.makeuseof.com/how-to-use-nearby-sharing-on-windows-11/) for more information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. A Cleaner Desktop Experience
 
@@ -60,14 +56,10 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ![Delete Desktop Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-desktop-shortcuts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You should review what’s important to you from time to time to prioritize what to keep as shortcuts on the Desktop. If you just bought a Windows 11 PC, you will see Desktop icons such as Recycle Bin. You can quickly[hide Desktop icons from your Windows desktop](https://www.makeuseof.com/ways-to-hide-desktop-icons-on-windows/) with just a few clicks. You can also remove shortcuts to any files or folders from the desktop by right-clicking on them and then selecting the trash icon in the bottom right corner of the context menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enable Storage Sense to Manage Your Memory Better
@@ -77,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  Storage Sense gives you a smart way of freeing up your disk space. When turned on, it automatically deletes items you longer need, like temporary files and items in your Recycle Bin. Additionally, Storage Sense allows you to choose how often to run and what to clean. You can also manage locally available cloud content associated with your Microsoft OneDrive account.
 
  It is important to note that all the changes you are making to Storage Sense apply only to you. It will not affect anyone else using the same PC with a different account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enable Find My Device to Track Your PC
 
@@ -93,11 +89,11 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 ![Night Light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/night-light-edit.jpg)
 3. Click on**Turn on now** , right beside Show warmer colors on your display to help you sleep.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also set up the time range, during which Windows 11 will keep Night light on. You can do that by clicking on the**Schedule Night light** toggle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Set Active Hours
 
@@ -108,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  When you set up Active hours, you tell your PC when to restart your device after update installations. There are two ways you can set it up. You can either allow Windows to learn from your device’s activity to adjust Active hours automatically or let yourself choose the time range.
 
  Windows 11 understands your daily activity and automatically chooses a timescale during which you usually do not use your PC. You can choose manually select the time if your daily usage does not follow a particular pattern. You need to tweak this setting to ensure that Windows updates do not come in the way of whatever you are doing during your work schedule.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Enable Dark Mode to Reduce Eyestrain
 
@@ -121,11 +121,11 @@ Here is how you can enable Dark mode on your Windows 11 PC:
 ![Dark Mode toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dark-mode-toggle-edit.jpg)
 4. In**Choose your mode** radio menu, select**Dark** .
 
- However, unlike macOS, dark mode in Windows 11 is not available everywhere in the OS. On the bright side, the degree of inconsistency of dark mode in Windows 11 is something you can ignore because dark mode applies to most areas when turned on.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ However, unlike macOS, dark mode in Windows 11 is not available everywhere in the OS. On the bright side, the degree of inconsistency of dark mode in Windows 11 is something you can ignore because dark mode applies to most areas when turned on.
 
 ## You Are Better Off Enabling the Above Windows 11 Settings
 
@@ -146,17 +146,24 @@ Here is how you can enable Dark mode on your Windows 11 PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-art-of-selling-through-influence-5-key-strategies-on-instagram-for-2024/"><u>[New] The Art of Selling Through Influence 5 Key Strategies on Instagram for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-complete-manual-for-installing-microsofts-wm6/"><u>[Updated] Complete Manual for Installing Microsoft's WM6</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-convert-youtube-to-igtv-videos-3-ways/"><u>[Updated] How to Convert YouTube to IGTV Videos? [3 Ways]</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/15-snapchat-mastery-techniques-you-cant-miss/"><u>15 Snapchat Mastery Techniques You Can't Miss</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-11s-visual-customization-10-key-methods/"><u>Decoding Windows 11'S Visual Customization - 10 Key Methods</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/expanding-viewership-tweeting-to-fb-effectively/"><u>Expanding Viewership Tweeting to FB Effectively</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-iphone-xs-max-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket iPhone XS Max for Free</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-hd-adventures-windows-users-guide-to-scummvm-proficiency/"><u>Maximizing HD Adventures: Windows Users' Guide to ScummVM Proficiency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-rectify-absentee-bluetooth-in-manager/"><u>Methods to Rectify Absentee Bluetooth in Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalizing-windows-11-search-with-ease/"><u>Personalizing Windows 11 Search with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-compilation-of-windows-photo-orderers/"><u>The Ultimate Compilation of Windows Photo Orderers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unveiling-the-d-link-powerline-2aturntop-p8e-streamlined-installation-and-swift-data-transfer-speeds-explored/"><u>Unveiling the D-Link Powerline 2Aturntop (P8E): Streamlined Installation and Swift Data Transfer Speeds Explored</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-from-abrupt-shifts-to-serene-journeys-expert-crossfade-guidance-with-audacity/"><u>[Updated] In 2024, From Abrupt Shifts to Serene Journeys Expert Crossfade Guidance with Audacity</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-6-awesome-free-webcam-games-for-computer/"><u>2024 Approved 6 Awesome Free Webcam Games for Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/advanced-techniques-to-remove-multiple-iphone-contacts-efficiently/"><u>Advanced Techniques to Remove Multiple iPhone Contacts Efficiently</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-on-major-online-communities-dive-into-facebook-twitter-instagram-and-youtube/"><u>Connect on Major Online Communities: Dive Into Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-fixes-for-farming-tycoon-22-startup-difficulties-step-by-step-solutions/"><u>Effective Fixes for Farming Tycoon 22 Startup Difficulties: Step-by-Step Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-mail-notifications-on-windows-a-comprehensive-guide/"><u>Enhancing Mail Notifications on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-your-it-admin-has-limited-controls-alert-on-windows/"><u>Fixing 'Your IT Admin Has Limited Controls' Alert on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-updates-for-your-epson-xp-navigator-a-step-by-step-driver-download-tutorial/"><u>Get the Newest Updates for Your Epson XP-Navigator: A Step-by-Step Driver Download Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-a-troubled-windows-interface/"><u>Immediate Fixes for a Troubled Windows Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-a-difference-in-your-desktop-experience-explore-8-winbubble-tips/"><u>Make a Difference in Your Desktop Experience - Explore 8 WinBubble Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-pc-performance-selecting-the-best-five-no-cost-drivers/"><u>Maximizing PC Performance: Selecting the Best Five No-Cost Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minecraft-crash-no-more-solving-error-code-5-quickly/"><u>Minecraft Crash No More: Solving Error Code (#5) Quickly!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/order-matters-discover-how-to-watch-all-indiana-jones-movies-in-their-intended-sequence/"><u>Order Matters - Discover How to Watch All Indiana Jones Movies in Their Intended Sequence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-insufficient-privileges-on-windows-system/"><u>Overcoming the Insufficient Privileges on Windows System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-windows-camera-storage-breakdown/"><u>Reversing Windows Camera Storage Breakdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-4-windows-os-on-micro-pcs/"><u>Top 4 Windows OS on Micro PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/vs-vs-a-study-on-windows-underused-monitors/"><u>Vs. Vs. - A Study on Windows' Underused Monitors</u></a></li>
+<li><a href="https://win-tips.techidaily.com/yl-softwares-magical-desktops-premium-fairy-lights-wallpapers-and-graphics-collection/"><u>YL Software's Magical Desktops: Premium Fairy Lights Wallpapers & Graphics Collection</u></a></li>
+<li><a href="https://fox-making.techidaily.com/44k744kk44ky44o844oi44oa44od44k344ol44oc44o844oj44gn5yplusk44ge44oq44od44kv44ki44od44ox44ov44kh44kk44or44gu5ymk6zmk44go44k544oi44os44o844k45a656yep5ouh5asn4312/"><u>セイゲートダッシュボードで古いバックアップファイルの削除とストレージ容量拡大の手順</u></a></li>
 </ul></div>
 

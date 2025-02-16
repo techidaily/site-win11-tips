@@ -1,7 +1,7 @@
 ---
 title: A Detailed Walkthrough of Using System Restore in Windows OS
-date: 2024-08-16T01:16:56.951Z
-updated: 2024-08-17T01:16:56.951Z
+date: 2025-02-11T20:39:49.478Z
+updated: 2025-02-15T21:30:21.109Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
 
  Windows creates a restore point automatically when you install a new program, driver, or Windows update. You can also create restore points manually before making changes to your system, like modifying the Windows Registry, etc. Here's how to use system restore on Windows to undo recent changes to your system without deleting your personal files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Configure System Protection to Use System Restore
 
  System restore is disabled by default on newer Windows computers. So, you'll need to configure and enable system restore before you can use restore points.
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
  Another important aspect of restore points is storage space allocation. Windows, by default, allocates 20% of storage drive space to save restore points. However, you can increase or decrease the space allocation depending on how many restore points you want to save at a time.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use System Restore on Windows
 
  You can use system restore to undo unwanted changes by reverting your computer to a previous point in time. System restore does not affect your personal files. However, any recently installed program and driver after the restore point was created will be uninstalled.
@@ -42,30 +47,32 @@ To perform a system restore on Windows:
 3. Open the**System Protection** .
 4. Next, click on**System Restore** .  
 ![system restore system protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-restore-system-protection.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Alternatively, press**Win + R** to open Run, type**rstrui.exe** , and click**OK** to open System Restore.
 
 1. Click**Next** .
 2. Now you need to select a restore point to perform a system restore. Depending on how you have configured System Restore, you may see multiple restore points or just one.  
 ![system restore scan for affected programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-restore-scan-for-affected-programs.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. By default, you'll only see the most recent restore points. Click**Show more restore points** to view all the available restore points.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select a restore point and click on**Scan for affected programs** to view the programs and drivers that will be uninstalled and reinstalled if you proceed with the selected restore point. Click**Close** .  
 ![system restore finish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-restore-finish.jpg)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 5. Make sure the correct restore point is selected and click**Next** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. In the confirmation dialog, read the description. Make sure to save any open files and close other open programs.
 7. Click**Finish** to initiate the restore process. Your computer will restart to apply the changes. So, wait for the computer to restart. If the restore is successful, you'll see a success message.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Some Handy Tips for System Restore
 
  If System Restore fails, you can retry with the same or a different restore point. If the issue persists, run it from safe mode and check for [other issues preventing system restore from working on Windows](https://www.makeuseof.com/tag/3-check-system-restore-working/) .
@@ -74,23 +81,17 @@ To perform a system restore on Windows:
 
  Alternatively, you can also manually [delete restore points on Windows](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) to recover some storage space on your computer. If you don't want to create restore points anymore, you can disable system restore in system protection settings. However, doing so will also wipe out all of your existing restore points.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Use Restore Points to Undo Critical System Changes on Windows
 
  System restore is an excellent Windows system recovery solution to undo unintended changes caused due to Windows updates, driver or program installation, and user modifications.
 
  After the system restoration is complete, you may find a few partially removed programs with their shortcuts and other files intact. You'll need to remove them from Control Panel or the Settings app to remove them completely.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -99,8 +100,21 @@ To perform a system restore on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio-for-2024/"><u>[New] Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-explore-tiktoks-1-game-bloggers-list-for-2024/"><u>[New] Explore TikTok's #1 Game Bloggers List for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-jollyjingles-top-sites-to-stream-laugh-rich-rhythms/"><u>[New] In 2024, JollyJingles Top Sites to Stream Laugh-Rich Rhythms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-customize-win11-mouse-controls/"><u>A Guide to Customize Win11 Mouse Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-organizing-your-w11-space/"><u>A Step by Step Approach to Organizing Your W11 Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerating-stalled-downloads-with-qbittorrent-fixes/"><u>Accelerating Stalled Downloads with qBittorrent Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-renovated-widget-display-tool-for-windows-11/"><u>Accessing Renovated Widget Display Tool for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-productivity-creating-efficient-troubleshooter-tools-shortcuts/"><u>Boost Productivity: Creating Efficient Troubleshooter Tools Shortcuts</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-f15-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Samsung Galaxy F15 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-x100-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Vivo X100 Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-nubia-red-magic-9-proplus-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Nubia Red Magic 9 Pro+ Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-audio-amplitude-control-in-audacity-for-2024/"><u>Mastering Audio Amplitude Control in Audacity for 2024</u></a></li>
+<li><a href="https://techidaily.com/sign-excel-2019-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign Excel 2019 Online for Free</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-openais-ai-secure-communication/"><u>Unlocking OpenAI's AI Secure Communication</u></a></li>
+</ul></div>
 

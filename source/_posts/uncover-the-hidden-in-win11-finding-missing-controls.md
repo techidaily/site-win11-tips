@@ -1,7 +1,7 @@
 ---
 title: "Uncover the Hidden in Win11: Finding Missing Controls"
-date: 2025-01-27T18:55:16.383Z
-updated: 2025-02-02T20:21:18.024Z
+date: 2025-02-10T22:57:43.750Z
+updated: 2025-02-15T18:17:42.618Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Control Panel Is Likely Going Away
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
  While Microsoft hasn’t said that it plans to do away with the Control Panel app, and plenty of [old apps remain in Windows 11](https://www.makeuseof.com/ancient-windows-features-still-in-windows-11/). Still, the rate at which the company is moving settings says that Microsoft is at least considering it. Of course, this isn’t necessarily a bad thing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft's New Home For Settings
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 ![The Windows 11 Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/the-windows-11-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Eventually, this decision will likely make even more sense. For the moment, however, it can be tough to find the settings you’re looking for, especially if they’re no longer located where they had been for years.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Finding a Setting's New Home
@@ -75,24 +75,19 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-enhancing-video-discoverability-with-effective-titles-and-tags/"><u>[New] 2024 Approved Enhancing Video Discoverability with Effective Titles & Tags</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-in-depth-evaluation-obs-as-an-advanced-recorder/"><u>[New] 2024 Approved In-Depth Evaluation OBS as an Advanced Recorder</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigate-the-social-media-maze-understanding-insights/"><u>[New] 2024 Approved Navigate the Social Media Maze Understanding Insights</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-essential-guide-to-forming-powerful-content-partnerships-on-youtube-for-2024/"><u>[Updated] Essential Guide to Forming Powerful Content Partnerships on YouTube for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-in-making-sense-top-6-persuasive-video-types/"><u>2024 Approved Mastery in Making Sense Top 6 Persuasive Video Types</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-simplified-methods-to-record-gotomeeting-chats/"><u>2024 Approved Simplified Methods to Record GoToMeeting Chats</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-cross-language-communication-with-windows-11-hotkeys/"><u>Accelerate Cross-Language Communication with Windows 11 Hotkeys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-computer-experience-with-these-6-tools/"><u>Accelerate Your Computer Experience with These 6 Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-failed-writable-operation-files-in-windows/"><u>Addressing Failed Writable Operation Files in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-the-failed-connectivity-issue-of-mb-in-windows-11/"><u>Addressing the Failed Connectivity Issue of MB in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-the-purpose-and-use-of-microsofts-phone-link-app/"><u>Deciphering the Purpose and Use of Microsoft's 'Phone Link' App</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-corsair-k70-mouse-up-and-running-with-fresh-driver-downloads/"><u>Get Your Corsair K70 Mouse Up and Running with Fresh Driver Downloads</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-retrieve-accidentally-deleted-notes-from-your-iphone-best-software-solutions/"><u>How to Retrieve Accidentally Deleted Notes From Your iPhone: Best Software Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-more-keyboard-confusion-30-ways-to-fix/"><u>No More Keyboard Confusion: 30 Ways to Fix</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/push-the-boundaries-of-snapchat-choose-from-these-best-edits/"><u>Push the Boundaries of Snapchat Choose From These Best Edits</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-student-essentials-asus-vivobook-s-15-reviewed/"><u>The Ultimate Student Essentials - ASUS Vivobook S 15 Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-vac-denied-access-in-steam-windows/"><u>Troubleshooting VAC Denied Access in Steam Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turn-your-spoken-words-into-written-sense-using-whisper/"><u>Turn Your Spoken Words Into Written Sense Using Whisper</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-guide-to-the-most-innovative-mp3-devices/"><u>ZDNet's Ultimate Guide to the Most Innovative MP3 Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-effortless-video-capturing-on-win11-os/"><u>[New] Effortless Video Capturing on Win11 OS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-image-illumination-mastering-grading-art/"><u>[Updated] 2024 Approved Image Illumination Mastering Grading Art</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-from-novice-to-pro-utilizing-obs-on-android-systems/"><u>2024 Approved From Novice to Pro Utilizing OBS on Android Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/detailed-insights-on-jackery-powerbar-with-internal-ac-port-for-versatile-charging-solutions/"><u>Detailed Insights on Jackery PowerBar with Internal AC Port for Versatile Charging Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-gaming-experience-using-intel-graphics-hub/"><u>Enhance Your Gaming Experience: Using Intel Graphics Hub</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-the-unresponsive-volume-control-in-windows-10/"><u>Guide to Fixing the Unresponsive Volume Control in Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-acquainted-with-the-10-best-sketching-apps-for-chrome-os/"><u>In 2024, Get Acquainted with The 10 Best Sketching Apps for Chrome OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-methods-to-shift-beyond-s-mode-confinement/"><u>Mastering Methods to Shift Beyond S Mode Confinement</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/obs-masterclass-for-beginners-stream-to-youtube-flawlessly/"><u>OBS Masterclass for Beginners Stream to YouTube Flawlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-adobe-auth-issue/"><u>Overcoming Windows Adobe Auth Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-hiding-task-view-in-win-11/"><u>Strategies for Hiding Task View in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workflow-set-microsoft-words-preference-for-text-only-attachment-viewing/"><u>Streamline Your Workflow: Set Microsoft Word's Preference for Text-Only Attachment Viewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-note-visibility-with-tips-for-modern-windows-users/"><u>Streamlining Note Visibility with Tips for Modern Windows Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-choosing-between-ipad-pro-and-microsofts-surface-pro/"><u>The Ultimate Guide to Choosing Between iPad Pro and Microsoft's Surface Pro</u></a></li>
 </ul></div>
 

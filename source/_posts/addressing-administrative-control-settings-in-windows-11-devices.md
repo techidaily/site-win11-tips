@@ -1,7 +1,7 @@
 ---
 title: Addressing Administrative Control Settings in Windows 11 Devices
-date: 2024-08-16T01:18:52.019Z
-updated: 2024-08-17T01:18:52.019Z
+date: 2025-02-11T18:11:45.679Z
+updated: 2025-02-15T20:48:16.919Z
 tags:
   - windows10
   - windows11
@@ -30,18 +30,12 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 
 Let's now see how to fix this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 1\. Restart Your Computer
 
  The first thing to fix the "some settings are managed by your organization" error is to restart your computer. This will resolve any temporary glitches. If you need help, check out [the different ways to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) .
 
  Your computer will then start to reboot and hopefully, your Settings app will now be free from any restrictions.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check for Windows Updates
 
  If restarting your computer doesn't do the trick, make sure you've got the latest Windows updates installed on your computer. Microsoft routinely rolls out updates that could potentially address quite a few problems with its operating system. So, it is advised to search for any pending Windows Updates as another potential solution.
@@ -57,8 +51,9 @@ Let's now see how to fix this problem.
  Once done, restart your computer to apply the changes. If it hasn't gone away yet, try getting rid of any other recent applications.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Change Diagnostic Data Settings
 
  Microsoft checks the data on your device to improve Windows and keep it up to date. If certain settings related to Diagnostics & Feedback are disabled, it could lead to this particular error getting thrown.
@@ -70,6 +65,10 @@ Let's now see how to fix this problem.
 3. On the right side of the page, scroll down to**Windows permissions** and click on**Diagnostics & feedback** .  
 ![Send optional diagnostic data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/send-optional-diagnostic-data.jpg)
 4. If the "Send optional diagnostic data" switch is off, make sure you toggle it to**On** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you complete the above steps, close the Settings window and restart your system. See if that resolves the problem.
 
@@ -87,10 +86,12 @@ Once you can open the Group Policy Editor, follow the below steps:
 Computer Configuration > Administrative Templates > Windows Components > Data Collection and Preview Builds
 4. Now move to the right pane, right-click on**Allow Diagnostic Data** , and select**Edit** from the context menu.  
 ![Allow Diagnostic Data Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-diagnostic-data-using-group-policy.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  If your system runs Windows 10 or an earlier version, you will see**Allow Telemetry** instead of**Allow Diagnostic Data** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. On the next pop-up page, check the**Enabled** radio button.  
 ![Enabled Allow Diagnostic Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enabled-allow-diagnostic-data.jpg)
 6. Under the**Options** section, click the drop-down menu and select**Send optionally diagnostics data** .
@@ -99,8 +100,9 @@ Computer Configuration > Administrative Templates > Windows Components > Data Co
  After you have followed all these steps, restart your computer and check if it solves the problem. If not, continue to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Tweak the Registry Editor
 
  This method is a bit more advanced and should be done with extra caution. One wrong move and you may end up damaging your system. This is why you should [back up your Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
@@ -111,10 +113,12 @@ Computer Configuration > Administrative Templates > Windows Components > Data Co
 HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 4. Now go to the right side pane and look for the**Wuserver** key.  
 ![Edit Registry Editor to fix the error message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-registry-editor-to-fix-the-error-message.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Then right-click on it and choose**Delete** from the context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. If a pop-up menu appears on the screen, click**Yes** to confirm.
 
  Once you have made these changes, close the Registry editor window and restart your computer. Next time you start your PC, the error message will be gone.
@@ -123,14 +127,11 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 
  When updating Windows or changing certain settings, you may encounter an error message that says "Some settings are managed by your organization". If so, this guide will help you fix the error and get back in control of your system settings.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,8 +140,19 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/approved-scouring-youtubes-notable-responses/"><u>2024 Approved Scouring YouTube's Notable Responses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-guide-to-unlocking-windows-11s-credential-vault/"><u>A Comprehensive Guide to Unlocking Windows 11’S Credential Vault</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activate-data-safety-with-controlled-folder-access-feature/"><u>Activate Data Safety with Controlled Folder Access Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-academic-achievement-winning-study-methods-on-a-windows-pc/"><u>Boost Academic Achievement: Winning Study Methods on a Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-windows-11-desktop-appeal-live-and-animated-backgrounds/"><u>Boost Your Windows 11 Desktop Appeal: Live and Animated Backgrounds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-adjust-user-preferences-and-avoid-driver-failed-notifications/"><u>How to Correctly Adjust User Preferences and Avoid 'Driver Failed' Notifications</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-6-platforms-for-video-localization/"><u>In 2024, Premier 6 Platforms for Video Localization</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-art-of-concurrent-photoplusvideo-on-iphone/"><u>In 2024, The Art of Concurrent Photo+Video on iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719255310971-jump-over-compatibility-obstacles-with-these-simple-fixes/"><u>Jump Over Compatibility Obstacles with These Simple Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/microsoft-teams-not-working-know-the-difference-between-service-outages-and-personal-issues/"><u>Microsoft Teams Not Working? Know the Difference Between Service Outages and Personal Issues</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unleash-your-creativity-gopro-video-editing-on-mac-made-easy/"><u>Updated Unleash Your Creativity GoPro Video Editing on Mac Made Easy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/"><u>Visual Harmony IOS & macOS Photoviewer Blend</u></a></li>
+</ul></div>
 

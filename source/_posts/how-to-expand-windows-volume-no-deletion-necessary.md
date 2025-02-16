@@ -1,7 +1,7 @@
 ---
 title: How to Expand Windows Volume, No Deletion Necessary
-date: 2025-01-31T18:38:47.822Z
-updated: 2025-02-02T22:52:28.645Z
+date: 2025-02-14T20:33:00.070Z
+updated: 2025-02-16T01:49:25.275Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Is the Extend Volume Option Grayed Out?
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
  However, if your partition uses a supported file system, let's discuss how you can bring back the option to extend volumes on Windows without erasing your data.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Shrink a Volume to Create Unallocated Space
 
  If you don't have unallocated space on any of your drives to extend a volume, you can simply shrink one of the existing volumes to create it. This can also help if the unallocated space on one drive is not large enough for volume extension since it will shrink the other volumes to create more unallocated space.
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 ![Opening the Computer Management Tool using the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Computer-Management-Tool-using-the-Run-command-dialog-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the **Storage** section of the left panel, select **Disk Management**.
@@ -68,15 +64,15 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
 ![selecting the option to shrink a volume in Disk Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/selecting-the-option-to-shrink-volume-in-disk-management-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Enter the amount of space you want to shrink (keeping in mind that you cannot exceed the amount that is available to shrink) and then click on **Shrink**.
 
 ![the dialog box to shrink a volume on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/dialog-box-shrink-volume-on-windows.jpg)
 
  It will take a few seconds to shrink the volume, but when it's done, you should have some unallocated space. Now, check to see if the option is available when you right-click the volume you want to extend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Delete the Recovery Partition
 
@@ -116,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
  Once the command completes running, the Recovery partition will be gone and there should be some unallocated space you can use to extend the volume.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Use Third-Party Software to Extend the Drive
 
  You can use other tools besides Disk Management to shrink and delete volumes on Windows. To use one of these third-party disk management programs, start by downloading [IM-Magic Partition Resizer Free](https://www.resize-c.com/), extract the ZIP file in the download location, and install it.
@@ -131,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
  It should take a few seconds to resize the volume, and when it finishes, you should be able to see some unallocated space, allowing you to extend the volume you want to in the first place.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Regain Your Ability to Extend Volumes on Windows
@@ -150,18 +150,17 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-understanding-the-impact-of-youtubes-creative-commons-on-videos/"><u>[Updated] Understanding the Impact of YouTube's Creative Commons on Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-missing-history-on-windows-runs/"><u>Addressing Missing History on Windows Runs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cure-for-non-booting-windows-hiberflattening/"><u>Cure for Non-Booting Windows HiberFlattening</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/effortless-volume-taming-gradual-dimming-in-digital-realm-for-2024/"><u>Effortless Volume Taming Gradual Dimming in Digital Realm for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-look-at-apple-vision-pro-pricing-breakdown-key-features-and-expert-reviews-your-ultimate-reference-gadgetguru/"><u>Inside Look at Apple Vision Pro: Pricing Breakdown, Key Features & Expert Reviews – Your Ultimate Reference | GadgetGuru</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mobile-workstation-enhancement-gmktec-xpanel-se-pocket-sized-display-unveiled-a-travelers-companion-for-seamless-productivity-tech-insights-by-zdnet/"><u>Mobile Workstation Enhancement: GMKtec XPanel SE Pocket-Sized Display Unveiled - A Traveler’s Companion for Seamless Productivity | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-non-active-vss-service-states/"><u>Restoring Non-Active VSS Service States</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-keep-lol-playtime-uninterrupted-in-windows/"><u>Strategies to Keep LoL Playtime Uninterrupted in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactical-tutorials-for-new-folder-navigation-in-win11/"><u>Tactical Tutorials for New Folder Navigation in Win11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-selection-7-premier-platforms-for-watching-trailers-online/"><u>Ultimate Selection: 7 Premier Platforms for Watching Trailers Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncharted-errors-the-8-most-crucial-mistakes-for-new-windows-11-users/"><u>Uncharted Errors: The 8 Most Crucial Mistakes for New Windows 11 Users</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-itel-p40plus-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Itel P40+ Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-ultimate-camera-duel-sj6-against-xiaomis-yi-visionary-for-2024/"><u>[New] The Ultimate Camera Duel SJ6 Against Xiaomi's Yi Visionary for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unfollow-patterns-on-instagram-explored/"><u>[New] Unfollow Patterns on Instagram Explored</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-your-essential-list-of-free-high-quality-online-meeting-software/"><u>[Updated] Your Essential List of Free, High-Quality Online Meeting Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-delving-details-how-to-hide-windows-11-admin-login-qanda/"><u>Disabling Delving Details: How to Hide Windows 11 Admin Login Q&A</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-track-integration-of-bing-chat-in-win-11-search-field/"><u>Fast-Track Integration of Bing Chat in Win 11 Search Field</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-performances-in-figure-skate-22/"><u>In 2024, Pinnacle Performances in Figure Skate '22</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-16-upgrades-with-advanced-visual-recognition-features-akin-to-google-lens-as-revealed-by-apple/"><u>IPhone 16 Upgrades with Advanced Visual Recognition Features Akin to Google Lens, as Revealed by Apple</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/obs-for-a-clearer-better-live-stream-to-youtube-for-2024/"><u>OBS for a Clearer, Better Live Stream to YouTube for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-system-settings-errors-in-win11/"><u>Resolving System Settings Errors in Win11</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/step-by-step-instructions-for-driver-refreshes-by-yl-software-on-video-cards/"><u>Step-by-Step Instructions for Driver Refreshes by YL Software on Video Cards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-downloads-problems-in-win11-pc-environments-2/"><u>Taming Downloads Problems in Win11 PC Environments (2)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-guide-using-windows-7-key-for-windows-11-activation/"><u>Transition Guide: Using Windows 7 Key for Windows 11 Activation</u></a></li>
 </ul></div>
 

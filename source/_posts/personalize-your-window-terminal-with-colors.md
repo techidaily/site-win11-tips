@@ -1,7 +1,7 @@
 ---
 title: Personalize Your Window Terminal with Colors
-date: 2025-01-31T00:24:24.228Z
-updated: 2025-02-03T00:52:06.556Z
+date: 2025-02-08T22:46:54.312Z
+updated: 2025-02-15T23:01:10.610Z
 tags:
   - windows10
   - windows11
@@ -41,19 +41,11 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 6. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value in the text box below. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the color completely.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![the color editor for a color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-edit-scheme-color.jpg)
 7. When you’re done, click**Save** in the bottom right corner to save your changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Do I Create a Color Scheme in Windows Terminal?
 
@@ -66,11 +58,15 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 ![a custom color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/custom-10-color-scheme-windows-terminal.jpg)
 5. Click on the**Rename** button next to the**dropdown** , give the custom scheme a name, and then click the**blue checkmark** to save it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![a custom color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/custom-10-color-scheme-windows-terminal.jpg)
 6. Change the colors in the**Terminal colors** and**System colors** sections to something you like by clicking on them to bring up the editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the colors completely.
@@ -86,15 +82,19 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 ![the profiles section of windows terminal settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/profiles-section-windows-terminal.jpg)
 4. In the**Additional settings** section at the bottom of the right panel, click**Appearance** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![the additional settings of a profile in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-additional-settings.jpg)
 5. In the**Text** section, click on the**dropdown** next to**Color scheme** and select the edited or custom color scheme that you want to apply.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![changing the color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/change-color-scheme-windows-terminal.jpg)
 6. When you’re done, click**Save** in the bottom right corner to save your changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Customizing Color Schemes in Windows Terminal Is Easy
 
@@ -115,19 +115,24 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-virtual-assisted-therapy-innovations-for-2024/"><u>[New] Virtual Assisted Therapy Innovations for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-essential-guide-understanding-digital-narrative-creation/"><u>[Updated] In 2024, Essential Guide Understanding Digital Narrative Creation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-pioneering-popularity-with-powerful-instagram-videos/"><u>[Updated] In 2024, Pioneering Popularity with Powerful Instagram Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ultimate-compilation-exceptional-8k-cameras-ranked/"><u>[Updated] In 2024, Ultimate Compilation Exceptional 8K Cameras Ranked</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-wirecast-strategies-for-successful-social-media-livestreams/"><u>[Updated] Wirecast Strategies for Successful Social Media Livestreams</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-microsoft-store-fault-code-0x80072efd/"><u>Eradicating Microsoft Store Fault Code 0X80072EFD</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-guide-resolving-launch-issues-with-mass-effect-legendary-edition/"><u>Fix Guide: Resolving Launch Issues with Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-time-display-on-windows-11-taskbar/"><u>Mastering Time Display on Windows 11 Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-windows-operating-environment-for-device-interfaces/"><u>Optimizing Windows Operating Environment for Device Interfaces</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-epic-game-launcher-failures-on-windows-os/"><u>Preventing Epic Game Launcher Failures on Windows OS</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/utionize-your-videos-here-are-the-top-8-free-cutting-suites-for-2024/"><u>Revolutionize Your Videos - Here Are the Top 8 Free Cutting Suites for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/screen-saving-solutions-a-critical-look-at-capturers/"><u>Screen Saving Solutions A Critical Look at Capturers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-guide-to-popular-networking-sites-fb-tw-ig-yt/"><u>The Quintessential Guide to Popular Networking Sites: FB, TW, IG, YT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/velocity-validation-precise-windows-steps-to-assess-internet-router-performance/"><u>Velocity Validation: Precise Windows Steps to Assess Internet Router Performance</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-foremost-frame-openers-identifying-the-most-effective-16-youtube-intros/"><u>[Updated] Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-creative-conceptions-selecting-the-finest-10-free-macdrawers/"><u>2024 Approved Creative Conceptions Selecting the Finest 10 FREE MacDrawers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/above-and-beyond-selecting-premium-software-for-drone-filmmaking/"><u>Above & Beyond Selecting Premium Software for Drone Filmmaking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-frontiers-the-new-era-of-chatbots-and-ai/"><u>Future Frontiers: The New Era of Chatbots & AI</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-setting-up-the-legacy-slamius-wizard-on-kodi-19-and-18-lasting-solutions/"><u>Guide: Setting up the Legacy Slamius Wizard on Kodi 19 & 18 – Lasting Solutions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/innovating-sound-design-the-impact-and-prowess-of-magix-samplitude-for-2024/"><u>Innovating Sound Design The Impact and Prowess of MAGIX Samplitude for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-your-pc-ms-stores-premier-choices/"><u>Jumpstart Your PC: MS Store's Premier Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-map-integration-your-guide-for-windows-users/"><u>Mastering Map Integration: Your Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-windows-11-policy-editor-efficiently/"><u>Navigate Windows 11 Policy Editor Efficiently</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pioneer-the-future-of-youtube-content-with-tubebuddy-for-2024/"><u>Pioneer the Future of YouTube Content with TubeBuddy for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/prime-20-anime-openers-soundscape/"><u>Prime 20 Anime Openers' Soundscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-brightness-on-windows-volume-controls/"><u>Restore Brightness on Windows' Volume Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-experience-file-explorer-troubleshooting/"><u>Revitalize Your Experience: File Explorer Troubleshooting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-reawakening-guide-navigating-through-windows-8-revival-techniques/"><u>System Reawakening Guide: Navigating Through Windows' 8 Revival Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactical-approaches-to-overcoming-disabled-errors-in-ps-execution/"><u>Tactical Approaches to Overcoming 'Disabled' Errors in PS Execution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-rectify-non-specified-values-on-windows-pcs/"><u>Techniques to Rectify Non-Specified Values on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uniting-android-and-pc-simple-synchronization-techniques/"><u>Uniting Android & PC: Simple Synchronization Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-enhanced-audio-visual-sync-subtitle-addition-to-wmp-for-2024/"><u>Unlock Enhanced Audio-Visual Sync Subtitle Addition to WMP for 2024</u></a></li>
 </ul></div>
 

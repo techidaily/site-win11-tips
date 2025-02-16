@@ -1,7 +1,7 @@
 ---
 title: Integrating Numeric Keys Status Into Win11's SysTray
-date: 2025-02-01T17:01:56.852Z
-updated: 2025-02-02T19:36:11.501Z
+date: 2025-02-10T23:53:07.158Z
+updated: 2025-02-16T03:29:01.492Z
 tags:
   - windows10
   - windows11
@@ -40,12 +40,12 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 5. ![The Use Trial Version radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-use-trial-version-radio-button.jpg)
 6. Click **Install** in the next window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Install option for TrayStatus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-install-option.jpg)
 7. Press **Finish** with the **Launch Now** checkbox selected to run SystemTray.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you should see Caps and Num Lock key indicators in the Windows system tray area, which are enabled within the software’s settings by default after installation. The **1** icon is the Num Lock indicator, and the **a** status indicator is for Caps Lock. The **a** indicator becomes a capital **A** when Caps Lock is on. The **1** indicator has a white or black background when Num Lock is on.
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  Click on the drop-down menu to select **Light Icons** or **Dark Icons** options. Light is better for dark Windows themes. However, dark indicators will likely be more visible on a light Windows taskbar. Select **Apply** to set your new settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Num, Caps, and Scroll Lock Indicators With AddLEDs
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![AddLEDs' system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/addled-indicators.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you prefer to remove a few indicators, right-click one of the AddLEDs icons in the system tray. Then move the mouse cursor over **Show** to deselect the selected indicator options there.
 
  AddLEDs has a few settings with which you can change the color scheme of its system tray indicators. Right-click one of the indicators and move the cursor over Icon Indicators to view those options. Then you can select color scheme options like **Transparent**, **Black/White**, **Blue/Red/Green**, **Green/Red**, and **Red/Blue**.
@@ -83,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 ![Icon Profile settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/icon-profile-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To set a beep sound for your lock keys, select the **Others** submenu on AddLEDs' context menu. Click **Sound** to enable that option. Then you’ll hear a beep whenever you press the lock keys.
@@ -106,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 ![Keyboard LEDs' system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-indicator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To configure the indicators, right-click the Keyboard LEDs icon to select **Settings**. You can choose different colors for each indicator box by clicking the color drop-down menus for the **Led 1**, **2**, and **3** drop-down menus. Click the button drop-down menus to change the lock key indicator for each box.
@@ -116,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  Select the **On Screen Display** checkbox and its **Caps**, **Scroll**, and **Num Lock** settings to see the alternative lock key indicators. Enabling that setting adds text-based indicators just above the system tray area, as in the snapshot below. Those indicators tell you if their lock keys are turned on or off.
 
 ![The on-screen lock key indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/on-screen-lock-key-indicators.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Add Handy Lock Key Indicators to Windows 11’s System Tray
 
@@ -139,18 +139,22 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-decoding-and-manipulating-gender-presentation-online-a-step-by-step-approach/"><u>[Updated] 2024 Approved Decoding and Manipulating Gender Presentation Online A Step-by-Step Approach</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-ravenhill-resonance-essential-websites-to-download-hearing-heroes-tones/"><u>[Updated] Ravenhill Resonance Essential Websites to Download Hearing Heroes' Tones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-easycap-drivers-now-for-optimal-performance-and-support/"><u>Download the Latest EasyCAP Drivers Now for Optimal Performance & Support</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/empower-control-over-windows-with-alomware-tools/"><u>Empower Control Over Windows With AlomWare Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-strategies-for-disconnected-steam-content-servers-on-pc/"><u>Fix Strategies for Disconnected Steam Content Servers on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-solving-winservicesexe-issues/"><u>Guide to Solving Winservices.exe Issues</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-15-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone 15</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 13 mini</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-challenges-with-your-iphone-remote-app-a-comprehvew/"><u>Overcoming Challenges with Your iPhone Remote App – A Comprehvew</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-video-editing-apps-for-the-gopro-community/"><u>Premier Video Editing Apps for the GoPro Community</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-establish-your-windows-hello-fix-unresponsive-fingerprints/"><u>Re-Establish Your Windows Hello: Fix Unresponsive Fingerprints</u></a></li>
-<li><a href="https://win11.techidaily.com/the-guide-to-submenu-insertion-in-windows-11/"><u>The Guide to Submenu Insertion in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-troubleshooting-and-reviving-dysfunctional-windows-downloads/"><u>Tips for Troubleshooting and Reviving Dysfunctional Windows Downloads</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-practical-methods-for-instagram-story-capture/"><u>[New] In 2024, Practical Methods for Instagram Story Capture</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-10-globally-acclaimed-video-sensations-on-youtube/"><u>[New] Top 10 Globally Acclaimed Video Sensations on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725289670936-vobmp4/"><u>優化版VOB轉為高品質MP4：最佳影片編解碼器選擇指南</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/beyond-the-screen-shaping-perceptions-on-instagram-through-captions/"><u>Beyond the Screen - Shaping Perceptions on Instagram Through Captions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/could-chatgpt-signal-the-end-of-traditional-search-engines/"><u>Could ChatGPT Signal the End of Traditional Search Engines?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-c65-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-rectify-error-0x887a0006-on-graphics-issues/"><u>Guide to Rectify Error 0X887A0006 on Graphics Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-strategies-for-tackling-directdraw-glitches-on-windows-1011/"><u>Key Strategies for Tackling DirectDraw Glitches on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-cures-9-ways-to-stop-windows-setup-from-hanging-at-verify/"><u>Quick Cures: 9 Ways To Stop Windows Setup From Hanging at Verify</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-cortana-experience-with-data-export/"><u>Reclaim Your Cortana Experience with Data Export</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-and-modernizing-clipboard-memory-usage-in-windows-11/"><u>Streamlining and Modernizing Clipboard Memory Usage in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-data-exchange-between-dual-windows-using-aoemi/"><u>Streamlining Data Exchange Between Dual Windows Using AOEMi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-strategies-when-windows-firewall-holds-steady/"><u>Top Strategies When Windows Firewall Holds Steady</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-photography-the-remarkable-advancements-in-smartphone-camera-technology-powered-by-artificial-intelligence-for-an-impressive-tomorrow/"><u>Transforming Photography: The Remarkable Advancements in Smartphone Camera Technology Powered by Artificial Intelligence for an Impressive Tomorrow</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-8-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trustworthiness-of-gpt-in-health-advice-delivery/"><u>Trustworthiness of GPT in Health Advice Delivery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-fortification-7-measures-against-illicit-entry/"><u>Windows Fortification: 7 Measures Against Illicit Entry</u></a></li>
 </ul></div>
 

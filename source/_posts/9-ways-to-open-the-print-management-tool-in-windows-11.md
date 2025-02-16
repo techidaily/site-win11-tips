@@ -1,7 +1,7 @@
 ---
 title: 9 Ways to Open the Print Management Tool in Windows 11
-date: 2024-08-16T01:18:30.293Z
-updated: 2024-08-17T01:18:30.293Z
+date: 2025-02-10T17:45:26.331Z
+updated: 2025-02-15T23:16:50.506Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 
  If you want to use this tool, you first need access to it. Here are some quick ways to open the Print Management tool in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Open Print Management via the Windows Search Bar
 
  Windows' search bar makes it easy to find almost anything on your device. Follow these steps to access Print Management:
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 1. Open the Start Menu and type**"print management"** into the search bar.  
 ![Open Print Management Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Management-Using-Windows-Search.jpg)
 2. Select the result from the list at the top. This will open Print Management.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Print Management window will display a list of your printers and queues. You can view the properties of a specific printer by double-clicking on it. As such, it is very easy to handle your print jobs on your Windows PC from this screen.
 
@@ -41,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
  When you open Print Management, you will be able to view all the printers you have installed. This page lets you add or remove printers, as well as manage printer drivers and preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Open Print Management Using the File Explorer
 
  In File Explorer, there is an address bar that you can use to launch Windows tools. Follow these steps to open Print Management:
@@ -56,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 
 This will open the Print Management application.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. How to Open Print Management via the Control Panel
 
  The Control Panel is a location on Windows where you can change settings for your computer. Now that the control panel has been updated and improved, you can access the Print Management tool right here.
@@ -74,6 +80,10 @@ This will open the Print Management application.
 
 This will now open Print Management on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. How to Open Print Management Using the Command Prompt
 
  You can also open Print Management using the Command Prompt. To do this, follow the below steps:
@@ -85,9 +95,6 @@ This will now open Print Management on your computer.
 
 This will open the Print Management window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. How to Open Print Management Using Start Menu
 
  It is also possible to access Print Management from the Start Menu. Follow these steps:
@@ -95,13 +102,11 @@ This will open the Print Management window.
 1. Open the Start Menu and click**All apps** .
 2. Scroll to the bottom and select “**Windows Tools** ” from the menu list.  
 ![Open Local Security Policy Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Open-Local-Security-Policy-Using-Start-Menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Double-click on “**Print Management** ” to open the tool.  
 ![Open Print Management Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Management-Using-Start-Menu.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. How to Open Print Management With Task Manager
@@ -114,8 +119,9 @@ Here's how.
 2. Next, click the "**Run new task** " option at the top of Task Manager.
 3. In the Create new task window, type "printmanagement.msc" and press the**Enter** key.  
 ![Open Print Management Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Management-Using-Task-Manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This will open the Print Management window for you.
@@ -129,9 +135,6 @@ This will open the Print Management window for you.
 3. Next, type "printmanagement.msc" in the search bar and hit Enter.
 4. Now right-click the search result, and navigate to**Show more options > Create shortcut** .  
 ![Create Shortcut to open Print Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Shortcut-to-open-Print-Management-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Yes** when Windows ask for your confirmation before creating the shortcut.
 6. On your computer's desktop you will find a shortcut; double-click it to open Print Management.
 
@@ -146,28 +149,23 @@ This will open the Print Management window for you.
 1. Click on Start and type "Print Management."
 2. On the right side, click**Pin to taskbar** under the Printer Management app.  
 ![Pin Print Management to taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Print-Management-to-taskbar.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Now go to the taskbar, and click the Print Management icon.
 
  In this way, you can easily launch the Print Management application on Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## All the Easy Ways to Open Print Management
 
  It is quite easy to access the Windows Print Management tool. However, if you want to use it like an advanced user, you can check out the methods we have discussed in this article.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,8 +174,21 @@ This will open the Print Management window for you.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-create-and-share-the-funniest-memes/"><u>[New] In 2024, Create and Share the Funniest Memes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-instructions-for-incorporating-custom-gifs-and-icons-into-your-story-posts-on-instagram-for-2024/"><u>[New] Step-by-Step Instructions for Incorporating Custom GIFS & Icons Into Your Story Posts on Instagram for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-comprehensive-guide-to-free-xbox-screen-recorder-use/"><u>[Updated] In 2024, Comprehensive Guide to Free Xbox Screen Recorder Use</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-free-video-meeting-checklist-with-desktop-views-for-2024/"><u>[Updated] Ultimate Free Video Meeting Checklist - With Desktop Views for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-meizu-21-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Meizu 21 PC | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-sevenfold-approach-to-fix-sync-errors-with-google-drive/"><u>A Sevenfold Approach to Fix Sync Errors with Google Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-power-management-hiding-dim-display/"><u>Accessing Power Management: Hiding 'Dim Display'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-absence-of-razers-in-the-synapse-interface-of-win-11/"><u>Addressing Absence of Razers in the Synapse Interface of Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-windows-11s-temptations-top-8-cautions/"><u>Avoiding Windows 11'S Temptations: Top 8 Cautions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/back-to-basics-quick-fixes-in-13-essential-steps-for-systems/"><u>Back-to-Basics: Quick Fixes in 13 Essential Steps for Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-windows-11-protection-with-new-firewall-add-ons-in-the-context-menu/"><u>Boost Windows 11 Protection with New Firewall Add-Ons in the Context Menu</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-steps-in-optimizing-your-smartphone-photography-with-a-selfie-ring-light/"><u>Essential Steps in Optimizing Your Smartphone Photography with a Selfie Ring Light</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-6-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 6</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo K11x | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Windows 11: Restarting Catroot & Distro Files"
-date: 2025-02-02T01:15:09.682Z
-updated: 2025-02-02T16:37:53.550Z
+date: 2025-02-12T22:12:10.078Z
+updated: 2025-02-15T16:34:59.480Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are the SoftwareDistribution and Catroot2 Folders?
 
  The SoftwareDistribution folder is a directory that stores files required for installing Windows updates on PCs. It is a temporary repository of the update files. Thus, the SoftwareDistribution folder is an important component for updating Windows.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
  Both folders contain files needed for the installation of Windows updates. Windows update installation issues can occur because of corrupted data in those folders. Those errors typically appear in Settings with variable codes like 0x800f0922 when users manually select to check for and install updates.
 
  Therefore, resetting those folders is a troubleshooting method for fixing Windows 11 update installation issues. Resetting the SoftwareDistribution and Catroot2 folders removes corrupted data they might contain, which rebuilds them. You can reset those folders by deleting their contents or renaming them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Erasing Their Contents
 
@@ -74,10 +74,6 @@ net start cryptSvc
 net start msiserver`
 12. Restart the PC and check for updates after clearing those folders.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Renaming Them
 
  Renaming the SoftwareDistribution and Catroot2 directories is an alternative method for resetting those folders. Windows will recreate those folders after you’ve renamed them. You can rename the SoftwareDistribution and catroot2 folders with the Command Prompt like this:
@@ -86,6 +82,10 @@ net start msiserver`
 2. Repeat step four of the preceding method to execute the commands for disabling services.  
 ![The net stop commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-stop-commands.jpg)
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
@@ -99,11 +99,7 @@ net start msiserver`
 6. Exit Command Prompt and select to restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders With FixWin 11
@@ -124,10 +120,14 @@ net start msiserver`
 ![The Quick Fixes tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/quick-fixes-tab.jpg)
 10. Click the **Reset catroo2 Folder** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Exit FixWin and reboot your PC after selecting those options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix Windows Update Issues by Resetting the SoftwareDistribution and Catroot2 Folders
@@ -146,22 +146,22 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-ultimate-guide-to-crafting-exquisite-hdr-portraits/"><u>[New] 2024 Approved The Ultimate Guide to Crafting Exquisite HDR Portraits</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-guide-converting-youtube-videos-to-mpegmp4/"><u>[New] In 2024, Essential Guide Converting YouTube Videos to MPEG/MP4</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-novel-approach-to-delivery-reinvented-box-revelations/"><u>[Updated] A Novel Approach to Delivery Reinvented Box Revelations</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-creating-engaging-youtube-content-a-step-by-step-approach-for-2024/"><u>[Updated] Creating Engaging YouTube Content A Step-by-Step Approach for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/advanced-connections-the-premier-selection-of-cablewireless-routers-for-2amoons/"><u>Advanced Connections: The Premier Selection of Cable/Wireless Routers for 2Amoons</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-crashing-file-explorer-on-windows-11-now/"><u>Fix Crashing File Explorer on Windows 11 Now</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-quick-clip-art-creator-seamless-image-to-cartoon-conversion/"><u>In 2024, Quick Clip-Art Creator Seamless Image-to-Cartoon Conversion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-over-removing-window-search-artifacts/"><u>Mastery Over Removing Window Search Artifacts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-error-code-30015-26-in-m365-for-windows-computers/"><u>Resolving Error Code 30015-26 in M365 for Windows Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stay-connected-tips-for-disabling-usb-power-save-mode/"><u>Stay Connected - Tips for Disabling USB Power Save Mode</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-power-state-errors-linked-to-drivers-on-windows-system/"><u>Step-by-Step Solution for Power State Errors Linked to Drivers on Windows System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-browsing-efficiency-on-windows/"><u>Streamlining Browsing Efficiency on Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-path-to-reinstating-default-windows-backups/"><u>The Path to Reinstating Default Windows Backups</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trouble-locating-astra-pilot-help-for-windows-11-pcs/"><u>Trouble Locating Astra Pilot? Help For Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-missing-5ghz-network-on-windows-11-top-7-solutions/"><u>Troubleshoot Missing 5GHz Network on Windows 11: Top 7 Solutions</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/understanding-boot-time-error-messages-on-your-pc-insights-from-yl-computing/"><u>Understanding Boot Time Error Messages on Your PC: Insights From YL Computing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-strategizing-stream-success-maximize-revenue-on-dm-and-yo/"><u>[New] 2024 Approved Strategizing Stream Success Maximize Revenue on Dm and Yo</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-gamers-quest-1000plus-game-adventures-unfolded/"><u>[New] Gamer's Quest 1,000+ Game Adventures Unfolded</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unleash-retro-game-delights-with-the-leading-android-tools-for-ps2-titles/"><u>[New] Unleash Retro Game Delights with the Leading Android Tools for PS2 Titles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-marketing-mastery-for-affiliate-success/"><u>[New] Video Marketing Mastery for Affiliate Success</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-perfectly-crafted-online-meeting-backdrops/"><u>[Updated] Perfectly Crafted Online Meeting Backdrops</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unlocking-smooth-playback-overcoming-booty-freezes/"><u>[Updated] Unlocking Smooth Playback Overcoming Booty Freezes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/commercial-clutter-cleared-windows-start-edition/"><u>Commercial Clutter Cleared: Windows Start Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defeating-windows-11-administrative-barriers/"><u>Defeating Windows 11 Administrative Barriers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-guide-to-get-the-most-recent-ch340g-usb-chip-driver-version-on-your-windows-10-computer/"><u>Easy Installation Guide to Get the Most Recent CH340G USB Chip Driver Version on Your Windows 10 Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-system-performance-new-approach-to-icon-cache/"><u>Enhancing System Performance: New Approach to Icon Cache</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-cloud-errors-in-windows/"><u>Fixing Steam Cloud Errors in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-preventing-default-saving-issues-in-win/"><u>Guide to Preventing Default Saving Issues in Win</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/25485572-in-2024-quick-and-easy-channels-personalize-your-youtube-url-now/"><u>In 2024, Quick and Easy Channels Personalize Your YouTube URL Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-dll-not-found-problem-with-steamui/"><u>Overcoming DLL Not Found Problem with SteamUI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-printer-connectivity-failures-in-windows-11/"><u>Solutions for Printer Connectivity Failures in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-13-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi 13 Ultra Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-6-changes-in-windows-ui-and-layout/"><u>Top 6 Changes in Windows UI and Layout</u></a></li>
 </ul></div>
 

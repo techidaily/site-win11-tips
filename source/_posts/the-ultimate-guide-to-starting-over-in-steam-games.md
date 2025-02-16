@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Starting Over in Steam Games
-date: 2025-01-30T16:53:20.200Z
-updated: 2025-02-02T22:57:39.477Z
+date: 2025-02-12T17:12:43.989Z
+updated: 2025-02-16T01:41:46.294Z
 tags:
   - windows10
   - windows11
@@ -29,19 +29,11 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 ![screenshot of a steam achievement list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_steam_achievements_list.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There's no simple switch for resetting Steam achievements. Some games offer the option to reset player progress, and this may include Steam achievements as well.
 
  You'll want to make sure this simpler, in-game method isn't available first.
 
  To reset your progress for Steam achievements, we'll need to use something called the Steam Client Console.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enable Steam Client Console
 
@@ -57,18 +49,18 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 ![screenshot of the steam client console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_steam_client_console_overview-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is where we'll input our commands to reset achievements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Achievements and Stat Commands
 
 ![screenshot of achievement clear in steam client console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_achievement_clear_in_steam_client_console.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The command we'll need to use is **achievement\_clear**. On its own, it doesn't do anything. We need a couple of things first.
@@ -81,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 ![screenshot of half life 2 achievements in steam database](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_hl2_achievements_in_steam_db.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will list all the achievements and their **API Names**. Pick out the achievement you want to reset and note that name.
 
  Now you have your command. Input the information you've gathered like so.
@@ -91,12 +87,16 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 ![screenshot of the steam client console with an input command filled out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_resetting_achievement_steam_client_console_filled_out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll know it worked if you see the message **achievement\_clear success**.
 
  There is a second command that accompanies the above. Inputting **reset\_all\_stats** followed by an AppID will reset any stats Steam tracks for that game. For example, kills or time played. Be careful with this command, as it can behave differently depending on how any given game tracks those stats. For example, it might not function at all, or it may mess up crucial game statistics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Reset Steam Achievements With Steam Achievement Manager
@@ -125,21 +125,15 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-superior-supplements-to-enhance-gopro/"><u>[New] In 2024, Superior Supplements to Enhance GoPro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-sacred-melodies-a-christian-ringtones-compendium/"><u>2024 Approved Selecting Sacred Melodies A Christian Ringtones Compendium</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/aacsbdpluscinavia/"><u>最新テクノロジーで無料・有料ブルーレイコピーガード解除ソフトを見つける! 安全かつ確実なAACS、BD+、Cinaviaの耐久性解析方法！</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-tecno-spark-10-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Tecno Spark 10 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-immersive-virtue-verse-selection-for-ar-vr-worlds/"><u>In 2024, Immersive Virtue Verse Selection for AR-VR Worlds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-your-computers-ip-and-mac-with-powershell/"><u>Navigate Your Computer's IP and MAC with Powershell</u></a></li>
-<li><a href="https://extra-information.techidaily.com/photographic-perfection-in-the-palm-of-your-hands-online/"><u>Photographic Perfection in the Palm of Your Hands Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/previewing-windows-wonders-with-vivetool-capabilities/"><u>Previewing Windows Wonders with ViVeTool Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-copilot-from-your-windows-environment/"><u>Removing Copilot From Your Windows Environment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solving-realtek-hd-graphics-card-drivers-a-complete-guide/"><u>Solving Realtek HD Graphics Card Drivers: A Complete Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/start-up-sync-automatic-windows-entry-with-sticky-notes/"><u>Start-Up Sync: Automatic Windows Entry with Sticky Notes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-repairing-white-screen-on-store/"><u>Tips and Tricks for Repairing White Screen on Store</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-solutions-for-the-not-found-d3dx933dll-error/"><u>Troubleshooting and Solutions for the 'Not Found' d3dx9_33.dll Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-user-rights-configuration-in-terminal/"><u>Troubleshooting User Rights Configuration in Terminal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmasking-dormant-folders-in-the-windows-11-ui/"><u>Unmasking Dormant Folders in the Windows 11 UI</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-mystery-of-sideways-instagram-videography/"><u>[New] The Mystery of Sideways Instagram Videography</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-premier-3ds-simulators-for-modern-pcs/"><u>[Updated] In 2024, Premier 3Ds Simulators for Modern PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-productivity-with-swift-the-power-of-macos-spotlight-suggestions-unveiled-by-zdnet/"><u>Boost Your Productivity with Swift: The Power of macOS Spotlight Suggestions Unveiled by ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-windows-hdr-video-features/"><u>Exploring Windows HDR Video Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/file-time-facelift-top-windows-programs-for-date-tweaking/"><u>File Time Facelift: Top Windows Programs for Date Tweaking</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-6-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 6 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/overcoming-iphone-hd-video-overexposure-with-premiere-pro/"><u>Overcoming iPhone HD Video Overexposure with Premiere Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-speech-to-text-conversion-in-ms-office-suite-word/"><u>Restoring Speech to Text Conversion in MS Office Suite (Word)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-no-permission-saves-error-windows-wise/"><u>Tackling No Permission Saves Error Windows-Wise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-digital-environment-with-folder-tags-in-explorer/"><u>Tailoring Your Digital Environment with Folder Tags in Explorer</u></a></li>
 </ul></div>
 

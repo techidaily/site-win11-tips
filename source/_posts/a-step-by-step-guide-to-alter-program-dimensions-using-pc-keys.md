@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Alter Program Dimensions Using PC Keys
-date: 2024-08-16T01:18:39.962Z
-updated: 2024-08-17T01:18:39.962Z
+date: 2025-02-08T22:59:40.895Z
+updated: 2025-02-16T00:53:24.427Z
 tags:
   - windows10
   - windows11
@@ -29,12 +29,21 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 3. Press the**Alt** +**Space** hotkey to bring up a window menu.  
 ![A software window menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-window-menu.jpg)
 4. Then press the**S** key to activate the move pointer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Now resize the window by pressing the up, down, left, and right arrow key buttons. You can use the arrow keys on a keyboard’s Numpad with**Num Lock** disabled.
 6. Hit**Enter** when you’ve finished resizing.
 
  This method resizes the window by a small increment each time you press an arrow key. The first arrow key you press will select a top, right, left, or bottom border to adjust.
 
  For example, pressing the down key first selects the window’s bottom border. Then you can move that border up or down or extend or decrease its width with the arrow keys.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Resize Software Using Snap Layout Hotkeys
 
@@ -43,20 +52,11 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
  However, you can also resize windows with Snap Layouts by pressing the keyboard keys. To activate the Snap Layout panel without the mouse, press**Win** +**Z** . Then press the arrow keys to navigate the layout options. Press**Enter** to select a highlighted layout for resizing your window.
 
 ![Snap Layout options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/snap-layout-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 
  You can resize windows by snapping them to either side of the desktop with a couple of hotkeys. Press the**Windows** key +**right** arrow button to snap a window to the right side of the desktop. Or snap to the left side by pressing the**Win** +**left** arrow button. A window snapped with those keyboard shortcuts is resized to half the desktop area.
 
 ![Two side-by-side windows resized with Snap Layout hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/side-by-side-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Resize Software Windows With Custom Hotkeys
 
  Wouldn’t it be great if Windows 11 included options with which you could create hotkeys for resizing software windows to specific sizes? Of course, Microsoft’s flagship OS doesn’t have such a feature; but you can install software that does.
@@ -73,20 +73,18 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 2. Double-click the Sizer desktop shortcut.
 3. Then select one of the sizes for a hotkey to resize a window to on the**Menu** tab.  
 ![The Menu tab in Sizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Click the**Edit** button.
 5. Select one of the**Shortcut key** checkboxes for the**Alt** ,**Ctrl** ,**Win** , or**Shift** keys.  
 ![The Sizer Menu Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-menu-entry-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 6. Press a letter to combine with your selected key.
 7. Click**OK** on the Sizer Menu Entry window.
 8. Select**Apply** on the Sizer Configuration window.
 9. Then click the**Hot Keys** tab to check the keyboard shortcut has been added. You should see the hotkey listed on that tab.  
 ![The Hot Keys tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-hot-keys-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now open File Explorer using one of the many [ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
 
@@ -103,11 +101,16 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
  Sizer has a useful extra popup menu you can access with a keyboard shortcut. Press the**Ctrl** +**Win** +**Z** hotkey to view Sizer’s menu. That menu includes various sizes you can select to resize an active window. You can also access the software’s primary window by selecting Configure Sizer on that menu.
 
 ![The Sizer popup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-popup-menu.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're really enjoying using hotkeys, check out [how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resize Your Windows Software by Pressing Keyboard Keys
 
@@ -121,8 +124,6 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,8 +131,21 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-accelerate-and-decelerate-on-your-screen-netflix/"><u>[New] Accelerate and Decelerate on Your Screen (Netflix)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-podcast-reviews-by-gpodcasts/"><u>[Updated] Premium Podcast Reviews by GPodcasts</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-failures-when-attempting-to-share-via-experience/"><u>Addressing Failures When Attempting to Share via Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-package-registration-hurdles-in-win11-image-files/"><u>Addressing Package Registration Hurdles in Win11 Image Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-stalled-keys-for-active-windows-11/"><u>Addressing Stalled Keys for Active Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-changing-windows-date-and-time-accurately/"><u>Avoid Changing Windows Date & Time Accurately</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-system-insights-with-resource-tracking-tiles/"><u>Boost System Insights with Resource Tracking Tiles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-output-the-best-apps-to-maximize-windows-efficiency/"><u>Boost Your Output: The Best Apps to Maximize Windows Efficiency</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-prime-stabilization-techniques-for-youtubers/"><u>In 2024, Prime Stabilization Techniques for YouTubers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/lighten-up-the-internet-craft-memes-with-kapwing-for-2024/"><u>Lighten Up the Internet Craft Memes With Kapwing for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/optimize-your-social-media-videos-on-fb-with-the-right-ratio/"><u>Optimize Your Social Media Videos on FB with the Right Ratio</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/snapshare-success-the-videoviral-story-for-2024/"><u>SnapShare Success The #VideoViral Story for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-fixing-pci-secure-token-holder-communication-errors/"><u>Troubleshooting Guide: Fixing PCI Secure Token Holder Communication Errors</u></a></li>
+</ul></div>
 

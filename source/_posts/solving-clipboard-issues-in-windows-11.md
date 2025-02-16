@@ -1,7 +1,7 @@
 ---
 title: Solving Clipboard Issues in Windows 11
-date: 2025-01-30T01:39:01.755Z
-updated: 2025-02-03T01:55:27.270Z
+date: 2025-02-10T17:55:29.633Z
+updated: 2025-02-15T16:01:55.509Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 
  If the issue persists, perform a quick restart to refresh hardware components and Windows services and apps to fix temporary glitches with your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Perform a Clean Boot
 
  You can [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) to determine if a third-party app conflict is causing the copy-and-paste functionality to malfunction. Third-party app conflicts are among the common contributing factors to this problem.
@@ -58,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 3. In the **System Configuration** window, open the **Services** tab.  
 ![Windows 11 System Configuration App showing Hide all Microsoft services option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/hide-all-microsoft-services-clean-boot-windows-11.jpg)
 4. Check the **Hide all Microsoft services** box. This will hide all the essential system services necessary to operate the system so that you don’t accidentally disable them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click the **Disable All** button to disable third-party services.
 
@@ -81,7 +81,15 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 
 ![Windows 11 System Configuration dialog.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/normal-startup-windows-11-system-configuration.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click **Apply** and **OK** to save the changes. When prompted, click **Restart Now** to reboot your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update Your Windows
 
@@ -110,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 ![Windows 11 Task Manager showing the Windows Explorer process.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/restart-windows-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Run the Keyboard Troubleshooter
@@ -139,10 +147,6 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
  If the copy-paste function does not work when using Remote Desktop Connection, restarting the Rdpclip.exe process can help you copy and paste text and files between your local and remote computers.
 
 ![Windows 11 Task Manager showing end task option for rdpclip-exe process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-showing-end-task-option-for-rdpclip-exe-process.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To restart the rdpclip.exe process, press **Win+X** and choose **Task Manager**. In Task Manager, open the **Details** tab and locate the **rdpclip.exe** process. To end the process, right-click on **rdpclip.exe** and choose **End task**.
 
@@ -203,10 +207,6 @@ Sfc /scannow`
 ![Windows 11 System Configuration App showing Hide all Microsoft services option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/hide-all-microsoft-services-clean-boot-windows-11.jpg)
 4. Check the **Hide all Microsoft services** box. This will hide all the essential system services necessary to operate the system so that you don’t accidentally disable them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the **Disable All** button to disable third-party services.
 
 1. Open the **Startup** tab and click **Open Task Manager.**
@@ -226,6 +226,10 @@ Sfc /scannow`
 ![Windows 11 System Configuration dialog.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/normal-startup-windows-11-system-configuration.jpg)
 
  Click **Apply** and **OK** to save the changes. When prompted, click **Restart Now** to reboot your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update Your Windows
 
@@ -253,10 +257,6 @@ Sfc /scannow`
 
 ![Windows 11 Task Manager showing the Windows Explorer process.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/restart-windows-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Run the Keyboard Troubleshooter
 
  Windows 11 features a built-in keyboard troubleshooter to find and fix common issues. It fixes issues triggered due to malfunctioning drivers and incorrect keyboard configuration.
@@ -277,6 +277,10 @@ Sfc /scannow`
 `msdt.exe /id KeyboardDiagnostic`
 
  In the Keyboard troubleshooter dialog, click **Advanced**, select the **Apply repairs automatically** option, and click **Next**. The troubleshooter will scan your computer for known keyboard issues and try to fix them automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset the rdpclip.exe Process
 
@@ -375,10 +379,6 @@ Sfc /scannow`
 
 ![Windows 11 Settings showing the Windows Update tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/check-for-windows-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Restart File Explorer
 
  File Explorer helps you navigate through the directories and browse files on Windows. Since it is an integral part of the Windows graphical user interface, [restarting the File Explorer process](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) can help you restore the copy-and-paste function in Windows 11\.
@@ -391,10 +391,6 @@ Sfc /scannow`
 4. Next, click on **Restart** to restart the process. Your screen may flicker when File Explorer restarts.
 
 ![Windows 11 Task Manager showing the Windows Explorer process.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/restart-windows-file-explorer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Run the Keyboard Troubleshooter
 
@@ -428,6 +424,10 @@ Sfc /scannow`
 
 ![Windows 11 Task Manager create new task dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-create-new-task-dialog.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To restart the process, in the Task Manager, click **Run new task**, type **rdpclip.exe**, and click **OK**.
 
 ## 7\. Check Your Keyboard for Hardware Issues
@@ -444,10 +444,6 @@ Sfc /scannow`
 2. Right-click on **Command Prompt** and select **Run as administrator.**  
 ![Windows 11 Command Prompt running the System File Checker utility.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-system-file-checker.png)
 3. In the Command Prompt window, type the following commands one by one and press Enter:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `DISM /Online /Cleanup-Image /RestoreHealth  
 Sfc /scannow`
@@ -474,10 +470,6 @@ Sfc /scannow`
 ![Windows 11 Settings app showing the Clipboard settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-settings-app-showing-the-clipboard-settings.png)
 
  If the issue persists, perform a quick restart to refresh hardware components and Windows services and apps to fix temporary glitches with your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Perform a Clean Boot
 
@@ -523,6 +515,14 @@ Sfc /scannow`
 
 ![Windows 11 Settings showing the Windows Update tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/check-for-windows-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Restart File Explorer
 
  File Explorer helps you navigate through the directories and browse files on Windows. Since it is an integral part of the Windows graphical user interface, [restarting the File Explorer process](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) can help you restore the copy-and-paste function in Windows 11\.
@@ -570,13 +570,13 @@ Sfc /scannow`
 
  To restart the process, in the Task Manager, click **Run new task**, type **rdpclip.exe**, and click **OK**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Check Your Keyboard for Hardware Issues
 
  If you have [remapped your keyboard keys on Windows,](https://www.makeuseof.com/tag/missing-key-remap-fix-keyboard-layout/) make sure the **Ctrl + C / Ctrl + V** shortcut is set correctly. Also, look for issues with the Ctrl keys. Your keyboard likely features multiple Ctrl keys. Try to use the additional Ctrl key at the bottom right of your keyboard to copy and paste. If it works, you are likely dealing with a faulty left Ctrl key. If there is a faulty key, there are ways to [fix broken keys on your computer keyboard](https://www.makeuseof.com/how-to-fix-keyboard-keys/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Run the System File Checker
 
@@ -616,22 +616,22 @@ Sfc /scannow`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-detailed-evaluation-of-screenflow-pro-mac-edition-for-2024/"><u>[New] Detailed Evaluation of ScreenFlow Pro Mac Edition for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ssential-youtube-movie-binge-guides-for-2024/"><u>[New] Essential YouTube Movie Binge Guides for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-techniques-for-exceptional-iphone-hdr-results/"><u>2024 Approved Pro Techniques for Exceptional iPhone HDR Results</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-automatic-restarts-on-windows-11-devices/"><u>Conquering Automatic Restarts on WIndows 11 Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/crack-the-code-of-imagerys-roots-with-our-reverse-analysis-tools-for-instagram-for-2024/"><u>Crack the Code of Imagery's Roots with Our Reverse Analysis Tools for Instagram for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/determining-the-ideal-speed-for-your-computer-a-comprehensive-guide/"><u>Determining the Ideal Speed for Your Computer: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-update-faults-windows-xp-x8019/"><u>Eradicating Update Faults: Windows XP, X8019</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-bygone-era-to-future-tech-using-windows-7-key-in-11-setup/"><u>From Bygone Era to Future Tech: Using Windows 7 Key in 11 Setup</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-razer-software-on-windows-1187xpvista-complete-guide-for-downloads-and-updates/"><u>How to Get the Latest Razer Software on Windows 11/8/7/XP/Vista: Complete Guide for Downloads and Updates</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fostering-creativity-the-most-innovative-6-nft-services/"><u>In 2024, Fostering Creativity The Most Innovative 6 NFT Services</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-restarting-windows-updates/"><u>Mastering the Art of Restarting Windows Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-store-lockout-try-these-hacks/"><u>Microsoft Store Lockout? Try These Hacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/repairing-domain-services-error-printer-issues-in-windows-11/"><u>Repairing Domain Services Error: Printer Issues in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-11s-fatal-0xf0831-bug/"><u>Resolving Windows 11'S Fatal 0xF0831 Bug</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/step-into-the-world-of-innovative-youtube-video-techniques-for-2024/"><u>Step Into the World of Innovative YouTube Video Techniques for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-setup-guide-for-steam-deck-owners/"><u>Windows Setup Guide for Steam Deck Owners</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-best-practices-selecting-devices-for-zoom-recording/"><u>[New] 2024 Approved Best Practices Selecting Devices for Zoom Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-drone-shooting-methods/"><u>[Updated] 2024 Approved The Ultimate Guide to Drone Shooting Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wmvaiff-movavi/"><u>网上免费将WMV视频改为AIFF音效 - 使用Movavi专业解决方案</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/dottrina-windows-10-gratuita-backup-e-protezione-dei-dati-con-il-software-immagine-disco/"><u>Dottrina Windows 10 Gratuita: Backup E Protezione Dei Dati Con Il Software Immagine Disco</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-spotify-autoplay-behavior-on-windows-pcs/"><u>Halt Spotify Autoplay Behavior on Windows PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-poco-x5-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Poco X5 for Free? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-x5-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco X5 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-eye-of-excellence-a-comprehensive-list-of-8k-cameras/"><u>In 2024, Eye of Excellence A Comprehensive List of 8K Cameras</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Plus Passcode Screen?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/leveraging-likeability-strategies-for-going-viral-on-facebook/"><u>Leveraging Likeability Strategies for Going Viral on Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-and-style-synergy-the-leading-windows-laptops-of-24/"><u>Power & Style Synergy: The Leading Windows Laptops of '24</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-connections-with-mb-services-in-windows-11/"><u>Re-Establishing Connections with MB Services in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-stuck-windows-update-problems-now/"><u>Resolving Stuck Windows Update Problems Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-authentication-disabling-questions-on-windows-11-local-account/"><u>Silent Authentication: Disabling Questions on Windows 11 Local Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-unresolvable-value-errors-in-winos/"><u>Solutions for Unresolvable Value Errors in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-a-non-operational-printer-on-windows-11/"><u>Troubleshoot a Non-Operational Printer on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-team-video-sharing-fixes/"><u>Windows Team Video Sharing Fixes</u></a></li>
 </ul></div>
 

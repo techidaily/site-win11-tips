@@ -1,7 +1,7 @@
 ---
 title: A Practical Guide to Recognizing & Addressing 'Uninstalled Disk' Issue, Win 11 Style
-date: 2024-08-16T01:17:36.051Z
-updated: 2024-08-17T01:17:36.051Z
+date: 2025-02-12T16:25:25.964Z
+updated: 2025-02-15T16:52:31.090Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/0fc33f78a6ac7efb4d7528f193803031f45ec9e70
 
  Fortunately, you can quickly fix this problem and continue using your device using the solutions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the Hard Drive for Any Loose Connections or Physical Damage
 
  The first course of action whenever you encounter the "Hard drive not installed" issue is to ensure that the hard drive is properly connected to your computer. To do this, shut down your computer (check out [different ways to shut down a Windows PC](https://www.makeuseof.com/windows-11-how-to-shut-down/)) and unplug it from the power outlet.
@@ -30,11 +34,16 @@ thumbnail: https://thmb.techidaily.com/0fc33f78a6ac7efb4d7528f193803031f45ec9e70
 
  After that, carefully inspect the hard drive for any physical damage. Check for cracks, dents, or any other signs of wear. Additionally, check for any indications of liquid damage or unusual noises emanating from the hard drive. If you detect any of these issues, unfortunately, the only option is to replace your hard drive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Perform a Hard PC Reset
 
 ![Laptop Bottom Cover Removed Exposing Internal Fans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Laptop-Bottom-Cover-Removed-Exposing-Internal-Fans.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: Tina Sieber
@@ -53,8 +62,9 @@ Image Credit: Tina Sieber
  If the issue persists, you can try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Change the Boot Priority Order
 
  You might face the "hard drive not installed" issue if your computer is trying to boot from a connected external device. To confirm this, unplug all external devices from your computer, including your USB mouse, keyboard, and external backup hard drive.
@@ -69,33 +79,24 @@ Image Credit: Tina Sieber
 2. Click **Boot Sequence** in the left sidebar.
 3. If **UEFI** is selected and then select **Legacy External Devices**. Or, if **Legacy External Devices** is selected and then select **UEFI**.  
 ![Boot_Sequence option in BIOS menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/boot_sequence.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Click **Apply**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, restart your computer and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Change Your System Date and Time
 
  An [incorrect date and time](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) can impact how your computer boots up or prevent it from booting at all. So, make sure your computer is showing the current date and time. You can change the date and time by following the instructions below.
 
 1. Open the BIOS menu and choose **Date /Time** from the left sidebar.  
 ![Date_and_Time option in BIOS menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/date_and_time.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 2. Set the correct Date and Time. Then, click **Apply**.
 
  After that, restart your computer and check if the issue is resolved. If the problem is gone, but you need to set the date and time every time you boot your computer, it is likely that your computer's CMOS battery is failing. The only way to fix this is to [replace the CMOS battery](https://www.makeuseof.com/computer-battery-dead-how-fix-replace-cmos/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixing the Hard Drive Not Installed Issue on Windows 11
 
  It's frustrating when you can't use your computer because of a hardware problem. Most of the time, you can fix these problems by restarting your device. But if restarting doesn't help and you see the "Hard drive not installed" error, then try the above solutions to troubleshoot the issue.
@@ -104,8 +105,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Fortunately, you can quickly fix this problem and continue using your device using the solutions below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -113,5 +112,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-freeze-the-action-find-these-top-9-gif-recipes-on-windows-pc/"><u>[New] In 2024, Freeze the Action! Find These Top 9 GIF Recipes on Windows PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elevating-visual-quality-incorporating-filters-in-videography/"><u>[Updated] 2024 Approved Elevating Visual Quality Incorporating Filters in Videography</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-masterclass-in-3d-color-grading-with-custom-luts/"><u>[Updated] In 2024, Masterclass in 3D Color Grading with Custom LUTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-viewers-into-active-participants/"><u>[Updated] Transforming Viewers Into Active Participants</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-signs-its-probably-time-to-factory-reset-your-windows-pc/"><u>4 Signs It's Probably Time to Factory Reset Your Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-set-up-image-slideshows-in-windows-11-without-installing-extra-software/"><u>7 Ways to Set Up Image Slideshows in Windows 11 Without Installing Extra Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-handy-windows-10-and-11-command-shortcuts-you-can-set-up-with-nircmd/"><u>8 Handy Windows 10 & 11 Command Shortcuts You Can Set Up With NirCmd</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-strategy-to-reactivate-winget-on-w11/"><u>A Step-by-Step Strategy to Reactivate Winget on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-storage-with-windows-iscsi-initiator/"><u>Accessing Storage with Windows iSCSI Initiator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-with-file-history-backup-on-windows/"><u>Addressing Error with File History Backup on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-operational-windows-keyboard-entry/"><u>Addressing Non-Operational Windows Keyboard Entry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/app-aesthetics-the-hidden-culprits-in-windows-11-performance-drop/"><u>App Aesthetics: The Hidden Culprits in Windows 11 Performance Drop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/improve-video-resolution-on-pc-and-mac-to-ultra-hd-or-4k-standards/"><u>Improve Video Resolution on PC and Mac to Ultra-HD or 4K Standards</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-cut-through-competition-advanced-techniques-for-instagram-ready-videos/"><u>In 2024, Cut Through Competition Advanced Techniques for Instagram-Ready Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/lead-teams-to-victory-without-paying-fc-manager-edition/"><u>Lead Teams to Victory Without Paying: FC Manager Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-smooth-time-management-on-windows/"><u>Unlock Smooth Time-Management on Windows</u></a></li>
+</ul></div>
 

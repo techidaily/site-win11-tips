@@ -1,7 +1,7 @@
 ---
 title: Strategies to Recover Notification Icons
-date: 2025-01-28T17:07:23.984Z
-updated: 2025-02-01T00:39:38.255Z
+date: 2025-02-09T03:12:42.844Z
+updated: 2025-02-16T01:34:47.972Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 5. Tick the checkbox that reads**Show badges on taskbar apps** .  
 ![Enable Badges on Taskbar Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-badges-on-taskbar-apps-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Following this, apps should display notification badges on the taskbar.
 
 ## 2\. Make Sure App Notifications Are Enabled
@@ -49,11 +53,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ![Enable Notifications for Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-apps-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Allow Apps to Run in the Background
@@ -67,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 5. Use the drop-down menu under**Background apps permissions** to select**Always** .  
 ![Allow Xbox to Run in the Background on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/allow-xbox-to-run-in-the-background-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Unable to find the background app permissions option in the Settings app? Check our guide on[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
 
 ## 4\. Restart the Windows Explorer Process
@@ -81,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
  Note that your taskbar will disappear for a brief moment when you restart the Windows Explorer process. After that, check if notification badges appear on the taskbar apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Unpin the Apps From the Taskbar and Pin Them Again
 
  If Windows is failing to display notification badges for only one or two apps, you can try to unpin the affected apps from the taskbar and pin them back again. To do so, use these steps:
@@ -90,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 3. Type the name of the app in the search box.
 4. Select**Pin to taskbar** from the right pane.  
 ![Unpin App From Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unpin-app-from-windows-taskbar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Repeat the above steps for all the apps that are not displaying badges on the taskbar.
 
@@ -115,14 +119,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 8. Click**OK** .  
 ![Edit DWORD in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-dword-in-registry-editor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Exit the Registry Editor window and restart your PC to apply the changes. After that, notification badges should appear on taskbar apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay on Top of App Alerts With Notification Badges
@@ -146,22 +146,21 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-zdsoft-capture-master-overview-and-evaluation/"><u>[New] In 2024, ZDSoft Capture Master Overview & Evaluation</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-achieve-a-millennium-of-subscriber-milestones/"><u>[Updated] 2024 Approved Achieve a Millennium of Subscriber Milestones</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-blending-youtube-soundtracks-into-video-essence-for-2024/"><u>[Updated] Blending YouTube Soundtracks Into Video Essence for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-kakaotalk-elites-flash-chats-on-snapchat/"><u>[Updated] KakaoTalk Elites' Flash Chats on Snapchat</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/curing-empty-folder-misconraneuement-in-windows-11-with-0x80070091/"><u>Curing Empty Folder Misconraneuement in Windows 11 with #0X80070091</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-graphics-and-gaming-download-the-latest-nvidia-drivers-for-windows-systems/"><u>Enhance Graphics and Gaming: Download the Latest Nvidia Drivers for Windows Systems</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/leveraging-social-influence-a-guide-to-biz-success-on-snap-for-2024/"><u>Leveraging Social Influence A Guide to Biz Success on Snap for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-ps1-gaming-duckstations-step-by-step-win-approach/"><u>Navigating PS1 Gaming: Duckstation’s Step-by-Step WIN Approach</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-video-editing-made-easy-top-online-choices/"><u>New In 2024, Free Video Editing Made Easy Top Online Choices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-it-all-the-top-7-ways-to-use-windows-11-effectively-39/"><u>Optimize It All: The Top 7 Ways to Use Windows 11 Effectively (39)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-ms-to-do-discrepancies-no-sync-heres-how/"><u>Solving MS To-Do Discrepancies: No Sync? Here's How!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-word-edits-with-snipping-tool/"><u>Streamlining Word Edits with Snipping Tool</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-future-is-now-red-hats-artificial-intelligence-strategy-to-simplify-sysadmin-tasks/"><u>The Future Is Now: Red Hat's Artificial Intelligence Strategy to Simplify Sysadmin Tasks</u></a></li>
-<li><a href="https://win11.techidaily.com/these-5-apps-made-my-switch-from-mac-to-windows-possible/"><u>These 5 Apps Made My Switch From Mac to Windows Possible</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-winerror-exit-code-resolution/"><u>Troubleshooting Windows: WinError Exit Code Resolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-mouse-controls-on-win11/"><u>Unlocking the Secrets of Mouse Controls on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-deskanywhere-combat-and-fix-common-problems/"><u>Win11 DeskAnywhere: Combat and Fix Common Problems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-complete-zoomers-handbook-for-captivating-video-and-audio-content/"><u>[New] The Complete Zoomer's Handbook for Captivating Video and Audio Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-speech-to-text-technology-absolutely-gratuitous/"><u>[Updated] 2024 Approved Speech-to-Text Technology, Absolutely Gratuitous</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-expert-advice-on-crafting-an-ideal-video-conference-room/"><u>[Updated] In 2024, Expert Advice on Crafting an Ideal Video Conference Room</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-m1-pro-and-m1-max-exploring-their-significant-differences/"><u>[Updated] In 2024, M1 Pro & M1 Max Exploring Their Significant Differences</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/captivating-creativity-top-30-unique-tiktok-profile-photos/"><u>Captivating Creativity Top 30 Unique TikTok Profile Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-windows-layouts-with-a-macos-vibe-using-these-5-techniques/"><u>Crafting Windows Layouts with a MacOS Vibe Using These 5 Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-ai-systems-their-uniqueness/"><u>Decoding AI Systems: Their Uniqueness</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-advantages-of-the-arctic-freezer-36-a-milestone-in-economical-air-cooling-technology/"><u>Exploring the Advantages of the Arctic Freezer 36: A Milestone in Economical Air Cooling Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-system-call-issues-on-windows-11-and-11/"><u>Fixing System Call Issues on Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-keyboard-driven-program-resizing-for-windows-11/"><u>Guiding Through Keyboard-Driven Program Resizing for Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-laughter-and-tears-connected-10-memes-that-resonate-on-ig/"><u>In 2024, Laughter and Tears Connected 10 Memes That Resonate On IG</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-reno-8t-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo Reno 8T FRP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/increasing-yuzu-response-time-on-windows/"><u>Increasing Yuzu Response Time on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-overcoming-internet-explorer-failed-to-load-problems/"><u>Solutions for Overcoming Internet Explorer Failed to Load Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-yellow-screen-problem-windows-display-correction-tips/"><u>Solving Yellow Screen Problem: Windows Display Correction Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-blue-screen-dumps-a-comprehensible-guide/"><u>Understanding Blue Screen Dumps: A Comprehensible Guide</u></a></li>
 </ul></div>
 

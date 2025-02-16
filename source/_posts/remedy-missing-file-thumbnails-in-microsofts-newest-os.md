@@ -1,7 +1,7 @@
 ---
 title: Remedy Missing File Thumbnails in Microsoft's Newest OS
-date: 2025-01-28T19:06:32.555Z
-updated: 2025-02-02T19:36:10.801Z
+date: 2025-02-08T17:23:53.400Z
+updated: 2025-02-15T18:41:50.670Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Allow Thumbnails to Load Properly
 
@@ -56,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![Change the View Style of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-change-the-view-style-of-folders-in-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Check for Files or Format Specific Issues
@@ -68,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
  Sometimes, users have to manually enable thumbnail previews in the software settings. Check if the software you use offers such a feature, and if it does, enable it, and you'll begin to see thumbnails for that software's files. However, if the software does not offer this feature, you will have to use third-party file managers to see thumbnails for its files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Close Interfering Apps
@@ -81,25 +85,21 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
 ![Closing the OBS Studio Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/end-task.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Rebuild the Thumbnail Cache
 
  By using the thumbnail cache, Windows displays thumbnail images of files so that you can visually identify them. If cache files become corrupted, thumbnails can get affected. Clearing the thumbnail cache instructs Windows to rebuild the cache, which usually resolves thumbnail issues.
 
  So, if you haven't cleared it yet,[clear the thumbnail cache](https://www.makeuseof.com/windows-11-clear-thumbnail-cache/) and restart your device so Windows can rebuild it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Restart File Explorer
 
  Restarting File Explorer is usually enough to fix most issues with icons, navigation panes, ribbons, tabs, and everything related. If you have not restarted File Explorer yet, you should; it may help you resolve the thumbnail issue. To restart File Explorer, open Task Manager, locate the**File Explorer** (or**Windows Explorer**) process, right-click on it, and click**Restart** .
 
 ![restart file explorer process windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-explorer-process-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Enable Thumbnail Preview From Visual Effects
 
@@ -111,12 +111,16 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![Open Visual Effects Settings From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-open-adjust-visual-effects-settings-from-windows-search.jpg)
 2. Check the circle beside**Adjust for best appearance** in the**Performance Options** window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Then, ensure the box beside**Show thumbnails** **instead of icons** is checked.  
 ![Change Visual Effects to Get the Best Appearance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-enable-certain-options-in-visual-effects-tab-of-performance-options-in-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Apply Generic Windows 11 Fixes
 
@@ -125,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 * Ensure that the drive where you are experiencing this issue has enough free storage space. Consider[freeing up the storage space](https://www.makeuseof.com/windows-11-free-up-storage-space/) if it's running low.
 * [Change the default app in Windows 11](https://www.makeuseof.com/change-windows-11-default-apps/) for files that don't have thumbnails.
 * Install any pending Windows updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Quickly Find Relevant Files Using Thumbnails on Windows 11
 
@@ -149,18 +149,24 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-fading-audio-dynamics-a-logic-pro-approach/"><u>[Updated] Fading Audio Dynamics A Logic Pro Approach</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-sidestep-social-snubs-10-proven-steps-for-fb-freedom-for-2024/"><u>[Updated] Sidestep Social Snubs 10 Proven Steps for Fb Freedom for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhance-visual-appeal-edit-videos-for-instagram-success/"><u>2024 Approved Enhance Visual Appeal Edit Videos for Instagram Success</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-the-operation-of-microsofts-phone-link-app/"><u>Demystifying the Operation of Microsoft's 'Phone Link' App</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-pro-max-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 Pro Max System? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/immersive-escapes-delving-into-jaunt-vr/"><u>Immersive Escapes Delving Into Jaunt VR</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-multiplayer-sessions-with-xbox-zoom-support/"><u>In 2024, Seamless Multiplayer Sessions with Xbox Zoom Support</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-file-and-folder-combination-in-windows-11/"><u>Mastering File & Folder Combination in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/obscure-yet-outstanding-windows-11-themes/"><u>Obscure yet Outstanding Windows 11 Themes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719341208077-pause-on-snipwise-discover-fixes-today-here/"><u>Pause on SnipWise? Discover Fixes Today, Here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/probing-windows-bsod-files-and-their-residues/"><u>Probing Windows BSOD Files & Their Residues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-9-methods-to-control-volume-levels-in-windows-11/"><u>Unlock 9 Methods to Control Volume Levels in Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-high-quality-virtual-console-imitation-software-for-pc/"><u>[New] High-Quality Virtual Console Imitation Software for PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-stream-in-hd-1080p-on-facebook-for-2024/"><u>[New] How to Stream in HD 1080P on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-ecological-architecture-merging-nature-and-city-planning/"><u>[Updated] 2024 Approved Ecological Architecture Merging Nature and City Planning</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-concealed-aspects-understanding-the-unique-stories-of-followers/"><u>[Updated] 2024 Approved The Concealed Aspects Understanding the Unique Stories of Followers</u></a></li>
+<li><a href="https://games-able.techidaily.com/complete-guide-eradicating-your-ps5-digital-footprint/"><u>Complete Guide: Eradicating Your PS5 Digital Footprint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-approach-to-unhandled-exception-in-windows-apps/"><u>Comprehensive Approach to Unhandled Exception in Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-media-player-server-issue/"><u>Eliminating Media Player Server Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-for-google-maps-setup-on-pc/"><u>Essential Steps for Google Maps Setup on PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-from-toms-pc-world-find-the-perfect-hardware-solutions/"><u>Expert Advice From Tom's PC World: Find the Perfect Hardware Solutions</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ferrari-f12-berlinetta-hd-wallpaper-collection-by-yl-computing-your-ultimate-racing-decor/"><u>Ferrari F12 Berlinetta HD Wallpaper Collection by YL Computing - Your Ultimate Racing Decor</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-voice-input-problems-on-your-iphone-discover-5-essential-steps/"><u>Fixing Voice Input Problems on Your iPhone – Discover 5 Essential Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-gamepad-that-wont-respond/"><u>Fixing Windows Gamepad that Won't Respond</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-world-of-warcraft-update-stuck-on-initializing-on-windows/"><u>How to Fix a World of Warcraft Update Stuck on Initializing on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-edge-written-for-optimal-system-performance/"><u>Managing Edge' Written for Optimal System Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritizing-productivity-make-terminal-first/"><u>Prioritizing Productivity: Make Terminal First</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-inaccessible-game-sessions-due-to-steams-vac/"><u>Tackling Inaccessible Game Sessions Due to Steam’s VAC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1424542-9781780283425-the-real-messiah/"><u>The Real Messiah | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-preventing-and-repairing-crashes-in-forza-horizon-5-on-windows/"><u>Ultimate Guide: Preventing and Repairing Crashes in Forza Horizon 5 on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-apps-to-supercharge-your-windows/"><u>Winning Apps to Supercharge Your Windows</u></a></li>
 </ul></div>
 

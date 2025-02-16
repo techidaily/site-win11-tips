@@ -1,7 +1,7 @@
 ---
 title: Reigniting Stalled WSReset Utility in Windows Systems
-date: 2025-01-26T17:36:37.030Z
-updated: 2025-02-02T22:13:03.514Z
+date: 2025-02-15T01:50:48.619Z
+updated: 2025-02-15T22:12:15.627Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix WSReset.exe Not Working on Windows
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-store-apps-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As the troubleshooter scans, it detects and fixes any existing issues. Once that's done, restart your computer again and try running WSReset.exe again.
 
  If you use Windows 10 version, the process will be slightly different. Press **Win + R**, type **ms-settings:troubleshoot**, and hit Enter. In the Settings menu, click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**.
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 ![Windows Additional Troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Windows-Additional-Troubleshooters.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select **Windows Store Apps** from the list and click **Run the troubleshooter**.
@@ -70,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 ## 3\. Repair and Reset Windows Store
 
  If WSReset.exe is still not working, chances are the Windows Store app might be corrupted or not functioning correctly. In that case, try [repairing and resetting the Windows Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/). This will restore the application to its default settings and often solves errors
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Remove the Latest Windows Updates
 
@@ -106,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 ![List all user account via command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/list-all-user-account-via-command-prompt.jpg)
 6. Next, open the Registry Editor. For this, click on **Start** \> type **regedit** in the search box, then select it from the results list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. If the UAC pop-up appears, click **Yes** to continue.
 8. When the Registry Editor opens, navigate to the following registry key:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore`  
@@ -119,13 +115,17 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 10. Right-click on it and select **Delete**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 11. If a confirmation pop-up appears, click **Yes**. This will clear the Microsoft Store cache.
 12. Close the Registry Editor and restart your PC.
 
  Now, open the Command Prompt window with administrative privileges again and run WSReset.exe to see if it works properly. If so, you have successfully cleared the Microsoft Store cache via the registry.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall the Microsoft Store
 
@@ -155,21 +155,22 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-instagrams-roadmap-to-fame-unlocking-the-power-of-9-tactics/"><u>[New] Instagram's Roadmap to Fame Unlocking the Power of #9 Tactics</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-precision-in-practice-detailed-manual-on-windows-pc-live-tv-capture-for-2024/"><u>[New] Precision in Practice Detailed Manual on Windows PC Live TV Capture for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-identifying-premium-free-online-tools-for-efficient-srt-translations/"><u>[Updated] Identifying Premium Free Online Tools for Efficient SRT Translations</u></a></li>
-<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-user-dissatisfaction-with-microsofts-latest-update/"><u>Decoding User Dissatisfaction with Microsoft's Latest Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/engage-your-phones-dialer-with-ease-windows-11/"><u>Engage Your Phone's Dialer with Ease, Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-disrupt-a-persistent-dark-theme-on-windows/"><u>How to Disrupt a Persistent Dark Theme on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-mini-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 12 mini Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hunt-down-these-10-vectors-stock-image-websites/"><u>In 2024, Hunt Down These 10 Vectors Stock Image Websites</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-seamless-installation-windows-11-in-place-upgrade-techniques/"><u>Mastering the Seamless Installation: Windows 11 In-Place Upgrade Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/natural-interaction-ais-quest-to-speak-like-humans/"><u>Natural Interaction: AI's Quest to Speak Like Humans</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-failed-remotes-a-step-by-step-guide-for-windows-users/"><u>Resetting Failed Remotes: A Step-By Step Guide for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/saving-space-on-your-disk-keep-files-and-free-up-room-in-win11-max-156-chars/"><u>Saving Space on Your Disk: Keep Files & Free Up Room in Win11 (Max 156 Chars)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722902315346-stay-updated-on-the-latest-apple-m3-macbook-pro-prices-specs-and-release-timeline-explored/"><u>Stay Updated on the Latest Apple M3 MacBook Pro - Prices, Specs, and Release Timeline Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-revive-slowq-bittorrent-progress-on-pc/"><u>Strategies to Revive Slowq Bittorrent Progress on PC</u></a></li>
-<li><a href="https://win-news.techidaily.com/what-causes-a-pc-to-become-unresponsive-solutions-from-yl-computing/"><u>What Causes a PC to Become Unresponsive? - Solutions From YL Computing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-navigating-the-mobile-landscape-start-your-entrepreneurial-or-personal-youtube-channel/"><u>[New] 2024 Approved Navigating the Mobile Landscape Start Your Entrepreneurial or Personal YouTube Channel</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-art-of-audio-visual-storytelling-with-iphone/"><u>[New] In 2024, The Art of Audio-Visual Storytelling with iPhone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-artisan-writes-crafting-hdr-magic-with-iphone/"><u>[New] In 2024, The Artisan’ Writes Crafting HDR Magic with iPhone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-key-elements-to-successful-mobile-app-design/"><u>[Updated] 2024 Approved Key Elements to Successful Mobile App Design</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-emerald-error-in-nba-2k21-effective-fixes-explored/"><u>Beat the Emerald Error in NBA 2K21: Effective Fixes Explored</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-civi-3-disney-100th-anniversary-edition-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi Civi 3 Disney 100th Anniversary Edition Phone Pattern Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-microsoft-excel-a-step-by-step-guide-to-utilizing-the-filter-feature/"><u>Mastering Microsoft Excel: A Step-by-Step Guide to Utilizing the Filter Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-spreadsheet-techniques-to-change-series-names-in-excel/"><u>Mastering Your Spreadsheet: Techniques to Change Series Names in Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-your-data-presentation-with-effective-spell-check-functions-in-excel/"><u>Perfect Your Data Presentation with Effective Spell Check Functions in Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/printing-excel-sheets-made-easy-how-to-show-gridlines-with-rowcolumn-labels/"><u>Printing Excel Sheets Made Easy - How to Show Gridlines with Row/Column Labels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-data-with-ease-mastering-pivot-table-updates-in-ms-excel/"><u>Revamp Your Data with Ease - Mastering Pivot Table Updates in MS Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-steps-mastering-the-selection-of-cell-ranges-in-microsoft-excel/"><u>Simple Steps: Mastering the Selection of Cell Ranges in Microsoft Excel</u></a></li>
+<li><a href="https://fox-http.techidaily.com/starting-an-online-platform-for-consumer-goods-reviews/"><u>Starting an Online Platform for Consumer Goods Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-adding-and-utilizing-microsoft-office-extensions/"><u>Step-by-Step Guide: Adding & Utilizing Microsoft Office Extensions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-crafting-personalized-excel-templates/"><u>Step-by-Step Guide: Crafting Personalized Excel Templates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-raspberry-pi-hats-of-2024-the-ultimate-guide-to-project-expansion-boards/"><u>Top Raspberry Pi HATs of 2024 - The Ultimate Guide to Project Expansion Boards</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/troubleshooting-how-to-fix-the-error-when-installing-your-graphics-card-driver-tips-from-yl-computing/"><u>Troubleshooting: How to Fix the 'Error' When Installing Your Graphics Card Driver - Tips From YL Computing</u></a></li>
 </ul></div>
 

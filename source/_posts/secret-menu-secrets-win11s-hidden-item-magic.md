@@ -1,7 +1,7 @@
 ---
 title: "Secret Menu Secrets: Win11's Hidden Item Magic"
-date: 2025-01-27T19:01:09.474Z
-updated: 2025-02-02T19:29:03.919Z
+date: 2025-02-08T19:19:02.384Z
+updated: 2025-02-15T21:03:54.260Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add a Hidden Items Option to the Context Menu With a Registry Script
 
  To add any new option to a Windows context menu, we must modify the registry. Adding a **Hidden items** option to the context menu involves a slightly more complicated registry tweak. So, it’s best to add such an option to the right-click menu with a more automated registry script method like this:
@@ -40,14 +36,14 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 5. Unzip (extract) the **hidden\_files\_context\_menu** ZIP file. We have a guide that includes instructions for [unzipping ZIP archives in Windows](https://www.makeuseof.com/unzip-files-windows-10/).  
 ![The Extract Compressed (Zipped) Folder tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/extraction-utility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Open the extracted hidden\_files\_context\_menu folder.
 2. Double-click the **Add hidden files** **context menu** command registry script file.  
 ![The registry script's folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/registry-script-folder.jpg)
 3. Select **Yes** if a User Account Control prompt pops up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Click **Yes** within the Registry Editor dialog box that asks if you’re sure about continuing.  
 ![The Registry Editor confirmation prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/registry-script-confirmation-prompt.jpg)
@@ -60,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
  The **hidden\_files\_context\_menu** ZIP archive also includes another registry script for removing the context menu. So, you don’t need to manually edit the registry to remove the **Hidden items** context menu. Running the **Undo hidden files in context menu** script will do the job for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a Hidden Items Option to the Context Menu With Right-Click Extender
@@ -79,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 9. Select the **Toggle File**/**Folder Visibility** option along with its Icon checkbox.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 10. Click on the **Apply** button.
@@ -89,7 +85,11 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 ![The Toggle File Visibility submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-file-visibility-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Toggle Hidden Items On and Off From File Explorer’s Context Menu
@@ -108,19 +108,19 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-adding-descriptive-titlestexts-via-microsoft-photos-win-11/"><u>[Updated] Adding Descriptive Titles/Texts via Microsoft Photos Win 11</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/5yuv55s757eo6zug5zplus656so6kyb5bqn77ya5lin6kab6yoo5yig44gu5ymk6zmk44go5yig5ymy5pa55rov/"><u>動画編集基礎講座：不要部分の削除と分割方法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-erroneous-onedrive-tags-in-windows-file-system/"><u>Correcting Erroneous OneDrive Tags in Windows File System</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-mix-fold-3-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Mix Fold 3?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-desktop-with-these-8-innovative-personalization-steps-from-bubbleui/"><u>Elevate Your Desktop with These 8 Innovative Personalization Steps From BubbleUI</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fast-track-bluetooth-recovery-on-windows-11/"><u>Fast Track Bluetooth Recovery on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-switching-on-or-off-the-registry-editor/"><u>Guide: Switching on or Off the Registry Editor</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-duplicate-comments-on-a-steam-decks-ssd-une-approche-facile-et-complete/"><u>How to Duplicate Comments on a Steam Deck's SSD : Une Approche Facile Et Complète</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-xr21-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia XR21 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-leading-non-zoom-remote-work-solutions-for-pc-and-mobile/"><u>In 2024, Leading Non-Zoom Remote Work Solutions for PC & Mobile</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719373411881-navigate-and-solve-frozen-shift-problems/"><u>Navigate and Solve Frozen Shift Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proactive-power-indicators-ensure-a-full-charge-with-windows-11-alerts/"><u>Proactive Power Indicators: Ensure a Full Charge with Windows 11 Alerts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-screen-capture-on-apple-device-for-2024/"><u>Step-by-Step Screen Capture on Apple Device for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-screen-capture-snapchat-stories-effectively/"><u>[New] 2024 Approved How to Screen Capture Snapchat Stories Effectively</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-editing-essentials-your-go-to-guide-for-beginner-vloggers/"><u>[New] In 2024, Editing Essentials Your Go-To Guide for Beginner Vloggers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-most-effective-10-sound-recorders-for-spotify-fans-for-2024/"><u>[New] The Most Effective 10 Sound Recorders for Spotify Fans for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-10-standout-educational-websites-for-self-paced-learning/"><u>[Updated] 10 Standout Educational Websites for Self-Paced Learning</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-crafting-your-vocal-image-for-instagrams-dynamic-features/"><u>2024 Approved Crafting Your Vocal Image for Instagram’s Dynamic Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-windows-home-screenscape-at-will/"><u>Customizing Your Windows Home Screenscape at Will</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-magic-5-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor Magic 5 Pro Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-a-deep-dive-into-dev-drive-for-coders/"><u>Leveraging Windows 11: A Deep Dive Into Dev Drive for Coders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-multiscreen-glow-best-windows-brightness-controls/"><u>Master Your Multiscreen Glow: Best Windows Brightness Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-finding-lost-files-on-pc/"><u>Mastering the Art of Finding Lost Files on PC</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-samsung-galaxy-m14-4g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/three-methods-to-test-windows-11-status/"><u>Three Methods to Test Windows 11 Status</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-retail-landscapes-microsofts-ai-hub/"><u>Transforming Retail Landscapes: Microsoft’s AI Hub</u></a></li>
 </ul></div>
 

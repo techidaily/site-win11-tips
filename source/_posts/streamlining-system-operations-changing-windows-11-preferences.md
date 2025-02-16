@@ -1,7 +1,7 @@
 ---
 title: "Streamlining System Operations: Changing Windows 11 Preferences"
-date: 2025-01-29T01:09:23.427Z
-updated: 2025-02-02T16:43:24.494Z
+date: 2025-02-10T23:43:46.867Z
+updated: 2025-02-15T21:42:47.339Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
  Now that you know what Device Usage Options are, here's how to change them in Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Using Windows Settings
 
  Changing Device Usage Options on Windows is easy. There are two ways to do it - using System Settings or through a reg file. First, let's look at how to change Device Usage Options using Windows Settings.
@@ -53,18 +49,22 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 ![Change Device Usage on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-device-usage-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the next page, look for your preferred Device Usage option and toggle it on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Using a REG File
 
  If you're [unable to open the System Settings window or if it isn't working](https://www.makeuseof.com/fixes-unable-to-open-windows-settings/), use a reg file instead. A reg file is a registry key file that helps you tweak Windows settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Gaming Device Usage Options
 
@@ -96,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
  To turn on Device usage options for other categories, create separate reg files with the corresponding code then apply them in the same way. Here's a list of each .reg file's contents:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Family Device Usage Options
 
  For the Family option:
@@ -126,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CloudExperienceHost\Intent\OffDeviceConsent]  
 "accepted"=dword:00000001`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### School Device Usage Options
 
  For School usage:
@@ -139,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CloudExperienceHost\Intent\OffDeviceConsent]  
 "accepted"=dword:00000001`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Entertainment Device Usage Options
 
  If you want the Entertainment options:
@@ -151,10 +155,6 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
   
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CloudExperienceHost\Intent\OffDeviceConsent]  
 "accepted"=dword:00000001`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Business Device Usage Options
 
@@ -187,16 +187,18 @@ thumbnail: https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-tailoring-the-perfect-youtube-conclusion-for-engagement/"><u>[New] 2024 Approved Tailoring the Perfect YouTube Conclusion for Engagement</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unveiling-the-mystery-of-facebooks-status-video-downloads-for-2024/"><u>[New] Unveiling the Mystery of Facebook's Status Video Downloads for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-virtual-quest-a-jaunt-vr-exploration/"><u>[Updated] 2024 Approved The Virtual Quest A Jaunt VR Exploration</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-what-lies-beneath-instagram-story-perceptions-for-2024/"><u>[Updated] What Lies Beneath Instagram Story Perceptions for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-the-path-to-successful-screen-startup-post-update/"><u>Clearing the Path to Successful Screen Startup Post-Update</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/effortless-meal-times-with-arf-pets-autofeeder/"><u>Effortless Meal Times with Arf Pet's AutoFeeder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-language-skills-quick-translate-via-windows-key-combinations/"><u>Elevate Language Skills: Quick Translate via Windows Key Combinations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sorting-perfection-windows-software-that-shines/"><u>Sorting Perfection: Windows Software That Shines</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/soundsnatcher-free-guide-and-assessment-for-2024/"><u>SoundSnatcher Free Guide & Assessment for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-your-gaming-how-to-fix-the-error-code-0x000-in-xbox-game-pass-on-windows-11/"><u>Streamlining Your Gaming: How to Fix the Error Code 0X000_ in Xbox Game Pass on Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elite-editing-experience-photonshift-phenomenon-for-2024/"><u>[New] Elite Editing Experience PhotonShift Phenomenon for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-slow-mo-magic-with-gopro-hero-10/"><u>2024 Approved Capturing Slow-Mo Magic with GoPro Hero 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-active-directory-domain-services-printer-failures-in-win-1011/"><u>How to Tackle Active Directory Domain Services Printer Failures in WIN 10/11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-grasping-fcp-obtain-it-at-no-cost/"><u>In 2024, Grasping FCP Obtain It at No Cost</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-unleash-your-creative-potential-with-top-10-tiktok-editors/"><u>In 2024, Unleash Your Creative Potential with Top 10 TikTok Editors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ions-bold-step-forward-with-pro-3-a-comprehensive-camera-review/"><u>ION's Bold Step Forward with Pro 3 - A Comprehensive Camera Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/melodic-content-and-legalities-on-insta/"><u>Melodic Content and Legalities on Insta</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/personalize-your-channel-with-free-pics-in-2024/"><u>Personalize Your Channel With Free Pics, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-and-easy-qr-code-scanning-on-windows-pcs/"><u>Quick & Easy: QR Code Scanning on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/screen-stickers-top-8-notebook-apps-for-pc/"><u>Screen Stickers: Top 8 Notebook Apps for PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-7-decisions-your-roadmap-to-the-right-windows-device/"><u>Top 7 Decisions: Your Roadmap to the Right Windows Device</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-cutting-through-chaos-effective-techniques-to-silence-unwanted-sounds-in-audacity-and-filmorapro/"><u>Updated Cutting Through Chaos Effective Techniques to Silence Unwanted Sounds in Audacity and FilmoraPro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/xsplit-evaluation-direct-access-to-game-splits/"><u>XSplit Evaluation Direct Access to Game Splits</u></a></li>
 </ul></div>
 

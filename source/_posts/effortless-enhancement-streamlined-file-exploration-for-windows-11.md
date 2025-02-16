@@ -1,7 +1,7 @@
 ---
 title: "Effortless Enhancement: Streamlined File Exploration for Windows 11"
-date: 2024-08-16T01:22:03.693Z
-updated: 2024-08-17T01:22:03.693Z
+date: 2025-02-09T00:24:32.599Z
+updated: 2025-02-15T16:20:41.476Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 
  So, we'll share three ways you can enable the compact view in File Explorer on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Compact View in File Explorer Using the Command Bar
 
  The easiest way to enable or disable the compact view in File Explorer is to use the command bar. Here's what you need to do:
@@ -28,11 +32,12 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 2. Choose the **Compact view** option to enable it.  
 ![Compact view option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/comapct-view-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. You might need to restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Enable Compact View in File Explorer Using Folder Options
 
  If the compact view option is missing in the command bar, you can use Folder options to get the work done. There are [multiple ways to open the Folder option](https://www.makeuseof.com/windows-10-open-folder-options/), but the quickest is to use the Run dialog box.
@@ -46,28 +51,26 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
  and click **OK** to launch the Folder option.
 
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With that, you should have less space between your files in File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
@@ -82,23 +85,17 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 5. Search for and double-click on the **UseCompactMode** entry in the right pane.
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Change the File Explorer Look Anytime
 
  The new revamped File Explorer is good, but many users still prefer the old layout with less padding. If you want to remove extra spacing between items in File Explorer, you can enable the compact view option using either of the above methods.
 
  Meanwhile, you might be interested in adding Google Drive to File Explorer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,8 +104,22 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-photographic-journey-with-toolwiz-detailed-analysis-and-more/"><u>[Updated] 2024 Approved Photographic Journey with Toolwiz Detailed Analysis and More</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capture-and-create-first-edits-in-lunapic-photo-editor/"><u>[Updated] Capture & Create First Edits in LunaPic Photo Editor</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-perfect-method-for-saving-camera-images-on-snapchat/"><u>[Updated] In 2024, The Perfect Method for Saving Camera Images on Snapchat</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/windows-11c/"><u>簡單三法：在Windows 11系統中擴大C檔案的存取空間</u></a></li>
+<li><a href="https://common-error.techidaily.com/avoid-update-failure-decode-and-solve-error-code-0x800f0922-on-windows-11-with-these-steps/"><u>Avoid Update Failure: Decode and Solve Error Code 0X800F0922 on Windows 11 with These Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-audacity-audio-inconsistency-in-windows-1111/"><u>Correcting Audacity Audio Inconsistency in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-intrusive-credential-prompts-on-windows-11-local-account/"><u>Eliminating Intrusive Credential Prompts on Windows 11 Local Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jump-start-your-android-devices-double-clicking-apks-on-win-11/"><u>Jump-Start Your Android Devices: Double-Clicking APKs on Win 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/making-a-mark-creating-standout-slideshows-for-facebook-networks-for-2024/"><u>Making a Mark Creating Standout Slideshows for Facebook Networks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-excessive-load-by-dropbox-app-on-windows-computers/"><u>Mitigating Excessive Load by Dropbox App on Windows Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-video-on-apple-airpower-surfaces-is-there-a-comeback-for-the-infamous-qi-mat/"><u>New Video on Apple AirPower Surfaces - Is There a Comeback for the Infamous Qi Mat?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-package-access-issues-on-windows-1110-systems/"><u>Overcoming Package Access Issues on Windows 11/10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-top-9-reasons-why-a-pc-is-better-than-a-mac/"><u>Understanding Top 9 Reasons Why a PC Is Better than a Mac</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-moto-g-stylus-5g-2023-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Moto G Stylus 5G (2023) Device</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210964282-9781088208946-witchcraft-therapy/"><u>Witchcraft Therapy | Free Book</u></a></li>
+</ul></div>
 

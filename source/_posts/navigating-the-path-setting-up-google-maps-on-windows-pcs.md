@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Path: Setting up Google Maps on Windows PCs"
-date: 2024-08-16T01:21:45.455Z
-updated: 2024-08-17T01:21:45.455Z
+date: 2025-02-14T18:00:31.918Z
+updated: 2025-02-16T04:06:31.730Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,11 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
  You can now launch and use Google Maps like any desktop app on your system. It shows your timeline, recent and saved items, and contributions and supports location sharing.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Uninstall Google Maps Added via Edge
 ![uninstall google maps edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-maps-edge.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can uninstall Google Maps from the Settings app and the Start menu. However, when installed via Edge, you may not find the app in the classic Control Panel. To uninstall Google Maps:
@@ -51,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 2. Right-click on **Google Maps** and select **Uninstall**. Click **Yes** to confirm the action, and the app will be removed.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Run Google Maps as a Desktop App Using Google Chrome
 
  If you use Google Chrome as your daily driver, you can use the browser to add Maps as a shortcut. Chrome’s Create shortcut feature works similarly to Edge’s install app and lets you run web apps as a desktop on your Windows computer.
@@ -63,20 +62,23 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 2. Next, click the **three-dots menu** in the top right corner.
 3. Go to **More Tools** and select **Create Shortcut.**  
 ![creating a shortcut for google maps on google chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-chrome-create-shortcut-google-maps.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 4. In the Create shortcut dialog, select the **Open as window** option. This will open the created shortcut in a new window. You can rename the app if you want or leave it as default.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Create**.
 6. Once installed, the app will open a new window offering a similar set of functionalities as Google Maps’s web version.
 
  You can also pin the Maps app to the taskbar and Start menu. To do this, press the **Win** key to open Windows search and type **maps**. Right-click the **Google Maps** shortcut and select **Pin to Start** or Pin to **Taskbar**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Uninstall a Google Maps Shortcut Added via Chrome
 ![maps chrome uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/maps-chrome-uninstall.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  You can uninstall the Google Maps shortcut installed using Chrome from the classic Control Panel. Here’s how to do it.
 
@@ -88,8 +90,9 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
  While web apps work well, it misses out on a few features including the ability to download offline maps. If you prefer to run the app natively on Windows, consider [using an Android emulator](https://www.makeuseof.com/lightweight-emulators-android-games-pc/) or [installing Google Play Store on Windows](https://www.makeuseof.com/windows-11-install-google-play-store/) to install the app directly from the official store.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Navigate With Google Maps on Windows
 
  Installing web apps offers faster access without keeping your browser open all the time. However, it is not perfect. In this instance, the web version doesn’t support offline map downloads. So you’ll need to rely on your phone to navigate when offline.
@@ -98,8 +101,6 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
  So, how do you use Google Maps on a Windows PC? The web version works great, but you’ll need to keep your browser open for it to work. Alternatively, you can install the web version using the Chrome or Edge browser to use Google Maps as a desktop app. Here we show you how.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -107,5 +108,19 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-insider-advice-efficiently-amassing-stock-visuals-for-use/"><u>[New] Insider Advice Efficiently Amassing Stock Visuals for Use</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-twist-your-imagery-instagrams-video-rotation-guide/"><u>[Updated] 2024 Approved Twist Your Imagery Instagram's Video Rotation Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-outstanding-20-free-no-right-pubg-montages/"><u>[Updated] Outstanding 20 Free, No-Right PUBG Montages</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-pioneering-typography-online-a-curated-list-of-the-best-9-websites-for-innovative-texts-for-2024/"><u>[Updated] Pioneering Typography Online A Curated List of The Best 9 Websites for Innovative Texts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicate-the-zero-error-on-new-win11-systems/"><u>Eradicate the Zero Error on New Win11 Systems</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-constructing-captivating-conclusions/"><u>In 2024, Constructing Captivating Conclusions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-90-gt-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor 90 GT Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-difficulties-handling-winscomrsvdll-problems/"><u>Navigate Through Difficulties: Handling WinscomrsvDll Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-disconnected-spotify-pc-app/"><u>Quick Fix for Disconnected Spotify PC App</u></a></li>
+<li><a href="https://games-able.techidaily.com/take-on-novel-challenges-with-these-6-funky-chess-apps/"><u>Take on Novel Challenges with These 6 Funky Chess Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-top-virtualdub-replacements-for-video-editing-enthusiasts-and-pros/"><u>Updated The Top Virtualdub Replacements for Video Editing Enthusiasts and Pros</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ways-to-halt-the-start-of-edge-tabs-in-windows-11/"><u>Ways to Halt the Start of Edge Tabs in Windows 11</u></a></li>
+</ul></div>
 

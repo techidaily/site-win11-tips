@@ -1,7 +1,7 @@
 ---
 title: Setting Up Application Guard for Printers in Edge
-date: 2025-01-31T02:13:08.358Z
-updated: 2025-02-03T01:48:47.211Z
+date: 2025-02-10T02:05:16.833Z
+updated: 2025-02-15T16:25:59.253Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Enable Printing via Windows Settings
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 5. Scroll down to Isolated browsing, then click the**Change Applications Guard settings** link.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Under Application Guard settings, turn on the toggle for**Print files** .  
@@ -49,12 +49,16 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 7. If UAC prompts appear on the screen, click**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After following the above instructions, you must restart your computer to make the changes take effect. Now you can print files from isolated browsing in Edge.
 
  If you ever need to disable this feature, simply follow the same steps and toggle off Print files. This will disable printing in Application Guard for Edge on your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Enable Printing via Registry Editor
 
@@ -69,14 +73,10 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 5. Set Value data**1** and click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have completed the above steps, close the Registry window and restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Now the Application Guard for Edge Supports Printing
 
@@ -97,19 +97,17 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-audience-peak-hours-crafting-release-dates/"><u>[New] Audience Peak Hours Crafting Release Dates</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-delving-into-recmeisters-capabilities-for-quality-video-capture/"><u>[New] Delving Into Recmeister’s Capabilities for Quality Video Capture</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-top-strategies-to-maximize-win11-usage/"><u>[New] In 2024, Top Strategies to Maximize Win11 Usage</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-your-favorite-tunes-the-best-spotify-playlists-tools-for-youtube/"><u>[Updated] Transforming Your Favorite Tunes The Best Spotify Playlists Tools for YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-xps-error-0x80300024-issue/"><u>Addressing Windows XP's Error 0X80300024 Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/circuit-breakers-fixes-to-power-up-your-photoshop/"><u>Circuit Breakers: Fixes to Power Up Your PhotoShop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-sans-frais-mp3-a-fichier-wav-en-lignes-directs-avec-movavi/"><u>Conversion Sans Frais : MP3 À Fichier WAV En Lignes Directs Avec Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-memory-limitation-indicators-on-windowsvmware-systems/"><u>Correcting Memory Limitation Indicators on Windows/VMware Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-data-protection-top-7-win-apps-148-chars/"><u>Enhancing Data Protection: Top 7 Win Apps (148 Chars)</u></a></li>
-<li><a href="https://win-hot.techidaily.com/how-to-fix-a-blanket-graphics-failure-tips-and-solutions-from-yl-computing/"><u>How to Fix a Blanket Graphics Failure: Tips & Solutions From YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-new-age-of-computing-from-w10s-familiarity-to-w11s-novelty/"><u>The New Age of Computing: From W10's Familiarity to W11's Novelty</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y02t-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y02T? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/turning-live-radio-into-a-personal-archive-step-by-step-instructions-for-2024/"><u>Turning Live Radio Into a Personal Archive Step-by-Step Instructions for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/years-best-sale-612-for-eternal-windows-10-life/"><u>Year's Best Sale: $6.12 for Eternal Windows 10 Life</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-learn-to-optimize-your-watchlist-using-dual-screens-on-netflix/"><u>[New] In 2024, Learn to Optimize Your Watchlist Using Dual Screens on Netflix</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-peeking-into-apeaksofts-2023-screen-recording-features-for-2024/"><u>[Updated] Peeking Into Apeaksoft’s 2023 Screen Recording Features for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pro-iphones-capturing-perfect-silhouettes/"><u>[Updated] Pro iPhones Capturing Perfect Silhouettes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-free-after-effects-title-templates/"><u>Best Free After Effects Title Templates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rotate-the-windows-display-by-90-degrees-and-why-you-should/"><u>How to Rotate the Windows Display by 90 Degrees (and Why You Should)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-windows-11-task-manager-filter-wizard-and-aesthetic-tweaks-guide/"><u>Master the Windows 11 Task Manager: Filter Wizard & Aesthetic Tweaks Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726225357508-movavi/"><u>Movavi 리마이터: 안정적으로 최고의 동영상 변형 소프트웨어</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-your-hardware-space-w10-and-w11-insights/"><u>Navigating Your Hardware Space: W10 & W11 Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-timers-on-the-fly-fixing-scheduler-problems/"><u>Resolve Timers on the Fly: Fixing Scheduler Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-beginners-blueprint-for-windows-11-desktop-art/"><u>The Beginner's Blueprint for Windows 11 Desktop Art</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unveiling-the-mystery-of-slug-line-formats-for-2024/"><u>Unveiling the Mystery of Slug Line Formats for 2024</u></a></li>
 </ul></div>
 

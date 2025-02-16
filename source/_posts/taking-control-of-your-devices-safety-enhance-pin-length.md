@@ -1,7 +1,7 @@
 ---
 title: "Taking Control of Your Device's Safety: Enhance Pin Length"
-date: 2024-12-17T07:56:26.943Z
-updated: 2024-12-22T05:03:43.464Z
+date: 2025-02-10T20:39:51.517Z
+updated: 2025-02-15T19:55:32.805Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/6f40aa8bc84c668553ff55a3fe7a27d53d5fc34a3
 5. Type **PassportForWork** in the new key’s text box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Next, right-click on the **PassportForWork** key to select the **New** and **Key** options on Registry Editor’s context menu.
@@ -56,24 +56,28 @@ thumbnail: https://thmb.techidaily.com/6f40aa8bc84c668553ff55a3fe7a27d53d5fc34a3
 ![A MaximumPINLength DWORD text box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-text-box.jpg)
 5. Double-click **MaximumPINLength** to view the **Value box** for that DWORD.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click on the **Decimal** radio button.
 7. Enter a number higher than the one set for the **MinimumPINLength** DWORD and select **OK**.  
 ![The Edit DWORD window for the MaximumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window-for-maximum-pin-length.jpg)
 8. Finally, exit the Registry Editor window and restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you’ll see an “organization requires that you change your PIN message” when you try to sign in with the PIN usually entered. Click **OK** to view some options for setting a new PIN. Then input a longer identification number with the minimum number of characters required inside the **New** and **Confirm** PIN boxes.
 
 ![The change your PIN message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sign-in-message.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Extend the PIN Length With Group Policy Editor
 
@@ -86,22 +90,19 @@ thumbnail: https://thmb.techidaily.com/6f40aa8bc84c668553ff55a3fe7a27d53d5fc34a3
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Then input a higher value in the **Minimum PIN Length** box.  
 ![The Minimum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg)
 4. Select **Apply** and **OK** to set the new PIN length policy.
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Extend Your Windows PIN to Make It More Secure
 
@@ -111,29 +112,6 @@ thumbnail: https://thmb.techidaily.com/6f40aa8bc84c668553ff55a3fe7a27d53d5fc34a3
 
  So, it doesn’t seem users can set longer, more secure PINs for signing in to Windows. However, there are two ways to set a new minimum PIN length for the Hello PIN sign-in method. This is how you can extend the PIN length in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ultimate-visual-preservation-tool-chromebook/"><u>[Updated] 2024 Approved Ultimate Visual Preservation Tool Chromebook</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-cut-the-clutter-advanced-techniques-with-youtube-studio-editor-for-2024/"><u>[Updated] Cut the Clutter Advanced Techniques with YouTube Studio Editor for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-channel-name-wizardry-brainstorm-and-create/"><u>[Updated] In 2024, Channel Name Wizardry Brainstorm & Create</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ideo-innovator-for-2024/"><u>BiteVideo Innovator for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disarming-store-crash-microsofts-error-0x80073cf3/"><u>Disarming Store Crash: Microsoft's Error 0X80073CF3</u></a></li>
-<li><a href="https://facebook.techidaily.com/earning-potential-for-creators-metas-impact-on-reel-money-making/"><u>Earning Potential for Creators: Meta's Impact on Reel Money-Making</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-fixing-steams-file-permission-blunders-in-win11/"><u>Guidelines for Fixing Steam's File Permission Blunders in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-persistently-show-calculator-at-top-window/"><u>How to Persistently Show Calculator at Top Window</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-90-gt-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor 90 GT to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-smart-guide-to-procuring-premium-image-banners/"><u>In 2024, The Smart Guide to Procuring Premium Image Banners</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/missing-control-panel-features-in-win11-discover-hidden-options/"><u>Missing Control Panel Features in Win11: Discover Hidden Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-your-license-ends-alert-on-win11-systems/"><u>Navigating the Your License Ends Alert on Win11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-to-windows-recovery-environment-quickly/"><u>Navigating to Windows Recovery Environment Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-photoshop-hiccups-in-windows/"><u>Overcoming Photoshop Hiccups in Windows</u></a></li>
-<li><a href="https://win-hot.techidaily.com/overcoming-scanner-and-driver-connection-issues-with-tips-by-yl-software-experts/"><u>Overcoming Scanner and Driver Connection Issues with Tips by YL Software Experts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speedy-file-resolution-6-ultimate-remedies-to-powerpoint-errors/"><u>Speedy File Resolution: 6 Ultimate Remedies to PowerPoint Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-users-handbook-effective-usage-of-the-meta-quest-microphone/"><u>The User's Handbook: Effective Usage of the Meta Quest Microphone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-policy-complexity-gpresults-role-in-reporting/"><u>Unraveling Policy Complexity: GPResult's Role in Reporting</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/web-of-classics-best-backdrops-for-your-lap/"><u>Web of Classics Best Backdrops for Your Lap</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -141,3 +119,25 @@ thumbnail: https://thmb.techidaily.com/6f40aa8bc84c668553ff55a3fe7a27d53d5fc34a3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-guide-to-purchasing-asmr-microphones/"><u>[New] Ultimate Guide to Purchasing ASMR Microphones</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/66243857-updated-how-to-block-youtube-channels-on-computer-and-mobile-phones-for-2024/"><u>[Updated] How to Block Youtube Channels on Computer and Mobile Phones for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/chime-and-connect-ultra-affordable-beesound-wireless/"><u>Chime and Connect: Ultra-Affordable BeeSound Wireless</u></a></li>
+<li><a href="https://fox-access.techidaily.com/comprehensive-scrutiny-of-elite-parrot-ar-20-for-2024/"><u>Comprehensive Scrutiny of Elite Parrot AR 2.0 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/glide-3-duel-illusionist-4-emerges/"><u>Glide 3 Duel Illusionist 4 Emerges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-the-absence-of-windows-hello-scanner-error/"><u>Guiding Through the Absence of Windows Hello Scanner Error</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-divadmant-failure-dealing-with-error-code-6-on-modern-warfare-pc-edition/"><u>How to Fix Divadmant Failure - Dealing with Error Code 6 on Modern Warfare PC Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insight-into-win11s-network-provisioning-via-netstat-command-line/"><u>Insight Into Win11's Network Provisioning via Netstat Command-Line</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagine-desktop-management-crafting-personalized-snap-layouts/"><u>Reimagine Desktop Management: Crafting Personalized Snap Layouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-dysfunctional-windows-registry-entries/"><u>Restoring Dysfunctional Windows Registry Entries</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-why-isnt-my-laptop-mic-working-expert-tips-and-tricks/"><u>Solved: Why Isn't My Laptop Mic Working? – Expert Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-clear-printer-usage-messages/"><u>Steps to Clear Printer Usage Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-prevent-windows-11-from-listening-in/"><u>Steps to Prevent Windows 11 From Listening In</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stepwise-approach-to-adding-video-tracks-to-your-youtube-playlists-for-2024/"><u>Stepwise Approach to Adding Video Tracks to Your YouTube Playlists for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-tricks-to-boost-iphone-wi-fi-speed-and-stability/"><u>Top 8 Tricks to Boost iPhone Wi-Fi Speed & Stability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbo-drives-efficient-data-alignment-for-win11-users/"><u>Turbo Drives: Efficient Data Alignment for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-windows-msvcr110dll-gap/"><u>Understanding & Fixing Windows' Msvcr110.dll Gap</u></a></li>
+</ul></div>
+

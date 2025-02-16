@@ -1,7 +1,7 @@
 ---
 title: Addressing Non-Selectable Items on Microsoft's New OS
-date: 2024-08-16T01:15:26.406Z
-updated: 2024-08-17T01:15:26.406Z
+date: 2025-02-09T01:16:01.198Z
+updated: 2025-02-15T21:09:10.853Z
 tags:
   - windows10
   - windows11
@@ -27,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
  After your computer restarts, check to see if the issue has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check Your Mouse for Loose Connections or Dirt
 
  If restarting the computer didn’t work, then you should check your mouse. Make sure it is plugged in properly and that all the cables are securely connected.
@@ -36,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
  You can also try cleaning the components with compressed air or a damp cloth, as dust and debris can sometimes interfere. If that doesn't work, you may want to use a different mouse to see if the issue is with your hardware or not.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Restart Explorer.exe via the Task Manager
 
  If you are still unable to click on anything, it might be time to restart Explorer.exe. This process is straightforward and easy to follow; all you need to do is press**Ctrl + Shift + Esc** , and the Task Manager will open.
@@ -47,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
  Since your mouse is not working, you must now press**Shift + F10** in order to bring up the context menu. Select the**End task** option from the menu list and press**Enter** .
 
 ![End Explorer.exe from Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-explorer-exe-from-task-manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the confirmation window that appears, make sure the**End process** button is highlighted, and then press**Enter** to proceed.
@@ -56,8 +59,9 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
  Now that you have stopped the Windows Explorer executable file, you must restart it. At this point, your desktop will turn black and everything except the Task Manager window will vanish. Don't worry; this is totally normal.
 
 ![Restart explorer.exe](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-explorer-exe.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Task Manager window, click**Run new task** . If you still can't click on anything, navigate there using**Tab** instead.
@@ -66,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
  After restarting Explorer.exe, try clicking anywhere on your screen to see if the problem is fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## 4\. Perform a System Restore
 
  System Restore is a straightforward yet powerful solution that can help you out of any bind. If you are still having trouble clicking anything on your computer, you can [use System Restore on Windows](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) . This will reset all software settings on your machine to an earlier time which should fix underlying problems blocking clicks.
@@ -84,20 +85,18 @@ To use System Restore, follow these steps:
  Follow the instructions to complete the system restore process on your computer and check if it solves the clicking issue.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Resolving Your Mouse Clicking Issues on Windows 11
 
  There are times when your mouse may have glitches or other problems that may prevent it from clicking. This article will provide you with steps to fix this issue so that you can resume your work.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -106,8 +105,16 @@ To use System Restore, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-grasping-your-youtube-popularity-with-precision/"><u>[Updated] 2024 Approved Grasping Your YouTube Popularity with Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-cpu-and-gpu-for-smooth-online-engagement/"><u>Balancing CPU and GPU for Smooth Online Engagement</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/experience-gptclone-at-home-for-free-on-windows/"><u>Experience GPTClone at Home for FREE on Windows!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-11-keyboard-delay-issues-resolved-techniques/"><u>Fix Windows 11 Keyboard Delay Issues - Resolved Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-itel-s23plus-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Itel S23+</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-vivo-y78plus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo Y78+ – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-detection-hurdles-for-controllers-on-steam/"><u>Overcoming Detection Hurdles for Controllers on Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-synapse-functionality-with-razer-devices-on-windows/"><u>Restoring Synapse Functionality with Razer Devices on Windows</u></a></li>
+</ul></div>
 

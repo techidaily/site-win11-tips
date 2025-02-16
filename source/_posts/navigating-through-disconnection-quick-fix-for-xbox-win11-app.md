@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Disconnection: Quick Fix for Xbox Win11 App"
-date: 2024-12-19T18:30:22.700Z
-updated: 2024-12-21T23:48:49.290Z
+date: 2025-02-09T23:38:16.262Z
+updated: 2025-02-15T17:37:26.486Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![The Xbox server status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/xbox-server-status.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Utilize the Windows Store Apps Troubleshooter
 
  The Windows Store Apps troubleshooter could be a useful tool for fixing the “Looks like you’re stranded” error. This is how you can utilize the Windows Store App troubleshooter:
@@ -45,22 +49,22 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 5. Then apply potential resolutions proposed within the troubleshooter.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
 
  The same troubleshooter is available in Windows 10, but that platform’s Settings app has a slightly different layout. You can access it in Windows 10’s Settings app by selecting **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**. Then click on Windows Store Apps to access a **Run the troubleshooter** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Reinstall Your Xbox App
 
  Finally, reinstall your Xbox app if nothing else works for fixing the “Looks like you’re stranded” error. You can do that by removing Xbox with the Settings method in our [guide to uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). Then open the [Xbox Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) and click **Get in Store app** \> **Open Microsoft Store**. Select **Get** within the Microsoft Store window to reinstall the latest Xbox app on your PC.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-option-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Try Some Generic Windows App Fixes
 
@@ -72,23 +76,11 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![The Update all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-update-all-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Select the Xbox App’s Reset Option
 
  Resetting the Xbox app is a confirmed fix for the “Looks like you’re stranded” error. Doing so will clear away any corrupted or old app data that could be causing the error. It’s easy to clear the Xbox app’s data with the **Reset** option in Settings. You can apply this potential resolution by following the instructions in our article about [resetting Microsoft Store apps](https://www.makeuseof.com/windows-reset-app/).
 
 ![The Reset button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-button-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Change Your DNS Server to Google's Public DNS
 
@@ -98,34 +90,19 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dns-server-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get the Xbox App Working Again
 
  The Xbox Windows app is undoubtedly important for players who install games with that app and utilize its features. Applying the potential fixes above for the “Looks like you’re stranded” error will probably get the Xbox Windows app working for most players. Then you can access your games and utilize all the features in your Xbox app again.
 
  Users can’t utilize the Windows Xbox app when this error keeps reoccurring. Does the same thing happen when you try to utilize the Xbox app on Windows? If it does, this is how you can fix the Xbox app’s “Looks like you’re stranded” error in Windows 10 and 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-skyline-spectacular-the-gopro-karma-edition/"><u>[New] 2024 Approved Skyline Spectacular The GoPro Karma Edition</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-critical-game-analysis-from-top-creators-for-2024/"><u>[Updated] Critical Game Analysis From Top Creators for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clear-cut-cinematic-9-ways-to-ensure-smooth-videos-on-windows-os/"><u>Clear Cut Cinematic: 9 Ways to Ensure Smooth Videos on Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-not-enough-memory-or-cpu-errors-in-service-requests/"><u>Effective Solutions for 'Not Enough Memory or CPU' Errors in Service Requests</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-access-your-hidden-imessages-unblocking-ios-15-and-above/"><u>How to Access Your Hidden iMessages: Unblocking iOS 15 and Above</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-12-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi 12 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlocking-facebook-blue-verification-a-step-by-step-guide/"><u>In 2024, Unlocking Facebook Blue Verification A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-map-integration-microsoft-meets-google/"><u>Master the Art of Map Integration: Microsoft Meets Google</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-bring-back-missing-windows-patch-service/"><u>Methods to Bring Back Missing Windows Patch Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-domain-services-printing-issues-in-windows-oses/"><u>Navigating Through Domain Services Printing Issues in Windows OSes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quarters/"><u>Quarters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-establishing-smooth-files-transfer-on-win11-systems-2/"><u>Re-Establishing Smooth Files Transfer on WIN11 Systems (2)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamping-the-default-menu-with-advanced-move-and-copy-options/"><u>Revamping the Default Menu with Advanced Move and Copy Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-sail-away-from-marooned-xbox-issue-on-windows-11/"><u>Setting Sail Away From Marooned Xbox Issue on Windows 11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/swiftswirl-momentmirror-recording/"><u>SwiftSwirl MomentMirror Recording</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-blueprint-for-snaps-via-powertoys/"><u>The Ultimate Blueprint for Snaps via PowerToys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-1011-zoom-quality-addressing-code-1132-concerns/"><u>Win 10/11 Zoom Quality: Addressing Code 1132 Concerns</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-usb-port-compatibility-problems-solutions-for-common-troubles/"><u>Windows 11 USB Port Compatibility Problems: Solutions for Common Troubles</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -134,3 +111,20 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-getting-started-with-azures-speech-to-text-feature/"><u>[New] Getting Started with Azure's Speech-to-Text Feature</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-collective-wisdom-on-easeus-products/"><u>[Updated] 2024 Approved Collective Wisdom on EaseUS Products</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/convert-your-photos-or-graphics-to-pdf-for-free-using-our-user-friendly-online-tool/"><u>Convert Your Photos or Graphics to PDF for Free Using Our User-Friendly Online Tool!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-digital-tidying-enabling-self-deleting-windows-trash/"><u>Effortless Digital Tidying: Enabling Self-Deleting Windows Trash</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-hp-deskjet-3700-printer-software-and-firmware-downloads/"><u>Get the Newest HP Deskjet 3700 Printer Software & Firmware Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/honored-hubs-best-websites-to-download-snapalert-beats-for-2024/"><u>Honored Hubs Best Websites to Download SnapAlert Beats for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-formula-tracking-in-microsoft-excel-a-guide-to-utilizing-the-watch-window/"><u>Mastering Formula Tracking in Microsoft Excel: A Guide to Utilizing the Watch Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-task-manager-visibility/"><u>Maximizing Task Manager Visibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-gameshells-rekindled-with-atlasos/"><u>Old Gameshells Rekindled with AtlasOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/real-web-application-added-to-apples-mapping-service/"><u>Real Web Application Added to Apple's Mapping Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-unable-to-open-sharing-problems-with-geforce/"><u>Rectifying Unable to Open Sharing Problems with GeForce</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-the-unexpected-token-call-on-win10-devices/"><u>Solutions for the “Unexpected Token Call” On Win10 Devices</u></a></li>
+</ul></div>
+

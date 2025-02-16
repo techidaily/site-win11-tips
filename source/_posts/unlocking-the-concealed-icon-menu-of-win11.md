@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Concealed Icon Menu of Win11
-date: 2024-12-19T21:40:52.970Z
-updated: 2024-12-22T03:11:31.191Z
+date: 2025-02-09T04:22:30.938Z
+updated: 2025-02-15T19:28:36.392Z
 tags:
   - windows10
   - windows11
@@ -25,29 +25,29 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Show or Hide System Tray Icons on Windows 11
 
  To show more icons in the system tray, you need to access the Taskbar's settings by pressing **Win + I**, selecting **Personalization** on the left side menu, and then clicking **Taskbar** in the right panel.
 
 ![Go to Taskbar Settings in the Personalization Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-go-to-taskbar-settings-in-the-personalization-tab-of-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Taskbar settings, scroll down and expand the **Other system tray icons** section. Find the icon you want to show (its toggle will be set to **Off** if it isn’t in the system tray) and click on the toggle on its right to set it to the **On** position.
 
 ![you can turn system tray icons on and off in the Taskbar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-tray-icons-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to remove the system tray icon, simply set the toggle to **Off**.
 
  Another way to remove icons from the system tray is to place them in the hidden icons menu. This is the menu that appears when you click the **up caret** icon in the system tray. When the menu is opened, the icon becomes a **down caret**.
 
 ![the hidden icons menu on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hidden-icons-menu-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To remove an icon from the system tray and place it into the hidden icons menu, click and drag it into the **up caret**. And when you expand the hidden icons menu, you will see that the icon is inside.
 
@@ -59,17 +59,21 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 
  As mentioned earlier, the hidden icon menu is what appears when you click the **up caret** in the system tray. You can also hide and show this menu as you please.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Using the Settings App
 
  If you can't see the hidden icon menu, you can show it from the Taskbar settings as well. To get there, right-click an empty part of the Taskbar and select **Taskbar settings**.
 
 ![opening Taskbar settings by right clicking an empty part of the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/opening-taskbar-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Scroll down until you reach the **Other system tray icons** section and expand it. To reveal the hidden icon menu, set the toggle next to the **Hidden menu icon** option to **On**. To hide it, set the toggle to **Off**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using the Registry Editor
 
@@ -88,16 +92,12 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Cur
 ![the SystemTrayChevronVisibility value in the Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/systemtraychevronvisibility-value-regedit-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To show the hidden icon menu, set the **Value data** text box to **1** and click **OK**.
 
 ![setting the SystemTrayChevronVisibility value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/systemtraychevronvisibility-value-data.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  And to hide the hidden icon menu set the **Value data** text box to **0** and click **OK**.
 
@@ -109,26 +109,6 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Cur
 
  If that happens, you can remove a couple of app icons, as well as the hidden icons menu, to make it less cluttered. And if you can’t find the app icons you need or the hidden icons menu is missing, you can add those too.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-zoom-camera-not-working-2024-guide/"><u>[Fixed] Zoom Camera Not Working 2024 Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-vector-editing-revolution-post-acid-pro-era/"><u>[New] 2024 Approved Vector Editing Revolution Post-ACID Pro Era</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-conveniently-record-your-favorite-streams-top-5-grabber-apps-for-2024/"><u>[New] Conveniently Record Your Favorite Streams Top 5 Grabber Apps for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-10-ways-to-optimize-instagram-highlights-for-your-business/"><u>[Updated] 10 Ways to Optimize Instagram Highlights for Your Business</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-rhythmic-reinvention-the-art-of-voice-in-free-fire/"><u>2024 Approved Rhythmic Reinvention The Art of Voice in Free Fire</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/become-a-reddit-star-detailed-steps-for-share-success/"><u>Become a Reddit Star Detailed Steps for Share Success</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clear-out-windows-a-guide-to-auto-delete-files-and-folders/"><u>Clear Out Windows: A Guide to Auto-Delete Files and Folders</u></a></li>
-<li><a href="https://extra-information.techidaily.com/clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections-for-2024/"><u>Clear the Chaos Edit & Cull Your Bulky TikTok Collections for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-windows-users-fixing-asana-errors/"><u>Essential Tips for Windows Users - Fixing Asana Errors</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-drive-letters-in-windows-causes-and-resolutions/"><u>No Drive Letters in Windows: Causes & Resolutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/optimizing-your-connectivity-inside-look-at-asus-ax6600-mesh-wi-fis-capabilities-and-efficiency/"><u>Optimizing Your Connectivity: Inside Look at Asus AX6600 Mesh Wi-Fi's Capabilities & Efficiency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfecting-multi-modal-captures-how-to-use-snipping-tools-audio-feature-max-156/"><u>Perfecting Multi-Modal Captures: How to Use Snipping Tool's Audio Feature (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solve-self-shutdown-issues-win11-techniques/"><u>Solve Self-Shutdown Issues: Win11 Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-mastering-bluescreenview/"><u>Step-by-Step Guide to Mastering BlueScreenView</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-volume-mixer-a-step-by-step-guide/"><u>Windows 11 Volume Mixer: A Step-by-Step Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -136,3 +116,25 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Cur
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://data-safeguard.techidaily.com/breaking-the-loop-effective-techniques-for-your-iphone-data-recovery-hangup/"><u>Breaking the Loop: Effective Techniques for Your iPhone Data Recovery Hangup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/coordinating-devices-in-power-save-windows-states/"><u>Coordinating Devices in Power-Save Windows States</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-yellowed-displays-via-windows-settings/"><u>Correcting Yellowed Displays via Windows Settings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-poco-m6-pro-4g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Poco M6 Pro 4G to Roku | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-from-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp/"><u>In 2024, From Songs to Symphony Building a Cohesive YouTube Playlist on Web/App</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-x100-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo X100 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-honor-x9b-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Honor X9b to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-backup-essentials-secure-your-memories-on-icloud-and-mac-insights/"><u>IPhone Backup Essentials: Secure Your Memories on iCloud and Mac | Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-triple-widget-grid-layout-in-windows-11/"><u>Mastering the Triple Widget Grid Layout in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-printer-error-messages-on-windows/"><u>Navigating Through Printer Error Messages on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-fatal-roblox-error-messages/"><u>Overcoming Fatal Roblox Error Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-windows-11-shortcut-issues-for-f-keys/"><u>Resolve: Windows 11 Shortcut Issues for F Keys</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-reclaims-lead-in-global-smartphone-shipments-outpacing-apple-rising-competitor-poses-a-challenge/"><u>Samsung Reclaims Lead in Global Smartphone Shipments, Outpacing Apple; Rising Competitor Poses a Challenge</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/thrifty-tips-for-hosting-webinars-on-youtube-for-2024/"><u>Thrifty Tips for Hosting Webinars on YouTube for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triggering-windows-11-dialer/"><u>Triggering Windows 11 Dialer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-wild-ride-the-hottest-tweets-unveiled-for-2024/"><u>Twitter's Wild Ride The Hottest Tweets Unveiled for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-invalid-name-error-a-step-by-step-guide/"><u>Win11's 'Invalid Name Error': A Step-by-Step Guide</u></a></li>
+</ul></div>
+

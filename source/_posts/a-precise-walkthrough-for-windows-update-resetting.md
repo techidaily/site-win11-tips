@@ -1,7 +1,7 @@
 ---
 title: A Precise Walkthrough for Windows Update Resetting
-date: 2024-08-16T01:16:15.368Z
-updated: 2024-08-17T01:16:15.368Z
+date: 2025-02-08T17:48:18.974Z
+updated: 2025-02-15T17:50:17.087Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
  This guide will provide a detailed walkthrough for both methods, allowing you to effectively reset the Windows Update components.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Reset the Windows Update Components Manually
 
  The most common method for resetting Windows Update components is through the Command Prompt. Here are the steps you can follow.
@@ -33,6 +37,11 @@ net stop appidsvc
 net stop cryptsvc`  
 ![Reset Windows Update Components Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-windows-update-components-using-command-prompt.jpg)
 4. Run the following command to delete the **qmgr\*.dat** files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Del "%ALLUSERSPROFILE%\Application Data\Microsoft\Network\Downloader\*.*"`
 5. Enter **Y** to confirm.
 
@@ -91,9 +100,6 @@ net start cryptsvc`
 
  Close the Command Prompt window and restart your PC to apply the changes. If you're interested in discovering more useful commands, check our guide on the [best Command Prompt commands](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/) for Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Reset the Windows Update Components Using a Batch File
 
  Another way to reset Windows Update components is to [create and run a batch file in Windows](https://www.makeuseof.com/tag/write-simple-batch-bat-file/). Here are the steps to make one:
@@ -156,30 +162,32 @@ net start appidsvc
 net start cryptsvc`
 4. Click the **File** menu at the top, then **Save as**.  
 ![Save a Notepad File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/save-a-notepad-file.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 5. Enter **Reset Windows Components.bat** in the name field and specify your preferred location for saving the file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **Save as type** drop-down menu to select **All files**, then click on **Save**.
 7. Locate the saved batch file on your PC. Right-click on it and select **Run as administrator** from the context menu.
 8. Select **Yes** when the User Account Control (UAC) prompt appears.  
 ![Reset Windows Update Components Using a Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-windows-update-components-using-a-batch-file.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you've executed the batch file, feel free to keep it around. That way, the next time you encounter problems with Windows Update, you can run the file again without having to repeat the above steps.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Reset the Windows Update Components to Fix Problems
 
  Downloading and installing Windows updates may not always be smooth. In such cases, resetting the Windows Update components can prove effective. However, if that doesn't work, you may have to try your luck with other Windows Update fixes.
 
  This guide will provide a detailed walkthrough for both methods, allowing you to effectively reset the Windows Update components.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -188,5 +196,19 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-how-user-generated-feedback-influences-video-ranks-for-2024/"><u>[Updated] How User-Generated Feedback Influences Video Ranks for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-culinary-challenges-and-triumphs-top-15-foodie-journeys-on-tiktok/"><u>2024 Approved Culinary Challenges & Triumphs Top 15 Foodie Journeys on TikTok</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-windows-11s-fast-assist-procedure/"><u>Activating Windows 11’S Fast Assist Procedure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-uninstallation-block-in-win-11-edition/"><u>Addressing Uninstallation Block in Win 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-resource-allocation-for-ntoskrnlexe/"><u>Balancing Resource Allocation for Ntoskrnl.exe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bargain-hunters-rejoice-key-lovers-snag-best-prices-for-lifetime-windows-11/"><u>Bargain Hunters Rejoice: Key Lovers Snag Best Prices for Lifetime Windows 11!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-chatgpt-is-making-an-impact-uncovering-its-7-most-significant-uses-today/"><u>How ChatGPT Is Making an Impact: Uncovering Its 7 Most Significant Uses Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-guard-against-lost-gpt-conversations/"><u>How to Guard Against Lost GPT Conversations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-v29e-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo V29e Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-ai-companion-gpt-for-enhanced-productivity/"><u>Introducing AI Companion, GPT for Enhanced Productivity</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-start-guide-downloading-and-installing-amd-drivers-on-auto-mode/"><u>Quick-Start Guide: Downloading and Installing AMD Drivers on Auto Mode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/redmi-k70e-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Redmi K70E support - Turn Off Screen Lock.</u></a></li>
+</ul></div>
 

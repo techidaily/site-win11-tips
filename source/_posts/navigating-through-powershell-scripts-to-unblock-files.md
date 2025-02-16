@@ -1,7 +1,7 @@
 ---
 title: Navigating Through PowerShell Scripts to Unblock Files
-date: 2024-12-15T23:01:26.871Z
-updated: 2024-12-22T01:15:10.505Z
+date: 2025-02-10T16:55:09.331Z
+updated: 2025-02-16T03:30:49.619Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Unblock Multiple Files Using PowerShell on Windows?
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
  You can easily unblock a file by right-clicking on it and going to**Properties** — If you're on Windows 11, you'll need to click**Show more options** first before you can see the**Properties** option in the context menu. And once you're there, select the**General** tab and tick**Unblock** at the bottom in the**Security** section.
 
 ![unblocking a file in Properties on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unblock-file-properties-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But what if you have more than one file you need to unblock? Doing this one by one can get tedious. Alternatively, you can execute a single PowerShell command to unblock multiple files in a directory. Here is the command structure you need to use:
 
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 ![copying file path on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-as-path-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the file path handy, follow the instructions below to use the unblock command in PowerShell:
@@ -53,20 +57,16 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 ![entering the unblock file command in PowerShell on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-shell-unblock-files-command.jpg)
 4. You will be asked to confirm each file you want to unblock, so type either**Y** for**Yes** or**N** for**No** and hit the**Enter** key. This confirmation step is due to the**\-confirm** portion of the command. It is completely optional, and you can omit it or type**A** to confirm all the files in the directory.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![confirming files to unblock in PowerShell on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-shell-unblock-files-confirm.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There’s a way you can tell Windows to always trust files you download from the internet. To do that, please read our guide on[how to stop Windows 10 from blocking your downloaded files](https://www.makeuseof.com/stop-windows-10-from-blocking-your-downloaded-files/) . The instructions in the tutorial use the Registry Editor and Local Group Policy Editor, so they should also work on Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know How to Unblock Files You Know Are Safe
@@ -88,21 +88,24 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-learn-how-to-rewind-video-ordering-on-android-for-2024/"><u>[New] Learn How to Rewind Video Ordering on Android for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-propel-innovative-expression-ultimate-guide-to-best-android-drawing-tools/"><u>[Updated] Propel Innovative Expression Ultimate Guide to Best Android Drawing Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-vm-setups-perfect-with-windows-11-laptopsdesktops/"><u>Essential VM Setups Perfect with Windows 11 Laptops/Desktops</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/how-to-avoid-common-mistakes-in-nighttime-photography/"><u>How to Avoid Common Mistakes in Nighttime Photography</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fetch-the-latest-version-of-logitech-g910-drivers-for-a-windows-computer/"><u>How to Fetch the Latest Version of Logitech G910 Drivers for a Windows Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-microsoft-teams-crashing-on-windows-11-and-10/"><u>How to Fix Microsoft Teams Crashing on Windows 11 and 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-win11-taskbar-sizes-and-placement/"><u>Mastering Win11 Taskbar Sizes and Placement</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-choosing-the-best-video-editor-sony-vegas-vs-adobe-premiere-pro-2023-analysis/"><u>New Choosing the Best Video Editor Sony Vegas vs Adobe Premiere Pro 2023 Analysis</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/premier-nintendo-switch-brawlers-list-max-156/"><u>Premier Nintendo Switch Brawlers List (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalizing-windows-11-through-individual-touches-and-tweaks/"><u>Revitalizing Windows 11 Through Individual Touches and Tweaks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sharpening-performance-reducing-ums-load-from-vanguard-on-windows-pcs/"><u>Sharpening Performance: Reducing UMS Load From Vanguard on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/track-down-pc-habit-of-storing-window-backgrounds/"><u>Track Down PC’ Habit of Storing Window Backgrounds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-resident-evil-village-pc-lag-issues-step-by-step-solution/"><u>Troubleshooting and Solving Resident Evil Village PC Lag Issues - Step by Step Solution</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-kensun-portable-air-compressor-durability-and-mobility-tested/"><u>Ultimate Guide to Kensun Portable Air Compressor: Durability and Mobility Tested</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unexpected-invaders-attack-pc-a-gamers-battle-against-fire-ant-infestation-eating-thermal-pads/"><u>Unexpected Invaders Attack PC: A Gamer's Battle Against Fire Ant Infestation Eating Thermal Pads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unified-windows-11-taskbar-without-groups/"><u>Unified Windows 11 Taskbar without Groups</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-amazonprimes-winning-tweets-of-the-year-2023/"><u>[New] 2024 Approved AmazonPrime's Winning Tweets of the Year 2023</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-navigating-the-world-of-apex-legends-on-a-personal-platform-quest/"><u>[Updated] 2024 Approved Navigating the World of Apex Legends on a Personal Platform Quest</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-expert-psd-text-framing-for-2024/"><u>[Updated] Expert PSD Text Framing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-live-action-to-youtube-recording-your-device-display/"><u>[Updated] In 2024, From Live Action to YouTube Recording Your Device Display</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-babbage-alternative-lenses-for-intelligence-evaluation/"><u>Beyond Babbage: Alternative Lenses for Intelligence Evaluation</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-iphone-troubleshooting-suite-your-ultimate-ios-fixer/"><u>Comprehensive iPhone Troubleshooting Suite: Your Ultimate iOS Fixer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-magic-6-by-drfone-android/"><u>Full Guide to Unlock Your Honor Magic 6</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-high-cpu-usage-from-vanguard-user-mode-service-on-windows/"><u>How to Fix High CPU Usage From Vanguard User-Mode Service on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-causes-and-solutions-for-a-non-responsive-discord-overlay/"><u>Identifying Causes and Solutions for a Non-Responsive Discord Overlay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-low-resource-browsers-for-windows-macos-chromeos-users/"><u>Identifying Low Resource Browsers for Windows, macOS, ChromeOS Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-celebrating-the-greats-anime-opens-of-all-time/"><u>In 2024, Celebrating the Greats Anime Opens of All Time</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-error-x-solutions-for-windows-mail-mistakes/"><u>Mastering Error X: Solutions for Windows Mail Mistakes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-steam-installation-hurdles-in-windows-11/"><u>Overcoming Steam Installation Hurdles in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedies-to-resolve-screen-size-settings-issues-on-pcs/"><u>Remedies to Resolve Screen Size Settings Issues on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-permanent-delete-on-windows-pcs-with-the-power-of-your-desktop-bin-11/"><u>Streamlining Permanent Delete on Windows PCs with the Power of Your Desktop Bin (11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-intersection-of-ai-and-windows-11-user-experience/"><u>The Intersection of AI and Windows 11 User Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-after-windows-update-installation/"><u>Troubleshooting After Windows Update Installation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/video-growth-booster-top-seo-tools-uncovered-for-2024/"><u>Video Growth Booster – Top SEO Tools Uncovered for 2024</u></a></li>
 </ul></div>
 

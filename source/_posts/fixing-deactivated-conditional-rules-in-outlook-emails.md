@@ -1,7 +1,7 @@
 ---
 title: Fixing Deactivated Conditional Rules in Outlook Emails
-date: 2025-01-30T21:16:10.256Z
-updated: 2025-02-03T02:39:35.789Z
+date: 2025-02-10T19:54:17.079Z
+updated: 2025-02-15T20:28:19.607Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Make Sure Outlook Rules Are Enabled
 
  To start, you need to ensure that you haven't inadvertently disabled any Outlook rules. To do so, use these steps:
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 2. In the **Info** tab, click the **Manage Rules & Alerts** button.
 3. Under the **Email Rules** tab, make sure the boxes next to your rules are checked.  
 ![Enable Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-outlook-rules.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Rename Outlook Rules
 
@@ -56,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 6. Click **Apply** to save the changes.  
 ![Rename Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-outlook-rule.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Delete Unwanted Outlook Rules
 
  Apart from renaming rules, you can also consider deleting rules that you no longer need to prevent conflicts or unexpected behavior. Here’s how.
@@ -69,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 3. Click the **Delete** option at the top.
 4. Select **Yes** when prompted.  
 ![Delete a Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-a-outlook-rule.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reset the Outlook SRS File
 
@@ -80,11 +72,11 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 4. Press **F2** on your keyboard and [rename the file](https://www.makeuseof.com/windows-11-rename-files/) to **Outlook.srs.old**.  
 ![Rename Outlook SRS File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-outlook-srs-file.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Outlook after completing the above steps and check if your rules work as expected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Disable the Stop Processing More Rules Option
 
@@ -96,7 +88,15 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 ![Edit Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-outlook-rule.jpg)
 4. Clear the **stop processing more rules** checkbox.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Finish** and then **Apply**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Configure Outlook Rules to Run on All Devices
 
@@ -107,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 3. Under **Select conditions**, uncheck the **on this computer only** box.
 4. Hit **Finish** followed by **Apply**.  
 ![Configure Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/configure-outlook-rule.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Activate Cached Exchange Mode
 
@@ -126,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 6. Hit **Apply** followed by **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Run the Outlook Inbox Repair Tool
@@ -142,10 +138,14 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 5. Select the profile you want to repair and then click **Start**.  
 ![Outlook Inbox Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/outlook-inbox-repair-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart Outlook after this and check if the issue is still there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Update the Outlook App
@@ -185,20 +185,18 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-webcam-ingenuity-for-productivity-boost/"><u>[New] 2024 Approved Webcam Ingenuity for Productivity Boost</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-complete-assessment-gecatas-real-time-logger/"><u>[New] In 2024, Complete Assessment Gecata's Real-Time Logger</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-iphones-ultimate-live-photography-potential/"><u>2024 Approved Unlocking iPhone's Ultimate Live Photography Potential</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjust-windows-notifications-for-essential-only/"><u>Adjust Windows Notifications for Essential Only</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-file-extractions-with-win11-sefx-magic/"><u>Elevating File Extractions with Win11 SEFx Magic</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-xiaomi-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Xiaomi Devices</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-c32-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-from-live-to-recorded-using-obs-for-games/"><u>In 2024, From Live to Recorded Using OBS for Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/interacting-with-network-drives-from-smartphones/"><u>Interacting with Network Drives From Smartphones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-missing-qt-plugin-during-software-application-initiation/"><u>Overcoming Missing Qt Plugin During Software Application Initiation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-system-image-creation-on-windows/"><u>Simplified System Image Creation on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-system-editor-access-control-on-windows-11/"><u>Techniques for System Editor Access Control on Windows 11</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-free-versioned-backup-app-il-migliore-per-la-tua-sicurezza-dei-dati/"><u>Top Free Versioned Backup App: Il Migliore per La Tua Sicurezza Dei Dati</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-manual-timezone-setting-in-microsoft-os/"><u>Troubleshoot Manual Timezone Setting in Microsoft OS</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-honor-x50-gt-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Honor X50 GT IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-exclusive-7-secure-download-services-for-2024/"><u>[Updated] Exclusive 7 Secure Download Services for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-insiders-guide-to-finesse-and-control-on-insta-stories/"><u>2024 Approved The Insider's Guide to Finesse and Control on Insta Stories</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/s-of-perspective-youtubes-path-to-dynamic-video-editing-for-2024/"><u>Angles of Perspective YouTube's Path to Dynamic Video Editing for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-openal32dll-absence-a-comprehensive-fix-guide/"><u>Diagnosing OpenAL32.DLL Absence: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-hot-30-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Infinix Hot 30 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-display-not-turning-on-when-booting-up-windows/"><u>How to Fix a Display Not Turning On When Booting Up Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-browsers-pasting-feature-across-pcs/"><u>Improving Browsers' Pasting Feature Across PCs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-comprehensive-manual-on-motion-detection-systems/"><u>In 2024, A Comprehensive Manual on Motion Detection Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/incorporating-omnipotent-options-in-windows-11/"><u>Incorporating Omnipotent Options in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-cursor-lighting-with-windows-11-tips/"><u>Optimize Your Cursor Lighting with Windows 11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-directive-not-empty-hurdle-insights-to-eradicate-error-0x80070091/"><u>Overcoming the Directive Not Empty Hurdle: Insights to Eradicate Error 0X80070091</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unleash-your-potential-with-instagram-tv-upload/"><u>Unleash Your Potential with Instagram TV Upload</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows License Expiry Warning in Windows 10/11
-date: 2025-01-28T22:58:34.255Z
-updated: 2025-02-02T21:09:10.834Z
+date: 2025-02-12T16:12:13.042Z
+updated: 2025-02-16T00:22:21.507Z
 tags:
   - windows10
   - windows11
@@ -56,11 +56,11 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 3. Click the **Troubleshooter** button.  
 ![Running the Windows Activation Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/running-the-windows-activation-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the troubleshooter to do its thing, and then check if it resolves the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Find Your Product Key and Activate Windows
 
@@ -72,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 ![ShowKeyPlus App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/showkeyplus-app-on-windows.jpg)
 4. Press **Win + I** to open the Settings app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. In the **System** tab, click on **Activation**.
 6. Click the **Change** button next to **Change product key**.
 7. Enter the **OEM key** noted earlier and click **Next**.
@@ -83,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 ![Update Product Key on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-product-key-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Activate Windows Using Command Prompt
@@ -96,7 +92,15 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 4. Type **slmgr /ato** in the console and press Enter.  
 ![Activate Windows via Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/activate-windows-via-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for Command Prompt to validate your product key. You will see a message confirming the outcome of the activation process, whether it was successful or not. If the activation is successful, you should not see the “Your Windows license will expire soon” error after this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Rebuild the Tokens.dat File
 
@@ -124,14 +128,10 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
 3. Restart your PC after running the command.  
 ![Reset the Activation Timer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-the-activation-timer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It's worth noting that you can only utilize the above command a few times. Eventually, you will have to obtain a genuine Windows license to eliminate the error message permanently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the “Your Windows License Will Expire Soon” Error on Windows
@@ -152,22 +152,18 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-seamless-web-converters-turning-your-gif-into-professional-video-for-2024/"><u>[New] Seamless Web Converters Turning Your GIF Into Professional Video for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-boost-viewers-interaction-via-youtube-cards/"><u>[Updated] 2024 Approved Boost Viewers Interaction via YouTube Cards</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-guide-9-premier-video-translators-for-accurate-global-communication/"><u>[Updated] 2024 Approved Ultimate Guide 9 Premier Video Translators for Accurate Global Communication</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-tutorial-tracking-down-your-youtube-comments/"><u>[Updated] In 2024, Tutorial Tracking Down Your YouTube Comments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-reasons-to-use-the-new-outlook-app-on-windows/"><u>9 Reasons to Use the New Outlook App on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/acer-w510w530w740-touchpad-driver-download-for-windows-11-compatible-drivers/"><u>Acer W510/W530/W740 Touchpad Driver Download for Windows 11 – Compatible Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaching-windows-login-restrictions-a-quick-guide/"><u>Breaching Windows Login Restrictions: A Quick Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ethereal-time-extended-recording/"><u>Ethereal Time-Extended Recording</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-improving-win11-point-accuracy-and-size/"><u>Guide to Improving Win11' Point Accuracy & Size</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-lost-ark-errors-and-reconnect-successfully/"><u>How to Overcome Lost Ark Errors and Reconnect Successfully</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-itel-a60s-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Itel A60s by Name | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/insight-into-windows-aggregatorhostexe-functionalities-and-security/"><u>Insight Into Windows' AggregatorHost.exe: Functionalities and Security</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x00000001-barrier-in-game-access/"><u>Overcoming the 0X00000001 Barrier in Game Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamping-gpos-a-step-by-step-guide-for-windows-users/"><u>Revamping GPOs: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-file-backup-with-windows-11/"><u>Streamlining File Backup with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-workspace-win-11s-finest-productivity-tools/"><u>Transform Your Workspace: Win 11'S Finest Productivity Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/workaround-cease-discord-startup-and-update-checks-in-windows/"><u>Workaround: Cease Discord Startup and Update Checks in Windows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-master-class-on-vsco-camera-and-lens-for-creative-use/"><u>[Updated] 2024 Approved Master Class on VSCO Camera & Lens for Creative Use</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-f23-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo F23 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-up-unmet-windows-11-requirements-alert/"><u>Clear Up Unmet Windows 11 Requirements Alert</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-some-outdated-your-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Identify some outdated your drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-step-up-your-visual-effects-game-with-free-lessons-from-4-innovative-youtube-channels/"><u>In 2024, Step Up Your Visual Effects Game with Free Lessons From 4 Innovative YouTube Channels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-affordable-access-buying-windows-11-codes/"><u>Secrets to Affordable Access: Buying Windows 11 Codes</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/solve-your-data-woes-a-guide-to-retrieving-and-repairing-the-documents-folder-in-windows-11/"><u>Solve Your Data Woes: A Guide to Retrieving and Repairing the Documents Folder in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-remedies-for-stalling-spotify-connectivity/"><u>Swift Remedies for Stalling Spotify Connectivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-subtitle-issues-in-prime-video-for-smooth-windows-11-watching/"><u>Tackling Subtitle Issues in Prime Video for Smooth Windows 11 Watching</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-disabling-acceleration-with-your-mouse-in-windows/"><u>Tips for Disabling Acceleration with Your Mouse in Windows</u></a></li>
+<li><a href="https://win-community.techidaily.com/ultimate-guide-top-free-apps-for-easy-m4a-to-mp3-file-transformation/"><u>Ultimate Guide: Top Free Apps for Easy M4A to MP3 File Transformation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-the-hidden-issues-causing-login-blackouts/"><u>Uncover the Hidden Issues Causing Login Blackouts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-ultimate-labor-day-offers-from-dell-top-picks-for-students-electronics-like-monitors-laptops/"><u>Unlock the Ultimate Labor Day Offers From Dell: Top Picks for Students' Electronics Like Monitors, Laptops!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Add the D: Drive to File Explorer's Navigation Pane"
-date: 2025-01-30T02:38:42.199Z
-updated: 2025-02-03T02:22:57.005Z
+date: 2025-02-12T01:05:22.786Z
+updated: 2025-02-16T02:40:52.206Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Before You Proceed…
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Furthermore, we highly recommend that you learn how to [back up and restore the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/). That way, you have a way of returning it to the state it was in before you made any changes that broke it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I Add the D: Drive to the Navigation Pane in File Explorer?
 
  Start by pressing **Win + S** to bring up Windows Search. Then, type **notepad** in the Search box, and when Notepad shows up in the search results, click on it to launch it.
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ![The Notepad search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/notepad-search-result.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then copy and paste the below text into Notepad:
@@ -83,21 +87,17 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ![saving a registry file in Notepad on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/save-reg-file-add-drive-nav-pane.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, double-click the Registry file you just created and click **Yes** on the UAC prompt. You’ll then be asked if you want to continue with the merge, so click **Yes**. Afterward, press **Win + E** to open File Explorer.
 
 ![the D drive showing in the bottom section of the Navigation pane on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/d-drive-nav-pane.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The D: drive should now be visible in the bottom part of the Navigation pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Remove the D: Drive From the Navigation Pane in File Explorer?
@@ -129,20 +129,20 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-agile-approaches-storing-ppt-speeches/"><u>[Updated] 2024 Approved Agile Approaches Storing PPT Speeches</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-effective-ways-to-extend-gopro-battery-use-for-2024/"><u>[Updated] Effective Ways to Extend GoPro Battery Use for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-razer-gaming-mouse-up-and-running-on-windows-with-this-quick-installation-guide/"><u>Get Your Razer Gaming Mouse Up And Running On Windows with This Quick Installation Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-erase-personal-info-from-sign-in-window/"><u>Guide to Erase Personal Info From Sign-In Window</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-restoring-a-dysfunctional-downloads-hub-in-windows/"><u>Guidelines for Restoring a Dysfunctional Downloads Hub in Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-applications-for-animating-3d-scenes/"><u>In 2024, Premium Applications for Animating 3D Scenes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719298672852-leveraging-local-links-to-global-drives-dropbox-and-googledrive-via-c/"><u>Leveraging Local Links to Global Drives: Dropbox & GoogleDrive via C:</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/protecting-your-porch-for-a-price-in-depth-review-of-the-wallet-friendly-remobell-device/"><u>Protecting Your Porch for a Price: In-Depth Review of the Wallet-Friendly RemoBell Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rapid-rendition-accelerating-prints-on-windows-system/"><u>Rapid Rendition: Accelerating Prints on Windows System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reworking-records-6-windows-applications-for-date-revision/"><u>Reworking Records: 6 Windows Applications for Date Revision</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/trailblazers-in-virtual-reality-experience/"><u>Trailblazers in Virtual Reality Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-more-than-one-antivirus-isnt-ideal-for-windows-users/"><u>Why More Than One Antivirus Isn't Ideal for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-woes-8-strategies-for-neutralizing-pink-displays/"><u>Windows Woes: 8 Strategies for Neutralizing Pink Displays</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-effortless-internet-ranking-the-best-7-android-adblockers-now-for-2024/"><u>[Updated] Effortless Internet Ranking the Best 7 Android AdBlockers Now for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-obs-tutorial-broadcasting-on-youtube-from-home/"><u>[Updated] In 2024, OBS Tutorial Broadcasting on Youtube From Home</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-secrets-to-designing-impactful-igtv-thumbnails/"><u>[Updated] Secrets to Designing Impactful IGTV Thumbnails</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blending-youtube-audio-features-into-video-projects/"><u>Blending YouTube Audio Features Into Video Projects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-device-efficiency-surface-computers-firmware-update-processes/"><u>Enhancing Device Efficiency: Surface Computers' Firmware Update Processes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-giggle-grind-exploring-twitters-comedy-gold/"><u>In 2024, Giggle Grind Exploring Twitters' Comedy Gold</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-windows-11-microsofts-controversial-release-or-a-step-forward-exploring-public-sentiment-and-features/"><u>Is Windows 11 Microsoft's Controversial Release or a Step Forward?: Exploring Public Sentiment and Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-updates-on-windows-11-creators-edition-exploring-the-insider-preview-v1503/"><u>Latest Updates on Windows 11 Creator's Edition: Exploring the Insider Preview V1503</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-energy-spike-during-intense-gaming-on-windows/"><u>Minimizing Energy Spike During Intense Gaming on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-deleted-default-energy-management-in-win-11/"><u>Reinstating Deleted Default Energy Management in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/relocating-qbittorrent-on-windows-a-comprehensive-instructional-walkthrough/"><u>Relocating qBittorrent on Windows: A Comprehensive Instructional Walkthrough</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-overcoming-frame-rate-drops-and-boosting-gameplay-in-lost-ark/"><u>Resolved: Overcoming Frame Rate Drops and Boosting Gameplay in Lost Ark</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-office-tasks-with-powerful-windows-shortcuts/"><u>Speed Up Office Tasks With Powerful Windows Shortcuts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-insiders-guide-to-perfected-picture-hues/"><u>The Insider's Guide to Perfected Picture Hues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-endless-unlocked-windows-experience/"><u>Tips for Endless Unlocked Windows Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Detailed Walkthrough of Chromium Installation in Windows 11
-date: 2024-08-16T01:16:50.565Z
-updated: 2024-08-17T01:16:50.565Z
+date: 2025-02-13T19:14:50.018Z
+updated: 2025-02-16T02:56:53.086Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
  Installing Chrome on Windows 11 isn't as simple as you might think. Let's run through a few of the choices you have and issues you might run into while trying to install it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should You Download the 32-bit or 64-bit Version of Chrome?
 
  First up, you need to know if you're running 32-bit or 64-bit Windows 11\. There are a few ways you can tell if you're running 64-bit Windows, but here is the simplest and quickest way.
@@ -36,7 +40,15 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
 ![System details in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/about-system.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Those with a 64-bit system will want to visit the [64-bit Chrome download page](https://www.google.com/chrome/browser/?platform=win64) , which is specifically for 64-bit Windows. Once the download is complete, just run the .exe file as you normally would, and presto: you've got 64-bit Windows that can fully take advantage of all the perks of your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 64-bit Users: It's Time to Update
 
@@ -48,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
  Then reopen Chrome. You can go back to the**About Google Chrome** screen to verify that you're running 64-bit Chrome now. All your bookmarks and synced info should remain exactly as it was, and you can even open the last tabs you were using by clicking on the vertical ellipsis once again, and hovering over the**History** option.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## What About the Chrome Beta or Canary Channels?
 
  There are actually many different versions of Chrome for you to download beyond what is visible on the main download page. These other versions are available in separate "release channels", which just means you need another link to get to them. Aside from the default stable build which we've already discussed, you can also choose between Chrome Beta ([32-bit](https://www.google.com/chrome/browser/beta.html?platform=win) or [64-bit](https://www.google.com/chrome/browser/beta.html?platform=win64) ) and Chrome Canary ([32-bit](https://www.google.com/chrome/browser/canary.html?platform=win) or [64-bit](https://www.google.com/chrome/browser/canary.html?platform=win64) ).
@@ -59,14 +68,15 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
  Chrome Canary, on the other hand, is much riskier than the Beta. Canary is for the bleeding edge folks who want the latest and greatest and are willing to sacrifice stability. Thankfully, Canary runs as a separate app from stable Chrome, so you can have both running side-by-side. That way, if a major bug renders Canary unusable, you have stable Chrome as a backup.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What if Windows SmartScreen Can't Be Reached?
 
  If during the installation of your chosen version of Chrome, you get a large green bar across your screen that says**Windows SmartScreen Can't Be Reached** and won't allow you to run the installer, there's a simple fix.
 
 ![windows-64-5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/windows-64-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows Smartscreen is one of the many [security features of Windows 11](https://www.makeuseof.com/windows-11-quick-security-guide/) , and it's meant to protect you from viruses. When connected to the internet, Smartscreen scans any executable files (like the .exe that installs Chrome) and compares them to a list of known malware. This is a great last defense if you've accidentally downloaded malware and it has tried to install itself, but Chrome is obviously not malware.
 
@@ -78,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
 ![selecting reputation-based protection in security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/reputation-based-protection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Doing this will disable Windows SmartScreen, although this is not recommended.
 
 ## Trouble With Your Internet Connection?
@@ -86,9 +100,6 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
  Once Chrome is installed, though, you should really keep your Chrome updating in the background for security and performance enhancements. If you prevent Chrome from doing that, you should revisit the offline Chrome installer page every once in a while to install the newest version of Chrome to make sure your browser remains secure and fast.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Common Errors With Your Chrome Installation
 
  If your Chrome installation fails, it should give you an error number for why it failed. Remember that number, and you can look it up on [Google's Chrome support website](https://support.google.com/chrome/table/3097092?hl=en) for specific instructions on how to fix it.
@@ -101,17 +112,14 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
  If you prefer to stay in the desktop environment, you can pin it to the Taskbar to keep it pinned to the bar that runs along the bottom of your desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Master the Chrome Keyboard Shortcuts
 
  We've provided a list of all the [keyboard shortcuts for Chrome](https://www.makeuseof.com/tag/google-chrome-shortcuts-pdf/) on Windows, and they're incredibly helpful for increasing the speed at which you can use your browser. Keep a list of the most useful ones for yourself and work on memorizing them—you won't regret it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Are You Using a Touchscreen? Enable Pinch-to-Zoom
 
  If your device has a touchscreen, pinch-to-zoom will be an invaluable feature. If it isn't working when you start Chrome, you can enable it by navigating to**chrome://flags/#enable-pinch** in the address bar and selecting**Enabled** from the drop-down menu for**Enable pinch scale** .
@@ -124,21 +132,15 @@ If it ever gives you issues, you can always go back and disable it.
 
  This will open a window on the desktop with a list of all your installed desktop applications. Find Chrome, select the vertical ellipsis to the app's right, and click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Getting the Most Out of Chrome on Windows 11
 
  Chrome is the most-used browser on the market right now, and for good reason. Hopefully, by now, you've got Chrome all set up and working perfectly on your Windows 11 device.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,8 +149,22 @@ If it ever gives you issues, you can always go back and disable it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-dynamic-duo-display-youtubes-way-of-creative-splitting-for-2024/"><u>[New] Dynamic Duo Display YouTube’s Way of Creative Splitting for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ultimate-screen-snaps-for-mac-users-max-156-chars/"><u>[New] In 2024, Ultimate Screen Snaps for Mac Users (Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-quick-guide-temporarily-bypassing-windows-11s-safety-measures/"><u>A Quick Guide: Temporarily Bypassing Windows 11'S Safety Measures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-install-net-now-demands-from-apps/"><u>Addressing Install .NET Now Demands From Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assessing-the-role-and-safety-profile-of-aggregatorhostexe-in-windows/"><u>Assessing the Role and Safety Profile of AggregatorHost.exe in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automated-password-inclusion-in-windows-file-management/"><u>Automated Password Inclusion in Windows File Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blocking-windows-update-messages/"><u>Blocking Windows Update Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-ssd-performance-with-windows-and-ssd-fresh/"><u>Boosting SSD Performance with Windows & SSD Fresh</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-your-windows-11-journey-top-6-multitasking-android-apps/"><u>Enhancing Your Windows 11 Journey: Top 6 Multitasking Android Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-full-adventure-of-baldurs-gate-3-easily-through-crossover-on-macos/"><u>Enjoy Full Adventure of Baldur’s Gate 3 Easily Through CrossOver on macOS</u></a></li>
+<li><a href="https://discover-help.techidaily.com/exploring-the-regional-effects-the-formation-of-the-peoples-republic-of-china-analyzed-by-yl-software/"><u>Exploring the Regional Effects: The Formation of the People’s Republic of China Analyzed – By YL Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/smart-choice-showcase-analyzing-the-differences-between-ring-and-nest-entryway-systems/"><u>Smart Choice Showcase: Analyzing the Differences Between Ring and Nest Entryway Systems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-fixes-for-a-non-functioning-lynda-desktop-app-on-mac-osx-and-windows-systems/"><u>Ultimate Fixes for a Non-Functioning Lynda Desktop App on Mac OSX & Windows Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/vocabulary-volleyball-international-words-serving-english/"><u>Vocabulary Volleyball: International Words Serving English</u></a></li>
+</ul></div>
 

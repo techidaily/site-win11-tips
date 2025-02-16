@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Windows 11 Error: Code 0X0000011B"
-date: 2025-02-02T00:19:54.850Z
-updated: 2025-02-02T16:15:09.283Z
+date: 2025-02-09T17:49:10.393Z
+updated: 2025-02-15T16:03:13.359Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/06e60fe3d947d58be6e231820ad1f116434db798e
 6. Click the**Startup type** drop-down and set it to**Automatic** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Click**Apply** and**OK** to save the changes.
@@ -64,10 +64,6 @@ To check and install Windows updates:
 3. Click on**Check for updates** . Windows will look for pending updates and list them here.
 4. Click on**Download & install** to install the updates.
 5. Once installed, restart your PC and check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Install the Printer Manually via the Local Port
 
@@ -90,6 +86,10 @@ To check and install Windows updates:
 ![enter port name printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-port-name-printer.jpg)
 4. Type your network printer file path and the network printer name in the**Enter a port name** field. You can use the username or the IP address for the computer name and then the printer name you want to share.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**OK** to save the printer.
 
 1. Next, select your printer manufacturer from the list to install the printer driver.
@@ -99,10 +99,6 @@ To check and install Windows updates:
 5. Click**Next** and wait for the installation to complete.
 
  Your newly added printer will now appear under**Device and Printer** in**Control Panel** and the**Settings** app. Give a new print job to see if the error is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable the CVE-2021-1678 Registry Fix
 
@@ -132,7 +128,7 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 9. After the restart, try to use your shared printer and check if the error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Recently Installed Updates
@@ -148,24 +144,28 @@ To uninstall Windows updates:
 ![control panel uninstall programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs.jpg)
 3. Next, click on**Programs** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
 4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
 5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the 0x0000011b Printing Error on Windows
@@ -187,17 +187,22 @@ To uninstall Windows updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-delivering-quality-imagery-applying-lut-techniques-in-adobes-tools/"><u>[Updated] 2024 Approved Delivering Quality Imagery Applying LUT Techniques in Adobe's Tools</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-best-cameras-to-amplify-your-yt-presence-for-2024/"><u>[Updated] Best Cameras to Amplify Your YT Presence for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-mastering-youtube-screens-final-touches/"><u>[Updated] In 2024, Mastering YouTube Screens' Final Touches</u></a></li>
-<li><a href="https://techtrends.techidaily.com/20247windows-10/"><u>選擇202^4年7月專業相片查看器：Windows 10上建議之最佳品牌解決方案</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/becoming-a-savvy-vr-tour-connoisseur/"><u>Becoming a Savvy VR Tour Connoisseur</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gearing-up-with-best-laptops-from-ifa-2023/"><u>Gearing Up with Best Laptops From IFA 2023</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/ghostly-pause-recorder-tutorial/"><u>Ghostly Pause Recorder Tutorial</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-internal-error-in-windows-11-remote/"><u>Mastering the Art of Fixing Internal Error in Windows 11 Remote</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-itunes-operational-status-on-your-pc/"><u>Restoring iTunes Operational Status on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-dxgierrordevicehunk-on-windows-11/"><u>Steps to Tackle DXGI_ERROR_DEVICE_HUNK on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-lsass-component-resolution-a-user-friendly-guide/"><u>Win LSass Component Resolution: A User-Friendly Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-srt-file-open-srt-file-on-windows-or-mac/"><u>[Updated] In 2024, SRT File Open SRT File on Windows or Mac</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-iphone-explores-high-dynamic-range-photography-for-2024/"><u>[Updated] IPhone Explores High Dynamic Range Photography for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-interactive-subscription-buttons-filmoras-guide-to-animated-sign-up-bars/"><u>2024 Approved Interactive Subscription Buttons - Filmora's Guide to Animated Sign-Up Bars</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-shot-recorder-hunters-top-picks/"><u>2024 Approved Ultimate Shot Recorder Hunters' Top Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-printer-settings-for-secure-edge-environment/"><u>Configuring Printer Settings for Secure Edge Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-and-control-your-windows-11-program-preferences/"><u>Customize and Control Your Windows 11 Program Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-reading-experience-in-windows-11-notepad/"><u>Elevate Reading Experience in Windows 11 Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-operational-usb-on-your-windows-machine/"><u>Fixing Non-Operational USB on Your Windows Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-windows-capabilities-for-bulk-archive-decompression/"><u>Harnessing Windows Capabilities for Bulk Archive Decompression</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-razr-40-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Razr 40 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-edge-enhancements-in-windows-10-release/"><u>In 2024, The Edge Enhancements in Windows 10 Release</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/invisible-archive-integration-win1011-imaging-strategies/"><u>Invisible Archive Integration: WIN10/11 Imaging Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/microsoft-flight-simulator-2020-solving-pc-game-crash-issues-effectively/"><u>Microsoft Flight Simulator 2020: Solving PC Game Crash Issues Effectively</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-fresh-logitech-m525-software-installation/"><u>Step-by-Step Instructions for Fresh Logitech M525 Software Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-11-home-into-a-virtual-environment-with-hyper-v/"><u>Transforming Windows 11 Home Into a Virtual Environment with Hyper-V</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-realme-note-50-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Realme Note 50 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zeroing-in-on-browsers-post-windows-setup/"><u>Zeroing in on Browsers Post-Windows Setup</u></a></li>
 </ul></div>
 

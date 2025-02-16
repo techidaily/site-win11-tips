@@ -1,7 +1,7 @@
 ---
 title: Reviving a Dysfunctional Resource Monitor on Windows 11
-date: 2025-01-26T18:53:35.283Z
-updated: 2025-02-03T00:53:11.931Z
+date: 2025-02-10T17:50:24.979Z
+updated: 2025-02-15T16:14:01.683Z
 tags:
   - windows10
   - windows11
@@ -35,16 +35,12 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 
 So, let's move on to the solution and fix this problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart the Computer
 
 ![windows restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-restart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When troubleshooting software-related issues, a computer restart can often resolve them without resorting to complex solutions. Doing so refreshes all running programs and services while also clearing out any temporary files that might be causing problems.
@@ -66,6 +62,10 @@ To change the DPI scale to its default settings, follow these steps:
 
  Once you have made the changes, close the Settings window and run the Resource Monitor app to see if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Run the System File Checker
 
  If restarting your computer and changing the DPI settings didn't work, running an SFC scan can often detect and repair any corrupted system files that might be causing problems.
@@ -77,6 +77,10 @@ To do this, follow these steps:
 3. When the UAC popup appears on the screen, click**Yes** to open Command Prompt with admin access. If you want in-depth information, read our guide on[running the command prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 sfc /scannow
 5. Wait for the process to complete, then restart your PC.
@@ -94,10 +98,6 @@ sfc /scannow
 
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Uninstall the Latest Windows Updates
 
  If you recently updated your OS and there are no newer updates for it, the last update might have caused the issue. So, try uninstalling any recent update you may have installed, which could help resolve conflicts between the updates and existing system files that are causing problems with Resource Monitor.
@@ -108,11 +108,11 @@ sfc /scannow
 ![Update history in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-history-in-windows-update.jpg)
 4. Scroll down to Related settings and click**Uninstall updates** .  
 
-![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
 
  Then select any recent updates that you want to uninstall. After that, restart your computer and check if Resource Monitor is now working properly.
 
@@ -129,10 +129,6 @@ sfc /scannow
 
  Then follow the instructions to add a new user account and then sign in with that account. Now open Resource Monitor and see if it's working properly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Troubleshoot in Clean Boot State
 
  When all else fails, try starting your computer in safe mode and see if the problem persists. If it does not, then background services and applications are possibly conflicting with startup items and causing this error to occur.
@@ -145,18 +141,22 @@ In such a case, you need to perform a clean boot as instructed below:
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. Uncheck the**Load startup items** box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Switch to the**Services** tab and check the**Hide all Microsoft services** box.  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Then click**Disable All** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Go to the Startup tab and click the**Open Task Manager** link
 8. Disable any services or programs that are active in Startup apps.
 
  Once you have done this, close Task Manager, then click**OK** on the MSConfig window to save these changes. Now restart your computer for them to take effect, then try using Resource Monitor to see if they work now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Resolve Resource Monitor Issues in Windows 11
 
@@ -177,19 +177,21 @@ In such a case, you need to perform a clean boot as instructed below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-track-and-validate-channels-earnings/"><u>[New] 2024 Approved Track and Validate Channels' Earnings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transform-viewing-experience-adding-subtitles-on-windows-media-player/"><u>[New] Transform Viewing Experience Adding Subtitles on Windows Media Player</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-ultimate-breakdown-xstudio-video-production-mastery/"><u>[Updated] 2024 Approved The Ultimate Breakdown XStudio Video Production Mastery</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-top-apps-for-instagram-strategy-mastery-and-expansion/"><u>[Updated] In 2024, Top Apps for Instagram Strategy Mastery and Expansion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-common-nvidia-geforce-error-x0001-on-w10w11/"><u>Addressing Common Nvidia GeForce Error X0001 on W10/W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/captivating-christmas-vistas-with-window-artistry/"><u>Captivating Christmas Vistas with Window Artistry</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/cpus-and-graphics-for-superior-gaming-performance/"><u>CPUs and Graphics for Superior Gaming Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-restoring-function-to-computers-showing-no-signals-on-monitors-after-startup/"><u>Expert Tips for Restoring Function to Computers Showing No Signals on Monitors After Startup</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-fixed-eclipsed-youtube-short-video/"><u>In 2024, Fixed Eclipsed YouTube Short Video</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-network-drive-management-with-ease-and-security-win11/"><u>Master Network Drive Management with Ease and Security (Win11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pushing-the-limits-of-solid-state-drives-on-windows-with-ssdfresh/"><u>Pushing the Limits of Solid State Drives on Windows with SSDFresh</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tap-out-of-high-contrast-in-windows-environment/"><u>Tap Out of High Contrast in Windows Environment</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-meta-quest-3-ai-feature-outpacing-apples-vision-pro-with-tips-for-activation-tech-insights/"><u>Unveiling the Meta Quest 3 AI Feature: Outpacing Apple's Vision Pro with Tips for Activation | Tech Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-print-bridge-trouble-shooting-guide/"><u>Windows Print Bridge: Trouble Shooting Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-comparing-streaming-software-obs-vs-shadowplay/"><u>[New] 2024 Approved Comparing Streaming Software OBS vs ShadowPlay</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-trending-vids-the-videoviral-phenomenon/"><u>[New] 2024 Approved Trending Vids The #VideoViral Phenomenon</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-celestial-warriors-unite-release-date/"><u>[New] Celestial Warriors Unite! Release Date</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-minecraft-masterpieces-creative-buildings-guide-for-2024/"><u>[New] Minecraft Masterpieces Creative Buildings Guide for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-leveraging-huaweis-inbuilt-screen-capture-tech-on-its-phones-for-2024/"><u>[Updated] Leveraging Huawei's Inbuilt Screen Capture Tech on Its Phones for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-creation-at-your-fingertips-selecting-androids-top-editors/"><u>[Updated] Seamless Creation at Your Fingertips Selecting Android's Top Editors</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-secret-pathway-to-premium-pristine-pictures/"><u>In 2024, The Secret Pathway to Premium, Pristine Pictures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-chart-selection-with-filters-in-ms-excel-tips-and-tricks/"><u>Mastering Chart Selection with Filters in MS Excel: Tips & Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-excel-data-insights-a-comprehensive-guide-to-utilizing-pivot-tables/"><u>Mastering Excel Data Insights: A Comprehensive Guide to Utilizing Pivot Tables</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-goal-seek-functionality-in-microsoft-excel/"><u>Mastering Goal Seek Functionality in Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-time-based-sorting-in-microsoft-excel-a-comprehensive-tutorial/"><u>Mastering the Art of Time-Based Sorting in Microsoft Excel: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-frequency-formula-a-comprehensive-guide-on-utilizing-excels-countif-feature/"><u>Mastering the Frequency Formula: A Comprehensive Guide on Utilizing Excel's Countif Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-trendline-analysis-a-step-by-step-guide-using-microsoft-excel/"><u>Mastering Trendline Analysis: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modifying-default-output-files-in-libreoffice-made-easy/"><u>Modifying Default Output Files in LibreOffice Made Easy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-is-the-usechatgpt-copilot-extension-and-what-can-it-do/"><u>What Is the UseChatGPT Copilot Extension and What Can It Do?</u></a></li>
 </ul></div>
 

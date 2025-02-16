@@ -1,7 +1,7 @@
 ---
 title: "Resurrect Your Xbox on a Slow PC: Steps to Take!"
-date: 2024-08-16T01:18:06.870Z
-updated: 2024-08-17T01:18:06.870Z
+date: 2025-02-08T22:31:34.813Z
+updated: 2025-02-16T02:28:30.596Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,18 @@ thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38
 
  In this post, we'll share some quick fixes that will get the Xbox app back up and running in no time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Internet Connection
 
  A sketchy internet connection may prevent you from downloading or launching games from the Xbox app. Hence, before spending time on any advanced solutions,[run a quick internet speed test](https://www.makeuseof.com/best-free-websites-test-internet-speed/) on your PC to check your connection. You can also try switching to a different network connection if one is available.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Correct Date and Time on Your PC
 
 [Having your PC set to the wrong date or time](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) may not seem like a big deal, but it can lead to a slew of problems. In this case, it may block the Xbox app from communicating with the servers, thereby preventing you from using it. You can easily avoid such issues by configuring Windows to set the correct time automatically. Here are the steps you need to follow.
@@ -36,17 +41,11 @@ thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38
 3. Click on**Date and time** .
 4. Enable the toggle next to**Set time automatically** .  
 ![Set Date and Time Automatically on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Set-Date-and-Time-Automatically-on-Windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 
 Restart the Xbox app after this and see if it works fine.
 
  If the clock keeps messing up after this fix, check out [the reasons why your Windows 10 or 11 time is wrong](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) for more.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Sign Out and Back Into the Xbox App
 
  Authentication issues with your account can also cause the Xbox app to stop working. One way to fix such issues is to sign out of the Xbox app and sign back in.
@@ -54,8 +53,9 @@ Restart the Xbox app after this and see if it works fine.
  In the Xbox app, click on your username in the top left corner and select**Sign out** . Then, click the**Sign in** option and enter your account details. Then, try using the app again.
 
 ![Sign Out of Xbox App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Sign-Out-of-Xbox-App.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall the Gaming Services App
@@ -76,9 +76,6 @@ Restart the Xbox app after this and see if it works fine.
 
 [Restart your PC](https://www.makeuseof.com/windows-restart-methods/) after this and try to use the Xbox app again.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 5\. Run the Windows Store Apps Troubleshooter
 
  Windows Store Apps troubleshooter is a built-in tool that can scan your apps for common issues and suggest fixes accordingly. You can use this tool if the Xbox app fails to open or work on your computer.
@@ -90,6 +87,14 @@ To run the Windows Store Apps troubleshooter:
 3. Select**Other troubleshooters** .
 4. Click the**Run** button next to**Windows Store Apps** and follow the on-screen prompts to run the troubleshooter.  
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair or Reset Xbox App
 
@@ -108,9 +113,6 @@ To repair the Xbox app on Windows:
 
  If any Windows apps begin to misbehave in the future, check out [how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for similar steps.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 7\. Update the Xbox App
 
  If you haven't updated Xbox app in a while, you could encounter problems while using it. Plus, using an outdated version of the Xbox app also causes you to miss out on the latest features. Hence, it’s always a good idea to enable automatic app updates on Windows or learn [how to update Windows apps](https://www.makeuseof.com/update-apps-windows-11/) manually. Alternatively, you can update the Xbox app manually from the Microsoft Store.
@@ -120,9 +122,6 @@ To repair the Xbox app on Windows:
  While you are at it, we’d also recommend you install any pending Windows updates. To do so, open the**Settings** app and head over to the**Windows Update** section. Click the**Check for updates** button and install any pending system updates on your computer. Following this, the Xbox app should work fine.
 
 ![Windows Update Tab in Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Check-for-Updates-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 8\. Leave the Xbox Insider Program
 
@@ -140,20 +139,21 @@ To leave the Xbox Insider Program:
 
 Restart the Xbox app after this and try to use it again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Troubleshooting the Xbox App on Windows
 
  Hopefully, one of the methods mentioned above has fixed the Xbox app, and you can now access your favorite titles again. However, if none of the solutions work, you can reinstall the Xbox app as a last resort.
 
  On another note, if the Xbox app is not displaying notifications on Windows, you may want to fix that too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,8 +162,19 @@ Restart the Xbox app after this and try to use it again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-lyrics-notes-and-beats-fb-style/"><u>[New] 2024 Approved Lyrics, Notes, and Beats - FB Style</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-engage-audience-directly-from-xbox-with-fb-live/"><u>[New] Engage Audience Directly From Xbox with FB Live</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-enhance-your-content-creating-engaging-loop-videos-for-ig/"><u>[New] In 2024, Enhance Your Content Creating Engaging Loop Videos for IG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-evolutionary-saga-of-vr-worlds/"><u>[New] The Evolutionary Saga of VR Worlds</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-expert-choices-best-video-cards-for-youtubes-clearest-output/"><u>[Updated] Expert Choices Best Video Cards for YouTube's Clearest Output</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-premium-zero-cost-windows-media-tools/"><u>7 Premium Zero-Cost Windows Media Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-simple-steps-to-fix-server-not-found-error-on-windows-pcs-in-apex-legends-(156-chars/"><u>9 Simple Steps to Fix 'Server Not Found' Error on Windows PCs in Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensible-guide-for-windows-11-spotless-restarts/"><u>A Comprehensible Guide for Windows 11 Spotless Restarts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-a-quake-environment-via-terminals/"><u>Accessing a Quake Environment via Terminals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-mobile-connectivity-in-windows-11/"><u>Boosting Mobile Connectivity in Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ying-google-trends-to-discover-compelling-video-themes/"><u>Employing Google Trends to Discover Compelling Video Themes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-lava-yuva-2-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Lava Yuva 2 Pro to Gmail | Dr.fone</u></a></li>
+</ul></div>
 

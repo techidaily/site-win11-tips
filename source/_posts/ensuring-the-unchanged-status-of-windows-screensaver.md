@@ -1,7 +1,7 @@
 ---
 title: Ensuring the Unchanged Status of Windows Screensaver
-date: 2024-08-16T01:22:05.850Z
-updated: 2024-08-17T01:22:05.850Z
+date: 2025-02-13T23:33:59.530Z
+updated: 2025-02-15T17:07:01.819Z
 tags:
   - windows10
   - windows11
@@ -33,16 +33,22 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
 4. Select **Prevent chaning screensaver** in the right pane and double-click on it.  
 ![Prevent changing screen saver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/prevent-changing-screen-saver.jpg)
 5. In the Properties window, check the **Enabled** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Check Enabled to prevent changing screen saver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-enabled-to-prevent-changing-screen-saver.jpg)
 6. Click **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying the above steps, users won’t be able to change the screensaver settings. When they try to alter the screensaver, an error message will pop up saying, "Your system administrator has disabled launching of the Display Control Panel".
 
  However, you can always revert these changes. For this, you will have to follow the same steps as discussed. Then double-click on **Prevent changing screensaver** and check the **Not Configured** option.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. How to Stop Users From Changing Your Screensaver Using the Registry Editor
 
  Suppose you're running Windows Home edition or have disabled the Local Group Policy Editor for any reason. In that case, you can use the Registry Editor to stop users from changing your screensaver's settings.
@@ -60,15 +66,18 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
 6. Name this key **System** and click Enter.
 7. Right-click in the empty space and choose **New** \> **DWORD (32-bit) Value**.  
 ![Creating DWORD key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/creating-dword-key.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Name this value **NoDispScrSavPage** and press Enter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Next, double-click on it to open a pop-up window.
 10. Set the Value data field to **1** and click **OK**.  
 ![Disable Screen Saver Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-screen-saver-using-registry-editor.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now close the Registry Editor and restart your computer. Once it restarts, the currently logged-in user can't change the screensaver.
@@ -82,15 +91,14 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
  If you ever decide to let users change screensaver settings, follow the same steps but set the Value data of the **NoDispScrSavPage** field to **0**. This will restore the default settings, and users can change the screensaver again.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Control Access to the Windows Screensaver
 
  Hopefully, these two methods helped you control access to Windows Screensaver and prevent unauthorized users from changing their settings. Now you can set the screensaver to whatever your desire, and be sure that it stays that way when you get back.
 
  No worries; in this article, we explore some methods for preventing users from changing the Windows screensaver.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -99,5 +107,19 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-a-straightforward-approach-screen-record-on-macbook-air/"><u>[Updated] A Straightforward Approach Screen Record on Macbook Air</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-maximizing-your-zoom-experience-on-chromeos/"><u>[Updated] Maximizing Your Zoom Experience on ChromeOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-brands-for-budget-friendly-high-definition-projectors/"><u>2024 Approved Leading Brands for Budget-Friendly, High-Definition Projectors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-windows-security-bypassing-faulty-pins-easily/"><u>Enhance Windows Security: Bypassing Faulty PINs Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-routes-to-windows-recovery-toolkit/"><u>Essential Routes to Windows Recovery Toolkit</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-asus-rog-phone-7-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Asus ROG Phone 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-stalled-excel-workflow-on-windows-devices/"><u>Jumpstart Stalled Excel Workflow on Windows Devices</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/leading-open-source-solutions-for-hassle-free-nas-data-protection/"><u>Leading Open Source Solutions for Hassle-Free NAS Data Protection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-saved-gamer-tactics-with-launcher-backups/"><u>Mastering Saved Gamer Tactics with Launcher Backups</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/miniature-drones-unveiled-top-10-list-ready-for-2024/"><u>Miniature Drones Unveiled Top 10 List Ready for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-driver-conflicts-in-ftdi-bus-for-restoring-memory-data-accuracy/"><u>Overcoming Driver Conflicts in FTDI Bus for Restoring Memory Data Accuracy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-renewal-methods-for-driver-replacement-and-update/"><u>Windows Renewal: Methods for Driver Replacement and Update</u></a></li>
+</ul></div>
 

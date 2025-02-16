@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Failed Cloud Operations (OneDrive)
-date: 2025-01-27T00:54:50.888Z
-updated: 2025-02-03T01:28:55.620Z
+date: 2025-02-09T16:53:53.121Z
+updated: 2025-02-15T16:26:23.504Z
 tags:
   - windows10
   - windows11
@@ -35,16 +35,8 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![The Settings option in OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-option.jpg)
 4. Click the**Unlink this PC** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Unlink this PC option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unlink-this-pc.jpg)
 5. Select**Unlink account** to sign out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. If a sign-in window doesn’t automatically open, input OneDrive in the Windows search box and select to open it there.
 2. Input your OneDrive email address (for your Microsoft account), and click the**Sign in** option.  
@@ -53,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
 4. Keep clicking**Next** to reach the last option on the OneDrive setup window.
 5. Press the**Open my OneDrive** **folder** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Free Up Hard Drive Space
 
@@ -67,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![The Local Disk storage icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-disk-storage-icon.jpg)
 
  If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about[how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset the OneDrive App
 
@@ -80,11 +72,15 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 4. Click**OK** to execute the reset command for OneDrive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. If the OneDrive icon doesn’t reappear after the reset, input this command into Run and click**OK** :  
 `%localappdata%\Microsoft\OneDrive\onedrive.exe`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Sync OneDrive to Another Drive Location
 
@@ -97,9 +93,17 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![The Change location option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-location-option.jpg)
 5. Select an alternative drive partition on your PC to link OneDrive with.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Select Folder** to confirm the chosen location.
 7. Keep clicking**Next** a few times, and select the**Open my OneDrive folder** option.  
 ![The Open my OneDrive folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-my-onedrive-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enable the "Always Keep on Device" and "Free Up Space" Options
 
@@ -114,14 +118,10 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 4. Then right-click the same file again to select**Free up** **space** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Repeat these steps for all files you can’t access because of error 0x80070185.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Turn Off Any Active Firewalls
 
@@ -141,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
  Should this potential solution resolve error 0x80070185, set up a firewall exception for OneDrive. You can do that for the Windows firewall as instructed in our[how to allow apps through Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) piece. Users with third-party firewalls can allow OneDrive through them with the exclusion settings in their security apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reinstall OneDrive
 
  Reinstalling OneDrive is a solution that’s worked for some users. This will give you a completely fresh and up-to-date OneDrive app. These are the steps for uninstalling and reinstalling OneDrive:
@@ -156,10 +160,6 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 7. Select**Open Microsoft Store** to view the OneDrive page in that app.  
 ![The Get button for OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-button-for-onedrive.jpg)
 8. Click**Get** to reinstall OneDrive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Access your OneDrive Files again
 
@@ -180,21 +180,24 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-elite-25-instagram-personalities-worth-following-for-2024/"><u>[New] Elite 25 Instagram Personalities Worth Following for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-multiple-clips-an-android-tutorial/"><u>[New] Harmonizing Multiple Clips An Android Tutorial</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-uniting-platforms-post-videos-across-twitter-and-tumblr-for-2024/"><u>[New] Uniting Platforms Post Videos Across Twitter & Tumblr for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-how-to-overcome-no-image-problem-in-youtube-shorts/"><u>[Updated] How To Overcome No Image Problem in YouTube Shorts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-retract-macos-upgrade-from-sierra-to-el-capitan/"><u>2024 Approved How to Retract macOS Upgrade From Sierra to El Capitan</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/chrome-opening-woes-resolved-fast-fixed-for-windows-11-users/"><u>Chrome Opening Woes Resolved: Fast Fixed for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crucial-software-aid-the-best-windows-apps-that-facilitate-mac-switch/"><u>Crucial Software Aid: The Best Windows Apps That Facilitate MAC Switch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-dissolving-ms-teams-error-80080300-on-win11-platform/"><u>Deciphering and Dissolving MS Teams Error 80080300 on Win11 Platform</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-addressing-and-correcting-pc-crashes-in-cult-of-the-lamb-game/"><u>Expert Advice: Addressing and Correcting PC Crashes in Cult of the Lamb Game</u></a></li>
-<li><a href="https://article-tips.techidaily.com/exploring-the-metaphysics-of-metaverse-selling-for-2024/"><u>Exploring the Metaphysics of Metaverse Selling for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/extended-support-for-windows-10-dashed-microsofts-unspoken-decision-explained-insights-from-zdnet/"><u>Extended Support for Windows 10 Dashed – Microsoft's Unspoken Decision Explained | Insights From ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-boredom-to-chuckles-generating-funny-memes-for-2024/"><u>From Boredom to Chuckles Generating Funny Memes for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-books-8-effective-studying-tips-on-windows/"><u>Mastering the Books: 8 Effective Studying Tips on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-steps-to-record-windows-uac-notifications/"><u>Quick Steps to Record Windows UAC Notifications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-windows-administrator-security-configs/"><u>Steps to Tackle Windows Administrator Security Configs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-removing-signature-rejection-on-pcs/"><u>Strategies for Removing Signature Rejection on PCs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-blitzburst-freezeframe-video-for-2024/"><u>[Updated] BlitzBurst FreezeFrame Video for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-spotlight-tactics-a-3-step-guide/"><u>[Updated] Instagram Spotlight Tactics A 3-Step Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-reverse-viewing-crafts-creative-youtube-video-methods-for-2024/"><u>[Updated] Reverse Viewing Crafts Creative Youtube Video Methods for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-training-on-googles-advanced-speech-to-text-feature/"><u>2024 Approved In-Depth Training on Google's Advanced Speech to Text Feature</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-10-most-viewed-videos-on-youtube-of-all-time/"><u>2024 Approved Top 10 Most Viewed Videos on YouTube of All Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cure-for-windows-steam-clients-dll-error/"><u>Cure for Windows Steam Client's Dll Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disable-windows-and-office-updates-4-easy-ways/"><u>Disable Windows & Office Updates: 4 Easy Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-top-10-capabilities-of-windows-powertoys-tools/"><u>Discover the Top 10 Capabilities of Windows PowerToys Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-spotify-autoplay-on-your-windows-system/"><u>Halt Spotify Autoplay on Your Windows System</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommendations-10-high-end-podcast-mics/"><u>In 2024, Expert Recommendations 10 High-End Podcast Mics</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oppo-find-x6-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Oppo Find X6 to iPod | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-approach-to-file-merging-and-directory-unification-on-windows-11/"><u>Innovative Approach to File Merging & Directory Unification on Windows 11</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/microsoft-addresses-concerns-amidst-ongoing-debate-over-its-disruptive-recall-functionality-persistent-privacy-issues/"><u>Microsoft Addresses Concerns Amidst Ongoing Debate Over Its Disruptive Recall Functionality - Persistent Privacy Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11s-advanced-setup/"><u>Navigating Windows 11'S Advanced Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sustaining-calculator-leading-position-on-pcs/"><u>Sustaining Calculator Leading Position on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-failed-office-activation-on-windows-devices/"><u>Tackling Failed Office Activation on Windows Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-5-amazing-open-source-ai-image-synthesis-programs/"><u>The Ultimate List: 5 Amazing Open-Source AI Image Synthesis Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-hidden-links-resuscitate-windows-networks/"><u>Unveiling Hidden Links: Resuscitate Windows Networks</u></a></li>
 </ul></div>
 

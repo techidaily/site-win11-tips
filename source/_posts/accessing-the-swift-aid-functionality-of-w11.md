@@ -1,7 +1,7 @@
 ---
 title: Accessing the Swift Aid Functionality of W11
-date: 2024-08-16T01:15:42.273Z
-updated: 2024-08-17T01:15:42.273Z
+date: 2025-02-11T23:23:36.581Z
+updated: 2025-02-16T02:22:27.729Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,14 @@ thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227
 
  This guide will show you four different ways of opening the Quick Assist tool on Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Shortcut Keys
 
  The quickest way to open Quick Assist is by using the shortcut keys**Win + Ctrl + Q** . This will launch the Quick Access tool directly on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use the Windows Search Tool
 
  Another way to open the Quick Assist tool is through the [Windows Search](https://www.makeuseof.com/windows-search-use-guide/) tool. This can be especially helpful if any of the shortcut keys on your keyboard don't work for some reason.
@@ -36,11 +37,16 @@ To open Quick Assist through the search tool, follow these steps:
 1. Click on the magnifying glass icon on the taskbar.
 2. In the search box, type "quick assist" and hit**Enter** .  
 ![Open Quick Assist Using Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-quick-assist-using-search-tool.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will open the Quick Assist tool where you can view and control another computer from your own.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use the Start Menu
 
@@ -50,13 +56,11 @@ To open Quick Assist through the search tool, follow these steps:
 2. Select**All apps** from the menu.
 3. Scroll down to**Quick Access** , and then click on it.  
 ![Open Quick Assist Using Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-quick-assist-using-start-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Pin Quick Assist to the Taskbar
 
  If you use this tool frequently,[pinning it to your Windows taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/) will help you get to it quickly. Here are the steps you need to take:
@@ -64,27 +68,22 @@ To open Quick Assist through the search tool, follow these steps:
 1. Click on Start and type**Quick Assist** .
 2. On the right side menu, click**Pin to taskbar** .  
 ![Pin Quick Assist to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pin-quick-assist-to-taskbar.jpg)
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This way, you can quickly access the tool from your taskbar.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## You Can Now Get Assistance Quickly
 
  It is quite easy to open the Quick Assist tool on a Windows computer. We have listed four ways to open this tool in this article; check them out and let us know which works best for you.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -93,8 +92,22 @@ This way, you can quickly access the tool from your taskbar.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-core-elements-of-kinetic-visual-storytelling/"><u>[New] The Core Elements of Kinetic Visual Storytelling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-critical-tweaks-to-reactivate-firewall/"><u>4 Critical Tweaks to Reactivate Firewall</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-excellence-perfecting-your-consoles-gamepad-functionality/"><u>Achieving Excellence: Perfecting Your Console's Gamepad Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-file-extraction-failure-fix-for-error-1152-in-win/"><u>Addressing File Extraction Failure: Fix for Error 1152 in Win</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/assassins-creed-valhalla-update-addressing-the-midgard-tribe-dispute-issue/"><u>Assassin's Creed Valhalla Update: Addressing the Midgard Tribe Dispute Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beginning-windows-media-player-activation-process/"><u>Beginning Windows Media Player Activation Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bigger-better-barely-noticed-by-mini-pcs-users/"><u>Bigger, Better Barely Noticed by Mini PCs' Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-print-output-speedy-windows-printer-tips/"><u>Boosting Print Output: Speedy WIndows Printer Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/classroom-media-mastery-video-editing-essentials/"><u>Classroom Media Mastery Video Editing Essentials</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-frugal-flight-experts-choice-under-500-drone-guide/"><u>In 2024, Frugal Flight Experts' Choice Under $500 Drone Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-create-ai-avatar-videos-wondershare-virbo-online/"><u>New 2024 Approved Create AI Avatar Videos | Wondershare Virbo Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719292218138-quicker-downloads-for-battlenet-games-win-pcs-now/"><u>Quicker Downloads for Battle.net Games, Win PCs Now!</u></a></li>
+<li><a href="https://win-help.techidaily.com/step-by-step-guide-adjusting-your-screen-resolution-via-windows-control-panel/"><u>Step-by-Step Guide: Adjusting Your Screen Resolution via Windows Control Panel</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/charge-youtube-traffic-with-key-hash-tags-for-2024/"><u>Supercharge YouTube Traffic with Key Hash Tags for 2024</u></a></li>
+</ul></div>
 

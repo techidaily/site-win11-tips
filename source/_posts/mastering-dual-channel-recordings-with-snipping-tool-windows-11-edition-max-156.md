@@ -1,7 +1,7 @@
 ---
 title: Mastering Dual-Channel Recordings with Snipping Tool (Windows 11 Edition) (Max 156)
-date: 2025-01-24T18:55:35.735Z
-updated: 2025-01-31T20:57:38.877Z
+date: 2025-02-13T19:50:27.021Z
+updated: 2025-02-15T19:52:40.433Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Snipping Tool Gets an Audio Recording Feature
 
  The Sniping Tool got a major facelift after getting video capture support in Windows 11\. After that came the [Text Actions feature](https://www.makeuseof.com/text-actions-snipping-tool-windows-11/) that can read text from screenshots, which is another useful add-on. You can already annotate the captured screenshots in the tool, so adding audio capture support makes it a complete package for users.
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 4. Click and drag the selection tool to highlight the area you want to record. You will notice two new icons in the top bar alongside the timer and Start button; these enable you to control the system audio recording and microphone audio recording.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click on the **microphone** icon. You will have to allow the app to use your PC's microphone for audio recordings.
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 7. Navigate to the **Let apps and access your microphone** section. Scroll down and find the **Snipping Tool** app in the list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Click on the toggle to allow the Snipping Tool to access the system’s microphone.  
@@ -74,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 ![saving recorded video from snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/saving-recorded-video-from-snipping-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Change the Audio Capture Settings in the Snipping Tool
@@ -87,16 +91,12 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 3. If you want to always enable microphone recording, click the toggle next to **Include microphone input by default when a screen recording starts**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. To prevent the system audio capture, disable the toggle next to **Include system audio by default when a screen recording starts**.  
 ![Tweak Snipping tool audio settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tweak-snipping-tool-audio-settings.jpg)
 5. Close the Snipping Tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the Audio Recording Feature Any Good?
 
@@ -118,19 +118,20 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-crafting-a-youtube-empire-26-successful-techniques/"><u>[Updated] 2024 Approved Crafting a YouTube Empire 26 Successful Techniques</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-maximizing-engagement-youtube-links-as-a-catalyst/"><u>[Updated] 2024 Approved Maximizing Engagement YouTube Links as a Catalyst</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-script-to-screen-methods-of-inserting-dialogue-into-online-videos/"><u>[Updated] In 2024, From Script to Screen Methods of Inserting Dialogue Into Online Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-streamed-dialogue-scribe-for-2024/"><u>[Updated] Streamed Dialogue Scribe for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/find-9-pathways-to-manage-windows-11-sounds-effectively/"><u>Find 9 Pathways to Manage Windows 11 Sounds Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-active-microphone-input-for-live-recording-obs-and-windows-11/"><u>How to Enable Active Microphone Input for Live Recording, OBS & Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-acoustic-link-for-speakers-for-2024/"><u>Innovative Acoustic Link for Speakers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-printer-removal-guide-for-windows-users/"><u>Instant Printer Removal Guide for Windows Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/live-or-recorded-twitch-versus-youtube-face-off/"><u>Live or Recorded Twitch versus YouTube Face Off</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mejores-opciones-de-alternativas-al-repalizador-de-datos-de-synology-para-su-pc-con-windows-11-descargue-hoy/"><u>Mejores Opciones De Alternativas Al Repalizador De Datos De Synology Para Su PC Con Windows 11 - Descargue Hoy!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unchangeable-power-settings-in-win11/"><u>Overcoming Unchangeable Power Settings in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-silent-speaker-problems-on-windows-pcs/"><u>Remedying Silent Speaker Problems on Windows PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-your-steam-vr-headsets-invisibility-with-these-6-tips/"><u>Resolve Your Steam VR Headset's Invisibility with These 6 Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-win-10s-cc-glitches-and-errors/"><u>Swift Solutions to Win 10'S CC Glitches & Errors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-snag-the-best-screen-grabber-software-in-win10-today/"><u>[Updated] Snag the Best Screen Grabber Software in Win10 Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-rectifying-onedrive-operational-glitches-on-windows-11/"><u>Decoding and Rectifying OneDrive Operational Glitches on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/end-the-frustration-of-non-scrolling-cells-ranges-and-sheets-excel-36516/"><u>End the Frustration of Non-Scrolling Cells, Ranges, and Sheets (Excel 365/16)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gaining-insight-into-your-gpus-potential-using-these-6-essential-windows-apps/"><u>Gaining Insight Into Your GPU's Potential Using These 6 Essential Windows Apps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-honor-v-purse-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor V Purse Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-secrets-to-affordable-gopro-acquisitions/"><u>In 2024, Secrets to Affordable GoPro Acquisitions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-tips-for-truly-tuning-into-your-iphone-podcasts/"><u>In 2024, Tips for Truly Tuning Into Your iPhone Podcasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tier-strategies-for-flawless-srt-file-integration-on-vero-and-tumblr/"><u>In 2024, Top-Tier Strategies for Flawless SRT File Integration on Vero & Tumblr</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-your-pc-reboot-ready-look-for-these-signs/"><u>Is Your PC Reboot Ready? Look for These Signs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/masterchef-showdown-in-overcooked-2-a-riveting-game-guide-and-review/"><u>MasterChef Showdown in Overcooked! 2 - A Riveting Game Guide & Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-winerror-code-0x80190001/"><u>Resolving WinError: Code 0X80190001</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamlessly-distribute-content-crafting-windows-11-self-extractable-files/"><u>Seamlessly Distribute Content: Crafting Windows 11 Self-Extractable Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-common-webcam-failure-codes-in-windows/"><u>Solving Common Webcam Failure Codes in Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/this-innovative-virtual-reality-app-helps-you-learn-a-foreign-language/"><u>This Innovative Virtual Reality App Helps You Learn A Foreign Language</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-7-essential-competencies-needed-for-successful-navigation-of-transit-and-supply-chain-management-on-the-abbyy-platform/"><u>Top 7 Essential Competencies Needed for Successful Navigation of Transit and Supply Chain Management on the ABBYY Platform</u></a></li>
 </ul></div>
 

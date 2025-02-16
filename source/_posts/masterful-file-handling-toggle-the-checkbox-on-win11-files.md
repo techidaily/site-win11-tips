@@ -1,7 +1,7 @@
 ---
 title: "Masterful File Handling: Toggle the Checkbox on Win11 Files"
-date: 2024-12-18T09:48:14.905Z
-updated: 2024-12-22T09:20:21.269Z
+date: 2025-02-10T03:52:04.405Z
+updated: 2025-02-15T16:07:49.972Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable Checkboxes Using the Command Bar
@@ -40,13 +40,13 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 ![Item check boxes in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/item-check-boxes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. You might need to restart your computer to see the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Checkboxes Using the Folder Option
@@ -62,10 +62,6 @@ Here's how to use the Folder Option to enable the checkboxes:
 ![Use check boxes to select items in Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/use-check-boxes-to-select-items.jpg)
 5. Click**Apply** and then**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Enable Checkboxes by Editing the Registry
 
  The Registry Editor is an essential Windows tool that lets you customize system settings. To use the Registry Editor to enable checkboxes in the File Explorer, follow the below steps:
@@ -80,10 +76,14 @@ Here's how to use the Folder Option to enable the checkboxes:
 5. Type**1** in the**Value data** and click**OK** to save the changes.  
 ![AutoCheckSelect Option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autocheckselect-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to disable checkboxes, type**0** in AutoCheckSelect Value data and save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enabling Checkboxes in the File Explorer
@@ -105,21 +105,18 @@ Here's how to use the Folder Option to enable the checkboxes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-next-gen-titans-windows-10s-newest-games-and-apps/"><u>[New] 2024 Approved Next-Gen Titans Windows 10'S Newest Games and Apps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-how-many-gb-is-a-24-hour-video-for-2024/"><u>[New] How Many GB Is a 24 Hour Video for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-pathways-to-acquiring-facebooks-distinguished-verification/"><u>[New] Pathways to Acquiring Facebook's Distinguished Verification</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-blueprint-for-blending-video-content-into-curricula/"><u>[Updated] 2024 Approved Blueprint for Blending Video Content Into Curricula</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-maximizing-your-win11-conference-capabilities/"><u>[Updated] Expert Tips Maximizing Your Win11 Conference Capabilities</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-15-online-audio-haven-sites-for-video-content-makers/"><u>[Updated] In 2024, 15 Online Audio Haven Sites for Video Content Makers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gateway-to-apps-in-windows-11-navigating-effortlessly/"><u>Gateway to Apps in Windows 11: Navigating Effortlessly</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-se-2020-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone SE (2020)?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-14-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone 14 Pro and iPad?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-frozen-photoapp-win11-edition-photoshop-not-opening/"><u>Reviving Frozen PhotoApp, Win11 Edition (Photoshop) Not Opening</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-read-locked-windows-files-a-guide/"><u>Taming Read-Locked Windows Files: A Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-windows-odbc-management-toolkit/"><u>The Essential Windows ODBC Management Toolkit</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/triumph-over-error-0x80242016-during-updates/"><u>Triumph Over Error 0X80242016 During Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-disk-control-explore-4-opening-steps-in-windows-disk-editor/"><u>Unlock Disk Control: Explore 4 Opening Steps in Windows Disk Editor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-stunning-graphics-with-driver-refresh-in-win1011/"><u>Unlock Stunning Graphics with Driver Refresh in WIN10/11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-video-creation-software-for-mac-edit-enhance-share/"><u>Updated Video Creation Software for Mac Edit, Enhance, Share</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-rated-sony-a7s-ii-memory-accessory/"><u>[New] Top-Rated Sony A7S II Memory Accessory</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-tailoring-content-creating-ideal-instagram-video-experiences-for-2024/"><u>[Updated] Tailoring Content Creating Ideal Instagram Video Experiences for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1-ultimate-guide-downloading-youtube-content-onto-your-ipad/"><u>1. Ultimate Guide: Downloading YouTube Content Onto Your iPad</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-budget-friendly-video-grabber-selections/"><u>2024 Approved Budget-Friendly Video Grabber Selections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-audio-integrity-audacity-and-windows-interface/"><u>Enhancing Audio Integrity: Audacity & Windows Interface</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/gain-mastery-over-popular-language-korean-and-squid-game/"><u>Gain Mastery Over Popular Language: Korean & Squid Game</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/immediate-repair-guide-for-malfunctioning-huion-drawing-pens-discover-5-fixes/"><u>Immediate Repair Guide for Malfunctioning Huion Drawing Pens - Discover 5 Fixes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-baseline-for-windows-11-terminal/"><u>Reinstating Baseline for Windows 11 Terminal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-built-in-keyboard-from-a-windows-machine/"><u>Removing Built-In Keyboard From a Windows Machine</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rumored-snapshots-unveiling-expected-price-points-and-specs-for-next-gen-iphone-release/"><u>Rumored Snapshots: Unveiling Expected Price Points and Specs for Next-Gen iPhone Release</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-made-win11-keys-personal-setup-guide/"><u>Tailor-Made Win11 Keys: Personal Setup Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-power-of-shortcut-commands-with-windows-narrator/"><u>Unraveling the Power of Shortcut Commands with Windows Narrator</u></a></li>
 </ul></div>
 

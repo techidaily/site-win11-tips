@@ -1,7 +1,7 @@
 ---
 title: A Winning Strategy for Moving Software Into the Future of Windows 11
-date: 2024-08-16T01:20:24.344Z
-updated: 2024-08-17T01:20:24.344Z
+date: 2025-02-12T03:30:45.267Z
+updated: 2025-02-16T00:32:50.597Z
 tags:
   - windows10
   - windows11
@@ -40,13 +40,22 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
 ![Install Old Apps Using Microsoft Account 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-old-apps-using-microsoft-account-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft Store will display all the remaining apps available for restoration. Click on the **Restore All** button if you want to bring back every app. Wait for the apps to install and then close Microsoft Store.
 
 ![Install Old Apps Using Microsoft Account 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-old-apps-using-microsoft-account-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Using a Winget JSON File
 
  The first method of using Microsoft Account has its limitations. It only includes Windows apps and settings but leaves many other third-party apps that you installed from the Winget repository or from the web. So you can use Winget to export the app list into a JSON file and then import it to your new Windows 11 PC. You must execute this method after Windows 11 brings back all the settings and Microsoft apps, and you boot to the desktop.
@@ -59,31 +68,27 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 `winget import -i C:\apps.json --accept-source-agreements --accept-package-agreements`
 4. Replace the folder location and name with the storage location and name of the winget export file on your system.  
 ![Import Apps Using Winget in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/import-apps-using-winget-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 5. Patiently wait while winget downloads and installs all the packages in the JSON file one by one. Then, close the Command Prompt window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What About Any Left Out Apps?
 
  Even after using both methods, some apps will still be left out. It is because Microsoft Account sign-in only brings back Windows settings and Microsoft Store apps. The winget export file can restore only the apps listed in its official repository.
 
  As such, you still need to download the programs that aren’t included in both of these methods. But it will be a very short list compared to the effort you would have to put in if you just performed a normal installation.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Save Time When Setting Up Windows 11
 
  Make sure to enable files, apps, and preferences backup on your PC and create a winget export file beforehand. After you have both these backups in place, you can begin reinstalling Windows 11 on a different PC or reinstalling on the same PC.
 
  But what if you could eliminate the hours spent in finding and installing every single app, and configuring every setting? We will discuss two methods to effortlessly migrate most of your old apps to your new PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -92,5 +97,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-efficient-techniques-screen-recording-in-google-meet/"><u>[New] Efficient Techniques Screen Recording in Google Meet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rom-fandom-to-fame-gamers-livestream-success-strategies-for-2024/"><u>[New] From Fandom to Fame Gamers' Livestream Success Strategies for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/a-viral-strategy-for-impressive-instagram-stories/"><u>A Viral Strategy for Impressive Instagram Stories</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assessing-max-360-and-hero-11-the-ultimate-gopro-video-experience-for-2024/"><u>Assessing Max 360 & Hero 11 The Ultimate GoPro Video Experience for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-customize-your-finder-view-on-apple-devices/"><u>Easy Steps to Customize Your Finder View on Apple Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratis-online-omzijmen-van-mp3-naar-wav-professionele-movavi-tools-voor-audioprocessing/"><u>Gratis Online Omzijmen Van MP3 Naar WAV: Professionele Movavi-Tools Voor Audioprocessing</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/grow-with-integrity-selecting-reputable-tiktok-leads/"><u>Grow with Integrity Selecting Reputable TikTok Leads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-remove-the-spotlight-wallpaper-icon-from-windows-11s-desktop/"><u>How to Remove the Spotlight Wallpaper Icon From Windows 11’S Desktop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-editing-software-tailored-to-dji-filmmaking/"><u>In 2024, Superior Editing Software Tailored to DJi Filmmaking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-the-glitch-how-to-overcome-server-slips-in-ms-store/"><u>Mending the Glitch: How to Overcome Server Slips in MS Store</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seven-simple-solutions-for-tackling-windows-based-obs-failures/"><u>Seven Simple Solutions for Tackling Windows-Based OBS Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sound-and-sight-synergy-on-windows-an-efficient-drivers-upgrade-guide/"><u>Sound and Sight Synergy on Windows: An Efficient Drivers Upgrade Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-over-windows-woes-unraveling-and-fixed-11-issues/"><u>Win Over Windows Woes - Unraveling & Fixed 11 Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-search-removing-visuals/"><u>Windows Search: Removing Visuals</u></a></li>
+</ul></div>
 

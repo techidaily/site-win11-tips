@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Inaccessible Windows 11 Apps
-date: 2025-01-27T23:58:55.872Z
-updated: 2025-02-02T19:49:06.496Z
+date: 2025-02-12T17:00:15.350Z
+updated: 2025-02-16T00:23:07.538Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Is the Mail and Calendar App Not Opening on Windows 11?
 
  One of the primary reasons the Mail and Calendar app is inaccessible on Windows 11 is the corrupt system files. The issue can also occur due to outdated Windows versions and temporary app glitches.
 
  Fortunately, it's very easy to troubleshoot the problem. Below are all the working fixes you can try in the situation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Restart and Install Updates
 
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 3. Click on**Check for updates** .  
 ![Windows Check for update screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Check-for-updates.jpg)
 4. Windows will check for any pending updates and install them if available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After updating to the latest OS version, check if you can open the app. If not, move on to the next solutions.
 
@@ -60,6 +64,10 @@ Here's how to update Mail and Calendar on Windows 11.
 3. Click on**Get updates** .  
 ![Microsoft Store app library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Get-updates.jpg)
 4. Microsoft Store will suggest updates for all the installed UWP apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Download the update available for Mail and Calendar.
 
@@ -79,6 +87,10 @@ Here's how to run the Windows Store Apps Troubleshooter.
 5. The troubleshooting window will pop up and look for the problem.
 
  If any problem is found, follow the onscreen instructions to apply the potential fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Check Mail Sync Settings
 
@@ -100,11 +112,7 @@ Here's how to run the Windows Store Apps Troubleshooter.
 7. Click**Done** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change Mail and Calendar Privacy Settings
@@ -120,7 +128,7 @@ Here's how to run the Windows Store Apps Troubleshooter.
 4. Next, click on the**Email** option in the App permission section, and enable the toggle next to**Mail and Calendar** in the following window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Repair the Mail and Calendar App
@@ -137,11 +145,11 @@ Here are the steps to repair the Mail and Calendar app.
 6. Under the**Reset** section, click on**Repair.**  
 ![Mail and Calendar repair and reset screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Repair-Mail.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Windows will take a few seconds to repair the app. Once the process is complete, launch the Mail and Calendar, and check if you are still facing the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Clear Microsoft Store Cache
 
@@ -169,11 +177,11 @@ Here's how to do it.
 ![Windows Firewall allow an app through firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Mail-and-Calendar.jpg)
 7. Click OK to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The third-party antivirus program can also cause the issue. Try to disable it and check if you can access the Mail and Calendar app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Re-Register the Mail And Calendar App
 
@@ -206,10 +214,6 @@ Here are the steps to run an SFC scan.
 
 Reboot the system once DISM finishes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Reinstall Mail and Calendar
 
  If none of the fixes helped solve the issue, you could consider reinstalling the Mail and Calendar app. You can reinstall Mail and Calendar by following the below steps.
@@ -219,10 +223,6 @@ Reboot the system once DISM finishes.
 `Get-AppxPackage Microsoft.windowscommunicationsapps | Remove-AppxPackage`
 
  Next, open the Microsoft Store, and download the Mail and Calendar app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Open Mail And Calendar With Ease
 
@@ -243,20 +243,24 @@ Reboot the system once DISM finishes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-legal-aspects-of-recording-whatsapp-talks-for-2024/"><u>[Updated] Navigating Legal Aspects of Recording WhatsApp Talks for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-online-tale-creation-fundamentals/"><u>2024 Approved Mastering Online Tale Creation Fundamentals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-the-nvidia-geforce-connection-hurdle-in-win-11/"><u>Bypassing the Nvidia GeForce Connection Hurdle in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/game-explorer-3-ways-to-access-directories-on-windows-pcs/"><u>Game Explorer: 3 Ways to Access Directories on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hacking-into-windows-11s-silent-camera-alert-system/"><u>Hacking Into Windows 11'S Silent Camera Alert System</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harmonizing-sights-with-itunes-acoustics-for-2024/"><u>Harmonizing Sights with iTunes Acoustics for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resolve-winerror-installation-fault-0xc004f050/"><u>How to Resolve WinError: Installation Fault #0XC004F050</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-law-filters-into-your-windows-workflows/"><u>Integrating LAW Filters Into Your Windows Workflows</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ideo-beginnings-identifying-the-best-16-for-more-watches/"><u>Key Video Beginnings Identifying the Best 16 for More Watches</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-modern-innovation-insights-and-analysis-for-rings-best-in-class-doorbell-plus/"><u>Mastering Modern Innovation: Insights and Analysis for Ring's Best-in-Class Doorbell +</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-setup-instructions-for-download-validity-fingerprint-recognition-driver-download/"><u>Quick Setup Instructions for [DOWNLOAD]: Validity Fingerprint Recognition Driver Download</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/regarder-et-convertir-les-films-de-lorf-gratuitement-avec-movavi/"><u>Regarder Et Convertir Les Films De L'ORF Gratuitement Avec Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-preference-portal-your-operating-systems-lair/"><u>The Preference Portal: Your Operating System’s Lair</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-installation-fix-for-ms-pc-manager-on-xp/"><u>Unlock Installation: Fix for MS PC Manager on XP</u></a></li>
-<li><a href="https://fox-info.techidaily.com/visual-content-enhanced-by-skilled-narrative-addition/"><u>Visual Content Enhanced by Skilled Narrative Addition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-quick-content-in-a-facebook-frame/"><u>[New] 2024 Approved Quick Content in a Facebook Frame</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-top-5-emulators-for-reviving-ps1-classics-on-pc/"><u>[New] In 2024, Top 5 Emulators for Reviving PS1 Classics on PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-rise-in-popularity-top-10-must-try-instagram-hashtags-for-2024/"><u>[New] Rise in Popularity Top 10 Must-Try Instagram Hashtags for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-essentials-of-narrowing-virtual-room-spaces-for-2024/"><u>[New] The Essentials of Narrowing Virtual Room Spaces for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-a-compreited-list-of-top-8-gaming-monitors-5k-for-2024/"><u>[Updated] A Compreited List of Top 8 Gaming Monitors, 5K for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-computer-chronology-windows-edition/"><u>Deciphering Computer Chronology - Windows Edition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-regain-superuser-status-in-windows-terminal/"><u>How to Regain Superuser Status in Windows Terminal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immerse-yourself-in-a-three-dimensional-audio-world-on-windows-11/"><u>Immerse Yourself in a Three-Dimensional Audio World on Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-ideal-cameras-perfect-for-smooth-podcasting/"><u>In 2024, Ideal Cameras Perfect for Smooth Podcasting</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-screenskip-videocapturer-kit/"><u>In 2024, ScreenSkip Videocapturer Kit</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-geforce-rtx-2070-drivers-optimized-for-windows-10-8-and-7/"><u>Latest Version of Geforce RTX 2070 Drivers: Optimized for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/maximize-battery-longevity-on-your-android-smartphone-effective-strategies/"><u>Maximize Battery Longevity on Your Android Smartphone – Effective Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-windows-canary-channel-basics/"><u>Navigating the Windows Canary Channel Basics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reigniting-your-computers-print-functionality-with-effective-wwin-solutions/"><u>Reigniting Your Computer's Print Functionality with Effective WWin Solutions.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-sailing-from-noisy-error-0xc00d36b4-in-win1011/"><u>Smooth Sailing From Noisy Error 0XC00D36B4 in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-windows-navigation-for-iis-management-space/"><u>Swift Windows Navigation for IIS Management Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-your-windows-serial-with-ms-accounts/"><u>Unifying Your Windows Serial with MS Accounts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-over-local-device-naming-problems-on-windows-pcs/"><u>Winning Over Local Device Naming Problems on Windows PCs</u></a></li>
 </ul></div>
 

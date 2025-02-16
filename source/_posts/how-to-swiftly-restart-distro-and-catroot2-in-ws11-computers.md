@@ -1,7 +1,7 @@
 ---
 title: How to Swiftly Restart Distro & Catroot2 in WS11 Computers
-date: 2025-01-28T04:58:15.744Z
-updated: 2025-01-31T18:55:47.323Z
+date: 2025-02-13T02:36:19.456Z
+updated: 2025-02-16T00:21:10.621Z
 tags:
   - windows10
   - windows11
@@ -56,6 +56,10 @@ net stop msiserver`
 ![The SoftwareDistribution folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/softwaredistribution-folder.jpg)
 9. Bring up the catroot2 folder by entering this path in Explorer’s address bar:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `C:\Windows\System32\catroot2`
 10. Repeat steps seven and eight above to erase everything in that folder.  
 ![The catroot2 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/catroot2folder.jpg)
@@ -70,10 +74,6 @@ net start cryptSvc
 net start msiserver`
 12. Restart the PC and check for updates after clearing those folders.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Renaming Them
 
  Renaming the SoftwareDistribution and Catroot2 directories is an alternative method for resetting those folders. Windows will recreate those folders after you’ve renamed them. You can rename the SoftwareDistribution and catroot2 folders with the Command Prompt like this:
@@ -84,12 +84,16 @@ net start msiserver`
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `ren %systemroot%\system32\catroot2 catroot2.bak`  
 ![The ren catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-catroot2-folder.jpg)
@@ -97,6 +101,10 @@ net start msiserver`
 
 ![The net start command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-start-commands.jpg)
 6. Exit Command Prompt and select to restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders With FixWin 11
 
@@ -110,24 +118,16 @@ net start msiserver`
 ![The Extract Compressed ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/extract-compressed-window.jpg)
 6. Double-click the **FixWin 11.1.exe** file in the extracted folder for FixWin.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click **Additional Fixes** on the left of the FixWin window.
 8. Select the **Quick Fixes** tab.
 9. Press the **Reset Software Distribution folder** button.  
 ![The Quick Fixes tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/quick-fixes-tab.jpg)
 10. Click the **Reset catroo2 Folder** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 11. Exit FixWin and reboot your PC after selecting those options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix Windows Update Issues by Resetting the SoftwareDistribution and Catroot2 Folders
@@ -146,18 +146,24 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ssential-guide-to-mastering-asmr-experience-for-2024/"><u>[New] Essential Guide to Mastering ASMR Experience for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-pro-quality-footage-selecting-the-ultimate-7-cameras-for-2024/"><u>[New] Pro Quality Footage Selecting the Ultimate 7 Cameras for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-essential-8-platforms-for-private-screenings-for-2024/"><u>[Updated] Essential 8 Platforms for Private Screenings for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-for-m-audio-fast-track-driver-on-windows-10-7-8-and-81/"><u>Easy Installation Guide for M-Audio Fast Track Driver on Windows 10, 7, 8 and 8.1</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-concealed-search-sentry-within-windows-11-taskbar/"><u>Enabling Concealed Search Sentry Within Windows 11 Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-reinstating-steam-game-icons/"><u>Guide to Reinstating Steam Game Icons</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-fix-a-persistent-caps-lock-issue-on-your-windows-computer/"><u>How to Fix a Persistent Caps Lock Issue on Your Windows Computer</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-restore-erased-information-on-your-iphone-with-stellars-help/"><u>How to Restore Erased Information on Your iPhone with Stellar's Help</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-x90s-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo X90S FRP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-failed-cloud-operations-onedrive/"><u>Navigating Through Failed Cloud Operations (OneDrive)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-the-dilemma-of-disconnected-airpods-on-windows-11/"><u>Troubleshooting Guide: Solving the Dilemma of Disconnected AirPods on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-smooth-steam-access-resolving-timeout-issues-via-rustwindows/"><u>Unlocking Smooth Steam Access: Resolving Timeout Issues via Rust/Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-ahead-a-new-era-with-ai/"><u>Windows 11 Ahead: A New Era with AI</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-securing-your-spatial-content-mastering-the-art-of-360-degree-video-filming-and-uploading/"><u>[New] 2024 Approved Securing Your Spatial Content Mastering the Art of 360-Degree Video Filming & Uploading</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unite-film-selections-with-playlist-accumulation/"><u>[New] Unite Film Selections with Playlist Accumulation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-how-to-download-vimeo-video-to-mp3/"><u>[Updated] In 2024, How to Download Vimeo Video to MP3</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-streamline-your-soundtrack-selection-for-youtube/"><u>[Updated] In 2024, Streamline Your Soundtrack Selection for YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-game-recommendations-on-win11/"><u>Disabling Game Recommendations on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-window-management-skills-using-keyboard-in-win11/"><u>Enhance Your Window Management Skills Using Keyboard in Win11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhancing-your-privacy-on-apple-music-top-4-strategies-for-discreet-enjoyment/"><u>Enhancing Your Privacy on Apple Music: Top 4 Strategies for Discreet Enjoyment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-handle-runtime-errors-when-malwarebytes-cant-call-proc/"><u>How to Handle Runtime Errors when Malwarebytes Can't Call Proc</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-motorola-moto-g13-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Motorola Moto G13 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-5-essential-steps-to-prevent-blank-screen-issues-in-obs/"><u>In 2024, 5 Essential Steps to Prevent Blank-Screen Issues in OBS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-alienware-aurora-r7-high-performance-at-what-cost/"><u>In-Depth Analysis of Alienware Aurora R7: High Performance at What Cost?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pathways-to-the-system32-folder-in-win11/"><u>Pathways to the System32 Folder in Win11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/premium-gadgets-to-save-livestreamed-vids-on-youtube/"><u>Premium Gadgets to Save Livestreamed Vids on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-resource-consumption-from-windows-default-browser/"><u>Reducing Resource Consumption From Windows' Default Browser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/starting-windows-media-player-made-simple/"><u>Starting Windows Media Player Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-functional-file-consolidation-tool/"><u>Troubleshooting Non-Functional File Consolidation Tool</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/ultra-high-definition-desktop-scenes-full-resolution-1920x1080-graphics-by-yl-computing/"><u>Ultra-High Definition Desktop Scenes - Full Resolution 1920X1080 Graphics by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-avoid-robot-generated-windows-11-access-codes/"><u>Why Avoid Robot-Generated Windows 11 Access Codes?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-default-apps-how-to-change-them-and-what-to-do-if-you-cant/"><u>Windows 11 Default Apps: How to Change Them and What to Do If You Can't</u></a></li>
 </ul></div>
 

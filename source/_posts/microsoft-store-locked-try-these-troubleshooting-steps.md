@@ -1,7 +1,7 @@
 ---
 title: Microsoft Store Locked? Try These Troubleshooting Steps
-date: 2025-01-26T20:28:24.524Z
-updated: 2025-02-02T22:10:40.575Z
+date: 2025-02-08T21:39:46.911Z
+updated: 2025-02-15T23:52:06.425Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check Your Internet Connection
@@ -66,13 +66,13 @@ To repair the Microsoft Store app on Windows:
 4. Under the**Reset** section, click the**Repair** button.  
 ![Repair or Reset Microsoft Store on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-or-reset-microsoft-store-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A checkmark should appear next to the Repair button once the process is complete.
 
  If you cannot sign in even after attempting a repair, you can try[resetting the Microsoft Store app on Windows](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Correct Date and Time on Your PC
 
@@ -85,7 +85,7 @@ To repair the Microsoft Store app on Windows:
 ![Enable Automatic Date and Time on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-automatic-date-and-time-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Make Sure Microsoft Store Install Service Is Running
@@ -103,7 +103,7 @@ To configure the Microsoft Store Install Service on Windows:
 ![Configure Microsoft Store Install Service on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/configure-microsoft-store-install-service-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Temporarily Disable Your VPN
@@ -119,7 +119,7 @@ To configure the Microsoft Store Install Service on Windows:
  Another thing you can do to resolve this particular issue is re-register the Microsoft Store on your system. This will help you eliminate corrupt app data and restore Microsoft Store to its working state. You can refer to our guide to find detailed instructions on[how to re-register Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Reinstall Microsoft Store
@@ -135,7 +135,7 @@ To configure the Microsoft Store Install Service on Windows:
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Regain Access to the Microsoft Store on Windows
@@ -157,22 +157,22 @@ To configure the Microsoft Store Install Service on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-speech-recognition-made-accessible-transforming-audio-to-text-with-ease-in-microsoft-word/"><u>[New] Speech Recognition Made Accessible Transforming Audio to Text with Ease in Microsoft Word</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-ultimate-powerdirector-24-review-a-comprehensive-dive/"><u>[Updated] 2024 Approved The Ultimate PowerDirector '24 Review A Comprehensive Dive</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-access-all-movies-ioss-no1-freepluspaid-film-apps-guide/"><u>[Updated] Access All Movies IOS's No.1, FREE+Paid Film Apps Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-record-and-share-screencast-tips-from-ezvide-expertise/"><u>[Updated] In 2024, Record and Share Screencast Tips From EZvide Expertise</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-creative-splitscreens-in-youtube-filmmaking-for-2024/"><u>[Updated] Mastering Creative Splitscreens in YouTube Filmmaking for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-res-aerial-showdown-dji-vs-gopro-capture/"><u>2024 Approved High-Res Aerial Showdown DJi vs GoPro Capture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crucial-cross-platform-tools-windows-meets-android/"><u>Crucial Cross-Platform Tools: Windows Meets Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-the-onedrive-symbol-from-windows-11-filesystem/"><u>Eradicating the OneDrive Symbol From Windows 11 Filesystem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-obs-studio-not-launching-on-windows/"><u>How to Fix OBS Studio Not Launching on Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leading-smartphototech-ai-edition-advantages/"><u>Leading SmartPhotoTech AI Edition Advantages</u></a></li>
-<li><a href="https://fox-http.techidaily.com/mastering-visual-enhancements-in-tiktok/"><u>Mastering Visual Enhancements in TikTok</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-steam-file-sync-problem-in-windows-environment/"><u>Overcoming Steam File Sync Problem in Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prioritize-safety-invest-heavily-in-research-to-develop-advanced-safety-features-that-reduce-potential-risks-associated-with-drone-operations-such-as-collis31/"><u>Prioritize Safety: Invest Heavily in Research to Develop Advanced Safety Features that Reduce Potential Risks Associated with Drone Operations, Such as Collision Avoidance Technology, Redundant System Architectures, and Thorough Pre-Flight Checks.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stay-organized-with-automatic-files-deletion-in-win11/"><u>Stay Organized with Automatic Files Deletion in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-creating-self-extracting-fx-in-win11/"><u>Step-by-Step: Creating Self-Extracting FX in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719334227097-windows-transcends-platforms-iphoneipadmacpc-compatibility-announced/"><u>Windows Transcends Platforms: IPhone/iPad/Mac/PC Compatibility Announced!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-reviews-apples-latest-creation-vision-pro-transforming-the-future-of-home-entertainment/"><u>ZDNet Reviews Apple's Latest Creation - Vision Pro: Transforming the Future of Home Entertainment</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-stream-talent-twitter-live-broadcast-basics/"><u>[New] 2024 Approved Stream Talent Twitter Live Broadcast Basics</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-creative-fusion-of-images-for-joyful-existence-for-2024/"><u>[New] Creative Fusion of Images for Joyful Existence for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-how-to-zoom-videos-in-youtube/"><u>[New] In 2024, How to Zoom Videos in YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-online-media-crafter/"><u>[Updated] 2024 Approved Online Media Crafter</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-prime-mp4-conversion-for-seamless-facebook-sharing/"><u>[Updated] In 2024, Prime MP4 Conversion for Seamless Facebook Sharing</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-these-top-8-cost-free-roku-streaming-options-for-a-premium-viewing-experience/"><u>Explore These Top 8 Cost-Free Roku Streaming Options for a Premium Viewing Experience!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-enigma-of-error-0x0000004e-in-win11/"><u>Fixing the Enigma of Error 0X0000004E in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-most-common-anydesk-failures/"><u>Fixing Windows' Most Common AnyDesk Failures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuito-conversor-de-arquivos-video-m4v-on-line-pela-movavi/"><u>Gratuito: Conversor De Arquivos Vídeo M4V On-Line Pela Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-tips-operating-the-toolbar-in-mspcm-win11/"><u>Key Tips: Operating the Toolbar in MSPCM Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-inaccessible-delete-switch-in-windows-11-pins/"><u>Overcoming Inaccessible Delete Switch in Windows 11 PINs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-seamless-operation-of-ps-windows-version/"><u>Restoring Seamless Operation of PS Windows Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-workday-top-9-motivations-to-switch-to-windows-outlook/"><u>Transform Your Workday: Top 9 Motivations to Switch to Windows' Outlook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-greyed-out-pin-deletion-command-on-pc/"><u>Unlocking Greyed-Out Pin Deletion Command on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-health-5-key-steps-for-device-status-tracking/"><u>Windows 11 Health: 5 Key Steps for Device Status Tracking</u></a></li>
 </ul></div>
 

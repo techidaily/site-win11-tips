@@ -1,7 +1,7 @@
 ---
 title: Instantaneous Access with Custom Windows Shortcuts (UWP)
-date: 2025-01-31T22:09:06.109Z
-updated: 2025-02-02T22:00:06.617Z
+date: 2025-02-10T01:44:42.905Z
+updated: 2025-02-16T02:49:26.965Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 ![The Link box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-link-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Create Desktop Shortcuts for UWP Apps From the Applications Folder
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 ![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Create Desktop Shortcuts for Pre-Installed UWP Apps With the Create Shortcut Wizard
@@ -88,20 +88,20 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 
  Incidentally, you can also create shortcuts with URIs for Settings pages much the same. Check out this[how to set up Settings page shortcuts](https://www.makeuseof.com/windows-11-shortcuts-for-settings-pages/) guide for further details.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Pin UWP Desktop Shortcuts to the Taskbar
 
  You can select to pin UWP apps to the taskbar with their desktop shortcuts. To do so, right-click the UWP app’s desktop shortcut and select**Show more options** \>**Pin to taskbar** . Then you can open the app from the taskbar instead.
 
 ![The Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pin-to-taskbar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that you can’t pin web document desktop shortcuts to the taskbar. The context menus for desktop shortcuts created with URI commands don’t include the**Pin to taskbar** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Assign Hotkeys to UWP App Desktop Shortcuts
@@ -115,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 4. Select**Apply** \>**OK** to save the hotkey for the desktop shortcut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create Shortcuts for All Your Favorite UWP Apps
@@ -137,18 +137,20 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-framingfraction-analysis/"><u>[New] FramingFraction Analysis</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-how-to-pin-a-message-on-discord/"><u>[New] How to Pin A Message on Discord?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-immerse-in-unprecedented-reality-stories/"><u>[Updated] In 2024, Immerse in Unprecedented Reality Stories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-elevating-your-wsl-2-and-docker-coexistence/"><u>A Guide to Elevating Your WSL 2 & Docker Coexistence</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/best-5-second-lapses-recorder-top-pick/"><u>Best 5-Second Lapses Recorder - Top Pick</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-honor-90-gt-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Honor 90 GT is off? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tackle-failed-projection-links-on-windows-os/"><u>How to Tackle Failed Projection Links on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/inside-closure-opening-folderfile-secrets-quickly/"><u>Inside Closure: Opening Folder/File Secrets Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-intrusions-top-7-windows-safeguarding-methods/"><u>Preventing Intrusions: Top 7 Windows Safeguarding Methods</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/professionelle-tipps-zur-sicheren-kopie-von-dvds-mit-den-neuesten-betriebssystemen-windows-and-macos-losungen-und-methoden/"><u>Professionelle Tipps Zur Sicheren Kopie Von DVDs Mit Den Neuesten Betriebssystemen Windows & macOS - Lösungen Und Methoden</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-how-to-clear-steams-dns-cache/"><u>Understanding How to Clear Steam's DNS Cache</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/workaround-for-prolonged-shutdown-during-active-windows-10-applications/"><u>Workaround for Prolonged Shutdown During Active Windows 10 Applications</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-vs-dailymention-identifying-key-variations/"><u>YouTube Vs. DailyMention Identifying Key Variations</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-instantly-share-selfies-the-step-by-step-walkthrough-for-2024/"><u>[New] Instantly Share Selfies The Step-by-Step Walkthrough for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-instant-melodic-livestreaming-on-iqiyi-for-2024/"><u>[Updated] Instant Melodic Livestreaming on IQiYi for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-sidestep-personalized-podcast-suggestions-in-spotify/"><u>[Updated] Sidestep Personalized Podcast Suggestions in Spotify</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-advanced-greenscreen-techniques-a-complete-guide-to-chroma-key-kinemaster/"><u>2024 Approved Unveiling Advanced Greenscreen Techniques A Complete Guide to Chroma Key (KineMaster)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/a-fun-twist-on-typical-dashcams-the-ddpai-mini3-reviewed-for-google-searches/"><u>A Fun Twist on Typical Dashcams: The Ddpai Mini3 Reviewed for Google Searches</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/enhance-your-site-with-cookiebot-technology/"><u>Enhance Your Site with Cookiebot Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-run-command-keeps-activities-recorded/"><u>Ensuring Run Command Keeps Activities Recorded</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harness-the-power-of-gopro-studio-essential-editing-techniques-for-2024/"><u>Harness the Power of GoPro Studio Essential Editing Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-windows-11-defense-adding-customizable-filter-options-to-context-menu/"><u>Perfecting Windows 11 Defense: Adding Customizable Filter Options to Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-methods-for-determining-your-devices-identification-through-windows/"><u>Proven Methods for Determining Your Devices’ Identification Through Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-14-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi 14</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-techniques-for-finding-hidden-gpeditmsc/"><u>Simple Techniques for Finding Hidden Gpedit.msc</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-prevent-changes-in-windows-time-settings/"><u>Techniques to Prevent Changes in Windows Time Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-read-only-recovery-on-windows-11-folders/"><u>Troubleshooting Read-Only Recovery on Windows 11 Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-share-issue-on-geforce-experience/"><u>Troubleshooting Share Issue on GeForce Experience</u></a></li>
 </ul></div>
 

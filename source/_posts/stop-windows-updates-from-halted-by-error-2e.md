@@ -1,7 +1,7 @@
 ---
 title: Stop Windows Updates From Halted by Error 2E
-date: 2025-01-30T01:04:49.625Z
-updated: 2025-02-02T17:20:26.982Z
+date: 2025-02-12T23:02:28.931Z
+updated: 2025-02-15T16:26:04.292Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes Windows Update Error 0x8024002e?
 
  If you're dealing with Windows Update error 0x8024002e, there are a variety of potential causes, ranging from corrupted files and incompatible hardware settings to incorrect network configurations. Other possible culprits include outdated drivers and limited storage space.
@@ -37,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 
 Let's now see how to fix this error code on Windows:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  Restarting your computer is an easy way to resolve many Windows Update errors. By restarting, you're resetting the memory of your device and clearing out any pesky bugs that may be causing trouble with error 0x8024002e. Give it a try - after rebooting, check if the issue has been resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Restart the Windows Update Services
 
@@ -60,7 +56,7 @@ To restart the Windows Update service, follow these steps:
 6. Now click**Apply > OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you have started the Windows Update service, repeat this same process with several other services provided below:
@@ -72,6 +68,10 @@ To restart the Windows Update service, follow these steps:
 * Windows Installer.
 
  Once you've completed the process, check Windows Update again to see if the error is still occurring.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Tweak the Registry Editor
 
@@ -161,17 +161,13 @@ net start cryptsvc`
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-windows-update-components.jpg)
 5. Name the file**ResetWindowsUpdate.bat** and save it to your desktop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Now right-click on the batch file and select**Run as administrator** from the context menu.
 7. If UAC window pops up on the screen, click**Yes** to continue.
 
  Wait for the process to complete and then restart your computer. After you follow these steps, check to see if the 0x8024002e error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Apply Generic Windows Update Fixes
@@ -179,6 +175,10 @@ net start cryptsvc`
  If all else fails, it's time to try some more general fixes. These have had good track records for fixing Windows Update errors, regardless of the error code it gives you.
 
  Check out[the ways to fix Windows Update errors on Windows 11](https://www.makeuseof.com/windows-11-update-error-fixes/) for more. Most of them should also work on Windows 10 machines.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resolving Windows Update Error 0x8024002e
 
@@ -199,22 +199,20 @@ net start cryptsvc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-immediate-ios-screen-playback-guide-for-2024/"><u>[New] Immediate iOS Screen Playback Guide for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-elevate-your-social-media-presence-by-pining-on-snapchat/"><u>[Updated] 2024 Approved Elevate Your Social Media Presence by Pining on Snapchat</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-highly-ranked-drone-selections-for-gopro-videos-and-shoots/"><u>[Updated] In 2024, Highly Ranked Drone Selections for GoPro Videos & Shoots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-future-proofing-healthcare/"><u>ChatGPT's Role in Future-Proofing Healthcare</u></a></li>
-<li><a href="https://blog-min.techidaily.com/decoding-the-mystery-of-bat-files-learn-everything-about-their-functions-and-method-to-execute/"><u>Decoding the Mystery of .BAT Files - Learn Everything About Their Functions & Method to Execute</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-steps-for-perfect-directx-setup-and-updates/"><u>Easy Steps for Perfect DirectX Setup & Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-pc-display-switch-to-advanced-wmlayouts/"><u>Elevate PC Display: Switch to Advanced WMLayouts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-win-based-steam-internet-connectivity-issues/"><u>Fixing Win-Based Steam Internet Connectivity Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-set-of-folders-cannot-be-opened-error-in-outlook-on-windows/"><u>How to Fix “The Set of Folders Cannot Be Opened” Error in Outlook on Windows</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unveiling-top-8-no-cost-3d-videos-players-pcmac/"><u>In 2024, Unveiling Top 8 No-Cost 3D Videos Players PC/Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/learn-cmd-lingo-top-5-playful-procedures-unveiled/"><u>Learn Cmd Lingo: Top 5 Playful Procedures Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722882301688-master-the-art-of-putting-keys-back-on-your-damaged-laptop-keyboard-learn-how-now/"><u>Master the Art of Putting Keys Back on Your Damaged Laptop Keyboard - Learn How Now!</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-application-launch-failure-the-0xc000003e-error-on-windows-11/"><u>Solving Application Launch Failure: The 0XC000003E Error on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/switch-viewing-direction-on-windows-device/"><u>Switch Viewing Direction on Windows Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-using-dism-with-win11-system-recovery/"><u>The Ultimate Guide to Using Dism with Win11 System Recovery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tricks-for-a-larger-windowed-pin-display-in-win-11/"><u>Tricks for a Larger Windowed Pin Display in Win 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-dimensions-and-edits-the-imovie-crop-enigma/"><u>[New] In 2024, Dimensions and Edits The iMovie Crop Enigma</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-essential-quick-steps-for-effective-double-take-filming/"><u>[Updated] Essential Quick Steps for Effective Double Take Filming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-fix-shaky-gopro-videos/"><u>2024 Approved How to Fix Shaky GoPro Videos</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-11s-intricate-data-collection/"><u>Decoding Windows 11'S Intricate Data Collection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-fixes-to-overcome-common-windows-app-errors/"><u>Efficient Fixes to Overcome Common Windows App Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-pc-setup-sticking-gmail-on-the-windows-taskbar/"><u>Essential PC Setup: Sticking Gmail on the Windows Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-adjust-admin-managed-chromium-and-microsoft-edge-in-windows/"><u>Guidelines to Adjust Admin-Managed Chromium & Microsoft Edge in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-itel-p55-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Itel P55 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-device-latency-zerodxgierror-in-win11-pcs/"><u>How to Tackle Device Latency ZeroDXGIError in Win11 PCs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-from-zero-to-trendsetter-solo-podcast-success-story/"><u>In 2024, From Zero to Trendsetter Solo Podcast Success Story</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-poco-m6-pro-4g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Poco M6 Pro 4G FRP?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mobile-animation-mastery-the-best-apps-for-android-and-ios-for-2024/"><u>New Mobile Animation Mastery The Best Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/novices-companion-to-windows-accessibility-features/"><u>Novice's Companion to Windows Accessibility Features</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
 </ul></div>
 

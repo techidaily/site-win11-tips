@@ -1,7 +1,7 @@
 ---
 title: "Windows Bluetooth Troubleshooting: Music Only Lacking Volume/Controls"
-date: 2024-12-20T02:18:14.781Z
-updated: 2024-12-21T16:33:40.750Z
+date: 2025-02-10T21:11:14.544Z
+updated: 2025-02-16T04:05:03.515Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Windows Bluetooth Troubleshooter
 
 ![Run Bluetooth troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bluetooth-troubleshooter-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows 10 and 11 feature a built-in troubleshooter to find and fix common Bluetooth issues. It is an automated tool but works differently on Windows 10 and 11\.
 
@@ -43,17 +43,13 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 ![bluetooth troubleshooter get help automatic diagnostic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bluetooth-troubleshooter-get-help-automatic-diagnostic.jpg)
 4. Click **Run** for the **Bluetooth** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. The troubleshooter will scan the system for issues and recommend applicable fixes automatically. Follow the on-screen instructions to apply the fixes.
 6. On the newer iteration of Windows 11, this will open the **Get Help** app seeking your consent to run the troubleshooter. Click **Yes** and then follow the on-screen instructions. You can skip some steps, like checking for Windows updates, by selecting the **No** option.
 
  Let the Get Help app try all available fixes until the issue is fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Bluetooth Services in Device Properties
@@ -65,6 +61,11 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 1. Press **Win + R** to open **Run**.  
 ![control printers run box windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/control-printers-run-box-windows.jpg)
 2. Type **control Printer** and click **OK** to open the **Bluetooth & devices** tab in the **Settings** app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Next, click on **Devices**.  
 ![bluetooth and devices devices windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bluetooth-and-devices-devices-windows-11-settings.jpg)
 4. Scroll down and click **More devices** **and printer settings**. This should open **Devices and Printers** in the Control Panel.
@@ -95,7 +96,7 @@ Remotely Controllable Device`
 3. In the Services snap-in, locate the following services and check if the status shows **Running**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `Bluetooth Audio Gateway Service  
@@ -116,6 +117,10 @@ Bluetooth User Support Service`
 * **Roll back a recent driver update**: New but buggy driver update can also cause the Bluetooth adapter to act up. To fix the issue, you can [perform a driver rollback for the Bluetooth adapter](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) to install the previous driver version. While a handy option, its availability can differ depending on when the driver was installed.
 * **Reinstall the Bluetooth adapter driver:** A reinstall may be necessary if a corrupt or partially installed driver causes Bluetooth-related problems. To [uninstall Bluetooth drivers in Windows](https://www.makeuseof.com/windows-11-uninstall-drivers/), you can use the Device Manager or the Command Prompt. Restart your PC and Windows should reinstall the driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Update the Bluetooth Driver Manually From the Manufacturer’s Website
 
  While some driver updates may be available via Windows updates, you will likely receive the latest update from the device manufacturer's website. In this instance, check your Bluetooth device manufacturer's website to see if a new update is available.
@@ -135,34 +140,11 @@ Bluetooth User Support Service`
 
  Similarly, the download page may also offer older versions of the driver. If you have the latest version installed, try to download an older version to perform a downgrade. Useful if the rollback driver option isn’t available in Device Manager.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixing the Bluetooth Headset or Speaker Showing a "Voice Only" Error
 
  Incorrect Bluetooth service configuration is a common reason your Bluetooth device shows as connected as voice only. You can configure the device’s properties to enable these services. If the issue persists, check for driver issues by installing a new driver update or performing a driver rollback.
 
  However, if a quick reconnect doesn’t help, the problem may be due to a buggy audio driver, incorrect audio device configuration, and stopped audio services. Here we show you a few troubleshooting tips to help you resolve this problem on Windows and get your Bluetooth headset working again.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-broadcasting-your-favorite-fb-videos-on-big-screen/"><u>[Updated] Broadcasting Your Favorite FB Videos on Big Screen</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-crafting-professionally-recorded-audio-via-audacity-for-2024/"><u>[Updated] Crafting Professionally Recorded Audio via Audacity for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-freewayframe-the-road-to-effortless-game-snapshots-in-24/"><u>[Updated] FreewayFrame The Road to Effortless Game Snapshots in '24</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-video-flair-advanced-techniques-in-youtube-studio-editor/"><u>[Updated] In 2024, Elevate Video Flair Advanced Techniques in YouTube Studio Editor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-hidden-storage-a-windows-adventure/"><u>Discovering Hidden Storage: A Windows Adventure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fine-tune-your-android-development-top-tips-for-windows-users/"><u>Fine-Tune Your Android Development: Top Tips for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-mic-failures-tips-and-tricks-for-windows-11-users/"><u>Fixing Mic Failures: Tips and Tricks for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-counteract-missed-steam-icons/"><u>How to Counteract Missed Steam Icons</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-razr-40-ultra-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Razr 40 Ultra to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722193389897-impatient-for-chatgpts-desktop-version-heres-an-exceptional-free-open-source-substitute-to-check-out/"><u>Impatient for ChatGPT's Desktop Version? Here's an Exceptional Free Open Source Substitute to Check Out</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/investigating-the-consequences-of-device-isolation-in-windows/"><u>Investigating the Consequences of Device Isolation in Windows</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/secure-and-detailed-best-ways-to-document-fb-call-footage/"><u>Secure & Detailed Best Ways to Document FB Call Footage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-tackle-malwarebytes-runtime-error-missed-calls/"><u>Strategies to Tackle Malwarebytes Runtime Error: Missed Calls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-counteract-yellowed-image-on-laptop-screens/"><u>Techniques to Counteract Yellowed Image on Laptop Screens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-applications-for-your-pc-switch-from-mac/"><u>The Ultimate Guide to Applications for Your PC Switch From Mac</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -171,3 +153,20 @@ Bluetooth User Support Service`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-from-console-to-community-livestream-your-xbox-for-2024/"><u>[New] From Console to Community Livestream Your Xbox for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-box-customization-havens-on-the-internet/"><u>2024 Approved Best Box-Customization Havens on the Internet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/androids-leading-image-editing-does-pickup-reign-supreme-for-2024/"><u>Android's Leading Image Editing Does PickUp Reign Supreme for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/cultivating-a-thriving-audience-for-your-channel/"><u>Cultivating a Thriving Audience for Your Channel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-speed-keyboard-mastery-through-powertoys/"><u>Elevate Speed: Keyboard Mastery Through PowerToys</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-audio-in-your-headphones-on-windows-11/"><u>Fixing the Issue: How to Restore Audio in Your Headphones on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-a-non-operational-win11-code/"><u>How to Reactivate a Non-Operational Win11 Code</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-vocal-to-text-conversion-with-windows-whisper/"><u>Master the Art of Vocal to Text Conversion with Windows Whisper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-steam-file-sync-in-windows-environment/"><u>Mastering Steam File Sync in Windows Environment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionizing-presentation-content-with-automated-transcription/"><u>Revolutionizing Presentation Content with Automated Transcription</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solve-your-microsoft-store-sign-in-problems-today/"><u>Solve Your Microsoft Store Sign-In Problems Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-apple-watch-screen-guardians-the-ultimate-list-recommended-by-tech-experts/"><u>Top-Ranked Apple Watch Screen Guardians: The Ultimate List - Recommended by Tech Experts</u></a></li>
+</ul></div>
+

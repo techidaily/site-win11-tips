@@ -1,7 +1,7 @@
 ---
 title: Eliminate Windows Updates Prompts
-date: 2025-02-01T21:54:02.919Z
-updated: 2025-02-02T22:32:28.736Z
+date: 2025-02-08T22:54:21.817Z
+updated: 2025-02-15T18:05:56.592Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disable Windows Update Notifications via the Settings App
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 4. Disable the toggle for**Notify me when a restart is required to finish updating** .
 5. Disable the toggle for**Get me up to date** so that Windows does not display a restart warning when an update is ready for installation.  
 ![Disable Windows Update Notifications Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-the-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you complete the above steps, Windows should not bother you with update notifications.
 
@@ -57,14 +61,10 @@ To disable Windows update notifications using Group Policy Editor:
 ![Disable Windows Update Notifications Using the Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-group-policy-editor-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to re-enable the Windows update notifications later, follow the same steps above and set the**Display options for update notifications** policy to**Not configured** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable Windows Update Notifications With Registry Editor
 
@@ -86,13 +86,13 @@ To disable Windows update notifications using Registry Editor:
 ![Disable Windows Update Notifications Using the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-the-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Exit the Registry Editor window and restart your PC to apply the changes. Following that, Windows will not display update notifications on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No More Update Notifications on Windows
@@ -116,16 +116,22 @@ To disable Windows update notifications using Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-permission-to-browse-friends-media-content-on-smschat-services/"><u>[New] 2024 Approved Permission to Browse Friends' Media Content on SMS/Chat Services</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/levate-your-online-impact-with-effective-backlink-strategies/"><u>[New] Elevate Your Online Impact with Effective Backlink Strategies</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-save-the-scene-techniques-for-transcribing-live-videos/"><u>[Updated] In 2024, Save the Scene Techniques for Transcribing Live Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customize-the-status-bar-a-guide-to-including-a-weather-icon-in-windows-11/"><u>Customize the Status Bar: A Guide to Including a Weather Icon in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-security-and-freedom-for-xr-users-how-a-vpn-is-crucial-for-headsets-such-as-the-vision-pro/"><u>Enhancing Security and Freedom for XR Users: How a VPN Is Crucial for Headsets Such as the Vision Pro</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-transformational-tiles-of-imagery-elevate-your-surroundings/"><u>In 2024, Transformational Tiles of Imagery Elevate Your Surroundings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-time-display-on-win-11-taskbar/"><u>Mastering Time Display on Win 11 Taskbar</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimize-your-gopro-shoot-for-2024/"><u>Optimize Your GoPro Shoot for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/score-the-latest-on-apple-watch-deals-and-special-pricing/"><u>Score the Latest on Apple Watch Deals and Special Pricing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-11-bluetooth-try-connecting-error/"><u>Steps to Resolve Windows 11 Bluetooth 'Try Connecting' Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sticky-notes-strategies-for-sustained-top-level-visibility-on-win-os/"><u>Sticky Notes Strategies for Sustained Top-Level Visibility on Win OS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-screen-capture-bandicam-vs-camtasia-battle-for-2024/"><u>[New] Mastering Screen Capture Bandicam Vs. Camtasia Battle for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-optimizing-your-online-presence-leading-twitter-de-followers/"><u>[Updated] 2024 Approved Optimizing Your Online Presence Leading Twitter De-Followers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715939478478-updated-how-to-record-lol-gameplay3-methods-for-2024/"><u>[Updated] How to Record LOL Gameplay?(3 Methods) for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-key-tactics-for-identifying-potential-youtube-co-stars/"><u>[Updated] Key Tactics for Identifying Potential YouTube Co-Stars</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-quick-guide-eradicating-unwanted-youtube-downloads-on-pcmac/"><u>[Updated] Quick Guide Eradicating Unwanted YouTube Downloads on PC/Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-to-pc-unplugged-controller-setup-guide/"><u>Direct-to-PC: Unplugged Controller Setup Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-stubborn-epic-launcher-on-windows-11-pcs-guide/"><u>Disabling Stubborn Epic Launcher on Windows 11 PCs: Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-fixing-authentication-in-windows-os/"><u>Essential Guide to Fixing Authentication in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-save-location-errors-in-windows-pcs/"><u>How to Correct Save Location Errors in Windows PCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-sony-xperia-10-v-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Sony Xperia 10 V to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209635996-9781847094285-life-crisis-the-mindful-way/"><u>Life Crisis: The Mindful Way | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unable-to-link-error-guide-for-nvidia-experience-on-windows-11/"><u>Overcoming Unable to Link Error: Guide for Nvidia Experience on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/snippets-from-cinema-to-skillful-editors-arsenal-for-2024/"><u>Snippets From Cinema to Skillful Editors' Arsenal for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-keyboard-gurus-guide-to-windows-photos/"><u>The Keyboard Guru's Guide to Windows Photos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-handling-ksuserdll-not-found-error/"><u>Troubleshooting Techniques for Handling 'ksuser.dll Not Found' Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-print-management-interface/"><u>Unveiling Windows Print Management Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-the-battle-against-disk-read-failures/"><u>Winning the Battle Against Disk Read Failures</u></a></li>
 </ul></div>
 

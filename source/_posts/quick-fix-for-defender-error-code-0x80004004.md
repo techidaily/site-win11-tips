@@ -1,7 +1,7 @@
 ---
 title: Quick FIX for Defender Error Code 0X80004004
-date: 2025-02-01T00:37:26.033Z
-updated: 2025-02-03T01:44:03.070Z
+date: 2025-02-13T20:49:38.582Z
+updated: 2025-02-16T02:58:46.663Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Understanding the Problem Behind Error Code 0x80004004
 
  The Microsoft Defender error code 0x80004004 occurs when there is an issue with the tool’s functionality, such as when launching the app, trying to update it, or during a scan. When this error occurs, it can cause the following problems:
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 * The error may prevent you from updating the Defender utility. If this happens, you are likely to face the error statement "Virus and spyware definitions couldn’t be updated", which can leave your system vulnerable to threats.
 * The real-time protection feature which monitors the files and processes to protect your system might fail to function.  
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There can be a number of reasons why this error might be occurring on your system. Here are some of the most common ones:
 
@@ -62,17 +62,13 @@ Here is how you can do that:
 5. Now, click on the**Start** button if the service is stopped. If it is functional, click on the**Stop** button, wait for a few seconds, and click**Start** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Make sure the Startup type is set to**Automatic** .
 7. Click**Apply** \>**OK** to save the changes.
 
  Perform the same steps for the Microsoft Defender Firewall service and check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Uninstall Conflicting Software
 
@@ -84,21 +80,21 @@ Here is how you can do that:
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Try Some Generic Windows-Based Fixes
 
  Now that you've tried some specific fixes for this error, it's time to try some more general ways for fixing errors like this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Run the Windows Update Troubleshooter
 
  If you are encountering the error code while trying to update Microsoft Defender, then you can[run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Install the Update Manually
 
@@ -107,6 +103,10 @@ Here is how you can do that:
  If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on[the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
 
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change Your Antivirus Program
 
@@ -133,20 +133,21 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ocial-broadcast-battleground-fb-live-yt-live-twitvision/"><u>[New] Social Broadcast Battleground FB Live, YT Live, TwitVision</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-event-viewer-breakdowns/"><u>Addressing Windows Event Viewer Breakdowns</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-a-global-keyboard-downloading-windows-fonts/"><u>Crafting a Global Keyboard: Downloading Windows Fonts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-method-integrating-airpods-with-windows/"><u>Efficient Method: Integrating AirPods with Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-self-scrolled-windows-with-ease-and-precision/"><u>Fix Self-Scrolled Windows with Ease and Precision</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-call-of-duty-wwii-display-problems-with-black-screens-on-pc-a-complete-guide/"><u>Fixing Call of Duty: WWII Display Problems with Black Screens on PC - A Complete Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-mend-flickering-screens-in-windows-11/"><u>How to Mend Flickering Screens in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-perfect-system-how-to-add-and-protect-your-bios-hyperlink-on-tiktok/"><u>In 2024, Perfect System How to Add and Protect Your Bio's Hyperlink on TikTok</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-top-11-list-excellent-audio-devices/"><u>In 2024, Ultimate Top 11 List Excellent Audio Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-moves-for-unlocking-the-calculator-in-windows-11/"><u>Key Moves for Unlocking the Calculator in Windows 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/macos-compatible-printer-installation-tutorial-what-you-need-to-know/"><u>MacOS Compatible Printer Installation Tutorial: What You Need To Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-effortless-transition-in-windows-terminals-attention-mode/"><u>Quick Fix: Effortless Transition in Windows Terminal’s Attention Mode</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/egies-for-success-in-online-content-creation/"><u>Strategies for Success in Online Content Creation</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-wallet-friendly-gps-unpacking-bouncies-driving-connectivity-tool-in-depth/"><u>Top Rated, Wallet-Friendly GPS: Unpacking Bouncie's Driving Connectivity Tool in Depth</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capturing-the-action-screen-recorder-roundup-for-2024/"><u>[New] Capturing the Action Screen Recorder Roundup for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-essential-guide-to-storing-with-adobe-including-what-not-to-miss-elsewhere-for-2024/"><u>[Updated] Essential Guide to Storing with Adobe, Including What Not To Miss Elsewhere for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sharpen-your-viewing-experience-mastering-camera-focus-online/"><u>[Updated] Sharpen Your Viewing Experience Mastering Camera Focus Online</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-creativity-opening-ms-paint-on-win11/"><u>Jumpstart Creativity: Opening MS Paint on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-password-required-avoidance-on-windows-11/"><u>Mastering the Art of 'Password Required' Avoidance on Windows 11</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/raw-jpg-movavi/"><u>RAW 파일을 JPG로 쉽게 전환: Movavi에서 비용 없는 인터넷 기술 – 시작하기 위한 지침</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefining-reset-count-for-lockouts-after-logon-errors-in-windows-11-pro/"><u>Redefining Reset Count for Lockouts After Logon Errors in Windows 11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-windows-paperwork-handler/"><u>Refreshing Windows Paperwork Handler</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/shanghai-welcomes-taipei-mayor-jiang-wanan-at-the-twin-cities-forum-no-plans-for-a-summit-with-chinas-taiwan-affairs-office-chief-song-tao-insights-from-yl-26/"><u>Shanghai Welcomes Taipei Mayor Jiang Wan'an at the Twin Cities Forum; No Plans for a Summit with China’s Taiwan Affairs Office Chief Song Tao - Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-handling-missing-powershell-on-windows/"><u>Strategies for Handling 'Missing PowerShell' On Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-insiders-guide-to-transforming-psp-into-a-zx-spectrum-lookalike/"><u>The Insider's Guide to Transforming PSP Into a ZX Spectrum Lookalike</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-ultimate-programming-laptops-features-and-reviews-techradar/"><u>Top 5 Ultimate Programming Laptops - Features & Reviews | TechRadar</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-strategies-for-seamless-dvd-transfer-to-plex-step-by-step-process-unveiled/"><u>Top Strategies for Seamless DVD Transfer to Plex - Step-by-Step Process Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-your-spoken-language-into-written-communication-using-whisper-on-windows/"><u>Turning Your Spoken Language Into Written Communication Using Whisper on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreezing-steam-directory-access-fixes-for-windows-11/"><u>Unfreezing Steam Directory Access: Fixes for Windows 11</u></a></li>
 </ul></div>
 

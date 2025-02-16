@@ -1,7 +1,7 @@
 ---
 title: "Achieving Serenity: Windows Sleep Mode Guide"
-date: 2024-08-16T01:16:52.678Z
-updated: 2024-08-17T01:16:52.678Z
+date: 2025-02-09T00:45:48.939Z
+updated: 2025-02-15T16:35:39.344Z
 tags:
   - windows10
   - windows11
@@ -29,11 +29,16 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 3. Select**Sleep** from the menu that appears.  
 ![Put Windows Computer to Sleep From Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-from-start-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Can’t find the sleep option in the Start menu? Check our guide on [how to restore a missing Sleep option on Windows](https://www.makeuseof.com/windows-10-fix-mising-sleep-option/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Putting a Windows PC to Sleep With the Power User Menu
 
  The Windows Power User menu gives you quick access to a number of system tools and settings. Here's how you can use it to put your computer to sleep.
@@ -41,9 +46,9 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 1. Right-click the**Start icon** on the taskbar or use the**Win + X** keyboard shortcut to open the Power User menu.
 2. Select**Shut down or sign out > Sleep** .  
 ![Put Windows Computer to Sleep From Power User Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-from-power-user-menu.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Using the Sleep Key on Your Keyboard
@@ -52,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
  The sleep key is usually labeled with a**crescent moon** or a**Zz** icon. You can press that key while holding the**Function** or**Fn** key to put Windows into sleep mode.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Converting the Power Button Into a Sleep Button
 
  Is your keyboard lacking a dedicated sleep button? Why not use the power button on your desktop or laptop to put Windows to sleep? To do so, you’ll have to access your PC’s power settings and configure the Power key to function as a Sleep key. Here's how to do it.
@@ -66,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 5. Use the drop-down menu next to**When I press the power button** to select**Sleep** .
 6. Click the**Save changes** button at the bottom.  
 ![Put Windows Computer to Sleep Using Power Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-using-power-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Now, when you press the physical Power button on your machine, your PC will fall asleep instantly.
 
@@ -88,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 3. Use the drop-down menu to select**Sleep** and hit**OK** .  
 ![Put Windows Computer to Sleep Using Shut Down Windows Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-using-shut-down-windows-dialog.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Use the Command Prompt or PowerShell
 
  Another way to put your Windows computer to sleep is via a command-line utility. For this to work, you’ll need to disable hibernation mode on your computer. Here’s how to do that.
@@ -102,15 +105,9 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 `rundll32.exe powrprof.dll, SetSuspendState Sleep`
 
 ![Put Windows Computer to Sleep Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-using-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 As soon as you run the above command, your PC will enter sleep mode.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Set Up Automatic Sleep Mode on Windows
 
  You can also configure your Windows computer to enter sleep mode automatically after a certain period of inactivity. Here are the steps for the same.
@@ -120,9 +117,6 @@ As soon as you run the above command, your PC will enter sleep mode.
 3. Click the downward arrow next to**Screen and sleep** .
 4. Click the drop-down menu beside**On battery power, put my device to sleep after** , and**When plugged in, put my device to sleep after** to select a time period after which Windows should fall asleep.  
 ![Power and Battery Settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-and-battery-settings-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Create a Desktop Shortcut to Put Windows to Sleep
 
@@ -136,9 +130,17 @@ As soon as you run the above command, your PC will enter sleep mode.
 3. Enter a suitable name for your shortcut and click on**Finish** .  
 ![Create Sleep Shortcut in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-sleep-shortcut-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now when you double-click on that shortcut, your computer will enter sleep mode.
 
  Conveniently, you can also put your computer to sleep with a keyboard shortcut. If you're interested in doing that, check our guide on [how to shut down or sleep Windows with a keyboard shortcut](https://www.makeuseof.com/tag/how-to-shutdown-or-sleep-windows-10-with-a-keyboard-shortcut/) and follow the steps outlined there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Many Ways to Put a Windows Computer to Sleep
 
@@ -146,14 +148,11 @@ As soon as you run the above command, your PC will enter sleep mode.
 
  That said, putting your Windows computer to sleep may not always be the best option. Sometimes it's better to completely shut down your computer, especially if you're not going to use it for an extended period of time.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,8 +161,21 @@ As soon as you run the above command, your PC will enter sleep mode.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-photodirector-masterclass-review-for-2024/"><u>[New] PhotoDirector Masterclass Review for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-revolutionizing-your-approach-to-iptv-viewership-saving/"><u>[Updated] 2024 Approved Revolutionizing Your Approach to IPTV Viewership Saving</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-zoom-substitutes-for-pcs-tablets/"><u>[Updated] Essential Zoom Substitutes for PCs, Tablets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerating-battery-performance-add-custom-alerts-to-windows-11/"><u>Accelerating Battery Performance: Add Custom Alerts to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-efficient-workflow-multi-screen-settings-in-win11/"><u>Achieve Efficient Workflow: Multi-Screen Settings in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-msvcrt120dll-omission-on-pcs/"><u>Addressing Msvcrt120dll Omission on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-sensitivity-on-modern-windows-devices/"><u>Balancing Sensitivity on Modern Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/batch-to-executable-guide-for-windows-users/"><u>Batch-to-Executable Guide for Windows Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-camon-20-lock-screen-password-by-drfone-android/"><u>How To Change Tecno Camon 20 Lock Screen Password?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s23-ultra-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S23 Ultra To Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-expert-list-superior-gaming-live-options/"><u>In 2024, Expert List Superior Gaming Live Options</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-motorola-moto-g13-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Motorola Moto G13</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719262774069-your-on-premise-window-to-a-costless-chatgpt-clone-via-gpt4all/"><u>Your On-Premise Window to a Costless ChatGPT Clone via GPT4All.</u></a></li>
+</ul></div>
 

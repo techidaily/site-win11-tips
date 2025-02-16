@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Way to Achieve Crisp Backdrops on W11's Photos Interface
-date: 2025-01-31T19:18:12.200Z
-updated: 2025-02-03T00:47:55.623Z
+date: 2025-02-12T21:51:51.235Z
+updated: 2025-02-16T01:54:51.857Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Background Blur Feature in the Photos App?
 
  The Background Blur feature automatically identifies the area behind the subject that should be blurred to highlight the main subject. It is a one-click solution to add the blur effect to the background of an image. You can also adjust the positioning, and intensity of the blur to any portion of the image.
@@ -44,20 +48,20 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![Select image in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/select-image-in-the-photos-app.jpg)
 3. Go to the top bar and click on the **Edit image** icon. Alternatively, you can press the **Ctrl + E** to open the Edit window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click on the **Background Blur** option. The feature will try to identify the background in the image and then apply the blur effect to that area. It can take a few seconds to do so.  
 ![Selecting the background blur feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/selecting-the-background-blur-feature.jpg)
 5. If you are not satisfied with the blur effect, go to the **Blur intensity** option in the right-hand side section. Adjust the slider to increase or decrease the blur effect on the selected background area.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. To blur more parts of the image, click on the toggle next to the **Selection brush** tool. By default, it is set to **Select area**.  
 ![Automatic blur effect in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/automatic-blur-effect-in-photos-app.jpg)
 2. Click and drag the mouse on the area to select it for applying the blur effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Use the adjustment sliders to tweak the brush size and softness of the blur as per your preference.
@@ -65,16 +69,12 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![Deselecting area in background blur effect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/deselecting-area-in-background-blur-effect.jpg)
 5. Then click and drag the brush on the area of the image to deselect it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. After making all the changes, click on the **Apply** button to finalize the blur effect.
 7. Now, click on the **Save a copy** button.
 8. Type a name and click on the **Save** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is the Photos Background Blur Feature Any Good?
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
  You cannot use the tool to only blur a portion of the image and will first have to apply the background blur effect. So, it is effective for background blurring and not precision blurring a small portion of an image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Easily Blur the Backgrounds in Your Photos
@@ -107,18 +107,21 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/voiding-the-bottom-ranks-understanding-impactful-factors-for-2024/"><u>[New] Avoiding the Bottom Ranks Understanding Impactful Factors for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-androids-best-shot-fixer-duo/"><u>[New] In 2024, Android's Best Shot Fixer Duo</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-beginners-ultimate-list-of-youtube-production-tools/"><u>[New] In 2024, Beginner's Ultimate List of YouTube Production Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-revolutionizing-desktop-capturing-a-look-at-springs-features/"><u>[New] Revolutionizing Desktop Capturing A Look at Spring's Features</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unforgettable-journeys-our-favorites-in-adventure-gameplay/"><u>2024 Approved Unforgettable Journeys Our Favorites in Adventure Gameplay</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-validity-fingerprint-sensor-driver-simple-and-fast-installation/"><u>Download the Latest Validity Fingerprint Sensor Driver: Simple and Fast Installation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-enrich-your-film-with-alternative-imagery/"><u>How to Enrich Your Film with Alternative Imagery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-application-was-unable-to-start-0xc000003e-error-in-windows-11-and-11/"><u>How to Fix “The Application Was Unable to Start” 0Xc000003e Error in Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/increase-output-decrease-time-harness-power-of-flow-launcher/"><u>Increase Output, Decrease Time: Harness Power of Flow Launcher</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-no-device-drivers-detected-on-windows-setup/"><u>Resolving 'No Device Drivers Detected' On Windows Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-slow-windows-10-closure-while-tasks-remain-open/"><u>Strategies for Slow Windows 10 Closure While Tasks Remain Open</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-rapid-switching-on-win-11-desktop/"><u>Tips for Rapid Switching on Win 11 Desktop</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-power-of-kindle-scribe-top-9-hacks-to-boost-your-digital-note-taking-game-on-amazons-platform-gadgetguru/"><u>Unlocking the Power of Kindle Scribe: Top 9 Hacks to Boost Your Digital Note-Taking Game on Amazon's Platform | GadgetGuru</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensible-list-best-games-music-found-online/"><u>[New] Comprehensible List Best Games’ Music Found Online</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-instant-access-to-top-notch-hd-footage-on-fb/"><u>[New] In 2024, Instant Access to Top-Notch HD Footage on FB</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/pload-mastery-understanding-and-using-correct-video-sizes-on-youtube-for-2024/"><u>[New] Upload Mastery Understanding and Using Correct Video Sizes on YouTube for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y28-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y28 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-and-iphone-showdowns-the-ultimate-tetris-challenge/"><u>Android and iPhone Showdowns: The Ultimate Tetris Challenge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensively-integrating-dolby-atmos-into-windows-1111/"><u>Comprehensively Integrating Dolby Atmos Into Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-extended-support-changes-the-game-for-windows-11-computers/"><u>How Extended Support Changes the Game for Windows 11 Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-off-mouse-acceleration-in-windows-11-and-11/"><u>How to Turn Off Mouse Acceleration in Windows 11 & 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-engaging-recorders-within-huawei-mate-and-p-series-for-video-capture/"><u>In 2024, Engaging Recorders Within Huawei Mate and P-Series for Video Capture</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-sony-xperia-5-v-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Sony Xperia 5 V Is Unlocked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-portaudio-error-in-audacity-windows-11-and-11-devices/"><u>Overcoming PortAudio Error in Audacity, Windows 11 & 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-remedies-to-cure-onedrive-synch-problems-with-windows-11/"><u>Quick Remedies to Cure OneDrive Synch Problems with Windows 11</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-setting-up-your-printers-drivers-tech-support-by-xyz/"><u>Step-by-Step Guide: Setting Up Your Printer's Drivers - Tech Support by XYZ</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-conversation-a-guide-to-engaging-dialogues-in-chatgpt-roleplaying/"><u>The Art of Conversation: A Guide to Engaging Dialogues in ChatGPT Roleplaying</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triggering-the-credential-manager-in-windows-11-os/"><u>Triggering the Credential Manager in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-windows-11-s-mode-and-should-you-use-it/"><u>What Is Windows 11 S Mode, and Should You Use It?</u></a></li>
 </ul></div>
 

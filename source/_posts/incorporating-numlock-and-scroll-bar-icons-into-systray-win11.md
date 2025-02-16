@@ -1,7 +1,7 @@
 ---
 title: Incorporating NumLock and Scroll Bar Icons Into SysTray Win11
-date: 2024-12-21T04:52:00.693Z
-updated: 2024-12-22T08:02:12.545Z
+date: 2025-02-09T23:15:03.770Z
+updated: 2025-02-16T01:41:30.826Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 5. ![The Use Trial Version radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-use-trial-version-radio-button.jpg)
 6. Click **Install** in the next window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Install option for TrayStatus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-install-option.jpg)
 7. Press **Finish** with the **Launch Now** checkbox selected to run SystemTray.
 
@@ -51,9 +47,17 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
 ![Caps and Num Lock system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/traystatus-indicator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To add a Scroll Lock indicator and others, right-click the TrayStatus Caps Lock icon in the system tray and select **Settings**. Click the **Status Indicators** tab and select **Show Scroll Lock Status**. You can also choose to show Ctrl, Alt, Win, Shift, RAM, CPU, and hard drive indicators on the system tray from there. The RAM and CPU indicators are handy for [checking system resource usage in Windows 11](https://www.makeuseof.com/windows-11-check-ram-gpu-cpu-usage/).
 
 ![The Status Indicators tab in TrayStatus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/indicator-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click on the drop-down menu to select **Light Icons** or **Dark Icons** options. Light is better for dark Windows themes. However, dark indicators will likely be more visible on a light Windows taskbar. Select **Apply** to set your new settings.
 
@@ -72,21 +76,17 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
 ![AddLEDs' system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/addled-indicators.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you prefer to remove a few indicators, right-click one of the AddLEDs icons in the system tray. Then move the mouse cursor over **Show** to deselect the selected indicator options there.
 
  AddLEDs has a few settings with which you can change the color scheme of its system tray indicators. Right-click one of the indicators and move the cursor over Icon Indicators to view those options. Then you can select color scheme options like **Transparent**, **Black/White**, **Blue/Red/Green**, **Green/Red**, and **Red/Blue**.
 
 ![Icon Profile settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/icon-profile-options.jpg)
 
- To set a beep sound for your lock keys, select the **Others** submenu on AddLEDs' context menu. Click **Sound** to enable that option. Then you’ll hear a beep whenever you press the lock keys.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ To set a beep sound for your lock keys, select the **Others** submenu on AddLEDs' context menu. Click **Sound** to enable that option. Then you’ll hear a beep whenever you press the lock keys.
 
 ## How to Add Num, Caps, and Scroll Lock Indicators With Keyboard LEDs
 
@@ -102,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 7. Select the **Finish** option with the **Run Keyboard** LEDs checkbox checked.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What looks more like a battery icon with three boxes will appear in your system tray after starting Keyboard LEDs. Those boxes go red when you turn on Num, Caps, and Scroll Lock. The left box is for Num, the central box is for Caps, and the right one is the Scroll Lock indicator.
@@ -118,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 ![The on-screen lock key indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/on-screen-lock-key-indicators.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add Handy Lock Key Indicators to Windows 11’s System Tray
@@ -129,27 +129,6 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-clearer-captures-await-with-next-gen-tracker-tech-for-2024/"><u>[New] Clearer Captures Await with Next-Gen Tracker Tech for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-authenticity-matters-ensuring-your-tiktoks-are-legally-uploaded/"><u>[Updated] Authenticity Matters Ensuring Your TikToks Are Legally Uploaded</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-understanding-youtube-lives-image-language/"><u>[Updated] In 2024, Understanding YouTube Live's Image Language</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-boosting-popularity-on-instagram-mastery-of-the-top-25-tags/"><u>2024 Approved Boosting Popularity on Instagram Mastery of the Top 25 Tags</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-output-with-chatgpt-strategy-tips/"><u>Boosting Output with ChatGPT Strategy Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-fixed-or-frozen-menu-items-in-windows-11/"><u>Correcting Fixed or Frozen Menu Items in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-insufficient-storage-alerts-on-vmware-windows/"><u>Dealing with Insufficient Storage Alerts on VMware Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-mc-lan-troubles-7-fixes-for-windows-users/"><u>Decoding MC LAN Troubles: 7 Fixes for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-desktop-space-display-gmail-on-pc-taskbar/"><u>Enhancing Desktop Space: Display Gmail on PC Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-advice-efficiently-pinpointing-hdd-or-ssd-on-your-computer/"><u>Expert Advice: Efficiently Pinpointing HDD or SSD on Your Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fast-track-silencing-windows-notification-system/"><u>Fast-Track Silencing Windows Notification System</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/fonebackup-icloud-speicher-erhohung-fehlschlagen-losungen/"><u>FoneBackup: ICloud Speicher Erhöhung Fehlschlagen - Lösungen</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/post-cortana-era-brings-4-enhanced-windows-features/"><u>Post-Cortana Era Brings 4 Enhanced Windows Features</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-euro-truck-simulator-2-crashes-on-your-computer-with-ease/"><u>Resolving Euro Truck Simulator 2 Crashes on Your Computer with Ease</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/strategically-showcasing-achievements-for-2024/"><u>Strategically Showcasing Achievements for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-fix-for-windows-memory-write-issue/"><u>Unlocking the Fix for Windows Memory Write Issue</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -157,3 +136,23 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-become-a-text-meme-wizard-harnessing-genrator-power-for-2024/"><u>[New] Become a Text Meme Wizard Harnessing Gen'rator Power for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-unraveling-the-top-9-free-video-logo-creation-software-list/"><u>[New] In 2024, Unraveling The Top 9 Free Video Logo Creation Software List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snowdrift-scribes-celebrating-beijings-olympic-spotlight/"><u>[New] Snowdrift Scribes Celebrating Beijing's Olympic Spotlight</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-cod-warzone-dev-error-6328-2024-tips/"><u>[SOLVED] COD Warzone Dev Error 6328 – 2024 Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-samsung-galaxy-s21-a-reduced-features-approach/"><u>Comprehensive Analysis of the Samsung Galaxy S21: A Reduced Features Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-enhance-facebook-messaging-on-your-pc/"><u>Effortlessly Enhance Facebook Messaging on Your PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-motorola-defy-2-frp-by-drfone-android/"><u>How Can We Bypass Motorola Defy 2 FRP?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-xiaomi-13-ultra-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Xiaomi 13 Ultra PC | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overriding-blocked-script-policies-four-fixes-for-ps-load-failure/"><u>Overriding Blocked Script Policies: Four Fixes for PS Load Failure</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolved-fixing-dts-audio-not-available-on-selected-output-device/"><u>Resolved: Fixing 'DTS Audio Not Available on Selected Output Device'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-steps-to-deactivate-windows-11-screensaver/"><u>Simple Steps to Deactivate Windows 11 Screensaver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-game-proposals-with-ease-in-win11/"><u>Stop Game Proposals with Ease in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-your-in-store-transfers-with-ms-store-hacks/"><u>Turbocharge Your In-Store Transfers with MS Store Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-accessing-driver-verifier-settings/"><u>Windows 11: Accessing Driver Verifier Settings</u></a></li>
+</ul></div>
+

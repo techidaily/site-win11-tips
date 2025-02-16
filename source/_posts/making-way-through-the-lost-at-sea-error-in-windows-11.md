@@ -1,7 +1,7 @@
 ---
 title: Making Way Through the Lost at Sea Error in Windows 11
-date: 2025-02-02T01:59:25.603Z
-updated: 2025-02-02T22:41:24.857Z
+date: 2025-02-09T01:46:12.661Z
+updated: 2025-02-16T00:31:47.636Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. First, Check the Status of Xbox Servers
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters-in-settings.jpg)
 5. Then apply potential resolutions proposed within the troubleshooter.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
 
  The same troubleshooter is available in Windows 10, but that platform’s Settings app has a slightly different layout. You can access it in Windows 10’s Settings app by selecting **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**. Then click on Windows Store Apps to access a **Run the troubleshooter** option.
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
  Finally, reinstall your Xbox app if nothing else works for fixing the “Looks like you’re stranded” error. You can do that by removing Xbox with the Settings method in our [guide to uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). Then open the [Xbox Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) and click **Get in Store app** \> **Open Microsoft Store**. Select **Get** within the Microsoft Store window to reinstall the latest Xbox app on your PC.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-option-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Try Some Generic Windows App Fixes
 
@@ -69,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 ![The Update all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-update-all-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Select the Xbox App’s Reset Option
@@ -77,14 +85,6 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
  Resetting the Xbox app is a confirmed fix for the “Looks like you’re stranded” error. Doing so will clear away any corrupted or old app data that could be causing the error. It’s easy to clear the Xbox app’s data with the **Reset** option in Settings. You can apply this potential resolution by following the instructions in our article about [resetting Microsoft Store apps](https://www.makeuseof.com/windows-reset-app/).
 
 ![The Reset button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-button-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Change Your DNS Server to Google's Public DNS
 
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dns-server-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get the Xbox App Working Again
@@ -114,18 +114,21 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-adjusting-your-macs-snapshot-formats-with-ease/"><u>[New] In 2024, Adjusting Your Mac's Snapshot Formats with Ease</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-enhance-the-listener-experience-advanced-techniques-for-audio-editing/"><u>2024 Approved Enhance the Listener Experience Advanced Techniques for Audio Editing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/amplify-productivity-integrating-flow-launcher-into-daily-routine/"><u>Amplify Productivity: Integrating Flow Launcher Into Daily Routine</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/an-overview-of-gpt-plugins-and-uses/"><u>An Overview of GPT Plugins & Uses</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210409157-9781956996029-angels-and-awakening/"><u>Angels and Awakening | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/audio-recording-basics-for-newcomers-on-win-11/"><u>Audio Recording Basics for Newcomers on Win 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/examining-mobile-enhancements-with-androids-lightroom-app-for-2024/"><u>Examining Mobile Enhancements with Android's Lightroom App for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-teams-speed-and-efficiency-upgrade/"><u>Microsoft Teams' Speed & Efficiency Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rethinking-default-browsing-in-newest-windows-os/"><u>Rethinking Default Browsing in Newest Windows OS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/se-the-norm-creative-methods-for-backward-youtube-watching-for-2024/"><u>Reverse the Norm Creative Methods for Backward Youtube Watching for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-wellness-companion-why-fitbit-sense-rises-above-the-apple-watch/"><u>The Ultimate Wellness Companion: Why Fitbit Sense Rises Above the Apple Watch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-do-numbers-on-windows-updates-stand-for/"><u>What Do Numbers on Windows Updates Stand For?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-sims-4-live-action-gaming-capture-essentials/"><u>[New] In 2024, Sims 4 Live-Action Gaming Capture Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beware-the-charismatic-cyber-culpritgoogles-faux-wizard-bot/"><u>Beware the Charismatic Cyber Culprit—Google's Faux Wizard Bot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-system-call-failure-in-win11/"><u>Eliminating System Call Failure in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-and-solving-roblox-error-403-for-windows-devices/"><u>Exploring & Solving Roblox Error 403 for Windows Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/gtx-1660-graphics-driver-update-guide-fast-and-simple-steps/"><u>GTX 1660 Graphics Driver Update Guide: Fast & Simple Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-lsassexe-unable-to-locate-component-error-in-windows/"><u>How to Fix the lsass.exe Unable to Locate Component Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-keep-your-desktop-spotless-with-windows-self-clean-feature/"><u>How to Keep Your Desktop Spotless with Windows Self-Clean Feature</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-causes-behind-missing-regedit-application/"><u>Identifying Causes Behind Missing Regedit Application</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-breaking-the-barrier-easy-livestream-setup-for-podcasters/"><u>In 2024, Breaking the Barrier Easy Livestream Setup for Podcasters</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-turning-on-apples-find-my-for-iphones/"><u>Step-by-Step Tutorial: Turning On Apple's 'Find My' For iPhones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-tutorial-review-and-purge-windows-activity-records/"><u>Tech Tutorial: Review & Purge Windows Activity Records</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210799023-9781647495138-the-keys-to-prosperity-manifestation/"><u>The Keys To Prosperity Manifestation | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-low-adoption-rate-of-windows-11-seven-points/"><u>The Low Adoption Rate of Windows 11: Seven Points</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-archer-a9-unveiled-exceptional-performance-meets-affordability-in-this-top-rated-sub-100-router/"><u>TP-Link Archer A9 Unveiled: Exceptional Performance Meets Affordability in This Top-Rated Sub-$100 Router</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo Y200e 5G | Dr.fone</u></a></li>
 </ul></div>
 

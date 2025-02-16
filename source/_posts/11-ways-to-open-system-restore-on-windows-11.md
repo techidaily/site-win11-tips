@@ -1,7 +1,7 @@
 ---
 title: 11 Ways to Open System Restore on Windows 11
-date: 2024-08-16T01:21:13.463Z
-updated: 2024-08-17T01:21:13.463Z
+date: 2025-02-11T23:43:47.750Z
+updated: 2025-02-16T00:05:58.798Z
 tags:
   - windows10
   - windows11
@@ -35,14 +35,12 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 2. Click on the **View by:** drop-down list and select the **large icons** option.
 3. Now, click on the **Recovery** option.  
 ![Open System Restore Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Lastly, click on the **Open System Restore** button.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Using Advanced System Properties Window
 
  You can quickly access System Restore using the Advanced System Properties window. Repeat the following steps:
@@ -63,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 4. Now, click on the **Open System Restore** button.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Using the Run Dialog Box
 
  The Run dialog box supports shortcodes which allow you to access an application faster (provided you know the correct ones). You can even open file locations using this tool. Repeat the following steps:
@@ -72,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 1. Press **Win + R** to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Type **rstrui** in the text box.  
 ![Open System Restore Using Run Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-run-dialog-box.jpg)
 2. Click on the **OK** button to open the System Properties tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Using a Pinned Taskbar Shortcut
 
@@ -94,8 +97,9 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 4. Close the Task Manager window.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Using the File Explorer
 
  System Restore, like all other Windows tools and Control Panel applets, resides in the System32 folder. So, you can use the File Explorer to access the tool. Repeat the following steps:
@@ -104,10 +108,11 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 2. Go to the top area and click on the address bar. Paste the following path and press the **Enter** key: **C:\\Windows\\System32**
 3. Click on the search bar and type **rstrui** and press the **Enter** key to search.  
 ![Open System Restore Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 4. Double-click on the **rstrui.exe** file to open the tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Using CMD or PowerShell
 
@@ -116,15 +121,13 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 1. Press **Win + R** to open the Run dialog box. Type **cmd** or **Powershell** in the text box and press the **Enter** key.
 2. Now type the following command in the terminal and press the Enter key: **rstrui.exe**  
 ![Open System Restore Using CMD or PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-cmd-or-powershell.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Alternatively, you can use the **start-process** cmdlet in PowerShell to launch the tool: **start-process rstrui**
 4. Close the Command Prompt or PowerShell window.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Using a Desktop Shortcut
 
  A desktop shortcut is among the easiest methods to open frequently used apps and programs. You can create a manual Windows shortcut of the System Restore utility and then launch it whenever you like. Repeat the following steps:
@@ -136,10 +139,12 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 5. Click on the text box and paste the following path: **"C:\\Windows\\System32\\rstrui.exe"**
 6. Click on the **Next** button.  
 ![Open System Restore Using Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-desktop-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 7. Now, save the shortcut with the name **System Restore** and click on the **Finish** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Double-click on the newly created shortcut to launch System Restore.
 
 ## 11\. Using a Keyboard Shortcut
@@ -152,19 +157,15 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 4. Press the **Ctrl + Alt + S** keys at once to assign the combination. You can use any other key in place of the “**S**” key.
 5. Click on the **Apply** button and then click on the **OK** button.  
 ![Open System Restore Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-keyboard-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 6. Switch to the desktop or any other window and press the assigned key combination. System Restore utility will pop up.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Access System Restore Quickly
 
  System Restore is an essential aspect that is a lifesaver when you install apps and modify system settings and want to go back. Now, you know multiple methods to launch the tool. The keyboard shortcut key combination is our favorite because you don’t need to interact with anything on the screen.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -173,5 +174,24 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-camstudio-2023-screen-recorder-insights-and-reviews-for-2024/"><u>[Updated] CamStudio 2023 Screen Recorder Insights & Reviews for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-list-top-10-high-res-4k-cameras-in-smartphones-for-2024/"><u>[Updated] Ultimate List Top 10 High-Res 4K Cameras in Smartphones for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2023-a-landmark-year-for-technology-surpassing-past-innovations-insights-from-zdnet/"><u>2023: A Landmark Year for Technology, Surpassing Past Innovations - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-expand-your-horizons-with-a-bundle-of-youtube-videos/"><u>2024 Approved Expand Your Horizons With A Bundle of YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-packaged-photo-errors-on-windows-11-and-11-pro/"><u>Eliminating Packaged Photo Errors on Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-secure-data-movement-in-microsoft-edge-shield-for-w11/"><u>Enabling Secure Data Movement in Microsoft Edge Shield for W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-computer-functionality-post-intel-hardware-violation/"><u>Enhancing Computer Functionality Post-Intel Hardware Violation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ideal-webp-vision-tools-for-windows-enthusiasts/"><u>Ideal WebP Vision Tools for Windows Enthusiasts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-mastering-youtube-settings-to-eliminate-video-skips/"><u>In 2024, Mastering YouTube Settings to Eliminate Video Skips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-spool-service-relaunch/"><u>Instant Spool Service Relaunch</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-media-insights-on-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Social Media: Insights on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powerful-scripts-to-detect-pcs-ip-and-mac/"><u>Powerful Scripts to Detect PC's IP and MAC</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-7-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 7 Plus Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-reds-greens-and-blues-avoiding-windows-color-confusion/"><u>Resolving Reds, Greens & Blues: Avoiding Windows' Color Confusion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210457685-troubleshoot-your-microsoft-screen-mirroring-on-windows-10-solved/"><u>Troubleshoot Your Microsoft Screen Mirroring on Windows 10 - Solved!</u></a></li>
+<li><a href="https://win-bits.techidaily.com/understanding-folders-files-and-page-organization-on-flipbuildercom/"><u>Understanding Folders, Files & Page Organization on FlipBuilder.com</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-nvidia-written-out-errors-guide-to-recovery/"><u>Unlocking NVIDIA' Written Out Errors - Guide to Recovery</u></a></li>
+</ul></div>
 

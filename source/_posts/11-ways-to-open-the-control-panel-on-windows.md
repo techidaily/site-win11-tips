@@ -1,7 +1,7 @@
 ---
 title: 11 Ways to Open the Control Panel on Windows
-date: 2024-08-16T01:21:09.178Z
-updated: 2024-08-17T01:21:09.178Z
+date: 2025-02-10T18:44:08.429Z
+updated: 2025-02-15T16:08:45.459Z
 tags:
   - windows10
   - windows11
@@ -45,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 2. Type **Control Panel** and then click **OK**.
 
 ![Opening the Control Panel Via the Run Command Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Run-Command-Dialog-Box.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Access the Control Panel via the Windows Start Menu
@@ -58,18 +59,7 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 3. Select **Control Panel** from the menu items.
 
 ![Opening the Control Panel Via the Windows Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Windows-Start-Menu.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 4\. Access the Control Panel via the Quick Access Menu
 
  If you want to easily access a couple of Windows built-in system tools, the Quick Access menu can help. In this case, we’ll show you how this tool can help you to open the Control Panel.
@@ -80,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 2. Scroll down and select either **Search** or **Run** from the options.
 
 ![Opening the Control Panel Via the Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Quick-Access-Menu.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Finally, type **Control Panel** in the search box and press **Enter**.
 
@@ -95,8 +89,9 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
  Alternatively, type **C:\\Windows\\System32** in the File Explorer address bar and click **control.exe** or **control** in the next window.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Access the Control Panel via the Task Manager
 
  The Task Manager also offers an easy way to access the Control Panel. Here’s how you can use it:
@@ -106,14 +101,11 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 3. Type **Control Panel** in the search box and press **Enter**.
 
 ![Opening the Control Panel Via the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Task-Manager.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Access the Control Panel via Windows Settings
 
  Did you know that you can also access the Control Panel via the Windows settings? Here’s how:
@@ -122,19 +114,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Type **Control Panel** in the search field and click the relevant option from the search results.
 
 ![Opening the Control Panel Via the System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-System-Settings.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Access the Control Panel via the Command Prompt or PowerShell
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 
  If you like running commands on [PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) or the Command Prompt (CMD), this method is for you.
 
@@ -163,6 +153,10 @@ No advertising on the website.
 
 ![Clicking the control option in the System32 Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-control-option-in-the-system32-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Access the Control Panel Using a Desktop Shortcut
 
  Do you have a Desktop shortcut for the Control Panel? If so, then click on it to easily access the Control Panel!
@@ -174,9 +168,6 @@ No advertising on the website.
 3. Type **%windir%\\system32\\control.exe** in the **location box** and click **Next** to continue.
 
 ![Creating a Control Panel desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/creating-a-control-panel-desktop-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the next window, type **Control Panel** in the name field and then click **Finish** to save the shortcut. Now, you can easily access the Control Panel anytime by clicking on its Desktop shortcut.
 
@@ -191,12 +182,12 @@ No advertising on the website.
 3. Select either **Pin to taskbar** or **Pin to Start** from the options.
 
 ![Clicking the Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-pin-to-taskbar-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  And that's it! You can now access the Control Panel by clicking its icon in the taskbar or Start menu, depending on where you've pinned it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's Your Favorite Method for Opening the Control Panel?
 
@@ -206,8 +197,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  In this article, we'll look at the 11 different methods for accessing this incredible tool.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -215,5 +204,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-enhance-your-online-presence-with-these-50-complimentary-banners/"><u>[New] 2024 Approved Enhance Your Online Presence with These 50 Complimentary Banners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonious-hubs-your-guide-to-posting-audio-on-youtube/"><u>[New] In 2024, Harmonious Hubs Your Guide to Posting Audio on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-insiders-method-becoming-a-pro-at-fb-live-streaming/"><u>[Updated] The Insider's Method Becoming a Pro at FB Live Streaming</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-is-recording-youtube-videos-prohibited-by-law/"><u>2024 Approved Is Recording YouTube Videos Prohibited by Law?</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/crisis-mastery-2009-harness-self-discipline-to-cut-costs-using-massmails-financial-software-solutions/"><u>Crisis Mastery 2009: Harness Self-Discipline to Cut Costs Using Massmail's Financial Software Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-steps-for-manipulating-windows-registry-command-line/"><u>Detailed Steps for Manipulating Windows Registry Command Line</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-controls-in-windows-11s-ui-amenities/"><u>Elevate Controls in Windows 11'S UI Amenities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-playtime-windows-troubleshooting-for-fullscreen-games/"><u>Enhance Playtime: Windows Troubleshooting for Fullscreen Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-windows-11s-new-backup-feature-work/"><u>How Does Windows 11'S New Backup Feature Work?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nubia-lock-screen-password-by-drfone-android/"><u>How To Change Nubia Lock Screen Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-poco-x6-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Poco X6 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/investigating-windows-11s-core-data-the-hidden-registry/"><u>Investigating Windows 11'S Core Data: The Hidden Registry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-fixing-windows-setup-fails/"><u>Overcoming Obstacles: Fixing Windows Setup Fails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedies-for-dead-input-devices-in-windows-os/"><u>Remedies for Dead Input Devices in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-upgrade-new-features-in-microsoft-paint/"><u>The Ultimate Upgrade: New Features in Microsoft Paint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/times-tangle-in-windows-restore-clock-order/"><u>Time's Tangle in Windows: Restore Clock Order</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/trendsetters-pictures-origins-explored-for-2024/"><u>Trendsetters' Pictures Origins Explored for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-oppo-a78-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Oppo A78 fingerprint</u></a></li>
+</ul></div>
 

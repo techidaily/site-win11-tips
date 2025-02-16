@@ -1,7 +1,7 @@
 ---
 title: "Tackling Windows' Erratic Net Behavior: 0X800704B3"
-date: 2025-02-02T00:05:37.540Z
-updated: 2025-02-02T22:22:53.946Z
+date: 2025-02-10T00:14:08.453Z
+updated: 2025-02-15T17:57:23.328Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,14 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 ![Run network troubleshooter in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-troubleshooter-1.jpg)
 5. Once the scan completes, check the results. If the troubleshooter has suggested fixes, click on **Apply this fix**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Otherwise, choose **Close the troubleshooter** and move to the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable the Related Services
@@ -60,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 4. Choose **Properties** from the context menu.  
 ![Launch properties of DHCP client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/launch-properties.jpg)
 5. Click on the **Start** button for it if the service was not running already. If it was, click **Stop**, wait for a few seconds, and click **Start** again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Ensure the Startup type is set to **Automatic**.  
 ![Restart the DHCP service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-dhcp-service.jpg)
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
  Once all the services are running, close the Services window and check if the problem has been resolved. While you are at it, you can also try to [update your network drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) as in some cases, outdated or corrupt drivers can prevent the system from establishing successful connections, leading to issues like the one at hand.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable and Re-enable Network Adapter
@@ -103,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
  If the problem was being caused by issues with the adapter, this should fix them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Disable SMB 1.0 Protocol
 
  The SMB (Server Message Block) protocol allows file and printer sharing between the different devices on a network. The SMB 1.0 is an older version of the protocol and can lead to different issues due to some known vulnerabilities as well as incompatibility.
@@ -119,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 5. Click **OK** to save the changes and restart your computer. Upon reboot, check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reset TCP/IP Stack
@@ -141,10 +145,6 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
  If the error persists, you can try repairing the system files and Windows image using the SFC and DISM utilities. Our [comprehensive guide on using the built-in Windows troubleshooting tools](https://www.makeuseof.com/windows-built-in-repair-tools/) discusses this in detail.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Network Errors Resolved
 
  Network errors can be frustrating, especially if you need to access the internet urgently. Hopefully, the fixes we have listed above will help you fix the error at hand once and for all. If it reappears, you can contact the official Microsoft support team with the essential information and report the issue to them.
@@ -161,21 +161,21 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-finding-the-right-angle-for-your-fb-videos/"><u>[New] Finding the Right Angle for Your FB Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-perfect-wave-linker-the-podcastists-choice/"><u>2024 Approved Perfect Wave Linker The Podcastist's Choice</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-storage-without-spending-the-comprehensive-list-of-best-30-budget-friendly-cloud-services-with-1tbplus/"><u>2024 Approved Storage Without Spending The Comprehensive List of Best 30 Budget-Friendly Cloud Services with 1TB+</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apple-slashes-the-price-of-their-latest-m2-mac-mini-to-an-all-time-low-at-only-479-insights/"><u>Apple Slashes the Price of Their Latest M2 Mac Mini to an All-Time Low at Only $479 - Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/can-you-use-microsoft-word-without-paying-discover-the-truth/"><u>Can You Use Microsoft Word Without Paying? Discover the Truth!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/finding-your-preferred-soft-install-tool-on-win-devices/"><u>Finding Your Preferred Soft Install Tool on Win Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-non-starting-adobe-photoshopping-in-windows-11/"><u>How to Enable Non-Starting Adobe Photoshopping in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-camera-apps-error-0xa00f425d-in-windows-11-and-11/"><u>How to Fix the Camera App’s Error 0xA00F425D in Windows 11 & 11</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/o-get-thousands-of-youtube-views-in-30-days-for-2024/"><u>How To Get Thousands of YouTube Views in 30 Days for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-burst-life-into-slow-motion-with-top-android-apps/"><u>In 2024, Burst Life Into Slow Motion with Top Android Apps</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-magic5-ultimate-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor Magic5 Ultimate to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-android-into-windows-11-select-the-best-6-companion-apps/"><u>Integrating Android Into Windows 11: Select the Best 6 Companion Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/multi-vm-mastery-setting-up-linux-vm-in-hyper-v-on-windows/"><u>Multi-VM Mastery: Setting Up Linux VM in Hyper-V on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-dir-not-empty-error-0x80070091/"><u>Overcoming Windows 11 Dir Not Empty Error (0X80070091)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-tips-for-sticky-note-backup/"><u>The Essential Tips for Sticky Note Backup</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-solutions-when-your-windows-pc-wont-recognize-or-load-printer-drivers-insights-by-yl-computing/"><u>Troubleshooting: Solutions When Your Windows PC Won't Recognize or Load Printer Drivers - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-exploring-christian-music-collections-for-your-device-for-2024/"><u>[New] Exploring Christian Music Collections For Your Device for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-streaming-showdown-gopro-hero5-black-vs-virb-ultra-30/"><u>[New] Streaming Showdown GoPro Hero5 Black Vs. VIRB Ultra 30</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-the-art-of-speech-to-text-with-google-ai/"><u>[Updated] 2024 Approved Mastering the Art of Speech-to-Text with Google AI</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-finding-hashtags-that-amplify-to-6k-views/"><u>[Updated] Finding #Hashtags That Amplify to 6K Views</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-reaching-peak-youtube-potential-through-strategic-creator-studio-usage/"><u>[Updated] Reaching Peak YouTube Potential Through Strategic Creator Studio Usage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/decoding-the-best-hdr-cameras-for-professionals-for-2024/"><u>Decoding the Best HDR Cameras for Professionals for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-differences-unveiling-the-separate-paths-of-local-and-microsoft-windows-login/"><u>Dissecting Differences: Unveiling The Separate Paths of Local & Microsoft Windows Login</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-imovie/"><u>DVDへのダウンロード変換: IMovieを使って安全に作成する手順</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expertise-unlocked-comprehensively-scan-qr-codes-on-windows/"><u>Expertise Unlocked: Comprehensively Scan QR Codes on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-the-best-replacement-apps-for-windows-11/"><u>Explore the Best Replacement Apps for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/procedure-restore-windows-default-energy-profile/"><u>Procedure: Restore Windows’ Default Energy Profile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-absent-pin-problems-post-windows-11-system-glitch/"><u>Resolving Absent PIN Problems Post-Windows 11 System Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surface-laptop-studio-2-the-ultimate-creative-device/"><u>Surface Laptop Studio 2 - The Ultimate Creative Device?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-hidden-windows-in-windows-11/"><u>Unveiling Hidden Windows in Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-the-secrets-of-creative-commons-licensing-for-2024/"><u>Unveiling the Secrets of Creative Commons Licensing for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-vertical-video-editing-apps-for-ios-and-android-devices/"><u>Updated Best Vertical Video Editing Apps for iOS and Android Devices</u></a></li>
 </ul></div>
 

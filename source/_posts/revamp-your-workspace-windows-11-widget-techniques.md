@@ -1,7 +1,7 @@
 ---
 title: "Revamp Your Workspace: Windows 11 Widget Techniques"
-date: 2024-08-16T01:21:47.354Z
-updated: 2024-08-17T01:21:47.354Z
+date: 2025-02-10T16:07:46.323Z
+updated: 2025-02-16T00:38:04.823Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
 ![Enable Widgets from Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-widgets-from-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can follow the below steps to bring the shortcut to launch the widgets panel to Taskbar:
 
 1. Open**Settings** app by pressing**Win + I** on your keyboard.
@@ -39,11 +43,19 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
  If you do not want to see the widgets button on the Taskbar and still want to launch it quickly, press**Win key+W** on your keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Adding Widgets to Windows
 
  Microsoft recently added support for third-party developers to bring app widgets to Windows 11\. But even without support for third-party support, you get a decent collection of first-party app widgets, including Outlook, To Do, Weather, Game Pass, and more. And the best thing about Windows 11's widgets is that it takes little effort to add them to the panel.
 
 ![Add Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-widgets-edit.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Follow the below steps to add widgets:
 
@@ -68,26 +80,17 @@ To change the size of widgets, follow the below steps:
 
 ## 4\. Customize Your News Feed to Get a More Personalized Experience
 ![My Interests page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/news-feed.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image credit:[Microsoft](https://support.microsoft.com/en-us/windows/stay-up-to-date-with-widgets-7ba79aaa-dac6-4687-b460-ad16a06be6e4)
 
  You can personalize news content in multiple ways. If you do not like what you see on the widgets board, you can hide those stories. If you do not care about something, you can also [tune the News Feed](https://www.makeuseof.com/how-to-use-microsoft-start-personalized-news-feed/) in such a way that it will show you fewer stories like that. On the contrary, you can also tweak it to show you more of what you care about.
 
 ![Tweak the news feed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tuning-the-news-feed-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It is also possible to view and manage the publishers and interests. If you do not like what you see from specific publishers, you can hide them from the**My Interests** page in Microsoft Start. You can select your field of interest from a range of categories, including Politics, World, Money, Science, and more.
 
  You can go to the Microsoft Start Page by clicking on the**Manage interests** link on the**Widgets settings** page, which you can bring by clicking on the**user profile logo** at the top of the widgets board. However, it is important to note that ability to follow publishers and fine-tune your news feed is currently available for English speakers in the US.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Tweak the Widget Taskbar Behaviors
 
  The customizability of Widgets goes beyond the ability to change their sizes. You can also control how Widgets behave. If you do not like the opening of the Widgets panel on hovering over the button on the left of the Taskbar, you can disable it from**Widgets settings** . Widgets can also display notification badges and announcements.
@@ -96,13 +99,11 @@ To change the size of widgets, follow the below steps:
 
  In**Widgets settings** , you get to tweak the**Widget taskbar behaviors** in three different ways: enabling or disabling**Show notification badges** ,**Show announcements** , and**Open Widgets board on hover** toggles.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Expand the Widgets Panel
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The ability to expand the widgets board to take up the entire screen space of your computer screen was not available when Microsoft first launched it. However, the full-screen widgets experience should be available to you if you are running Windows 11 22H2 with Windows Web Experience Pack version (423.2300.0.0).
@@ -123,20 +124,18 @@ To expand the widgets panel, follow the below steps:
  If you are running Windows 11 Insider builds, you can use widgets without logging in with your Microsoft account. If you are running Windows 11 22H2, you need to make sure you have Windows Web Experience Pack version 423.3000.10.0 installed on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## You Are Ready to Get the Most Out of Widgets in Windows 11
 
  Windows 11's widgets can be useful if you know how to take advantage of its several functionalities. The above-mentioned tips and tricks are best suited for anyone looking to be a pro at using the feature. But the best experience comes at the expense of your usage data getting into the hands of Microsoft and other third-party players if you are using widgets developed by them.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,8 +144,26 @@ To expand the widgets panel, follow the below steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-tackling-disruptions-in-video-transmissions-for-messenger-users-iosandroid-for-2024/"><u>[Updated] Tackling Disruptions in Video Transmissions for Messenger Users iOS/Android for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-method-for-adding-high-quality-srt-to-mp4-videos-for-2024/"><u>[Updated] The Ultimate Method for Adding High-Quality SRT to MP4 Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-windows-pdf-viewers/"><u>Customizing Your Window's PDF Viewers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/displaying-your-pc-desktop-on-tv-screens-via-google-cast-an-in-depth-tutorial/"><u>Displaying Your PC Desktop On TV Screens Via Google Cast - An In-Depth Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-open-sticky-notes-in-windows-11/"><u>How to Open Sticky Notes in Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-elite-set-of-android-photoshoppers/"><u>In 2024, The Elite Set of Android Photoshoppers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-privacy-remove-login-email-in-windows/"><u>Mastering Privacy: Remove Login Email in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-key-discrepancies-an-essential-guide-to-troubleshooting-on-windows-11/"><u>Navigating Key Discrepancies: An Essential Guide to Troubleshooting on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-robloxs-code-403-issue-on-pc/"><u>Overcoming Roblox's Code 403 Issue on PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/proven-methods-for-boosting-video-watchers-for-2024/"><u>Proven Methods for Boosting Video Watchers for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solve-your-winerror-effective-fixes-for-script-issues/"><u>Solve Your WinError: Effective Fixes for Script Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-execution-optimizing-android-studio-on-windows/"><u>Swift Execution: Optimizing Android Studio on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-temperature-spikes-during-high-performance-gaming/"><u>Taming Temperature Spikes During High-Performance Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-prevent-activation-of-windows-mobility-center-win-11/"><u>Tips: Prevent Activation of Windows Mobility Center (Win 11)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultra-fast-and-sleek-the-revolutionary-magsafe-battery-pack-that-defies-the-brick-reputation/"><u>Ultra-Fast and Sleek: The Revolutionary MagSafe Battery Pack That Defies the 'Brick' Reputation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-nothing-phone-3-anticipated-launch-details-cost-estimates-and-leaked-specifications/"><u>Unveiling the 'Nothing Phone 3': Anticipated Launch Details, Cost Estimates & Leaked Specifications</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-add-emojis-to-discord/"><u>Updated In 2024, How to Add Emojis To Discord</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/vrouwtje-snelle-toegang-van-window-11-file-explorer-herstellen/"><u>Vrouwtje Snelle Toegang Van Window 11 File Explorer Herstellen</u></a></li>
+</ul></div>
 

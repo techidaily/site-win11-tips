@@ -1,7 +1,7 @@
 ---
 title: Deciphering and Remedying O365 Sync Errors (Windows 11)
-date: 2024-12-21T03:38:49.497Z
-updated: 2024-12-21T22:43:00.367Z
+date: 2025-02-13T01:30:51.874Z
+updated: 2025-02-16T00:32:07.309Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Log Out and Back Into OneDrive
 
  First, try logging out and back into your OneDrive account. To do so, you’ll need to unlink your PC with your OneDrive account. This is how you can log out and sign back into OneDrive:
@@ -47,11 +43,15 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 3. Enter a password, and press the**Sign in** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Keep clicking**Next** to reach the last option on the OneDrive setup window.
 5. Press the**Open my OneDrive** **folder** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Free Up Hard Drive Space
 
@@ -61,11 +61,11 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 
 ![The Local Disk storage icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-disk-storage-icon.jpg)
 
- If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about[how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about[how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
 
 ## 3\. Reset the OneDrive App
 
@@ -78,12 +78,12 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 ![The reset OneDrive Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-reset-one-drive-command.jpg)
 4. Click**OK** to execute the reset command for OneDrive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. If the OneDrive icon doesn’t reappear after the reset, input this command into Run and click**OK** :  
 `%localappdata%\Microsoft\OneDrive\onedrive.exe`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Sync OneDrive to Another Drive Location
 
@@ -97,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 5. Select an alternative drive partition on your PC to link OneDrive with.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click**Select Folder** to confirm the chosen location.
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 ![The Open my OneDrive folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-my-onedrive-folder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable the "Always Keep on Device" and "Free Up Space" Options
@@ -139,7 +139,7 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
  Should this potential solution resolve error 0x80070185, set up a firewall exception for OneDrive. You can do that for the Windows firewall as instructed in our[how to allow apps through Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) piece. Users with third-party firewalls can allow OneDrive through them with the exclusion settings in their security apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall OneDrive
@@ -176,22 +176,22 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-no-1-chart-conversion-software/"><u>[New] 2024 Approved No. 1 Chart Conversion Software</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-spectral-showcase-curating-the-best-4k-displays-on-screen/"><u>[New] Spectral Showcase Curating the Best 4K Displays on Screen</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-effortless-video-magic-classic-80s-vhs-techniques-for-2024/"><u>[Updated] Effortless Video Magic Classic 80S VHS Techniques for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-motorola-moto-e13-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Motorola Moto E13 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-yoga-900s-download-comprehensive-windows-10-driver-pack/"><u>Boost Yoga 900S: Download Comprehensive Windows 10 Driver Pack</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-troubleshooting-tactics-for-high-disk-usage-on-windows-11/"><u>Comprehensive Troubleshooting Tactics for High Disk Usage on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissolve-the-quietude-reviving-keyboard-volume-controls/"><u>Dissolve the Quietude: Reviving Keyboard Volume Controls</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-itel-p40plus-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Itel P40+ IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://win-great.techidaily.com/mass-downloading-coursera-educational-videos-and-closed-captions-for-desktop-users/"><u>Mass-Downloading Coursera Educational Videos & Closed Captions for Desktop Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-tackle-failed-syncs-with-onedrive-windows/"><u>Methods to Tackle Failed Syncs with OneDrive Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-lockout-resetting-windows-sign-in-options/"><u>Overcoming Lockout: Resetting Windows Sign-In Options</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/redesigned-look-at-s3700-sony-entertainment-for-2024/"><u>Redesigned Look at S3700 Sony Entertainment for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-clean-and-organized-filespace-setting-up-auto-delete-on-win11/"><u>Secure, Clean and Organized Filespace: Setting Up Auto-Delete on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-identifying-faulty-hardware-in-windows-1011/"><u>Techniques for Identifying Faulty Hardware in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-clues-within-windows-blue-screen-events/"><u>Unlocking Clues Within Windows Blue Screen Events</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-true-colors-with-windows-techniques/"><u>Unlocking True Colors with Windows Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-regaining-access-to-5ghz-network/"><u>Unlocking Windows 11: Regaining Access to 5GHz Network</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-daily-vlogging-ideas-what-to-talk-about-while-vlogging-for-2024/"><u>[New] Daily Vlogging Ideas What to Talk About While Vlogging for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-innovations-in-balancing-exposures-for-perfect-pictures/"><u>[New] In 2024, Innovations in Balancing Exposures for Perfect Pictures</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ocial-broadcast-battleground-fb-live-yt-live-twitvision-for-2024/"><u>[New] Social Broadcast Battleground FB Live, YT Live, TwitVision for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-tips-to-perfectly-integrate-jump-cuts-into-videos/"><u>[Updated] In 2024, Tips to Perfectly Integrate Jump Cuts Into Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-reducing-disk-storage-usage-on-windows/"><u>Essential Tips for Reducing Disk Storage Usage on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-why-keeping-windows-11s-alerts-is-important/"><u>Explore Why Keeping Windows 11'S Alerts Is Important</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-you-through-windows-11-emulation-on-vmware-17/"><u>Guiding You Through Windows 11 Emulation on VMWare 17</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-accelerate-your-computers-performance-top-tools-and-strategies-expert-advice-from-yl-computing/"><u>How to Accelerate Your Computer's Performance: Top Tools and Strategies - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/how-to-claim-back-winxdvd-software-costs-tips-from-digiarty-experts/"><u>How to Claim Back WinXDVD Software Costs: Tips From Digiarty Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-prioritize-calculator-visibility-in-windows/"><u>How to Prioritize Calculator Visibility in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-lost-iphone-applications-a-step-by-step-guide/"><u>How To Recover Lost Iphone Applications: A Step-By-Step Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-wmp-for-effortless-audio-conversion/"><u>In 2024, Navigating WMP for Effortless Audio Conversion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209281547-master-the-art-of-keeping-your-machine-awake-all-night-hassle-free/"><u>Master the Art of Keeping Your Machine Awake All Night, Hassle-Free!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-access-to-non-local-files/"><u>Streamlining Access to Non-Local Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-oculus-q2-into-windows-compatible-vr/"><u>Transforming Oculus Q2 Into Windows-Compatible VR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-off-microsofts-intelligent-assistance/"><u>Turn Off Microsoft's Intelligent Assistance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/visualizing-resources-efficiently-taskbar-display-reimagined/"><u>Visualizing Resources Efficiently: Taskbar Display Reimagined</u></a></li>
 </ul></div>
 

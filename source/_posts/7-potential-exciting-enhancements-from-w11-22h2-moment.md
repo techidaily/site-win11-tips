@@ -1,7 +1,7 @@
 ---
 title: 7 Potential Exciting Enhancements From W11 22H2 Moment
-date: 2024-08-16T01:16:51.643Z
-updated: 2024-08-17T01:16:51.643Z
+date: 2025-02-09T16:34:10.628Z
+updated: 2025-02-16T01:26:34.800Z
 tags:
   - windows10
   - windows11
@@ -30,14 +30,18 @@ thumbnail: https://thmb.techidaily.com/185bd2e3ee5add750b89a3f134c1fcf3132bd9314
 
  The "Collapsed" state will be as minimal as possible. It will hide all the icons and show only essential ones, like the battery indicator. Swiping up and down on the bottom of your device will switch between two taskbar states. This functionality will be limited to tablets and convertibles only.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. A Floating Taskbar Similar to the macOS Dock
 
  Microsoft accidentally showed a floating taskbar in Windows 11 during a presentation at the Ignite event last year. A floating taskbar looks very similar to the macOS dock, except that the former features a less-rounded design.
 
 ![Floating taskar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/floating-taskar-in-windows-11.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image credit: Albacore/[Twitter](https://twitter.com/thebookisclosed/status/1580287591890329601)
@@ -52,15 +56,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Just like how [File Explorer allows you to open multiple tabs](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) within it, the tabbed interface in Notepad will enable you to open multiple folders and directories in one single app window. For every single folder or directory, you can have a tab, thus making it easier for you to switch between them instead of opening a new app window for each.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 4\. Animated Icons in the Settings App
 
 ![animated icons in Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/animated-icons-in-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Image credit:[Microsoft](https://learn.microsoft.com/en-in/windows/apps/design/signature-experiences/motion#delightful-unexpected-moments-of-joy-with-purpose)
 
@@ -77,8 +75,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  The Snipping Tool will let you select the part of your screen you want to record before your PC starts the recording session. Then, once the recording is complete, you can preview, save, and share the clip. Remember, Snipping Tool's screen recording capability does not include audio recording. See our [guide to the Snipping Tool in Windows 11](https://www.makeuseof.com/windows-11-open-snipping-tool/) if you're not familiar with it yet.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. New Dark Mode Toggle
 
  A dark mode toggle in Windows 11 Quick Setting panel was recently spotted in Insider builds. The new dark mode toggle will allow you to turn on or off dark mode whenever you like without opening the Settings app, which is very similar to how you can turn on or off dark mode quickly from the notification panel of your Android phone.
@@ -89,32 +88,31 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  As things stand currently, the dark mode toggle is available only in the Settings app. And if you are unaware of how to turn it on, you check our [guide on enabling dark mode in Windows 11](https://www.makeuseof.com/windows-11-dark-mode/) .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## 7\. Task Manager Improvements
 
 ![Windows 11 Task Manager search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-task-manager-search-bar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Task Manager in Windows 11 shows you information on applications and processes on your computer. It is also where you can get a good idea about your PC's current state. However, finding one particular process or application that may need your attention when you run into trouble is quite a task.
 
  An improved Task Manager that Microsoft is currently testing with Insiders has a new search bar to help look up the exact process or application within seconds. In the new Task Manager search bar, you can search with a name, publisher, or process identification number (PID). Microsoft may introduce the new search bar to the upcoming Moment 2 or 3 updates, set to release this year.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Features Coming to Windows 11 22H2 Moment Update
 
  The capabilities above have a high chance of getting into the list of features that Microsoft will introduce in Moment 2\. But we can not rule out the possibility of some features not making it to the final release. Therefore, they may be split across Moment 3 and subsequent updates.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,8 +121,19 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-the-deck-to-deck-experience-with-durecorder/"><u>[New] Mastering the Deck-to-Deck Experience with DuRecorder</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-guide-to-choosing-winning-screen-recording-software-for-windows/"><u>[New] Ultimate Guide to Choosing Winning Screen Recording Software for Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-create-a-sports-highlight-video/"><u>[Updated] How to Create a Sports Highlight Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-easy-steps-to-resolve-windows-interface-errors-quickly/"><u>5 Easy Steps to Resolve Windows' Interface Errors Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-control-display-settings-for-windows-11-users/"><u>Advanced Control: Display Settings for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/arrow-anomalies-unveiled-and-resolved-for-windows-users/"><u>Arrow Anomalies Unveiled and Resolved for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-real-time-task-tracker-on-windows-11-os/"><u>Boosting Real-Time Task Tracker on Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719314760975-home-run-your-gptclone-on-windows-free-and-easy-with-gpt4all/"><u>Home-Run Your GPTClone on Windows – Free & Easy with GPT4All</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mavericks-os-x-mp4-editing-tool-professional-grade-results-for-2024/"><u>New Mavericks OS X MP4 Editing Tool Professional-Grade Results for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/8-real-world-video-promoters-for-success-for-2024/"><u>Rank 8 Real-World Video Promoters for Success for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-enabling-the-newest-features-of-chatgpts-beta-release-for-web-navigation-and-plugins/"><u>The Ultimate Walkthrough: Enabling the Newest Features of ChatGPT's Beta Release for Web Navigation & Plugins</u></a></li>
+</ul></div>
 

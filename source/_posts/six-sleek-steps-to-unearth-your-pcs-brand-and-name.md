@@ -1,7 +1,7 @@
 ---
 title: Six Sleek Steps to Unearth Your PC’s Brand and Name
-date: 2025-01-30T01:45:01.544Z
-updated: 2025-02-03T01:24:37.262Z
+date: 2025-02-12T18:28:42.922Z
+updated: 2025-02-16T02:37:00.926Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Using the Settings App
@@ -44,15 +44,11 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 ![Typing System Information in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-information.jpg)
 3. Choose**System Summary** from the left sidebar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Check the**System Model** row in the right pane to know about your computer model name.  
 ![Checking System Model in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-model.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Using the DirectX Diagnostic Tool
@@ -66,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 3. Click the**System** tab in the DirectX Diagnostic Tool.
 4. Under the System Information section, you can check your computer model name next to the**System Model** option.  
 ![System Model option in the DirectX Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-model-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Using the Command-Line Tools
 
@@ -83,15 +83,15 @@ You'll see the model name on the console screen.
 
 ![Command to Check System name in Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-check-system-name.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In case you want to check your computer serial number, execute the following command in the PowerShell window.
 
 `Get-CimInstance -ClassName Win32_bios`
 
 ![Command to Check System Serial number in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-check-system-serial-number.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Using the Manufacturer's Assistant App
 
@@ -100,6 +100,10 @@ You'll see the model name on the console screen.
  Most manufacturers nowadays offer an assistant app using which you can check your computer model name and number. For instance, if you're using an HP laptop, you can download the[HP Support Assistant app](https://support.hp.com/us-en/help/hp-support-assistant) to know everything about your computer.
 
  Similarly, you can download the assistant app of your manufacturer to check your computer's name.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. By Entering the BIOS
 
@@ -114,19 +118,15 @@ You'll see the model name on the console screen.
 ![Restart now button next to Advanced startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-now-button.jpg)
 5. Navigate to**Troubleshoot** \>**Advanced options** \>**UEFI Firmware Settings** \>**Restart.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Usually, your computer will now boot straight into UEFI BIOS. But in some manufacturers like HP, you'll be welcomed with a**Startup** **Menu.** Choose**System Information** from the menu.  
 ![Choosing System Information from the Startup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-system-information.JPG)
 7. You can check your computer name in the System Information section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Checking Product name in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-product-name.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get to Know Your Computer's Model on Windows
 
@@ -147,22 +147,24 @@ You'll see the model name on the console screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-unleashing-creativity-smartphone-filmmaking-and-youtube-thumbnails/"><u>[New] In 2024, Unleashing Creativity Smartphone Filmmaking & YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-blazing-lanes-at-sochi-2022-games/"><u>[Updated] 2024 Approved Blazing Lanes at Sochi 2022 Games</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-elevate-your-social-media-presence-360-degree-image-integration-on-android-and-ios/"><u>[Updated] 2024 Approved Elevate Your Social Media Presence 360-Degree Image Integration on Android & iOS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-screen-saviors-ranked-top-8-for-ios-filmmaking-apps/"><u>[Updated] In 2024, Screen Saviors Ranked Top 8 for iOS Filmmaking Apps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-packing-list-film-your-excursions/"><u>[Updated] Packing List Film Your Excursions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-fake-following-fiasco-avoiding-illusory-supporters-in-social-media-space/"><u>2024 Approved Fake Following Fiasco Avoiding Illusory Supporters in Social Media Space</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-barriers-remote-desktop-tricks-without-passwords-on-windows-11/"><u>Breaking Barriers: Remote Desktop Tricks without Passwords on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-through-windows-11s-pin-blockade/"><u>Cut Through Windows 11'S PIN Blockade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-smart-adjustments-color-control-in-win11-apps/"><u>Enabling Smart Adjustments: Color Control in Win11 Apps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/get-creative-streamline-your-movies-with-one-clicks-on-windows-10/"><u>Get Creative Streamline Your Movies with One Clicks on Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-printmanagementmsc-not-found-error-on-windows/"><u>How to Fix the Printmanagement.msc Not Found Error on Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-13-pro-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 13 Pro 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-pathway-for-purchasing-adobe-from-microsoft/"><u>Seamless Pathway for Purchasing Adobe From Microsoft</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speed-up-steam-downloads-stopping-unexpected-declines/"><u>Speed up Steam Downloads: Stopping Unexpected Declines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-cheat-sheet-for-ms-project-keys/"><u>The Ultimate Cheat Sheet for MS Project Keys</u></a></li>
-<li><a href="https://common-error.techidaily.com/upgraded-system-how-to-enable-directx-11-on-incompatible-gpu/"><u>Upgraded System: How To Enable DirectX 11 on Incompatible GPU</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/window-management-adding-this-pc-to-windows-desktop/"><u>Window Management: Adding 'This PC' To Windows Desktop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accelerated-scanning-process-for-windows/"><u>[New] Accelerated Scanning Process for Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-primevideos-leaders-twitters-best-liked-and-most-watched-content/"><u>[Updated] 2024 Approved PrimeVideos Leaders Twitter's Best-Liked & Most-Watched Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-understanding-film-a-beginners-guide-to-essential-shots/"><u>2024 Approved Understanding Film A Beginner's Guide to Essential Shots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/computing-evolution-adapting-to-the-power-of-16gb-ram/"><u>Computing Evolution: Adapting to the Power of 16GB RAM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-black-windows-rdp-connection-issue/"><u>Correcting Black Windows RDP Connection Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-error-code-0x80d03801-in-windows-apps/"><u>Correcting Error Code 0X80D03801 in Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-os-emulation-strategies-in-virtual-environment/"><u>Cutting-Edge OS Emulation Strategies in Virtual Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/faster-steam-content-downloading-for-windows-users/"><u>Faster Steam Content Downloading for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-install-hp-laserjet-1018-printing-drivers-for-smooth-operations/"><u>How to Obtain and Install HP LaserJet 1018 Printing Drivers for Smooth Operations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/integrating-obs-recording-capabilities-into-zoom-sessions-for-2024/"><u>Integrating OBS Recording Capabilities Into Zoom Sessions for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/kinemaster-pro-guide-crafting-uninterrupted-storytelling/"><u>Kinemaster Pro Guide Crafting Uninterrupted Storytelling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methodical-approach-for-fixing-battlenet-login-failure/"><u>Methodical Approach for Fixing Battle.net Login Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steam-not-online-quick-fixes-for-windows-users/"><u>Steam Not Online? Quick Fixes for Windows Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategic-storytelling-essential-language-for-marketers/"><u>Strategic Storytelling Essential Language for Marketers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/update-dont-retrofit-old-pcs-without-windows/"><u>Update, Don't Retrofit: Old PCs without Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-beats-out-linux-in-the-game-arena/"><u>Why Windows Beats Out Linux in The Game Arena</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/yl-computings-expert-advice-how-to-easily-search-and-refresh-device-drivers-on-your-pc/"><u>YL Computing's Expert Advice: How to Easily Search and Refresh Device Drivers on Your PC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/bes-dimensions-decoded-a-comprehensive-ratio-handbook/"><u>YouTube's Dimensions Decoded A Comprehensive Ratio Handbook</u></a></li>
 </ul></div>
 

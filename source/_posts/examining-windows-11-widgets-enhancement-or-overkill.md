@@ -1,7 +1,7 @@
 ---
 title: Examining Windows 11 Widgets - Enhancement or Overkill?
-date: 2025-01-27T16:02:21.956Z
-updated: 2025-02-02T20:05:33.258Z
+date: 2025-02-14T04:02:36.950Z
+updated: 2025-02-15T23:51:48.506Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are Widgets on Windows 11?
@@ -35,16 +35,12 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
 ![Windows 11 widgets sliding-in from the left of the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-11-Widgets-Screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Widgets are essentially a minified version of apps and services that are already set up on your Windows 11 system. They allow you to quickly glance over things that matter to you, like stocks, news, weather, and sports, without opening each app or website individually.
 
  The weather widget you use will be an extension of Microsoft Weather. Similarly, the news widget will be powered by various news feeds globally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Widgets Can I Add to Windows 11?
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
  Of course, everyone's use cases are different, so the widgets you may find interesting may be different from the ones I listed here and vice versa.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Pros and Cons of Using Widgets on Windows
@@ -71,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  More importantly, the widgets panel isn’t very convenient. It has a clunky design, and I personally would find widgets more helpful if I could pin them to my desktop. Fortunately, you can use a [third-party app to pin widgets to the desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
@@ -79,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
  You should also bear in mind that since widgets run in the background, you should keep an eye on the amount of CPU they use. Fortunately, you can [fix a high CPU usage from Windows widgets](https://www.makeuseof.com/windows-widgets-high-cpu-fix/) if things get a little too much. Also, their network usage can make a dent in a metered network connection's usage.
 
  Widgets are certainly a step in the right direction, but [Microsoft can improve upon Windows 11's widgets](https://www.makeuseof.com/ways-microsoft-improve-windows-11-widgets/) to make them more accessible and useful for us all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our Verdict: Are Windows 11's Widgets Worth It?
 
@@ -96,18 +96,22 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-optimal-applications-to-elevate-your-vtubers-sonic-brand/"><u>[New] In 2024, Optimal Applications to Elevate Your Vtuber's Sonic Brand</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-reviewing-and-selecting-the-ultimate-5-book-tt-list/"><u>[New] Reviewing and Selecting The Ultimate 5 Book TT List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-the-links-in-the-nyts-july-18-puzzle-teaser-and-solution-explained-403-edition/"><u>Discover the Links in The NYT's July 18 Puzzle: Teaser and Solution Explained (#403 Edition)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-quickly-resolve-dota-2s-changerenderingapi-error-code-2024/"><u>How to Quickly Resolve Dota 2'S ChangeRenderingAPI Error Code 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-dealing-with-disconnected-live-video-sessions-on-facebook/"><u>In 2024, Dealing with Disconnected LIVE Video Sessions on Facebook</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-get-the-perfect-frame-top-vignette-apps-for-ios-and-android-devices/"><u>New 2024 Approved Get the Perfect Frame Top Vignette Apps for iOS and Android Devices</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-how-to-blur-the-video-background-or-some-parts-of-the-video-you-can-know-how-to-blur-videos-with-some-free-online-tools-in-this-article-for-2024/"><u>New How to Blur the Video Background or some Parts of the Video? You Can Know How to Blur Videos with some Free Online Tools in This Article for 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-the-best-tools-to-convert-text-to-mp3-with-the-best-natural-voices/"><u>New In 2024, The Best Tools to Convert Text to MP3 With the Best Natural Voices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-your-screen-guide-to-windows-11-gpus/"><u>Optimize Your Screen: Guide to Windows 11 GPUs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/realigning-windows-11s-file-order-preferences/"><u>Realigning Windows 11'S File Order Preferences</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-graphics-hurdles-with-direct3d-achieved-max-gpu-speed/"><u>Resolved Graphics Hurdles with Direct3D, Achieved Max GPU Speed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-connection-attempted-bluetooth-hiccup-on-pcs/"><u>Solving 'Connection Attempted' Bluetooth Hiccup on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-against-unwanted-scroll-events/"><u>Winning Against Unwanted Scroll Events</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-masterclass-in-ai-image-processing/"><u>[New] Masterclass in AI Image Processing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-your-workflow-the-top-7-digital-tokens-makers/"><u>[New] Revolutionize Your Workflow - The Top 7 Digital Tokens Makers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-portable-balance-enhancer-for-shooting-blurs/"><u>[Updated] 2024 Approved Portable Balance Enhancer for Shooting Blurs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-essential-insights-mastering-youtube-keyword-strategies-for-2024/"><u>[Updated] Essential Insights Mastering YouTube Keyword Strategies for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-motion-graphics-101-key-principles-and-methods/"><u>[Updated] Motion Graphics 101 Key Principles & Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/connectivity-through-time-leveraging-windows-7-for-windows-11-activation/"><u>Connectivity Through Time: Leveraging Windows 7 for Windows 11 Activation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-risks-of-keygen-virus-and-windows-security-measures/"><u>Decoding the Risks of Keygen Virus & Windows Security Measures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-to-the-heart-of-recent-windows-use/"><u>Direct to the Heart of Recent Windows Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-privilege-based-errors-in-system-installation/"><u>Easing Privilege-Based Errors in System Installation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-attraction-of-gpt-for-hacking/"><u>Exploring the Attraction of GPT for Hacking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-compression-techniques-for-disk-optimization/"><u>Mastering File Compression Techniques for Disk Optimization</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/obs-and-wirecast-bout-which-broadcast-tool-is-king/"><u>OBS and Wirecast Bout Which Broadcast Tool Is King?</u></a></li>
+<li><a href="https://win-news.techidaily.com/persistent-problems-with-your-graphic-cards-driver-heres-what-you-need-to-know-according-to-yl-tech-experts/"><u>Persistent Problems with Your Graphic Card's Driver? Here’s What You Need to Know According to YL Tech Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/professional-procrastination-buster-top-windows-productivity-hacks/"><u>Professional Procrastination Buster: Top Windows Productivity Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-edge-browser-setting-up-microsofts-defender-application-guard-in-win-11/"><u>Secure Edge Browser: Setting up Microsoft's Defender Application Guard in Win 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-overcome-the-32-bit-print-driver-host-crashed-issue/"><u>Troubleshooting Success! Overcome the '32-Bit Print Driver Host Crashed' Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-files-in-windows-no-more-read-only-limit/"><u>Unlocking Files in Windows: No More Read-Only Limit</u></a></li>
 </ul></div>
 

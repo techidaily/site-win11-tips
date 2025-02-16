@@ -1,7 +1,7 @@
 ---
 title: "The Windows Bar: Evolution and Significance (1985-2023)"
-date: 2025-01-27T07:11:25.283Z
-updated: 2025-02-01T11:06:54.912Z
+date: 2025-02-11T02:02:46.984Z
+updated: 2025-02-16T04:12:58.402Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Early Days of Windows: Before the Taskbar
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
  However, it didn’t include a Start menu or system tray area and wasn’t even present in Windows 3.0\. Program windows minimized to the desktop background area in Windows 3.0\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Windows 95: The Introduction of the Taskbar
 
  Daniel Oran, a former Microsoft interface designer, is credited with inventing the taskbar and Start menu in 1993\. He suggested Microsoft add a Start menu button to Windows 95 that users could access from a new taskbar. This would make it easier to access everything from a central system menu.
@@ -49,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
 ![The Windows 95 taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-95-taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The original Windows 95 version didn’t have a Quick Launch area. However, a Quick Launch area was on later versions of that OS. This was an area of the taskbar on which users could add program shortcuts. It also included a **Show Desktop** button and Internet Explorer icon.
 
  Some third-party software packages enable you to restore the classic Windows 95 taskbar in Windows 11/10\. For example, you can [revive the Windows 95 and XP taskbar](http://www.makeuseof.com/windows-95-xp-taskbars-windows-11/) with the RetroBar app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows XP: A Revamped Taskbar Appears
 
@@ -64,14 +68,10 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 ![The Windows XP taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-xp-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows XP’s taskbar was the first to have grouped windows. This feature enabled the grouping of multiple open windows from the same application on the taskbar. Users could click to view different windows from the same taskbar app windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Windows Vista: The Introduction of Window Previews
 
@@ -80,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
  Windows Vista’s taskbar was also the first to include a **Start** button with no label text. Instead, it was just a circulator button with a Windows logo. The removal of the “Start” label reduced the button’s width and freed up a bit more taskbar space.
 
 ![The Windows Vista taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-vista-taskbar.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Windows 7: Another Taskbar Overhaul From Microsoft
 
@@ -122,12 +118,16 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 ![The Windows 11 taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-11-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft also added a new **Widgets** button to Windows 11’s taskbar. The Widgets Board is one of the biggest new features in Windows 11 on which you can pin weather, sport, Game Pass, traffic, entertainment, and other widgets that provide info and content. The Widgets feature also displays a weather icon and description on the taskbar.
 
 ![The Widgets button on Windows 11's taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/widgets-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, many users have complained about the features omitted from Windows 11’s taskbar. Microsoft removed the taskbar’s repositing and resizing functionality in Windows 11\. Nor can you pin icons to the taskbar by dragging and dropping them onto it as you can in Windows 10\.
 
@@ -149,24 +149,24 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/apture-every-angle-how-to-create-dynamic-viewpoint-driven-reaction-vids-for-youtube-success-for-2024/"><u>[New] Capture Every Angle – How to Create Dynamic, Viewpoint-Driven Reaction Vids for YouTube Success for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-master-the-making-of-spectacular-slideshows-for-your-social-circle/"><u>[Updated] 2024 Approved Master the Making of Spectacular Slideshows for Your Social Circle</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/14/"><u>🔥【綜合評比】免費錄音工具14款，最新選擇佳作集結解密</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypass-iphoneipad-screen-time-password-without-resetting-a-comprehensive-guide/"><u>Bypass iPhone/iPad Screen Time Password without Resetting - A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-error-x0001-on-geforce-for-windows-11/"><u>Clearing Up Error X0001 on GeForce for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-error-0x8007045d-in-windows-1011/"><u>Eliminating Error 0X8007045D in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-unseen-camera-issue-in-windows-device-manager/"><u>Fix Unseen Camera Issue in Windows Device Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-novice-to-prodigy-mastering-first-person-roleplay/"><u>From Novice to Prodigy: Mastering First-Person Roleplay</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/high-quality-virtual-console-imitation-software-for-pc-for-2024/"><u>High-Quality Virtual Console Imitation Software for PC for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-metaverse-multiverse-dichotomy-explained/"><u>In 2024, The Metaverse-Multiverse Dichotomy Explained</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-rufus-to-override-win11s-tpmsecure-boot-systems/"><u>Leveraging Rufus to Override Win11's TPM/Secure Boot Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-and-solve-windows-os-errors-with-ease/"><u>Navigate and Solve Windows OS Errors with Ease</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-self-opening-issues-in-microsoft-store/"><u>Solving Self-Opening Issues in Microsoft Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-file-maintenance-utilizing-windows-11s-auto-delete-feature/"><u>Streamline File Maintenance: Utilizing Windows 11’S Auto Delete Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/surviving-windows-10-system-failsafe/"><u>Surviving Windows 10 System Failsafe</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/the-ultimate-strategy-for-a-wider-reach-tips-for-using-tiktok-hashtags-for-2024/"><u>The Ultimate Strategy for a Wider Reach Tips for Using TikTok Hashtags for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-explore-online-downloads-converting-youtube-to-mp3-made-simple/"><u>[New] In 2024, Explore Online Downloads Converting YouTube to MP3 Made Simple</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-windows-desktop-snappers-guide-for-2024/"><u>[New] Windows Desktop Snappers Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-error-code-0xca00a009-in-windows-update/"><u>Deciphering Error Code 0xCA00A009 in Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/disable-met-not-achieved-indicator-on-windows-11/"><u>Disable Met Not Achieved Indicator on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-unresolved-values-within-windows-applications/"><u>Handling Unresolved Values Within Windows Applications</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-15-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 15 Apple ID on MacBook</u></a></li>
+<li><a href="https://win-docs.techidaily.com/how-to-create-a-restore-point-on-windows-server-2012-r2/"><u>How to Create a Restore Point on Windows Server 2012 (R2)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-scenes-on-screen-mastering-smooth-windows-media-playback/"><u>Seamless Scenes on Screen: Mastering Smooth Windows Media Playback</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-childs-digital-experience-in-windows-11/"><u>Secure Your Child’s Digital Experience in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-custom-keyboard-combo-for-sound-in-windows-11/"><u>Setting Up Custom Keyboard Combo for Sound in Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/speed-test-of-the-tp-link-archer-c80-best-value-for-budget-friendly-wifi-routers/"><u>Speed Test of the TP-Link Archer C80: Best Value for Budget-Friendly WiFi Routers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-photo-edits-how-to-remove-backdrops-quickly/"><u>Streamlining Photo Edits: How to Remove Backdrops Quickly</u></a></li>
+<li><a href="https://win-great.techidaily.com/the-latest-on-microsofts-artificial-intelligence-conference-exploring-5-key-updates-missed-by-many-zdnet-highlights/"><u>The Latest on Microsoft's Artificial Intelligence Conference: Exploring 5 Key Updates Missed by Many | ZDNet Highlights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tough-and-bright-sunbritetv-55-inch-4k-hdr-veranda-tv-designed-to-endure-the-elements/"><u>Tough & Bright SunBriteTV 55-Inch 4K: HDR Veranda TV Designed to Endure the Elements</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-and-checking-powershell-versions-in-windows-11-systems/"><u>Understanding and Checking PowerShell Versions in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-windows-gpsvc-delay-a-guide-to-resolution/"><u>Unraveling the Windows GPSVC Delay: A Guide to Resolution</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-create-stunning-visual-stories-best-online-collage-software-for-2024/"><u>Updated Create Stunning Visual Stories Best Online Collage Software for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-isolate-audio-devices-on-windows-platform/"><u>Why Isolate Audio Devices on Windows Platform?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-idle-lock-custom-settings-guide/"><u>Windows Idle Lock: Custom Settings Guide</u></a></li>
 </ul></div>
 

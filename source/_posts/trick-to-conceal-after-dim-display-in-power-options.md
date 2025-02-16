@@ -1,7 +1,7 @@
 ---
 title: Trick to Conceal 'After Dim Display' In Power Options
-date: 2025-01-28T18:36:13.785Z
-updated: 2025-02-02T18:40:10.387Z
+date: 2025-02-12T23:39:06.396Z
+updated: 2025-02-16T03:38:55.427Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![windows powershell in the windows search results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-powershell-search.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In PowerShell, enter the following command to show the **Dim Display after** option in the Power Options menu:
@@ -45,10 +45,6 @@ powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee +ATTRIB_HIDE
 
  After entering the command you want, hit the **Enter** key on your keyboard for PowerShell to execute it. Afterward, the **Dim display after** option should appear or disappear accordingly in the Power Options menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Show or Hide the “Dim display after” Option Using the Registry Editor
 
  Considering how vital the [Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) is for the smooth operation of Windows, you might want to [back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before you edit it. Afterward, open the Registry Editor by pressing **Win + R**, typing **regedit** in the text box, and clicking **OK**.
@@ -56,7 +52,7 @@ powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee +ATTRIB_HIDE
 ![regedit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/regedit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click **Yes** to bypass the UAC prompt.
@@ -70,7 +66,7 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 ![the attributes entry in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-dim-display-after-attributes-entry.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, in the **Value data** text box, enter **1** to hide **Dim display after** in the Power Options menu or **2** to show it.
@@ -78,10 +74,14 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 ![modifying the attributes dword in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can open the Power Options menu (see [how to open the power options on Windows 10](https://www.makeuseof.com/windows-10-open-power-options/)) and check under **Display** to see if the **Dim display after** option is there or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Controlling the “Dim Display After” Option in the Power Options Menu
 
@@ -102,22 +102,18 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-unmatched-mac-streaming-discover-the-1-5-tools/"><u>[New] Unmatched Mac Streaming Discover the #1-5 Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-effective-strategies-for-utilizing-telegram-desktop-features-for-2024/"><u>[Updated] Effective Strategies for Utilizing Telegram Desktop Features for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-securely-save-fb-high-definition/"><u>2024 Approved Securely Save FB High Definition</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96316914-9781401932060-a-spiritual-philosophy-for-the-new-world/"><u>A Spiritual Philosophy for the New World | Free Book</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-xiaomi-redmi-a2-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Xiaomi Redmi A2 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combatting-winrars-summation-missteps-with-6-fixes/"><u>Combatting WinRAR's Summation Missteps with 6 Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-down-installation-time-with-proper-deps-setup/"><u>Cut Down Installation Time with Proper Deps Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-windows-11-calendar-space/"><u>Navigating the Windows 11 Calendar Space</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-memory-feature-on-new-windows-11/"><u>Overcoming Disabled Memory Feature on New Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolve-google-chrome-windows-files-not-syncing-problem/"><u>Resolve Google Chrome: Windows Files Not Syncing Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-errors-in-pc-version-of-enshrouded-seamless-gaming-experience-guaranteed/"><u>Resolved Errors in PC Version of 'Enshrouded': Seamless Gaming Experience Guaranteed</u></a></li>
-<li><a href="https://games-able.techidaily.com/service-stack-up-standoff-which-is-superior-xbox-or-sony/"><u>Service Stack-Up Standoff: Which Is Superior, Xbox or Sony?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-exquisite-photography-building-inspiring-slideshows-and-fixing-spots-in-win11/"><u>Step-by-Step Guide to Exquisite Photography: Building Inspiring Slideshows & Fixing Spots in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-overcome-ownership-challenges-with-org-managed-configurations-in-windows-11/"><u>Tips to Overcome Ownership Challenges with Org-Managed Configurations in Windows 11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/outube-name-makers-plus-creative-idea-sparking-techniques/"><u>Top YouTube Name Makers + Creative Idea Sparking Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unmute-your-adventures-addressing-and-fixing-no-audio-in-hearthstone/"><u>Unmute Your Adventures: Addressing and Fixing No Audio in Hearthstone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-and-11-pro-mastery-a-guide-to-successfully-uninstall-and-reinstall-extras/"><u>Windows 11 & 11 Pro Mastery: A Guide to Successfully Uninstall and Reinstall Extras</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-banner-bliss-savor-your-complimentary-set-of-designs/"><u>[New] 2024 Approved Banner Bliss Savor Your Complimentary Set of Designs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-drifting-visions-slick-cam-insights/"><u>[New] Drifting Visions Slick Cam Insights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-pro-video-cinematography-choosing-the-right-lenses-for-2024/"><u>[Updated] Pro Video Cinematography Choosing the Right Lenses for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-guide-video-recording-with-vlc/"><u>2024 Approved Essential Guide Video Recording with VLC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-from-dull-to-dynamic-top-11-techniques-for-enhanced-hues/"><u>2024 Approved From Dull to Dynamic Top 11 Techniques for Enhanced Hues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-hidden-patterns-in-data-usage-through-windows-diskusage-command/"><u>Discovering Hidden Patterns in Data Usage Through Windows' DiskUsage Command</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-poco-m6-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Poco M6 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-print-functions-in-microsofts-security-shield/"><u>Implementing Print Functions in Microsoft's Security Shield</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-going-back-in-space-and-time-rewind-your-instagram-video/"><u>In 2024, Going Back in Space and Time Rewind Your Instagram Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-desktop-art-windows-1011-tutorials/"><u>Mastering Desktop Art: Windows 10/11 Tutorials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-windows-inbuilt-pdf-renderer/"><u>Personalizing Windows' Inbuilt PDF Renderer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-update-apple-music-now-enables-seamless-spotify-playlist-integration/"><u>Revolutionary Update: Apple Music Now Enables Seamless Spotify Playlist Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tcp-port-identification-on-windows-devices/"><u>TCP Port Identification on Windows Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Strategies to Resolve Windows Exception Breaking Point Problems
-date: 2024-12-16T21:56:52.740Z
-updated: 2024-12-21T22:59:00.862Z
+date: 2025-02-09T21:06:53.800Z
+updated: 2025-02-15T17:52:50.007Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Disable Any Automatic Startup Apps
 
@@ -53,10 +57,6 @@ Follow these steps to run the DISM and System File Checker tools:
 `Dism /Online /Cleanup-Image /CheckHealth`
 3. ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dism-scan-health-restore-health-command-prompt-1.jpg)  
  Next, type the following command and press**Enter** to scan your PC's health:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `Dism /Online /Cleanup-Image /ScanHealth`
 4. Once done, type the following command to repair the system image:  
@@ -91,6 +91,10 @@ To run the CHKDSK tool:
 
  If you need help with overclocking, check out[the best GPU overclocking tools](https://www.makeuseof.com/best-gpu-overclocking-tools/) to get the best results.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Check for Memory Leaks
 
  The "the exception breakpoint has been reached" 0x80000003 can occur if your system fails to efficiently utilize the available memory resulting in a memory leak. Fortunately, Window comes with a built-in Memory Diagnostic Tool to check your computer for memory problems. Here's how to do it.
@@ -102,22 +106,23 @@ To run the CHKDSK tool:
 ![Windows memory diagnostic tool restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tool-restart.jpg)
 5. Your computer will restart and boot into the Windows Memory Diagnostic Tool menu, and the system will start a test automatically.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows memory diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tooljpg.jpg)
 6. You can also perform**Basic, Standard, or Extended** test manually. To do this, press**F1** to access the**Options** menu and select from the**Basic, Standard, and Extended** option under the**Test Mix** section.
-7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
-8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
+8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
 
 ## 6\. Create a New Windows Local Account
 
  A corrupted user profile may cause the "the exception breakpoint has been reached" error. To fix the error, you can[create a new user local user profile on Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) and give it administrator privilege. Sign into your new user profile and launch the app to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Update or Uninstall the Problematic App
 
@@ -134,7 +139,7 @@ To uninstall an application on Windows:
 4. Type the name of your app in the search bar.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
@@ -143,10 +148,6 @@ To uninstall an application on Windows:
 7. Once uninstalled, download the app installer and install the app. Restart your PC and check for any improvements.
 
  Note that, at times, the issue can be with a specific version of the app. To fix this, try to install an older version of the app to see if that works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the "The Exception Breakpoint Has Been Reached" Error on Windows
 
@@ -167,21 +168,21 @@ To uninstall an application on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-quintessential-zooid-startup-top-10-for-2024/"><u>[New] Quintessential Zooid Startup Top 10 for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-best-practices-for-nocturnal-photography-success/"><u>[Updated] In 2024, Best Practices for Nocturnal Photography Success</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-pathway-to-stunning-visuals-these-top-7-graders-secrets/"><u>[Updated] The Pathway to Stunning Visuals These Top 7 Graders' Secrets</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/boost-your-h265-hevc-encoding-process-for-quicker-results/"><u>Boost Your H.265 (HEVC) Encoding Process for Quicker Results</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comparing-elite-tabs-the-apple-ipad-air-4-against-the-samsung-galaxy-tab-s7plus/"><u>Comparing Elite Tabs: The Apple iPad Air 4 Against the Samsung Galaxy Tab S7+</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-fixing-error-0x8007045d-in-win-os/"><u>Deciphering and Fixing Error 0X8007045D in Win OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-disk-utilization-the-defrag-technique-in-win11/"><u>Efficient Disk Utilization: The Defrag Technique in Win11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-windows-leading-video-chat-pros-top-8/"><u>In 2024, Windows' Leading Video Chat Pros Top 8</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/intel-unison-vs-phone-link-which-windows-phone-app-is-better-for-you/"><u>Intel Unison Vs. Phone Link: Which Windows Phone App Is Better for You?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-windows-gpeditmsc-unavailability-quickly/"><u>Overcome Windows Gpedit.msc Unavailability Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-path-disconnect-issues/"><u>Overcoming Windows Path Disconnect Issues</u></a></li>
-<li><a href="https://win-trending.techidaily.com/prepare-for-the-future-understanding-microsofts-plan-for-paid-windows-11-enhancements-starting-in-year/"><u>Prepare for the Future: Understanding Microsoft's Plan for Paid Windows 11 Enhancements Starting in [Year</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-pin-verification-errors-on-w11w10-pcs/"><u>Quick Fix for Pin Verification Errors on W11/W10 PCs</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/recuperer-des-fichiers-svg-supprimes-un-guide-etape-par-etape-pour-la-recuperation-de-donnees-perdues/"><u>Recuperer Des Fichiers SVG Supprimés: Un Guide Étape Par Étape Pour La Récupération De Données Perdues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-non-opening-nuisance-7-steps-to-fix-stubborn-websites-in-win-os/"><u>The Non-Opening Nuisance: 7 Steps to Fix Stubborn Websites in WIN OS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-step-by-step-guide-to-free-youtube-downloads-without-apps/"><u>[Updated] Step-by-Step Guide to Free YouTube Downloads Without Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-on-maximizing-adobes-cloud-storage-capabilities-and-top-contenders/"><u>2024 Approved Expert Tips on Maximizing Adobe's Cloud Storage Capabilities and Top Contenders</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-free-from-marks-acquiring-unmarked-stock-photography/"><u>2024 Approved Free From Marks Acquiring Unmarked Stock Photography</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/a-comprezyme-of-creativity-and-technique-dominating-instagram-interactions-for-2024/"><u>A Comprezyme of Creativity and Technique Dominating Instagram Interactions for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-a23-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy A23 5G Fingerprint Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-data-security-adding-passwords-to-windows-text/"><u>Enhancing Data Security: Adding Passwords to Windows Text</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-guide-enhance-windows-bluetooth-device-with-full-sound-features/"><u>Fix Guide: Enhance Windows Bluetooth Device with Full Sound Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unset-custom-search-rules-in-windows-11/"><u>How to Unset Custom Search Rules in Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-apeaks-leap-forward-in-screen-capture-review-and-results/"><u>In 2024, Apeak’s Leap Forward in Screen Capture – Review and Results</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-magixs-acid-pro-critique-with-comparison-tools/"><u>In 2024, Magix's ACID Pro Critique with Comparison Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-package-accessibility-a-step-by-step-windows-solution/"><u>Mastering Package Accessibility: A Step-by-Step Windows Solution</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-techniques-to-connect-airpods-with-windows/"><u>Proven Techniques to Connect AirPods with Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/stand-out-and-thrive-strategies-for-staff-recognition-at-vimeo/"><u>Stand Out and Thrive Strategies for Staff Recognition at Vimeo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-correcting-unreachable-windows-network/"><u>Steps for Correcting Unreachable Windows Network</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-eliminate-user-specific-ms-errors/"><u>Steps to Eliminate User-Specific MS Errors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Five Strikingly Simple Cmd Tricks to Learn Now
-date: 2024-12-17T03:11:52.590Z
-updated: 2024-12-21T23:45:52.742Z
+date: 2025-02-13T18:30:29.654Z
+updated: 2025-02-15T19:02:30.133Z
 tags:
   - windows10
   - windows11
@@ -23,19 +23,23 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Customize Your Look
 
 ![screenshot of a customized command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_customized_cmd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You may know this one already, as it can be a great tool to play around with for accessibility purposes. Command Prompt can be fully customized, from background and text color, font, opacity, and more.
 
 **Right-click** on the **Command Prompt icon** in the upper left-hand corner. Of the screen. From here, select **Properties.**
 
 ![screenshot of cmd properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_properties_window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Font**, **Layout** and **Colors** have more immediate options, such as changing text size and colors. Head into **Terminal** to alter some elements of the text cursor.
 
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 ## 2\. Watch Star Wars on Command Prompt
 
 ![screenshot of the cmd telnet star wars recreation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_starwars_recreation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This one has the potential to lead to a lot of fun, and even some curious looks from anyone who might not be privy to how Command Prompt works.
 
@@ -60,17 +68,9 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
  Lean back and enjoy a bizarre recreation of Star Wars!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. More Telnet Fun: Command Prompt Aquarium
 
 ![screenshot of a cmd window showing telnet aquarium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_aquarium.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You may have noticed other fun options when running the **telnet telehack.com** command.
 
@@ -103,12 +103,16 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 [Consider reading more about Traceroute](https://www.makeuseof.com/traceroute-what-is-it/), as it can be helpful in network troubleshooting as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Shut Down Your Computer Without the Mouse or Power Button
 
 ![screenshot of the shutdown command in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_shutdown_command_cmd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This one might not be the most glamorous, but did you know that you can shut down your computer directly through the command prompt?
 
@@ -116,33 +120,11 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
  Is there much purpose to this command? If you're working with batch files, maybe, but the average user might just prefer to shut down their computer the usual way. This command might not have much practical use, but it's a fun trick all the same.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fun With Command Prompt
 
  Despite being one of the most plain-looking interfaces imaginable, a user can still very easily have some fun with the Command Prompt. The items listed here don't even scratch the surface of the hacks and tricks you can pull off with Command Prompt.
 
  Regardless, fun is important, and if you can find it in the most unlikely places, why not?
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win-blog.techidaily.com/fixed-troubleshooting-guide-making-iphone-recognizable-by-itunes-on-windows-11/"><u>[FIXED] Troubleshooting Guide: Making iPhone Recognizable by iTunes on Windows 11</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-apeak-recording-assessment-top-software-showdown/"><u>[Updated] 2024 Approved Apeak Recording Assessment Top Software Showdown</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-hidden-windows-11-techniques-for-effortless-import-tasks/"><u>[Updated] In 2024, Hidden Windows 11 Techniques for Effortless Import Tasks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-quickscreenrecorder-easy-captures-anytime/"><u>[Updated] QuickScreenRecorder Easy Captures, Anytime</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-steam-write-errors-on-windows-devices/"><u>Eliminating Steam Write Errors on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/epics-blueprint-for-backup-bliss-in-gaming-world/"><u>Epic's Blueprint for Backup Bliss in Gaming World</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-itel-a05s-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Itel A05s to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/offline-windows-11-installation-made-simple/"><u>Offline Windows 11 Installation Made Simple</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-common-hurdles-in-uploading-and-sharing-your-instagram-stories/"><u>Overcoming Common Hurdles in Uploading and Sharing Your Instagram Stories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-the-unexpected-error-from-wins/"><u>Rectifying the Unexpected Error From WINS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/smileslice-studio-memomaestrospace-for-2024/"><u>SmileSlice Studio MemoMaestroSpace for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-boosting-volume-on-windows-11-computers-with-troubled-sounds/"><u>Step-by-Step Guide: Boosting Volume on Windows 11 Computers with Troubled Sounds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-lost-ark-cannot-connect-to-server-errors/"><u>Troubleshooting Steps for Lost Ark 'Cannot Connect to Server' Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unwaking-windows-1011-fixing-non-responsive-pcs/"><u>Unwaking Windows 10/11: Fixing Non-Responsive PCs</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -151,3 +133,23 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/op-picks-free-thumbnail-extractor-software-for-2024/"><u>[New] Top Picks FREE Thumbnail Extractor Software for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-strategic-background-changes-on-microsoft-teams-beforeafter-calls/"><u>[Updated] In 2024, Strategic Background Changes on Microsoft Teams Before/After Calls</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-integrating-artistry-into-your-instagram-feed-with-pictures-for-2024/"><u>[Updated] Integrating Artistry Into Your Instagram Feed with Pictures for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-the-art-of-mobile-video-recording-with-snapchat/"><u>2024 Approved Mastering the Art of Mobile Video Recording with Snapchat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-ways-the-claude-ai-chatbot-is-better-than-chatgpt/"><u>4 Ways the Claude AI Chatbot Is Better Than ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-virtual-disks-not-starting/"><u>Corrective Measures for Virtual Disks Not Starting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windows-media-storage-hurdles/"><u>Demystifying Windows Media Storage Hurdles</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-edgeplus-2023-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Edge+ (2023)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-revive-blackened-webcam-on-windows-os/"><u>How to Revive Blackened Webcam on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-efficiency-with-essential-win11-navigation-shortcuts/"><u>Maximize Your Efficiency with Essential Win11 Navigation Shortcuts</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-reflecting-your-android-devices-display-on-windows-11/"><u>Step-by-Step Guide: Reflecting Your Android Device's Display on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-approach-to-discerning-hard-drive-from-solid-state-drive-in-windows/"><u>Streamlined Approach to Discerning Hard Drive From Solid State Drive in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-1011-updates-eliminate-x080246007/"><u>Streamlining Windows 10/11 Updates: Eliminate X080246007</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-on-overcoming-installation-hurdles-in-windows-os/"><u>Tips on Overcoming Installation Hurdles in Windows OS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-fullscreen-capturing-software-pcmac-edition/"><u>Top Fullscreen Capturing Software, PC/Mac Edition</u></a></li>
+</ul></div>
+

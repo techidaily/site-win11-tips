@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Dilemma: OBS Not Opening on Windows"
-date: 2024-08-16T01:21:46.386Z
-updated: 2024-08-17T01:21:46.386Z
+date: 2025-02-08T16:29:01.692Z
+updated: 2025-02-15T16:51:30.574Z
 tags:
   - windows10
   - windows11
@@ -34,20 +34,22 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 
  The Windows Program Compatibility Troubleshooter could also be useful for fixing OBS Studio not launching. That troubleshooter applies recommended compatibility settings to OBS and includes a **Test the program** option for them. You can read all about that tool within this article about [utilizing the Program Compatibility Troubleshooter](https://www.makeuseof.com/program-compatibility-troubleshooter-windows-11-guide/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Set OBS Studio to Run as Administrator
 
  Setting OSB Studio to run as administrator will ensure it can access all the folders and files it needs, which can sometimes address issues. To set OBS Studio to run with elevated privileges, open the **Compatibility** tab as covered for the preceding resolution. Select **Run this program as an administrator** on the **Compatibility** tab and click **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Set a Power Saving GPU Option for OBS Studio
 
  Selecting a power-saving graphics performance for OBS Studio is a troubleshooting method that’s worked for some users. If your PC has two GPUs, this will mean setting the integrated graphics processor for OBS Studio. Follow the instructions in this [guide to choosing a preferred GPU for apps](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) to select the **Power-saving** graphics preference option for OBS Studio.
 
 ![The Power saving option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/power-saving-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Roll Back a Recent Graphics Driver Update
@@ -59,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/roll-back-driver-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Update the Driver for Your PC’s Graphics Adapter
 
  Updating a graphics driver may sound contradictory to the previous potential fix. However, OBS Studio issues often arise because of outdated graphics drivers. If you don’t have an option to roll back your graphics card’s driver, try updating it instead.
@@ -68,17 +71,9 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
  Our [how to update your graphics drives on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) article tells you about the different ways you can apply this potential solution.
 
 ![The NVIDIA driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/nvidia-driver-download-page.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Delete the OBS Studio Configuration Data Folder
@@ -89,18 +84,14 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 2. Type **%appdata%** into the Run dialog.
 3. Select **OK** to access a Roaming directory within File Explorer.  
 ![The OBS Studio data folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/obs-studio-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 4. Right-click the OBS Studio data folder to select a **Delete** context menu option.  
-![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-delete-option3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-delete-option3.jpg)
+
 ## 7\. Disable Superfluous Background Apps and Services
 
  Some third-party background apps competing for system resources can also potentially cause OBS Studio launch issues. Disabling such superfluous apps and services will maximize system resources for OBS Studio and ensure they can’t clash with that software in any way.
@@ -108,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
  There are a few ways you can disable background apps, but the best way to do it for fixing OBS Studio is to apply a clean boot. This will disable all third-party apps and services from automatically starting with Windows. To apply this troubleshooting method, check out our [how to perform a clean boot guide](https://www.makeuseof.com/clean-boot-windows-11/). Then restart Windows after setting a clean boot and try running OBS Studio.
 
 ![The Startup tab in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-startup-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If OBS Studio works after clean booting, something you disabled must have been causing the issue. OBS Studio will probably stop working again if you re-enable all the disabled startup apps and services at once. It’s better to gradually re-enable disabled startup items before every restart so you can better identify which one is causing the issue.
 
@@ -129,8 +124,6 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 
  Users can’t utilize OBS Studio for recording when it doesn’t launch. Some users will probably consider trying out alternative game streaming software when OBS Studio doesn’t work. However, you can fix OBS Studio not launching on a Windows PC with the potential resolutions below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,5 +131,22 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-harnessing-the-power-of-supplemental-film-footage/"><u>[New] 2024 Approved Harnessing the Power of Supplemental Film Footage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-8-virtual-backdrops-for-macbook-upgrades/"><u>[New] Best 8 Virtual Backdrops for MacBook Upgrades</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-applications-for-remote-team-connection/"><u>[Updated] Top Applications for Remote Team Connection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-installation-instructions-for-brother-mfc-l2700dw-on-windows-machines/"><u>Download & Installation Instructions for Brother MFC-L2700DW on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-on-installing-win11s-version-22h2-upgrade-successfully/"><u>Expert Advice on Installing Win11's Version 22H2 Upgrade Successfully</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-365-error-code-30015-26-on-windows/"><u>How to Fix the Microsoft 365 Error Code 30015-26 on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-lenovo-thinkphone-phone-by-drfone-android/"><u>How to Reset a Locked Lenovo ThinkPhone Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterpieces-at-your-fingertips-4-notable-new-paint-features/"><u>Masterpieces at Your Fingertips: 4 Notable New Paint Features</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Oppo Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/passionate-whispers-savoring-italian-pick-up-lines/"><u>Passionate Whispers: Savoring Italian Pick-Up Lines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-procedures-for-resetting-windows-updates/"><u>Simplified Procedures for Resetting Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-steps-for-updating-administrator-in-win11-environment/"><u>Streamlined Steps for Updating Administrator in Win11 Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-integrating-secondary-antivirus-without-defenders-limits/"><u>Techniques for Integrating Secondary Antivirus without Defender’s Limits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tutorial-for-disabling-audio-boosters-in-windows-11-system/"><u>Ultimate Tutorial for Disabling Audio Boosters in Windows 11 System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-features-in-depth-analysis-of-snappydriver-v113/"><u>Unveiling the Features: In-Depth Analysis of SnappyDriver V1.13</u></a></li>
+</ul></div>
 

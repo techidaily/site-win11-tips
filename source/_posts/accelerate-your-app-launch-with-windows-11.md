@@ -1,7 +1,7 @@
 ---
 title: Accelerate Your App Launch with Windows 11
-date: 2024-08-16T01:20:48.636Z
-updated: 2024-08-17T01:20:48.636Z
+date: 2025-02-11T01:01:45.780Z
+updated: 2025-02-15T17:12:26.286Z
 tags:
   - windows10
   - windows11
@@ -22,15 +22,16 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
 ![Pinned apps on the Windows 11 taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/pinned-apps-on-the-windows-11-taskbar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It's good to have the apps you regularly use always remain visible on your screen, allowing you to launch them with a click. And, if you haven't changed its setting, the Windows 11 Taskbar always remains visible. Consequently, pinning apps to your Taskbars means you'll never lose sight of them.
 
  Aside from letting you open your pinned taskbar apps with a click, you can also use keyboard shortcuts to launch them. You can do so by pressing the**Windows Key + \[App Placement Number \]** . So, if you want to open the first pinned app, press**Windows Key + 1** . To open the second pinned app, press**Windows Key + 2** , and so on.
 
  But if your Windows 11 Taskbar has outright stopped working, this shortcut might not work. So, you should know how to [fix the Windows 11 Taskbar when it's not working](https://www.makeuseof.com/windows-11-taskbar-not-working-loading/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 2\. Create an App Shortcut And Pin It to the Desktop
 
  When you install an app for the first time, you may also get to create a shortcut for that on the desktop. But if you forgot to do that, you can also manually create shortcuts to apps on the desktop of your Windows 11 PC.
@@ -41,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 2. Click**Shortcut** .
 3. Type the location of the app and then click**Next** .  
 ![Browse location of the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/app-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Type a name for the app shortcut.
 5. Click**Finish** .
 
@@ -57,11 +55,18 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 2. Click**Properties** .  
 ![Context menu showing app properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/properties.jpg)
 3. Click the**Shortcut** tab.  
-![Shortcut key for apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortcut-key.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Shortcut key for apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortcut-key.jpg)
 4. In the Shortcut key field, choose the keyboard shortcut.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**Apply** , and then click**OK** .
 
  It is worth noting that when you delete the app shortcut from the desktop, you can no longer open it using the keyboard shortcut.
@@ -69,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 ## 4\. Launch Apps Quickly Using Windows 11 Start Menu
 
 ![Search in Windows 11 Start Menu edit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/search-in-windows-11-start-menu-edit.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Pinning apps on the Windows 11 Taskbar will help you launch them quickly—but what if you like keeping your taskbar clean? You can keep your most used app's shortcuts hidden away, yet still quickly accessible, in the Windows 11 Start Menu.
@@ -79,17 +85,15 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
  But if it isn't working, you should [check out how to fix the Start Menu](https://www.makeuseof.com/windows-start-button-not-working/) to get it working again.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Launch Apps Quickly Using Windows 11 Taskbar Search
 
 ![Screenshot showing how to look up OneNote app from Taskbar Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-how-to-look-up-onenote-app-from-taskbar-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Using Taskbar search to find the apps you want to open is similar to how you can use the Start Menu for the same purpose. To quickly launch apps on Windows 11, click on the Search icon on the Taskbar and type the name of the app you want to open. You can open it with a click, just like the Start Menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Apps Quickly on Windows 11
 
@@ -101,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,8 +112,20 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-guide-to-basic-hdr-imaging/"><u>[New] 2024 Approved The Ultimate Guide to Basic HDR Imaging</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/op-10-inspirational-hr-journeys-unveiled-for-2024/"><u>[New] Top 10 Inspirational HR Journeys Unveiled for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-expertly-edit-your-imagery-with-top-androidios-montage-apps/"><u>[Updated] Expertly Edit Your Imagery with Top Android/iOS Montage Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-malfunctioning-windows-diagnostic-tools/"><u>Correcting Malfunctioning Windows Diagnostic Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-tackle-windows-11s-0x800f0922-update-error/"><u>Guide to Tackle Windows 11'S 0X800F0922 Update Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-off-high-contrast-mode-on-windows/"><u>How to Turn Off High Contrast Mode on Windows</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mind-puzzling-stats-a-graphed-journey-through-yt-17/"><u>In 2024, Mind-Puzzling Stats A Graphed Journey Through YT '17</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-poco-f5-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Poco F5 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-your-gaming-with-advanced-controller-software/"><u>In 2024, Revolutionizing Your Gaming with Advanced Controller Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-the-basics-of-window-aids-with-ease/"><u>Navigate the Basics of Window Aids with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peering-into-the-world-of-engaging-conversational-bots/"><u>Peering Into the World of Engaging Conversational Bots</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/photo-mastery-top-8-web-based-creation-suite/"><u>Photo Mastery Top 8 Web-Based Creation Suite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-pro-key-grab-the-best-offers-and-save-money/"><u>Windows 11 Pro Key: Grab the Best Offers and Save Money</u></a></li>
+</ul></div>
 

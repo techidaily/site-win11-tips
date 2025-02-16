@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Shortcut Functionality: Integrating Wordpad Keys with Windows 11 Menu"
-date: 2025-01-30T22:56:59.169Z
-updated: 2025-02-01T00:52:04.522Z
+date: 2025-02-09T23:33:02.421Z
+updated: 2025-02-15T21:03:36.339Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a WordPad Shortcut to Windows 11’s Context Menu
@@ -46,27 +46,27 @@ You can add a basic WordPad shortcut to the context menu like this:
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-new-key-options.jpg)
 2. Enter**WordPad** in the text box for the new key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Then right-click the new**WordPad** key and select the**New** \>**Key** options again.
 4. Input**command** for the subkey’s title.  
 ![The WordPad key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-command-subkey.jpg)
 5. Select the command key in the sidebar, and then double-click its**(Default)** string.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Input this path in the**Value** box:  
 `"C:\Program Files\Windows NT\Accessories\wordpad.exe"`
 7. Click**OK** to save the value, and exit the Registry Editor.  
 ![An Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/an-edit-string-window2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can open WordPad from the desktop context menu in Windows 11\. Right-click anywhere on the desktop background and select**Show more options** to access the classic menu. Selecting the new**WordPad** option on that menu will open the app’s window.
 
 ![The WordPad context menu shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-wordpad-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add an Open with WordPad Shortcut to Windows 11’s Context Menu
 
@@ -84,17 +84,13 @@ You can add a basic WordPad shortcut to the context menu like this:
 8. Double-click the**(Default)** string for the new command subkey you just added.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Enter**wordpad.exe %1** in the**Value** box, and click**OK** to apply.  
 ![The wordpad.exe value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-wordpad-exe-value-data.jpg)
 
  Now you can close the Registry Editor and try out the**Open with WordPad** context menu shortcut. Launch File Explorer (see[how to launch File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ), and navigate to a folder containing some TXT or RTF files. Right-click an RTF or TXT document and select**Show more options** . Click**Open with WordPad** to bring up the right-clicked document in that app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Erase the WordPad Context Menu Shortcuts
 
@@ -106,6 +102,10 @@ Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\WordPad\command`
  Then right-click the**Open with WordPad** or**WordPad** key to select a**Delete** option. A dialogue box will open requesting confirmation to erase. Select**Yes** if you’re sure about deleting the key.
 
 ![The Delete option for registry keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-delete-option2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make the Most of Your WordPad Context Menu Shortcuts
 
@@ -126,24 +126,16 @@ Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\WordPad\command`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-pinnacle-of-picture-quality-best-players-24/"><u>[New] 2024 Approved The Pinnacle of Picture Quality Best Players '24</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-income-streams-from-google-adsense-to-money-matters/"><u>[Updated] Unlocking Income Streams From Google AdSense to Money Matters</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-youtube-mastery-starts-here-building-and-monetizing-your-channel/"><u>[Updated] YouTube Mastery Starts Here Building and Monetizing Your Channel</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-discover-top-tier-church-broadcasting-options/"><u>2024 Approved Discover Top-Tier Church Broadcasting Options</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-the-best-text-voice-generators-for-all-platforms/"><u>2024 Approved The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/battle-for-supremacy-in-a-new-star-wars-game-a-deep-dive-into-squadrons-features-and-gameplay/"><u>Battle for Supremacy in a New Star Wars Game – A Deep Dive Into Squadrons' Features & Gameplay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-win11-dns-server-settings-quick-guide/"><u>Configuring Win11 DNS Server Settings Quick Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/detailed-method-to-rectify-error-0x800700c6-in-apps/"><u>Detailed Method to Rectify 'Error 0X800700C6' In Apps</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/discovering-your-own-original-tagline-in-the-realm-of-tiktok/"><u>Discovering Your Own Original Tagline in the Realm of TikTok</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-windows-arp-cache-mechanism-and-deletion/"><u>Dissecting Windows ARP Cache Mechanism and Deletion</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-realme-gt-neo-5-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Realme GT Neo 5.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-gpo-searches-in-modern-windows-os/"><u>Mastering GPO Searches in Modern Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-windows-1011s-0x80246007-problem/"><u>Overcoming the Windows 10/11'S 0X80246007 Problem</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/pro-moviemakers-manual-for-pc-mac-and-mobile-systems/"><u>Pro Moviemaker's Manual for PC, Mac & Mobile Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-signature-problem-for-windows-updates/"><u>Resolving Signature Problem for Windows Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-potential-7-efficient-study-strategies-on-a-windows-pc/"><u>Unleash Potential: 7 Efficient Study Strategies on a Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11s-guide-to-opening-system32-directory/"><u>Win11's Guide to Opening System32 Directory</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-a-christmas-makeover-guide/"><u>Windows 11: A Christmas Makeover Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-brands-of-steadicams-for-professional-drones-in-film/"><u>[New] Leading Brands of Steadicams for Professional Drones in Film</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-rapid-diy-techniques-that-every-indie-filmmaker-should-try/"><u>[Updated] In 2024, Rapid DIY Techniques That Every Indie Filmmaker Should Try</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-tranquil-repos-no-pressure-pc-games/"><u>2024 Approved Tranquil Repos No-Pressure PC Games</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/alternative-solutions-to-xcopy-in-windows-os-best-tools-and-how-to-video-guide-windows-11-10-7-xp/"><u>Alternative Solutions to XCopy in Windows OS - Best Tools and How-To Video Guide (Windows 11, 10, 7, XP)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-steam-downloads-halting-speed-fluctuations/"><u>Enhance Steam Downloads: Halting Speed Fluctuations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/genuine-or-ghost-a-guide-to-spotting-windows-app-fraudsters/"><u>Genuine or Ghost? A Guide to Spotting Windows App Fraudsters</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-itel-p55-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Itel P55 Phone? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-pc-adobe-woes/"><u>Mastering Windows PC Adobe Woes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-filmmakers-blueprint-to-panoramic-perfection-9-key-techniques/"><u>The Filmmaker's Blueprint to Panoramic Perfection 9 Key Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-silent-pc-audio-solutions-ready/"><u>Troubleshoot Silent PC Audio – Solutions Ready!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-convenience-the-elite-list-of-key-finders/"><u>Unlocking Convenience: The Elite List of Key Finders</u></a></li>
 </ul></div>
 

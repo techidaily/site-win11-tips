@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11'S Security: Controlling Folder Permissions"
-date: 2025-01-26T23:06:24.261Z
-updated: 2025-02-02T17:00:44.434Z
+date: 2025-02-11T20:18:09.212Z
+updated: 2025-02-15T23:53:15.404Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
 ![The Add a protected folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-a-protected-folder-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn on Controlled Folder Access With PowerShell
 
  Windows PowerShell gives you an alternative method to enable and disable controlled folder access by executing commands. You can turn on controlled folder access with PowerShell as follows:
@@ -53,14 +57,10 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 ![The enable controlled folder access command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-controlled-folder-access-command.jpg)
 5. You can disable controlled folder access by executing this command:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Set-MpPreference -EnableControlledFolderAccess Disabled`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable Controlled Folder Access With Group Policy Editor
@@ -86,7 +86,15 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 ![The Configure the guard my folders feature drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/configure-controlled-folder-access.jpg)
 5. Select**Apply** in the Configure Controlled folder access window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the Configure Controlled folder access window’s**OK** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn on Controlled Folder Access From the Windows Context Menu
 
@@ -141,12 +149,12 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 ![The controlled folder access registry script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access-registry-script.jpg)
 4. Next, press**Ctrl** +**Shift** +**S** to view Notepad’s "Save as" window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Set the**Save as type** option to**All files** .  
 ![The All files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/all-files-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Type**Turn on Control folder access.reg** inside the file name box.
 2. Select to save the script to the desktop location.
@@ -154,10 +162,6 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 4. Close the Notepad editor, and double-click the**Turn on Control folder access.reg** file on the desktop.  
 ![The registry script confirmation dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/registry-script-confirmation-dialog.jpg)
 5. Select**Yes** to confirm you trust the script.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you can enable controlled folder access from the Windows context menu.
 
@@ -173,7 +177,7 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 4. Click**Yes** to erase that key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Controlled Folder Access Exceptions
@@ -188,18 +192,14 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 ![The Add an allowed app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-an-allowed-app.jpg)
 4. Click**Browse all** **apps** on the menu that appears.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Browse all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-all-apps-option.jpg)
 5. Select the EXE (application) file for a game or other software you want to exclude from controlled folder access.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**Open** to add the selected game or software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enable Controlled Folder Access for Greater Ransomware Protection
 
@@ -220,19 +220,20 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-exploring-screen-capture-with-apowersoft-no-cost-involved-in-2024/"><u>[New] Exploring Screen Capture with Apowersoft, No Cost Involved, In 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-top-5-winter-frameworks-for-comfortable-cinematography/"><u>[Updated] In 2024, Top 5 Winter Frameworks for Comfortable Cinematography</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-unleash-creativity-on-tiktok-using-mac-or-pc-devices-for-2024/"><u>[Updated] Unleash Creativity on TikTok Using MAC or PC Devices for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/44cm5o6i57si5pya5aw955qe5ywn6lk75zyo57ea6yye5b2x5ymq5o6l5bel5yw3ic0g5b2x6zplusz57eo6lyv5zmo6yg45poh5oyh5y2x44cn/"><u>「探索最好的免費在線錄影剪接工具 - 影音編輯器選擇指南」</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-monetization-maze-on-youtube/"><u>2024 Approved Navigating the Monetization Maze on Youtube</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/avoiding-hiccups-with-the-dell-mouse-driver-your-comprehhren-solution/"><u>Avoiding Hiccups with the Dell Mouse Driver - Your Comprehhren Solution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-taskbar-icons-that-dont-pop-up/"><u>Correcting Taskbar Icons that Don't Pop Up</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-system-speed-strategies-for-virtual-memory-upgradation-in-windows-11/"><u>Elevating System Speed: Strategies for Virtual Memory Upgradation in Windows 11</u></a></li>
-<li><a href="https://facebook.techidaily.com/ending-facial-id-at-meta-but-why-uncover-the-story/"><u>Ending Facial ID at Meta, But Why? Uncover The Story.</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-motorola-g24-power-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Motorola G24 Power Unlock Without Password</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-errors-fixing-loadlib-failure-87/"><u>Navigating Windows Errors: Fixing LoadLib Failure 87</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/redressing-invisible-lan-windows-network-guide/"><u>Redressing Invisible LAN: Windows Network Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-git-operations-github-desktop-and-windows-11-explained/"><u>Simplifying Git Operations: GitHub Desktop and Windows 11 Explained</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/smart-tips-for-gif-lovers-iphone-edition-for-2024/"><u>Smart Tips for GIF Lovers IPhone Edition for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-harmonizing-with-instagram-a-songwriters-legal-framework/"><u>[New] Harmonizing with Instagram A Songwriter’s Legal Framework</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-rhythm-and-reel-incorporating-tunes-on-instagram/"><u>[Updated] 2024 Approved Rhythm & Reel Incorporating Tunes on Instagram</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-infinix-note-30-vip-racing-edition-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Note 30 VIP Racing Edition Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-selection-2024s-5-premier-free-offline-race-simulators/"><u>Discover the Ultimate Selection: 2024'S 5 Premier Free Offline Race Simulators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-xc10100bf-from-your-windows/"><u>Eliminating XC10100BF From Your Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-develop-a-trusted-window-icon-for-safe-hardware-disconnect-in-win11/"><u>How to Develop a Trusted Window Icon for Safe Hardware Disconnect in Win11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-9015-updated-driver-downloads-at-no-cost/"><u>HP OfficeJet Pro 9015 - Updated Driver Downloads at No Cost!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-cultivate-community-interest-with-collaborative-lists/"><u>In 2024, Cultivate Community Interest With Collaborative Lists</u></a></li>
+<li><a href="https://win-community.techidaily.com/leading-software-solutions-for-quickly-erasing-words-in-photographs/"><u>Leading Software Solutions for Quickly Erasing Words in Photographs</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-window-tweaking-using-alomware-suite/"><u>Master the Art of Window Tweaking Using AlomWare Suite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-redeeming-a-non-functional-spotify-app/"><u>Quick Guide: Redeeming a Non-Functional Spotify App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-functionality-of-the-absent-windows-update/"><u>Regain Functionality of the Absent Windows Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-transferring-usb-issues-in-windows-os/"><u>Resolving Non-Transferring USB Issues in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-permanent-display-settings-for-desks/"><u>Windows 11: Permanent Display Settings for Desks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-streaks-tips-to-sharpen-your-cs-go-fps/"><u>Winning Streaks: Tips to Sharpen Your CS GO FPS</u></a></li>
 </ul></div>
 

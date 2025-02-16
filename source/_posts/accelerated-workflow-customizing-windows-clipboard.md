@@ -1,7 +1,7 @@
 ---
 title: "Accelerated Workflow: Customizing Windows Clipboard"
-date: 2024-08-16T01:19:23.025Z
-updated: 2024-08-17T01:19:23.025Z
+date: 2025-02-13T20:08:02.926Z
+updated: 2025-02-15T22:47:21.696Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
  QuickTextPaste and HotkeyP are third-party Windows apps with which you can set up alternative custom hotkeys for pasting text snippets. This is how you can create unique hotkeys for pasting addresses, names, numbers, and other text snippets you’ll often need to input into word processors or browsers with those apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set Up Hotkeys for Pasting Pre-Defined Text With QuickTextPaste
 
  QuickTextPaste is freeware software for Windows 11, 10, 8.1, and 7\. It’s a lightweight program that enables you to set up and save custom [hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) with which you can always paste pre-defined text whenever needed. Plus, you can set custom hotkeys for opening apps with that software. You can set up a hotkey for pasting pre-defined text with QuickTextPaste as follows:
@@ -30,6 +34,11 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 4. Follow the steps in this guide about [unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-compressed-window.jpg)
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
 ![The QuickTextPaste window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-quicktextpaste-window.jpg)
 7. Select the keys to include within your hotkey on the two drop-down menus at the bottom of the QuickTextPaste window.
@@ -59,24 +68,24 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
 2. Click**Add** to bring up a Hot Key window.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 3. Next, press the arrow (**<**) button for the**Command** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Macro** and the**Paste text** option.  
 ![The Paste text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-text-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 5. Then input the text to paste within the**Parameters** box. That parameters box doesn’t seem to have any character number restriction for how long your pre-defined text can be.
 6. Select one or more**Ctrl** ,**Alt** ,**Win** , and**Shift** checkboxes.
 7. Input a letter key within the text box to set the hotkey.
 8. Enter a title for the hotkey in the**Description** box.  
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hot-key-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. Select**OK** to add the new custom paste hotkey.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you’ll see the hotkey you’ve just set listed within the HotkeyP window. Press**Esc** to hide the HotkeyP in the system tray. Then open WordPad, Notepad, or another text editor to try out the hotkey. Press the custom hotkey you’ve set up to paste in its pre-defined text.
 
@@ -85,13 +94,11 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
  You can configure general settings for HotkeyP by clicking**Window** \>**Options** . The**Start automatically at Windows startup** checkbox is already selected by default on the**General** tab. That tab also includes options for adding/removing buttons in the main window, setting buttons for hiding the window and showing the program in the system tray among others.
 
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Creating Other Hotkeys With HotkeyP
 
  It’s also worth exploring the other options for creating hotkeys HotkeyP offers beyond pasting pre-defined text. For example, you can set up custom hotkeys for various system functions like shutting down, logging off, emptying the Recycle Bin, and opening the Programs and Features applet among others. To do so, click the**arrow (<)** button and**System** on the Hot Key window to choose one of those hotkey functions.
@@ -102,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
 
  Custom hotkeys for pasting pre-defined text will certainly come in handy for filling out web forms and drafting letters or emails. You can set up custom keyboard shortcuts for pasting your name, postcode, phone number, email address, tax reference number, passwords, and much more with QuickTextPaste and HotkeyP. They’re good apps to utilize for creating software hotkeys as well.
@@ -115,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,8 +126,24 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-how-to-extend-the-usage-of-your-gopro-battery/"><u>[New] In 2024, How to Extend the Usage of Your GoPro Battery</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-free-fast-skype-to-mp3-guide-for-call-recorders/"><u>[Updated] In 2024, Free, Fast Skype to MP3 Guide for Call Recorders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-free-from-file-read-only-status-on-pc/"><u>Breaking Free From File Read-Only Status on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-in-performance-dashboard-functionality/"><u>Bridging Gaps in Performance Dashboard Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-compatibility-barriers-with-simple-fixes-in-xp-vista-and-7/"><u>Bypass Compatibility Barriers with Simple Fixes in XP, Vista & 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-incompatibility-woes-in-windows-xp-7-and-8-easily/"><u>Bypass Incompatibility Woes in Windows XP, 7 & 8 Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-microsoft-defender-firewall-on-windows-11/"><u>Bypassing Microsoft Defender Firewall on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-failed-install-error-in-discord-win-editions/"><u>Bypassing the Failed Install Error in Discord Win Editions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-your-digital-legacy-windows-11-archive/"><u>Charting Your Digital Legacy: Windows 11 Archive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chatbots-and-code-risks-for-your-windows-11-access/"><u>Chatbots & Code Risks for Your Windows 11 Access</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-your-creative-muse-for-poems/"><u>ChatGPT as Your Creative Muse for Poems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-future-of-movie-watchlist-management/"><u>ChatGPT: The Future of Movie Watchlist Management</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-repair-techniques-for-a-non-functional-lenovo-fingerprint-reader/"><u>Effortless Repair Techniques for a Non-Functional Lenovo Fingerprint Reader</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-the-forgotten-a-testimonial-on-photo-restoration-triumphs/"><u>Reviving the Forgotten: A Testimonial on Photo Restoration Triumphs</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-security-status-of-fb-chat-rooms/"><u>The Security Status of FB Chat Rooms</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-wevideo-your-go-to-platform-for-online-video-editing/"><u>Updated WeVideo Your Go-To Platform for Online Video Editing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/video-length-measurement-20-megabit-case/"><u>Video Length Measurement - 20 Megabit Case</u></a></li>
+</ul></div>
 

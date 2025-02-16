@@ -1,7 +1,7 @@
 ---
 title: Windows Struggles with iCloud - Effective Troubleshooting Steps
-date: 2025-01-26T02:39:15.336Z
-updated: 2025-02-01T03:42:14.696Z
+date: 2025-02-11T20:00:56.275Z
+updated: 2025-02-16T00:27:36.619Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install the Media Feature Pack
 
  One unusual reason why you might be unable to install iCloud is if Windows Media Player is missing or disabled on your PC. In that case, you might get the error message "Your computer is missing media features" while installing iCloud.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 ![iCloud Installation Error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/icloud-installation-error.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Turn On Media Features
@@ -55,7 +51,15 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 6. Click **OK** to save changes.  
 ![Enable Media Features on Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enable-media-features-on-windows-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Restart your PC](https://www.makeuseof.com/windows-restart-methods/) after completing the above steps, and then try to install iCloud again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Remove the Previous Version of iCloud
 
@@ -69,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 ![Uninstall iCloud on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/uninstall-icloud-on-windows.jpg)
 
  Once removed, you should be able to download and install the iCloud app from the Microsoft Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run the Program Install and Uninstall Troubleshooter
 
@@ -84,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 ![Run Program Install and Uninstall Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-program-install-and-uninstall-troubleshooter-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Allow the troubleshooter to do its thing and see if you can install iCloud after that.
@@ -98,15 +106,7 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 3. Accept the terms in the license agreement and click **Install**.  
 ![Install iCloud on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/install-icloud-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the installer to run and install the iCloud app on your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Start Using iCloud on Your Windows Computer
 
@@ -124,21 +124,20 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-from-shots-to-screens-the-importance-of-camera-lenses-in-vlogs/"><u>[New] In 2024, From Shots to Screens The Importance of Camera Lenses in Vlogs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-techniques-for-flawless-live-broadcasting-of-rl-games/"><u>[Updated] In 2024, Techniques for Flawless Live Broadcasting of RL Games</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-maximize-your-media-influence-with-10-effortless-steps-for-2024/"><u>[Updated] Maximize Your Media Influence with 10 Effortless Steps for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-captivating-content-creation-the-best-10-igtv-strategies-for-brands/"><u>2024 Approved Captivating Content Creation The Best 10 IGTV Strategies for Brands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-system-health-modernizing-old-windows-drivers/"><u>Elevating System Health: Modernizing Old Windows Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-unconnected-error-from-nvidia-geforce-ex-in-win-11/"><u>Fixing Unconnected Error From Nvidia GeForce Ex in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-back-up-and-restore-your-sticky-notes-on-windows/"><u>How to Back Up and Restore Your Sticky Notes on Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oppo-find-x7-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Oppo Find X7</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-capturing-memories-a-guide-to-sharing-ps4-screenshots-online-for-2024/"><u>New Capturing Memories A Guide to Sharing PS4 Screenshots Online for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/panel-perusal-are-windows-11-interactive-features-essential/"><u>Panel Perusal: Are Windows 11 Interactive Features Essential?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/retro-computing-revolution-atlasos-overhaul/"><u>Retro Computing Revolution: AtlasOS Overhaul</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/seamless-instagram-video-mp4-conversion-pro-strategies-unlocked-for-2024/"><u>Seamless Instagram Video-MP4 Conversion - Pro Strategies Unlocked for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-transition-of-nat-configurations-on-windows-10-and-11/"><u>Seamless Transition of NAT Configurations on Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-potential-efficient-use-of-the-toolbar-in-win11-pcm/"><u>Unlock Potential: Efficient Use of the Toolbar in Win11 PCM</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-oneplus-nord-ce-3-lite-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For OnePlus Nord CE 3 Lite 5G Phones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elite-11-auditorial-capture-devices-overview-for-2024/"><u>[New] Elite #11 Auditorial Capture Devices Overview for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-empower-yourself-learning-the-ins-and-outs-of-io-screen-recorder/"><u>[New] Empower Yourself Learning the Ins and Outs of IO Screen Recorder</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-innovative-strategies-for-hosting-zero-cost-online-courses/"><u>2024 Approved Innovative Strategies for Hosting Zero-Cost Online Courses</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/cant-see-cursor-only-sony-a6400-glitch/"><u>Can't See, Cursor Only - Sony A6400 Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-file-handling-zipping-with-cli-tools-on-windows-os/"><u>Efficient File Handling: Zipping with CLI Tools on Windows OS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-successfully-install-battlefield-4-on-your-gaming-computer/"><u>How to Successfully Install Battlefield 4 on Your Gaming Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-android-performance-via-wsl-resource-tweaks/"><u>Improving Android Performance via WSL Resource Tweaks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-how-to-optimize-your-video-storage-on-64128gb-devices/"><u>In 2024, How to Optimize Your Video Storage on 64/128GB Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-a-seamless-software-shift-with-windows-11-upgrade/"><u>Securing a Seamless Software Shift with Windows 11 Upgrade</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/smile-spawning-creativity-in-adobe-meme-making-for-2024/"><u>Smile Spawning Creativity in Adobe Meme-Making for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-correcting-bluetooth-connection-failures-in-windows-11/"><u>Steps for Correcting Bluetooth Connection Failures in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-freeze-fix-for-non-opener-exe-files/"><u>Taming the Freeze: Fix for Non-Opener .exe Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unknown-errors-in-windows-1011/"><u>Troubleshooting Unknown Errors in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-screen-sharing-issues-in-teammers/"><u>Unlock Screen Sharing Issues in Teammers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-windows-self-scrolling/"><u>Unraveling the Mystery of Windows Self-Scrolling</u></a></li>
 </ul></div>
 

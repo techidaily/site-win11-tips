@@ -1,7 +1,7 @@
 ---
 title: Proven Steps to Erase Networks in Win 11 OS
-date: 2025-01-25T02:48:49.592Z
-updated: 2025-02-01T08:06:08.729Z
+date: 2025-02-12T02:31:45.438Z
+updated: 2025-02-16T02:07:45.821Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Benefits of Removing Old Wi-Fi Networks From Windows 11
 
  While having a long list of saved Wi-Fi networks isn’t necessarily a bad thing, there may be times when you want to remove specific Wi-Fi networks from your PC.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
  For example, if you previously connected your PC to a free public network but do not intend to use it again, it is best to simply remove the network. Or perhaps you don't want your PC to automatically connect to a specific network when it’s in range. Besides, forgetting and rejoining a network also happens to be an effective solution for fixing minor connection issues.
 
  Over time, your PC may accumulate a long list of Wi-Fi networks that you won't be connecting to. In such cases, it makes sense to remove old and unused Wi-Fi networks from your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Remove a Saved Wi-Fi Network Using the Quick Settings Panel
 
@@ -62,7 +62,7 @@ To forget a Wi-Fi network via the Settings app:
  And that's about it. Once you click the**Forget** button, Windows will remove the network profile associated with that network.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remove a Saved Wi-Fi Network With Command Prompt or PowerShell
@@ -79,9 +79,17 @@ To forget a Wi-Fi network via the Settings app:
 `netsh wlan delete profile name="WIFIName"`  
 ![Delete a Saved Wi-Fi Profile Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Delete-a-Saved-Wi-Fi-Profile-Using-Command-Prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can repeat the above command to remove as many networks as you want. Conveniently, the command-line tool also lets you remove all the saved Wi-Fi networks at once. To do so, use this command:
 
 `netsh wlan delete profile name=* i=*`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Remove a Saved Wi-Fi Network Using Registry Editor
 
@@ -103,10 +111,6 @@ To remove a Wi-Fi network using the Registry Editor:
 
  Once you complete the above steps, the saved profile will be removed from your system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Reconnect to a Forgotten Wi-Fi Network on Windows 11
 
  You can always reconnect to a Wi-Fi network later after forgetting it. For that, you'll need to manually select the network and enter the password for authentication.
@@ -116,14 +120,10 @@ To remove a Wi-Fi network using the Registry Editor:
 ![Connect to a Wi-Fi Network Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Connect-to-a-Wi-Fi-Network-Windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, this isn't the only way to connect to a Wi-Fi network on Windows. Refer to our guide on[different ways to connect to Wi-Fi on Windows](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/) to learn more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Removing Saved Wi-Fi Networks From Windows 11
 
@@ -146,19 +146,24 @@ To remove a Wi-Fi network using the Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-elevating-instagram-stories-speed-control-techniques/"><u>[New] 2024 Approved Elevating Instagram Stories Speed Control Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-vocal-variety-made-simple-utilize-no-cost-effects-enhancers/"><u>[New] 2024 Approved Vocal Variety Made Simple Utilize No-Cost Effects Enhancers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-transform-your-streaming-experience-with-these-9-filter-power-ups/"><u>[New] In 2024, Transform Your Streaming Experience with These 9 Filter Power-Ups</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-harmonizing-highlights-how-to-embed-songs-on-instagram-stories/"><u>[Updated] 2024 Approved Harmonizing Highlights How to Embed Songs on Instagram Stories</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-on-mac-quick-setup-tips-for-2024/"><u>[Updated] Snapchat on Mac - Quick Setup Tips for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-creating-full-screen-memories/"><u>[Updated] The Ultimate Guide to Creating Full-Screen Memories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combat-shrinking-icon-size-on-win-11-systems/"><u>Combat Shrinking Icon Size on Win 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-disk-identity-unmasking-the-true-nature-of-disks-in-windows/"><u>Decoding Disk Identity: Unmasking the True Nature of Disks in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/flawless-file-alignment-for-the-modern-user/"><u>Flawless File Alignment for the Modern User</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-6s-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 6s?</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-comedy-collection-a-1992-review-of-the-goofys/"><u>In 2024, 'Comedy Collection' A 1992 Review of The Goofys</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/iso-file-writing-tutorial-mastering-the-art-of-converting-iso-files-into-dvd-format-on-pc-and-mac-systems-windows-1er-mac/"><u>ISO File Writing Tutorial: Mastering the Art of Converting ISO Files Into DVD Format on PC and Mac Systems (Windows 1Er, Mac)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-pin-lock-streamlining-windows-11-projection/"><u>No PIN Lock: Streamlining Windows 11 Projection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-solving-windows-error-0x8007000f/"><u>Quick Guide to Solving Windows Error 0X8007000F</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-first-film-experience-selecting-best-gopro-extras/"><u>[New] First Film Experience Selecting Best GoPro Extras</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-creative-channel-titling-techniques-for-growth/"><u>[Updated] Creative Channel Titling Techniques for Growth</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-short-film-synopsis-must-know-points/"><u>[Updated] Short Film Synopsis Must-Know Points</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-8-steps-to-make-your-instagram-unboxing-reels-viral/"><u>2024 Approved Top 8 Steps to Make Your Instagram Unboxing Reels Viral</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-blackout-phenomenon-in-pc-titles-on-windows/"><u>Combatting Blackout Phenomenon in PC Titles on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-linux-access-without-wsl/"><u>Direct Linux Access, Without WSL</u></a></li>
+<li><a href="https://common-error.techidaily.com/icue-detection-failure-identifying-and-solving-the-common-issues/"><u>ICUE Detection Failure: Identifying and Solving the Common Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y100t-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y100t Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-2023-update-from-youtube-to-high-quality-mp3s-for-2024/"><u>MacOS 2023 Update From YouTube to High-Quality MP3s for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/mastering-mp3s-incorporating-tunes-into-powerpoint-slides/"><u>Mastering MP3s Incorporating Tunes Into PowerPoint Slides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-how-to-skip-windows-11-lock/"><u>Mastering the Art: How to Skip Windows 11 Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-time-display-customization-in-windows/"><u>Mastering Time Display Customization in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protect-your-pcs-core-settings-with-effective-registry-backups-and-recovery-tips/"><u>Protect Your PC's Core Settings with Effective Registry Backups and Recovery Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/releasing-locked-resources-in-windows-environments-154-chars/"><u>Releasing Locked Resources in Windows Environments (154 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-microsofte-shop-error-code-0x80073cf3/"><u>Tackling Microsoft'e Shop Error Code: 0X80073CF3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-perfect-blend-of-aesthetics-and-functionality-in-the-asus-s15/"><u>The Perfect Blend of Aesthetics & Functionality in the ASUS S15</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-onedrive-fixing-invalid-tag-errors-in-windows/"><u>Troubleshooting OneDrive: Fixing Invalid Tag Errors in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-steam-network-errors-in-windows-11/"><u>Unblocking Steam Network Errors in Windows 11</u></a></li>
 </ul></div>
 

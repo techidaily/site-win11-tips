@@ -1,7 +1,7 @@
 ---
 title: "A Calendar Revolution: Customizing Your Scheduling Tool on Windows PC"
-date: 2024-08-16T01:19:27.297Z
-updated: 2024-08-17T01:19:27.297Z
+date: 2025-02-09T01:14:07.441Z
+updated: 2025-02-15T22:28:21.273Z
 tags:
   - windows10
   - windows11
@@ -40,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 4. On the top-right corner, enable the **Try the new Outlook** toggle button.
 5. The app will then restart to the new Outlook preview app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## How to Set Up Your Calendar Layout on Outlook
 
  The Outlook Calendar is easy to personalize and adjust according to your preferred style. Previously, there were limited options to organize the Calendar, but there’s a lot of room for customization now.
@@ -55,9 +52,18 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 2. Select the **View** tab from the Ribbon.  
 ![calendar monthly view outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/calendar-month-view-outlook.jpg)
 3. Choose between **Day, Work week, Week,** or **Month** to adjust the view accordingly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. You can also choose **Split view** to display calendars associated with different email accounts separately.
 5. To view upcoming events more detailedly, you can increase the **Time scale** to make more room for details.
 6. Once you’ve organized a view to your preference, you can save it as the default view the next time. To do so, select **Saved views** and then **Save the current view**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Filter Meetings and Events in Outlook Calendar
 
@@ -69,11 +75,12 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 * Whether the event is repetitive or set as private
 
 ![meetings filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/meetings-filter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
  To access the filter options for your Outlook Calendar, select the **Calendar** icon from the left sidebar and then click on the **View** tab from the Ribbon. Select the **Filter** button and choose the required filter criteria from the dropdown menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Manage Calendar Time Settings in Outlook
 
@@ -87,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 2. Select the **View** tab from Ribbon and then click on **Calendar settings**.
 3. From the settings menu, select **Calendar** and then **View**.  
 ![calendar view settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/calendar-view-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 4. Under the **Calendar appearance** section, you can change your work week, adjust meeting hours, and more.
 5. Finally, select the **Save** button to confirm your changes.
 
@@ -103,9 +107,6 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 2. Go to the **View** tab on the Ribbon and click on **Calendar settings**.
 3. In the settings menu, choose **Calendar** and then **View**.  
 ![add multiple time zone outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/add-time-zone-outlook.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Scroll to find the **Time zones** section.
 5. To update your current time zone, select one through the **Display my calendar in time zone** dropdown option.
 6. Add a new time zone by clicking the **Add time zone** button and searching for the relevant city/time zone.
@@ -122,23 +123,23 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 2. From the settings menu, select **Calendar** and then **Shared calendars**.
 3. Under the **Share, a calendar** section, choose a calendar to share.  
 ![share calendar outlook preview app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/share-calendar-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. In the **Sharing and permissions** window, type the email address of the user you want to invite and press **Enter**.  
 ![share calendars on outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/share-calendar-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 5. Select the required level of access and click on **Share**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Your Calendar Smarter
 
  Thanks to the incredible customization options available in the Outlook preview, you can get more organized and productive. Microsoft has added plenty of exciting features in the new Outlook preview app and has given its users something exciting to look forward to.
 
  Read on as we discuss how to customize the Outlook calendar to suit your needs.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -147,5 +148,22 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-3-ways-to-record-switch-gameplay/"><u>[Updated] 2024 Approved 3 Ways to Record Switch Gameplay</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-screen-snapping-on-a-mac-explained/"><u>[Updated] Screen Snapping on a Mac Explained</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-what-does-a-blue-icon-signify-on-fb-messenger-in-2024/"><u>[Updated] What Does a Blue Icon Signify on FB Messenger, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-volume-on-bluetooth-headphonesspeakers-a-win11-guide/"><u>Boosting Volume on Bluetooth Headphones/Speakers: A Win11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-command-prompt-to-windows-11s-task-manager/"><u>Bring Command Prompt to Windows 11'S Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-your-games-home-integrating-android-into-windows-11s-ecosystem/"><u>Bring Your Games Home: Integrating Android Into Windows 11'S Ecosystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-permission-denied-window-message/"><u>Bypassing Permission Denied Window Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-read-only-settings-for-file-access/"><u>Bypassing Windows Read-Only Settings for File Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ceasing-cortana-on-windows-11/"><u>Ceasing Cortana on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-pinpoint-your-pcs-ram-quickly-on-windows/"><u>How to Pinpoint Your PC's RAM Quickly on Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-your-iphones-common-screen-issues-quickly/"><u>How to Resolve Your iPhone's Common Screen Issues Quickly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 Pro 5G Phone without Google Account?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-6-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 6</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/photo-perfection-how-to-erase-background-noise-with-ease-for-2024/"><u>Photo Perfection How to Erase Background Noise with Ease for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5s-compatibility-with-legacy-playstation-systems/"><u>PS5's Compatibility with Legacy PlayStation Systems?</u></a></li>
+</ul></div>
 

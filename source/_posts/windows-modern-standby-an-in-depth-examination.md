@@ -1,7 +1,7 @@
 ---
 title: "Windows Modern Standby: An In-Depth Examination"
-date: 2024-12-15T18:12:39.538Z
-updated: 2024-12-21T23:15:24.708Z
+date: 2025-02-11T03:11:39.522Z
+updated: 2025-02-16T00:38:07.848Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Windows Modern Standby?
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
  This differs from classic standby, which would take the state of your PC (what you were doing when you put it to sleep) and hold that in memory. Then, when you turn it back on, your PC can fetch it from storage to resume exactly what you were doing. The key difference is that, on the old standby, also known as S3 standby, only a small amount of power was put into the memory on your PC, so it could store information, whereas modern standby provides more power directly to the CPU.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Problem With Windows Modern Standby?
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 ![Windows 11 menu with various options for sleep modes and power consumption options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-system-power-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’ve ever left your laptop or tablet in sleep mode in your bag, then found it was horribly hot and completely dead when you tried to use it later, then you’ve experienced Windows Modern Standby. While the feature does try to bring Windows devices more in line with Smartphones, it has also led to various laptops and tablets completely draining when they’re not being used.
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
  There’s also the lifespan of your devices' batteries to consider. If your laptop or tablet is sitting on your coffee table constantly running powerful CPU processes, then you’re likely to find that the battery dies much sooner than you were expecting, and they can be expensive or difficult to replace or repair.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stop Windows Modern Standby
@@ -68,35 +68,12 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
  Bear in mind if you disable this feature, you might find that your laptop takes longer to wake up from sleep mode, and it also won't download any updates for you while you're not using it. If you’re not experiencing a power drain, as mentioned above, then you should leave the feature enabled. On Desktop PCs or laptops/tablets that don’t have a powerful CPU, Windows Modern Standby is a convenience that is worth having.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Windows Modern Standby, in a Nutshell
 
  You should now have a decent understanding of what Windows Modern Standby is, why it's a problem, and how to deal with it. You should now find that you're actually able to use your device after a long journey, assuming that you've done everything you can to keep your battery healthy and alive anyway.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-viral-videos-creating-engaging-memes-for-fbinsta/"><u>[Updated] In 2024, Mastering Viral Videos Creating Engaging Memes for FB/Insta</u></a></li>
-<li><a href="https://article-posts.techidaily.com/capturing-clarity-iphone-low-light-techniques-for-2024/"><u>Capturing Clarity IPhone Low Light Techniques for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-mouse-properties-guide-to-win11-controls/"><u>Decoding Mouse Properties: Guide to Win11 Controls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-1011-paudio-issues-audacity-edition/"><u>Decoding Windows 10/11 PAudio Issues, Audacity Edition</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-f14-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Samsung Galaxy F14 5G has native HEVC support?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-glitch-in-nvidia-experience-w11-edition/"><u>Eradicating Glitch in Nvidia Experience, W11 Edition</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-filming-to-sharing-a-youtube-video-edition-for-2024/"><u>From Filming to Sharing A YouTube Video Edition for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-change-display-orientation-in-windows/"><u>How to Change Display Orientation in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reset-blocked-app-status-on-windows-system/"><u>How to Reset Blocked App Status on Windows System</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-12-mini-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 12 mini In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-motorola-moto-g-stylus-5g-2023-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Motorola Moto G Stylus 5G (2023) FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-connection-speed-techniques-for-lower-latency/"><u>Mastering Connection Speed: Techniques for Lower Latency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/missing-sd-card-displayed-heres-a-quick-fix/"><u>Missing SD Card Displayed? Here's a Quick Fix</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-guide-removing-images-from-your-iphones-main-photo-collection/"><u>Step-by-Step Guide: Removing Images From Your iPhone's Main Photo Collection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-asking-too-many-hands-at-once-disk-issue/"><u>Tackling Asking Too Many Hands at Once Disk Issue</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-distinctions-between-windows-cloud-and-local-downloads/"><u>Unveiling Distinctions Between Windows Cloud & Local Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-hidden-windows-color-the-guide-to-fixes/"><u>Unveiling Hidden Windows Color: The Guide to Fixes</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/44ov44kh44kk44ok44op44kk44k65yuv55s75zob6loq5zcr5lik44ks44kk44ojic0g6a6u5pio5pig5yop44g444gu5asj5pu05pa55rov/"><u>ファイナライズ動画品質向上ガイド - 鮮明映像への変更方法</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -105,3 +82,27 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-bridging-creativity-and-engagement-anime-subscribe-buttons-with-filmora/"><u>[Updated] 2024 Approved Bridging Creativity & Engagement - Anime Subscribe Buttons with Filmora</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elevated-approach-to-embedding-srt-into-mp4-media/"><u>[Updated] Elevated Approach to Embedding SRT Into MP4 Media</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-elite-android-and-pc-mkv-software/"><u>[Updated] Elite Android & PC MKV Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-tactical-video-takedown-a-guide-to-judging-ownership-and-opposition/"><u>[Updated] Tactical Video Takedown A Guide to Judging Ownership and Opposition</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-ways-to-convert-ts-video-files-into-mp4-a-list-of-the-top-5-choices/"><u>Best Ways to Convert .TS Video Files Into MP4: A List of the Top 5 Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-print-sharing-woes-on-windows-11/"><u>Clearing Up Print Sharing Woes on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-unsuccessful-windows-update-error-0x8024800c/"><u>Correcting Unsuccessful Windows Update (Error 0X8024800C)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detect-and-prevent-cyber-risks-without-antivirus-help/"><u>Detect and Prevent Cyber Risks Without Antivirus Help</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/dvdmts/"><u>DVD化のためにMTS動画を編集するシンプル方法！家族用で手軽。</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-prominent-positioning-of-sticky-notes-in-win-11/"><u>Ensuring Prominent Positioning of Sticky Notes in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-for-google-chromes-filesync-on-your-pc-win/"><u>Expert Advice for Google Chrome's Filesync on Your PC, WIN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-efficiency-microsofts-bluetooth-linked-app/"><u>Exploring the Efficiency: Microsoft's Bluetooth-Linked App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-times-guide-to-essential-gopro-extras-for-2024/"><u>First Time's Guide to Essential GoPro Extras for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/instant-transition-vanishing-in-a-minute/"><u>Instant Transition Vanishing in a Minute</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-startup-configurations/"><u>Mastering Windows Startup Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-internal-server-errors-windows-1011-tips/"><u>Overcoming Internal Server Errors: Windows 10/11 Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/purely-white-economically-sound-pc-components/"><u>Purely White, Economically Sound PC Components</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguard-windows-effortlessly-with-these-free-generators/"><u>Safeguard Windows Effortlessly with These Free Generators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/trendsetting-tactic-tech-savvy-mac-access-via-watch/"><u>Trendsetting Tactic Tech-Savvy Mac Access via Watch</u></a></li>
+</ul></div>
+

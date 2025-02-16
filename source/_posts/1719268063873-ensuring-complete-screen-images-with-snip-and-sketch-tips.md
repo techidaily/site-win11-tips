@@ -1,7 +1,7 @@
 ---
 title: Ensuring Complete Screen Images with Snip & Sketch Tips
-date: 2024-08-16T01:17:56.247Z
-updated: 2024-08-17T01:17:56.247Z
+date: 2025-02-13T03:46:52.826Z
+updated: 2025-02-15T19:08:54.685Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 
  Now that we have identified the possible causes, let's explore some effective troubleshooting methods to help you quickly resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 1\. Adjust the Scale Levels
 
  Incorrect scaling settings are the primary cause of the Snip & Sketch tool's inability to capture the entire screen. This typically affects users using multiple displays.
@@ -46,10 +43,11 @@ Here is how you can change the scaling settings:
 3. In the right pane, head over to the Scale & layout section and expand the dropdown menu under it.
 4. Select**100%** (or whatever scaling setting you have on your other display) from the list of options available.  
 ![Adjust the Scale settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scale-settings-windows11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Close the Settings app and reboot to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hopefully, upon reboot, you will no longer face the problem.
 
@@ -64,11 +62,12 @@ To change your primary display on Windows, follow these steps:
 5. Choose the**Make this my main display** option.  
 ![Switch the main display in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/switch-displays.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We also recommend keeping the main display positioned on the right side since it may cause the system to handle scaling differently, resolving the error in the process.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Restart Snip & Sketch
 
  Several users also noticed that closing Snip & Sketch and quitting it from the taskbar, then launching it using the Search utility of Windows also fixes the problem. However, this is only a workaround and won't permanently solve the problem.
@@ -86,17 +85,15 @@ Follow these steps to proceed:
  You should now be able to capture the entire screen successfully. If you encounter the problem again, repeat this process to solve it. But if you want a more permanent solution, check out the following step.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Update Snip & Sketch
 
  The issue can also occur if the Snip & Sketch app itself is outdated, which causes it to malfunction. In this case, an easy solution that can fix the problem is updating the snipping utility.
 
  Since the Snip & Sketch tool is a Microsoft Store app, you can use the Store utility to update it. Here's [how to update Microsoft Store apps](https://www.makeuseof.com/update-apps-windows-11/) in Windows, so check it out to learn how to keep Snip & Sketch (and all other Microsoft Store apps) updated.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Repair/Reset Snip & Sketch
 
  If the problem is within the snipping app and updating it has not worked, you can also use the Repair tool offered with the app by default. This feature will attempt to fix any issues that might be causing the app to malfunction.
@@ -108,18 +105,21 @@ Here is how to do that:
 1. Open the Settings app and choose Apps from the list on the left side.
 2. Click on**Apps & features** .  
 ![The Apps & features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Apps--features-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 3. Now, scroll down the following window to look for Snip & Sketch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click on the three dots associated with it and choose**Advanced options** .
 5. Next, head to the Reset section and click the**Repair** button.  
 ![Repair the snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-app.jpg)
 6. Wait for the process to complete, then check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. If it persists, click the**Reset** button in the same section and follow the on-screen instructions to proceed.
 
  Once the tool has been reset, it should work correctly. If the problem appears again in the future, you can consider using any of the other [ways to take screenshots in Windows 11](https://www.makeuseof.com/take-screenshot-windows-11/) until Microsoft releases an official fix for this problem.
@@ -134,8 +134,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,8 +141,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-essentials-of-writing-attractive-vlog-narratives/"><u>[New] The Essentials of Writing Attractive Vlog Narratives</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-optimize-engagement-and-analytics-harnessing-tubebuddys-insights/"><u>2024 Approved Optimize Engagement & Analytics - Harnessing TubeBuddy's Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-practical-approach-to-probing-program-hideouts-in-windows/"><u>A Practical Approach to Probing Program Hideouts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-blank-screens-on-system-ignition/"><u>Addressing Blank Screens on System Ignition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-faulty-volume-adjustment-sliders/"><u>Addressing Faulty Volume Adjustment Sliders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/approaches-to-address-roblox-glitches/"><u>Approaches to Address Roblox Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-the-journey-always-command-prompt-admin-style/"><u>Automate the Journey: Always Command Prompt, Admin Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-steam-downloads-combatting-speedy-slowdowns/"><u>Boosting Steam Downloads: Combatting Speedy Slowdowns</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-methods-for-networked-printing-across-various-electronics/"><u>Easy Methods for Networked Printing Across Various Electronics</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-to-securely-grab-any-video-from-vk-without-paying-a-penny-a-guide/"><u>How to Securely Grab Any Video From VK Without Paying a Penny: A Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/overcoming-mute-hurdles-in-facebook-video-streams-pc-troubleshooting-tips-for-202/"><u>Overcoming Mute Hurdles in Facebook Video Streams - PC Troubleshooting Tips for 202</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/techniques-selecting-audioscapes-for-unveiling-videos/"><u>Techniques Selecting Audioscapes for Unveiling Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-11-convertitori-video-in-alta-definizione-per-sistemi-operativi-windows-e-mac-la-soluzione-ideale-di-movavi/"><u>Top 11 Convertitori Video in Alta Definizione Per Sistemi Operativi Windows E Mac - La Soluzione Ideale Di Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/verslindende-videoformaten-voor-youtube-expertise-van-movavi-verhelpt-het-beste-formatscoaching/"><u>Verslindende Videoformaten Voor YouTube - Expertise Van Movavi Verhelpt Het Beste Formatscoaching</u></a></li>
+</ul></div>
 

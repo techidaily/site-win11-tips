@@ -1,7 +1,7 @@
 ---
 title: Modify User Folder Name Settings in Windows 11 OS
-date: 2025-01-29T18:17:36.916Z
-updated: 2025-02-03T00:02:49.295Z
+date: 2025-02-11T22:42:35.999Z
+updated: 2025-02-15T16:07:12.767Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
  Windows, by default, will use the first five characters of your user account name as the profile folder name. If you don’t like the user profile folder name, you can change it using a registry hack. Here, we show you how to change the name of the user profile folder in Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## But First, Some Potential Issues That May Arise From These Steps
 
  While the registry hack should help you successfully change your user account folder name, it can lead to some complications. For example, some of your Microsoft Store apps, including OneDrive and Outlook, can stop working.
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
  Also, [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and exercise extreme caution while changing your user name folder. Incorrect modification to the Windows Registry can cause serious issues and may require reinstallation of the operating system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create a New Administrator User Account in Windows 11
@@ -58,17 +62,13 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 4. Click **Other users.** This option is useful to create a local user account without a Microsoft Account.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Add other user account in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-other-user-account-windows-11.png)
 5. Next, click on **I don’t have this person’s sign-in information.**  
 
 ![Creating a local user account without a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/create-local-user-account-without-Microsoft-account.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Click on **Add a user** **without a Microsoft account.**
 2. Type a name for the user account. Leave the password field empty and click **Next**.
@@ -93,17 +93,21 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 ![User accounts properties.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-accounts-properties.jpg)
 5. In the **User Properties** dialog, you’ll see your **User name** and **Full name.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Type a name for your user name, click **OK** and **Apply**.  
 ![user account user name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-acount-user-name.jpg)
 2. Close the **User Account** dialog and perform a restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Next, open the Command Prompt. To do this, press **Win + R,** type **cmd,** and click **OK**.  
 ![SID command prompt user account.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/SID-command-prompt-user-account.png)
 4. In the Command Prompt window, type the following command to view **SID (Security Identifier)** for all user accounts:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `wmic useraccount get name,SID`
 5. Here, note the **SID** for the user account you want to change the user profile folder name. In this case, the **SID** for the username **tashr** is **S-1-5-21-200486166-247335145-1769094253-1001.**
@@ -125,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 ![Rename user profile folder name.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/rename-user-profile-folder-name.png)
 8. Select your **user profile** and press **F2** to rename it. Enter a new name for your user profile (it must match the user name entered in the Registry Editor).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Click away and then click **Continue** to save the changes.
 
  You may sometimes encounter the "You can’t perform this action" error when renaming the folder. This error often occurs if you switch to a different administrator account without signing out from the primary user account. Alternatively, restart your PC and repeat the steps to rename the user profile folder without the error.
@@ -149,19 +149,21 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-lead-the-charge-with-our-12-best-tycoon-games-ever-played/"><u>[New] 2024 Approved Lead the Charge with Our #12 Best Tycoon Games Ever Played</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-turn-your-watched-fb-video-into-an-mp3-file/"><u>[New] 2024 Approved Turn Your Watched FB Video Into an MP3 File</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-mistakes-people-should-avoid-as-a-new-youtuber/"><u>[New] 8 Mistakes People Should Avoid as a New YouTuber</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-insert-sound-clips-to-enhance-visual-presentations/"><u>[New] In 2024, Insert Sound Clips to Enhance Visual Presentations</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-to-promote-videos-cross-platform-youtube-meets-facebook/"><u>[Updated] How to Promote Videos Cross-Platform YouTube Meets Facebook</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-best-tools-for-real-time-video-broadcasting/"><u>[Updated] In 2024, Best Tools for Real-Time Video Broadcasting</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-speak-out-altering-soundtracks-in-ps4ps5-games/"><u>[Updated] In 2024, Speak Out Altering Soundtracks in PS4/PS5 Games</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ins-and-outs-of-designing-a-standout-podcast-promo/"><u>2024 Approved The Ins and Outs of Designing a Standout Podcast Promo</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-maximus-x-hero-driver-maintenance-made-simple-and-swift-update-procedures-inside/"><u>ASUS Maximus X Hero Driver Maintenance Made Simple and Swift – Update Procedures Inside</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-java-vm-not-found-issue-on-windows-devices/"><u>Fixing Java VM Not Found Issue on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterpiece-ahead-initiating-mspaint-windows-11-style/"><u>Masterpiece Ahead: Initiating MSPaint, Windows 11 Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-visibility-unveiling-windows-11s-system-tray-and-hidden-items/"><u>Maximizing Visibility: Unveiling Windows 11'S System Tray & Hidden Items</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restarting-the-windows-indexer-a-quick-guide/"><u>Restarting the Windows Indexer: A Quick Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-turning-onoff-secure-boot-in-virtualbox/"><u>Step-by-Step Guide: Turning On/Off Secure Boot in VirtualBox</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-amplify-engagement-essential-tips-for-tiktok-unbox-videos-for-2024/"><u>[New] Amplify Engagement Essential Tips for TikTok Unbox Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boosting-youtube-productions-best-mac-mp4-editors-guide/"><u>[Updated] In 2024, Boosting YouTube Productions Best Mac MP4 Editors Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-why-are-my-videos-flipped-in-instagram-written-by-michael-aaron-millman-and-richard-g-cox-jr/"><u>[Updated] In 2024, Why Are My Videos Flipped in Instagram' Written by Michael Aaron Millman and Richard G. Cox, Jr</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-tp-link-wifi-adapter-software-optimized-for-windows-10-8-and-7-devices/"><u>Download Latest TP-Link WiFi Adapter Software: Optimized for Windows 10, 8 and 7 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-conversion-techniques-from-docx-to-pdf-on-windows-11/"><u>Efficient Conversion Techniques From Docx to PDF on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-missing-items-in-windows-explorer-navigation/"><u>Fixing Missing Items in Windows Explorer Navigation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-your-mp3s-into-audio-cds-with-imgburn-on-windows/"><u>How to Turn Your Mp3s Into Audio CDs With ImgBurn on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterbatch-execution-automation-via-task-scheduler/"><u>Masterbatch Execution: Automation via Task Scheduler</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-whatsapp-ringtones-for-iphone-and-android-users/"><u>Perfect WhatsApp Ringtones for iPhone & Android Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-and-effective-fixes-to-windows-onedrive-problems/"><u>Quick and Effective Fixes to Windows OneDrive Problems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/razer-gaming-hub-analysis-wireless-networking-options/"><u>Razer Gaming Hub Analysis: Wireless Networking Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-techniques-to-alter-files-on-your-win-os/"><u>Tailored Techniques to Alter Files on Your Win OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-science-behind-how-nightshades-enamel-coatings-and-synthetic-ai-poisons-operate/"><u>The Science Behind How Nightshades, Enamel Coatings, and Synthetic AI Poisons Operate</u></a></li>
+<li><a href="https://discover-able.techidaily.com/the-ultimate-walkthrough-for-enabling-and-using-synology-duplicate-file-elimination/"><u>The Ultimate Walkthrough for Enabling and Using Synology Duplicate File Elimination</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-5-snug-scenarios-for-your-snowy-youtube-sessions/"><u>Top 5 Snug Scenarios for Your Snowy Youtube Sessions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/yule-time-share-windows-games-through-ms-store/"><u>Yule Time: Share Windows Games Through MS Store</u></a></li>
 </ul></div>
 

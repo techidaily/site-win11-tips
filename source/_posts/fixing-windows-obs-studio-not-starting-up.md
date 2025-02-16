@@ -1,7 +1,7 @@
 ---
 title: "Fixing Windows: OBS Studio Not Starting Up"
-date: 2024-12-15T22:23:07.821Z
-updated: 2024-12-21T21:10:55.275Z
+date: 2025-02-13T01:45:34.327Z
+updated: 2025-02-15T22:51:07.345Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run OBS Studio in Compatibility Mode
 
  OBS Studio can sometimes fail to launch because of compatibility issues. Selecting to run OBS Studio in a special compatibility mode, which applies settings from an older Windows OS, is a possible resolution a few users have confirmed to work. So, try running OBS Studio in compatibility mode like this:
@@ -39,13 +43,13 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 
  The Windows Program Compatibility Troubleshooter could also be useful for fixing OBS Studio not launching. That troubleshooter applies recommended compatibility settings to OBS and includes a **Test the program** option for them. You can read all about that tool within this article about [utilizing the Program Compatibility Troubleshooter](https://www.makeuseof.com/program-compatibility-troubleshooter-windows-11-guide/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Set OBS Studio to Run as Administrator
 
  Setting OSB Studio to run as administrator will ensure it can access all the folders and files it needs, which can sometimes address issues. To set OBS Studio to run with elevated privileges, open the **Compatibility** tab as covered for the preceding resolution. Select **Run this program as an administrator** on the **Compatibility** tab and click **OK**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Set a Power Saving GPU Option for OBS Studio
 
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/roll-back-driver-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Update the Driver for Your PC’s Graphics Adapter
@@ -74,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 ![The NVIDIA driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/nvidia-driver-download-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Delete the OBS Studio Configuration Data Folder
@@ -88,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 4. Right-click the OBS Studio data folder to select a **Delete** context menu option.  
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-delete-option3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Disable Superfluous Background Apps and Services
 
  Some third-party background apps competing for system resources can also potentially cause OBS Studio launch issues. Disabling such superfluous apps and services will maximize system resources for OBS Studio and ensure they can’t clash with that software in any way.
@@ -97,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 ![The Startup tab in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-startup-tab.jpg)
 
  If OBS Studio works after clean booting, something you disabled must have been causing the issue. OBS Studio will probably stop working again if you re-enable all the disabled startup apps and services at once. It’s better to gradually re-enable disabled startup items before every restart so you can better identify which one is causing the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Reinstall the OBS Studio Software
 
@@ -113,39 +117,16 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 ![The Windows download button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/obs-studio-download-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that there’s also an alternative OBS Studio MS Store app you can try utilizing instead of the desktop software. Open this [OBS Studio page](https://apps.microsoft.com/detail/obs-studio/XPFFH613W8V6LV?hl=en-gb&gl=GB) and click **Install** \> **Open in Microsoft Store** to access an installation option for the UWP app. Then click **Install** in Microsoft Store to add the OBS UWP app to your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Recording and Streaming With OBS Studio Again
 
  So, don’t dump OBS Studio too quickly when you can’t open it on your Windows PC. At least try applying the troubleshooting methods for fixing OBS Studio not launching above. They’ll probably kick-start OBS Studio for most users who need to fix that software not opening.
 
  Users can’t utilize OBS Studio for recording when it doesn’t launch. Some users will probably consider trying out alternative game streaming software when OBS Studio doesn’t work. However, you can fix OBS Studio not launching on a Windows PC with the potential resolutions below.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-screenplay-creation-hub/"><u>[New] 2024 Approved Top Screenplay Creation Hub</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-facebook-fam-bites-in-snapchat-spotlight/"><u>[New] In 2024, Facebook Fam Bites in Snapchat Spotlight</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-free-scape-discovering-the-artistic-no-money-backdrops-of-tiktok/"><u>2024 Approved FREE-Scape Discovering the Artistic No-Money Backdrops of TikTok</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-the-noisy-disruptor-win1011s-error-0xc00d36b4/"><u>Correcting the Noisy Disruptor: Win10/11's Error 0Xc00d36b4</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-se-2022-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone SE (2022) iOS System? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/intel-command-center-stream-your-gameplays-seamlessly/"><u>Intel Command Center: Stream Your Gameplays Seamlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-loading-unsigned-drivers-despite-sie/"><u>Mastering Windows: Loading Unsigned Drivers Despite SIE</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-your-apex-legends-lag-and-disconnect-issues-here/"><u>Overcome Your Apex Legends Lag and Disconnect Issues Here</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-gear-to-ensure-smooth-video-recording-for-2024/"><u>Premium Gear to Ensure Smooth Video Recording for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/quick-recap-how-to-locate-youtube-comments-post-upload-for-2024/"><u>Quick Recap How to Locate YouTube Comments Post-Upload for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-windows-update-hiccup-x712/"><u>Steps to Address Windows Update Hiccup X712</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-toolbar-tactics-quick-dossier-development-in-win11/"><u>Tailoring Toolbar Tactics: Quick Dossier Development in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-windows-11-operation-with-superior-run-capabilities/"><u>Transforming Windows 11 Operation with Superior Run Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncomplicated-office-integration-in-windows-10-and-11/"><u>Uncomplicated Office Integration in WIndows 10 & 11</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-infinix-hot-40-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Infinix Hot 40 Pro? Here is How | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -154,3 +135,22 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-bebops-avian-acrobatics-a-parrot-revelation/"><u>[New] Bebop's Avian Acrobatics – A Parrot Revelation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-get-free-stock-footage-from-these-4-youtube-channels/"><u>[Updated] Get Free Stock Footage From These 4 YouTube Channels</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/como-realizar-backups-incrementales-selectivos-por-archivos-cambiados-en-sistema-operativo-windows-7/"><u>Cómo Realizar Backups Incrementales Selectivos Por Archivos Cambiados en Sistema Operativo Windows 지 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dominate-overheating-with-advanced-technology-in-depth-review-of-the-frozn-a720-and-a620-air-coolers-from-id-cooling/"><u>Dominate Overheating with Advanced Technology: In-Depth Review of the FROZN A720 and A620 Air Coolers From ID-Cooling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-methods-to-diminish-desktop-window-managers-power-use/"><u>Effective Methods to Diminish Desktop Window Manager's Power Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-low-volume-complaints-in-wireless-audio-equipment/"><u>Fixing Low-Volume Complaints in Wireless Audio Equipment</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-itel-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Itel Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/inside-look-at-windows-screenplay-halts/"><u>Inside Look at Windows' Screenplay Halts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-visuals-in-application-guard-for-edge-os/"><u>Optimizing Visuals in Application Guard for Edge OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-wwin-plus-p-non-functionality-in-windows-systems/"><u>Resolve WWin + P Non-Functionality in Windows Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamlessly-post-pictures-your-youtube-visual-guide/"><u>Seamlessly Post Pictures Your YouTube Visual Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/share-your-picture-posting-to-youtube-basics/"><u>Share Your Picture Posting to YouTube Basics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-process-for-running-sfc-on-windows-pcs/"><u>Step-by-Step Process for Running SFC on Windows PCs</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/wiederherstellung-von-pdfs-aus-geformatten-datentragern-einfache-anleitung-mit-myrecover/"><u>Wiederherstellung Von PDFs Aus Geformatten Datenträgern: Einfache Anleitung Mit MyRecover</u></a></li>
+</ul></div>
+

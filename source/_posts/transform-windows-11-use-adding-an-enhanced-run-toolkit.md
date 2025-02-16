@@ -1,7 +1,7 @@
 ---
 title: "Transform Windows 11 Use: Adding an Enhanced Run Toolkit"
-date: 2025-01-29T19:47:51.956Z
-updated: 2025-02-02T16:18:04.379Z
+date: 2025-02-11T16:15:29.907Z
+updated: 2025-02-16T00:41:45.547Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 ![The Run-Command app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-command-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another difference you’ll quickly notice is that Run-Command includes 13 shortcut icons. Clicking those shortcuts will open some of the most useful Windows tools. These are the utilities and windows you can access with those Run-Command shortcuts:
 
 * Registry Editor
@@ -78,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 ![The Options menu in Run-Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/options-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
@@ -97,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The PowerToys setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powertoys-setup-window.jpg)
 7. To open PowerToys, click**Start** and**All apps** (in Windows 11). Select PowerToys on the menu
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select the PowerToys**Run** tab.
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
 ![The Enable PowerToys Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-powertoys-run-option.jpg)
@@ -106,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Getting Familiar With PowerToys Run
@@ -118,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The .Edge command for opening MS Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-edge-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to search for files with PowerToys, input a**?** followed by a file’s title. PowerToys will show you files matching the search phrase included in the command.
@@ -131,22 +127,26 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
 ![The $ command for accessing Control Panel applets and Settings pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can disable or enable plugins via the**PowerToys Run** tab. Scroll down to the**Plugins** section of that tab to view those options. You can click the**On** or**Off** switches to enable/disable them.
 
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make the Most of the Your Enhanced Run Accessory in Windows 11/10
@@ -168,14 +168,22 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-master-video-transformation-a-complete-guide-to-rotating-in-vlc/"><u>[New] 2024 Approved Master Video Transformation A Complete Guide to Rotating in VLC</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-soft-endings-dimming-down-music-tracks-in-premiere-pro/"><u>[New] Crafting Soft Endings Dimming Down Music Tracks in Premiere Pro</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ownload-youtube-videos-on-android-9-powerful-apps-compared-for-2024/"><u>[New] Download YouTube Videos on Android 9 Powerful Apps Compared for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/basic-approach-tweaking-clownfish-tones-in-windoze/"><u>Basic Approach Tweaking Clownfish Tones in Windoze</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-0x0000011b-operation-failure-on-windows-11/"><u>Correcting 0X0000011B Operation Failure on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/counteracting-mandatory-elements-alert-on-windows-10and11-os/"><u>Counteracting Mandatory Elements Alert on Windows 10&11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cross-platform-android-entertainment-in-windows-11-via-play-services/"><u>Cross-Platform Android Entertainment in Windows 11 via Play Services</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-top-12-vlogger-friendly-cameras-unveiled/"><u>In 2024, Top 12 Vlogger-Friendly Cameras Unveiled!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-admin-managed-feature-issues-in-windows-11/"><u>Troubleshooting Admin-Managed Feature Issues in Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamified-design-making-your-youtube-banner-unforgettable/"><u>[New] In 2024, Gamified Design Making Your YouTube Banner Unforgettable</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-efficiently-add-youtube-playlists-to-your-website-interface/"><u>[Updated] Efficiently Add YouTube Playlists to Your Website Interface</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-an-overview-and-comparative-study-of-googles-augmented-reality-stickers/"><u>[Updated] In 2024, An Overview and Comparative Study of Google's Augmented Reality Stickers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/biocompatibility-is-non-negotiable-materials-must-not-cause-adverse-reactions-in-the-body/"><u>Biocompatibility Is Non-Negotiable; Materials Must Not Cause Adverse Reactions in the Body.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-editing-the-8-pinnacle-software-titles-for-windows-users/"><u>Conquer Editing: The 8 Pinnacle Software Titles for Windows Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-solutions-for-video-editing-and-dvd-making-on-mac/"><u>Cutting-Edge Solutions for Video Editing and DVD Making on Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-wows-catastrophic-glitch-in-windows-11/"><u>Fixing WoW’s Catastrophic Glitch in Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-peeking-at-pro-screen-recording-tools/"><u>In 2024, Peeking at Pro Screen Recording Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/inside-the-digital-universe-of-facebook-twitter-instagram-and-youtube/"><u>Inside the Digital Universe of Facebook, Twitter, Instagram, & YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-productivity-with-reimagined-windows-11-widgets/"><u>Maximizing Productivity with Reimagined Windows 11 Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-experience-outlook-preview-for-windows-11-enthusiasts/"><u>Optimize Your Experience: Outlook Preview for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/preserve-the-blue-band-promise-with-these-ideas/"><u>Preserve the Blue Band Promise with These Ideas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-ethernet-connectivity-on-windows/"><u>Re-Establishing Ethernet Connectivity on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-your-invisible-connection-on-microsofts-new-os/"><u>Resurrecting Your Invisible Connection on Microsoft's New OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tackling-photo-app-errors-in-windows-11/"><u>Tackling Photo App Errors in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-blocking-insecure-device-connections-on-windows/"><u>Tips for Blocking Insecure Device Connections on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-productivity-with-w11s-quick-actions/"><u>Unleash Productivity with W11's Quick Actions</u></a></li>
 </ul></div>
 

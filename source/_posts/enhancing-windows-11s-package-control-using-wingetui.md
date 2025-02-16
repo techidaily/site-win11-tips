@@ -1,7 +1,7 @@
 ---
 title: Enhancing Windows 11'S Package Control Using WingetUI
-date: 2025-01-28T17:29:27.473Z
-updated: 2025-02-01T01:30:22.066Z
+date: 2025-02-11T19:50:18.700Z
+updated: 2025-02-16T03:06:50.290Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 ![Install WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/install-wingetui.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Manage App Packages Using WingetUI on Windows 11
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 
  Here are the following things you can do using WingetUI:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Browse List
 
  To browse the app list, click on the **Discover Packages** button on the top. WingetUI will list all the available packages with the source Winget. You will also see a counter indicating the total number of apps listed in the repository.
@@ -64,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
  Click on the search bar and type the name of the app package that you want to install on your PC. It will list all the available versions of the app package along with its package ID and version.
 
 ![Browse List in WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/browse-list-in-wingetui.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Install a Package
 
@@ -78,11 +70,21 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 3. Select the **Package details** option from the context menu.  
 ![Install a Package in WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/install-a-package-in-wingetui.jpg)
 4. Check the **source** of the package. Also, check the **image gallery** to get an idea of the app’s UI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Move down to the **Installation options**. Keep the **Skip hash check** and **Interactive installation** unchecked. If you enable the interactive installation, you will have to manually perform the installation which can take longer.
 
 1. Some apps cannot install on your PC without administrator rights. So, select the **Run as admin** checkbox.  
 ![Install a Package in WingetUI 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/install-a-package-in-wingetui-2.jpg)
 2. You can also select a particular version of the app you are trying to install. Expand the **Version to install** dropdown list. You can select any version from here. Keep the **Ignore future updates for this package** option untouched.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Install a Package in WingetUI 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/install-a-package-in-wingetui-3.jpg)
 3. Next, you can pick the **package architecture**: x64, x86, or arm65, depending upon your OS and CPU architecture.
 4. Lastly, pick the **Scope** of the package installation. If you want to do a machine-wide install, pick the **local machine** option. Or pick the **Current user** if you want to install the app only for one user profile.  
@@ -94,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
  You will see the installation status at the button of the WingetUI window. Windows will produce a notification when the installation completes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Uninstall a Package
@@ -109,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 4. WingetUI will remove the installed package.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Batch Install or Uninstall Packages
@@ -121,15 +123,15 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 ![batch Install a Package in WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/batch-install-a-package-in-wingetui.jpg)
 3. WingetUI will install these apps one by one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To batch uninstall packages, repeat the following steps:
 
 1. Switch to the **Installed Packages** tab. Then, click and select all the packages you want to remove from your PC.
 2. Click on the **Uninstall selected packages** button to remove the selected packages one by one.  
 ![batch unInstall Packages in WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/batch-uninstall-packages-in-wingetui.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Import Export Packages List
 
@@ -139,6 +141,11 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 2. Then, click on the **Export selected packages to a file** option.  
 ![Export Packages List in WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/export-packages-list-in-wingetui.jpg)
 3. Enter a **name** for the export file and save it to any location on your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Export Packages List in WingetUI 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/export-packages-list-in-wingetui-2.jpg)
 4. You can later import this file to another PC or even your PC using Winget or Winget UI.
 
@@ -151,7 +158,7 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 4. WingetUI will automatically start installing all the packages listed in the import file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Check Software Updates
@@ -160,16 +167,12 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 
 ![Check Software Updates in WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/check-software-updates-in-wingetui.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to update all packages at once, click on the **tick mark** icon to select all the packages. Then, click on the **Update selected packages** button.
 
 ![Check Software Updates in WingetUI 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/check-software-updates-in-wingetui-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No More Terminal Woes
@@ -188,20 +191,19 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-unlocking-untapped-utility-zoom-in-on-minecraft/"><u>[New] 2024 Approved Unlocking Untapped Utility Zoom in on Minecraft</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-ftp-restoring-file-transfer-on-windows-11-pcs/"><u>Fixing FTP: Restoring File Transfer on Windows 11 PCs</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-configure-windows-sandbox-in-win-11-easily/"><u>How To Configure Windows Sandbox in Win 11 Easily</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-f54-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy F54 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-12-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 12 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-correct-failed-loads-for-messages-on-discord-desktop/"><u>Methods to Correct Failed Loads for Messages on Discord Desktop</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedies-for-sudden-stoppages-of-windows-notepad-app/"><u>Remedies for Sudden Stoppages of Windows Notepad App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-discord-automatic-loading-on-pc-boot-up/"><u>Stop Discord Automatic Loading on PC Boot-Up</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-an-unresponsive-face-id-on-iphone-try-out-these-14-fixes/"><u>Struggling with an Unresponsive Face ID on iPhone? Try Out These 14 Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-invisible-enemy-combatting-wacatacbml-in-windows-operating-systems/"><u>The Invisible Enemy: Combatting Wacatac.B!ml in Windows Operating Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-clearing-frozen-windows-application-lockdown/"><u>Tips for Clearing Frozen Windows Application Lockdown</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-color-grading-tutorial-final-cut-pro-edition/"><u>Updated In 2024, The Ultimate Color Grading Tutorial Final Cut Pro Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-10-fundamentals-of-accessibility-made-easy/"><u>Windows 10: Fundamentals of Accessibility Made Easy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-iphoneandroid-edition-find-the-best-8-multimedia-editing-tools/"><u>[Updated] IPhone/Android Edition Find the Best 8 Multimedia Editing Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-realme-12plus-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Realme 12+ 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/beginners-path-to-filming-with-macbook-webcam/"><u>Beginner's Path to Filming with MacBook Webcam</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creating-comedy-gold-top-8-techniques-that-shape-meme-artistry-for-2024/"><u>Creating Comedy Gold Top 8 Techniques That Shape Meme Artistry for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expertly-crafted-the-best-8-convertor-list-for-sub-to-srt/"><u>Expertly Crafted The Best 8 Convertor List for Sub to Srt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploiting-windows-error-logs-for-diagnostics/"><u>Exploiting Windows Error Logs for Diagnostics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/extraction-et-conversion-de-dvd-avec-winxdvd-un-outil-officiel-pour-transferer-iphones/"><u>Extraction Et Conversion De DVD Avec WinXDVD: Un Outil Officiel Pour Transférer iPhones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-0xc00ce556-parse-issue-in-w11-w10/"><u>Fixing the 0xC00CE556 Parse Issue in W11, W10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-failed-cloud-sync-and-access-in-windows-11/"><u>How to Reset Failed Cloud Sync & Access in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-easy-peasy-memes-step-by-step-in-kinemaster/"><u>In 2024, Easy-Peasy Memes Step by Step in KineMaster</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-comparison-facts-for-cdrive-and-ddrive/"><u>Key Comparison Facts for C:Drive & D:Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-connection-test-4-windows-tips-to-measure-lan-speed/"><u>Rapid Connection Test: 4 Windows Tips to Measure LAN Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-enigma-of-windows-updates-error-code-0x800736cc/"><u>Unraveling the Enigma of Windows Update's Error Code 0X800736CC</u></a></li>
 </ul></div>
 

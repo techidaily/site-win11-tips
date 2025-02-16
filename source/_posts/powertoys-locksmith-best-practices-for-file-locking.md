@@ -1,7 +1,7 @@
 ---
 title: "PowerToys Locksmith: Best Practices for File Locking"
-date: 2025-01-27T21:49:54.198Z
-updated: 2025-02-02T16:22:05.084Z
+date: 2025-02-12T03:55:47.647Z
+updated: 2025-02-15T18:57:11.233Z
 tags:
   - windows10
   - windows11
@@ -23,22 +23,22 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the File Locksmith?
 
  File Locksmith is a relatively new addition to the PowerToys suite of tools. It is a Windows Shell extension used for checking up on the files in use at a particular moment. It also lets you check which system processes are using those files.
 
 ![the file locksmith utility in powertoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-locksmith-powertoys.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have yet to try PowerToys and the utilities it offers, you can download it from the[Microsoft Store](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) . File Locksmith was only added to the app in an update in late 2022\. If you don't see it in your current version of PowerToys, click the**General** tab and select**Check for Updates** .
 
  If this is your first counter with PowerToys, check out[how to do more with Windows using PowerToys](https://www.makeuseof.com/tag/windows-10-powertoys/) for some beginner's advice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is File Locksmith Most Useful?
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
  Although it might not seem so at first glance, File Locksmith is a very useful utility. Firstly, it can help you better understand which files are being used at any particular moment. It can also tell you why a file you are unsuccessfully trying to delete is being blocked.
 
  It can also be used to troubleshoot the apps and files that slow down your PC and find performance bottlenecks. When you use it alongside other[ways to troubleshoot and improve PC performance](https://www.makeuseof.com/tag/windows-10-faster-performance/) , it can help speed up your PC by quite a bit.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Check Files and Processes in File Locksmith
 
@@ -62,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 ![Opening a file in File Locksmith on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-locksmith-scan.jpg)
 3. File Locksmith will open a window and begin scanning the file. Any processes being used will be displayed in the window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Stop the processes directly from the File Locksmith window by clicking the End Process button.  
 ![the file list in the File Locksmith utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-locksmith-filelist.jpg)
 5. You can click the arrow to expand each process listed to see the Process ID, User, and the path to the individual file being used.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. To refresh the list of processes in File Locksmith, click the Reload button at the top-right of the open window.
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
  To see processes being run by a different user, you will need to open File Locksmith as an administrator. If you are already running PowerToys as an administrator, click the**Restart as Administrator** button at the top-right of the File Locksmith window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using the PowerToys File Locksmith Utility, Made Easy
@@ -97,22 +97,15 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-audio-file-fusion-seamless-conversion-from-srt-to-other-formats-for-2024/"><u>[New] Audio File Fusion Seamless Conversion From SRT to Other Formats for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-revealing-hidden-group-media-on-messenger-app-for-2024/"><u>[Updated] Revealing Hidden Group Media on Messenger App for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/360-degree-panoramic-stands/"><u>360-Degree Panoramic Stands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-the-annoyance-of-a-never-ending-update-loop/"><u>Avoid the Annoyance of a Never-Ending Update Loop</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-inspiration-ultimate-iphone-skyline-and-landscapes-guide-for-2024/"><u>Capturing Inspiration Ultimate iPhone Skyline and Landscapes Guide for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-poco-c51-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Poco C51 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensively-tackle-the-icloud-install-issue-on-windows/"><u>Comprehensively Tackle the iCloud Install Issue on Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-se-2020-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-10-premier-alternative-activities-to-watching-sports/"><u>In 2024, 10 Premier Alternative Activities to Watching Sports</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modern-standby-uncovering-its-defects-and-criticisms/"><u>Modern Standby: Uncovering Its Defects and Criticisms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-hidden-dangers-on-a-computer-screen/"><u>Navigating Hidden Dangers on a Computer Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-easy-cures-for-your-computers-messaging-woes/"><u>Quick & Easy Cures for Your Computer's Messaging Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-resetting-graphics-drivers-on-latest-oses/"><u>Quick Guide to Resetting Graphics Drivers on Latest OSes</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/unobtrusive-visuals-topimarker-for-iphone-and-android/"><u>Unobtrusive Visuals TopiMarker for iPhone & Android</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-solutions-for-windows-color-synchronization/"><u>Unveiling Solutions for Windows Color Synchronization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-mechanism-disabling-dim-display-option/"><u>Unveiling the Mechanism: Disabling 'Dim Display' Option</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-newbies-guide-to-easier-access/"><u>Windows Newbies' Guide to Easier Access</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-auroras-high-dynamic-range-a-game-changer/"><u>[Updated] 2024 Approved Aurora's High Dynamic Range A Game Changer?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-bridging-the-gap-connecting-instagram-to-your-facebook-account/"><u>2024 Approved Bridging the Gap Connecting Instagram to Your Facebook Account</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976031085-download-and-upgrade-amd-vega-graphics-card-drivers-optimized-gaming-experience/"><u>Download and Upgrade AMD Vega Graphics Card Drivers: Optimized Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fixes-for-tackling-windows-update-standstill-at-zero-percent/"><u>Effortless Fixes for Tackling Windows Update Standstill at Zero Percent</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/frame-freedom-top-9-ways-to-banish-lag-from-your-windows-videos/"><u>Frame Freedom: Top 9 Ways to Banish Lag From Your Windows Videos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-split-trim-and-cut-avi-videos-with-these-top-notch-editors/"><u>New Split, Trim, and Cut AVI Videos with These Top-Notch Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-rectifying-roblox-error-262/"><u>The Ultimate Guide to Rectifying Roblox Error 262</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-master-file-synergy-on-windows-11/"><u>Tips to Master File Synergy on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-startup-secrets-in-windows/"><u>Unraveling Startup Secrets in Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-c22-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia C22 Device</u></a></li>
 </ul></div>
 

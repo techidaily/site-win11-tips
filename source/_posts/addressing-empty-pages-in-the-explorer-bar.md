@@ -1,7 +1,7 @@
 ---
 title: Addressing Empty Pages in the Explorer Bar
-date: 2024-08-16T01:17:31.276Z
-updated: 2024-08-17T01:17:31.276Z
+date: 2025-02-09T16:06:05.380Z
+updated: 2025-02-16T01:19:23.574Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 
  You're already running the latest version if you see the**No updates available** message. In this case, move on to the following solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 2\. Restart File Explorer
 
  Tabs might be missing from Windows File Explorer due to a temporary glitch. If there are other File Explorer features that are acting up, you should restart it.
@@ -44,15 +41,13 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
  Close File Explorer and press**Ctrl + Shift + Delete** to bring up Task Manager. There, right-click**Windows Explorer** and select**End Task** to stop any related processes from running in the background.
 
 ![Restart File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-file-explorer-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Close Task Manager, launch File Explorer, and check if the problem is now solved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 3\. Remove File Explorer Cache
 
  Every app on your computer stores cache files to improve overall performance. But if there are too many cache files or these files get corrupted, you’ll experience all sorts of issues, including tabs missing from File Explorer.
@@ -70,8 +65,9 @@ Follow these steps to clear File Explorer cache files:
  If you often have to go through the above process manually, you can use Storage Sense to [clean your caches in Windows 11](https://www.makeuseof.com/windows-11-clear-caches/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the System File Checker
 
  The System File Checker (or SFC) is one of the [built-in Windows tools you can use to fix corrupted system files](https://www.makeuseof.com/windows-built-in-repair-tools/) . If this is the reason for File Explorer's missing tabs, running the tool should fix it.
@@ -81,8 +77,13 @@ Follow these steps to clear File Explorer cache files:
 ![SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Reinstall Windows Updates
 
  There’s a chance File Explorer’s tabs are still missing even after updating to Windows 11 22H2 because of an update malfunction. In this case, reinstalling the update should fix the problem.
@@ -98,22 +99,20 @@ Follow these steps to clear File Explorer cache files:
  This solution works for recent updates. If it’s been a while since you’ve updated to Windows 11 22H2, you’ll have to load a restore point to [revert your computer to the previous Windows version](https://www.makeuseof.com/windows-11-create-restore-point/) .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Your File Explorer Tabs Back on Windows 11
 
  The File Explorer tabs were long overdue, so there’s no reason to wait for even more before you can use them. Hopefully, one of the methods above helped you fix the problem, and you can easily browse through multiple folders.
 
  Now, you should know that having tabs within File Explorer isn’t the only thing that can change the way Windows looks and feels.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,8 +121,24 @@ Follow these steps to clear File Explorer cache files:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-professional-sound-capture-top-10-microphones/"><u>[Updated] In 2024, Professional Sound Capture Top 10 Microphones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-inside-look-the-power-of-recmeister-capturing-features/"><u>[Updated] Inside Look The Power of Recmeister Capturing Features</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-make-your-youtube-comments-more-interesting-with-emojis/"><u>[Updated] Make Your Youtube Comments More Interesting with Emojis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-single-board-computers-that-run-windows/"><u>4 Single-Board Computers That Run Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-compre-written-guide-to-creating-a-trident-widget-grid-on-win11/"><u>A Compre Written Guide to Creating a Trident Widget Grid on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-stealthy-search-function-on-windows-11-bar/"><u>Activating Stealthy Search Function on Windows 11 Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-responsive-windows-11-context-items/"><u>Addressing Non-Responsive Windows 11 Context Items</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-sfx-strategies-for-windows-11-users/"><u>Advanced SFX Strategies for Windows 11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/arise-crash-problems-a-comprehensive-guide-to-resolution/"><u>Arise Crash Problems – A Comprehensive Guide to Resolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-conversion-of-high-efficiency-image-coding-heic-photos-to-jpeg-format/"><u>Automate Conversion of High-Efficiency Image Coding (HEIC) Photos to JPEG Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719269092202-fixed-windows-shift-key-unreachable/"><u>Fixed: Windows Shift Key Unreachable</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 6s</u></a></li>
+<li><a href="https://article-posts.techidaily.com/novice-path-to-prosperity-making-money-on-periscope/"><u>Novice Path to Prosperity Making Money on Periscope</u></a></li>
+<li><a href="https://win-special.techidaily.com/the-ultimate-step-by-step-process-of-converting-microsoft-outlook-messages-to-pdf-format/"><u>The Ultimate Step-by-Step Process of Converting Microsoft Outlook Messages to PDF Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719363317332-troubleshoot-non-functional-shift-in-windows/"><u>Troubleshoot Non-Functional Shift in Windows.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-the-netgear-c370er-an-insightful-study-on-its-modem-router-integration-capabilities/"><u>Unboxing the Netgear C370er - An Insightful Study on Its Modem-Router Integration Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-posts-made-easy-on-instagram/"><u>Visual Posts Made Easy on Instagram</u></a></li>
+</ul></div>
 

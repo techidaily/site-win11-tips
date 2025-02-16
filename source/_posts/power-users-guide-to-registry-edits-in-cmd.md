@@ -1,7 +1,7 @@
 ---
 title: Power Users' Guide to Registry Edits in CMD
-date: 2025-01-30T02:37:16.499Z
-updated: 2025-02-03T02:15:03.027Z
+date: 2025-02-12T22:31:14.832Z
+updated: 2025-02-15T22:39:22.332Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to View the List of Registry Commands in Command Prompt
 
 ![the command to view all reg commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/the-command-to-view-all-reg-commands.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There aren't a lot of commands when it comes to editing the registry using Command Line. To view them all, [open Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) and run the below command in Command Prompt:
 
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 ![the list reg commands in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/the-list-reg-commands-in-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to see more information about them, just add the **/?** switch at the end of the command. For, example, if you want to find out what the **reg add** command does, you'd enter the below command:
 
 `reg add /?`
@@ -53,11 +49,11 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 ![details of the reg add command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/details-of-the-reg-add-command-in-command-prompt.jpg)
 
- If you're finding it hard the commands out on your own, don't worry. We will simplify it for you and show you how to get started using them.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you're finding it hard the commands out on your own, don't worry. We will simplify it for you and show you how to get started using them.
 
 ## Add and Delete Keys in the Windows Registry
 
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 ## How to Add, Modify, and Delete Values in the Windows Registry
 
 ![adding a value to Windows registry in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/adding-a-value-to-windows-registry-in-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To add or modify a value key in the registry using Command Prompt, you'll still use the **reg add** command like above. However, this time, you'll also have to specify the following parameters: value (**/v**), value type (**/t**), and value data (**/d**). Here's an example of what the command would like:
 
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  Once you run that command, the contents of the reg file will be merged with the registry.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Export Registry Entries
@@ -147,10 +147,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  The resulting registry file will only contain the key and the specific value you exported.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Save Registry Entries
 
 ![saving-a-key-to-a-registry-file-in-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/saving-a-key-to-a-registry-file-in-windows.jpg)
@@ -165,6 +161,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 ![restoring-a-registry-key-in-command-prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/restoring-a-registry-key-in-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So, let's say something has happened to the keys and values within the **MyNewKey2** we saved in the previous section, you can use the backup file you created to restore it. You'll need to use the **reg restore** command. Here's how to run it:
 
 `reg restore HKLM\SOFTWARE\MyNewKey2 C:\Users\CHIFUNDO\Desktop\MyRegFile.hiv`
@@ -172,7 +172,7 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  Now the **MyNewKey2** key should return to the state it was in when you made the backup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tweak the Registry Without the Registry Editor
@@ -193,18 +193,22 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-oculus-the-premium-vr-gaming-headset/"><u>[New] 2024 Approved Mastering Oculus The Premium VR Gaming Headset</u></a></li>
-<li><a href="https://win-help.techidaily.com/avoiding-graphics-card-breakdowns-tips-and-strategies-by-yl-software-experts/"><u>Avoiding Graphics Card Breakdowns: Tips and Strategies by YL Software Experts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correct-primes-textual-missteps-on-windows-11-desktops/"><u>Correct Prime's Textual Missteps on Windows 11 Desktops</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-lite-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Honor 90 Lite Phone without Any Data Loss</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-linux-into-your-windows-desktop-world/"><u>Integrating Linux Into Your Windows Desktop World</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-daily-productivity-the-top-6-apps-for-windows-11-users/"><u>Mastering Daily Productivity: The Top 6 Apps For Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-hardware-ids-retrieval-methods/"><u>Mastering Windows Hardware IDs Retrieval Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/no-more-comparisons-explore-the-distinct-capabilities-of-siri-and-chatgpt/"><u>No More Comparisons - Explore the Distinct Capabilities of Siri and ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/selecting-superior-selfie-equipment-a-comprehensive-tutorial-with-6-pro-tips/"><u>Selecting Superior Selfie Equipment: A Comprehensive Tutorial with 6 Pro Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-change-windows-startpage-configuration/"><u>Steps to Change Windows Startpage Configuration</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tips-to-avoid-exceeding-your-data-cap-while-texting/"><u>Top Tips to Avoid Exceeding Your Data Cap While Texting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-a-future-ready-device-review-of-asus-s15-bape-edition/"><u>Unveiling a Future-Ready Device: Review of Asus S15 BAPE Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/weighing-risks-chatgpt-and-your-privacy/"><u>Weighing Risks: ChatGPT and Your Privacy</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-blueprint-to-compiling-youtube-soundscape/"><u>[Updated] The Essential Blueprint to Compiling YouTube Soundscape</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-subscribers-manual-engaging-on-social-media-platforms/"><u>[Updated] The Subscriber's Manual Engaging on Social Media Platforms</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unveiling-the-secrets-of-advanced-camera-settings-for-2024/"><u>[Updated] Unveiling the Secrets of Advanced Camera Settings for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-making-cash-with-zero-skills-check-out-these-13-ways-on-reddit/"><u>2024 Approved Making Cash with Zero Skills? Check Out These 13 Ways on Reddit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/deep-dive-magix-video-pro-x-features-and-performance/"><u>Deep Dive Magix Video Pro X Features and Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-elusive-gpeditmsc-on-your-pc/"><u>Essential Fixes for Elusive 'Gpedit.msc' On Your PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/fast-track-to-time-lapse-magic-on-samsung-phones-for-2024/"><u>Fast Track to Time-Lapse Magic on Samsung Phones for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixers-compendium-tackling-active-directory-printer-errors-on-win-1011/"><u>Fixer's Compendium: Tackling Active Directory Printer Errors on WIN 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-apple-maps-on-a-windows-pc/"><u>How to Use Apple Maps on a Windows PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfectly-pitched-headlines-maker/"><u>In 2024, Perfectly Pitched Headlines Maker</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/one-account-gpo-tailoring-in-the-modern-windows-environment-11-11/"><u>One-Account GPO Tailoring in the Modern Windows Environment (11, 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-your-audio-screen-recordings-using-the-snipping-tool-max-156/"><u>Perfect Your Audio Screen Recordings Using the Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-remedying-windows-11-package-complications/"><u>Quick Fixes: Remedying Windows 11 Package Complications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-error-0x80246007-in-windows-update-for-1011-os/"><u>Solving Error 0X80246007 in Windows Update for 10/11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-gaps-within-explore-interface-elements/"><u>Tackling Gaps Within Explore Interface Elements</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-digital-learning-environments-for-educators/"><u>Top Digital Learning Environments for Educators</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-tips-for-sharpening-blurry-photos-on-your-iphone-2022-guide/"><u>Top Tips for Sharpening Blurry Photos on Your iPhone - 2022 Guide</u></a></li>
 </ul></div>
 

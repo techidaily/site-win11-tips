@@ -1,7 +1,7 @@
 ---
 title: A Guide to Restoring Your Windows 11 Media Software's Health
-date: 2024-08-16T01:19:19.879Z
-updated: 2024-08-17T01:19:19.879Z
+date: 2025-02-10T16:35:42.514Z
+updated: 2025-02-15T16:32:12.887Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,14 @@ thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906
 5. Turn on the toggle next to the**Media Player** app.  
 ![Enable Video Library Access for the Media Player App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-video-library-access-for-the-media-player-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Refresh Your Libraries
 
  If the Media Player app fails to detect your files even after enabling video library access, you can try refreshing the libraries. This will allow the app to scan your system for media files again.
@@ -64,9 +72,6 @@ To disable video enhancements in Windows, use these steps:
 4. Turn off the switch next to the**Process video automatically to enhance it** option.  
 ![Disable Video Processing on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-video-processing-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Run the Relevant Windows Troubleshooters
 
  If you’re facing playback issues in other media players as well, you can consider running Windows' troubleshooters. Specifically, you can run the Playing Audio and Video Playback troubleshooters. This will allow Windows to diagnose your system for any video playback issues and suggest fixes accordingly. Here’s how you can run these troubleshooters on Windows.
@@ -77,15 +82,13 @@ To disable video enhancements in Windows, use these steps:
 4. Click the**Run** button next to**Playing Audio** and follow the on-screen prompts to complete the troubleshooting process.
 5. Click the**Run** button next to**Video Playback** and allow it to do its thing.  
 ![Windows Troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-troubleshooters.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  After running these troubleshooters, restart the Media Player app and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Repair or Reset the Media Player App
 
  Windows 11 includes a useful app repair tool for fixing common issues with apps. You can use this feature to fix issues with most of your apps, including Media Player. Windows will scan the app’s files and settings during this process and attempt to fix any issues it discovers. For more instructions on this, check our guide on [how to repair apps and programs in Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
@@ -93,8 +96,9 @@ To disable video enhancements in Windows, use these steps:
  Alternatively, you can also consider resetting the app. Since this process allows Windows to erase all the app data and reset app configurations, it’s more likely to fix any issues. We have a guide on [how to reset an app on Windows](https://www.makeuseof.com/windows-reset-app/) . Follow the instructions outlined there to reset the Media Player app on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Re-Register the Relevant DLL Files
 
  Dynamic Link Libraries (DLLs) files on your PC contain functions and data that programs use to perform specific tasks. If some of the DLL files linked with the Media Player app are missing or damaged, the app may fail to open or work. Here’s what you can do to fix them.
@@ -109,9 +113,6 @@ regsvr32 wmp.dll`
 
  Restart your PC after this and then check if the Media Player app works as before.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## 8\. Update the Media Player App
 
  Microsoft regularly pushes newer updates for the Media Player app to add new features, eliminate bugs and improve its performance. There’s a chance that the issues with the Media Player app are limited to the app version you are using. If that’s the case, updating to a newer version should help.
@@ -119,23 +120,20 @@ regsvr32 wmp.dll`
  Check our guide on [how to update apps in Windows 11](https://www.makeuseof.com/update-apps-windows-11/) and use the steps provided there to update the Media Player app to its most recent version. Hopefully, this should solve your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the Media Player App on Windows 11
 
  The Media Player app is great for playing locally stored audio and video files on your Windows 11 PC. Occasionally, the app may stop working due to misconfigured settings or corrupt app data. However, it’s nothing you can’t fix with the solutions mentioned above.
 
  If you're tired of dealing with such issues with the new Media Player app or if you're looking for more functionality, there are plenty of free media player apps available for Windows that you can try.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,8 +142,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-android-and-ios-leaders-in-asmr-content/"><u>[New] 2024 Approved Android & iOS Leaders in ASMR Content</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-video-content-free-downloader-apps-guide/"><u>[New] 2024 Approved Unlocking Video Content Free Downloader Apps Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-critical-selection-of-1-5-best-snippers-for-windows-for-2024/"><u>[New] Critical Selection of #1-5 Best Snippers for WINDOWS for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-turn-your-video-content-into-revenue-the-vimeo-monetization-way/"><u>[New] Turn Your Video Content Into Revenue The Vimeo Monetization Way</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-9-essential-apps-for-pulling-youtube-videos-android-for-2024/"><u>[Updated] 9 Essential Apps for Pulling YouTube Videos (Android) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bootback-success-wins-ultimate-guide-to-overhauling-security/"><u>Bootback Success: Win's Ultimate Guide to Overhauling Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/break-free-from-default-settings-on-windows-firewall/"><u>Break Free From Default Settings on Windows Firewall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-new-life-into-old-computers-without-windows/"><u>Breathe New Life Into Old Computers Without Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-non-operative-windows-performance-tracker/"><u>Breathing Life Into Non-Operative Windows Performance Tracker</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-hurdles-a-guide-to-overcoming-roblox-error-262/"><u>Bypassing Hurdles: A Guide to Overcoming Roblox Error 262</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-unyielding-x80049dd3-error-for-better-typing/"><u>Bypassing the Unyielding X80049DD3 Error for Better Typing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/checking-for-updates-on-spotify-software-and-system/"><u>Checking for Updates on Spotify Software & System</u></a></li>
+<li><a href="https://fox-http.techidaily.com/step-by-step-guide-to-mastering-slug-line-crafting-for-2024/"><u>Step-by-Step Guide to Mastering Slug Line Crafting for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-guide-to-creating-yt-shorts-for-2024/"><u>The Ultimate Guide to Creating YT Shorts for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-premier-roundup-of-win-compatible-daws-evaluating-free-and-paid-software-options/"><u>Updated 2024 Approved The Premier Roundup of Win-Compatible DAWs Evaluating Free and Paid Software Options</u></a></li>
+</ul></div>
 

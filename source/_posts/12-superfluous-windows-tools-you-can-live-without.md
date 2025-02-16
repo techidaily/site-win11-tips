@@ -1,7 +1,7 @@
 ---
 title: 12 Superfluous Windows Tools You Can Live Without
-date: 2024-08-16T01:21:37.583Z
-updated: 2024-08-17T01:21:37.583Z
+date: 2025-02-13T22:35:07.622Z
+updated: 2025-02-15T17:32:29.489Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/2667ea34d1175640376556500cfb9591d15bfce3d
 
 ![Windows 10 Uninstall Store App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/Windows-10-Uninstall-Store-App.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Those still on Windows 8.1 or (the unsupported) Windows 7 can click on the Start button and search for**Programs and Features** . This will open a similar list where you can review everything currently installed on your system and uninstall unneeded apps.
 
  Depending on the software, the app might uninstall immediately or require you to advance through some dialog boxes. See our [guide to uninstalling programs on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) for more info.
@@ -35,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/2667ea34d1175640376556500cfb9591d15bfce3d
  Now, let's look at what apps you should uninstall from Windows—remove any of the below if they're on your system!
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. QuickTime
 
  QuickTime is Apple's video player. While it's still a current program on macOS, the company hasn't supported the Windows version since 2016.
@@ -52,18 +57,12 @@ thumbnail: https://thmb.techidaily.com/2667ea34d1175640376556500cfb9591d15bfce3d
 
  When [we looked at CCleaner in 2020](https://www.makeuseof.com/tag/time-trust-ccleaner/) , we found that it had cleaned up its act but was still largely unnecessary. You'll find suitable cleaning tools elsewhere, including those built into Windows itself. Follow [our step-by-step guide to cleaning your PC](https://www.makeuseof.com/tag/best-way-clean-windows-10-step-step-guide/) and you can say goodbye to CCleaner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Crappy PC Cleaners
 
  Many people have installed (or accidentally installed) a PC-cleaning app at some point. The majority of these products range from useless to harmful, as [registry cleaners don't improve the performance of Windows at all](https://www.makeuseof.com/tag/registry-cleaner-difference/) . If you find garbage like MyCleanPC or PC Optimizer Pro in the list of your installed apps, you should remove them.
 
  Read our guide to cleaning mentioned above for a proper cleanup method. If your computer feels slow, try some [ways to make Windows faster](https://www.makeuseof.com/tag/windows-10-faster-performance/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. uTorrent
 ![uTorrent Download Page 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/uTorrent-Download-Page-2021.png)
 
@@ -81,34 +80,14 @@ thumbnail: https://thmb.techidaily.com/2667ea34d1175640376556500cfb9591d15bfce3d
 
  You should thus remove both Shockwave Player and Flash Player. They're both relics of an era gone by and unnecessary today. However, it's still possible to [enjoy Flash games offline](https://www.makeuseof.com/tag/download-run-flash-games/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 6\. Java
 
  Java is another media runtime, and it includes two components: Java on the desktop, and the Java plugin for browsers (which is notorious for having security problems). Though it was once fairly common, very few websites use it nowadays. At the time of writing,[W3Techs](https://w3techs.com/technologies/details/cp-javaruntime/all/all) shows that a fraction of one percent of websites use Java.
 
  Modern versions of Chrome and Firefox don't support it, which means that [Java is less of a security problem than it once was](https://www.makeuseof.com/tag/java-security-risk/) . Unless you're an Android developer or use some specialized software that relies on Java, you should uninstall it. You'll probably never notice a difference.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Microsoft Silverlight
 ![Silverlight Not Supported](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Silverlight-Not-Supported.png)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Silverlight is a web framework, similar to Adobe Flash, that once enabled rich media content in your browser. Years ago, these plugins were necessary on a lot of websites. But now they're deprecated and no longer useful. Looking at [W3Techs](https://w3techs.com/technologies/details/cp-silverlight/all/all) again, we see that around 0.02 percent of websites use Silverlight as of this writing.
 
@@ -121,13 +100,18 @@ thumbnail: https://thmb.techidaily.com/2667ea34d1175640376556500cfb9591d15bfce3d
  Have a look in your programs list for toolbars like the Bing Bar, Google Toolbar, Ask Toolbar, Yahoo! Toolbar, or the Babylon Toolbar. If you find any of them, uninstall them. After that, review the installed add-ons or extensions in your browsers. Make sure you recognize and review everything there, as even trustworthy extensions can be sold to shady companies.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Coupon Printer for Windows
 
  The purpose of Coupon Printer for Windows is to provide access to deals from Coupons.com. However, since this software is typically found bundled in with other programs, chances are that you didn't want to install it in the first place.
 
  If you're a diehard Coupons.com user, you can leave this one installed so you can access its discounts. Everyone else should uninstall this program and use another coupon site that doesn't require installing anything.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Manufacturer Bloatware
 
@@ -139,8 +123,16 @@ thumbnail: https://thmb.techidaily.com/2667ea34d1175640376556500cfb9591d15bfce3d
 
  When in doubt, anything from the manufacturer is probably not necessary. But it's always good to double-check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Windows 10 and Windows 11 Bloatware
 ![Windows Uninstall Start Menu Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-Uninstall-Start-Menu-Apps.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Having to remove manufacturer bloatware is annoying enough, but Microsoft includes a fair bit of its own in modern versions of Windows in the form of Store apps. Thankfully, you can uninstall most of these unnecessary programs without much hassle.
 
@@ -153,22 +145,20 @@ thumbnail: https://thmb.techidaily.com/2667ea34d1175640376556500cfb9591d15bfce3d
  Despite this, there's really no reason to use WinRAR anyway.[7-Zip](https://www.7-zip.org/) is a free and simple tool that covers most people's needs. Whatever you do, please don't waste money on WinRAR.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Uninstall These Programs From Windows
 
  The above programs are unnecessary because they no longer serve any useful function. If you uninstall something and later find that you need it again, you can always reinstall it. Just be sure to install it without any bundled junk when you do.
 
  It's a good idea to do regular cleaning on your system to remove old or junky Windows programs. Some might be "zombie apps" that pose a security risk.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,8 +167,17 @@ thumbnail: https://thmb.techidaily.com/2667ea34d1175640376556500cfb9591d15bfce3d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-comprehensive-23-twee-tide-digest/"><u>[New] 2024 Approved The Comprehensive '23 Twee-Tide Digest</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capturing-the-joy-of-lol-gameplay-three-effective-methods-for-2024/"><u>[New] Capturing the Joy of LOL Gameplay - Three Effective Methods for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-creative-climb-steps-towards-thriving-in-graphic-design/"><u>[Updated] 2024 Approved The Creative Climb Steps Towards Thriving in Graphic Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-boot-speed-manipulating-boot-sequence-timer/"><u>Enhancing Boot Speed: Manipulating Boot Sequence Timer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-stop-location-services-on-your-iphone-simple-instructions-for-iphone-768xxrxs-users/"><u>How to Stop Location Services on Your iPhone: Simple Instructions for iPhone 7/6/8/X/XR/XS Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 Plus to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mp4mpl2s-creation-from-twitter-videos-for-2024/"><u>MP4/MPL2S Creation From Twitter Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-shift-key-stickiness-in-windows-os/"><u>Overcome Shift Key Stickiness in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-network-unavailable-error-on-windows-devices/"><u>Remedying 'Network Unavailable' Error on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-a-chrome-friendly-environment-in-windows-11/"><u>Setting Up a Chrome-Friendly Environment in Windows 11</u></a></li>
+</ul></div>
 

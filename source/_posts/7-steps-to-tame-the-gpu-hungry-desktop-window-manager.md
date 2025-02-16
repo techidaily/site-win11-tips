@@ -1,7 +1,7 @@
 ---
 title: 7 Steps to Tame the GPU-Hungry Desktop Window Manager
-date: 2024-08-16T01:16:21.775Z
-updated: 2024-08-17T01:16:21.775Z
+date: 2025-02-13T00:31:25.579Z
+updated: 2025-02-15T21:50:57.152Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
  However, the DWM can occasionally consume significant GPU resources, affecting the overall system performance. If you find that the Desktop Window Manager consumes a lot of GPU resources, try the solutions below to troubleshoot the problem for good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the Desktop Windows Manager's High GPU Usage on Windows?
 
  Before getting into the solutions, it's crucial to understand the root causes behind this issue. While the Desktop Window Manager (DWM) may consume a significant amount of GPU resources for various reasons, the most common ones are listed below:
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
  Now that you know the potential culprits, let's check out the methods to rectify them.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Update Your Graphics Driver
 
  We cannot stress enough the importance of regularly updating your graphics driver. An updated graphics driver ensures your system remains immune to graphics-related issues and provides you access to the latest features from your GPU manufacturer.
@@ -54,13 +59,14 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 ## 2\. Turn Off Hardware-Accelerated GPU Scheduling
 
 ![GPU Scheduling option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gpu-scheduling-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hardware-accelerated GPU scheduling is a handy Windows feature that reduces the CPU workload by allocating graphics-intensive tasks to the GPU. While this feature typically operates well, there are instances when it might lead to unintended consequences, particularly on systems with weak GPUs.
 
  Enabling GPU scheduling on a weak GPU could result in latency issues and high GPU consumption by various processes, including the Desktop Window Manager. Consequently, you can [disable GPU scheduling](https://www.makeuseof.com/hardware-accelerated-gpu-scheduling-disable-windows/) if you face graphics-related problems on your PC subsequent to its activation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Configure the NVIDIA Control Panel Settings
 
@@ -70,15 +76,13 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 2. Choose **Manage 3D settings** from the left sidebar.
 3. Choose the **High-performance NVIDIA processor** option from the Preferred graphics process drop-down menu.  
 ![High-performance NVIDIA processor option in NVIDIA control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-nvidia-processor-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the drop-down icon next to **Power management mode** and choose **Prefer maximum performance**.  
 ![Prefer maximum performance option in NVIDIA Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/prefer-maximum-performance-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click **Apply.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, restart your computer and check for the issue.
 
@@ -93,11 +97,12 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 3. Choose the recommended value from the **Display resolution** drop-down menu.  
 ![Scale settings in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scale-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, open the Task Manager and check the Desktop Window Manager GPU consumption.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable HDR
 
  HDR, or High Dynamic Range, is a technology that uses your system's GPU to display a wider range of brightness and colors. However, enabling HDR on a weak GPU can do more harm than good.
@@ -107,15 +112,9 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
  To disable HDR in Windows 11, open Settings, select System from the left sidebar, and then select Display from the right pane. Then, disable the toggle switch next to **Use HDR**.
 
 ![Use HDR option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-hdr.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, your display will momentarily go blank. Subsequently, you'll observe a shift in display color, indicating that you've successfully disabled HDR.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Optimize Your Visual Effect Settings
 
  As aforementioned, the Desktop Window Manager oversees the visual aspects of your computer's interface. But, if your computer's visual effects settings are not correctly configured, the Desktop Window Manager might consume a significant amount of GPU resources.
@@ -128,11 +127,6 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 3. Under the Performance section, click on **Settings**.
 4. Select the **Adjust for best performance** option.  
 ![Adjust for best performance option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/adjust-for-best-performance-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 5. Click **Apply** and then **OK** to save the changes.
 
  Now, monitor your computer's GPU consumption. If it remains high, there's a possibility that corruption in important system files is causing the issue.
@@ -147,6 +141,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Sfc scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scan.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the scan is complete, restart your computer, and you will see that you’re no longer facing the Desktop Window Manager high GPU consumption issue.
 
 ## Prevent the Desktop Window Manager From Hogging Your GPU
@@ -157,8 +155,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  However, the DWM can occasionally consume significant GPU resources, affecting the overall system performance. If you find that the Desktop Window Manager consumes a lot of GPU resources, try the solutions below to troubleshoot the problem for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -166,5 +162,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-seamless-media-switching-your-ultimate-guide-for-srt-conversion/"><u>[New] 2024 Approved Seamless Media Switching Your Ultimate Guide for SRT Conversion</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-newest-camstudio-capture-and-review-2023-update/"><u>[New] In 2024, Newest CamStudio Capture & Review 2023 Update</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-master-the-art-of-tokenization-with-these-7-nft-creation-apps/"><u>[New] Master the Art of Tokenization with These 7 NFT Creation Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-v30-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo V30 Pro Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-an-innovative-auto-refresh-check-option-to-the-windows-ui/"><u>Adding an Innovative Auto-Refresh Check Option to the Windows UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ai-integration-windows-11s-next-chapter/"><u>AI Integration: Windows 11'S Next Chapter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-windows-efficiency-embrace-adaptive-tiling/"><u>Amplify Windows Efficiency: Embrace Adaptive Tiling</u></a></li>
+<li><a href="https://driver-download.techidaily.com/experience-superior-audio-quality-with-free-downloads-of-the-m-audio-ultra-driver-set/"><u>Experience Superior Audio Quality with Free Downloads of the M-Audio Ultra Driver Set</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-the-best-translator-to-translate-videos-online/"><u>In 2024, The Best Translator to Translate Videos Online</u></a></li>
+<li><a href="https://win11.techidaily.com/ranking-the-peak-fps-counter-apps-for-windows-11/"><u>Ranking the Peak FPS Counter Apps for Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smart-sms-strategies-how-to-text-without-eating-into-your-data/"><u>Smart SMS Strategies: How to Text Without Eating Into Your Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719239834039-start-menu-no-more-unwanted-advertisements/"><u>Start Menu, No More Unwanted Advertisements</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-power-saving-paradox-modern-standbys-dilemni/"><u>Windows' Power-Saving Paradox: Modern Standby's Dilemni</u></a></li>
+</ul></div>
 

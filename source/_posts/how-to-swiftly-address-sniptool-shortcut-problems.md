@@ -1,7 +1,7 @@
 ---
 title: How to Swiftly Address SnipTool Shortcut Problems
-date: 2024-08-16T01:22:14.181Z
-updated: 2024-08-17T01:22:14.181Z
+date: 2025-02-11T17:42:12.073Z
+updated: 2025-02-16T03:25:54.119Z
 tags:
   - windows10
   - windows11
@@ -27,24 +27,21 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
  To restart your computer, close any running programs. Now, open the Start menu and choose **Restart** in the list of options.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check Your Keyboard
 
  Check the keyboard for any dirt or debris that may obstruct the keys. Clean off dust, crumbs, and other particles with compressed air. Ensure that all the keys are working correctly and that none are stuck or pressed down. If the keys have been damaged or worn down, consider replacing your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 3\. Enable the Clipboard History
 
  If keyboard dirt and debris are not the issues, you may need to enable the clipboard history feature. This will help you restore any screenshots taken with Win + Shift + S that have been lost.
 
 ![Enable the Clipboard History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-the-clipboard-history.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To enable it, open Settings and navigate to **System** \> **Clipboard**. There, you'll find the toggle for **Clipboard history** – turn it on.
@@ -62,11 +59,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Under **Notifications from apps and other senders**, scroll down to the bottom and turn on the Snipping Tool notification toggle.  
 ![Turn on Snipping Tool Notification Toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-snipping-tool-notification-toggle.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have enabled this option, press **Win + Shift + S** to take a screenshot. If the shortcut works, you will see a notification that the screenshot is saved to the clipboard.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Reset the Snipping Tool
 
  Another solution is to reset the Snipping Tool. It restores the default settings and can help if something goes wrong.
@@ -89,6 +87,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Click the three dots and select **Uninstall**. Now follow the on-screen instructions to complete the process. Once done, download and install a new version of the Snipping Tool from the Microsoft Store app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Turn on Windows Hotkeys
 
  If your Windows hotkeys are disabled for some reason, the shortcut keys will not work. In such cases, you will need to enable the Windows hotkeys through the group policy editor. Here's how to do it:
@@ -96,9 +98,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Press **Win + R** on your keyboard to open the Run command.
 2. Type **gpedit.msc** in the dialog box and hit Enter. This will open the Group Policy Editor window.  
 ![Turn on Windows Hotkeys Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-windows-hotkeys-using-group-policy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Navigate to the path:  
 `User Configuration > Administrative Templates > Windows Components > File Explorer`
 4. In the right pane, double-click on the **Turn off Windows Key hotkeys** option.
@@ -123,8 +122,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  After that, exit the registry editor and restart your computer. Once the system reboots, check if the issue has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Perform Some Generic Fixes
 
  There are a few general fixes that might help you get the Win + Shift + S keyboard shortcut working. Here's what you need to do:
@@ -135,16 +135,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. [Run a full scan with your antivirus program](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) and see if it solves the issue.
 5. If the issue still persists, there's a chance that third-party applications are interfering with the Snipping Tool shortcut. In such a case, [try performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). This will temporarily disable all the third-party applications and allow you to check if they were causing the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Taking Screenshots Is Easy With Shortcut Keys
 
  Keyboard shortcuts provide quick and easy access to different functions on your PC. It allows you to easily switch between applications and perform tasks. There are times, though, when the Win + Shift + S hotkey does not work properly. Hopefully, one of the above methods fixed this issue for you.
 
  Is your screenshot-taking career over? Definitely not. There are still some fixes you can try to solve this issue. Read on to learn what to do when your Win + Shift + S shortcut isn't working.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -153,5 +148,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-console-capturer-pro-report/"><u>[Updated] Console Capturer Pro Report</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715859637894-2024-approved-2023s-best-screen-recorder-discover-with-camstudio/"><u>2024 Approved 2023'S Best Screen Recorder? Discover with CamStudio!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertir-facilement-des-mp4-en-images-jpeg-en-ligne-votre-guide-ultime-pour-une-gestion-optimisee-de-la-video-et-de-limage-sans-frais/"><u>Convertir Facilement Des MP4 en Images JPEG en Ligne : Votre Guide Ultime Pour Une Gestion Optimisée De La Vidéo Et De L'image Sans Frais.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhanced-question-guide-for-engaging-audio-content/"><u>Enhanced Question Guide for Engaging Audio Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-avoid-discord-starting-with-system-boots-up/"><u>How to Avoid Discord Starting with System Boots Up</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-pairing-top-ten-kiss-off-classics-at-romances-peak/"><u>In 2024, Perfect Pairing Top Ten Kiss-Off Classics at Romance's Peak</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-best-binge-worthy-series-on-twittersphere/"><u>In 2024, The Best Binge-Worthy Series on Twittersphere</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/inside-windows-power-to-guide-apps-browsers/"><u>Inside Windows' Power to Guide Apps, Browsers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/probing-the-digital-core-acquiring-sids-on-win11-systems/"><u>Probing the Digital Core: Acquiring SIDs on Win11 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/questioning-your-assumptions-six-reasons-to-distrust-ai/"><u>Questioning Your Assumptions: Six Reasons to Distrust AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-dropbox-cpu-load-on-windows-systems/"><u>Reducing Dropbox CPU Load on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-launch-into-lotr-world-lol/"><u>Smooth Launch Into LOTR World (LOL)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-razer-blade-pro-17-unveiled-high-end-performance-tailored-for-travel/"><u>The Razer Blade Pro 17 Unveiled: High-End Performance, Tailored for Travel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unwanted-warning-fixes-for-chrome-on-windows-systems/"><u>Unwanted Warning Fixes for Chrome on Windows Systems</u></a></li>
+</ul></div>
 

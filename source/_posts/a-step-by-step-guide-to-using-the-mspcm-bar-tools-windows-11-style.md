@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Using the MSPCM Bar Tools, Windows 11 Style
-date: 2024-08-16T01:15:38.064Z
-updated: 2024-08-17T01:15:38.064Z
+date: 2025-02-12T21:31:32.723Z
+updated: 2025-02-16T03:51:06.106Z
 tags:
   - windows10
   - windows11
@@ -33,17 +33,22 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
  Apart from the aesthetic touch-ups, you get four discrete sections: **Protection**, **Storage**, **Apps**, and **Toolbox**. You can restore the taskbar appearance and default apps within the **Protection** section.
 
 ![New Tools in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/new-tools-in-microsoft-pc-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **Storage** section has improved Files Cleanup tools, which include a revamped large file identifier tool. Earlier, you could only preview the files in Files Explorer, but now the app opens a new sub-page for the Large Files section with multiple filters and scan options.
 
 ![Large Files Identifier tool in Microsoft PC Manager-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/large-files-identifier-tool-in-microsoft-pc-manager-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can move or permanently delete one or multiple files directly from this window without opening File Explorer. The **Deep Scan** option is still there, and you can even access [Storage Sense](https://www.makeuseof.com/windows-11-storage-sense-guide/) from the Microsoft PC Manager app. The App Management section doesn’t have anything new. You can end processes, manage startup apps, and directly access the Microsoft Store.
 
  The last section is the Toolbox section, using which you can access multiple Windows tools, display a floating toolbar on the screen, and add custom links.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable the Toolbar on the Desktop
 
@@ -52,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
  After installing the Microsoft PC Manager app, click the **Toolbox** icon in the left-hand side vertical menu. Then, click on the toggle next to the **Show toolbar on the desktop** option to enable the toolbar.
 
 ![Enable Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/enable-toolbar-in-microsoft-pc-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  With the floating toolbar on your screen, you can now minimize the Microsoft PC Manager app. Click and drag the toolbar to any side of the screen to pin it to that position. If you don’t do that, it will appear on top of all the open apps.
 
@@ -62,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 
  When you hover over the toolbar position, it will automatically appear. Click the Boost button to clear the memory or launch any tools. You can even add custom links to websites in the toolbar and then launch them in Edge directly.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## How to Customize the Toolbar
 
  The default tools list in the toolbar can be inadequate for many. You may not need the Edge search option or want to add more tools or remove some of them. Here’s how to customize it:
@@ -73,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 2. Click **Settings**.
 3. Now, click on **Add tools**.  
 ![Customize Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/customize-toolbar-in-microsoft-pc-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Click on the **plus (+)** to add a tool to the toolbar.
 5. If you want to remove a tool’s icon from the toolbar, click the **minus (-)** icon.  
 ![Add or remove tools in the Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/add-or-remove-tools-in-the-toolbar-in-microsoft-pc-manager.jpg)
@@ -84,13 +80,11 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
  You can hide the toolbar without closing the Microsoft PC Manager app in the background. Hover over the toolbar to open it and click on **Settings**. Then click on **Hide toolbar** to hide it on your desktop. However, you will have to access the **Toolbox** section in the Microsoft PC Manager app to unhide the toolbar.
 
 ![Customize Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/customize-toolbar-in-microsoft-pc-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A User-Friendly Toolbar for PC Maintenance
 
  The new [Microsoft PC Manager app can manage Windows better](https://www.makeuseof.com/microsoft-pc-manager-guide/) and is so feature-packed that it can compete with any PC manager or cleaner app. You can now identify larger files, manage apps and taskbar behavior, and access multiple inbuilt Windows apps via the toolbar with a much-improved UI. However, it is unclear when the app will move out of the Beta phase and appear on the Microsoft Store for general users.
@@ -107,11 +101,16 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 
 ![New Tools in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/new-tools-in-microsoft-pc-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **Storage** section has improved Files Cleanup tools, which include a revamped large file identifier tool. Earlier, you could only preview the files in Files Explorer, but now the app opens a new sub-page for the Large Files section with multiple filters and scan options.
 
 ![Large Files Identifier tool in Microsoft PC Manager-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/large-files-identifier-tool-in-microsoft-pc-manager-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can move or permanently delete one or multiple files directly from this window without opening File Explorer. The **Deep Scan** option is still there, and you can even access [Storage Sense](https://www.makeuseof.com/windows-11-storage-sense-guide/) from the Microsoft PC Manager app. The App Management section doesn’t have anything new. You can end processes, manage startup apps, and directly access the Microsoft Store.
@@ -119,12 +118,9 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
  The last section is the Toolbox section, using which you can access multiple Windows tools, display a floating toolbar on the screen, and add custom links.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable the Toolbar on the Desktop
 
  You must [install the latest version of the Microsoft PC Manager app](https://www.makeuseof.com/windows-11-pc-manager-install/) (3.8.2.0) from the [official Microsoft PC Manager website](https://pcmanager.microsoft.com/). But if you face difficulty downloading or installing the app, you can also download it from [Techspot](https://www.techspot.com/downloads/7506-microsoft-pc-manager.html), a trustworthy site.
@@ -136,19 +132,13 @@ No advertising on the website.
  With the floating toolbar on your screen, you can now minimize the Microsoft PC Manager app. Click and drag the toolbar to any side of the screen to pin it to that position. If you don’t do that, it will appear on top of all the open apps.
 
 ![Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/toolbar-in-microsoft-pc-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you hover over the toolbar position, it will automatically appear. Click the Boost button to clear the memory or launch any tools. You can even add custom links to websites in the toolbar and then launch them in Edge directly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Customize the Toolbar
 
  The default tools list in the toolbar can be inadequate for many. You may not need the Edge search option or want to add more tools or remove some of them. Here’s how to customize it:
@@ -157,15 +147,6 @@ No advertising on the website.
 2. Click **Settings**.
 3. Now, click on **Add tools**.  
 ![Customize Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/customize-toolbar-in-microsoft-pc-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 4. Click on the **plus (+)** to add a tool to the toolbar.
 5. If you want to remove a tool’s icon from the toolbar, click the **minus (-)** icon.  
 ![Add or remove tools in the Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/add-or-remove-tools-in-the-toolbar-in-microsoft-pc-manager.jpg)
@@ -174,10 +155,6 @@ No advertising on the website.
  You can hide the toolbar without closing the Microsoft PC Manager app in the background. Hover over the toolbar to open it and click on **Settings**. Then click on **Hide toolbar** to hide it on your desktop. However, you will have to access the **Toolbox** section in the Microsoft PC Manager app to unhide the toolbar.
 
 ![Customize Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/customize-toolbar-in-microsoft-pc-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
 ## A User-Friendly Toolbar for PC Maintenance
 
@@ -198,17 +175,11 @@ No advertising on the website.
  The **Storage** section has improved Files Cleanup tools, which include a revamped large file identifier tool. Earlier, you could only preview the files in Files Explorer, but now the app opens a new sub-page for the Large Files section with multiple filters and scan options.
 
 ![Large Files Identifier tool in Microsoft PC Manager-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/large-files-identifier-tool-in-microsoft-pc-manager-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can move or permanently delete one or multiple files directly from this window without opening File Explorer. The **Deep Scan** option is still there, and you can even access [Storage Sense](https://www.makeuseof.com/windows-11-storage-sense-guide/) from the Microsoft PC Manager app. The App Management section doesn’t have anything new. You can end processes, manage startup apps, and directly access the Microsoft Store.
 
  The last section is the Toolbox section, using which you can access multiple Windows tools, display a floating toolbar on the screen, and add custom links.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## How to Enable the Toolbar on the Desktop
 
  You must [install the latest version of the Microsoft PC Manager app](https://www.makeuseof.com/windows-11-pc-manager-install/) (3.8.2.0) from the [official Microsoft PC Manager website](https://pcmanager.microsoft.com/). But if you face difficulty downloading or installing the app, you can also download it from [Techspot](https://www.techspot.com/downloads/7506-microsoft-pc-manager.html), a trustworthy site.
@@ -236,16 +207,14 @@ No advertising on the website.
 ![Add or remove tools in the Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/add-or-remove-tools-in-the-toolbar-in-microsoft-pc-manager.jpg)
 6. Lastly, click on the desktop to close the toolbar.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can hide the toolbar without closing the Microsoft PC Manager app in the background. Hover over the toolbar to open it and click on **Settings**. Then click on **Hide toolbar** to hide it on your desktop. However, you will have to access the **Toolbox** section in the Microsoft PC Manager app to unhide the toolbar.
 
 ![Customize Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/customize-toolbar-in-microsoft-pc-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A User-Friendly Toolbar for PC Maintenance
 
  The new [Microsoft PC Manager app can manage Windows better](https://www.makeuseof.com/microsoft-pc-manager-guide/) and is so feature-packed that it can compete with any PC manager or cleaner app. You can now identify larger files, manage apps and taskbar behavior, and access multiple inbuilt Windows apps via the toolbar with a much-improved UI. However, it is unclear when the app will move out of the Beta phase and appear on the Microsoft Store for general users.
@@ -254,9 +223,6 @@ No advertising on the website.
 
  You get a better overall design, with a vertical menu and multiple subsections, including a new Toolbox section. Let’s explore these features in detail.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What’s New in the Microsoft PC Manager App?
 
  The Microsoft PC Manager app is still in beta. The previous app versions had two major sections: **Cleanup** and **Security**. But the update brings a new **Home** section in the app that neatly lays out all useful settings in tiles. It supports light and dark modes and adapts to the default system theme.
@@ -280,18 +246,20 @@ No advertising on the website.
  After installing the Microsoft PC Manager app, click the **Toolbox** icon in the left-hand side vertical menu. Then, click on the toggle next to the **Show toolbar on the desktop** option to enable the toolbar.
 
 ![Enable Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/enable-toolbar-in-microsoft-pc-manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the floating toolbar on your screen, you can now minimize the Microsoft PC Manager app. Click and drag the toolbar to any side of the screen to pin it to that position. If you don’t do that, it will appear on top of all the open apps.
 
 ![Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/toolbar-in-microsoft-pc-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  When you hover over the toolbar position, it will automatically appear. Click the Boost button to clear the memory or launch any tools. You can even add custom links to websites in the toolbar and then launch them in Edge directly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Customize the Toolbar
 
@@ -309,22 +277,16 @@ No advertising on the website.
  You can hide the toolbar without closing the Microsoft PC Manager app in the background. Hover over the toolbar to open it and click on **Settings**. Then click on **Hide toolbar** to hide it on your desktop. However, you will have to access the **Toolbox** section in the Microsoft PC Manager app to unhide the toolbar.
 
 ![Customize Toolbar in Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/customize-toolbar-in-microsoft-pc-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A User-Friendly Toolbar for PC Maintenance
 
  The new [Microsoft PC Manager app can manage Windows better](https://www.makeuseof.com/microsoft-pc-manager-guide/) and is so feature-packed that it can compete with any PC manager or cleaner app. You can now identify larger files, manage apps and taskbar behavior, and access multiple inbuilt Windows apps via the toolbar with a much-improved UI. However, it is unclear when the app will move out of the Beta phase and appear on the Microsoft Store for general users.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -333,8 +295,18 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-nativescreenvid-chrome-os-recording-tool-for-2024/"><u>[Updated] NativeScreenVid Chrome OS Recording Tool for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-android-apps-that-youd-actually-want-to-install-on-windows-11/"><u>6 Android Apps That You’d Actually Want to Install on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-optimum-ssd-speed-on-windows-via-ssdfresh/"><u>Achieve Optimum SSD Speed on Windows via SSDFresh</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-reset-account-lockouts-after-failed-logins-in-windows-11/"><u>Adjusting Reset Account Lockouts After Failed Logins in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alteration-of-login-failure-counter-windows-11-user-guide/"><u>Alteration of Login Failure Counter: Windows 11 User Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beat-delay-in-sw-top-tips-to-speed-up-your-bf2-gameplay/"><u>Beat Delay in SW: Top Tips to Speed Up Your BF2 Gameplay</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-from-raw-footage-to-final-cut-youtube-edition/"><u>In 2024, From Raw Footage to Final Cut YouTube Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speedy-editing-tips-mastering-the-switch-of-fbr-recordings-to-mp4-with-bb-flashback-software/"><u>Speedy Editing Tips: Mastering the Switch of FBR Recordings to MP4 with BB FlashBack Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-elevate-your-videos-3-simple-ways-to-add-transitions-in-fcp/"><u>Updated In 2024, Elevate Your Videos 3 Simple Ways to Add Transitions in FCP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+</ul></div>
 

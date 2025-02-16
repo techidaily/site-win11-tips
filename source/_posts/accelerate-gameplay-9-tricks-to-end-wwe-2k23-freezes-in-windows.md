@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Gameplay: 9 Tricks to End WWE 2K23 Freezes in Windows"
-date: 2024-08-16T01:16:02.743Z
-updated: 2024-08-17T01:16:02.743Z
+date: 2025-02-09T03:02:02.875Z
+updated: 2025-02-16T00:22:31.561Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 
  Unfortunately, this issue can occur for various reasons, such as compatibility issues, outdated drivers, or misconfigured in-game settings. So, if your copy of WWE 2K23 keeps crashing, here's how to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is WWE 2K23 Crashing on Windows 11?
 
  WWE 2K23 has impressive graphics, old and new superstars, and mind-boggling moves. Unfortunately, there are a few reasons why it can crash on Windows 11:
@@ -30,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 
 Knowing some of the main causes, let's dive into the solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 1\. Confirm That WWE 2K23 Is Compatible With Your Computer
 
  The first thing you should check is your hardware. Does it have enough power to run WWE 2K23? There are the minimum requirements you need to run WWE 2K23 on your computer:
@@ -49,6 +50,10 @@ Knowing some of the main causes, let's dive into the solutions.
 ## 2\. Edit WWE 2K23's Graphical Settings
 
 ![Graphics Settings of WWE 2k23](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/graphics-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To run a game without any FPS or crashing issues, properly optimize its settings. Below are the best WWE 2K23 settings to fix its crashing problem and boost FPS.
 
@@ -67,6 +72,10 @@ Knowing some of the main causes, let's dive into the solutions.
 
  With these visual settings, you'll reduce the load spent on fancy graphical effects, and make the game run more smoothly instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Close Memory-Consuming Applications
 
  Another thing you must check whenever facing a crashing issue is the amount of memory your system is using. If many memory-consuming applications run in the background, the computer will fail to offer enough resources to WWE 2K23, resulting in crashes.
@@ -79,15 +88,16 @@ Knowing some of the main causes, let's dive into the solutions.
 
  By ending unnecessary apps, you free up some system memory to help the game run.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Force WWE 2K23 to Use Dedicated Graphics
 
  Many computers have both an integrated and a dedicated GPU. But sometimes, the game mistakenly uses the onboard graphics (which doesn't have enough power to run the game properly) instead of the dedicated card. This may cause low frames or a complete game crash.
 
  The solution is to manually tell your computer to [use the dedicated graphics card](https://www.makeuseof.com/how-to-set-default-gpu/) [for your game](http://www.makeuseof.com/how-to-set-default-gpu/) . Once you're on a dedicated graphics card, check if the problem is fixed. If not, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Update Everything
 
  Along with the WWE 2K23 crashing issue, are you facing many other problems with your computer lately? If yes, it might be time to update your GPU drivers and operating system.
@@ -95,15 +105,13 @@ Knowing some of the main causes, let's dive into the solutions.
  To update your operating system,[open the Windows**Settings app**](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and choose**Windows Update** from the left sidebar. Then, click the**Check for Updates** option in the right pane and allow Windows to look for any available update.
 
 ![Check for Updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-updates-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After updating Windows, you must also [update your graphics card driver](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) . Updating the graphics driver will improve your system's overall performance and eliminate any corruption that might be responsible for the problem at hand.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Enable Game Mode
 
  Game Mode is an interesting Windows feature that helps you get better gaming performance on your system. When you enable this mode, Windows disables all unnecessary notifications and services. It also changes system resource priority as you launch the game.
@@ -112,11 +120,12 @@ Knowing some of the main causes, let's dive into the solutions.
 
 ![Game Mode option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/game-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Along with enabling this mode, you can do many other things to [improve your laptop's gaming performance](https://www.makeuseof.com/tag/5-ways-improve-laptop-gaming-performance/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 7\. Temporarily Disable Windows Security
 
  Your security app ensures your system remains free from viruses and other malware attacks. It does so by blocking malicious applications from running on your computer. But sometimes, it can block trusted apps and games like WWE 2K23 and cause them to crash.
@@ -127,9 +136,6 @@ Knowing some of the main causes, let's dive into the solutions.
 
  To disable a third-party security program, right-click on its icon in the system tray and choose**Disable** from the context menu. However, if the security program icon is not in the system tray, check out its support pages for the disabling process.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Remove Corruption From the Game's Files
 
  WWE 2K23 might crash on Windows 11 if its files are missing or corrupted. You can remove the corruption and download the missing files by [verifying the integrity and repairing the game files](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
@@ -144,25 +150,15 @@ Knowing some of the main causes, let's dive into the solutions.
 
  To reinstall WWE 2K23, launch the Steam client and go to the**Library** section. Then, right-click on WWE 2K23, hover the cursor to**Manage,** and choose**Uninstall.** After the uninstallation process is complete, reinstall the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## You've Fixed WWE 2K23 Crashing
 
  WWE 2K23 is 2023's version of the annual series. However, like any other game, it isn't free from issues. If WWE 2K23 crashes on your computer, try the above solutions to troubleshoot the problem.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -171,8 +167,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-elite-no-price-facebook-visual-storytelling-suite/"><u>[Updated] Elite No-Price Facebook Visual Storytelling Suite</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-assessing-max-360-and-hero-11-the-ultimate-gopro-video-experience/"><u>[Updated] In 2024, Assessing Max 360 & Hero 11 The Ultimate GoPro Video Experience</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-reinstating-old-school-windows-photo-viewer-on-modern-win10/"><u>[Updated] Reinstating Old-School Windows Photo Viewer on Modern Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-secrets-the-fastest-ways-to-uncover-windows-11s-credential-manager/"><u>Accessing Secrets: The Fastest Ways to Uncover Windows 11'S Credential Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-digital-dreamland-with-windows-pcs/"><u>Achieving Digital Dreamland with Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-10-and-11s-phishing-protection-settings/"><u>Adjusting Windows 10 & 11'S Phishing Protection Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/artificial-intelligence-windows-future-trailblazer/"><u>Artificial Intelligence: Windows' Future Trailblazer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-act-keeping-high-vitality-in-check-on-windows/"><u>Balancing Act: Keeping High Vitality in Check on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-practices-unveiled-supercharge-wsl-2-with-windows-dev-tools/"><u>Best Practices Unveiled: Supercharge WSL 2 with Windows Dev Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beyond-boundaries-artificinas-intelligence-in-windows-11/"><u>Beyond Boundaries: Artificinas Intelligence in Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-nokia-c32-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Nokia C32</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100i Phone with Broken Screen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-apple-iphone-13-mini-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for Apple iPhone 13 mini and Android Phones</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/luxurious-soundscapes-embrace-you-with-h8i/"><u>Luxurious Soundscapes Embrace You with H8i</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/steps-to-repair-microsoft-internet-explorer-failed-to-connect-errors/"><u>Steps to Repair 'Microsoft Internet Explorer Failed to Connect' Errors</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210527777-9789948825685-oraaa-alakma/"><u>وراء الأكمة | Free Book</u></a></li>
+</ul></div>
 

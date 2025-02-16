@@ -1,7 +1,7 @@
 ---
 title: Resolving Signature Problem for Windows Updates
-date: 2025-01-27T19:00:10.987Z
-updated: 2025-02-01T10:15:51.175Z
+date: 2025-02-09T21:24:04.146Z
+updated: 2025-02-16T00:14:01.875Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,11 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-sfc-scannow.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check the Windows Update and BITS Services Are Enabled
@@ -68,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
  If you find both services to be already enabled and running, try restarting them. You can do so by right-clicking the BITS and Windows Update service names and selecting a **Restart** option on their context menus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Reset Components for Windows Updates
 
  Resetting components for Windows updates will completely refresh the catroot2 and SoftwareDistribution folders, which store update data. This troubleshooting method also reregisters all DLL files for important update services. Applying such a potential resolution can fix corrupted components causing error 0x800b0109\.
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
  To apply this possible error 0x800b0109 resolution, check out our article on [resetting Windows update components](https://www.makeuseof.com/reset-windows-update-components/). That guide includes a command-line and batch file method. Creating and running a batch file is the quicker and more straightforward way to reset Windows update components.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Deactivate Third-Party Security Software
@@ -89,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
  Security apps typically include options for disabling antivirus protection on their system tray context menus. Right-click your security app’s icon in Windows 11’s system tray area to find and select its option for temporarily disabling the antivirus shield. Then, return to the Settings app to see if error 0x800b0109 still happens with the antivirus shield disabled.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Erase the Windows Update Key
 
@@ -108,13 +104,13 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ![The Delete context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-delete-option-1.jpg)
 5. Click **Yes** when prompted for confirmation to delete the key.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Confirm Key Delete prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-key-confirmation-1.jpg)
 
  Thereafter, it’s also recommended to restart the Windows Update and BITS services. To do so, open Services as covered in the first three steps of resolution three. Then, select the **Restart** context menu options for Windows Update and BITS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Try Downloading the Failed Update From Microsoft Update Catalog
 
@@ -128,7 +124,15 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ![The update history in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-history4.jpg)
 4. Note down the KB code for your recently failed Windows update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, you can find and download that failed update on the Microsoft Update Catalog website. This article about [updating Windows manually](https://www.makeuseof.com/update-windows-manually/) includes instructions for utilizing the Microsoft Update Catalog.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Apply an In-Place Windows Upgrade
 
@@ -137,10 +141,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
  The good thing about an in-place upgrade is that it won’t eradicate your installed software or user files. This [how-to perform an in-place upgrade](https://www.makeuseof.com/in-place-upgrade-windows-11/) guide tells you how to apply this potential solution for Windows 11\. The steps are quite similar for Windows 10, but you’ll need to download its ISO with the Media Creation Tool available on this [Microsoft page](https://www.microsoft.com/en-gb/software-download/windows10).
 
 ![The Windows 10 Media Creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-10-setup-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Windows Updated Again
 
@@ -160,17 +160,24 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-earning-strategies-for-successful-youtube-shorts-what-you-need-and-how-much-in-2024/"><u>[New] Earning Strategies for Successful Youtube Shorts What You Need & How Much, In 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-ps4-game-capture-via-obs-studio-for-2024/"><u>[Updated] Mastering PS4 Game Capture via OBS Studio for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-80s-revivalists-handbook-for-dynamic-editing-techniques/"><u>[Updated] The 80S Revivalist's Handbook for Dynamic Editing Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-the-top-3-groundbreaking-iphone-16-innovations-that-will-make-you-rethink-your-next-phone-upgrade-insights/"><u>Explore the Top 3 Groundbreaking iPhone 16 Innovations That Will Make You Rethink Your Next Phone Upgrade - Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/halt-at-snipeits-stalling-fast-fixes-to-jumpstart-it/"><u>Halt at SnipeIt's Stalling? Fast Fixes to Jumpstart It</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simplifying-age-verification-on-tiktok-accounts/"><u>In 2024, Simplifying Age Verification on TikTok Accounts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-transforming-skype-sessions-with-proactive-zoom-tactics/"><u>In 2024, Transforming Skype Sessions with Proactive Zoom Tactics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-disconnection-quick-fix-for-xbox-win11-app/"><u>Navigating Through Disconnection: Quick Fix for Xbox Win11 App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-viewing-samsungs-virtual-unveiling/"><u>Step-by-Step Instructions on Viewing Samsung's Virtual Unveiling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-pathway-through-frozen-windows-update-woes/"><u>The Pathway Through Frozen Windows Update Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-bluetooth-troubleshooting-music-only-lacking-volumecontrols/"><u>Windows Bluetooth Troubleshooting: Music Only Lacking Volume/Controls</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/44oe44oz44ks44kz44of44ol44ol44og44kj44o844gu44oq44k544kv566h55cg77ya6ygv5rov6kgm54k644g444gu5aplusplus562w44go44ki44oa44or44oi5bqd5zgk5o6s6zmk5pa55rov5lia6k129/"><u>マンガコミュニティーのリスク管理：違法行為への対策とアダルト広告排除方法一覧</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-understanding-the-income-framework-that-supports-tseries-youtube-success/"><u>[Updated] 2024 Approved Understanding the Income Framework that Supports TSeries' Youtube Success</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-keep-track-who-dropped-off-my-insta-feed-in-2024/"><u>[Updated] Keep Track Who Dropped Off My Insta Feed, In 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-garmins-innovative-ultra-30-review-full-capabilities-examined/"><u>2024 Approved Garmin's Innovative Ultra 30 Review Full Capabilities Examined</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-presentations-with-smart-s2t-technology/"><u>Elevate Your Presentations with Smart S2T Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-on-resolving-google-chrome-hang-ups-reload-and-maintenance-advice/"><u>Expert Guide on Resolving Google Chrome Hang-Ups - Reload & Maintenance Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-quickly-view-images-in-windows-11/"><u>How To Quickly View Images in Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-best-mac-screen-grabbers-compiled-here/"><u>In 2024, Best Mac Screen Grabbers Compiled Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovations-in-computing-6-best-tracking-software-for-pc/"><u>Innovations in Computing: 6 Best Tracking Software for PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-rainmeter-fixes-common-bugs-and-workarounds/"><u>Mastering Rainmeter Fixes: Common Bugs and Workarounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-performance-sluggishness-in-windows-with-dual-screen-views/"><u>Preventing Performance Sluggishness in Windows with Dual Screen Views</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/qualcomm-compatible-drivers-free-download-and-installation-guide-for-windows-users-version-11-10-8-and-7/"><u>Qualcomm Compatible Drivers: Free Download and Installation Guide for Windows Users (Version 11, 10, 8 & 7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rediscovering-lost-panes-a-sixfold-approach-for-windows-users/"><u>Rediscovering Lost Panes: A Sixfold Approach for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-lowering-cpu-consumption/"><u>Strategies for Lowering CPU Consumption</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-common-caption-issues-on-windows-10-systems/"><u>Tackling Common Caption Issues on Windows 10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/time-tracker-titans-wins-best-tools-for-peak-efficiency/"><u>Time Tracker Titans: Win's Best Tools for Peak Efficiency</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-t2x-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo T2x 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-magic-6-lite-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor Magic 6 Lite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/visual-deception-hiding-data-in-windows-images-without-trace/"><u>Visual Deception: Hiding Data in Windows Images Without Trace</u></a></li>
+<li><a href="https://win-news.techidaily.com/vollstandiges-festplattenmanagement-entfernung-von-sicherungskopien-auf-einer-vollgetankten-festplatte-unter-windows-10/"><u>Vollständiges Festplattenmanagement: Entfernung Von Sicherungskopien Auf Einer Vollgetankten Festplatte Unter Windows 10</u></a></li>
 </ul></div>
 

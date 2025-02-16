@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Efficiency: Adding WordPad Keyboard Triggers in Windows 11'S UI"
-date: 2024-12-15T09:36:34.215Z
-updated: 2024-12-22T02:39:59.980Z
+date: 2025-02-12T01:22:39.902Z
+updated: 2025-02-15T17:01:08.948Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add a WordPad Shortcut to Windows 11’s Context Menu
 
  To create WordPad shortcuts on the right-click menu, you’ll need to do a bit of manual registry tweaking. The editing required is relatively straightforward, but you can back up the Windows registry beforehand if preferred. See[how to back up and restore the Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if you need help.
@@ -50,17 +46,13 @@ You can add a basic WordPad shortcut to the context menu like this:
 ![The WordPad key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-command-subkey.jpg)
 5. Select the command key in the sidebar, and then double-click its**(Default)** string.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Input this path in the**Value** box:  
 `"C:\Program Files\Windows NT\Accessories\wordpad.exe"`
 7. Click**OK** to save the value, and exit the Registry Editor.  
 ![An Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/an-edit-string-window2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can open WordPad from the desktop context menu in Windows 11\. Right-click anywhere on the desktop background and select**Show more options** to access the classic menu. Selecting the new**WordPad** option on that menu will open the app’s window.
@@ -68,7 +60,11 @@ You can add a basic WordPad shortcut to the context menu like this:
 ![The WordPad context menu shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-wordpad-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add an Open with WordPad Shortcut to Windows 11’s Context Menu
@@ -88,11 +84,11 @@ You can add a basic WordPad shortcut to the context menu like this:
 9. Enter**wordpad.exe %1** in the**Value** box, and click**OK** to apply.  
 ![The wordpad.exe value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-wordpad-exe-value-data.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can close the Registry Editor and try out the**Open with WordPad** context menu shortcut. Launch File Explorer (see[how to launch File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ), and navigate to a folder containing some TXT or RTF files. Right-click an RTF or TXT document and select**Show more options** . Click**Open with WordPad** to bring up the right-clicked document in that app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Erase the WordPad Context Menu Shortcuts
 
@@ -104,6 +100,10 @@ Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\WordPad\command`
  Then right-click the**Open with WordPad** or**WordPad** key to select a**Delete** option. A dialogue box will open requesting confirmation to erase. Select**Yes** if you’re sure about deleting the key.
 
 ![The Delete option for registry keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-delete-option2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make the Most of Your WordPad Context Menu Shortcuts
 
@@ -124,14 +124,22 @@ Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\WordPad\command`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-the-ultimate-action-recorder-an-overview-of-panasonics-hx-a1/"><u>[New] The Ultimate Action Recorder An Overview of Panasonic's HX-A1</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-mastering-chrono-translocation-techniques/"><u>[Updated] 2024 Approved Mastering Chrono-Translocation Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-reduce-app-dimensions-using-keyboard-in-windows-11/"><u>Efficiently Reduce App Dimensions Using Keyboard in Windows 11</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-thrifty-sky-surfers-cheapest-drones-on-market/"><u>In 2024, Thrifty Sky Surfers Cheapest Drones on Market</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-system-resources-boosting-android-studio-on-windows/"><u>Leveraging System Resources: Boosting Android Studio on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-connectivity-assurance-on-your-pc/"><u>Mastering Connectivity Assurance on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-through-chrome-time-discreprancies-windows/"><u>Navigate Through Chrome Time Discreprancies (Windows)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-methods-resolving-windows-10s-sound-malfunctions-with-ease/"><u>Quick-Fix Methods: Resolving Windows 10'S Sound Malfunctions with Ease</u></a></li>
-<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-break-free-top-10-exclusive-web-photo-workstations/"><u>[New] In 2024, Break Free Top 10 Exclusive Web Photo Workstations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/complete-guide-disconnecting-a-printer-from-your-pc-running-on-windows-11-or-10/"><u>Complete Guide: Disconnecting a Printer From Your PC Running on Windows 11 or 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/contents-of-a-standard-nintendo-switch-packaging-setup/"><u>Contents of a Standard Nintendo Switch Packaging Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-biometrics-what-are-these-technologies-all-about/"><u>Decoding Biometrics: What Are These Technologies All About?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-pathway-to-windowsstore-folder/"><u>Decoding the Pathway to WindowsStore Folder</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-def-streaming-cameras-for-social-media-giants-for-2024/"><u>High-Def Streaming Cameras for Social Media Giants for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-s17e-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo S17e To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-concealment-of-wireless-networks-windows-style/"><u>Masterful Concealment of Wireless Networks, Windows Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-java-install-glitches/"><u>Mastering the Art of Fixing Java Install Glitches</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/quick-solutions-resolving-the-80004001-error-on-windows-11-without-hassle/"><u>Quick Solutions: Resolving the 80004001 Error on Windows 11 Without Hassle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reigniting-screen-brilliance-overcoming-windows-11-limits/"><u>Reigniting Screen Brilliance: Overcoming Windows 11 Limits</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/restoring-default-sound-configuration-on-windows-a-step-by-step-guide/"><u>Restoring Default Sound Configuration on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrect-your-device-reviving-dead-usb-connections-win/"><u>Resurrect Your Device: Reviving Dead USB Connections Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slowing-down-lifes-exuberance-in-your-windows-environment/"><u>Slowing Down Life's Exuberance in Your Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-install-microsofts-pc-manager/"><u>Steps to Install Microsoft's PC Manager</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/taming-language-through-ai-understanding-bot-content-filters/"><u>Taming Language Through AI: Understanding Bot Content Filters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win10-repairing-directionally-inconsistent-headphone-output/"><u>Win10: Repairing Directionally Inconsistent Headphone Output</u></a></li>
 </ul></div>
 

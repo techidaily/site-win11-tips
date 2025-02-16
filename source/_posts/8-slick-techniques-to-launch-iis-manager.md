@@ -1,7 +1,7 @@
 ---
 title: 8 Slick Techniques to Launch IIS Manager
-date: 2024-08-16T01:18:15.632Z
-updated: 2024-08-17T01:18:15.632Z
+date: 2025-02-11T02:18:26.384Z
+updated: 2025-02-15T18:43:07.258Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
  In this article, we’ll check out why it’s worth using the IIS Manager. From there, we’ll explore the various ways to access this tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Is the Internet Information Services Tool Useful?
 
 ![An illustration of questions and answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-questions-and-answers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you create a website, you’d usually want to test it first before hosting it on the internet. This helps you ensure that everything works properly.
 
@@ -42,8 +50,9 @@ To add and test a website using the IIS tool, follow these steps:
  You’ve learned how to open the IIS tool using the Run command dialog box. Now, let’s explore the various other ways to access this tool.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Open the IIS Manager Using the Start Menu Search Bar
 
  Want to easily open any app on your Windows device? Try using the Start menu search bar.
@@ -54,13 +63,7 @@ To add and test a website using the IIS tool, follow these steps:
 2. Type**Internet Information Services** and select the**Best match** .
 
 ![Opening the IIS Manager Using the Start Menu Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-start-menu-search-bar.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Open the IIS Manager Using the Start Menu
 
  The Start menu is a place where you can find most of your apps. So, let’s check out how you can access the IIS Manager from the Windows Start menu:
@@ -70,9 +73,6 @@ To add and test a website using the IIS tool, follow these steps:
 3. Locate and select the**Internet Information Services (IIS) Manager** .
 
 ![Opening the IIS Manager Using the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-start-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 3\. Open the IIS Manager Using the File Explorer Address Bar
 
@@ -86,9 +86,6 @@ To add and test a website using the IIS tool, follow these steps:
 2. Type**InetMgr.exe** in the File Explorer address bar and press**Enter** .
 
 ![Opening the IIS Manager Using the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-file-explorer-address-bar.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Open the IIS Manager Using the Task Manager
 
@@ -102,8 +99,9 @@ Here’s how to access the IIS Manager using the Task Manager:
 4. Type**InetMgr.exe** in the search box and press**OK** .
 
 ![Opening the IIS Manager Using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-task-manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Open the IIS Manager Using the Control Panel
@@ -119,9 +117,17 @@ Here’s how to access the IIS Manager using the Task Manager:
 
 ![Opening the IIS Manager Using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Open the IIS Manager Using the Command Prompt or PowerShell
 
 ![Person using a Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-using-a-Windows-PC.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Command Prompt and PowerShell also make it easy for you to access most of the apps on your device. So, we’ll check out how these tools can help you access the IIS Manager.
 
@@ -141,12 +147,13 @@ Here’s how to open the IIS Manager using the Command Prompt:
 
 `InetMgr.exe`
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Open the IIS Manager From the Windows System32 Directory
 
 ![A lady using a Windows PC while sitting on a bench](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-sitting-on-a-bench.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can access most of the apps on Windows by double-clicking on the relevant files in the System32 folder.
 
@@ -160,9 +167,6 @@ Here’s how to open the IIS Manager using the Command Prompt:
 6. Locate and double-click on the**InetMgr** option.
 
 ![Selecting the InetMgr option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/selecting-the-inetmgr-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
  Want to make the IIS Manager easily accessible at all times? If so, then you should consider pinning this tool to the taskbar.
 
@@ -183,21 +187,15 @@ Here’s how to open the IIS Manager using the Command Prompt:
 
  Now, your desktop shortcut is ready. To make things easier, you should consider pinning this desktop shortcut to the taskbar.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## What’s Your Favorite Method for Accessing the IIS Tool?
 
  The Windows Internet Information Services (IIS) tool makes it easy for you to test your website before hosting it on the internet. This can help you ensure that your site runs smoothly and is user-friendly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -206,8 +204,21 @@ Here’s how to open the IIS Manager using the Command Prompt:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-overcoming-grey-screens-in-gaming-recording-for-2024/"><u>[New] Overcoming Grey Screens in Gaming Recording for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-simplified-techniques-to-winrm-tool/"><u>10 Simplified Techniques to WinRM Tool</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-art-of-crafting-impactful-hashtags-for-instagram-content/"><u>2024 Approved The Art of Crafting Impactful Hashtags for Instagram Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/2024s-top-windows-gear-a-comprehensive-review-list/"><u>2024'S Top Windows Gear - A Comprehensive Review List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-incompatibility-between-windows-and-fingerprint-device/"><u>Addressing Incompatibility Between Windows and Fingerprint Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-resources-windows-task-management/"><u>Balancing Resources: Windows Task Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-startup-efficiency-altering-boot-menu-delay/"><u>Boosting Startup Efficiency: Altering Boot Menu Delay</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ied-design-making-your-youtube-banner-unforgettable-for-2024/"><u>Gamified Design Making Your YouTube Banner Unforgettable for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-oppo-reno-10-proplus-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo Reno 10 Pro+ 5G Phone that is Locked?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oppo-a1x-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Oppo A1x 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719363450902-mastering-the-art-of-total-windows-screen-capturing-with-these-4-tips/"><u>Mastering the Art of Total Windows Screen Capturing with These 4 Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-guide-to-recording-video-without-auditory-disruption-for-2024/"><u>The Ultimate Guide to Recording Video without Auditory Disruption for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/troubleshooting-your-video-shorts-invisible-thumbnail-for-2024/"><u>Troubleshooting Your Video Short's Invisible Thumbnail for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-and-tricks-resolving-iphone-remote-app-glitches-effectively/"><u>Ultimate Tips and Tricks: Resolving iPhone Remote App Glitches Effectively</u></a></li>
+</ul></div>
 

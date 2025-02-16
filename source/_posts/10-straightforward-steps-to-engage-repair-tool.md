@@ -1,7 +1,7 @@
 ---
 title: 10 Straightforward Steps to Engage Repair Tool
-date: 2024-08-16T01:21:38.710Z
-updated: 2024-08-17T01:21:38.710Z
+date: 2025-02-09T02:39:32.493Z
+updated: 2025-02-16T02:41:33.050Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 
 ![Typing RecoveryDrive in the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Typing-RecoveryDrive-in-the-Run-command-dialog-box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use the Start Menu Search Bar
 
  The Start menu search bar also makes it easy for you to open almost any program on your PC, including third-party apps.
@@ -45,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 
 ## 3\. Use the Start Menu
 ![Person using a Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-using-a-Windows-PC.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
  Running into issues while using the Start menu search bar? If so, then you can access the Recovery Drive tool using the Start menu.
 
@@ -69,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 2. Type **RecoveryDrive** in File Explorer's address bar and press **Enter**.
 
 ![Typing RecoveryDrive in the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Typing-RecoveryDrive-in-the-File-Explorer-Address-Bar.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use the System Settings
@@ -83,8 +78,13 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 2. Type **Recovery Drive** in the search box and then click the relevant option.
 
 ![Typing Recovery Drive in the settings search box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Typing-Recovery-Drive-in-the-settings-search-box.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Use the Control Panel
@@ -100,8 +100,9 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 5. Select **Create a recovery drive** on the next screen to open the Recovery Drive app.
 
 ![Clicking the Create a recovery drive option on the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-Create-a-recovery-drive-option-on-the-Control-Panel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Search for the Recovery Drive App in the System32 Directory
@@ -117,17 +118,15 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 5. Locate the **RecoveryDrive** file and double-click on it to access the Recovery Drive app.
 
 ![Clicking the RecoveryDrive option in the System32 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-RecoveryDrive-option-in-the-System32-folder.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make things easier, you can pin the RecoveryDrive executable (.exe) file to your taskbar. That way, you’ll be able to easily access the Recovery Drive app at all times.
 
  To pin the Recovery Drive app to the taskbar, right-click on the **RecoveryDrive** file in the System32 folder and then select **Pin to taskbar**.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Use the Task Manager
 
  The Task Manager can help you force close Windows programs (although you can [force close a Windows program without the Task Manager](https://www.makeuseof.com/tag/how-to-kill-unresponsive-programs-without-the-task-manager/)) or analyze your PC’s performance. Now, the good news is that this tool can also help you open various apps.
@@ -140,18 +139,9 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 4. Type **RecoveryDrive** in the search box and press **OK** to access the Recovery Drive app.
 
 ![Opening the Recovery Drive app using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-Recovery-Drive-app-using-the-Task-Manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Use the Command Prompt or PowerShell
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  You can always use the Command Prompt or PowerShell to configure some settings or troubleshoot system issues. Now, we’ll check out how you can use these tools to open the Recovery Drive app.
 
@@ -173,8 +163,16 @@ RecoveryDrive
 
 RecoveryDrive
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Use a Recovery Drive Desktop Shortcut
 ![A person using a Windows computer on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-computer-on-a-brown-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One of the easiest ways to access the Recovery Drive app is by using a desktop shortcut. But if you don't have the Recovery Drive shortcut, then you can create it through these steps:
 
@@ -184,6 +182,10 @@ RecoveryDrive
 4. Press **Next** to continue.
 
 ![Creating the RecoveryDrive desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Creating-the-RecoveryDrive-desktop-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Type **Recovery Drive App** or something similar in the **Name** box. From there, press the **Finish** button.
 
@@ -195,14 +197,11 @@ RecoveryDrive
 
  And if you want more ways to diagnose and fix your PC problems, check out the Windows Recovery Environment tool.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -211,8 +210,19 @@ RecoveryDrive
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-journey-through-podcast-land-iphoneipad-edition/"><u>[Updated] 2024 Approved Journey Through Podcast Land IPhone/iPad Edition</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-maximize-impact-with-tiktok-videos-from-your-personal-computer-or-mac-for-2024/"><u>[Updated] Maximize Impact with TikTok Videos From Your Personal Computer or MAC for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-poco-c51-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cool-running-tech-maintaining-moderate-temperatures-while-gaming/"><u>Cool Running Tech: Maintaining Moderate Temperatures While Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-no-connection-to-ea-servers-on-your-pc/"><u>Fixing No Connection to EA Servers on Your PC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/from-delivery-to-discovery-enhancing-initial-encounters/"><u>From Delivery to Discovery Enhancing Initial Encounters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-activate-w11s-accelerated-support-mode/"><u>How to Activate W11’s Accelerated Support Mode</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-y27s-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo Y27s in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-honor-80-pro-straight-screen-edition-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Honor 80 Pro Straight Screen Edition for Parents | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-spotify-freeze-issue-in-windows-11-os/"><u>Resolving Spotify Freeze Issue in Windows 11 OS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-15-windows-10-recording-applications-reviewed-for-2024/"><u>Top 15 Windows 10 Recording Applications Reviewed for 2024</u></a></li>
+</ul></div>
 

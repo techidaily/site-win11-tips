@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Active Printer Service Errors in Windows
-date: 2024-12-16T16:10:52.707Z
-updated: 2024-12-22T05:40:38.990Z
+date: 2025-02-11T19:47:56.676Z
+updated: 2025-02-15T19:14:16.745Z
 tags:
   - windows10
   - windows11
@@ -43,19 +43,16 @@ thumbnail: https://thmb.techidaily.com/34062c0c76761441d1daaab882479cf039a7dd266
 3. In the right pane, scroll down and click on **Troubleshoot**.  
 ![windows 11 troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-11-troubleshoot.jpg)
 4. Next, click on **Other troubleshooters.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, click the **Run** button for the **Printer** option. The troubleshooter will scan the system and try to detect any issues.  
 ![windows 11 printer troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-11-printer-troubleshooter.jpg)
 6. Select the printer you want to troubleshoot and click **Next**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Wait for the scan to complete and check if it finds any problem. Then, apply the recommended fixes if available.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Restart Print Spooler Service
 
@@ -80,13 +77,14 @@ thumbnail: https://thmb.techidaily.com/34062c0c76761441d1daaab882479cf039a7dd266
 3. Here, locate the **Print Spooler** service.  
 ![print spooler service properties services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-properties-services.jpg)
 4. Right-click on **Print Spooler** and select **Properties**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the pop-up dialog that opens, click the drop-down for **Startup type** and select **Automatic.**  
 ![print spooler service properties services startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-properties-services-startup-type-automatic.jpg)
 6. Click **Apply** and **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. If it is already set to **Automatic**, then select **Disabled**. Click **Apply** and **OK** to save the changes.
 8. Now open the Print Spooler service properties and set the **Startup type** to **Automatic**.
@@ -94,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/34062c0c76761441d1daaab882479cf039a7dd266
 10. Close the Services snap-in and restart your PC. Next, create a print job and check if the error printer spooler service is not running is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Clear the Print Spooler Files
@@ -114,14 +112,14 @@ C:\Windows\System32\spool\PRINTERS
 8. Close File Explorer and go back to the **Services** snap-in.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![print spooler service start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-start.jpg)
 9. Select and right-click on the **Print Spooler** service and select **Start**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now create a new print job and check if the error is resolved. If not, disconnect and reconnect the printer to see if that helps.
@@ -140,10 +138,6 @@ C:\Windows\System32\spool\PRINTERS
 5. Open the **Firewall & network protection** tab in the left pane.  
 ![firewall and network protection windows defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/firewall-and-network-protection-windows-defender.jpg)
 6. Click on your currently active network **(Public / Private).**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Toggle the switch under **Microsoft Defender Firewall** to turn off **Firewall**. Click **Yes** if prompted by **UAC**.  
 ![turn off Microsoft defender firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/turn-off-Microsoft-defender-firewall.jpg)
@@ -166,6 +160,10 @@ C:\Windows\System32\spool\PRINTERS
 
  If no new updates are available, use your printer manufacturer’s website to download the latest driver for your printer model.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Uninstall and Reinstall the Printer Driver
 
  You can also uninstall the printer driver to perform a clean install of your printer. To remove a printer, first, you need to remove the device from the Settings and then remove the driver.
@@ -180,10 +178,14 @@ C:\Windows\System32\spool\PRINTERS
 ![uninstall printer settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/uninstall-printer-settings.jpg)
 5. Click the **Remove** button in the top right corner and click **Yes** to confirm the action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, restart your PC. After the restart, download the latest drivers for your printer from the manufacturer's website and complete the setup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the "Print Spooler Service Is Not Running" Error
@@ -192,24 +194,6 @@ C:\Windows\System32\spool\PRINTERS
 
  It is a common error associated with print jobs. However, the reasons for the error can vary. You may encounter this error when setting up a new printer, after installing an update, or upgrading your router. In any case, here are a few troubleshooting steps to help you resolve this error in Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mastering-visuals-and-audio-top-5-video-creators-guide/"><u>[New] 2024 Approved Mastering Visuals and Audio Top 5 Video Creators' Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-innovative-blueprint-top-6-futuristic-mc-villas/"><u>[New] Innovative Blueprint Top 6 Futuristic MC Villas</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-prime-screen-grabs-for-film-enthusiasts/"><u>[Updated] In 2024, Prime Screen Grabs for Film Enthusiasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-pip-functionality-in-microsoft-edge/"><u>[Updated] Navigating PIP Functionality in Microsoft Edge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delving-into-drive-designations-c-d/"><u>Delving Into Drive Designations (C:, D:)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dive-into-cmd-uncovering-five-fascinating-features/"><u>Dive Into CMD: Uncovering Five Fascinating Features</u></a></li>
-<li><a href="https://article-helps.techidaily.com/from-daily-use-to-extraordinary-experiences-phones-into-vr/"><u>From Daily Use to Extraordinary Experiences Phones Into VR</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-choosing-your-gopro-an-exhaustive-comparison/"><u>In 2024, Choosing Your GoPro An Exhaustive Comparison</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-glide-in-the-cold-highlighting-precision-in-snowboard-cross-events-22/"><u>In 2024, Glide in the Cold Highlighting Precision in Snowboard Cross Events, '22</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-terminal-5-amusing-stunts-for-command-line/"><u>Master the Terminal: 5 Amusing Stunts for Command Line</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-corrupted-file-error-0x80070570-on-modern-windows-oses/"><u>Solving Corrupted File Error 0X80070570 on Modern Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-cross-browser-copy-paste-glitches-in-chrome-edge-firefox/"><u>Solving Cross-Browser Copy Paste Glitches in Chrome, Edge, Firefox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-settings-restarting-and-clearing-windows-11-apps/"><u>Streamlined Settings: Restarting and Clearing Windows 11 Apps</u></a></li>
-<li><a href="https://discover-data.techidaily.com/top-rated-data-recovery-apps-for-iphone-on-windows-n-a-comprehensive-guide/"><u>Top Rated Data Recovery Apps for iPhone on Windows N: A Comprehensive Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -217,3 +201,17 @@ C:\Windows\System32\spool\PRINTERS
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-in-the-editors-shadows-top-tips-for-outstanding-videos/"><u>[New] In the Editor's Shadows Top Tips for Outstanding Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-method-for-removing-downloaded-youtube-videos/"><u>[Updated] 2024 Approved Method for Removing Downloaded YouTube Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unveiling-new-dimensions-past-manycams-scope/"><u>[Updated] In 2024, Unveiling New Dimensions Past ManyCam's Scope</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-the-best-in-class-bambu-lab-x1-carbon-3d-printer/"><u>Comprehensive Review of the Best in Class - Bambu Lab X1-Carbon 3D Printer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-proficiently-utilize-the-windows-print-device-manager/"><u>How To Proficiently Utilize the Windows Print Device Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-wasted-cpu-by-ntoskrnlexe-processes/"><u>Minimizing Wasted Cpu by Ntoskrnl.exe Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-isdonedll-failures-on-windows-1011/"><u>Troubleshooting ISDone.dll Failures on Windows 10/11</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win1011-reactivating-unresponsive-adobe-photoshop/"><u>Win10/11: Reactivating Unresponsive Adobe Photoshop</u></a></li>
+</ul></div>
+

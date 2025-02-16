@@ -1,7 +1,7 @@
 ---
 title: "Windows Shield: Adopt These 7 Secure Protocols"
-date: 2025-01-29T23:49:27.743Z
-updated: 2025-02-02T21:16:33.559Z
+date: 2025-02-14T17:10:50.886Z
+updated: 2025-02-15T17:43:53.915Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the Point of Security Measures Against Unauthorized Windows Access?
 
  At its core, using strong security measures on your Windows is really just about that: keeping your security tight, so you are not open to abrupt attacks.
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
  Putting in strong checks against such attacks, therefore, is essential. Let's look at all possible options on Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use a Strong PIN or Password
 
  Passwords are often the first things that spring to mind when you think of security. It's for a good reason.
@@ -48,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
  A strong password works like a digital lock, only letting in the people who enter the correct passcode. So if you work on a public network or if your PC is accessed by more than one person, you should have a strong password or PIN in place since yesterday.
 
 [Setting up a PIN on Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) is slightly different from putting a password on Windows. While both carry out a similar function, you might prefer one over the other depending on your interests. Whatever option you pick, make sure you always have a strong account encryption set up for your Windows from here on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Set Up Two-Factor Authentication on Your Microsoft Account
 
@@ -67,16 +55,24 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
  Weak antivirus protection can let any malware get an easy foothold on your PC, and from there, it's far too easy to obtain unauthorized access or take other malicious actions on your PC. [Enabling Windows Security](https://www.makeuseof.com/enable-windows-security-app-windows-10/) and setting up the best protection practices will be your best bet against such unauthorized action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Use a Firewall
 
 ![windows firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/winodws-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another critical aspect of Windows security, or any network for that matter, is a firewall. A firewall works by monitoring the traffic going in and out of your PC. Depending on the set rules, a firewall works by quickly blocking out any unauthorized entering or leaving of data from your PC.
 
  On Windows, this firewall is called the Windows Firewall, which you can enable or disable with the help of Windows Security. So be sure to [set up Windows Firewall](https://www.makeuseof.com/windows-11-open-firewall-control-panel/) and you will be good to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use BitLocker
@@ -88,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 ## 6\. Keep Your Windows Updated
 
 ![update on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows updates are a vital component for any PC. They patch up recurring bugs and bring in new features. Most importantly, they install the latest Windows security updates.
 
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
  Because social engineering scams involve fooling humans, there are limited tech hacks to counter them. In fact, the most significant way to avoid them is by being mindful of the present moment and refraining from taking instant reactions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best Ways to Stop Unauthorized Access to Your Windows Computer
@@ -129,14 +129,20 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-excellent-apps-to-keep-your-data-on-the-go-androids-cloud-keeper-list-for-2024/"><u>[New] Excellent Apps to Keep Your Data on the Go - Android's Cloud Keeper List for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-7-pro-tips-to-enhance-your-foodie-filmography/"><u>[Updated] 7 Pro Tips to Enhance Your Foodie Filmography</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/centrifugal-pumps-use-rotational-energy-from-an-impeller-to-create-fluid-flow/"><u>Centrifugal Pumps Use Rotational Energy From an Impeller to Create Fluid Flow.</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effective-strategies-to-avoid-computer-overheating-insights-from-yl-computing-and-yl-software/"><u>Effective Strategies to Avoid Computer Overheating - Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-windows-1011-climate-choices/"><u>Exclusive Windows 10/11 Climate Choices</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-6s-plus-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-voice-commands-xbox-and-pc-synergy/"><u>Mastering Voice Commands: Xbox & PC Synergy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/peak-potential-identifying-the-top-pc-boosters-for-windows/"><u>Peak Potential: Identifying the Top PC Boosters for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-c0000005-error-on-your-pcs-operating-system/"><u>Remedy for C0000005 Error on Your PC's Operating System</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-essence-of-timelessness-instagrams-slow-motion-guide/"><u>[Updated] In 2024, The Essence of Timelessness Instagram's Slow-Motion Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-complete-periscope-users-handbook-for-2024/"><u>[Updated] The Complete Periscope User's Handbook for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-set-sights-on-success-essential-background-music-for-gym-goers/"><u>2024 Approved Set Sights on Success Essential Background Music for Gym-Goers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-art-of-customizing-windows-photos-app-intertwining-visuals-and-audio/"><u>2024 Approved The Art of Customizing Windows Photos App Intertwining Visuals & Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/classic-refresh-a-modern-take-on-windows-98-vibe/"><u>Classic Refresh: A Modern Take on Windows 98 Vibe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-disabled-firewall-in-windows-os/"><u>How to Reactivate Disabled Firewall in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-recover-pasting-functionality-in-top-browsers/"><u>How to Recover Pasting Functionality in Top Browsers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/hpe-vs-inspur-legal-battle-over-patents-intensifies-amidst-allegations-of-unsanctioned-us-business-undertakings-by-chinese-company/"><u>HPE Vs. Inspur: Legal Battle Over Patents Intensifies Amidst Allegations of Unsanctioned U.S. Business Undertakings by Chinese Company</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-the-art-of-snapchat-sponsored-content/"><u>In 2024, Mastering the Art of Snapchat Sponsored Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808100292-say-goodbye-to-windows-11s-troublesome-error-0x80-grog-your-ultimate-fix-guide/"><u>Say Goodbye to Windows 11'S Troublesome Error 0X80 Grog - Your Ultimate Fix Guide!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skytop-techniques-for-elevated-fps-in-roblox/"><u>Skytop Techniques for Elevated FPS in Roblox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-to-enhanced-win1011-system-graphics-memory/"><u>Step-by-Step to Enhanced Win10/11 System Graphics Memory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-and-restore-bluetooth-devices-on-win/"><u>Troubleshoot and Restore Bluetooth Devices on WIN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-secrets-how-to-fix-the-no-server-error-in-pc-apex-legends-(156-chars/"><u>Unveiling Secrets: How to Fix the No-Server Error in PC Apex Legends (<156 Chars)</u></a></li>
 </ul></div>
 

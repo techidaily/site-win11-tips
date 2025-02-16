@@ -1,7 +1,7 @@
 ---
 title: Rebuilding a Non-Existent Windows Update Installation
-date: 2025-01-26T09:46:38.954Z
-updated: 2025-02-01T03:34:24.886Z
+date: 2025-02-11T22:37:17.408Z
+updated: 2025-02-15T18:19:20.446Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/de2b8c65401e9876b1b1a5fbf84a14916f9f22a18
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Windows Update Troubleshooter
 
  Both Windows 10 and 11 include a few troubleshooters to help you with common system-level issues. One of them is the Windows Update troubleshooter. While it does not guarantee to bring back the Windows Update service, it’s a troubleshooter worth trying nonetheless.
@@ -42,13 +38,13 @@ To run the Windows Update troubleshooter:
 ![Run Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-windows-update-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the troubleshooter to scan your computer and do its thing. If any issues are detected, it will try to fix them on its own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Scans
@@ -66,6 +62,10 @@ To run the Windows Update troubleshooter:
 
  After the scan is complete, restart your PC. Following that,[open the Services app](https://www.makeuseof.com/windows-11-open-services-app/) and see if you can find the Windows Update service.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Scan for Malware
 
  If the Windows Update service is still missing, you might be dealing with a virus or malware infection. To check for this possibility, you'll have to run a full system scan using the built-in Windows Security app. Here are the steps for the same.
@@ -76,10 +76,6 @@ To run the Windows Update troubleshooter:
 4. On the next screen, select the**Full scan** option.
 5. Click the**Scan now** button.  
 ![Scan for Malware on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-malware-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for Windows to finish scanning the computer and, if threats are found, apply the recommended fixes.
 
@@ -99,6 +95,10 @@ To run the Windows Update troubleshooter:
 6. Right-click the**wuauserv** , select**Export** , and save the key on your computer.  
 ![Registry Editor Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-window.jpg)
 7. Right-click the**wuauserv** again and select**Delete** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Select**Yes** to confirm.
 9. Exit the Registry Editor.
@@ -180,7 +180,7 @@ To run the Windows Update troubleshooter:
 13. Save the file with**.reg** extension.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 14. Double-click the reg file to run it. Select**Yes** if the User Account Control prompt appears.
@@ -223,18 +223,22 @@ To reset your Windows computer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-photoshops-stabilization-an-essential-tool-or-overrated-feature-for-2024/"><u>[New] Photoshop's Stabilization An Essential Tool or Overrated Feature for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-to-nba-streaming-top-15-essentials/"><u>[New] Step-by-Step Guide to NBA Streaming - Top 15 Essentials</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-win11s-best-videography-applications-explored/"><u>[New] Win11's Best Videography Applications Explored</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/drucke-deine-imessages-aus-effektive-methoden-zum-drucken-von-nachrichten-auf-dem-iphone/"><u>Drucke Deine iMessages Aus - Effektive Methoden Zum Drucken Von Nachrichten Auf Dem iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-disable-auto-play-of-spotify-in-windows/"><u>How to Disable Auto-Play of Spotify in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-recover-lost-internet-connection/"><u>How to Recover Lost Internet Connection?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-boosting-visual-impact-the-11-best-practices-for-color-workflow/"><u>In 2024, Boosting Visual Impact The 11 Best Practices for Color Workflow</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-infinix-smart-8-hd-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Infinix Smart 8 HD to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/process-xbox-purchase-returns-quickly/"><u>Process Xbox Purchase Returns Quickly</u></a></li>
-<li><a href="https://video-capture.techidaily.com/realtimevid-recorder-overview/"><u>RealTimeVid Recorder Overview</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-windows-sounds-after-disruption-by-glitches/"><u>Revitalize Windows Sounds After Disruption by Glitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-netflix-volume-woes-simple-tweaks-for-crystal-clear-audio/"><u>Solve Your Netflix Volume Woes – Simple Tweaks for Crystal Clear Audio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-correct-windows-10-error-code-c0000022/"><u>Steps to Correct Windows 10 Error Code C0000022</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-exploring-the-world-of-youtube-where-are-my-comments/"><u>[New] 2024 Approved Exploring the World of YouTube Where Are My Comments?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-achieving-professional-grade-vr-gameplay-captures/"><u>[New] In 2024, Achieving Professional-Grade VR Gameplay Captures</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-orchestrating-the-scene-adding-cropping-and-adjusting-music-in-canva/"><u>[New] Orchestrating the Scene Adding, Cropping & Adjusting Music in Canva</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-micro-videos-whats-the-gist/"><u>[Updated] Micro Videos What's the Gist?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-potential-of-gopro-for-time-lapse-artistry/"><u>[Updated] Unlocking the Potential of GoPro for Time Lapse Artistry</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-powerhouses-of-vr-engine-technology/"><u>[Updated] Unveiling the Powerhouses of VR Engine Technology</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-apk-journey-to-gaming-bliss-funimate-pro-guide/"><u>2024 Approved APK Journey to Gaming Bliss Funimate Pro Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windows-update-numbering-systems/"><u>Demystifying Windows Update Numbering Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-performance-of-faulty-windows-cleaners/"><u>Enhancing Performance of Faulty Windows Cleaners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-user-experience-3-ways-to-boost-mouse-speed/"><u>Enhancing User Experience: 3 Ways to Boost Mouse Speed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-samsung-galaxy-z-fold-5-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Samsung Galaxy Z Fold 5 Data? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-common-windows-onedrive-problems/"><u>Quick Fixes for Common Windows OneDrive Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reworking-the-windows-experience-a-triad-of-tips/"><u>Reworking the Windows Experience: A Triad of Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-turn-offon-smartfiltration-on-windows-11/"><u>Steps to Turn Off/On SmartFiltration on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-approach-from-mkv-to-mp4-on-windows-pcs/"><u>Streamlined Approach: From MKV to MP4 on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-outlook-performance-on-your-windows-machine/"><u>Supercharge Outlook Performance on Your Windows Machine</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-c67-4g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme C67 4G Device</u></a></li>
 </ul></div>
 

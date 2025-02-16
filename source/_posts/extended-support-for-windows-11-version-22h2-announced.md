@@ -1,7 +1,7 @@
 ---
 title: Extended Support for Windows 11 Version 22H2 Announced
-date: 2025-01-30T23:27:10.666Z
-updated: 2025-02-02T18:52:20.640Z
+date: 2025-02-11T00:08:25.776Z
+updated: 2025-02-16T03:32:11.385Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
  When Microsoft declares an end-of-support date, it usually sticks to it. However, in rare instances, Microsoft will change this date. Such is the case with Windows 11 version 22H2, which has been given a time extension for optional updates. But what does that mean, both in terms of Windows 11 generally and for your own computer?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's Happening to Windows 11 22H2's End of Support Date?
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
  According to Microsoft, this change occurred due to user feedback.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Defining an "Optional Update" in Windows
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
  Check out our guide to [what Windows optional updates are](https://www.makeuseof.com/windows-optional-updates-guide/) for more information about them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does This Mean for Windows 11 22H2 Users?
@@ -80,7 +80,7 @@ Zarif Ali / MakeUseOf
  As per [Microsoft Learn](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro), Windows Home and Pro will continue getting security updates until October 4, 2024, while the business editions get until October 14, 2025\. You can count this as the "hard deadline," after which you should either upgrade or change the operating system. However, it's always good to be proactive and make the jump as soon as possible (once any initial issues have been patched up).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Upgrade to the Current Version of Windows 11?
@@ -103,21 +103,21 @@ Zarif Ali / MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-unlock-potential-empowered-channel-expansion-via-youtube-insights/"><u>[New] 2024 Approved Unlock Potential Empowered Channel Expansion via YouTube Insights</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-fix-obs-not-recording-audio-for-2024/"><u>[Updated] How to Fix OBS Not Recording Audio for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-diy-tips-for-instant-custom-youtube-shorts-coverage/"><u>[Updated] In 2024, DIY Tips for Instant Custom YouTube Shorts Coverage</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-step-by-step-guide-to-protected-youtube-to-mp3-conversions-for-2024/"><u>[Updated] Step-by-Step Guide to Protected YouTube-to-MP3 Conversions for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-ergohead-standing-desk-pad-evaluation-ideal-for-extended-sessions/"><u>Comprehensive Ergohead Standing Desk Pad Evaluation - Ideal for Extended Sessions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/declutter-drive-space-recognizing-the-leviathans-in-windows-pcs/"><u>Declutter Drive Space: Recognizing the Leviathans in Windows PCs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/envisioning-innovations-4-game-changing-additions-for-gpt-5/"><u>Envisioning Innovations: 4 Game-Changing Additions for GPT-5</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/invisible-culprits-affecting-windows-11s-efficiency/"><u>Invisible Culprits Affecting Windows 11'S Efficiency</u></a></li>
-<li><a href="https://fox-info.techidaily.com/progressive-array-of-engaging-queries-for-podcasters-for-2024/"><u>Progressive Array of Engaging Queries for Podcasters for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-blue-screens-resulting-from-wins-intruder-exception/"><u>Quick Fixes for Blue Screens Resulting From Win's Intruder Exception</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-malfunctioning-office-notification-system/"><u>Solving Malfunctioning Office Notification System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essentials-for-successful-intel-lan-setup-on-vista/"><u>The Essentials for Successful Intel LAN Setup on Vista</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-2023-laptop-reveals-ifa-edition/"><u>Top 2023 Laptop Reveals - IFA Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-fitness-journey-with-these-8-innovative-chatgpt-add-ons/"><u>Transform Your Fitness Journey with These 8 Innovative ChatGPT Add-Ons</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-secure-boot-status-a-windows-bios-solution-manual/"><u>Unlocking Secure Boot Status: A Windows BIOS Solution Manual</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726219388908-movavi/"><u>스카이프 녹음을 위한 Movavi 전문점: 효과와 능력을 극대화하는 기법</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-space-saver-strategies-pioneering-the-best-cloud-platforms-for-2024/"><u>[New] Space-Saver Strategies Pioneering the Best Cloud Platforms for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-elevate-your-profile-with-vimeo-on-instagram/"><u>[Updated] 2024 Approved Elevate Your Profile with Vimeo on Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/download-and-save-your-cortana-activity-log/"><u>Download and Save Your Cortana Activity Log</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-update-error-a-step-by-step-guide/"><u>Fixing Windows Update Error: A Step-By-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-past-the-roadblock-solutions-for-unpreviewable-files-in-email-apps/"><u>Getting Past the Roadblock: Solutions for Unpreviewable Files in Email Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y56-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo Y56 5G Phone without Google Account?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-drone-transformed-with-yuneecs-typhoon-q500/"><u>In 2024, A Drone Transformed with Yuneec's Typhoon Q500</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-from-novice-to-pro-elevating-your-ps4-gameplay-screenshot-skills/"><u>In 2024, From Novice to Pro Elevating Your PS4 Gameplay Screenshot Skills</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-master-picks-for-commercial-cloud-space/"><u>In 2024, Master Picks for Commercial Cloud Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-clock-anomalies-in-google-chrome/"><u>Overcoming Windows Clock Anomalies in Google Chrome</u></a></li>
+<li><a href="https://article-helps.techidaily.com/picture-perfection-with-background-ipod-sounds-for-2024/"><u>Picture Perfection with Background iPod Sounds for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-accessible-wastecan-icon-on-windows-11/"><u>Reinstating Accessible Wastecan Icon on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-into-snap-mastery-configuring-windows-with-powertoys/"><u>Step-Into Snap Mastery: Configuring Windows with PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-notepad-freeze-issues/"><u>Troubleshooting Windows Notepad Freeze Issues</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/universal-method-for-screen-recording-across-systems/"><u>Universal Method for Screen Recording Across Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-6-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 6 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
 

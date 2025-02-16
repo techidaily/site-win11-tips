@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Turn Filter Keys On or Off on Windows
-date: 2024-08-16T01:16:13.242Z
-updated: 2024-08-17T01:16:13.242Z
+date: 2025-02-12T16:28:07.026Z
+updated: 2025-02-16T00:18:43.277Z
 tags:
   - windows10
   - windows11
@@ -35,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
  Like using keyboard shortcuts on Windows? Why not check our [ultimate guide to Windows keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Enable or Disable Filter Keys via the Settings App
 
  Another quick way to turn Filter Keys on or off on Windows is via the Settings app. For that, you will need to visit the Accessibility tab in the Settings app. Here are the steps you can follow.
@@ -46,13 +47,15 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 3. Under the**Interaction** section, click on**Keyboard** .
 4. Use the toggle next to the**Filter keys** to enable or disable it. You can click on Filter keys to further customize the feature to your liking.  
 ![Turn Filter Keys On or Off via the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-settings-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Enable or Disable Filter Keys Using the Control Panel
 
  Although Microsoft plans to retire Control Panel at some point in the future, you can use it to configure most of the settings on your Windows computer for now.
@@ -68,8 +71,9 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 7. Use the checkbox next to**Turn on Filter Keys** to enable or disable the feature.
 8. Click**Apply** followed by**OK** to save the changes.  
 ![Turn Filter Keys On or Off via the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-control-panel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Enable or Disable Filter Keys From the Sign-In Screen
@@ -79,29 +83,24 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 1. On the sign-in screen, click the**Accessibility** icon in the bottom right corner of the screen.
 2. Use the toggle next to**Filter keys** to enable or disable it.  
 ![Turn Filter Keys On or Off via the Sign-in Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-sign-in-screen.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similarly, you can also enable or disable Sticky Keys from the sign-in screen. For more information on this, check our guide on [different ways to turn Sticky Keys on or off on Windows 11](https://www.makeuseof.com/windows-11-sticky-keys-on-off/) .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Enabling or Disabling Filter Keys on Windows Is Easy
 
  As we just saw, enabling or disabling Filter Keys on your Windows 10 or 11 computer should be a quick process, regardless of the method you use.
 
  Filter Keys isn’t the only accessibility feature available in Windows. If you need some extra help using your computer, there are plenty of useful accessibility options on Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,8 +109,21 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-lens-and-light-essential-camera-movements-every-novice-needs/"><u>[New] 2024 Approved Lens & Light Essential Camera Movements Every Novice Needs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ios-leading-ps2-simulators-top-picks/"><u>[New] In 2024, IOS Leading PS2 Simulators Top Picks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-boost-engagement-through-best-thumbnail-practices/"><u>[Updated] 2024 Approved Boost Engagement Through Best Thumbnail Practices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-adding-emulators-to-playnite-on-pc/"><u>A Step-by-Step Guide: Adding Emulators to Playnite on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/actions-to-take-when-facing-invalid-name-on-pc/"><u>Actions to Take When Facing Invalid Name on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjust-clockdate-display-in-window-11-interface/"><u>Adjust Clock/Date Display in Window 11 Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-application-runtime-to-compensate-for-lack-of-qt-plugins/"><u>Adjusting Application Runtime to Compensate for Lack of Qt Plugins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-sign-in-restrictions-after-errors/"><u>Adjusting Windows Sign In Restrictions After Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/android-access-windows-shared-folders/"><u>Android: Access Windows Shared Folders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-freezing-your-gameplay-xbox-one-screenshot-essentials/"><u>In 2024, Freezing Your Gameplay Xbox One Screenshot Essentials</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/saying-i-love-you-in-over-50-countries-today/"><u>Saying 'I Love You' In Over 50 Countries Today</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unveiling-secrets-to-effective-snapchat-pins/"><u>Unveiling Secrets to Effective Snapchat Pins</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-beyond-fcpx-10-video-editing-solutions-for-every-budget-for-2024/"><u>Updated Beyond FCPX 10 Video Editing Solutions for Every Budget for 2024</u></a></li>
+</ul></div>
 

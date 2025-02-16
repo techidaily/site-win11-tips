@@ -1,7 +1,7 @@
 ---
 title: 10 New Windows 11 Perks After Version Update
-date: 2024-08-16T01:20:56.538Z
-updated: 2024-08-17T01:20:56.538Z
+date: 2025-02-12T18:05:06.604Z
+updated: 2025-02-16T03:40:52.722Z
 tags:
   - windows10
   - windows11
@@ -23,15 +23,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
  Microsoft has rolled out a slew of new features for Windows 11\. Contrary to expectations, an optional Moment 4 update added many of the new features the 23H2 build update was expected to introduce to Windows 11\. Moment 4 dropped more than 100 new features for users to discover. These are some of the more noteworthy.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Is It the Moment 4 or Windows 11 23H2 Update?
 
  The September 26, 2023, release of the Moment 4 update caused some confusion about the Windows 11 23H2 update. It was previously anticipated the Windows 11 23H2 update would introduce all new features in the fourth quarter of 2023\. However, many of those features became available for Windows 11 version 22H2 as part of the Moment 4 package.
@@ -45,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
  Windows Copilot is the replacement virtual assistant for the deprecated Cortana. So, you can ask Windows Copilot questions about many things, much the same as Cortana. For example, you could utilize Windows Copilot as a calculator by asking it to do sums. Or check the weather by asking Windows Copilot what the weather forecast is for your location.
 
 ![The Copilot virtual assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/copilot-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
  As a replacement for an old Windows feature, some users might not consider Windows Copilot to be new. However, it is a sophisticated AI tool that can do more than Cortana. For example, Windows Copilot has options for summarizing, rewriting, and explaining documents. Plus, you can select different conversational style options in Copilot.
 
@@ -56,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
  Windows Backup is a new cloud backup app that the Moment 4 Update introduced to Windows 11\. This tool enables you to back up files and folders to OneDrive cloud storage. It’s a straightforward tool that lets you back up folders, documents, pictures, and Windows settings to a OneDrive cloud storage account.
 
 ![The Windows Backup app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-backup-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This feature can come in handy for backing up and restoring files and settings when migrating from one Windows 11 PC to another. Check out our [guide to the Windows Backup feature](https://www.makeuseof.com/windows-11-new-backup-feature-guide/) for details about how to utilize that app.
@@ -73,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
  You should be able to find those new settings via the search tool. Input **dynamic lighting** into the search tool. Then select the **Change lighting colors** search result to bring up the Dynamic Lighting section of the **Personalization** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Taskbar Label Settings
 
  Taskbar labels show you the titles for software windows minimized to the taskbar. Of course, that’s not exactly a new feature since Windows platforms dating back to 1995 had taskbar labels until Microsoft removed them from Windows 7\.
@@ -84,18 +70,20 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
 ![The Combine taskbar buttons and hide labels option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/combine-taskbar-buttons.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can access these new settings by right-clicking Windows 11’s taskbar and selecting **Taskbar settings**. Click **Taskbar behaviors** and the **Combine taskbar** **buttons and hide labels** drop-down menu. Selecting **Never** will enable window taskbar labels.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Extended Compression Support
 
  The Moment 4 update extended Windows 11’s archive support, which was previously limited to ZIP. You can now extract RAR, TAR, and 7Z archives with Windows 11’s extraction utility. However, please note that you can’t create those archive formats with Windows 11’s archive utility at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. An Updated Paint App
 
  Windows 11 now has an updated Paint app. The revamped Paint app includes an option for removing backgrounds from images. Clicking **Remove background** erases the backdrop from a picture.
@@ -103,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 ![The Remove background option in Paint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/remove-background-option.jpg)
 
  Plus, the updated Paint app now supports dark mode. That means you can [select a Dark mode within Paint](https://www.makeuseof.com/dark-mode-microsoft-paint/) to turn that app black without changing the whole system theme. Or you can select alternative **Light** or **System setting** options for Paint’s theme.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. A Volume Mixer in Quick Settings
 
@@ -113,15 +105,14 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
  Plus, the Quick Settings panel also includes new **Output device** and **Spatial sound** settings. The **Output device** option is especially handy to have more directly accessible. You can access all of these new settings by clicking the button on the right side of the Quick Settings volume bar.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Check Out Windows 11's New Features
 
  Those are just some new features Windows 11 users have been treated to since Microsoft released the Moment 4 update. That update has also tweaked the interface designs of File Explorer and Settings and added new features to the pre-installed Photos, Microsoft Store, Notepad, Clipchamp, and Snipping Tool apps.
 
  Microsoft has rolled out a slew of new features for Windows 11\. Contrary to expectations, an optional Moment 4 update added many of the new features the 23H2 build update was expected to introduce to Windows 11\. Moment 4 dropped more than 100 new features for users to discover. These are some of the more noteworthy.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -130,5 +121,18 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-master-the-art-of-directing-powerdirectors-complete-guide-for-2024/"><u>[New] Master the Art of Directing PowerDirector's Complete Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-insightful-review-the-comprehensive-theta-s-experience/"><u>[Updated] In 2024, Insightful Review The Comprehensive Theta S Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-steams-file-lock-error-and-fixes/"><u>Deciphering Steam’s File Lock Error and Fixes</u></a></li>
+<li><a href="https://win-data.techidaily.com/easy-steps-to-revert-your-iphone-xs-to-a-previous-backup/"><u>Easy Steps to Revert Your iPhone XS to a Previous Backup</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leveraging-free-luts-a-pathway-to-improved-obs-streaming/"><u>Leveraging Free LUTs A Pathway to Improved OBS Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-the-stumbling-block-fixing-the-missing-wwinplusprint-on-pc/"><u>Overcome The Stumbling Block: Fixing the Missing WWin+Print on PC.</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpoint-customization-techniques-for-windows-11-search/"><u>Pinpoint Customization Techniques for Windows 11 Search</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionary-wraps-transforming-virtual-reality-play-for-2024/"><u>Revolutionary Wraps Transforming Virtual Reality Play for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-the-past-adding-trophies-and-awards-to-classic-titles-using-retroarch/"><u>Upgrade the Past - Adding Trophies and Awards to Classic Titles Using Retroarch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-a-crossed-out-icon-mean-for-your-files/"><u>What Does a Crossed Out Icon Mean for Your Files?</u></a></li>
+</ul></div>
 

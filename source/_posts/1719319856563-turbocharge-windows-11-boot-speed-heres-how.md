@@ -1,7 +1,7 @@
 ---
 title: Turbocharge Windows 11 Boot Speed – Here’s How!
-date: 2024-08-16T01:19:14.599Z
-updated: 2024-08-17T01:19:14.599Z
+date: 2025-02-09T21:56:44.080Z
+updated: 2025-02-15T21:21:43.450Z
 tags:
   - windows10
   - windows11
@@ -35,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa45
  If you’re unsure whether a program is considered safe to be disabled, you may want to check out our dedicated guide [here](https://www.makeuseof.com/tag/make-windows-start-faster-10-non-essential-startup-items-can-safely-remove/) .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Enable Fast Startup
 
 [Windows Fast Startup](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) is a useful Windows 11 feature that does exactly what its name suggests—it helps your PC boot up faster. Unfortunately, enabling Fast Startup mode can sometimes have unintended consequences.
@@ -45,55 +46,54 @@ thumbnail: https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa45
 
 1. We first need to ensure Hibernation mode is enabled on the Windows 11 system. To do that, right-click on the**Start** menu and select**Terminal (Admin)** .  
 ![enable hibernation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-hibernation.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Within the Terminal window, type the below command and hit enter to turn on the Hibernate mode:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Powercfg -h on`
 3. Launch the**Control Panel** via the**Start** menu.
 4. Navigate to**System and Security > Power Options** .  
 ![power plans in control-panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/powerplans-control-panel.jpg)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 5. From the left sidebar menu, select**Choose what the power button does** .  
-![enable-fast-startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-fast-startup.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![enable-fast-startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-fast-startup.jpg)
 6. Select**Change settings that are currently available** .
 7. Under**Shutdown settings** , check the**Turn on fast startup (recommended) option** .
 8. Finally, select**Save changes** and restart your PC to see Fast Startup in action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Upgrade Hardware
 
  Hardware upgrades are one certain way of making your PC boot faster. SSD and RAM upgrades can make your Windows 11 PC boot as quickly as a brand-new PC, which is relatively inexpensive (compared to a new PC).
 
 ![Samsung T3 SSD on a MacBook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/protect-external-hard-drive.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  SSDs are much faster than traditional HDDs but can be a bit pricey. An SSD will ensure fast bootup and overall smoother system performance, so we highly recommend upgrading to an SSD (you can also consider [replacing a laptop's DVD drive with an SSD](https://www.makeuseof.com/tag/swap-laptop-dvd-drive-ssd-hdd/) ).
 
  If an SSD seems a little out of budget, you should at least upgrade your RAM. For systems currently running 4GB RAM, consider upgrading to at least 8GB RAM.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Start Your Windows 11 PC Faster
 
  Windows 11 is excellent but can have performance issues on older PCs. We recommend disabling unnecessary startup programs and enabling the Fast Startup mode. However, upgrading to an SSD is the best way to speed up the boot process. Alternatively, you can disable unnecessary Windows services to help your PC boot faster.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,8 +102,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-frozen-windows-hibernate/"><u>Breathing Life Into Frozen Windows Hibernate</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-systems-android-to-windows-shared-files/"><u>Bridging Systems: Android to Windows Shared Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-fixing-win11-ccleaner-problems/"><u>Bridging the Gap: Fixing Win11 CCleaner Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-windows-update-service-quickly/"><u>Bring Back Windows Update Service Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-pin-for-smooth-projections-on-windows-11/"><u>Bypass PIN for Smooth Projections on WIndows 11</u></a></li>
+<li><a href="https://win-studio.techidaily.com/exploring-the-new-releases-a-detailed-look-into-microsofts-october-surface-launches-zdnet-report/"><u>Exploring the New Releases: A Detailed Look Into Microsoft's October Surface Launches | ZDNet Report</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fb-live-tv-broadcast-4-innovative-methods/"><u>FB Live TV Broadcast 4 Innovative Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guia-para-fijar-y-ajustar-la-grabacion-de-video-tecnicas-compatibles-con-pc-mac-android-e-ios/"><u>Guía Para Fijar Y Ajustar La Grabación De Video: Técnicas Compatibles Con PC, Mac, Android E iOS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-spark-20-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Spark 20 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-top-criteria-for-selecting-fpv-drones-propellers/"><u>In 2024, Unveiling Top Criteria for Selecting FPV Drones' Propellers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-which-video-editor-reigns-supreme-final-cut-pro-vs-lumafusion/"><u>New 2024 Approved Which Video Editor Reigns Supreme? Final Cut Pro vs LumaFusion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-great-ai-debate-on-social-platforms/"><u>The Great AI Debate on Social Platforms</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-the-behind-the-scenes-utilizing-facebooks-transparent-center/"><u>Understanding the 'Behind-the-Scenes': Utilizing Facebook's Transparent Center</u></a></li>
+</ul></div>
 

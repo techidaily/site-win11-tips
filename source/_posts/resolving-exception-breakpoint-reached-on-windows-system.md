@@ -1,7 +1,7 @@
 ---
 title: Resolving Exception Breakpoint Reached on Windows System
-date: 2025-01-31T23:33:51.173Z
-updated: 2025-02-02T18:28:57.084Z
+date: 2025-02-09T20:01:28.150Z
+updated: 2025-02-16T04:01:33.929Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/2151304b15358b5e0486365b1b4e0f5fc2185a445
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disable Any Automatic Startup Apps
 
  Apart from the essential Windows services, third-party apps enabled to run during startup can cause conflicts and cause problems. To determine the cause, disable all the automatic startup apps and restart your PC.
@@ -42,11 +38,11 @@ To disable startup apps on Windows:
 5. Select all the apps one by one and click**Disabled** .  
 ![disable startup apps windows 11 new](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/disable-startup-apps-windows-11-new.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, restart your PC and check if the error persists. If not, enable the apps again one by one until you find the problematic application. Depending on the use, you can update, uninstall or find an alternative for the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the System File Checker and the DISM Tools
 
@@ -71,6 +67,10 @@ Follow these steps to run the DISM and System File Checker tools:
 7. This process can take some time to complete. Once the verification reaches 100%, it will display the result and any actions taken.
 8. Type**exit** and press**Enter** to close Command Prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Check Your Hard Drive for Errors With CHKDSK
 
  Check Disk (CHKDSK) is a Windows command-line utility to find and fix issues on your hard drive due to bad sectors. You can run the tool on your traditional mechanical hard drive and Solid State Drives (SSDs).
@@ -88,7 +88,7 @@ To run the CHKDSK tool:
  When executed, it will scan and check your system drive (C:/) for bad sectors. Wait for the scan to finish and close the Command Prompt window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Any GPU Overclocking
@@ -113,16 +113,16 @@ To run the CHKDSK tool:
 ![Windows memory diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tooljpg.jpg)
 6. You can also perform**Basic, Standard, or Extended** test manually. To do this, press**F1** to access the**Options** menu and select from the**Basic, Standard, and Extended** option under the**Test Mix** section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
 8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
 
 ## 6\. Create a New Windows Local Account
 
  A corrupted user profile may cause the "the exception breakpoint has been reached" error. To fix the error, you can[create a new user local user profile on Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) and give it administrator privilege. Sign into your new user profile and launch the app to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Update or Uninstall the Problematic App
 
@@ -138,12 +138,12 @@ To uninstall an application on Windows:
 ![windows 11 settings installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-installed-apps.jpg)
 4. Type the name of your app in the search bar.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
 5. Next, click**the three-dots menu** next to the app name and**Uninstall** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Click on**Uninstall** again to confirm the action.
 7. Once uninstalled, download the app installer and install the app. Restart your PC and check for any improvements.
@@ -169,17 +169,21 @@ To uninstall an application on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-new-horizons-a-look-at-movavi-video-editor-plus-2024/"><u>[New] New Horizons A Look at Movavi Video Editor Plus 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-how-to-join-google-meet-on-laptop-and-mobile/"><u>[Updated] In 2024, How to Join Google Meet On Laptop and Mobile?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-error-0x80131500-on-microsoft-store/"><u>Disabling Error 0X80131500 on Microsoft Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-management-navigating-taskbar-with-windows-hotkeys/"><u>Effortless Management: Navigating Taskbar with Windows Hotkeys</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Phone FRP Lock</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-the-ultimate-guide-to-metaverse-memes-and-diy-humor-mastery/"><u>In 2024, The Ultimate Guide to Metaverse Memes and DIY Humor Mastery</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/next-level-digital-hygiene-stellars-windows-standard-file-purging-suite-and-scheduler/"><u>Next-Level Digital Hygiene: Stellar's Windows Standard File Purging Suite & Scheduler</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reducing-windows-hosts-overuse-a-guide/"><u>Reducing Windows Host's Overuse: A Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resurgence-of-apples-enigmatic-homeos-seen-again-in-latest-tvos-development-leak-insights/"><u>Resurgence of Apple's Enigmatic homeOS Seen Again in Latest tvOS Development Leak - Insights</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-lenovo-display-stop-screen-flicker/"><u>Solving Lenovo Display: Stop Screen Flicker</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-5-cost-free-windows-audio-cleaners/"><u>Top 5 Cost-Free Windows Audio Cleaners</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-radial-blur-photoshop-edition/"><u>[Updated] Mastering Radial Blur Photoshop Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/feel-good-pop-anthems-by-microsoft-a-collection-specifically-chosen-for-their-positive-cheerful-melodies-and-lyrics-designed-to-boost-your-mood/"><u>Feel Good Pop Anthems by Microsoft – A Collection Specifically Chosen for Their Positive, Cheerful Melodies and Lyrics Designed to Boost Your Mood</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-generic-volume-controller-malfunction/"><u>Fixing Windows Generic Volume Controller Malfunction</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-to-profiting-from-youtube-shorts-key-requirements-and-potential-income-for-2024/"><u>Guide to Profiting From YouTube Shorts Key Requirements & Potential Income for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-50-best-free-photography-tools-for-the-web/"><u>In 2024, 50 Best Free Photography Tools for the Web</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-how-to-block-youtube-ads-on-chromefirefoxandroidiphone/"><u>In 2024, How to Block YouTube Ads on Chrome/Firefox/Android/iPhone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-g402-driver-and-software-download/"><u>Logitech G402 Driver & Software Download</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-strategies-for-high-quality-pitch-transformation-within-audacity/"><u>New Strategies for High-Quality Pitch Transformation Within Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-lost-internet-connection/"><u>Quick Fixes for Lost Internet Connection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-methods-to-discover-windows-vocabulary/"><u>Rapid Methods to Discover Windows Vocabulary</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-web-browsing-with-win-10s-safeguard/"><u>Securing Web Browsing with Win 10'S SafeGuard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-wi-fi-connectivity-puzzles-clarifying-incomplete-instructions/"><u>Solving Wi-Fi Connectivity Puzzles: Clarifying Incomplete Instructions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-virtual-machines-physical-ram-shortage-issue/"><u>Tackling Virtual Machine's Physical RAM Shortage Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-enhancing-usability-with-narrator/"><u>The Ultimate Guide to Enhancing Usability with Narrator</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-video-vroom-guide-rotating-images-to-gain-insta-momentum-for-2024/"><u>The Video Vroom Guide Rotating Images to Gain Insta Momentum for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/f4vavi-movavi/"><u>オンラインで免責提供: F4VファイルをAVIに簡単変換の手引き - Movavi解説</u></a></li>
 </ul></div>
 

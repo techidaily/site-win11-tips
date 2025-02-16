@@ -1,7 +1,7 @@
 ---
 title: Optimizing File Access via Win11 External Drives
-date: 2025-01-31T22:54:34.447Z
-updated: 2025-02-02T21:26:24.632Z
+date: 2025-02-10T22:47:51.051Z
+updated: 2025-02-15T17:20:25.612Z
 tags:
   - windows10
   - windows11
@@ -41,15 +41,11 @@ Follow the sets below to enable network discovery on Windows:
 ![Windows Advanced Network Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-network-settings.jpg)
 4. Open the**Private networks** settings and set the toggle next to**Network discovery** to**On** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. If you're looking to access a printer on the network, make sure to enable**File and printer sharing** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you turn on network discovery, other devices on the same network can see your computer and access it.
@@ -78,6 +74,10 @@ Here's what you need to do to use File Explorer for mapping:
 6. Click**Finish** to complete the mapping process.  
 ![Map Network Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/map-network-drive-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have completed these steps, it'll map the folder to the specified drive letter in File Explorer. You can access the shared folder at any time by double-clicking on the drive.
 
  Want to access the shared folder in milliseconds? You can create a shortcut to the mapped network drive on your desktop for quick access.
@@ -101,7 +101,7 @@ New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Cred
  Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use Command Prompt for Mapping
@@ -121,7 +121,7 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
  That's it. It'll take a few seconds, and then you can access the mapped drive from File Explorer with one click.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disconnect a Mapped Network Drive
@@ -135,11 +135,11 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 ![Disconnect Mapped Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disconnect-mapped-drive.jpg)
 3. In the next window, choose the drive letter or name of the network drive you want to disconnect. Click**OK** to disconnect it from your system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The mapped network drive will now disappear from File Explorer, and you can no longer access it from the drive letter you created earlier.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Map Network Drives Easily in Windows 11
 
@@ -162,24 +162,18 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-ease-into-listening-apple-podcasts-on-your-device/"><u>[New] 2024 Approved Ease Into Listening Apple Podcasts on Your Device</u></a></li>
-<li><a href="https://fox-access.techidaily.com/boosted-by-8-top-android-tools-no-more-slow-motion-for-2024/"><u>Boosted by 8 Top Android Tools, No More Slow Motion for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-tutorial-refresh-samsung-monitor-drivers-in-windows-pcs/"><u>Easy Tutorial: Refresh Samsung Monitor Drivers in Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-the-differences-between-exe-and-msi-files/"><u>Exploring the Differences Between EXE & MSI Files</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-nokia-xr21-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Nokia XR21 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-update-files-are-missing-error-0x80070003-on-windows/"><u>How to Fix the Update Files Are Missing Error 0X80070003 on Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-gionee-f3-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Gionee F3 Pro Phones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-perfect-picture-quality-on-samsungs-crystal-clear-4k-tvs/"><u>Mastering the Perfect Picture Quality on Samsung's Crystal-Clear 4K TVs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-no-lags-smoother-youtube-videos-on-windows/"><u>Navigate No Lags: Smoother YouTube Videos on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-the-application-could-not-load-qt-plugin-error/"><u>Rectifying the 'Application Could Not Load Qt Plugin' Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revitalize-your-laptops-charging-issues-with-these-straightforward-tips/"><u>Revitalize Your Laptop's Charging Issues with These Straightforward Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-smooth-file-transfers-tips-and-tricks-for-windows-users/"><u>Securing Smooth File Transfers: Tips & Tricks for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/timely-changes-essential-windows-programs-for-editing-file-dates/"><u>Timely Changes: Essential Windows Programs for Editing File Dates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-windows-store-clearing-error-code-x80072f30/"><u>Troubleshoot Windows Store: Clearing Error Code X80072F30</u></a></li>
-<li><a href="https://win-studio.techidaily.com/ultimate-walkthrough-restoring-defaults-on-an-hp-desktop-running-windows-11/"><u>Ultimate Walkthrough: Restoring Defaults on an HP Desktop Running Windows 11</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/king-potential-top-8-mirrorless-cameras-for-youtube-stars/"><u>Unlocking Potential Top 8 Mirrorless Cameras For YouTube Stars</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmasking-your-worldwide-address-through-cmd-windows/"><u>Unmasking Your Worldwide Address Through CMD, Windows</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-best-software-utilities-for-altering-audio-frequencies-for-2024/"><u>Updated Best Software Utilities for Altering Audio Frequencies for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-method-for-heic-to-jpeg-conversion/"><u>Windows Method for Heic to Jpeg Conversion</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-choosing-the-right-video-sharing-platform-tiktok-vs-youtubes-shorts/"><u>[New] In 2024, Choosing the Right Video Sharing Platform TikTok vs YouTubes' Shorts?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-great-debate-should-you-go-for-obs-or-bandicam/"><u>[Updated] In 2024, The Great Debate Should You Go for OBS or Bandicam?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-engagement-choosing-your-fb-video-direction/"><u>[Updated] Maximizing Engagement - Choosing Your FB Video Direction</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-perfect-your-yt-content-mastery-of-windows-movie-maker-for-2024/"><u>[Updated] Perfect Your YT Content Mastery of Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-creativity-on-youtube-live-from-smartphone/"><u>2024 Approved Unleash Your Creativity on YouTube Live From Smartphone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-software-failure-amd-195-for-windows/"><u>Correcting Software Failure: AMD 195 for Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crystal-carousel-at-the-olympics/"><u>Crystal Carousel at the Olympics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easily-achieve-optimal-security-with-ms-defender-aguard-on-windows-11s-edge/"><u>Easily Achieve Optimal Security with MS Defender Aguard on Windows 11'S Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enablingdisabling-tpm-support-in-virtualbox-70/"><u>Enabling/Disabling TPM Support in VirtualBox 7.0</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-se-2020-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone SE (2020) With or Without Password</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-feasible-to-employ-chatgpt-as-an-editing-assistant/"><u>Is It Feasible to Employ ChatGPT as an Editing Assistant?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-get-help-issue/"><u>Resolving Windows 11 'Get Help' Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016209429-resolving-your-lenovo-pcs-audio-problems-effortlessly/"><u>Resolving Your Lenovo PC's Audio Problems Effortlessly!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Addressing: How to Open Excel Files in Notepad Correctly"
-date: 2024-08-16T01:15:49.693Z
-updated: 2024-08-17T01:15:49.693Z
+date: 2025-02-09T23:53:15.267Z
+updated: 2025-02-16T00:22:18.322Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
 
  One such problem that Windows users have been reporting is related to Excel files opening in the Notepad utility. This happens when Windows associates the .xlsx or .xls file extension with Notepad instead of Excel. Below, we have listed the different fixes you can try to fix this problem for good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the "Open With" Option
 
  The easiest way to open a file in the app of your choice when Windows is not sure how to handle it is by using the “Open with” option.
@@ -28,13 +32,22 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
 
 ![Open with option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-with-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to ensure that all files of a particular format open in Excel automatically, you can use the "Open with" option to set a default program as well. Simply right-click on the file, select **Open with** \> **Choose another app**. From there, select **Excel** and check the "Always use this app to open files" option.
 
 ![Set the file as default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/always-use-this-app-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Change the Default Settings for File Types
 
  When you double-click on a file in Windows, the system knows which application to use to open it. By default, Excel files are configured to be opened with Excel. In some cases where these configurations have been changed, these files might open in Notepad instead.
@@ -49,16 +62,14 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
 ![Enter the file extension type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/file-extension-type.jpg)
 4. Click **Enter** and choose **Excel** from the list on your screen.  
 ![Choose Excel as the default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-excel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Finally, click on the **OK** button and close the Settings app.
 
  Hopefully, you will be able to open the Excel files in Excel successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Check the File Extension Type
 
  The system might also be opening the file in Notepad because the file extension type is not supported by Excel.
@@ -71,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
 2. Navigate to the file's location.
 3. Expand the **View** option in the top pane and choose **Show** \> **File name extensions**. You can now check if the file extension type is compatible with Excel.  
 ![Show file extensions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/file-name-extensions.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, you can also [use the Command Prompt to check the file extension type](https://www.makeuseof.com/windows-11-see-file-extensions/). If the file extension type is not correct, you can rename the file to fix the problem. Here is how:
 
@@ -81,17 +89,11 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
 2. Edit the file name to remove any incorrect or extra characters in the extension.
 3. Enter the correct file extension after the file name, separated by a dot.  
 ![Rename the file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-file-extension.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 4. Press **Enter** to save the changes.
 5. Click **Yes** in the User Account Control prompt to proceed.
 
  You can now try opening the file again. Hopefully, it will launch in Excel this time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Use an Excel Repair Tool (if Applicable)
 
  In case you are unable to open files with Excel and are presented with an error whenever you attempt to do so, the file might be corrupted or damaged.
@@ -114,8 +116,6 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
 
  One such problem that Windows users have been reporting is related to Excel files opening in the Notepad utility. This happens when Windows associates the .xlsx or .xls file extension with Notepad instead of Excel. Below, we have listed the different fixes you can try to fix this problem for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -123,5 +123,22 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/levate-your-team-with-expert-talent-selections/"><u>[New] Elevate Your Team with Expert Talent Selections</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cognitive-conclaves-educational-yt-powerhouses/"><u>[New] In 2024, Cognitive Conclaves Educational YT Powerhouses</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unleash-creativity-the-ultimate-selection-of-online-jpg-to-gif-tools/"><u>[New] In 2024, Unleash Creativity The Ultimate Selection of Online JPG to GIF Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/10-sci-fi-metaverse-movies-take-you-to-a-brand-new-world-for-2024/"><u>10 Sci-Fi Metaverse Movies Take You to a Brand New World for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-key-adjustments-to-reestablish-wi-fi-connectivity-in-windows-10-systems/"><u>5 Key Adjustments to Reestablish Wi-Fi Connectivity in Windows 10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ancient-windows-features-you-can-still-find-in-windows-11/"><u>7 Ancient Windows Features You Can Still Find in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-repairing-onedrive-on-windows-11/"><u>A Step-by-Step Approach to Repairing OneDrive on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-pc-interaction-with-comprehensible-win11-navkeys/"><u>Accelerate PC Interaction with Comprehensible Win11 NavKeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-msc-error-the-printmanagement-glitch/"><u>Addressing Windows MSC Error: The 'Printmanagement' Glitch</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/amazon-fire-tv-cube-unleashed-top-tier-performance-and-swift-streams/"><u>Amazon Fire TV Cube Unleashed: Top-Tier Performance & Swift Streams</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/perfecti-the-ultimate-guide-to-iphone-slideshows-xr-i/"><u>Perfecti The Ultimate Guide to iPhone Slideshows (XR-I)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-for-sluggish-windows-11-and-10-machines/"><u>Quick Fixes for Sluggish Windows 11 and 10 Machines</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/smile-spark-planner-for-2024/"><u>Smile Spark Planner for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unmask-the-tricks-of-photo-and-video-upload-in-win11/"><u>Unmask the Tricks of Photo & Video Upload in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719285972506-windows-error-trouble-with-compatibility-tool-here-are-quick-solutions/"><u>Windows Error: Trouble with Compatibility Tool? Here Are Quick Solutions</u></a></li>
+</ul></div>
 

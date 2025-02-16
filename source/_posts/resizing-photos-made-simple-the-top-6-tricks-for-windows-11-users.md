@@ -1,7 +1,7 @@
 ---
 title: "Resizing Photos Made Simple: The Top 6 Tricks for Windows 11 Users"
-date: 2025-01-26T19:12:52.650Z
-updated: 2025-02-03T01:49:18.893Z
+date: 2025-02-10T01:57:05.781Z
+updated: 2025-02-16T01:17:45.590Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Resize Images With Photos
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 2. Click**All Photos** to view your images.  
 ![The All Photos button in Microsoft Phots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/photos-app.jpg)
 3. Right-click an image for resizing and select**Open** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Click the**See more** (ellipses) button in the editing window that opens.
 5. Select the**Resize image** option.  
@@ -73,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 ![Paint 3D in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-3d-in-ms-store.jpg)
 4. Click**Get** (the install option) to add Paint 3D to your app library.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**Start** \>**All apps** to view installed software on the menu.
 
 1. Scroll down and select Paint 3D.
@@ -80,14 +80,14 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 ![The Browse files button in Paint 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-files-button.jpg)
 3. Select an image to resize, and click the**Open** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click the**View more** options (three-dot) menu button.
 5. Select**Canvas options** to access options for resizing the image’s dimensions.  
 ![The resize image options in Paint 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-3d-s-canvas-options.jpg)
 6. Click the**Resize image** with canvas checkbox to select that option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Now left-click a corner of the image, hold the mouse button, and drag the mouse cursor left/right to reduce or expand the picture. The values in the**Height** and**Width** boxes change as you drag the mouse.
 8. When you’re done resizing, click the**Menu** button.
@@ -105,15 +105,15 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 ![The Extensions menu in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-image-magic-option.jpg)
 4. Click**Image Magic** to bring up that extension’s window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. You’ll need to drag and drop a picture file onto the Image Magic window to resize it. Open a folder containing some images and drag one onto the Image Magic window.
 6. Select the**Resize** checkbox.
 7. Click**Fill with image dimensions** for the**Resize** option to see the current values for the selected picture in the**Width** and**Height** boxes.  
 ![The Image Magic window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-magic-extension.jpg)
 8. Input alternative pixel values in the two**Width** and**Height** boxes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9. Press the**Convert** button to download the resized image. You’ll find that image in whatever folder you’ve set Edge to download files in.
 
@@ -137,14 +137,14 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 ![The FastStone Photo Resizer 4.4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/faststone-image-viewer2.jpg)
 4. Click the**Resize** checkbox if it’s not already selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select the**In Pixels** radio button.
 6. Input values in the**New Width** and**New Height** boxes. Or select an option on the**Pick a Standard Size** drop-down menu.  
 ![The resize settings in the Advanced Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/faststone-image-viewer-resize-options.jpg)
 7. Click**OK** to exit Advanced Options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Select**Browse** for the**Output Folder** option. Choose a folder to include the resized files, and click the**OK** button.
 9. Press**Convert** to resize the images.
@@ -152,7 +152,7 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
  FastStone Photo Resizer also includes additional**In Percentage** ,**In Print Size** , and**Resize based on one side** options for resizing. You can select quarter, half, double, or triple options on the percentage preset drop-down menu. The**In Print Size** option enables you to resize images in centimeters and inches for printing purposes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Your Images Fit Better by Resizing Them in Windows 11
@@ -174,20 +174,22 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-budget-savvy-shooters-top-5-under-200-cameras/"><u>[Updated] Budget-Savvy Shooters Top 5 Under $200 Cameras</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-advanced-strategies-in-ps3-gaming-broadcasting/"><u>2024 Approved Advanced Strategies in PS3 Gaming Broadcasting</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-economical-360-cameras-for-quality-videography/"><u>2024 Approved Economical 360° Cameras for Quality Videography</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-choice-quick-accurate-screen-reports/"><u>2024 Approved The Ultimate Choice Quick, Accurate Screen Reports</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciding-on-nearby-transfer-google-vs-windows-options/"><u>Deciding on Nearby Transfer: Google Vs. Windows Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhanced-collaboration-on-a-sleeker-platform/"><u>Enhanced Collaboration on a Sleeker Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-guide-to-top-7-secure-windows-applications-153-chars/"><u>Exclusive Guide to Top 7 Secure Windows Applications (153 Chars)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-your-xbox-one-audio-back-on-track-a-complete-guide/"><u>Getting Your Xbox One Audio Back on Track – A Complete Guide</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-cannot-continue-error-in-amd-installation/"><u>Overcoming the 'Cannot Continue' Error in AMD Installation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalizing-failure-lockout-period-on-sign-in-errors/"><u>Personalizing Failure Lockout Period on Sign In Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prevent-unwanted-launch-of-snipping-tool-via-print-screen-in-win-11/"><u>Prevent Unwanted Launch of Snipping Tool via Print Screen in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-troubleshooting-msvcr120-deficiency-windows-wise/"><u>Tips for Troubleshooting Msvcr120 Deficiency Windows-Wise</u></a></li>
-<li><a href="https://windows11.techidaily.com/ultimate-7-list-cost-free-windows-media-centers/"><u>Ultimate 7 List: Cost-Free Windows Media Centers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-backswing-crafting-bundle/"><u>[New] Backswing Crafting Bundle</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-the-art-of-analytics-essential-tools-for-beginner-marketers-on-social-media/"><u>[Updated] Mastering the Art of Analytics Essential Tools for Beginner Marketers on Social Media</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-rx-6800-graphics-card-driver-download-for-various-windows-versions/"><u>AMD RX 6800 Graphics Card Driver Download for Various Windows Versions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/arcadearchive-annotator-for-2024/"><u>ArcadeArchive Annotator for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-building-shortcuts-to-uwp-apps-in-windows-11/"><u>Essential Tips: Building Shortcuts to UWP Apps in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unsuccessful-file-transfers-on-windows-pcs/"><u>Fixing Unsuccessful File Transfers on Windows PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-intel-82579lm-driver-for-windows/"><u>How To Update Intel 82579LM Driver For Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-10t-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme 10T 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-command-line-integration-in-windows-11s-task-manager/"><u>Mastering Command Line Integration in Windows 11'S Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-folder-inclusion-in-win11s-context-menu/"><u>Mastering Folder Inclusion in Win11's Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-action-center-mixer-for-immersive-sound/"><u>Mastering Windows 11'S Action Center Mixer for Immersive Sound</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/microsofts-commitment-elevating-the-pc-gaming-experience-with-arm-based-windows-laptops/"><u>Microsoft's Commitment: Elevating the PC Gaming Experience with ARM-Based Windows Laptops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-screen-and-sound-recordings-with-the-updated-windows-11-snipping-tool-max-156/"><u>Optimizing Your Screen & Sound Recordings with the Updated Windows 11 Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-sony-xperia-1-v-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Sony Xperia 1 V Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-system-potential-enhancing-virtual-memory/"><u>Unlocking System Potential: Enhancing Virtual Memory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-to-do-when-your-update-fails-at-0x800f0845/"><u>What to Do When Your Update Fails at 0X800F0845?</u></a></li>
 </ul></div>
 

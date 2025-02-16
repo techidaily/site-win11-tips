@@ -1,7 +1,7 @@
 ---
 title: "Optimize System Resources: Lowering Impact From Multimedia Use"
-date: 2025-01-30T16:36:29.641Z
-updated: 2025-02-01T09:51:25.461Z
+date: 2025-02-10T19:12:04.513Z
+updated: 2025-02-15T21:04:00.987Z
 tags:
   - windows10
   - windows11
@@ -26,12 +26,16 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install Windows Update Hotfix
 
 ![windows 11 update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Reportedly, the problem occurs due to a Windows bug. To fix the problem, Microsoft released cumulative update KB5010415 for Windows 11 and 10\. So, check if you have any pending updates for your computer and install them to see if that helps resolve the error.
 
@@ -47,6 +51,10 @@ To install a Windows 11 update:
 
  If you don't really use the News and Interests feature, you're better off turning it off. That way, you can save on hardware resources and help your computer run faster.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off News and Interests on Windows 10
 
  If you don't use News and Interests, you can turn off the feature from the Taskbar on Windows 10\. To turn off News and Interests on Windows 10:
@@ -61,19 +69,11 @@ To install a Windows 11 update:
 
 ![disable widgets Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-widgets-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Unfortunately, News and Interests is a core feature of Windows 11 widgets. If the lack of Widgets isn't a concern, you can[disable the Windows 11 Widget app](https://www.makeuseof.com/windows-11-disable-widgets/) to get rid of the resource-hog news feed on your computer. However, if you find the widgets useful, you must endure the News and Interests feature.
 
  The easiest way to disable Widgets is from the Taskbar settings. If that does not work or if your Windows 11 isn't activated, you can use Registry Editor to disable the Widgets icon from the taskbar.
 
  If the issue persists even after disabling News and Interest, try to[perform a Windows 11 repair reinstall](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) . During a repair reinstall, Windows will reinstall the operating system without removing your personal files and apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable News and Interests Using the Group Policy Editor
 
@@ -89,14 +89,14 @@ To install a Windows 11 update:
 ![turn off news and interest disabled 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled-1.jpg)
 5. Select**Disabled** and click**Apply** and**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![turn off news and interest disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled.jpg)
 6. Close Group Policy Editor and restart your computer.
 
  After restarting your computer, the News and Interests feature should no longer appear. Launch the task manager and check for improvements in your PC's CPU and memory usage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable News and Interests Using the Registry Editor on Windows 10
 
@@ -112,7 +112,7 @@ To disable the news feed feature using Windows Registry:
 3. In Registry Editor, navigate to the following location. You can copy and paste the registry path for quicker navigation:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows`
@@ -142,7 +142,7 @@ To disable the news feed feature using Windows Registry:
 5. If there are no errors, type**exit** and press**Enter** to close PowerShell. Restart your Computer and check for any improvements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix the News and Interests Feature's High Memory Usage on Windows
@@ -164,18 +164,20 @@ To disable the news feed feature using Windows Registry:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-discover-best-border-apps-to-elevate-instagram-visuals-for-2024/"><u>[New] Discover Best Border Apps to Elevate Instagram Visuals for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-video-rankings-with-effective-seo-tactics/"><u>[Updated] Elevate Your Video Rankings with Effective SEO Tactics</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-8-best-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>2024 Approved 8 Best Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-odbc-data-sources-in-windows/"><u>Deciphering ODBC Data Sources in Windows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discover-the-top-15-free-web-based-editing-solutions/"><u>Discover the Top 15 FREE Web-Based Editing Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-ai-communication-discover-7-powerful-techniques-for-chatgpt-queries/"><u>Elevate Your AI Communication: Discover 7 Powerful Techniques for ChatGPT Queries</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-gt-5-pro-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme GT 5 Pro Without PUK Codes</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721267153082-lost-iphone-media-and-info-retrieval-on-mac-systems-secure-your-memories-back/"><u>Lost iPhone Media and Info Retrieval on Mac Systems - Secure Your Memories Back</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-tv-settings-for-brilliant-visuals-zdnets-guide-to-enhancing-picture-perfection-with-simple-tweaks/"><u>Master TV Settings for Brilliant Visuals: ZDNet's Guide to Enhancing Picture Perfection with Simple Tweaks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-tips-for-confirming-disk-type-hdd-or-nvme/"><u>Quick Tips for Confirming Disk Type – HDD or NVMe?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-sound-on-win11-via-created-keyboard-actions/"><u>Tailoring Sound on Win11 via Created Keyboard Actions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-newcomers-notebook-navigating-through-pixel-perfect-videos-for-2024/"><u>The Newcomer’s Notebook Navigating Through Pixel-Perfect Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-wonderland-the-art-of-dossiers-design/"><u>Win11 Wonderland: The Art of Dossiers Design</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exposing-effective-promotions/"><u>[New] Exposing Effective Promotions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-cinematic-success-in-your-youtube-channel/"><u>[New] In 2024, From Raw Footage to Cinematic Success in Your YouTube Channel</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-revamp-your-tone-7-premier-vocal-modification-tools-for-2024/"><u>[New] Revamp Your Tone 7 Premier Vocal Modification Tools for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-your-gateway-to-perfect-entries-everywhere/"><u>[Updated] 2024 Approved Your Gateway to Perfect Entries, Everywhere</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlocking-fb-content-effortless-mp4-conversion/"><u>2024 Approved Unlocking FB Content Effortless MP4 Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/core-functionality-within-vcplusplus-releases/"><u>Core Functionality Within VC++ Releases</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-hdmi-in-use-errors-tips-for-managing-device-accessibility-across-multiple-software/"><u>Fixing 'HDMI in Use' Errors – Tips for Managing Device Accessibility Across Multiple Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/incorporating-update-info-into-right-click-context-menu/"><u>Incorporating Update Info Into Right-Click Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-system-support-setting-up-custom-hotkeys-for-windows-fixes/"><u>Instant System Support: Setting Up Custom Hotkeys for Windows Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-brio-webcam-driver-installation-guide-for-windows-versions-11-and-below/"><u>Latest Logitech Brio Webcam Driver Installation Guide for Windows Versions 11 and Below</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-admin-command-challenges-in-windows/"><u>Navigating Admin Command Challenges in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-non-working-windows-alt-codes-51-characters/"><u>Navigating Non-Working Windows ALT Codes (51 Characters)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/post-update-anomalies-restoring-your-discord-on-windows/"><u>Post-Update Anomalies: Restoring Your Discord On Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-error-0x80004005-a-step-by-step-troubleshooting-guide/"><u>Unraveling Error 0X80004005 - A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-home-vs-pro-which-is-best-for-you/"><u>Windows 11 Home Vs. Pro: Which Is Best for You?</u></a></li>
 </ul></div>
 

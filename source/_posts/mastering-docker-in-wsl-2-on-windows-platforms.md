@@ -1,7 +1,7 @@
 ---
 title: Mastering Docker in WSL 2 on Windows Platforms
-date: 2025-01-25T15:31:02.373Z
-updated: 2025-02-01T04:00:32.908Z
+date: 2025-02-13T23:49:58.524Z
+updated: 2025-02-16T02:00:37.679Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Docker?
 
  Docker is an open-source platform that allows developers to efficiently build, deploy and run their applications within a container. All dependencies are bundled up so your project can easily be deployed in any environment.
@@ -36,10 +32,14 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 ![Microservice architecture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microservice-architecture.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For software developers, Docker streamlines workflow by creating individual containers for different microservices that include the necessary dependencies, libraries, and configurations. Each microservice container is isolated and individually scalable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Docker on WSL 2
 
@@ -61,15 +61,15 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
  You must become familiar with the best practices for utilizing Docker with Windows Subsystem for Linux 2, just like you would with any other platform or tool. As a developer, I can say from personal experience that you'll become much more productive and efficient once you integrate the following tips into your workflow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Integrate VS Code with WSL 2
 
  Visual Studio Code is a popular IDE that’s loved due to its incredible features, community, and extensions. As a developer, the ability to use Visual Studio Code for app development on a Windows platform while also running those apps on a Linux kernel is an incredibly advantageous and almost unbelievable feature.
 
 ![wsl extension in VS Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsl-extension.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you integrate VS Code into the Windows Subsystem for Linux, you can take advantage of its specialized Linux kernel to enhance cross-platform compatibility. You can further streamline your workflow by utilizing the integrated terminal within VS Code with WSL 2.
 
@@ -85,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
  With WSL 2, your entire team can use the same Linux automation scripts, and you don’t have to worry about maintaining Windows-compatible automation scripts for your team.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Configure BuildKit for Improved Security and Performance
 
  BuildKit is an open-source toolkit that improves the traditional Docker build process in terms of performance and security; it's directly integrated with Docker, so you don’t need to install it separately.
@@ -96,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 `export DOCKER_BUILDKIT=1.`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Set Up Resource Limits
@@ -106,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
  However, in some cases, a container might allocate a lot of excess memory, causing critical OS processes to crash. You’re more likely to experience this when using database containers or a caching microservice.
 
  Fortunately, you can configure Docker containers to limit the system memory and CPU usage. You should always be careful while configuring the system memory, even a minor mistake can have significant consequences. You can refer to the[official Docker documentation](https://docs.docker.com/config/containers/resource%5Fconstraints/) for a more detailed guide on limiting the memory and CPU resources consumed by a Docker container.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Recover Cached Memory
 
@@ -138,15 +138,14 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-elite-streamers-choice-for-secure-downloads-8/"><u>[New] In 2024, Elite Streamer’s Choice for Secure Downloads 8</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-6s-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 6s Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-unloading-drivers-on-windows-11-system/"><u>Fixing Unloading Drivers on Windows 11 System</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guida-passo-passo-a-convertire-video-mkv-gratuitamente-in-webm-utilizzando-il-convertitore-video-di-movavi-online/"><u>Guida Passo-Passo a Convertire Video MKV Gratuitamente in WEBM Utilizzando Il Convertitore Video Di Movavi Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-add-the-d-drive-to-file-explorers-navigation-pane/"><u>How to Add the D: Drive to File Explorer's Navigation Pane</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-graphics-driver-crashed-bug-in-valorant-fast-track/"><u>How to Fix the 'Graphics Driver Crashed' Bug in Valorant Fast-Track</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ice-racers-unite-celebrating-snowboard-cross-victories-winter-olympics-edition/"><u>In 2024, Ice Racers Unite Celebrating Snowboard Cross Victories, Winter Olympics Edition</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-oppo-f25-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo F25 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-drawing-made-easy-top-7-drawing-apps-reviewed/"><u>Masterful Drawing Made Easy: Top 7 Drawing Apps Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-way-to-achieve-crisp-backdrops-on-w11s-photos-interface/"><u>The Ultimate Way to Achieve Crisp Backdrops on W11's Photos Interface</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-stop-obs-from-skipping-audio/"><u>[New] In 2024, Stop OBS From Skipping Audio</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/discover-the-top-8-android-platforms-for-large-gatherings/"><u>Discover the Top 8 Android Platforms for Large Gatherings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-experience-mastering-w11-bar-use/"><u>Elevate Windows Experience: Mastering W11 Bar Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-d3d11-gpu-compatibility-issues-on-win11win10/"><u>Mitigating D3D11 GPU Compatibility Issues on Win11/Win10</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-zte-nubia-z60-ultra-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My ZTE Nubia Z60 Ultra Black and White | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-helperdll-file-error-a-step-by-step-guide/"><u>Solving 'Helper.dll' File Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-troubleshooting-eliminating-lag-in-new-world-adventures/"><u>Step-by-Step Troubleshooting: Eliminating Lag in 'New World' Adventures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-weather-tech-selection-for-win-devices/"><u>Ultimate Weather Tech Selection for Win Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-access-restrictions-on-windows-pc/"><u>Unlock Access Restrictions on Windows PC</u></a></li>
 </ul></div>
 

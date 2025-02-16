@@ -1,7 +1,7 @@
 ---
 title: Pushing Past Disabled Script Constraints in Windows PS
-date: 2025-01-30T17:20:41.584Z
-updated: 2025-02-02T17:09:04.490Z
+date: 2025-02-09T16:12:26.193Z
+updated: 2025-02-15T17:55:54.538Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![Selecting the Windows PowerShell (Admin) option on the Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/selecting-the-windows-powershell-admin-option-on-the-quick-access-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And if that doesn’t help, check out [the various ways to open Windows PowerShell](https://www.makeuseof.com/windows-open-command-prompt-powershell/). But you should only focus on the methods that show you how to run the tool with administrative privileges.
 
 ## 2\. Change the Execution Policy in PowerShell
@@ -73,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
  Now that everything is clear, let’s explore how you can execute the relevant policies to tackle the "PowerShell cannot load" issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Change the Execution Policy to "Unrestricted"
@@ -90,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![Displaying the list of execution policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/displaying-the-list-of-execution-policies.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This should show you how the execution policies are configured for different users and systems.
 
  To can change the execution policy to “Unrestricted” for the current active user, type the following command and press **Enter**:
@@ -107,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 `Set-ExecutionPolicy Unrestricted -Scope LocalMachine`
 
  When you finish running the command, close PowerShell and restart your PC to save these changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Change the Execution Policy to "ByPass"
 
@@ -123,7 +127,7 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
  When you finish, close PowerShell and then restart your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Execution Policy Via the Local Group Policy Editor
@@ -148,13 +152,13 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  From there, click **Apply** and then click **OK** to save these changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change the Execution Policy Using the Registry Editor
 
 ![A lady using her Windows PC while sitting on bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-her-Windows-PC-while-sitting-on-bed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the other methods didn’t help, then try changing the execution policy using the Registry Editor. However, you need to be careful when editing Registry keys. If you tweak the wrong keys, then you might end up damaging your PC.
 
@@ -169,10 +173,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
  Locate the **ExecutionPolicy** value on the right-hand side.
 
 ![Selecting the ExecutionPolicy value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-executionpolicy-value.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the value is missing, create it through these steps:
 
@@ -206,18 +206,19 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-winter-wonderland-in-beijing-olympic-year-2022/"><u>[Updated] 2024 Approved Winter Wonderland in Beijing, Olympic Year 2022</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensive-guide-to-embellishing-images-and-vids-in-windows-10s-photo-app/"><u>[Updated] A Comprehensive Guide to Embellishing Images and Vids in Windows 10'S Photo App</u></a></li>
-<li><a href="https://blog-min.techidaily.com/44cm54plusplus5zyo6ycy6kgm5lit44gu44ot44oh44kq44kv44oq44od44ox44ks5lplusd566h44gz44kl44gf44kb44gu5yq55p6c55qe44gq5oml5rov44cn/"><u>「現在進行中のビデオクリップを保管するための効果的な手法」</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/balancing-web-pace-unify-phone-and-laptop-connectivity/"><u>Balancing Web Pace: Unify Phone & Laptop Connectivity</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-tiktok-watermark-removers-online/"><u>Best TikTok Watermark Removers Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/engage-with-windows-11s-screen-snip-functionality/"><u>Engage with Windows 11'S Screen Snip Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-result-visibility-for-windows-1011s-search/"><u>Enhancing Result Visibility for Windows 10/11'S Search</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-silencing-the-defender-firewall-in-win11/"><u>Guide to Silencing the Defender Firewall in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-to-secure-your-childrens-online-world-windows-11/"><u>Guidelines to Secure Your Children’s Online World: Windows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-itel-p55-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Itel P55 5G FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12 5G Phone FRP Lock</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-to-immerse-users-in-soundfilters-of-windows-10-photos/"><u>Step-by-Step Guide to Immerse Users in Sound/Filters of Windows 10 Photos</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/swedens-script-an-easy-pronunciation-pathway/"><u>Sweden's Script: An Easy Pronunciation Pathway</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-navigating-the-legal-landscape-check-tiktok-video-compliance/"><u>[Updated] 2024 Approved Navigating the Legal Landscape Check TikTok Video Compliance</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-streamlined-iphone-snapchat-linkage-for-photographs-and-memories/"><u>[Updated] Streamlined iPhone-Snapchat Linkage for Photographs & Memories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-odd-angle-intrigue-of-instagram-video-postings/"><u>[Updated] The Odd-Angle Intrigue of Instagram Video Postings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-audio-enhancement-toolkit/"><u>2024 Approved Expert Audio Enhancement Toolkit</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/airpod-disappearance-solved-strategies-to-locate-your-earbuds-and-avoid-repetition-expert-advice-by-zdnet/"><u>AirPod Disappearance Solved: Strategies to Locate Your Earbuds and Avoid Repetition, Expert Advice by ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-an-invisible-button-on-taskview-bar/"><u>Crafting an Invisible Button on TaskView Bar</u></a></li>
+<li><a href="https://fox-info.techidaily.com/dream-lenses-guide-leading-6-in-high-definition-dslrs-for-2024/"><u>Dream Lenses Guide Leading 6 in High-Definition DSLRs for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/dvdfolder-creation-on-windows-10-and-macos-using-iso-format-with-digiarty/"><u>DVD/Folder Creation on Windows 10 & MacOS Using ISO Format with DigiArtY</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-creating-slideshow-magic-and-spot-corrections-in-windows-11-photos/"><u>Expert Tips for Creating Slideshow Magic and Spot Corrections in Windows 11 Photos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratuit-mp4-vers-videowebm-en-ligne-avec-movavi-conversion-rapide/"><u>Gratuit MP4 Vers VIDEO_WEBM en Ligne Avec Movavi - Conversion Rapide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-repairing-windows-service-not-responding-errors/"><u>Mastering the Art: Repairing Windows Service Not Responding Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-new-wins-setbacks-to-standard-users/"><u>Navigating Through New Wins: Setbacks to Standard Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-battle-amd-challenges-apple-on-multi-core-performance-with-the-new-ryzen-ai-9-hx-370-processor/"><u>Tech Battle: AMD Challenges Apple on Multi-Core Performance with the New Ryzen AI 9 HX 370 Processor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-quick-keyboard-shortcut-guide/"><u>Windows 11: Quick Keyboard Shortcut Guide</u></a></li>
 </ul></div>
 

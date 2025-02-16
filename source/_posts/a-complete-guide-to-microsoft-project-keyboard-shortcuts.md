@@ -1,7 +1,7 @@
 ---
 title: A Complete Guide to Microsoft Project Keyboard Shortcuts
-date: 2024-08-16T01:19:03.575Z
-updated: 2024-08-17T01:19:03.575Z
+date: 2025-02-08T22:21:05.199Z
+updated: 2025-02-15T19:00:56.624Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
  To help you make the most of this tool, Microsoft Project offers a variety of keyboard shortcuts you can use to speed up processes and reduce mundane work. This guide lists the most useful Microsoft Project keyboard shortcuts and explains how to use them for maximum efficiency.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft Project Keyboard Shortcuts
 
  Here are some shortcuts that you may need frequently to use in Microsoft Project:
@@ -29,15 +33,13 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 **Ctrl + O:** It is important to keep track of all projects that are being worked.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Save a Project File
 
 **Ctrl + S:** It is essential to save all changes made to a project often as it helps to keep track of and prevent data loss.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Create a Task
 
 **Ctrl + T:** This will open up a new task window and allow you to enter the necessary information for their project.
@@ -58,43 +60,47 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 **Shift + F2:** This will open up a window with detailed information about any selected tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 9\. Turn On or off Auto Calculate
 
 **Ctrl + F** **:** This will enable or disable the auto-calculate feature, which automatically updates any changes made to a project.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 10\. Clear or Reset the Selected Field
 
 **Ctrl + Del:** This will clear any data that is currently entered in the selected field and reset it to its default value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 11\. Copy the Selected Data
 
 **Ctrl + C:** This will automatically copy the data that is currently selected and allow it to be pasted into any other location.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 12\. Cut the Selected Data
 
 **Ctrl + X:** This will remove the data from its current location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 13\. Set the Task to Auto Schedule
 
 **Ctrl + Shift + Alt:** This will enable the auto-schedule feature for any selected tasks, which automatically updates the schedule based on any changes that are made.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 14\. Set the Task To Manually Schedule
 
 **Ctrl + Alt + M:** This will enable the manual schedule feature for any selected tasks, which requires users to manually update the schedule.
 
  If you like using your keyboard to get around your productivity suite, check out [what KeyTips in Microsoft Office are and what they do](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Overview of All the Microsoft Project Shortcuts
 
@@ -198,21 +204,15 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 | Extend the selection to the start of the text        | Shift + Home                  |
 | Turn on or off Overtype mode                         | Insert                        |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get the Most Out of Microsoft Project
 
  Here you will find a comprehensive overview of the most common Project keyboard shortcuts to help you get more done. These shortcuts can help you save time while using Microsoft Project and focus on the relevant tasks at hand.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -221,8 +221,24 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-efficient-setup-ps4-streaming-and-recording-via-obs/"><u>[New] In 2024, Efficient Setup PS4 Streaming and Recording via OBS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unleashing-creativity-how-to-convert-your-favorite-youtube-videos-to-gifs/"><u>[New] In 2024, Unleashing Creativity How to Convert Your Favorite Youtube Videos To Gifs</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-beat-a-thon-essential-playlists-for-tiktoks-hot-rappers/"><u>[Updated] In 2024, Beat-a-Thon Essential Playlists for TikTok's Hot Rappers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-understanding-a-symbol-the-purpose-of-facebooks-blue-emoji/"><u>[Updated] In 2024, Understanding a Symbol The Purpose of Facebook's Blue Emoji</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-your-pc-health-top-13-tactics-to-restore-windows/"><u>Boosting Your PC Health: Top 13 Tactics to Restore Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/break-free-from-verifying-glass-cases-in-windows-installation/"><u>Break Free From Verifying Glass Cases in Windows Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-11s-spotify-link-barriers/"><u>Breaking Down Windows 11'S Spotify Link Barriers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-code-how-to-reactivate-memory-feature-in-win11/"><u>Breaking the Code: How to Reactivate Memory Feature in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-in-windows-11-sticky-notebook-coordination/"><u>Bridging Gaps in Window's 11 Sticky Notebook Coordination</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-windows-download-block-with-opera-tricks/"><u>Bypass Windows Download Block with Opera Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/capture-windows-like-a-pro-snip-tool-vs-prtsc-advantages/"><u>Capture Windows Like a Pro: Snip Tool Vs. PrtSc Advantages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/capturing-sound-in-win-11-step-by-step/"><u>Capturing Sound in Win 11 Step-by-Step</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-microsoft-family-safetys-core-functions/"><u>Decoding Microsoft Family Safety's Core Functions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-secure-your-brother-hl-l2360dw-drivers-now/"><u>Effortless Installation: Secure Your Brother HL-L2360DW Drivers Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-proofing-siri-how-apples-latest-ai-advancements-will-enhance-the-assistant-by-2025-insights-from-zdnet/"><u>Future-Proofing Siri: How Apple's Latest AI Advancements Will Enhance the Assistant by 2025 - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rk-nodes-sites-that-spotlight-youtube-paid-content/"><u>Network Nodes Sites That Spotlight YouTube Paid Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ultimate-choice-top-screen-capturer-for-video-uploads-for-2024/"><u>Ultimate Choice Top Screen Capturer for Video Uploads for 2024</u></a></li>
+</ul></div>
 

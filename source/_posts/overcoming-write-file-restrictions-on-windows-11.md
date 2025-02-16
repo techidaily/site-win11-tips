@@ -1,7 +1,7 @@
 ---
 title: Overcoming Write File Restrictions on Windows 11
-date: 2024-12-16T20:43:22.181Z
-updated: 2024-12-22T09:40:16.917Z
+date: 2025-02-10T23:22:15.367Z
+updated: 2025-02-15T21:00:20.771Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Download the Setup File Again
 
  First, try downloading the software’s setup file a second time. This time select to download the file to a different folder. Also, make sure you’ve selected to download the right installation file for your PC if the software is available for different platforms and has alternative 32 and 64-bit versions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Program’s Setup Wizard with Admin Rights
 
@@ -40,11 +40,11 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change a Standard User Account to Admin One
@@ -65,11 +65,7 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 ![The Browse button on a setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/catchchar-setup-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Run the Compatibility Troubleshooter for the Installer File
@@ -82,13 +78,14 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 4. Next, press the**Run compatibility troubleshooter** button.  
 ![The Run the compatibility troubleshooter button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/compatibility-troubleshooter-button.jpg)
 5. Select**Try recommended** settings to bring up a**Test this program** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Test this program** to bring up the setup wizard with the applied compatibility settings.  
 ![The Test this program button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/test-this-program-option.jpg)
 7. Then try installing the software again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Delete Temporary Files
 
@@ -115,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 5. Press**OK** in the Select User or Group window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Select the**Full Control** permission checkbox.  
@@ -131,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/user-account-control-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Disable Controlled Folder Access
 
  Controlled folder access is another security feature that can feasibly cause the “opening file for writing” error in Windows 10 and 11\. That feature blocks access and changes to its protected folders. This is how you can turn off controlled folder access if it’s enabled:
@@ -145,11 +138,19 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 ![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/controlled-folder-access-option.jpg)
 4. Click the**Controlled folder access** toggle switch to set that option to off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Uninstall the Old Version of the Software
 
  If you’re trying to install a new version of the software already on your PC, uninstall the existing (old) program version. You can uninstall software with the Programs and Features applet as instructed within our guide to[removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
  However, it would be even better to uninstall the old program version with one of the[best third-party uninstaller utilities](https://www.makeuseof.com/windows-11-uninstallers-stubborn-apps/) that thoroughly eradicate leftover files and registry entries.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Install the Software You Need on Windows
 
@@ -170,21 +171,18 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevating-your-contents-reach-without-breaching-laws/"><u>[New] 2024 Approved Elevating Your Content's Reach Without Breaching Laws</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-elevate-your-youtube-traffic-best-hash-tactics-explained/"><u>2024 Approved Elevate Your YouTube Traffic Best Hash Tactics Explained</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-dismantling-error-0x80070570-healing-files-in-windows-11/"><u>Deciphering and Dismantling Error 0X80070570: Healing Files in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-missing-or-non-existent-dll-in-windows-7810/"><u>Fixing Missing or Non-Existent DLL in Windows 7/8/10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-audio-device-missing-errors-in-windows-10-and-11-effective-solutions/"><u>Fixing Windows Audio Device Missing Errors in Windows 10 and 11: Effective Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-6-plus-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone 6 Plus Factory Reset? | Stellar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-trigger-an-immediate-shutdown-on-idling-pcs/"><u>How to Trigger an Immediate Shutdown on Idling PCs</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-step-into-a-new-dimension-best-practices-for-converting-videos-to-vr/"><u>In 2024, Step Into a New Dimension Best Practices for Converting Videos to VR</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-server-access-denial-windows-wise/"><u>Overcoming Server Access Denial Windows-Wise</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-lava-yuva-3-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Lava Yuva 3 Pro Phone Now with These Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-your-route-to-windows-starting-spot/"><u>Quick Guide: Your Route to Windows Starting Spot</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-ringtone-essential-tips-and-fixes-for-iphones-incoming-call-problems/"><u>Revive Your Ringtone: Essential Tips & Fixes for iPhone’s Incoming Call Problems</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/silencing-the-spotlight-avoiding-vloggers-fears/"><u>Silencing the Spotlight Avoiding Vlogger's Fears</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simple-and-slim-revamp-with-windows-11-tiny/"><u>Simple & Slim: Revamp with Windows 11 Tiny</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209541301-9780008319335-taurus-2020-your-personal-horoscope/"><u>Taurus 2020: Your Personal Horoscope | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ten-tips-for-finding-meanings-in-win11-fast-lane/"><u>Ten Tips for Finding Meanings in Win11 Fast Lane</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/uperstars-with-a-subscriber-base/"><u>[New] Superstars with a Subscriber Base</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-revolutionize-your-pc-captures-with-these-top-tools/"><u>[Updated] 2024 Approved Revolutionize Your PC Captures with These Top Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-watch-deleted-youtube-videos-online-in-2-ways-ultimate-guide-for-2024/"><u>[Updated] How to Watch Deleted YouTube Videos Online in 2 Ways | Ultimate Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-core-principles-of-internet-storytelling/"><u>[Updated] In 2024, Core Principles of Internet Storytelling</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/checking-your-power-supplys-performance-a-guide-by-yl-computing/"><u>Checking Your Power Supply's Performance: A Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-fixes-how-to-recover-default-printer-and-scanner-driver-support-in-windows-10/"><u>Easy Fixes: How to Recover Default Printer and Scanner Driver Support in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-windows-methods-to-record-conversations/"><u>Effective Windows Methods to Record Conversations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/error-2e-in-windows-how-to-resume-update-process/"><u>Error 2E in Windows: How to Resume Update Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-0x80072efd-a-windows-store-error-solution/"><u>Fixing 0X80072EFD: A Windows Store Error Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacks-improve-reading-of-excel-data-on-windows-notepad/"><u>Hacks: Improve Reading of Excel Data on Windows Notepad</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/inexpensive-pc-monitoring-software/"><u>Inexpensive PC Monitoring Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-browser-interactivity-enable-gesture-navigation-in-windows-11s-edge/"><u>Maximizing Browser Interactivity: Enable Gesture Navigation in Windows 11'S Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-and-streamline-commands-in-modern-windows-systems/"><u>Optimize and Streamline Commands in Modern Windows Systems</u></a></li>
 </ul></div>
 

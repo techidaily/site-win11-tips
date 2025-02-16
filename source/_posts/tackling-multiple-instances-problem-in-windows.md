@@ -1,7 +1,7 @@
 ---
 title: Tackling 'Multiple Instances' Problem in Windows
-date: 2025-01-30T01:50:04.489Z
-updated: 2025-02-02T19:55:46.804Z
+date: 2025-02-12T16:05:02.787Z
+updated: 2025-02-16T02:19:30.637Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Reinstall Microsoft Visual C++ Packages
 
  Problems with the current Visual C++ packages on your PC can often result in the “Side-by-side configuration is incorrect” error on Windows. If that's the case, you must reinstall the problematic Visual C++ package on your computer. To do so, you'll need to find its version number using Event Viewer. Here's how you can go about it.
@@ -39,18 +35,10 @@ thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb
 ![Event Viewer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Event-Viewer-on-Windows.jpg)
 4. Choose the most recent side-by-side error from the middle pane and note down the version number under the**General** tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Open up your web browser and head over to the[Microsoft Visual C++ Redistributable download page](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) .
 6. Download and install the Visual C++ package corresponding to your version number.
 
  Restart your PC after this (see[how to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and try to launch your app or program one more time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Scans
 
@@ -69,6 +57,10 @@ To run the SFC scan on your computer:
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
  After the process is complete, exit the Command Prompt window and restart your PC. The error should not appear anymore after the reboot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Program Compatibility Troubleshooter
 
@@ -95,10 +87,6 @@ To run the SFC scan on your computer:
 
  Alternatively, you can repair your apps and programs from Control Panel. To learn more about this, check our guide on[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Reinstall the Problematic App
 
  Repairing the app may not help much if the existing app data is corrupted or missing. In that case, your only option is to uninstall the problematic app and install it again.
@@ -108,10 +96,14 @@ To run the SFC scan on your computer:
 3. Select**Uninstall** again to confirm.  
 ![Uninstall App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Uninstall-App-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Head over to Microsoft Store and install the app again. Following this, the error should not bother you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Scan for Malware
@@ -120,6 +112,10 @@ To run the SFC scan on your computer:
 
  If the scan uncovers anything suspicious, take the recommended steps to fix the issue and reboot your PC after that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Install Pending Windows Updates
 
  Microsoft regularly releases updates for the Windows operating system. Aside from new features and security patches, these updates also bring much-needed fixes for bugs and other errors. You can try updating Windows to its most recent version to see if that makes a difference.
@@ -127,6 +123,14 @@ To run the SFC scan on your computer:
  Press**Win + I** to open the Settings app and navigate to the**Windows Update** section. Click on**Check for updates** to download and install pending updates.
 
 ![Check for System Updates on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-for-System-Updates-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Perform a System Restore
 
@@ -144,10 +148,6 @@ To perform a system restore on Windows:
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/System-Restore-Dialog-on-Windows.jpg)
 
  Windows will restart and revert to the specified restore point. Following that, the error should be resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Start Using Your Apps Again
 
@@ -168,22 +168,19 @@ To perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/onquer-the-crowd-initiating-your-top-ranked-gaming-channel-for-2024/"><u>[New] Conquer the Crowd Initiating Your Top-Ranked Gaming Channel for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-unveiling-the-numbers-comprehensive-guide-to-count-views-clicks-and-cash-in-youtube-for-2024/"><u>[Updated] Unveiling the Numbers Comprehensive Guide to Count Views, Clicks, and Cash in YouTube for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-ways-to-check-your-windows-computers-model-name/"><u>6 Ways to Check Your Windows Computer's Model Name</u></a></li>
-<li><a href="https://facebook.techidaily.com/addressing-inoperative-fb-postmessage-indicators/"><u>Addressing Inoperative FB Post/Message Indicators</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/breakthrough-backdrop-selection-revolutionize-your-tiktok-videos/"><u>Breakthrough Backdrop Selection Revolutionize Your TikTok Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-study-experience-dive-into-asus-vivobook-s-15/"><u>Elevate Your Study Experience: Dive Into ASUS Vivobook S 15</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-non-windows-tools-that-outperform-snipping-tool/"><u>Essential Non-Windows Tools That Outperform Snipping Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-11s-zip-compression-issues-quickly/"><u>Fixing Windows 11'S Zip Compression Issues Quickly</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-effortless-techniques-to-archive-google-call-transcripts/"><u>In 2024, Effortless Techniques to Archive Google Call Transcripts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keys-fans-ultimate-guide-to-score-lifetime-windows-11-at-unbeatable-price/"><u>Keys Fans' Ultimate Guide to Score Lifetime Windows 11 at Unbeatable Price</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nubia-red-magic-8s-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nubia Red Magic 8S Pro Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/never-again-struggle-with-file-explorer-on-windows-11/"><u>Never Again Struggle with File Explorer on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-resetting-windows-11-mailcalendar/"><u>Quick Guide: Resetting Windows 11 Mail/Calendar</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/teaching-with-technology-incorporating-youtube-into-lessons/"><u>Teaching with Technology Incorporating YouTube Into Lessons</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-playbook-winning-at-ps1-gaming-on-windows-duckstation-edition/"><u>The Ultimate Playbook: Winning at PS1 Gaming on Windows - Duckstation Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-screens-skip-pin-in-windows-11-projections/"><u>Unlocking Screens: Skip PIN in Windows 11 Projections</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-blurring-the-focus-bokeh-wonders-in-stories/"><u>[New] 2024 Approved Blurring the Focus Bokeh Wonders in Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fine-tuning-your-fly-top-tips-for-choosing-drone-propellers/"><u>[New] Fine-Tuning Your Fly Top Tips for Choosing Drone Propellers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-auditory-purity-in-ffmpeg-a-format-friendly-perspective/"><u>[Updated] 2024 Approved Auditory Purity in FFmpeg A Format-Friendly Perspective</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-full-spectrum-review-exploring-digital-performances-evolution/"><u>[Updated] 2024 Approved Full Spectrum Review Exploring Digital Performance's Evolution</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-your-guide-to-the-top-5-chromebook-sniping-software/"><u>[Updated] Your Guide to the Top 5 Chromebook Sniping Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/establishing-custom-default-typography-setting-standard-fonts-and-sizes-in-new-excel-sheets/"><u>Establishing Custom Default Typography: Setting Standard Fonts & Sizes in New Excel Sheets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/excel-tutorial-building-your-first-radar-chart-from-scratch/"><u>Excel Tutorial: Building Your First Radar Chart From Scratch</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-clean-up-your-windows-email-protected-with-revouninstaller/"><u>Expert Advice: How to Clean Up Your Windows ^[Email Protected] With RevoUninstaller</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-reno-11f-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo Reno 11F 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-clustering-multiple-pie-graphs-together-in-microsoft-excel-easily-and-accurately/"><u>Guide to Clustering Multiple Pie Graphs Together in Microsoft Excel Easily and Accurately</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-how-to-implement-mac-os-x-quick-look-functionality-in-windows/"><u>Guide: How to Implement Mac OS X Quick Look Functionality in Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-data-representation-crafting-graphs-using-microsoft-excel-tutorials/"><u>Mastering Data Representation: Crafting Graphs Using Microsoft Excel Tutorials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-excel-macros-streamline-your-workflow-and-eliminate-repetitive-chores/"><u>Mastering Excel Macros: Streamline Your Workflow and Eliminate Repetitive Chores</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Leveraging Rufus to Override Win11's TPM/Secure Boot Systems
-date: 2025-01-29T02:40:20.159Z
-updated: 2025-02-03T00:03:56.482Z
+date: 2025-02-12T18:29:19.851Z
+updated: 2025-02-16T02:07:54.835Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Is Rufus the Tool for the Job?
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
  Apart from that, it can also remove the infuriating requirement of signing in using a Microsoft Account before setting up your Windows 11 PC. These two requirements deter a lot of users from trying out Windows 11, but Rufus can now bypass both of these. All you need to do is configure Rufus to create a bootable USB drive.
 
  Apart from these two tweaks, Rufus can also speed up the installation process by avoiding the setup pages for tracking, [disabling BitLocker encryption](https://www.makeuseof.com/windows-10-disable-or-suspend-bitlocker/), and settings the same language and region options as the computer you are using to create a bootable USB drive. So, you can prepare a Windows 11 bootable drive that takes less time to install and set up on a new system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create a Bootable USB Drive Which Bypasses Windows 11 Requirements Using Rufus
 
@@ -60,11 +64,7 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 5. Lastly, click on the **OK** button and wait for Rufus to create the bootable Windows 11 USB drive. Eject the drive after you see a “**Ready**” message.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install the Modified Windows 11 on Your System
@@ -82,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 
 ![Install the Modified Windows 11 on Your System 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Accept the EULA and click on the **Next** button. Then, click on the **Custom** option.
 2. Pick the drive where you want to install Windows 11\. Click on the **Format** button to format the drive and click on **Next**.
 3. The setup will begin installing Windows 11 automatically. However, if TPM and Secure Boot bypass weren’t in place, you would never make it past the Enter product key page.  
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 
 ![Windows 11 up and running on an unsupported system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-up-and-running-on-an-unsupported-system.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Benefits of Using Rufus to Create a Custom Windows 11 Installation Media
 
  Rufus isn’t just a means to bypass the Windows 11 stern requirements on an unsupported system. It can also help you avoid the excessively long route Windows 11 setup forces you to take while installing the operating system. Forcing users to sign up or sign in using a Microsoft Account, downloading and installing updates, and not allowing them to [proceed with a Windows installation without an internet connection](https://www.makeuseof.com/windows-11-set-up-without-internet-connection/) end up ruining the user experience.
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
  However, you will need to set up a new PIN if you plan to inherit the same username and region options as your main Windows computer. Otherwise, you won’t be able to log in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Frictionless Windows 11 Installation With Rufus
@@ -128,21 +128,19 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-8-free-software-solutions-revolutionizing-corporate-video-meetings/"><u>[New] 2024 Approved Top 8 Free Software Solutions Revolutionizing Corporate Video Meetings</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-securely-downloading-youtube-audios-3-easy-and-reliable-methods-for-2024/"><u>[Updated] Securely Downloading YouTube Audios 3 Easy & Reliable Methods for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-step-by-step-instagram-reels-production-process-for-2024/"><u>[Updated] Step-by-Step Instagram Reels Production Process for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-finishing-touch-journalisms-close-call/"><u>[Updated] The Finishing Touch Journalism's Close Call</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/create-individualized-keystroke-rules-in-windows-11/"><u>Create Individualized Keystroke Rules in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-down-clutter-tackling-large-storage-consumers-in-windows/"><u>Cut Down Clutter: Tackling Large Storage Consumers in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/developers-perception-ais-role/"><u>Developers' Perception: AI's Role</u></a></li>
-<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-win-10s-cc-troubleshooting/"><u>Essential Tips for Win 10'S CC Troubleshooting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-for-loss-of-pin-access-in-windows-11-post-update-fallout/"><u>Fix for Loss of PIN Access in Windows 11 Post-Update Fallout</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/focus-frameworks-key-tools-to-brighten-videos/"><u>Focus Frameworks Key Tools to Brighten Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-anatomy-of-apple-m1-chip-redefining-tech/"><u>The Anatomy of Apple M1 Chip, Redefining Tech</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-generation-of-display-tech-unpacking-what-the-ipad-pros-tandem-oled-reveals-for-tomorrows-gadgets-zdnet/"><u>The Next Generation of Display Tech: Unpacking What the iPad Pro's Tandem OLED Reveals for Tomorrow's Gadgets | ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-secret-techniques-for-a-transparent-windows-11-title-bar/"><u>The Secret Techniques for a Transparent Windows 11 Title Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turning-android-into-a-compatible-webcam-for-windows-11/"><u>Turning Android Into a Compatible Webcam for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-over-old-titles-directing-them-to-my-pictures/"><u>Winning Over Old Titles: Directing Them to My Pictures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-delving-deep-into-ios-video-recording-capabilities-for-2024/"><u>[New] Delving Deep Into IO's Video Recording Capabilities for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-budding-creators-set-up-a-profitable-youtube-chanel/"><u>[New] In 2024, Budding Creators Set Up a Profitable YouTube Chanel</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-listenleads-whats-better-than-dacast-for-2024/"><u>[New] ListenLeads What's Better than DaCast for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-failed-windows-updates-error-0x8024800c/"><u>Correcting Failed Windows Updates (Error 0X8024800C)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-data-integrity-amidst-adaptive-chatgpts/"><u>Ensuring Data Integrity Amidst Adaptive ChatGPTs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-error-0x80070570-and-repairing-files-in-windows-11-os/"><u>Eradicating Error 0X80070570 & Repairing Files in Windows 11 OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-vega-amo-56-driver-update-for-windows-systems-easily/"><u>Get the Latest AMD Vega Amo 56 Driver Update for Windows Systems Easily</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-upgrade-samsung-bdplus-k850-review-update-2023/"><u>In 2024, The Ultimate Upgrade Samsung BD+ K850 Review Update 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-phones-as-windows-microphones/"><u>Leveraging Phones as Windows Microphones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-measures-against-wlanextexe-cpu-spikes/"><u>Proactive Measures Against WLANEXT.EXE CPU Spikes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revisit-your-digital-trail-in-windows-11/"><u>Revisit Your Digital Trail in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/surface-pro-4-driver-setup-for-windows-pcs/"><u>Surface Pro 4 Driver Setup for Windows PCs</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unlock-your-potential-dominant-tiktok-campaigns-and-techniques-for-2024/"><u>Unlock Your Potential Dominant TikTok Campaigns and Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-efficiency-boost-crafting-uwp-app-shortcuts/"><u>Windows 11 Efficiency Boost: Crafting UWP App Shortcuts</u></a></li>
 </ul></div>
 

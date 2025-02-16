@@ -1,7 +1,7 @@
 ---
 title: "Unleash Potential: 7 Efficient Study Strategies on a Windows PC"
-date: 2025-01-27T01:53:33.332Z
-updated: 2025-02-01T01:07:07.610Z
+date: 2025-02-09T01:51:35.510Z
+updated: 2025-02-15T18:30:57.788Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Create an Organized Folder Structure
 
  Like any workstation, keeping your files nicely organized helps enhance your productivity. However, things may quickly get disorganized with Downloads, Documents, Pictures, and other folders. Your notes may be scattered across multiple folders, making it difficult to remember where files are located.
@@ -40,15 +36,7 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 ![A Folder In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-folder-in-file-explorer.jpg)
 3. Go inside the folder you just created. Now, let’s create four different folders to organize the folder structure. We’ll use the PARA approach to name the folder. PARA refers to **Projects**, **Areas**, **Resources**, and **Archives**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![PARA Styled Folder Structure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/para-styled-folder-structure.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Here is an overview of how the PARA approach can help organize student materials:
 
@@ -71,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 3. Click **Launch** and log in with your primary Google account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Once logged in, right-click on the Google Drive icon on the taskbar. Click on the gear (settings) icon and then **Preferences**.  
@@ -92,6 +80,14 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
 ![Focus Session Option On Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/focus-session-option-on-windows11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Install Useful Browser Extensions
 
  Our web browsers are one of the most essential apps we visit daily. But did you know that adding extensions (or add-ons) can further improve their functionality and optimize your note-taking workflow?
@@ -106,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
  For non-Chromium based browsers, you can visit the official websites of the respective extensions to download supported add-ons.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Annotate Your PDFs With Drawboard PDF
 
  Wouldn't it be great if you could annotate and take notes directly on PDFs, just like you would on paper? There's a helpful app called Drawboard PDF that makes this possible.
@@ -123,13 +115,21 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 ![Drawboard PDF Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-option.jpg)
 3. Click on **Always** to set Drawboard as your default PDF viewer app.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![App Picker In Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/app-picker-in-windows11.jpg)
 4. The app will ask you to create a new Drawboard account or sign in with your already existing one.
 5. The PDF file should open in Drawboard now. If you've not used Drawboard before, we suggest clicking on the (**+**) plus button on the left side of the ribbon. Set up or configure the annotation tools to add highlights, text, or shapes at your convenience.  
 ![Drawboard PDF Advanced Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-advanced-tools.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Take Digital Notes With Obsidian and OneNote
@@ -153,7 +153,7 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
  We already have a [beginner's guide to get started with Notion](https://www.makeuseof.com/beginners-guide-to-notion/). Besides, you can also browse [Notion templates for students](http://www.notion.so/templates/category/school) to start with an attractive setup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Install ChatGPT on Your PC
@@ -184,15 +184,14 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-how-to-make-your-profile-cover-video-more-attractive/"><u>[Updated] In 2024, How to Make Your Profile Cover Video More Attractive</u></a></li>
-<li><a href="https://blog-min.techidaily.com/eby-you/"><u>無料の動画ダウンロードソフトと効果的な動画セーブ方法についeby You!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/conquer-time-lapse-with-your-canon-camera-for-2024/"><u>Conquer Time-Lapse with Your Canon Camera for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-docker-in-wsl-2-on-windows-platforms/"><u>Mastering Docker in WSL 2 on Windows Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-wi-fi-issues-overcoming-insufficient-action-commands/"><u>Resolving Wi-Fi Issues: Overcoming Insufficient Action Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-windows-11s-0x800f0922-error/"><u>Strategies to Rectify Windows 11'S 0X800F0922 Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-resolving-lunar-client-not-starting-errors/"><u>Techniques for Resolving Lunar Client Not Starting Errors</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-social-lift-transform-from-zero-to-millionth-follower-in-months-for-2024/"><u>The Social Lift Transform From Zero to Millionth Follower in Months for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-magic-5-by-drfone-android/"><u>Universal Unlock Pattern for Honor Magic 5</u></a></li>
-<li><a href="https://win-data.techidaily.com/wiederauffinden-verlorener-fotos-auf-dem-pc-mit-windows-11-schritt-fur-schritt-anleitung/"><u>Wiederauffinden Verlorener Fotos Auf Dem PC Mit Windows 11: Schritt-Für-Schritt Anleitung</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-demystifying-vimeos-triplet-plans-for-content-creators-for-2024/"><u>[New] Demystifying Vimeo's Triplet Plans for Content Creators for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-proven-techniques-to-amplify-your-youtube-presence-for-2024/"><u>[Updated] Proven Techniques to Amplify Your YouTube Presence for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smart-selections-the-premier-list-of-costless-streamers-apps-and-software/"><u>[Updated] Smart Selections The Premier List of Costless Streamers Apps & Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/die-besten-kostenfreien-mp4-transcoder-programme-fur-den-schnellen-und-einfachen-wechsel-von-medienformaten/"><u>Die Besten Kostenfreien MP4-Transcoder Programme Für Den Schnellen Und Einfachen Wechsel Von Medienformaten</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-10-and-11-desktop-context-menu-not-working/"><u>How to Fix the Windows 10 & 11 Desktop Context Menu Not Working</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/interactive-steps-to-peruse-windows-11s-registry-contents/"><u>Interactive Steps to Peruse Windows 11'S Registry Contents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/python-server-integration-effective-windows-file-sharing/"><u>Python Server Integration: Effective Windows File Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-finder-power-adopting-everywhereapp-techniques/"><u>Swift Finder Power: Adopting EverywhereApp Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-short-mastery-from-idea-to-final-product-for-2024/"><u>YouTube Short Mastery From Idea to Final Product for 2024</u></a></li>
 </ul></div>
 

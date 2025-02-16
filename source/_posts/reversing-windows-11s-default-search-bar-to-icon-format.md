@@ -1,7 +1,7 @@
 ---
 title: Reversing Windows 11'S Default Search Bar to Icon Format
-date: 2025-02-01T02:34:04.607Z
-updated: 2025-02-02T19:32:41.344Z
+date: 2025-02-10T17:34:34.140Z
+updated: 2025-02-15T21:35:06.010Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 ![screenshot of the new taskbar search icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_new_search_taskbar_icon.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're keeping Windows 11 updated, you would have had your taskbar search icon change over to a larger bar-shaped icon.
@@ -39,16 +39,12 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  Thankfully, there's a catch-all solution to many of these design changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Restoring Features with ViVeTool
 
 ![screenshot of ViVeTool in system 32](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_vivetool_in_system_32.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ViVeTool is what we'll be using to change this feature back, and it can be found on the[GitHub page for ViVeTool](https://github.com/thebookisclosed/ViVe/releases/tag/v0.3.2) . In order to properly use this program, it needs to be extracted into the right location: System32.
@@ -58,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
  When you're ready, extract the downloaded ZIP for ViVeTool into your System32 folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Restore the Windows 11 Search Bar Icon
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 ![screenshot of the quick command menu opening windows terminal in admin mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_quick_command_windows_terminal_admin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Begin by launching an admin-level terminal window. To do this, right-click on the start menu icon, and hit**Windows Terminal - Admin** . Make sure you click**Yes** to the User Account Control window.
@@ -78,6 +74,10 @@ Next, input the following code into the terminal window:
  You'll know it's successful if you see the message**Successfully set feature configurations** .
 
  Then, all you have to do is restart. Your search icon should return to its original style.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Features Change, Even if You Don’t Want Them To
 
@@ -100,17 +100,22 @@ Next, input the following code into the terminal window:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flash-forward-quick-youtube-playlists-distribution/"><u>[New] 2024 Approved Flash Forward Quick Youtube Playlists Distribution</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-revolutionize-social-networking-with-downloader-tools/"><u>[New] Revolutionize Social Networking with Downloader Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-stay-ahead-of-the-curve-engaging-activities-while-listening-to-talk-shows/"><u>[Updated] 2024 Approved Stay Ahead of The Curve Engaging Activities While Listening to Talk Shows</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-remedying-loss-of-color-contrast-in-online-video-playback/"><u>[Updated] Remedying Loss of Color Contrast in Online Video Playback</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-the-vivid-high-speed-gameplay-on-the-viewsonic-xg272-2k-oled-monitor-in-depth-review/"><u>A Closer Look at the Vivid, High-Speed Gameplay on the ViewSonic XG272-2K OLED Monitor - In Depth Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/breaking-news-delta-air-lines-surprises-passengers-with-unprecedented-offer-as-reported-by-zdnet/"><u>Breaking News: Delta Air Lines Surprises Passengers with Unprecedented Offer, as Reported by ZDNet!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-non-loading-device-drivers-on-windows-11/"><u>Fixing Non-Loading Device Drivers on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-solidify-the-save-feature-on-nvidias-windows-control-center/"><u>How to Solidify the Save Feature on NVidia's Windows Control Center</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/immersive-tech-triumphs-upcoming-top-5-playstation-vr-games/"><u>Immersive Tech Triumphs Upcoming Top 5 PlayStation VR Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-changing-windows-11-default-applications/"><u>Step-by-Step: Changing Windows 11 Default Applications</u></a></li>
-<li><a href="https://some-skills.techidaily.com/turbocharge-fb-video-speed-selective-extensions-and-apps-guidebook-for-2024/"><u>Turbocharge FB Video Speed Selective Extensions & Apps Guidebook for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unnoticed-slowdown-agents-innocent-looking-apps-for-windows-11/"><u>Unnoticed Slowdown Agents: Innocent-Looking Apps for Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-essential-iphones-dive-into-these-top-5-podcast-tools/"><u>[Updated] 2024 Approved Essential iPhones Dive Into These Top 5 Podcast Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-pixels-perfection-leading-online-photo-correction-tech/"><u>[Updated] Pixels Perfection Leading Online Photo Correction Tech</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-most-effective-9-microphone-capture-tools-online-2e/"><u>[Updated] The Most Effective 9 Microphone Capture Tools Online (2E)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-toolwiz-app-unveiled-a-critical-examination-of-its-functionality-for-2024/"><u>[Updated] Toolwiz App Unveiled A Critical Examination of Its Functionality for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decreasing-processor-load-while-engaged-in-virtual-battles/"><u>Decreasing Processor Load While Engaged in Virtual Battles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-unresponsive-roku-tv-devices/"><u>Diagnosing and Repairing Unresponsive Roku TV Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-top-displayed-calculator-on-pcs/"><u>Ensuring Top-Displayed Calculator on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-upgrade-for-ancient-computers-running-windows-11-using-to-go-and-rufus/"><u>Instant Upgrade for Ancient Computers: Running Windows 11 Using To Go & Rufus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/loudness-levelers-essential-apps-for-taking-windows-audio-above-100/"><u>Loudness Levelers: Essential Apps for Taking Windows' Audio Above 100%</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-the-art-of-viral-videos-for-higher-youtube-popularity-for-2024/"><u>Mastering The Art of Viral Videos for Higher YouTube Popularity for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-display-in-windows-11/"><u>Overcoming Missing Display in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/retrieve-your-wingman-copilot-in-ws11s-struggle/"><u>Retrieve Your Wingman (Copilot) In WS11's Struggle</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-your-borderlands-3-stuttering-problems-expert-tips-and-tricks/"><u>Solve Your Borderlands 3 Stuttering Problems - Expert Tips & Tricks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-15-plus-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/and-tricks-for-easily-finding-your-youtube-comments/"><u>Tips & Tricks for Easily Finding Your YouTube Comments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-captcha-on-steam-for-successful-logins/"><u>Unblocking CAPTCHA on Steam for Successful Logins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-your-displays-potential-with-these-simple-steps/"><u>Unlock Your Display's Potential with These Simple Steps</u></a></li>
 </ul></div>
 

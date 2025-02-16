@@ -1,7 +1,7 @@
 ---
 title: Steer Clear of Stuck Arrows in Windows
-date: 2024-08-16T01:21:48.414Z
-updated: 2024-08-17T01:21:48.414Z
+date: 2025-02-08T23:27:16.488Z
+updated: 2025-02-15T16:38:21.270Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/b4bf5489aa58d7829034f75f3060e06c6a303902d
 
  In this guide, we'll show you how to troubleshoot and fix the keyboard arrow keys not working on a Windows machine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  Restarting your computer is the first and simplest method to try when your arrow keys are not working. This can often resolve minor software glitches that might be causing the issue.
 
  Before you restart, make sure to save any open documents or projects so that you don’t lose your progress.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Hardware and Devices Troubleshooter
 
@@ -37,11 +45,12 @@ To run the troubleshooter, follow these steps:
 msdt.exe -id DeviceDiagnostic
 3. The Hardware and Devices Troubleshooter will now open. Click**Next** to start the scan process, and follow the instructions on the screen.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you complete the above steps, restart your computer and check if the arrow keys are now working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Keyboard Troubleshooter
 
@@ -51,20 +60,9 @@ msdt.exe -id DeviceDiagnostic
 2. In the Settings menu, click**System > Troubleshoot > Other troubleshooters** .
 3. Scroll down to the**Keyboard** section and click**Run** .  
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the process and then check if it solves the issue. If not, continue to the next solution.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Try Using a Different Keyboard
 
  This problem can also appear if you're using a faulty keyboard. So, if the arrow keys still don’t work after applying the methods above, try using a different keyboard. You can purchase it from an electronics store or borrow one from a friend to test it out.
@@ -72,8 +70,9 @@ msdt.exe -id DeviceDiagnostic
  Connect the new keyboard to your computer and check to see if the arrow keys are now working. If yes, it means that your original keyboard was damaged and needs to be replaced.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Update the Keyboard Driver
 
  Another possible cause of the arrow keys not working problem is outdated or corrupted drivers. To make sure that this isn’t causing the issue, you should update the keyboard drivers. Here's how to do it.
@@ -85,9 +84,6 @@ msdt.exe -id DeviceDiagnostic
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 5. Choose**Search automatically for drivers** .  
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
  Wait until the process is complete, then restart your computer. After the restart, check if the arrow keys are now working. If not, reinstall the keyboard driver and see if it works.
 
@@ -99,20 +95,18 @@ To reinstall the keyboard driver, follow these steps:
  After you uninstall it, restart your computer and the driver will be reinstalled automatically. Once your computer restarts, check if the arrow keys are now working.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Arrows on the Keyboard Are Now Working
 
  Have you got a problem with your keyboard arrows? It's likely due to outdated or corrupted keyboard drivers in your operating system. You might also have problems with hardware issues like a defective or faulty keyboard. Read this guide, it will help you fix the error and get your arrow keys working again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,8 +115,19 @@ To reinstall the keyboard driver, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-cost-effective-screen-recording-tools/"><u>[New] Essential Cost-Effective Screen Recording Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-creative-potential-embedding-online-videos-in-slideshows/"><u>[New] Unlocking Creative Potential Embedding Online Videos in Slideshows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-video-editor-essentials-top-5-macos-sierra-software/"><u>2024 Approved Professional Video Editor Essentials Top 5 macOS Sierra Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-xiaomi-14-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Xiaomi 14 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-iconic-video-titles-youtubes-most-watched-lore/"><u>In 2024, Iconic Video Titles YouTube's Most-Watched Lore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mapping-out-your-connections-a-netstat-guide-for-windows-11-users/"><u>Mapping Out Your Connections: A Netstat Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritizing-deps-ensuring-vbox-works-smoothly-on-win/"><u>Prioritizing Deps, Ensuring VBox Works Smoothly on Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-rockalldlldll-disappearance-on-pcs/"><u>Repairing Rockalldll.dll Disappearance on PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-setting-up-any-type-of-filter-in-gmail/"><u>Ultimate Guide: Setting Up Any Type of Filter in Gmail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wake-the-world-4-key-steps-to-restore-windows-server-time/"><u>Wake the World: 4 Key Steps to Restore Windows Server Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-users-ready-for-sudo/"><u>Windows Users, Ready for Sudo?</u></a></li>
+</ul></div>
 

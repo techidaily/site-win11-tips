@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Quick Guide to Restart Folders"
-date: 2024-12-16T08:19:16.085Z
-updated: 2024-12-22T07:26:23.578Z
+date: 2025-02-11T16:48:16.274Z
+updated: 2025-02-15T23:11:37.039Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
  Therefore, resetting those folders is a troubleshooting method for fixing Windows 11 update installation issues. Resetting the SoftwareDistribution and Catroot2 folders removes corrupted data they might contain, which rebuilds them. You can reset those folders by deleting their contents or renaming them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Erasing Their Contents
 
  This method for resetting the SoftwareDistribution and Catroot2 folders involves manually eradicating the data in them via File Explorer. It’s also necessary to disable and re-enable certain services via the Command Prompt to ensure they’re not utilizing files in them. Delete the files in the SoftwareDistribution and Catroot2 folders as follows:
@@ -65,7 +61,7 @@ net stop msiserver`
 11. Return to the Command Prompt and execute these separate commands for restarting the disabled services.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `net start bits  
@@ -78,7 +74,7 @@ net start msiserver`
 12. Restart the PC and check for updates after clearing those folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Renaming Them
@@ -89,17 +85,23 @@ net start msiserver`
 2. Repeat step four of the preceding method to execute the commands for disabling services.  
 ![The net stop commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-stop-commands.jpg)
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `ren %systemroot%\system32\catroot2 catroot2.bak`  
 ![The ren catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-catroot2-folder.jpg)
 5. Repeat step 11 of the preceding method by executing the four commands for restarting the disabled services.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The net start command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-start-commands.jpg)
 6. Exit Command Prompt and select to restart your PC.
 
@@ -120,36 +122,17 @@ net start msiserver`
 ![The Quick Fixes tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/quick-fixes-tab.jpg)
 10. Click the **Reset catroo2 Folder** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 11. Exit FixWin and reboot your PC after selecting those options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix Windows Update Issues by Resetting the SoftwareDistribution and Catroot2 Folders
 
  It’s important to resolve update issues when they arise for the sake of keeping Windows updated. Resetting the catroo2 and SoftwareDistribution folders is one of the most effective troubleshooting methods for fixing Windows update errors.
 
  So, try doing that whenever you need to fix an error code shown within the Windows Update tab of Settings.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-mastering-video-production-with-powerdirector-24-for-2024/"><u>[Updated] Mastering Video Production with PowerDirector '24 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-navigating-the-world-of-adobe-storage-options-the-complete-review-and-comparisons/"><u>[Updated] Navigating the World of Adobe Storage Options The Complete Review & Comparisons</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-ace-your-adventures-with-gopro-tips/"><u>2024 Approved Ace Your Adventures with GoPro Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-aural-enhancements-with-video-editing-on-win11/"><u>2024 Approved Aural Enhancements with Video Editing on Win11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wmv-mpeg-movavi-video-converter/"><u>免費在網上 WMV 轉為 MPEG - 使用 Movavi Video Converter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-restoring-itunes-operation-in-windows-environment/"><u>Guide to Restoring iTunes Operation in Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keyboards-on-the-ropes-reclaim-your-arrows/"><u>Keyboards on the Ropes? Reclaim Your Arrows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-secure-files-with-powertoys/"><u>Master the Art of Secure Files with PowerToys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-the-fatal-javascript-error-in-windows-11s-discord/"><u>Navigating Through The Fatal JavaScript Error in Windows 11'S Discord</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/next-gen-learning-vrs-educational-impact-for-2024/"><u>Next-Gen Learning VR's Educational Impact for 2024</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/no-cost-nsv-to-wmv-format-transformation-on-the-web-videosoft/"><u>No-Cost NSV to WMV Format Transformation on the Web - VideoSoft</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-no-notice-errors-in-phone-links-windows-functionality/"><u>Overcoming No-Notice Errors in Phone Link's Windows Functionality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-guide-to-downloading-and-updating-d-link-drivers-for-windows-users/"><u>Quick & Simple Guide to Downloading and Updating D-Link Drivers for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11s-d3dx939-error-fix-guide-here/"><u>Win11's D3DX9_39 Error: Fix Guide Here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-regulating-biometric-access-for-users/"><u>Windows 11: Regulating Biometric Access for Users</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -158,3 +141,22 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-elite-10-in-mac-gif-recording-apps/"><u>[New] The Elite 10 in Mac GIF Recording Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-elevating-effects-a-tiktok-guide-for-2024/"><u>[Updated] Elevating Effects A TikTok Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-bridal-collection-premium-wedding-cinematography-on-youtube-and-vimeo/"><u>[Updated] The Ultimate Bridal Collection Premium Wedding Cinematography on YouTube & Vimeo</u></a></li>
+<li><a href="https://techtrends.techidaily.com/detailed-instructions-to-erase-all-data-from-your-dell-machine/"><u>Detailed Instructions to Erase All Data From Your Dell Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-how-copilot-key-upgrades-your-windows-11-experience/"><u>Discovering How Copilot Key Upgrades Your Windows 11 Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-guide-watching-avi-videos-in-windows-media-player/"><u>Easy Guide: Watching AVI Videos in Windows Media Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-experience-with-these-top-7-tips-36/"><u>Elevate Your Windows Experience with These Top 7 Tips (36)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-trusted-sites-on-windows-11/"><u>How to Add Trusted Sites on Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-s23-ultra-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy S23 Ultra Phone Network-Ready</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-xs-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone XS? How to Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-inactive-wsreset-troubleshooting-steps/"><u>Navigating Through Inactive WSReset Troubleshooting Steps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/quick-lenovo-screen-capture-tips-for-2024/"><u>Quick Lenovo Screen Capture Tips for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/retrogame-enhancement-via-retroarchs-advanced-shading-features/"><u>RetroGame Enhancement via RetroArch’s Advanced Shading Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-keyboard-use-redefine-functionality-via-fn-keys-on-windows-11/"><u>Revolutionize Keyboard Use: Redefine Functionality via FN Keys on Windows 11</u></a></li>
+</ul></div>
+

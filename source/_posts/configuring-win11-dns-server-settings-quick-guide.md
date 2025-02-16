@@ -1,7 +1,7 @@
 ---
 title: Configuring Win11 DNS Server Settings Quick Guide
-date: 2025-01-29T21:00:25.174Z
-updated: 2025-01-31T19:05:41.148Z
+date: 2025-02-11T00:55:57.932Z
+updated: 2025-02-15T20:11:17.866Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Disable the DNS Client Service Using the Registry Editor
 
  Even if you try to use the Command Prompt and run the command to stop the service, it responds with a “the requested pause, continue, or stop is not valid for this service.” message. So, you need to edit the registry settings of the DNS Client service to disable it.
@@ -46,7 +42,7 @@ Repeat the following steps to disable the DNS client service:
 5. Close the Registry editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Press**Win + S** and type**services.msc** . Click on the**Run as administrator** option.
@@ -54,18 +50,18 @@ Repeat the following steps to disable the DNS client service:
 ![Disable the DNS Client Service Using Registry Editor 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-2.jpg)
 8. Close the Services utility and restart your system to apply the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Relaunch the Services panel and find the DNS Client service. It will have a blank status and Startup Type as disabled.  
 ![Disable the DNS Client Service Using Registry Editor 3-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-3-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, DNS Client Service won’t start until you manually tweak its registry key again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is It Possible to Configure the DNS Client Service Without the Registry Editor?
 
@@ -83,6 +79,10 @@ Repeat the following steps to disable the DNS client service:
 
  Open the Registry Editor with administrator privileges and navigate to the DNS Client service path as described in the previous section. Now, you can change the**Value Data** of the**Start DWORD value** to any of the numbers described above.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Quickly Disable the DNS Client Service Using Command Prompt
 
  It is possible to disable the DNS Client Service using Command Prompt as well. All you need to do is run the command to change the Startup Type of the service to "Disabled". Here’s how to do it:
@@ -95,7 +95,7 @@ Repeat the following steps to disable the DNS client service:
 4. **Restart** your system for the changes to take effect. DNS Client Service will remain disabled on your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tweak Your DNS Client Service Easily
@@ -117,24 +117,21 @@ Repeat the following steps to disable the DNS client service:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-decoding-battery-selection-elevate-your-drones-flight/"><u>[New] In 2024, Decoding Battery Selection Elevate Your Drone's Flight</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unveiled-list-leading-top-10-facebook-video-downloaders-for-android/"><u>[New] In 2024, Unveiled List Leading Top 10 Facebook Video Downloaders for Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gimbal-guide-to-enhancing-mirrorless-and-dslr-footage/"><u>[Updated] Gimbal Guide to Enhancing Mirrorless and DSLR Footage</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capturing-every-angle-samsungs-pro-versus-lgs/"><u>Capturing Every Angle Samsung's Pro Versus LG's</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dampen-disruptive-desktop-scroll-dynamics/"><u>Dampen Disruptive Desktop Scroll Dynamics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-busy-files-alert-solutions-for-windows-11-users/"><u>Dealing with Busy Files Alert: Solutions for Windows 11 Users</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/effiziente-kundenbetreuung-bei-moore-blatch-mit-der-neuesten-posteingangssoftware-technologie-verbessern/"><u>Effiziente Kundenbetreuung Bei Moore Blatch Mit Der Neuesten Posteingangssoftware-Technologie Verbessern</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-quick-boot-mode-to-accelerate-pc-launches-on-windows-11/"><u>Enabling Quick Boot Mode to Accelerate PC Launches on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-timers-swiftly-fix-scheduler-errors/"><u>Enhance Timers: Swiftly Fix Scheduler Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11s-package-control-using-wingetui/"><u>Enhancing Windows 11'S Package Control Using WingetUI</u></a></li>
-<li><a href="https://techtrends.techidaily.com/express-yourself-on-instagram-using-funny-and-reactive-gif-comments/"><u>Express Yourself on Instagram Using Funny and Reactive GIF Comments</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-pixelpie-slicer/"><u>In 2024, PixelPie Slicer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-install-guide-adding-portable-menu-items-on-w11/"><u>Quick Install Guide: Adding Portable Menu Items on W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-restoring-file-download-capabilities-within-google-chrome-windows/"><u>Tips for Restoring File Download Capabilities Within Google Chrome, Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-15-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 15 Plus Making It Possible</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/ultimate-guide-the-16-premier-iso-writers-for-cross-platform-use-on-windows-and-mac-systems/"><u>Ultimate Guide: The 16 Premier ISO Writers for Cross-Platform Use on Windows & Mac Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-high-cpu-use-by-windows-extender/"><u>Unraveling High CPU Use by Windows Extender</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-woe-no-more-30-arrow-key-fixes/"><u>Windows Woe No More: 30 Arrow Key Fixes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-clearing-up-youtube-watchlater-stored-list/"><u>[New] 2024 Approved Guide Clearing Up YouTube Watchlater Stored List</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astery-in-migrating-youtube-videos-to-igtv-platform-for-2024/"><u>[New] Mastery in Migrating YouTube Videos to IGTV Platform for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-transforming-images-with-ease-learn-snapseed-today/"><u>[Updated] In 2024, Transforming Images with Ease Learn Snapseed Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-starter-gear-for-gopro-cameras/"><u>2024 Approved Top Starter Gear for GoPro Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-overuse-signal-fixing-chatgpt-on-windowed-systems/"><u>Easing Overuse Signal: Fixing ChatGPT on Windowed Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-impossible-roblox-app-failures/"><u>Eliminating Impossible Roblox App Failures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-rx250-drivers-compatible-with-win7-8-and-10-download-now/"><u>Free Logitech RX250 Drivers: Compatible with Win7, 8 & 10 – Download Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-dism-your-windows-11-image-salvation/"><u>Leveraging Dism: Your Windows 11 Image Salvation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-file-management-on-windows-with-altwindirstat/"><u>Master the Art of File Management on Windows with altWinDirStat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-lsa-not-available-alert-in-windows/"><u>Mitigating LSA Not Available Alert in Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/pinnacle-performance-the-best-8k-camera-technology-for-2024/"><u>Pinnacle Performance The Best 8K Camera Technology for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/rapid-laptop-battery-drainage-causes-and-solutions-expert-tips-by-yl-computing/"><u>Rapid Laptop Battery Drainage: Causes and Solutions - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-your-screens-harmony-uncover-hidden-apps-and-windows-in-windows-11/"><u>Restore Your Screen's Harmony: Uncover Hidden Apps & Windows in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/samsung-galaxy-ai-growth-leads-surpassing-google-in-latest-tech-innovation-rankings/"><u>Samsung Galaxy AI Growth Leads, Surpassing Google in Latest Tech Innovation Rankings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamlessly-connecting-wi-fi-and-ethernet-in-one-operating-system/"><u>Seamlessly Connecting Wi-Fi & Ethernet in One Operating System</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-captioning-in-fcpx-a-beginners-guide-to-adding-subtitles/"><u>Updated 2024 Approved Captioning in FCPX A Beginners Guide to Adding Subtitles</u></a></li>
 </ul></div>
 

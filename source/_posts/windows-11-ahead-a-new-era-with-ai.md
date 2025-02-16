@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Ahead: A New Era with AI"
-date: 2025-01-29T22:43:46.455Z
-updated: 2025-02-03T01:13:15.533Z
+date: 2025-02-12T01:23:30.592Z
+updated: 2025-02-15T17:50:49.414Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AI-powered PCs will become more capable as NPUs reduce strain on the CPU and GPU.
@@ -35,21 +39,21 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 
  The push for new AI-powered devices equipped with powerful NPUs is evidence that some major shifts are coming to Windows 11 and in the near future. While the craze for AI-powered devices might seem to have come out of nowhere, they may soon become as familiar as touchscreen 2-in-1 laptops or ever-sleeker chassis designs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Will Windows 11 Use AI?
 
  It's possible that the way Windows 11 uses AI will change as the technology evolves. Right now, Microsoft is introducing AI-powered PCs, integrated Windows Copilot, AI software, and even adaptive accessories.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI-Powered PCs
 
 ![Microsoft Copilot key on the Tecno Megabook T16 Pro](https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe58471df92be6395b51c092b0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Justin Duino / MakeUseOf
 
@@ -58,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
  Many other laptops feature NPUs (for example, the ASUS Zenbook Duo), but the promotion of the Surface Laptop 6 and Surface Pro 10 is one of the most conspicuous pushes for AI-focused hardware yet. As these devices hit the market, many familiar apps on Windows 11 will integrate AI features.
 
  Microsoft Paint recently incorporated[AI features like Paint Cocreator](https://www.makeuseof.com/paint-cocreator-ai-images-windows-11/) and[AI background removal](https://www.makeuseof.com/windows-photos-generative-erase/) , while AI in Snipping Tool allows you to quickly copy or redact text from screenshots. Even Clipchamp is incorporating AI, as the new auto-assembly feature provides immediate editing suggestions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Adaptive Accessories and 3D-printed Attachments
 
@@ -83,24 +91,16 @@ Microsoft
 
  Essentially, Windows AI Studio will provide an aggregated catalog of tools from Azure AI Studio and other sources, making it simpler for you to find and fine-tune the right SLM. With all of that heavy lifting out of the way, you'll have more time to focus on the heart of your project.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do Current and Older PCs Support Windows AI?
 
 ![Copilot preview on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-03-161057.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Considering that Windows 10 still holds a majority of the market share and that its share increased as recently as May 2024, it's easy to wonder whether we'll get Windows 10 AI. It looks like older PCs will support Windows AI — integrated Copilot in Windows 10 is available on some devices, and Microsoft is planning on a phased launch for Copilot in Windows 10 in the future.
 
  Older devices will certainly have access to non-OS AI integrations, too. You might already see Copilot integrated into many of your Microsoft Office apps, and you can also[access AI tools through the web](https://www.makeuseof.com/best-ai-web-apps/) . Considering that Windows 10 still has an enormous market share, it's likely that most new AI features for Microsoft software will be supported, too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Windows 11 With AI Be Worth Using?
@@ -122,20 +122,14 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-visionarys-guide-top-5-slow-motion-tech/"><u>[New] 2024 Approved Visionary's Guide Top 5 Slow-Motion Tech</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-winning-strategies-overlay-text-onto-photos-on-windows-mac/"><u>[Updated] In 2024, Winning Strategies Overlay Text Onto Photos on Windows, Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-folder-management-resetting-critical-components-on-ws11/"><u>Effortless Folder Management: Resetting Critical Components on WS11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-tecno-phantom-v-fold-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Tecno Phantom V Fold Without PUK Codes</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-honor-v-purse-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Honor V Purse Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-look-at-facetune-complete-app-revision-for-2024/"><u>In-Depth Look at Facetune Complete App Revision for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-clear-desktop-instructions-for-windows-recycle-bin-auto-empty/"><u>Master Clear Desktop: Instructions for Windows Recycle Bin Auto-Empty</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snip-and-sketch-vs-prtsc-which-screen-capture-wins/"><u>Snip & Sketch Vs. PrtSc: Which Screen Capture Wins?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-undetermined-value-messages-on-windows/"><u>Solutions for 'Undetermined' Value Messages on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-successfully-locating-policy-management-tools/"><u>Steps to Successfully Locating Policy Management Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-savvy-tips-restarting-windows-11-apps/"><u>Tech Savvy Tips: Restarting Windows 11 Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transitioning-notepads-display-from-light-to-dark-theme-win-11/"><u>Transitioning Notepad's Display From Light to Dark Theme (Win 11)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/sh-hd-vision-utilizing-youtube-for-clear-videos-for-2024/"><u>Unleash HD Vision Utilizing YouTube for Clear Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-reviewing-ingenuity-moto-z2s-intelligent-evolution/"><u>[New] 2024 Approved Reviewing Ingenuity Moto Z2's Intelligent Evolution</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-troubleshooting-obs-fullscreen-failure-for-2024/"><u>[New] Troubleshooting OBS Fullscreen Failure for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-best-5-gopro-filters-for-underwater-video-shooting/"><u>[Updated] Best 5 GoPro Filters for Underwater Video Shooting</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-diversify-earnings-multiplying-revenue-with-mobile-video-content/"><u>[Updated] Diversify Earnings Multiplying Revenue with Mobile Video Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-execution-slang-for-software-deployment/"><u>Discovering Execution Slang for Software Deployment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-driver-failure-error-on-pcs-running-windows-1011/"><u>Resolving Driver Failure Error on PCs Running Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-your-setup-achieving-batch-software-updates-with-winstall-in-windows-11/"><u>Revolutionize Your Setup: Achieving Batch Software Updates with Winstall in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-pc-control-hotkey-heroes-of-the-auto-world/"><u>Speedy PC Control: Hotkey Heroes of the Auto World</u></a></li>
+<li><a href="https://win-online.techidaily.com/yl-software-solutions-a-comprehensive-guide-to-identifying-and-troubleshooting-your-computers-processor-errors/"><u>YL Software Solutions: A Comprehensive Guide to Identifying and Troubleshooting Your Computer’s Processor Errors</u></a></li>
 </ul></div>
 

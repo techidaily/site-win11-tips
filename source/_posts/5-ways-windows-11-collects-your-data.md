@@ -1,7 +1,7 @@
 ---
 title: 5 Ways Windows 11 Collects Your Data
-date: 2024-08-16T01:20:22.304Z
-updated: 2024-08-17T01:20:22.304Z
+date: 2025-02-11T01:38:54.197Z
+updated: 2025-02-16T02:26:18.373Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 
  In this article, we're listing the different ways Windows 11 collects your personal and non-personal data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Windows 11 Sends Telemetry Data to Microsoft
 
 ![Turning Off the Toggle for Tailored Experiences by Expanding the Menu after Turning Off the Toggle Next to Send Optional Diagnostic Data in Diagnostic and Feedback Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Turning-Off-the-Toggle-for-Tailored-Experiences-by-Expanding-the-Menu-after-Turning-Off-the-Toggle-Next-to-Send-Optional-Diagnostic-Data-in-Diagnostic-and-Feedback-Settings-in-Windows-Settings-App.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Telemetry data is what your Windows 11 devices send to Microsoft in order to improve the quality of Windows and other Microsoft services. While we all love to see quality improvements on our Windows devices, one can't disregard the potential privacy concerns over tech companies collecting our data.
 
@@ -31,19 +39,12 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
  If you feel you're being treated like a lab frog to improve Windows and other Microsoft services, you can easily opt out of it and [stop sharing Telemetry data with Microsoft](https://www.makeuseof.com/windows-10-11-disable-telemetry/). Your Windows 11 PC will work as usual with no drop in performance if you stop sharing Telemetry data with Microsoft.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Windows 11 Collects Data Through Advertising IDs
 
 ![Screenshot showing Advertising IDs in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-20-221046.jpg)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Tech companies assign a unique string of characters to their users to identify them quickly. These are unique identifiers, and they can be cookies, IP addresses, device IDs, MAC addresses, EPC codes, ISBN numbers, D-U-N-S numbers, etc. In Windows 11, that unique identifiers are called Advertising IDs.
 
@@ -56,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 ## 3\. Windows 11 Can Track Your Location
 
 ![location services windows 11 turned on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/location-services-windows-11-on.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows 11 can collect your location data which is necessary for some apps and services to give you proper information. For example, you need to turn on the location service for a weather app to show an accurate weather report in your area.
 
@@ -67,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 ## 4\. Windows 11 Collects Your Activity History
 
 ![clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clear-activity-history.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Activity History is another Windows 11 feature through which Microsoft collects various types of data. This includes which websites you visit, the services you use, and the files you open. As per Microsoft, keeping track of things you do on your computer through Activity History is essential to improve the Windows experience and its services.
@@ -92,8 +91,9 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
  If you don't mind losing some features to protect your privacy, here are [every privacy options you can adjust in Windows 11](https://www.makeuseof.com/windows-11-privacy-options-explained/). And if you want to go even further, check out [how to disable Windows 11's tracking features](https://www.makeuseof.com/disable-windows-11-tracking-features/) too.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Should You Worry About Tech Companies Collecting Your Data?
 
  No tech companies can function and provide you with better services without analyzing users' data. The real question is how safe your data is
@@ -102,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 
  If you're concerned about others peeking into your information, check out these [data privacy habits to practice for protecting your personal data](https://www.makeuseof.com/online-safety-habits-data-privacy/) and [how to make it harder for brokers to collect your data](https://www.makeuseof.com/ways-to-make-it-harder-for-data-brokers-collect-your-data/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Windows 11 Collects Your Data, but Only If You Want
 
  Privacy is an ongoing debate, but transparency is the key, no matter which side you're on. What data Windows 11 can get access to and what it can't is entirely in your hands.
@@ -113,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 
  In this article, we're listing the different ways Windows 11 collects your personal and non-personal data.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -122,5 +117,18 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-photography-powerhouses-for-crisp-composites/"><u>[Updated] 2024 Approved Photography Powerhouses for Crisp Composites</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-enhance-video-conferencing-with-a-blend-of-skype-and-zoom/"><u>[Updated] Enhance Video Conferencing with a Blend of Skype & Zoom</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unveiling-the-most-honest-youtube-growth-services-for-2024/"><u>[Updated] Unveiling the Most Honest Youtube Growth Services for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-your-way-through-uptime-verification-in-windows-11-with-these-tips/"><u>Guide Your Way Through Uptime Verification in Windows 11 with These Tips</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-how-to-fade-out-audio-in-logic-pro/"><u>In 2024, How To Fade Out Audio In Logic Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-subtle-screen-entry-sequence/"><u>In 2024, Subtle Screen Entry Sequence</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-kids-film-studio-a-guide-to-creating-movies/"><u>New In 2024, Kids Film Studio A Guide to Creating Movies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reactivate-frozen-resource-monitors-in-windows-11/"><u>Strategies to Reactivate Frozen Resource Monitors in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-list-best-windows-photo-organizers/"><u>Ultimate List: Best Windows Photo Organizers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncloaking-stealthy-storage-issues-on-windows/"><u>Uncloaking Stealthy Storage Issues on WINDOWS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninterrupted-viewing-9-methods-to-sharpen-video-playback-on-windows/"><u>Uninterrupted Viewing: 9 Methods to Sharpen Video Playback on Windows</u></a></li>
+</ul></div>
 

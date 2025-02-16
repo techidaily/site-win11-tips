@@ -1,7 +1,7 @@
 ---
 title: Overcoming Unchangeable Power Settings in Win11
-date: 2025-01-29T22:41:19.096Z
-updated: 2025-02-02T23:55:36.032Z
+date: 2025-02-15T02:41:30.617Z
+updated: 2025-02-16T03:52:37.056Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Can't You Change the Power Mode in Windows 11?
@@ -60,7 +60,7 @@ Here is how you can proceed:
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, check if you can now change the power mode successfully.
@@ -79,11 +79,15 @@ Here is how you can run the troubleshooter:
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
@@ -100,6 +104,10 @@ powercfg –restoredefaultscheme
 ![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
 5. Once the command is executed, check if you can change the power mode successfully.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
 
 Here is how you can do that:
@@ -115,10 +123,6 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 
 Hopefully, this will resolve the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Revert the System to an Older Working State
 
  Another way to fix the problem is by reverting the system back to a state where you can change the power modes without any issues. This can be achieved using the System Restore feature,[one of the most important PC-Saving Windows Tools available](https://www.makeuseof.com/tag/8-pc-saving-windows-tools-must-not-overlook/) , which periodically creates restore points on the system.
@@ -126,10 +130,6 @@ Hopefully, this will resolve the issue.
  The restore points represent a point in time when the system was in a certain state, and by choosing one, you can return the system to that point in time.
 
  In this case, you can choose a state where the current issue is not present.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Switch Power Modes Easily
 
@@ -152,14 +152,24 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-chuckles-and-characters-a-guide-to-top-meme-generators/"><u>[New] Chuckles & Characters A Guide to Top Meme Generators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerated-pc-data-collection-using-everywhereapp/"><u>Accelerated PC Data Collection Using EverywhereApp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-and-fixing-closed-caption-failures-in-windows-11/"><u>Avoiding and Fixing Closed Caption Failures in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-non-functional-read-aloud-in-office-suite-word/"><u>Fixing Non-Functional Read Aloud in Office Suite (Word)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-infinix-smart-8-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Infinix Smart 8 Pro Phones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-solution-for-0x80072af9-issue/"><u>Mastering Solution for 0X80072AF9 Issue</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/prime-methods-for-youtube-content-into-mpeg-for-2024/"><u>Prime Methods for YouTube Content Into MPEG for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/step-by-step-guide-to-installing-hp-envy-504-printers/"><u>Step-by-Step Guide to Installing HP Envy 504 Printers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-v29-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo V29 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-exploring-the-realm-of-ar-stickers-googles-edge-for-2024/"><u>[New] Exploring the Realm of AR Stickers - Google's Edge for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-exploring-the-updated-windows-11-interface/"><u>[Updated] Exploring the Updated Windows 11 Interface</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-prime-ppts-to-clipmaker/"><u>[Updated] In 2024, Prime PPTs to ClipMaker</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-amplify-iphone-imagery-with-lighting-hacks/"><u>2024 Approved Amplify iPhone Imagery with Lighting Hacks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-viber-out-calling-app-performance-and-reviews/"><u>Expert Insights on Viber Out Calling App Performance & Reviews</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-invalid-service-installation-parameters-in-inf/"><u>Fixing Invalid Service Installation Parameters in INF</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ford-raptor-desktop-backgrounds-and-hd-screensaver-graphics-by-yl-computings-digital-art-collection/"><u>Ford Raptor Desktop Backgrounds & HD Screensaver Graphics by YL Computing's Digital Art Collection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-locating-excel-comments-with-ease-expert-tips-for-effective-searches/"><u>Navigating and Locating Excel Comments with Ease: Expert Tips for Effective Searches</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-fitbit-on-hand-discover-how-you-can-use-microsoft-excel-to-keep-tabs-on-your-personal-health-metrics/"><u>No Fitbit on Hand? Discover How You Can Use Microsoft Excel to Keep Tabs on Your Personal Health Metrics!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-excel-201nce-shortcut-keys-for-special-characters/"><u>Setting Up Excel 201Nce Shortcut Keys for Special Characters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/soon-your-photo-collection-can-be-easily-organized-in-microsoft-excel-for-windows-upcoming-import-functionality-revealed/"><u>Soon, Your Photo Collection Can Be Easily Organized in Microsoft Excel for Windows – Upcoming Import Functionality Revealed!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-computing-the-mean-value-using-microsoft-excel/"><u>Step-by-Step Guide: Computing the Mean Value Using Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-creating-an-elegant-bubble-chart-with-microsoft-excel/"><u>Step-by-Step Guide: Creating an Elegant Bubble Chart with Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-eliminating-smart-tags-from-microsoft-excel-workbooks/"><u>Step-by-Step Guide: Eliminating Smart Tags From Microsoft Excel Workbooks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-modifying-and-customizing-cell-edges-in-microsoft-excel/"><u>Step-by-Step Guide: Modifying and Customizing Cell Edges in Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-modifying-excel-gridline-colors-easily/"><u>Step-by-Step Guide: Modifying Excel Gridline Colors Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-tasks-with-chatgpt-9-essential-strategies-for-easier-living/"><u>Streamline Tasks with ChatGPT: 9 Essential Strategies for Easier Living</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-amd-radeon-r9-driver-fixed-case/"><u>Win10 AMD Radeon R9 Driver Fixed Case</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Reset All User Permissions to Default in Windows 11
-date: 2024-12-21T01:33:14.187Z
-updated: 2024-12-22T09:04:23.413Z
+date: 2025-02-12T16:22:32.130Z
+updated: 2025-02-15T22:00:38.660Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ Let's now explore them in detail.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the Icacls Command
@@ -47,10 +47,6 @@ In the above command, here are the parameters explained:
 * /c – Continues the operation even if errors occur.
 * /reset – This parameter resets the permission options to their default values.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Run the Secedit command
 
  Windows provides the Secedit command to configure and analyze system security. To reset all user permissions using this command, run the command prompt with admin access, then type in the following command:
@@ -62,7 +58,7 @@ In the above command, here are the parameters explained:
  Now press Enter to execute the command. Wait for the process to finish and restart your computer. This will reset the user permissions to the default system settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run the Subinacl Tool
@@ -75,14 +71,14 @@ In the above command, here are the parameters explained:
 3. Click on**Next** and then accept the license agreement terms.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Install the Subinacl tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-the-subinacl-tool.jpg)
 4. Next, copy and paste the following path into the Destination folder:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `C:\Windows\System32`  
@@ -101,6 +97,11 @@ subinacl /subdirectories %SystemDrive% /grant=system=f`
 2. On the Save As window, set the File name to**Reset.cmd** and then select**All Files** from the drop-down menu next to it.  
 ![Reset Windows Update permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-windows-update-permissions.jpg)
 3. Next, select**Desktop** from the left pane and click on**Save** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Now double-click on it to reset the user permissions to default.
 5. This may take a while to complete the procedure, so wait for it to finish.
 
@@ -125,19 +126,19 @@ subinacl /subdirectories %SystemDrive% /grant=system=f`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-ios-compatible-psp-games-the-five-finest-for-2024/"><u>[New] IOS Compatible PSP Games The Five Finest for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-fusion-functionality-combining-watch-mac-access/"><u>[Updated] Fusion Functionality Combining Watch, Mac Access</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-art-of-haul-videography-pre-and-post-editing-processes/"><u>[Updated] In 2024, The Art of Haul Videography Pre and Post Editing Processes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-mp3-converter-convert-mpeg-audio-files-to-aac-m4a-format/"><u>Free MP3 Converter: Convert MPEG Audio Files to AAC M4A Format</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-2022-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone SE (2022) to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-asus-rog-phone-8-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Asus ROG Phone 8 Pro via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/intel-processor-age-detection-a-windows-users-guide-8-methods/"><u>Intel Processor Age Detection: A Windows User’s Guide (8 Methods)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/optimizing-your-experience-viewing-facebook-live-effectively-for-2024/"><u>Optimizing Your Experience Viewing Facebook Live Effectively for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/overcoming-common-challenges-tips-to-correctly-address-steamvr-error-the-unique-approach-of-the-green-belt-in-lean-thinking/"><u>Overcoming Common Challenges: Tips to Correctly Address SteamVR Error The Unique Approach of the 'Green Belt' In Lean Thinking</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-audio-to-your-mute-mac-with-these-effective-fixes-and-tips/"><u>Restore Audio to Your Mute Mac with These Effective Fixes and Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-recognizing-missing-hdd-in-os/"><u>Steps for Recognizing Missing HDD in OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trim-overscan-on-windows-full-screen-perfection-guide/"><u>Trim Overscan on Windows: Full-Screen Perfection Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-your-pc-from-the-grips-of-error-code-22-in-windows-11/"><u>Unlock Your PC From the Grips of Error Code 22 in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-unifying-device-use-for-effortless-stickies/"><u>Windows 11: Unifying Device Use for Effortless Stickies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-5-best-voice-recorders-for-mac-devices-for-2024/"><u>[New] 5 Best Voice Recorders for Mac Devices for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-explore-top-picks-for-high-resolution-4k-panels/"><u>[New] In 2024, Explore Top Picks for High-Resolution 4K Panels</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-navigating-the-world-of-zoom-calls-on-an-android-device/"><u>[New] Navigating the World of Zoom Calls on an Android Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streaming-success-implementing-green-screen-innovations/"><u>[New] Streaming Success Implementing Green Screen Innovations</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-expertise-in-easel-alterations-color-command-for-2024/"><u>[Updated] Expertise in Easel Alterations - Color Command for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-magix-composition-wizard-an-audio-editing-experience/"><u>[Updated] Magix Composition Wizard An Audio Editing Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-line-mastery-navigating-through-windows-error-messages-with-precision-and-skill/"><u>Command Line Mastery: Navigating Through Windows Error Messages with Precision and Skill</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/craft-a-tailored-clutter-free-windows-11-environment/"><u>Craft a Tailored, Clutter-Free Windows 11 Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deal-makers-delight-windows-10-612-lifetime-bf-discount/"><u>Deal-Makers' Delight: Windows 10, $6.12 Lifetime BF Discount</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-se-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone SE to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-language-access-navigating-through-foreign-languages-on-windows/"><u>Quick Language Access: Navigating Through Foreign Languages on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-shared-printer-setup-on-desktops/"><u>Streamlining Shared Printer Setup on Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secret-behind-x80070091-error-in-windows-environments/"><u>Unveiling the Secret Behind X80070091 Error in Windows Environments</u></a></li>
 </ul></div>
 

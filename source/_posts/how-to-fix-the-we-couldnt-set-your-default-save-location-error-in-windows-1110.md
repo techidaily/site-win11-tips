@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “We Couldn't Set Your Default Save Location” Error in Windows 11/10
-date: 2025-01-28T18:01:56.189Z
-updated: 2025-02-02T20:43:28.122Z
+date: 2025-02-13T03:30:00.690Z
+updated: 2025-02-16T00:32:01.031Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,11 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![The Account type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-account-type-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Rename the WindowsApps Directory
@@ -47,16 +51,12 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 5. Rename the folder to **WindowsApps.old** and press **Enter**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Thereafter, try changing the default save location for apps again via Settings.
 
  If that still doesn’t work, then proceed to the next resolution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Delete or Rename the WpSystem Folder
 
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
  Alternatively, delete the WpSystem folder. You can [erase a file or folder in Explorer](https://www.makeuseof.com/windows-11-delete-select-files/) by right-clicking it and selecting **Delete**. If you can’t find that folder or this potential solution doesn’t work, try the next resolution.
 
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set Full System Permission for the System Volume Folder
 
@@ -84,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/security-tab.jpg)
 4. Press the **Continue** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Next, click **Add** to view a Permission Entry window.
 
 1. Click the **Select a principal** option.
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 3. Click on the **OK** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select the **Full control permission** setting.  
@@ -123,22 +123,22 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-streamline-youtube-tweets-on-chrome-performance/"><u>[New] Streamline YouTube Tweets on Chrome Performance</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-reversing-the-consequences-of-a-youtube-ban/"><u>[Updated] In 2024, Reversing the Consequences of a YouTube Ban</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-selective-selection-best-bands-for-ringtones-for-2024/"><u>[Updated] Selective Selection Best Bands for Ringtones for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-infinix-gt-10-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Infinix GT 10 Pro Activity | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-igtv-techniques-seamlessly-transforming-vlogs-for-maximum-views/"><u>2024 Approved IGTV Techniques Seamlessly Transforming Vlogs for Maximum Views</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-understanding-disk-distinctions-c-and-d/"><u>A Guide to Understanding Disk Distinctions (C & D)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoid-potential-issues-with-ipads-key-insights-on-the-risks-of-upgrading-to-ios-16-gizmodaily/"><u>Avoid Potential Issues with iPads – Key Insights on the Risks of Upgrading to iOS 16 | GizmoDaily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-through-windows-update-obstacles-with-error-code-0x800736cc/"><u>Breaking Through Windows Update Obstacles with Error Code 0X800736CC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-hacks-navigating-usage-without-an-official-openai-profile-5-key-tips/"><u>ChatGPT Hacks: Navigating Usage Without an Official OpenAI Profile (5 Key Tips)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-how-clockdate-shows-in-window-11/"><u>Customizing How Clock/Date Shows in Window 11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-hostingers-offerings-a-deep-dive-into-vps-cloud-platforms-and-shared-hosting-options/"><u>Evaluating Hostinger's Offerings: A Deep Dive Into VPS, Cloud Platforms, and Shared Hosting Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-and-solving-win-os-device-errors/"><u>Navigating and Solving Win OS Device Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-windows-screen-saver-wait-time/"><u>Optimize Windows Screen Saver Wait Time</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-hogwarts-legacys-memory-shortage-mistake/"><u>Resolving Hogwarts Legacy's Memory Shortage Mistake</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-11-defender-aguard-on-edge/"><u>Step-by-Step Guide to Windows 11 Defender Aguard on Edge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/switching-to-preferred-pdf-viewer-on-windows/"><u>Switching to Preferred PDF Viewer on Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-samsung-offers-and-discounts-exclusive-insights-on-the-latest-weekly-deals-march-edition/"><u>Top Samsung Offers and Discounts: Exclusive Insights on the Latest Weekly Deals - March Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-screen-snatching-solution/"><u>[New] 2024 Approved Screen Snatching Solution</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-little-legends-top-gaming-adventures/"><u>[New] In 2024, Little Legends Top Gaming Adventures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-depth-look-at-facetune-complete-app-revision-for-2024/"><u>[Updated] In-Depth Look at Facetune Complete App Revision for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/encompassing-activity-survey/"><u>Encompassing Activity Survey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-track-your-windows-ssd-with-win-plus-ssfresh-techniques/"><u>Fast-Track Your Windows SSD with Win + SSFresh Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/groundbreaking-alternatives-to-the-conventional-fbx-recorder-games-for-2024/"><u>Groundbreaking Alternatives to the Conventional FBX Recorder Games for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-default-search-window-action-windows-11-guide/"><u>Halt Default Search Window Action, Windows 11 Guide</u></a></li>
+<li><a href="https://solve-info.techidaily.com/how-to-troubleshoot-unrecognized-media-on-your-scanner-expert-tips-from-yl-computing/"><u>How to Troubleshoot Unrecognized Media on Your Scanner: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opting-out-of-built-in-pc-graphics-on-windows-os/"><u>Opting Out of Built-In PC Graphics on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/push-beyond-the-limits-yuzu-emulator-speed/"><u>Push Beyond the Limits: Yuzu Emulator Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-nvidia-display-issue-in-control-panel/"><u>Resolving Nvidia Display Issue in Control Panel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-trust-in-zerogpt-and-its-detection-counterparts/"><u>Scrutinizing Trust in ZeroGPT & Its Detection Counterparts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-restore-non-functional-network-in-win-os/"><u>Solutions to Restore Non-Functional Network in Win OS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-for-inspirational-daily-living-visual-stories/"><u>Steps for Inspirational Daily Living Visual Stories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-ease-through-the-waiting-gpsvc/"><u>Strategies to Ease Through the Waiting GPSVC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tempo-treasure-trove-compiling-the-best-dj-visuals-download-for-2024/"><u>Tempo Treasure Trove Compiling the Best DJ Visuals Download for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-steps-to-engage-wordpad-in-win-os/"><u>Unveiling the Steps to Engage WordPad in Win OS</u></a></li>
 </ul></div>
 
